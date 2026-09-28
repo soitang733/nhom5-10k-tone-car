@@ -29,6 +29,8 @@ html,body,[class*="css"]{font-family:Arial,sans-serif}
 [data-testid="stSidebar"] *{color:#f8fafc}
 [data-testid="stSidebar"] [data-baseweb="select"] *{color:#14233b!important}
 [data-testid="stSidebar"] [data-baseweb="popover"] *{color:#14233b!important}
+[data-testid="stSidebar"] input[role="combobox"]{color:#14233b!important}
+[data-testid="stSidebar"] button[aria-label="Open"]{color:#14233b!important}
 h1,h2,h3{color:#14233b}
 .hero{background:#14233b;border-radius:14px;padding:28px 35px;color:#fff;margin:0 0 24px}
 .hero h1{color:#fff;margin:0 0 10px;font-size:36px}
