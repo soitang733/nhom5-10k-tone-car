@@ -1,0 +1,5025 @@
+ ITEM 7. 
+ 
+ MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+ The following discussion should be read together with the accompanying Consolidated Financial Statements and Notes to the Consolidated Financial Statements thereto included in ITEM 8, “Financial Statements.” Readers are cautioned that the statements, estimates, projections or outlook contained in this report, including discussions regarding financial prospects, economic conditions, trends and uncertainties contained in this ITEM 7, may constitute forward-looking statements within the meaning of the PSLRA. These forward-looking statements involve risks and uncertainties that may cause our actual results to differ materially from the expectations expressed or implied in the forward-looking statements. A description of some of the risks and uncertainties can be found further below in this ITEM 7 and in Part I, ITEM 1A, “Risk Factors.” 
+ EXECUTIVE OVERVIEW 
+ General 
+ UnitedHealth Group is a diversified health and well-being company dedicated to helping people live healthier lives and helping to make the health system work better for everyone. Through our diversified family of businesses, we leverage core 
+ 
+ 
+ 27 
+ 
+ Table of Contents 
+ 
+ 
+ competencies in advanced, enabling technology; health care data; information and intelligence; and clinical care management and coordination to help meet the demands of the health system. These core competencies are deployed within our two distinct, but strategically aligned, business platforms: health benefits operating under UnitedHealthcare and health services operating under Optum. 
+ We have four reportable segments across our two business platforms, UnitedHealthcare and Optum: 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ UnitedHealthcare, which includes UnitedHealthcare Employer & Individual, UnitedHealthcare Medicare & Retirement, UnitedHealthcare Community & State and UnitedHealthcare Global; 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ OptumHealth; 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ OptumInsight; and 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ OptumRx. 
+ Further information on our business and reportable segments is presented in Part I, ITEM 1, “Business” and in Note 13 of Notes to the Consolidated Financial Statements included in Part II, ITEM 8, “Financial Statements.” 
+ 
+ Recent Developments 
+ We have recognized in our financial results for the fourth quarter 2016 and the year ended December 31, 2016 the previously disclosed $350 million impact of our estimated share of guaranty association assessments resulting from the liquidation of Penn Treaty Network America Insurance Company and its subsidiary (Penn Treaty), following accounting, legal and regulatory consultations in connection with our 10-K filing. This charge will be funded over several years and affected by premium tax credits over time. 
+ For more detail related to the Penn Treaty liquidation, see Note 12 of Notes to the Consolidated Financial Statements included in Part II, ITEM 8, “Financial Statements.” 
+ 
+ Business Trends 
+ Our businesses participate in the United States, Brazilian and certain other international health markets. In the United States, health care spending has grown consistently for many years and comprises approximately 18% of gross domestic product. We expect overall spending on health care to continue to grow in the future, due to inflation, medical technology and pharmaceutical advancement, regulatory requirements, demographic trends in the population and national interest in health and well-being. The rate of market growth may be affected by a variety of factors, including macro-economic conditions and regulatory changes, which have impacted and could further impact our results of operations. 
+ Pricing Trends . To price our health care benefit products, we start with our view of expected future costs. We frequently evaluate and adjust our approach in each of the local markets we serve, considering all relevant factors, such as product positioning, price competitiveness and environmental, competitive, legislative and regulatory considerations. Our review of regulatory considerations involves a focus on minimum MLR thresholds and the risk adjustment that impacts the small group and individual markets. We will continue seeking to balance growth and profitability across all of these dimensions. 
+ The commercial risk market remains highly competitive in both the small group and large group segments. We expect broad-based competition to continue as the industry adapts to individual and employer needs amid reform changes. The ACA included an annual, nondeductible insurance industry tax (Health Insurance Industry Tax) to be levied proportionally across the insurance industry for risk-based health insurance products. A provision in the 2016 Federal Budget imposes a one year moratorium for 2017 on the collection of the Health Insurance Industry Tax. Pricing for contracts that cover some portion of calendar year 2017 will reflect the impact of the moratorium. Additionally, the industry has continued to experience favorable medical cost trends due to moderated utilization, which has impacted the competitive pricing environment. 
+ Medicare Advantage funding continues to be pressured, as discussed below in “Regulatory Trends and Uncertainties.” 
+ We expect continued Medicaid revenue growth due to anticipated increases in the number of people we serve; we also believe that the payment rate environment creates the risk of downward pressure on Medicaid net margin percentages. We continue to take a prudent, market-sustainable posture for both new business and maintenance of existing relationships. We advocate for actuarially sound rates that are commensurate with our medical cost trends and we remain dedicated to partnering with those states that are committed to the long-term viability of their programs. 
+ Medical Cost Trends. Our medical cost trends primarily relate to changes in unit costs, health system utilization and prescription drug costs. We endeavor to mitigate those increases with medical management. Our 2017 management activities include managing costs across all health care categories, including specialty pharmacy spending, as new therapies are introduced at high costs and older drugs experience price increases. 
+ 
+ 
+ 28 
+ 
+ Table of Contents 
+ 
+ 
+ Delivery System and Payment Modernization. The health care market continues to change based on demographic shifts, new regulations, political forces and both payer and patient expectations. Health plans and care providers are being called upon to work together to close gaps in care and improve overall care quality, improve the health of populations and reduce costs. We continue to see a greater number of people enrolled in plans with underlying incentive-based care provider payment models that reward high-quality, affordable care and foster collaboration. We work together with clinicians to leverage our data and analytics to provide the necessary information to close gaps in care and improve overall health outcomes for patients. 
+ We are increasingly rewarding care providers for delivering improvements in quality and cost-efficiency. As of December 31, 2016, we served more than 15 million people through some form of aligned contractual arrangement, including full-risk, shared-risk and bundled episode-of-care and performance incentive payment approaches. As of December 31, 2016, our contracts with value-based elements total nearly $53 billion in annual spending. 
+ This trend is creating needs for health management services that can coordinate care around the primary care physician, including new primary care channels, and for investments in new clinical and administrative information and management systems, which we believe provide growth opportunities for our Optum business platform. 
+ 
+ Regulatory Trends and Uncertainties 
+ Following is a summary of management’s view of the trends and uncertainties related to some of the key provisions of the ACA and other regulatory matters. For additional information regarding the ACA and regulatory trends and uncertainties, see Part I, ITEM 1 “Business - Government Regulation” and ITEM 1A, “Risk Factors.” 
+ Medicare Advantage Rates. Final 2017 Medicare Advantage rates resulted in an increase in industry base rates of approximately 0.85%, well short of the industry forward medical cost trend of 3%, which creates continued pressure in the Medicare Advantage program. The impact of this funding shortfall in Medicare Advantage is partially mitigated by reductions in provider payments for those care providers with rates indexed to Medicare Advantage revenues or Medicare fee-for-service payment rates. These factors can affect our plan benefit designs, pricing, growth prospects and earnings expectations for our Medicare Advantage plans. 
+ The ongoing pressure on Medicare Advantage funding places continued importance on effective medical management and ongoing improvements in administrative efficiency. There are a number of adjustments we have made to partially offset these rate pressures and reductions. In some years, these adjustments will impact the majority of the seniors we serve through Medicare Advantage. For example, we seek to intensify our medical and operating cost management, make changes to the size and composition of our care provider networks, adjust members' benefits, implement or increase the member premiums that supplement the monthly payments we receive from the government and decide on a county-by-county basis where we will offer Medicare Advantage plans. 
+ As Medicare Advantage payments change, other products may become relatively more attractive to Medicare beneficiaries and increase the demand for other senior health benefits products such as our market-leading Medicare Supplement and stand-alone Medicare Part D insurance offerings. 
+ As provided in the ACA, our Medicare Advantage rates are currently enhanced by CMS quality bonuses in certain counties based on our local plans’ Star ratings. The level of Star ratings from CMS, based upon specified clinical and operational performance standards, will impact future quality bonuses. In addition, Star ratings affect the amount of savings a plan can use to offer supplemental benefits, which ultimately may affect the plan’s membership and revenue. For the 2016 payment year, approximately 57% of our Medicare Advantage members were in plans rated four stars or higher. We expect that at least 80% of our Medicare Advantage members will be in plans rated four stars or higher for payment year 2017. We continue to dedicate substantial resources to advance our quality scores and Star ratings to strengthen our local market programs and further improve our performance. 
+ Health Insurance Industry Tax and Premium Stabilization Programs. The industry-wide amount of the Health Insurance Industry Tax was $11.3 billion in 2016 and we paid our portion of the tax, which was $1.8 billion, in September 2016. A provision in the 2016 Federal Budget imposes a one year moratorium for 2017 on the collection of the Health Insurance Industry Tax. The Health Insurance Industry Tax is scheduled to be imposed for 2018 and beyond. In 2018, the industry-wide amount of the Health Insurance Industry Tax is expected to be $14.3 billion. The ACA also included three programs designed to stabilize the health insurance markets. These programs encompassed: a transitional reinsurance program; a temporary risk corridors program; and a permanent risk adjustment program. The transitional reinsurance and temporary risk corridors programs expired at the end of 2016. 
+ Individual Public Exchanges. In 2016, we participated in individual public exchanges in 34 states and offered individual ACA compliant products. We recorded a premium deficiency reserve for a portion of our estimated 2016 losses in our 2015 results 
+ 
+ 
+ 29 
+ 
+ Table of Contents 
+ 
+ 
+ for in-force contracts as of January 1, 2016. During 2016, we incurred additional losses in our individual ACA compliant products and, for 2017, reduced our participation to three individual public exchanges. We expect to reduce the number of consumers we serve through individual insurance plans by nearly 1 million people in 2017, which will reduce our premium revenues by more than $4 billion. 
+ 
+ RESULTS SUMMARY 
+ The following table summarizes our consolidated results of operations and other financial information: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (in millions, except percentages and per share data) 
+ 
+ 
+ 
+ For the Years Ended December 31, 
+ 
+ 
+ 
+ Change 
+ 
+ 
+ 
+ Change 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 2014 
+ 
+ 
+ 
+ 2016 vs. 2015 
+ 
+ 
+ 
+ 2015 vs. 2014 
+ 
+ 
+ Revenues: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Premiums 
+ 
+ 
+ 
+ $ 
+ 
+ 144,118 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 127,163 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 115,302 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 16,955 
+ 
+ 
+ 
+ 
+ 
+ 13 
+ 
+ % 
+ 
+ 
+ 
+ $ 
+ 
+ 11,861 
+ 
+ 
+ 
+ 
+ 
+ 10 
+ 
+ % 
+ 
+ 
+ Products 
+ 
+ 
+ 
+ 26,658 
+ 
+ 
+ 
+ 
+ 
+ 17,312 
+ 
+ 
+ 
+ 
+ 
+ 4,242 
+ 
+ 
+ 
+ 
+ 
+ 9,346 
+ 
+ 
+ 
+ 
+ 
+ 54 
+ 
+ 
+ 
+ 
+ 
+ 13,070 
+ 
+ 
+ 
+ 
+ 
+ 308 
+ 
+ 
+ 
+ 
+ Services 
+ 
+ 
+ 
+ 13,236 
+ 
+ 
+ 
+ 
+ 
+ 11,922 
+ 
+ 
+ 
+ 
+ 
+ 10,151 
+ 
+ 
+ 
+ 
+ 
+ 1,314 
+ 
+ 
+ 
+ 
+ 
+ 11 
+ 
+ 
+ 
+ 
+ 
+ 1,771 
+ 
+ 
+ 
+ 
+ 
+ 17 
+ 
+ 
+ 
+ 
+ Investment and other income 
+ 
+ 
+ 
+ 828 
+ 
+ 
+ 
+ 
+ 
+ 710 
+ 
+ 
+ 
+ 
+ 
+ 779 
+ 
+ 
+ 
+ 
+ 
+ 118 
+ 
+ 
+ 
+ 
+ 
+ 17 
+ 
+ 
+ 
+ 
+ 
+ (69 
+ 
+ ) 
+ 
+ 
+ 
+ (9 
+ 
+ ) 
+ 
+ 
+ Total revenues 
+ 
+ 
+ 
+ 184,840 
+ 
+ 
+ 
+ 
+ 
+ 157,107 
+ 
+ 
+ 
+ 
+ 
+ 130,474 
+ 
+ 
+ 
+ 
+ 
+ 27,733 
+ 
+ 
+ 
+ 
+ 
+ 18 
+ 
+ 
+ 
+ 
+ 
+ 26,633 
+ 
+ 
+ 
+ 
+ 
+ 20 
+ 
+ 
+ 
+ 
+ Operating costs: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Medical costs 
+ 
+ 
+ 
+ 117,038 
+ 
+ 
+ 
+ 
+ 
+ 103,875 
+ 
+ 
+ 
+ 
+ 
+ 93,633 
+ 
+ 
+ 
+ 
+ 
+ 13,163 
+ 
+ 
+ 
+ 
+ 
+ 13 
+ 
+ 
+ 
+ 
+ 
+ 10,242 
+ 
+ 
+ 
+ 
+ 
+ 11 
+ 
+ 
+ 
+ 
+ Operating costs 
+ 
+ 
+ 
+ 28,401 
+ 
+ 
+ 
+ 
+ 
+ 24,312 
+ 
+ 
+ 
+ 
+ 
+ 21,263 
+ 
+ 
+ 
+ 
+ 
+ 4,089 
+ 
+ 
+ 
+ 
+ 
+ 17 
+ 
+ 
+ 
+ 
+ 
+ 3,049 
+ 
+ 
+ 
+ 
+ 
+ 14 
+ 
+ 
+ 
+ 
+ Cost of products sold 
+ 
+ 
+ 
+ 24,416 
+ 
+ 
+ 
+ 
+ 
+ 16,206 
+ 
+ 
+ 
+ 
+ 
+ 3,826 
+ 
+ 
+ 
+ 
+ 
+ 8,210 
+ 
+ 
+ 
+ 
+ 
+ 51 
+ 
+ 
+ 
+ 
+ 
+ 12,380 
+ 
+ 
+ 
+ 
+ 
+ 324 
+ 
+ 
+ 
+ 
+ Depreciation and amortization 
+ 
+ 
+ 
+ 2,055 
+ 
+ 
+ 
+ 
+ 
+ 1,693 
+ 
+ 
+ 
+ 
+ 
+ 1,478 
+ 
+ 
+ 
+ 
+ 
+ 362 
+ 
+ 
+ 
+ 
+ 
+ 21 
+ 
+ 
+ 
+ 
+ 
+ 215 
+ 
+ 
+ 
+ 
+ 
+ 15 
+ 
+ 
+ 
+ 
+ Total operating costs 
+ 
+ 
+ 
+ 171,910 
+ 
+ 
+ 
+ 
+ 
+ 146,086 
+ 
+ 
+ 
+ 
+ 
+ 120,200 
+ 
+ 
+ 
+ 
+ 
+ 25,824 
+ 
+ 
+ 
+ 
+ 
+ 18 
+ 
+ 
+ 
+ 
+ 
+ 25,886 
+ 
+ 
+ 
+ 
+ 
+ 22 
+ 
+ 
+ 
+ 
+ Earnings from operations 
+ 
+ 
+ 
+ 12,930 
+ 
+ 
+ 
+ 
+ 
+ 11,021 
+ 
+ 
+ 
+ 
+ 
+ 10,274 
+ 
+ 
+ 
+ 
+ 
+ 1,909 
+ 
+ 
+ 
+ 
+ 
+ 17 
+ 
+ 
+ 
+ 
+ 
+ 747 
+ 
+ 
+ 
+ 
+ 
+ 7 
+ 
+ 
+ 
+ 
+ Interest expense 
+ 
+ 
+ 
+ (1,067 
+ 
+ ) 
+ 
+ 
+ 
+ (790 
+ 
+ ) 
+ 
+ 
+ 
+ (618 
+ 
+ ) 
+ 
+ 
+ 
+ (277 
+ 
+ ) 
+ 
+ 
+ 
+ 35 
+ 
+ 
+ 
+ 
+ 
+ (172 
+ 
+ ) 
+ 
+ 
+ 
+ 28 
+ 
+ 
+ 
+ 
+ Earnings before income taxes 
+ 
+ 
+ 
+ 11,863 
+ 
+ 
+ 
+ 
+ 
+ 10,231 
+ 
+ 
+ 
+ 
+ 
+ 9,656 
+ 
+ 
+ 
+ 
+ 
+ 1,632 
+ 
+ 
+ 
+ 
+ 
+ 16 
+ 
+ 
+ 
+ 
+ 
+ 575 
+ 
+ 
+ 
+ 
+ 
+ 6 
+ 
+ 
+ 
+ 
+ Provision for income taxes 
+ 
+ 
+ 
+ (4,790 
+ 
+ ) 
+ 
+ 
+ 
+ (4,363 
+ 
+ ) 
+ 
+ 
+ 
+ (4,037 
+ 
+ ) 
+ 
+ 
+ 
+ (427 
+ 
+ ) 
+ 
+ 
+ 
+ 10 
+ 
+ 
+ 
+ 
+ 
+ (326 
+ 
+ ) 
+ 
+ 
+ 
+ 8 
+ 
+ 
+ 
+ 
+ Net earnings 
+ 
+ 
+ 
+ 7,073 
+ 
+ 
+ 
+ 
+ 
+ 5,868 
+ 
+ 
+ 
+ 
+ 
+ 5,619 
+ 
+ 
+ 
+ 
+ 
+ 1,205 
+ 
+ 
+ 
+ 
+ 
+ 21 
+ 
+ 
+ 
+ 
+ 
+ 249 
+ 
+ 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ 
+ Earnings attributable to noncontrolling interests 
+ 
+ 
+ 
+ (56 
+ 
+ ) 
+ 
+ 
+ 
+ (55 
+ 
+ ) 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ (1 
+ 
+ ) 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ (55 
+ 
+ ) 
+ 
+ 
+ 
+ nm 
+ 
+ 
+ Net earnings attributable to UnitedHealth Group common shareholders 
+ 
+ 
+ 
+ $ 
+ 
+ 7,017 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 5,813 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 5,619 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,204 
+ 
+ 
+ 
+ 
+ 
+ 21 
+ 
+ % 
+ 
+ 
+ 
+ $ 
+ 
+ 194 
+ 
+ 
+ 
+ 
+ 
+ 3 
+ 
+ % 
+ 
+ 
+ Diluted earnings per share attributable to UnitedHealth Group common shareholders 
+ 
+ 
+ 
+ $ 
+ 
+ 7.25 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 6.01 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 5.70 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1.24 
+ 
+ 
+ 
+ 
+ 
+ 21 
+ 
+ % 
+ 
+ 
+ 
+ $ 
+ 
+ 0.31 
+ 
+ 
+ 
+ 
+ 
+ 5 
+ 
+ % 
+ 
+ 
+ Medical care ratio (a) 
+ 
+ 
+ 
+ 81.2 
+ 
+ % 
+ 
+ 
+ 
+ 81.7 
+ 
+ % 
+ 
+ 
+ 
+ 81.2 
+ 
+ % 
+ 
+ 
+ 
+ (0.5 
+ 
+ )% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.5 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating cost ratio 
+ 
+ 
+ 
+ 15.4 
+ 
+ 
+ 
+ 
+ 
+ 15.5 
+ 
+ 
+ 
+ 
+ 
+ 16.3 
+ 
+ 
+ 
+ 
+ 
+ (0.1 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (0.8 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating margin 
+ 
+ 
+ 
+ 7.0 
+ 
+ 
+ 
+ 
+ 
+ 7.0 
+ 
+ 
+ 
+ 
+ 
+ 7.9 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (0.9 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Tax rate 
+ 
+ 
+ 
+ 40.4 
+ 
+ 
+ 
+ 
+ 
+ 42.6 
+ 
+ 
+ 
+ 
+ 
+ 41.8 
+ 
+ 
+ 
+ 
+ 
+ (2.2 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net earnings margin (b) 
+ 
+ 
+ 
+ 3.8 
+ 
+ 
+ 
+ 
+ 
+ 3.7 
+ 
+ 
+ 
+ 
+ 
+ 4.3 
+ 
+ 
+ 
+ 
+ 
+ 0.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (0.6 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Return on equity (c) 
+ 
+ 
+ 
+ 19.4 
+ 
+ % 
+ 
+ 
+ 
+ 17.7 
+ 
+ % 
+ 
+ 
+ 
+ 17.3 
+ 
+ % 
+ 
+ 
+ 
+ 1.7 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.4 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ nm= not meaningful 
+ 
+ 
+ 
+ 
+ 
+ (a) 
+ 
+ Medical care ratio is calculated as medical costs divided by premium revenue. 
+ 
+ 
+ 
+ 
+ 
+ (b) 
+ 
+ Net earnings margin attributable to UnitedHealth Group shareholders. 
+ 
+ 
+ 
+ 
+ 
+ (c) 
+ 
+ Return on equity is calculated as annualized net earnings divided by average equity. Average equity is calculated using the equity balance at the end of the preceding year and the equity balances at the end of each of the four quarters in the year presented. 
+ SELECTED OPERATING PERFORMANCE AND OTHER SIGNIFICANT ITEMS 
+ The following represents a summary of select 2016 year-over-year operating comparisons to 2015 and other 2016 significant items. 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Consolidated revenues increased by 18% , UnitedHealthcare revenues increased 13% and Optum revenues grew 24% . 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ UnitedHealthcare grew to serve an additional 2.1 million people domestically. 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Earnings from operations increased by 17% , including increases of 8% at UnitedHealthcare and 32% at Optum. 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Diluted earnings per common share increased 21% to $7.25 . 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Cash flows from operations were $9.8 billion . 
+ 
+ 
+ 30 
+ 
+ Table of Contents 
+ 
+ 
+ 2016 RESULTS OF OPERATIONS COMPARED TO 2015 RESULTS 
+ Our results of operations were affected by our acquisition of Catamaran in the third quarter of 2015. 
+ Consolidated Financial Results 
+ Revenues 
+ The increases in revenues were primarily driven by organic growth in the number of individuals served across our UnitedHealthcare benefits businesses and growth across all of our Optum services businesses. 
+ Medical Costs 
+ Medical costs increased due to risk-based membership growth and medical cost trends, partially offset by medical management initiatives. 
+ Income Tax Rate 
+ Our effective tax rate decreased primarily due to the adoption of the ASU 2016-09, which we adopted in the first quarter of 2016. See Note 2 of Notes to the Consolidated Financial Statements included in Part II, ITEM 8 , of this report for more information about the adoption of ASU 2016-09. 
+ Reportable Segments 
+ See Note 13 of Notes to the Consolidated Financial Statements included in Part II, ITEM 8, “Financial Statements” for more information on our segments. The following table presents a summary of the reportable segment financial information: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Years Ended December 31, 
+ 
+ 
+ 
+ Change 
+ 
+ 
+ 
+ Change 
+ 
+ 
+ (in millions, except percentages) 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 2014 
+ 
+ 
+ 
+ 2016 vs. 2015 
+ 
+ 
+ 
+ 2015 vs. 2014 
+ 
+ 
+ Revenues 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ UnitedHealthcare 
+ 
+ 
+ 
+ $ 
+ 
+ 148,581 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 131,343 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 119,798 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 17,238 
+ 
+ 
+ 
+ 
+ 
+ 13 
+ 
+ % 
+ 
+ 
+ 
+ $ 
+ 
+ 11,545 
+ 
+ 
+ 
+ 
+ 
+ 10 
+ 
+ % 
+ 
+ 
+ OptumHealth 
+ 
+ 
+ 
+ 16,908 
+ 
+ 
+ 
+ 
+ 
+ 13,927 
+ 
+ 
+ 
+ 
+ 
+ 11,032 
+ 
+ 
+ 
+ 
+ 
+ 2,981 
+ 
+ 
+ 
+ 
+ 
+ 21 
+ 
+ 
+ 
+ 
+ 
+ 2,895 
+ 
+ 
+ 
+ 
+ 
+ 26 
+ 
+ 
+ 
+ 
+ OptumInsight 
+ 
+ 
+ 
+ 7,333 
+ 
+ 
+ 
+ 
+ 
+ 6,196 
+ 
+ 
+ 
+ 
+ 
+ 5,227 
+ 
+ 
+ 
+ 
+ 
+ 1,137 
+ 
+ 
+ 
+ 
+ 
+ 18 
+ 
+ 
+ 
+ 
+ 
+ 969 
+ 
+ 
+ 
+ 
+ 
+ 19 
+ 
+ 
+ 
+ 
+ OptumRx 
+ 
+ 
+ 
+ 60,440 
+ 
+ 
+ 
+ 
+ 
+ 48,272 
+ 
+ 
+ 
+ 
+ 
+ 31,976 
+ 
+ 
+ 
+ 
+ 
+ 12,168 
+ 
+ 
+ 
+ 
+ 
+ 25 
+ 
+ 
+ 
+ 
+ 
+ 16,296 
+ 
+ 
+ 
+ 
+ 
+ 51 
+ 
+ 
+ 
+ 
+ Optum eliminations 
+ 
+ 
+ 
+ (1,088 
+ 
+ ) 
+ 
+ 
+ 
+ (791 
+ 
+ ) 
+ 
+ 
+ 
+ (489 
+ 
+ ) 
+ 
+ 
+ 
+ (297 
+ 
+ ) 
+ 
+ 
+ 
+ 38 
+ 
+ 
+ 
+ 
+ 
+ (302 
+ 
+ ) 
+ 
+ 
+ 
+ 62 
+ 
+ 
+ 
+ 
+ Optum 
+ 
+ 
+ 
+ 83,593 
+ 
+ 
+ 
+ 
+ 
+ 67,604 
+ 
+ 
+ 
+ 
+ 
+ 47,746 
+ 
+ 
+ 
+ 
+ 
+ 15,989 
+ 
+ 
+ 
+ 
+ 
+ 24 
+ 
+ 
+ 
+ 
+ 
+ 19,858 
+ 
+ 
+ 
+ 
+ 
+ 42 
+ 
+ 
+ 
+ 
+ Eliminations 
+ 
+ 
+ 
+ (47,334 
+ 
+ ) 
+ 
+ 
+ 
+ (41,840 
+ 
+ ) 
+ 
+ 
+ 
+ (37,070 
+ 
+ ) 
+ 
+ 
+ 
+ (5,494 
+ 
+ ) 
+ 
+ 
+ 
+ 13 
+ 
+ 
+ 
+ 
+ 
+ (4,770 
+ 
+ ) 
+ 
+ 
+ 
+ 13 
+ 
+ 
+ 
+ 
+ Consolidated revenues 
+ 
+ 
+ 
+ $ 
+ 
+ 184,840 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 157,107 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 130,474 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 27,733 
+ 
+ 
+ 
+ 
+ 
+ 18 
+ 
+ % 
+ 
+ 
+ 
+ $ 
+ 
+ 26,633 
+ 
+ 
+ 
+ 
+ 
+ 20 
+ 
+ % 
+ 
+ 
+ Earnings from operations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ UnitedHealthcare 
+ 
+ 
+ 
+ $ 
+ 
+ 7,307 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 6,754 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 6,992 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 553 
+ 
+ 
+ 
+ 
+ 
+ 8 
+ 
+ % 
+ 
+ 
+ 
+ $ 
+ 
+ (238 
+ 
+ ) 
+ 
+ 
+ 
+ (3 
+ 
+ )% 
+ 
+ 
+ OptumHealth 
+ 
+ 
+ 
+ 1,428 
+ 
+ 
+ 
+ 
+ 
+ 1,240 
+ 
+ 
+ 
+ 
+ 
+ 1,090 
+ 
+ 
+ 
+ 
+ 
+ 188 
+ 
+ 
+ 
+ 
+ 
+ 15 
+ 
+ 
+ 
+ 
+ 
+ 150 
+ 
+ 
+ 
+ 
+ 
+ 14 
+ 
+ 
+ 
+ 
+ OptumInsight 
+ 
+ 
+ 
+ 1,513 
+ 
+ 
+ 
+ 
+ 
+ 1,278 
+ 
+ 
+ 
+ 
+ 
+ 1,002 
+ 
+ 
+ 
+ 
+ 
+ 235 
+ 
+ 
+ 
+ 
+ 
+ 18 
+ 
+ 
+ 
+ 
+ 
+ 276 
+ 
+ 
+ 
+ 
+ 
+ 28 
+ 
+ 
+ 
+ 
+ OptumRx 
+ 
+ 
+ 
+ 2,682 
+ 
+ 
+ 
+ 
+ 
+ 1,749 
+ 
+ 
+ 
+ 
+ 
+ 1,190 
+ 
+ 
+ 
+ 
+ 
+ 933 
+ 
+ 
+ 
+ 
+ 
+ 53 
+ 
+ 
+ 
+ 
+ 
+ 559 
+ 
+ 
+ 
+ 
+ 
+ 47 
+ 
+ 
+ 
+ 
+ Optum 
+ 
+ 
+ 
+ 5,623 
+ 
+ 
+ 
+ 
+ 
+ 4,267 
+ 
+ 
+ 
+ 
+ 
+ 3,282 
+ 
+ 
+ 
+ 
+ 
+ 1,356 
+ 
+ 
+ 
+ 
+ 
+ 32 
+ 
+ 
+ 
+ 
+ 
+ 985 
+ 
+ 
+ 
+ 
+ 
+ 30 
+ 
+ 
+ 
+ 
+ Consolidated earnings from operations 
+ 
+ 
+ 
+ $ 
+ 
+ 12,930 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 11,021 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 10,274 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,909 
+ 
+ 
+ 
+ 
+ 
+ 17 
+ 
+ % 
+ 
+ 
+ 
+ $ 
+ 
+ 747 
+ 
+ 
+ 
+ 
+ 
+ 7 
+ 
+ % 
+ 
+ 
+ Operating margin 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ UnitedHealthcare 
+ 
+ 
+ 
+ 4.9 
+ 
+ % 
+ 
+ 
+ 
+ 5.1 
+ 
+ % 
+ 
+ 
+ 
+ 5.8 
+ 
+ % 
+ 
+ 
+ 
+ (0.2 
+ 
+ )% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (0.7 
+ 
+ )% 
+ 
+ 
+ 
+ 
+ 
+ 
+ OptumHealth 
+ 
+ 
+ 
+ 8.4 
+ 
+ 
+ 
+ 
+ 
+ 8.9 
+ 
+ 
+ 
+ 
+ 
+ 9.9 
+ 
+ 
+ 
+ 
+ 
+ (0.5 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1.0 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ OptumInsight 
+ 
+ 
+ 
+ 20.6 
+ 
+ 
+ 
+ 
+ 
+ 20.6 
+ 
+ 
+ 
+ 
+ 
+ 19.2 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1.4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OptumRx 
+ 
+ 
+ 
+ 4.4 
+ 
+ 
+ 
+ 
+ 
+ 3.6 
+ 
+ 
+ 
+ 
+ 
+ 3.7 
+ 
+ 
+ 
+ 
+ 
+ 0.8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (0.1 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Optum 
+ 
+ 
+ 
+ 6.7 
+ 
+ 
+ 
+ 
+ 
+ 6.3 
+ 
+ 
+ 
+ 
+ 
+ 6.9 
+ 
+ 
+ 
+ 
+ 
+ 0.4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (0.6 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Consolidated operating margin 
+ 
+ 
+ 
+ 7.0 
+ 
+ % 
+ 
+ 
+ 
+ 7.0 
+ 
+ % 
+ 
+ 
+ 
+ 7.9 
+ 
+ % 
+ 
+ 
+ 
+ — 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (0.9 
+ 
+ )% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 31 
+ 
+ Table of Contents 
+ 
+ 
+ UnitedHealthcare 
+ The following table summarizes UnitedHealthcare revenues by business: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Years Ended December 31, 
+ 
+ 
+ 
+ Change 
+ 
+ 
+ 
+ Change 
+ 
+ 
+ (in millions, except percentages) 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 2014 
+ 
+ 
+ 
+ 2016 vs. 2015 
+ 
+ 
+ 
+ 2015 vs. 2014 
+ 
+ 
+ UnitedHealthcare Employer & Individual 
+ 
+ 
+ 
+ $ 
+ 
+ 53,084 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 47,194 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 43,017 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 5,890 
+ 
+ 
+ 
+ 
+ 
+ 12 
+ 
+ % 
+ 
+ 
+ 
+ $ 
+ 
+ 4,177 
+ 
+ 
+ 
+ 
+ 
+ 10 
+ 
+ % 
+ 
+ 
+ UnitedHealthcare Medicare & Retirement 
+ 
+ 
+ 
+ 56,329 
+ 
+ 
+ 
+ 
+ 
+ 49,735 
+ 
+ 
+ 
+ 
+ 
+ 46,258 
+ 
+ 
+ 
+ 
+ 
+ 6,594 
+ 
+ 
+ 
+ 
+ 
+ 13 
+ 
+ 
+ 
+ 
+ 
+ 3,477 
+ 
+ 
+ 
+ 
+ 
+ 8 
+ 
+ 
+ 
+ 
+ UnitedHealthcare Community & State 
+ 
+ 
+ 
+ 32,945 
+ 
+ 
+ 
+ 
+ 
+ 28,911 
+ 
+ 
+ 
+ 
+ 
+ 23,586 
+ 
+ 
+ 
+ 
+ 
+ 4,034 
+ 
+ 
+ 
+ 
+ 
+ 14 
+ 
+ 
+ 
+ 
+ 
+ 5,325 
+ 
+ 
+ 
+ 
+ 
+ 23 
+ 
+ 
+ 
+ 
+ UnitedHealthcare Global 
+ 
+ 
+ 
+ 6,223 
+ 
+ 
+ 
+ 
+ 
+ 5,503 
+ 
+ 
+ 
+ 
+ 
+ 6,937 
+ 
+ 
+ 
+ 
+ 
+ 720 
+ 
+ 
+ 
+ 
+ 
+ 13 
+ 
+ 
+ 
+ 
+ 
+ (1,434 
+ 
+ ) 
+ 
+ 
+ 
+ (21 
+ 
+ ) 
+ 
+ 
+ Total UnitedHealthcare revenues 
+ 
+ 
+ 
+ $ 
+ 
+ 148,581 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 131,343 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 119,798 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 17,238 
+ 
+ 
+ 
+ 
+ 
+ 13 
+ 
+ % 
+ 
+ 
+ 
+ $ 
+ 
+ 11,545 
+ 
+ 
+ 
+ 
+ 
+ 10 
+ 
+ % 
+ The following table summarizes the number of individuals served by our UnitedHealthcare businesses, by major market segment and funding arrangement: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ December 31, 
+ 
+ 
+ 
+ Change 
+ 
+ 
+ 
+ Change 
+ 
+ 
+ (in thousands, except percentages) 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 2014 
+ 
+ 
+ 
+ 2016 vs. 2015 
+ 
+ 
+ 
+ 2015 vs. 2014 
+ 
+ 
+ Commercial risk-based - group 
+ 
+ 
+ 
+ 7,470 
+ 
+ 
+ 
+ 
+ 
+ 7,095 
+ 
+ 
+ 
+ 
+ 
+ 6,765 
+ 
+ 
+ 
+ 
+ 
+ 375 
+ 
+ 
+ 
+ 
+ 
+ 5 
+ 
+ % 
+ 
+ 
+ 
+ 330 
+ 
+ 
+ 
+ 
+ 
+ 5 
+ 
+ % 
+ 
+ 
+ Commercial risk-based - individual 
+ 
+ 
+ 
+ 1,350 
+ 
+ 
+ 
+ 
+ 
+ 1,190 
+ 
+ 
+ 
+ 
+ 
+ 740 
+ 
+ 
+ 
+ 
+ 
+ 160 
+ 
+ 
+ 
+ 
+ 
+ 13 
+ 
+ 
+ 
+ 
+ 
+ 450 
+ 
+ 
+ 
+ 
+ 
+ 61 
+ 
+ 
+ 
+ 
+ Commercial fee-based 
+ 
+ 
+ 
+ 18,900 
+ 
+ 
+ 
+ 
+ 
+ 18,565 
+ 
+ 
+ 
+ 
+ 
+ 18,350 
+ 
+ 
+ 
+ 
+ 
+ 335 
+ 
+ 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ 
+ 
+ 215 
+ 
+ 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 
+ Fee-based TRICARE 
+ 
+ 
+ 
+ 2,860 
+ 
+ 
+ 
+ 
+ 
+ 2,880 
+ 
+ 
+ 
+ 
+ 
+ 2,895 
+ 
+ 
+ 
+ 
+ 
+ (20 
+ 
+ ) 
+ 
+ 
+ 
+ (1 
+ 
+ ) 
+ 
+ 
+ 
+ (15 
+ 
+ ) 
+ 
+ 
+ 
+ (1 
+ 
+ ) 
+ 
+ 
+ Total commercial 
+ 
+ 
+ 
+ 30,580 
+ 
+ 
+ 
+ 
+ 
+ 29,730 
+ 
+ 
+ 
+ 
+ 
+ 28,750 
+ 
+ 
+ 
+ 
+ 
+ 850 
+ 
+ 
+ 
+ 
+ 
+ 3 
+ 
+ 
+ 
+ 
+ 
+ 980 
+ 
+ 
+ 
+ 
+ 
+ 3 
+ 
+ 
+ 
+ 
+ Medicare Advantage 
+ 
+ 
+ 
+ 3,630 
+ 
+ 
+ 
+ 
+ 
+ 3,235 
+ 
+ 
+ 
+ 
+ 
+ 3,005 
+ 
+ 
+ 
+ 
+ 
+ 395 
+ 
+ 
+ 
+ 
+ 
+ 12 
+ 
+ 
+ 
+ 
+ 
+ 230 
+ 
+ 
+ 
+ 
+ 
+ 8 
+ 
+ 
+ 
+ 
+ Medicaid 
+ 
+ 
+ 
+ 5,890 
+ 
+ 
+ 
+ 
+ 
+ 5,305 
+ 
+ 
+ 
+ 
+ 
+ 5,055 
+ 
+ 
+ 
+ 
+ 
+ 585 
+ 
+ 
+ 
+ 
+ 
+ 11 
+ 
+ 
+ 
+ 
+ 
+ 250 
+ 
+ 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ 
+ Medicare Supplement (Standardized) 
+ 
+ 
+ 
+ 4,265 
+ 
+ 
+ 
+ 
+ 
+ 4,035 
+ 
+ 
+ 
+ 
+ 
+ 3,750 
+ 
+ 
+ 
+ 
+ 
+ 230 
+ 
+ 
+ 
+ 
+ 
+ 6 
+ 
+ 
+ 
+ 
+ 
+ 285 
+ 
+ 
+ 
+ 
+ 
+ 8 
+ 
+ 
+ 
+ 
+ Total public and senior 
+ 
+ 
+ 
+ 13,785 
+ 
+ 
+ 
+ 
+ 
+ 12,575 
+ 
+ 
+ 
+ 
+ 
+ 11,810 
+ 
+ 
+ 
+ 
+ 
+ 1,210 
+ 
+ 
+ 
+ 
+ 
+ 10 
+ 
+ 
+ 
+ 
+ 
+ 765 
+ 
+ 
+ 
+ 
+ 
+ 6 
+ 
+ 
+ 
+ 
+ Total UnitedHealthcare - domestic medical 
+ 
+ 
+ 
+ 44,365 
+ 
+ 
+ 
+ 
+ 
+ 42,305 
+ 
+ 
+ 
+ 
+ 
+ 40,560 
+ 
+ 
+ 
+ 
+ 
+ 2,060 
+ 
+ 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ 
+ 
+ 1,745 
+ 
+ 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ 
+ International 
+ 
+ 
+ 
+ 4,220 
+ 
+ 
+ 
+ 
+ 
+ 4,090 
+ 
+ 
+ 
+ 
+ 
+ 4,425 
+ 
+ 
+ 
+ 
+ 
+ 130 
+ 
+ 
+ 
+ 
+ 
+ 3 
+ 
+ 
+ 
+ 
+ 
+ (335 
+ 
+ ) 
+ 
+ 
+ 
+ (8 
+ 
+ ) 
+ 
+ 
+ Total UnitedHealthcare - medical 
+ 
+ 
+ 
+ 48,585 
+ 
+ 
+ 
+ 
+ 
+ 46,395 
+ 
+ 
+ 
+ 
+ 
+ 44,985 
+ 
+ 
+ 
+ 
+ 
+ 2,190 
+ 
+ 
+ 
+ 
+ 
+ 5 
+ 
+ % 
+ 
+ 
+ 
+ 1,410 
+ 
+ 
+ 
+ 
+ 
+ 3 
+ 
+ % 
+ 
+ 
+ Supplemental Data: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Medicare Part D stand-alone 
+ 
+ 
+ 
+ 4,930 
+ 
+ 
+ 
+ 
+ 
+ 5,060 
+ 
+ 
+ 
+ 
+ 
+ 5,165 
+ 
+ 
+ 
+ 
+ 
+ (130 
+ 
+ ) 
+ 
+ 
+ 
+ (3 
+ 
+ )% 
+ 
+ 
+ 
+ (105 
+ 
+ ) 
+ 
+ 
+ 
+ (2 
+ 
+ )% 
+ Growth in services to the public sector, mid-sized employers, small groups and individuals led the overall increase in people served through risk-based benefit plans in the commercial market. Medicare Advantage increased year-over-year due to growth in people served through individual and employer-sponsored group Medicare Advantage plans. Medicaid growth was driven by the combination of new state-based awards and growth in established programs. Medicare Supplement growth reflected strong customer retention and new sales. 
+ UnitedHealthcare’s revenue increase was due to growth in the number of individuals served across its businesses and price increases for underlying medical cost trends. 
+ The increase in UnitedHealthcare’s operating earnings was due to diversified growth, offset by guaranty fund assessments recorded in the fourth quarter of 2016. For more information on these assessments, see Note 12 of Notes to the Consolidated Financial Statements included in Part II, ITEM 8, “Financial Statements.” Operating earnings in 2015 included the establishment of premium deficiency reserves for 2016, primarily for individual ACA compliant business. 
+ Optum 
+ Total revenues and operating earnings increased as each segment reported increased revenues and earnings from operations as a result of the factors discussed below. 
+ The results by segment were as follows: 
+ OptumHealth 
+ Revenue increased at OptumHealth primarily due to growth in its health care delivery businesses as well as expansion of behavioral services into new Medicaid markets. Strong performance in business supporting UnitedHealthcare partially offset by investments in the health care delivery business drove the increase in earnings from operations. 
+ 
+ 
+ 32 
+ 
+ Table of Contents 
+ 
+ 
+ OptumInsight 
+ Revenue and earnings from operations at OptumInsight increased primarily due to growth in revenue management, business process outsourcing and technology services. 
+ OptumRx 
+ Revenue and earnings from operations at OptumRx increased primarily due to the full-year impact of Catamaran and organic growth. In 2016, OptumRx fulfilled 1.24 billion adjusted scripts compared to 932 million in 2015. 
+ 2015 RESULTS OF OPERATIONS COMPARED TO 2014 RESULTS 
+ Consolidated Financial Results 
+ Revenues 
+ The increase in revenues was primarily driven by the effect of the Catamaran acquisition and organic growth in the number of individuals served across our benefits businesses and across all of Optum’s businesses. 
+ Medical Costs 
+ Medical costs increased primarily due to risk-based membership growth in our benefits businesses. Medical costs also included losses on individual ACA compliant products related to 2015, and the establishment of premium deficiency reserves related to the 2016 policy year for anticipated future losses for in-force individual ACA compliant contracts and a new state Medicaid contract. 
+ Operating Cost Ratio 
+ The decrease in our operating cost ratio was due to the inclusion of Catamaran and growth in government benefits programs, both of which have lower operating cost ratios and Company wide productivity gains. 
+ Reportable Segments 
+ UnitedHealthcare 
+ UnitedHealthcare’s revenue growth during the year ended December 31, 2015 was due to growth in the number of individuals served across its businesses and price increases reflecting underlying medical cost trends. 
+ UnitedHealthcare’s operating earnings for the year ended December 31, 2015 decreased as the combined individual ACA compliant losses and premium deficiency reserves totaling $815 million more than offset strong growth across the business, improved medical cost management and increased productivity. 
+ Optum 
+ Total revenues and operating earnings increased for the year ended December 31, 2015 as each reporting segment increased revenues and earnings from operations by double-digit percentages as a result of the factors discussed below. 
+ The results by segment were as follows: 
+ OptumHealth 
+ Revenue and earnings from operations increased at OptumHealth during the year ended December 31, 2015 primarily due to growth in its care delivery businesses and the impact of acquisitions in patient care centers and population health management services. The operating margins for the year ended December 31, 2015 decreased from the prior year primarily due to investments made to develop future growth opportunities. 
+ OptumInsight 
+ Revenue, earnings from operations and operating margins at OptumInsight for the year ended December 31, 2015 increased primarily due to expansion and growth in care provider revenue management services and payer services. 
+ OptumRx 
+ Revenue and earnings from operations for the year ended December 31, 2015 increased due to the mid-year acquisition of Catamaran as well as strong organic growth. Operating margins for the year ended December 31, 2015 decreased slightly due to the inclusion of lower margin Catamaran business. 
+ 
+ 
+ 33 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ LIQUIDITY, FINANCIAL CONDITION AND CAPITAL RESOURCES 
+ Liquidity 
+ Introduction 
+ We manage our liquidity and financial position in the context of our overall business strategy. We continually forecast and manage our cash, investments, working capital balances and capital structure to meet the short-term and long-term obligations of our businesses while seeking to maintain liquidity and financial flexibility. Cash flows generated from operating activities are principally from earnings before noncash expenses. 
+ Our regulated subsidiaries generate significant cash flows from operations and are subject to financial regulations and standards in their respective jurisdictions. These standards, among other things, require these subsidiaries to maintain specified levels of statutory capital, as defined by each jurisdiction, and restrict the timing and amount of dividends and other distributions that may be paid to their parent companies. 
+ In 2016, our U.S. regulated subsidiaries paid their parent companies dividends of $3.9 billion. For the year ended December 31, 2015, our U.S. regulated subsidiaries paid their parent companies dividends of $4.4 billion. See Note 10 of Notes to the Consolidated Financial Statements included in Part II, ITEM 8, “Financial Statements” for further detail concerning our regulated subsidiary dividends. 
+ Our nonregulated businesses also generate cash flows from operations that are available for general corporate use. Cash flows generated by these entities, combined with dividends from our regulated entities and financing through the issuance of long-term debt as well as issuance of commercial paper or the ability to draw under our committed credit facilities, further strengthen our operating and financial flexibility. We use these cash flows to expand our businesses through acquisitions, reinvest in our businesses through capital expenditures, repay debt and return capital to our shareholders through shareholder dividends and/or repurchases of our common stock, depending on market conditions. 
+ Summary of our Major Sources and Uses of Cash and Cash Equivalents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Years Ended December 31, 
+ 
+ 
+ 
+ Change 
+ 
+ 
+ 
+ Change 
+ 
+ 
+ (in millions) 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 2014 
+ 
+ 
+ 
+ 2016 vs. 2015 
+ 
+ 
+ 
+ 2015 vs. 2014 
+ 
+ 
+ Sources of cash: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cash provided by operating activities 
+ 
+ 
+ 
+ $ 
+ 
+ 9,795 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 9,740 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 8,051 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 55 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,689 
+ 
+ 
+ 
+ 
+ Issuances of long-term debt and commercial paper, net of repayments 
+ 
+ 
+ 
+ 990 
+ 
+ 
+ 
+ 
+ 
+ 14,607 
+ 
+ 
+ 
+ 
+ 
+ 391 
+ 
+ 
+ 
+ 
+ 
+ (13,617 
+ 
+ ) 
+ 
+ 
+ 
+ 14,216 
+ 
+ 
+ 
+ 
+ Proceeds from common share issuances 
+ 
+ 
+ 
+ 429 
+ 
+ 
+ 
+ 
+ 
+ 402 
+ 
+ 
+ 
+ 
+ 
+ 462 
+ 
+ 
+ 
+ 
+ 
+ 27 
+ 
+ 
+ 
+ 
+ 
+ (60 
+ 
+ ) 
+ 
+ 
+ Sales and maturities of investments, net of purchases 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 799 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ (799 
+ 
+ ) 
+ 
+ 
+ Customer funds administered 
+ 
+ 
+ 
+ 1,692 
+ 
+ 
+ 
+ 
+ 
+ 768 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 924 
+ 
+ 
+ 
+ 
+ 
+ 768 
+ 
+ 
+ 
+ 
+ Other 
+ 
+ 
+ 
+ 37 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 115 
+ 
+ 
+ 
+ 
+ 
+ 37 
+ 
+ 
+ 
+ 
+ 
+ (115 
+ 
+ ) 
+ 
+ 
+ Total sources of cash 
+ 
+ 
+ 
+ 12,943 
+ 
+ 
+ 
+ 
+ 
+ 25,517 
+ 
+ 
+ 
+ 
+ 
+ 9,818 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Uses of cash: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cash paid for acquisitions and noncontrolling interest shares, net of cash assumed 
+ 
+ 
+ 
+ (2,017 
+ 
+ ) 
+ 
+ 
+ 
+ (16,282 
+ 
+ ) 
+ 
+ 
+ 
+ (1,923 
+ 
+ ) 
+ 
+ 
+ 
+ 14,265 
+ 
+ 
+ 
+ 
+ 
+ (14,359 
+ 
+ ) 
+ 
+ 
+ Cash dividends paid 
+ 
+ 
+ 
+ (2,261 
+ 
+ ) 
+ 
+ 
+ 
+ (1,786 
+ 
+ ) 
+ 
+ 
+ 
+ (1,362 
+ 
+ ) 
+ 
+ 
+ 
+ (475 
+ 
+ ) 
+ 
+ 
+ 
+ (424 
+ 
+ ) 
+ 
+ 
+ Common share repurchases 
+ 
+ 
+ 
+ (1,280 
+ 
+ ) 
+ 
+ 
+ 
+ (1,200 
+ 
+ ) 
+ 
+ 
+ 
+ (4,008 
+ 
+ ) 
+ 
+ 
+ 
+ (80 
+ 
+ ) 
+ 
+ 
+ 
+ 2,808 
+ 
+ 
+ 
+ 
+ Purchases of property, equipment and capitalized software 
+ 
+ 
+ 
+ (1,705 
+ 
+ ) 
+ 
+ 
+ 
+ (1,556 
+ 
+ ) 
+ 
+ 
+ 
+ (1,525 
+ 
+ ) 
+ 
+ 
+ 
+ (149 
+ 
+ ) 
+ 
+ 
+ 
+ (31 
+ 
+ ) 
+ 
+ 
+ Purchases of investments, net of sales and maturities 
+ 
+ 
+ 
+ (5,927 
+ 
+ ) 
+ 
+ 
+ 
+ (531 
+ 
+ ) 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ (5,396 
+ 
+ ) 
+ 
+ 
+ 
+ (531 
+ 
+ ) 
+ 
+ 
+ Customer funds administered 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ (638 
+ 
+ ) 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 638 
+ 
+ 
+ 
+ 
+ Other 
+ 
+ 
+ 
+ (324 
+ 
+ ) 
+ 
+ 
+ 
+ (578 
+ 
+ ) 
+ 
+ 
+ 
+ (138 
+ 
+ ) 
+ 
+ 
+ 
+ 254 
+ 
+ 
+ 
+ 
+ 
+ (440 
+ 
+ ) 
+ 
+ 
+ Total uses of cash 
+ 
+ 
+ 
+ (13,514 
+ 
+ ) 
+ 
+ 
+ 
+ (21,933 
+ 
+ ) 
+ 
+ 
+ 
+ (9,594 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Effect of exchange rate changes on cash and cash equivalents 
+ 
+ 
+ 
+ 78 
+ 
+ 
+ 
+ 
+ 
+ (156 
+ 
+ ) 
+ 
+ 
+ 
+ (5 
+ 
+ ) 
+ 
+ 
+ 
+ 234 
+ 
+ 
+ 
+ 
+ 
+ (151 
+ 
+ ) 
+ 
+ 
+ Net (decrease) increase in cash and cash equivalents 
+ 
+ 
+ 
+ $ 
+ 
+ (493 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ 3,428 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 219 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (3,921 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ 3,209 
+ 
+ 
+ 
+ 
+ 34 
+ 
+ Table of Contents 
+ 
+ 
+ 2016 Cash Flows Compared to 2015 Cash Flows 
+ Cash flows provided by operating activities increased slightly as higher net earnings were mostly offset by increased CMS receivables and other operating items. 
+ Other significant changes in sources or uses of cash year-over-year included increased net purchases of investments in 2016 and the decreases in cash paid for acquisitions and proceeds from debt issuances due to the 2015 acquisition of Catamaran. 
+ 2015 Cash Flows Compared to 2014 Cash Flows 
+ Cash flows provided by operating activities in 2015 increased primarily due to growth in risk-based products, which increased medical costs payable and an increase in CMS risk share payables, which increased other liabilities. These increases were partially offset by an increase in pharmacy rebates, which increased other receivables, the increase in the payment of the 2015 Health Insurance Industry Tax and the payment of Reinsurance Program fees in 2015. 
+ Other significant changes in sources or uses of cash year-over-year included increased cash paid for acquisitions and net debt issuances and decreased share repurchases, all due to the Catamaran acquisition. 
+ Financial Condition 
+ As of December 31, 2016 , our cash, cash equivalent and available-for-sale investment balances of $36.7 billion included $10.4 billion of cash and cash equivalents (of which approximately $700 million was available for general corporate use), $24.2 billion of debt securities and $2.0 billion of investments in equity securities consisting of investments in non-U.S. dollar fixed-income funds; employee savings plan related investments; venture capital funds; and dividend paying stocks. Given the significant portion of our portfolio held in cash equivalents, we do not anticipate fluctuations in the aggregate fair value of our financial assets to have a material impact on our liquidity or capital position. Other sources of liquidity, primarily from operating cash flows and our commercial paper program, which is supported by our bank credit facilities, reduce the need to sell investments during adverse market conditions. See Note 4 of Notes to the Consolidated Financial Statements included in Part II, ITEM 8, “Financial Statements” for further detail concerning our fair value measurements. 
+ Our available-for-sale debt portfolio had a weighted-average duration of 3.3 years and a weighted-average credit rating of “AA” as of December 31, 2016 . When multiple credit ratings are available for an individual security, the average of the available ratings is used to determine the weighted-average credit rating. 
+ Capital Resources and Uses of Liquidity 
+ In addition to cash flows from operations and cash and cash equivalent balances available for general corporate use, our capital resources and uses of liquidity are as follows: 
+ Commercial Paper and Bank Credit Facilities. Our revolving bank credit facilities provide liquidity support for our commercial paper borrowing program, which facilitates the private placement of senior unsecured debt through third-party broker-dealers, and are available for general corporate purposes. For more information on our commercial paper and bank credit facilities, see Note 8 of Notes to the Consolidated Financial Statements included in Part II, ITEM 8, “Financial Statements.” 
+ Our revolving bank credit facilities contain various covenants, including covenants requiring us to maintain a defined debt to debt-plus-shareholders’ equity ratio of not more than 55%. As of December 31, 2016, our debt to debt-plus-shareholders’ equity ratio, as defined and calculated under the credit facilities was approximately 44%. 
+ Long-Term Debt. Periodically, we access capital markets to issue long-term debt for general corporate purposes, such as, to meet our working capital requirements, to refinance debt, to finance acquisitions or for share repurchases. In February 2016, we issued debt to repay commercial paper borrowings, which were incurred for general corporate and working capital purposes, and to repay our 5.375% notes that were due March 15, 2016. In December 2016, we issued debt to repay commercial paper borrowings, which were incurred for general corporate and working capital purposes. For more information on these debt issuances, see Note 8 of Notes to the Consolidated Financial Statements included in Part II, ITEM 8 “Financial Statements.” 
+ Credit Ratings. Our credit ratings as of December 31, 2016 were as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Moody’s 
+ 
+ 
+ 
+ Standard & Poor’s 
+ 
+ 
+ 
+ Fitch 
+ 
+ 
+ 
+ A.M. Best 
+ 
+ 
+ 
+ 
+ Ratings 
+ 
+ 
+ 
+ Outlook 
+ 
+ 
+ 
+ Ratings 
+ 
+ 
+ 
+ Outlook 
+ 
+ 
+ 
+ Ratings 
+ 
+ 
+ 
+ Outlook 
+ 
+ 
+ 
+ Ratings 
+ 
+ 
+ 
+ Outlook 
+ 
+ 
+ Senior unsecured debt 
+ 
+ A3 
+ 
+ 
+ 
+ Negative 
+ 
+ 
+ 
+ A+ 
+ 
+ 
+ 
+ Negative 
+ 
+ 
+ 
+ A- 
+ 
+ 
+ 
+ Negative 
+ 
+ 
+ 
+ bbb+ 
+ 
+ 
+ 
+ Stable 
+ 
+ 
+ Commercial paper 
+ 
+ P-2 
+ 
+ 
+ 
+ n/a 
+ 
+ 
+ 
+ A-1 
+ 
+ 
+ 
+ n/a 
+ 
+ 
+ 
+ F1 
+ 
+ 
+ 
+ n/a 
+ 
+ 
+ 
+ AMB-2 
+ 
+ 
+ 
+ n/a 
+ 
+ 
+ 35 
+ 
+ Table of Contents 
+ 
+ 
+ The availability of financing in the form of debt or equity is influenced by many factors, including our profitability, operating cash flows, debt levels, credit ratings, debt covenants and other contractual restrictions, regulatory requirements and economic and market conditions. For example, a significant downgrade in our credit ratings or adverse conditions in the capital markets may increase the cost of borrowing for us or limit our access to capital. 
+ Share Repurchase Program. As of December 31, 2016 , we had Board authorization to purchase up to an additional 51 million shares of our common stock. For more information on our share repurchase program, see Note 10 of Notes to the Consolidated Financial Statements included in Part II, ITEM 8, “Financial Statements.” 
+ Dividends. In June 2016, our Board increased our quarterly cash dividend to shareholders to an annual dividend rate of $2.50 per share. For more information on our dividend, see Note 10 of Notes to the Consolidated Financial Statements included in Part II, ITEM 8, “Financial Statements.” 
+ CONTRACTUAL OBLIGATIONS AND COMMITMENTS 
+ The following table summarizes future obligations due by period as of December 31, 2016, under our various contractual obligations and commitments: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (in millions) 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 2018 to 2019 
+ 
+ 
+ 
+ 2020 to 2021 
+ 
+ 
+ 
+ Thereafter 
+ 
+ 
+ 
+ Total 
+ 
+ 
+ Debt (a) 
+ 
+ 
+ 
+ $ 
+ 
+ 8,262 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 6,282 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 6,059 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 27,899 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 48,502 
+ 
+ 
+ 
+ 
+ Operating leases 
+ 
+ 
+ 
+ 453 
+ 
+ 
+ 
+ 
+ 
+ 771 
+ 
+ 
+ 
+ 
+ 
+ 587 
+ 
+ 
+ 
+ 
+ 
+ 499 
+ 
+ 
+ 
+ 
+ 
+ 2,310 
+ 
+ 
+ 
+ 
+ Purchase and other obligations (b) 
+ 
+ 
+ 
+ 623 
+ 
+ 
+ 
+ 
+ 
+ 617 
+ 
+ 
+ 
+ 
+ 
+ 297 
+ 
+ 
+ 
+ 
+ 
+ 170 
+ 
+ 
+ 
+ 
+ 
+ 1,707 
+ 
+ 
+ 
+ 
+ Future policy benefits (c) 
+ 
+ 
+ 
+ 133 
+ 
+ 
+ 
+ 
+ 
+ 271 
+ 
+ 
+ 
+ 
+ 
+ 273 
+ 
+ 
+ 
+ 
+ 
+ 1,980 
+ 
+ 
+ 
+ 
+ 
+ 2,657 
+ 
+ 
+ 
+ 
+ Unrecognized tax benefits (d) 
+ 
+ 
+ 
+ 19 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 234 
+ 
+ 
+ 
+ 
+ 
+ 253 
+ 
+ 
+ 
+ 
+ Other liabilities recorded on the Consolidated Balance Sheet (e) 
+ 
+ 
+ 
+ 269 
+ 
+ 
+ 
+ 
+ 
+ 14 
+ 
+ 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ 
+ 
+ 2,288 
+ 
+ 
+ 
+ 
+ 
+ 2,576 
+ 
+ 
+ 
+ 
+ Redeemable noncontrolling interests (f) 
+ 
+ 
+ 
+ 958 
+ 
+ 
+ 
+ 
+ 
+ 1,054 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 2,012 
+ 
+ 
+ 
+ 
+ Total contractual obligations 
+ 
+ 
+ 
+ $ 
+ 
+ 10,717 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 9,009 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 7,221 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 33,070 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 60,017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) 
+ 
+ Includes interest coupon payments and maturities at par or put values. The table also assumes amounts are outstanding through their contractual term. See Note 8 of Notes to the Consolidated Financial Statements included in Part II, ITEM 8, “Financial Statements” for more detail. 
+ 
+ 
+ 
+ 
+ 
+ (b) 
+ 
+ Includes fixed or minimum commitments under existing purchase obligations for goods and services, including agreements that are cancelable with the payment of an early termination penalty and remaining capital commitments for venture capital funds and other funding commitments. Excludes agreements that are cancelable without penalty and excludes liabilities to the extent recorded in our Consolidated Balance Sheets as of December 31, 2016 . 
+ 
+ 
+ 
+ 
+ 
+ (c) 
+ 
+ Future policy benefits represent account balances that accrue to the benefit of the policyholders, excluding surrender charges, for universal life and investment annuity products and for long-duration health policies sold to individuals for which some of the premium received in the earlier years is intended to pay benefits to be incurred in future years. See Note 2 of Notes to the Consolidated Financial Statements included in Part II, ITEM 8, “Financial Statements” for more detail. 
+ 
+ 
+ 
+ 
+ 
+ (d) 
+ 
+ As the timing of future settlements is uncertain, the long-term portion has been classified as “Thereafter.” 
+ 
+ 
+ 
+ 
+ 
+ (e) 
+ 
+ Includes obligations associated with contingent consideration and other payments related to business acquisitions, certain employee benefit programs, amounts accrued for guaranty fund assessments and various other long-term liabilities. Due to uncertainty regarding payment timing, obligations for employee benefit programs, charitable contributions and other liabilities have been classified as “Thereafter.” 
+ 
+ 
+ 
+ 
+ 
+ (f) 
+ 
+ Includes commitments for redeemable shares of our subsidiaries. 
+ We do not have other significant contractual obligations or commitments that require cash resources. However, we continually evaluate opportunities to expand our operations, which include internal development of new products, programs and technology applications and may include acquisitions. 
+ OFF-BALANCE SHEET ARRANGEMENTS 
+ As of December 31, 2016, we were not involved in any off-balance sheet arrangements, which have or are reasonably likely to have a material effect on our financial condition, results of operations or liquidity. 
+ 
+ 
+ 36 
+ 
+ Table of Contents 
+ 
+ 
+ RECENTLY ISSUED ACCOUNTING STANDARDS 
+ See Note 2 of Notes to the Consolidated Financial Statements in Part II, ITEM 8 “Financial Statements” for a discussion of new accounting pronouncements that affect us. 
+ 
+ CRITICAL ACCOUNTING ESTIMATES 
+ Critical accounting estimates are those estimates that require management to make challenging, subjective or complex judgments, often because they must estimate the effects of matters that are inherently uncertain and may change in subsequent periods. Critical accounting estimates involve judgments and uncertainties that are sufficiently sensitive and may result in materially different results under different assumptions and conditions. 
+ Medical Costs Payable 
+ Medical costs and medical costs payable include estimates of our obligations for medical care services that have been rendered on behalf of insured consumers, but for which claims have either not yet been received or processed. Depending on the health care professional and type of service, the typical billing lag for services can be up to 90 days from the date of service. Approximately 90% of claims related to medical care services are known and settled within 90 days from the date of service and substantially all within twelve months. As of December 31, 2016 , our days outstanding in medical payables was 51 days, calculated as total medical payables divided by total medical costs times the number of days in the period. 
+ In each reporting period, our operating results include the effects of more completely developed medical costs payable estimates associated with previously reported periods. If the revised estimate of prior period medical costs is less than the previous estimate, we will decrease reported medical costs in the current period (favorable development). If the revised estimate of prior period medical costs is more than the previous estimate, we will increase reported medical costs in the current period (unfavorable development). Medical costs in 2016, 2015 and 2014 included favorable medical cost development related to prior years of $220 million , $320 million and $420 million , respectively. 
+ In developing our medical costs payable estimates, we apply different estimation methods depending on the month for which incurred claims are being estimated. For example, for the most recent two months, we estimate claim costs incurred by applying observed medical cost trend factors to the average per member per month (PMPM) medical costs incurred in prior months for which more complete claim data is available, supplemented by a review of near-term completion factors. 
+ Completion Factors. A completion factor is an actuarial estimate, based upon historical experience and analysis of current trends, of the percentage of incurred claims during a given period that have been adjudicated by us at the date of estimation. Completion factors are the most significant factors we use in developing our medical costs payable estimates for periods prior to the most recent two months. Completion factors include judgments in relation to claim submissions such as the time from date of service to claim receipt, claim inventory levels and claim processing backlogs, as well as other factors. If actual claims submission rates from providers (which can be influenced by a number of factors, including provider mix and electronic versus manual submissions) or our claim processing patterns are different than estimated, our reserves may be significantly impacted. 
+ The following table illustrates the sensitivity of these factors and the estimated potential impact on our medical costs payable estimates for those periods as of December 31, 2016 : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Completion Factors 
+ (Decrease) Increase in Factors 
+ 
+ 
+ 
+ Increase (Decrease) 
+ In Medical Costs Payable 
+ 
+ 
+ 
+ 
+ 
+ 
+ (in millions) 
+ 
+ 
+ (0.75)% 
+ 
+ 
+ 
+ $ 
+ 
+ 437 
+ 
+ 
+ 
+ 
+ (0.50) 
+ 
+ 
+ 
+ 291 
+ 
+ 
+ 
+ 
+ (0.25) 
+ 
+ 
+ 
+ 145 
+ 
+ 
+ 
+ 
+ 0.25 
+ 
+ 
+ 
+ (144 
+ 
+ ) 
+ 
+ 
+ 0.50 
+ 
+ 
+ 
+ (288 
+ 
+ ) 
+ 
+ 
+ 0.75 
+ 
+ 
+ 
+ (430 
+ 
+ ) 
+ Medical Cost Per Member Per Month Trend Factors. Medical cost PMPM trend factors are significant factors we use in developing our medical costs payable estimates for the most recent two months. Medical cost trend factors are developed through a comprehensive analysis of claims incurred in prior months, provider contracting and expected unit costs, benefit design and by reviewing a broad set of health care utilization indicators, including but not limited to, pharmacy utilization trends, inpatient hospital census data and incidence data from the National Centers for Disease Control. We also consider macroeconomic variables such as gross-domestic product growth, employment and disposable income. A large number of factors can cause the medical cost trend to vary from our estimates, including: our ability and practices to manage medical and 
+ 
+ 
+ 37 
+ 
+ Table of Contents 
+ 
+ 
+ pharmaceutical costs, changes in level and mix of services utilized, mix of benefits offered, including the impact of co-pays and deductibles, changes in medical practices, catastrophes and epidemics. 
+ The following table illustrates the sensitivity of these factors and the estimated potential impact on our medical costs payable estimates for the most recent two months as of December 31, 2016 : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Medical Cost PMPM Trend 
+ Increase (Decrease) in Factors 
+ 
+ 
+ 
+ Increase (Decrease) 
+ In Medical Costs Payable 
+ 
+ 
+ 
+ 
+ 
+ 
+ (in millions) 
+ 
+ 
+ 3% 
+ 
+ 
+ 
+ $ 
+ 
+ 557 
+ 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ 371 
+ 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 186 
+ 
+ 
+ 
+ 
+ (1) 
+ 
+ 
+ 
+ (186 
+ 
+ ) 
+ 
+ 
+ (2) 
+ 
+ 
+ 
+ (371 
+ 
+ ) 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ (557 
+ 
+ ) 
+ The completion factors and medical costs PMPM trend factors analyses above include outcomes that are considered reasonably likely based on our historical experience estimating liabilities for incurred but not reported benefit claims. 
+ Management believes the amount of medical costs payable is reasonable and adequate to cover our liability for unpaid claims as of December 31, 2016 ; however, actual claim payments may differ from established estimates as discussed above. Assuming a hypothetical 1% difference between our December 31, 2016 estimates of medical costs payable and actual medical costs payable, excluding AARP Medicare Supplement Insurance and any potential offsetting impact from premium rebates, 2016 net earnings would have increased or decreased by $90 million. 
+ For more detail related to our medical cost estimates, see Note 2 of Notes to the Consolidated Financial Statements included in Part II, ITEM 8, “Financial Statements.” 
+ Revenues 
+ We derive a substantial portion of our revenues from health care insurance premiums. We recognize premium revenues in the period eligible individuals are entitled to receive health care services. Customers are typically billed monthly at a contracted rate per eligible person multiplied by the total number of people eligible to receive services. 
+ Our Medicare Advantage and Medicare Part D premium revenues are subject to periodic adjustment under the CMS risk adjustment payment methodology. The CMS risk adjustment model provides higher per member payments for enrollees diagnosed with certain conditions and lower payments for enrollees who are healthier. We estimate risk adjustment revenues based upon the data submitted and expected to be submitted to CMS. As a result of the variability of factors that determine such estimations, the actual amount of CMS’ retroactive payments could be materially more or less than our estimates. This may result in favorable or unfavorable adjustments to our Medicare premium revenue and, accordingly, our profitability. For more detail on premium revenues see Note 2 of Notes to the Consolidated Financial Statements included in Part II, ITEM 8, “Financial Statements.” Risk adjustment data for certain of our plans is subject to review by the federal and state governments, including audit by regulators. See Note 12 of Notes to the Consolidated Financial Statements included in Part II, ITEM 8, “Financial Statements” for additional information regarding these audits. Our estimates of premiums to be recognized are reduced by any expected premium minimum MLR rebates payable by us to CMS. 
+ Goodwill and Intangible Assets 
+ Goodwill. We evaluate goodwill for impairment annually or more frequently when an event occurs or circumstances change that indicate the carrying value may not be recoverable. When testing goodwill for impairment, we may first assess qualitative factors to determine if it is more likely than not that the carrying value of a reporting unit exceeds its estimated fair value. During a qualitative analysis, we consider the impact of changes, if any, to the following factors: macroeconomic, industry and market factors, cost factors, changes in overall financial performance, and any other relevant events and uncertainties impacting a reporting unit. If our qualitative assessment indicates that goodwill impairment is more likely than not, we perform additional quantitative analysis. We may also elect to skip the qualitative testing and proceed directly to the quantitative testing. For reporting units where a quantitative analysis is performed, we perform a multi-step test measuring the fair values of the reporting units and comparing them to their aggregate carrying values, including goodwill. If the fair value is less than the carrying value of the reporting unit, then the implied value of goodwill would be calculated and compared to the carrying amount of goodwill to determine whether goodwill is impaired. 
+ 
+ 
+ 38 
+ 
+ Table of Contents 
+ 
+ 
+ We estimate the fair values of our reporting units using discounted cash flows, which include assumptions about a wide variety of internal and external factors. Significant assumptions used in the impairment analysis include financial projections of free cash flow (including significant assumptions about operations, capital requirements and income taxes), long-term growth rates for determining terminal value beyond the discretely forecasted periods and discount rates. For each reporting unit, comparative market multiples are used to corroborate the results of our discounted cash flow test. 
+ Forecasts and long-term growth rates used for our reporting units are consistent with, and use inputs from, our internal long-term business plan and strategies. Key assumptions used in these forecasts include: 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Revenue trends. Key revenue drivers for each reporting unit are determined and assessed. Significant factors include: membership growth, medical trends and the impact and expectations of regulatory environments. Additional macro-economic assumptions relating to unemployment, GDP growth, interest rates and inflation are also evaluated and incorporated, as appropriate. 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Medical cost trends. For further discussion of medical cost trends, see the “Medical Cost Trend” section of Executive Overview- Business Trends above and the discussion in the “Medical Costs Payable” critical accounting estimate above. Similar factors, including historical and expected medical cost trend levels, are considered in estimating our long-term medical trends at the reporting unit level. 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Operating productivity. We forecast expected operating cost levels based on historical levels and expectations of future operating cost levels. 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Capital levels. The operating and long-term capital requirements for each business are considered. 
+ Discount rates are determined for each reporting unit and include consideration of the implied risk inherent in their forecasts. Our most significant estimate in the discount rate determinations involves our adjustments to the peer company weighted average costs of capital that reflect reporting unit-specific factors. We have not made any adjustments to decrease a discount rate below the calculated peer company weighted average cost of capital for any reporting unit. Company-specific adjustments to discount rates are subjective and thus are difficult to measure with certainty. The passage of time and the availability of additional information regarding areas of uncertainty with respect to the reporting units’ operations could cause these assumptions to change in the future. We completed our annual impairment tests for goodwill as of October 1, 2016. All of our reporting units had fair values substantially in excess of their carrying values. 
+ Intangible Assets. Our finite-lived intangible assets are subject to impairment tests when events or circumstances indicate that an asset’s (or asset group’s) carrying value may exceed its estimated fair value. Consideration is given on a quarterly basis to a number of potential impairment indicators, including: changes in the use of the assets, changes in legal or other business factors that could affect value, experienced or expected operating cash-flow deterioration or losses, adverse changes in customer populations, adverse competitive or technological advances that could impact value and other factors. 
+ Our indefinite-lived intangible assets are tested for impairment on an annual basis, or more frequently if impairment indicators exist. To determine if an indefinite-lived intangible asset is impaired, we compare its estimated fair value to its carrying value. If the carrying value exceeds its estimated fair value, an impairment would be recorded for the amount by which the carrying value exceeds its estimated fair value. Intangible assets were not impaired in 2016. 
+ Investments 
+ Our investments are principally classified as available-for-sale and are recorded at fair value. We continually monitor the difference between the cost and fair value of our investments. 
+ Other-Than-Temporary Impairment Assessment. Individual securities with fair values lower than costs are reviewed for impairment considering the following factors: our intent to sell the security or the likelihood that we will be required to sell the security before recovery of the entire amortized cost, the length of time and extent of impairment and the financial condition and near-term prospects of the issuer as well as specific events or circumstances that may influence the operations of the issuer. Other factors included in the assessment include the type and nature of the securities and their liquidity. Given the nature of our portfolio, primarily investment grade securities, historical impairments were largely market related (e.g., interest rate fluctuations) as opposed to credit related. Our large cash holdings reduce the risk that we will be required to sell a security. However, our intent to sell a security may change from period to period if facts and circumstances change. 
+ The judgments and estimates related to other-than-temporary impairment may ultimately prove to be inaccurate due to many factors, including: circumstances may change over time, industry sector and market factors may differ from expectations and estimates or we may ultimately sell a security we previously intended to hold. Our assessment of the financial condition and near-term prospects of the issuer may ultimately prove to be inaccurate as time passes and new information becomes available, including changes to current facts and circumstances, or as unknown or estimated unlikely trends develop. 
+ 
+ 
+ 39 
+ 
+ Table of Contents 
+ 
+ 
+ LEGAL MATTERS 
+ A description of our legal proceedings is presented in Note 12 of Notes to the Consolidated Financial Statements included in Part II, ITEM 8, “Financial Statements.” 
+ CONCENTRATIONS OF CREDIT RISK 
+ Investments in financial instruments such as marketable securities and accounts receivable may subject us to concentrations of credit risk. Our investments in marketable securities are managed under an investment policy authorized by our Board of Directors. This policy limits the amounts that may be invested in any one issuer and generally limits our investments to U.S. government and agency securities, state and municipal securities and corporate debt obligations that are investment grade. Concentrations of credit risk with respect to accounts receivable are limited due to the large number of employer groups and other customers that constitute our client base. As of December 31, 2016 , there were no significant concentrations of credit risk. 
+ 

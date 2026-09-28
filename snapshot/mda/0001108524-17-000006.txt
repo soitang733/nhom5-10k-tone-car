@@ -1,0 +1,4514 @@
+ ITEM 7. 
+ 
+ MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+ The following discussion contains forward-looking statements, including, without limitation, our expectations and statements regarding our outlook and future revenues, expenses, results of operations, liquidity, plans, strategies and objectives of management and any assumptions underlying any of the foregoing. Our actual results may differ significantly from those projected in the forward-looking statements. Our forward-looking statements and factors that might cause future actual results to differ materially from our recent results or those projected in the forward-looking statements include, but are not limited to, those discussed in the section titled “Forward-Looking Information” and “Risk Factors” of this Annual Report on Form 10-K. Except as required by law, we assume no obligation to update the forward-looking statements or our risk factors for any reason. 
+ 
+ Overview 
+ We are a leading provider of enterprise cloud computing solutions, with a focus on customer relationship management, or CRM. We introduced our first CRM solution in February 2000, and we have since expanded our service offerings with new editions, features and platform capabilities. 
+ Our core mission is to help our customers transform by empowering them to connect with their customers in entirely new ways. Our Customer Success Platform - including sales force automation, customer service and support, marketing automation, digital commerce, community management, analytics, application development, Internet of Things (“IoT”) integration and collaborative productivity tools - provides the tools customers need to succeed in a digital world. Key elements of our strategy include: 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ extend existing service offerings; 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ cross sell and upsell; 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ expand into new horizontal markets; 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ target vertical markets and industries; 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ extend go-to-market capabilities; 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ reduce customer attrition; and 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ encourage the development of third-party applications on our cloud computing platforms. 
+ In addition to the key elements of our business strategy described above, we evaluate opportunities to acquire or invest in complementary businesses, services and technologies and intellectual property rights. This evaluation resulted in a significant increase in our acquisition activity during fiscal 2017. 
+ We believe the factors that will influence our ability to achieve our objectives include: our prospective customers’ willingness to migrate to enterprise cloud computing services; the availability, performance and security of our service; our ability to continue to release, and gain customer acceptance of new and improved features; our ability to successfully integrate acquired businesses and technologies; successful customer adoption and utilization of our service; acceptance of our service in markets where we have few customers; the emergence of additional competitors in our market and improved product offerings by existing and new competitors; the location of new data centers that we operate as well as the new locations of services provided by third-party cloud computing platform providers; third-party developers’ willingness to develop applications on our platforms; our ability to attract new personnel and retain and motivate current personnel; and general economic conditions which could affect our customers’ ability and willingness to purchase our services, delay the customers’ purchasing decision or affect attrition rates. 
+ To address these factors, we will need to, among other things, continue to add substantial numbers of paying subscriptions, upgrade our customers to fully featured versions or arrangements such as an Enterprise License Agreement, provide high quality technical support to our customers, encourage the development of third-party applications on our platforms and continue to focus on retaining customers at the time of renewal. Our plans to invest for future growth include the continuation of the expansion of our data center capacity, the hiring of additional personnel, particularly in direct sales, other customer-related areas and research and development, the expansion of domestic and international selling and marketing activities, specifically in our top markets, continuing to develop our brands, the addition of distribution channels, the upgrade of our service offerings, the development of new services such as the introduction of our Analytics Cloud, Community Cloud, and IoT Cloud, the integration of new and acquired technologies such as Commerce Cloud, artificial intelligence technologies and Salesforce Quip, the expansion of our Marketing Cloud and Salesforce Platform (formerly App Cloud) core service offerings, and the additions to our global infrastructure to support our growth. 
+ 
+ 
+ 32 
+ 
+ Table of Contents 
+ 
+ We also regularly evaluate acquisitions or investment opportunities in complementary businesses, joint ventures, services and technologies and intellectual property rights in an effort to expand our service offerings. We expect to continue to make such investments and acquisitions in the future and we plan to reinvest a significant portion of our incremental revenue in future periods to grow our business and continue our leadership role in the cloud computing industry. As part of our growth strategy, we are delivering innovative solutions in new categories, including analytics, e-commerce, artificial intelligence and the Internet of Things. We drive innovation organically and to a lesser extent through acquisitions, such as our July 2016 acquisition of Demandware, Inc. (“Demandware”), a digital commerce leader. We have a disciplined and thoughtful acquisition process where we routinely survey the industry landscape across a wide range of companies. As a result of our aggressive growth plans and integration of our previously acquired businesses, we have incurred significant expenses from equity awards and amortization of purchased intangibles, which have reduced our operating income. We remained focused on improving operating margins in fiscal 2017 and expect to remain similarly focused in fiscal 2018. 
+ Our typical subscription contract term is 12 to 36 months, although terms range from one to 60 months, so during any fiscal reporting period only a subset of active subscription contracts is eligible for renewal. We calculate our attrition rate as of the end of each month. Our current attrition rate calculation does not include the Marketing and Commerce Cloud service offerings. Our attrition rate was between eight and nine percent during the fiscal year ended January 31, 2017 , which is comparable to the eight and nine percent attrition rate during the same period a year ago. While it is difficult to predict, we expect our attrition rate to remain in this range as we continue to expand our enterprise business and invest in customer success and related programs. 
+ We expect marketing and sales costs, which were 47 percent of our total revenues for the fiscal year ended January 31, 2017 and 49 percent for the same period a year ago, to continue to represent a substantial portion of total revenues in the future as we seek to grow our customer base, sell more products to existing customers, and build greater brand awareness. 
+ In July 2016 we acquired Demandware, an industry-leading provider of enterprise cloud commerce solutions in the digital commerce market. We acquired Demandware to expand our position in customer relationship management and to pursue the digital commerce market segment with the new Salesforce Commerce Cloud. The financial results of Demandware are included in our consolidated financial statements from the date of acquisition. The total purchase price for Demandware was approximately $2.9 billion . 
+ 
+ In July 2016, we entered into a credit agreement (the “Term Loan Credit Agreement”) which provides for a $500.0 million term loan (the “Term Loan”) that matures on July 11, 2019. All amounts borrowed under the Term Loan were used to pay a portion of the total purchase price for Demandware. Additionally, we entered into an Amended and Restated Credit Agreement (the “Revolving Loan Credit Agreement”) with Wells Fargo Bank, National Association, and certain other institutional lenders that increased our existing revolving credit facility dated October 2014 to $1.0 billion. As of January 31, 2017 , there was $200.0 million of borrowings outstanding under the revolving credit facility. 
+ 
+ In August 2016, we acquired the outstanding stock of Quip, Inc. (“Quip”). Quip combines content and communication to create living documents to allow work-teams to write, edit and discuss documents, spreadsheets and checklists in a single experience. The total purchase price for Quip was approximately $412.0 million . 
+ 
+ In November 2016, we acquired the outstanding stock of Krux Digital, Inc. (“Krux”). Krux is a leading data management platform that unifies, segments and activates audiences to increase engagement with users, prospects and customers. The total purchase price for Krux was approximately $741.8 million . 
+ 
+ Prior to these and other acquisitions during fiscal 2017, our most significant acquisition was ExactTarget, Inc in fiscal 2014. 
+ Fiscal Year 
+ Our fiscal year ends on January 31. References to fiscal 2017 , for example, refer to the fiscal year ending January 31, 2017 . 
+ 
+ Operating Segments 
+ We operate as one operating segment. Operating segments are defined as components of an enterprise for which separate financial information is evaluated regularly by the chief operating decision maker, who in our case is the chief executive officer, in deciding how to allocate resources and assess performance. Over the past few years, including fiscal 2017, we have completed a number of acquisitions. These acquisitions have allowed us to expand our offerings, presence and reach in various market segments of the enterprise cloud computing market. While we have offerings in multiple enterprise cloud computing market segments, including as a result of the Company's acquisitions, our business operates in one operating segment because 
+ 
+ 
+ 33 
+ 
+ Table of Contents 
+ 
+ the majority of our offerings operate on a single platform and are deployed in an identical way, and our chief operating decision maker evaluates our financial information and resources and assesses the performance of these resources on a consolidated basis. Since we operate as one operating segment, all required financial segment information can be found in the consolidated financial statements. 
+ 
+ Sources of Revenues 
+ We derive our revenues from two sources: (1) subscription revenues, which are comprised of subscription fees from customers accessing our enterprise cloud computing services and from customers paying for additional support beyond the standard support that is included in the basic subscription fees; and (2) related professional services such as process mapping, project management, implementation services and other revenue. “Other revenue” consists primarily of training fees. Subscription and support revenues accounted for approximately 92 percent of our total revenues for fiscal 2017 . Subscription revenues are driven primarily by the number of paying subscribers, varying service types, the price of our service and renewals. We define a “customer” as a separate and distinct buying entity (e.g., a company, a distinct business unit of a large corporation, a partnership, etc.) that has entered into a contract to access our enterprise cloud computing services. We define a “subscription” as a unique user account purchased by a customer for use by its employees or other customer-authorized users, and we refer to each such user as a “subscriber.” The number of paying subscriptions at each of our customers ranges from one to hundreds of thousands. None of our customers accounted for more than five percent of our revenues during fiscal 2017 , 2016 or 2015 . 
+ Subscription and support revenues are recognized ratably over the contract terms beginning on the commencement dates of each contract. The typical subscription and support term is 12 to 36 months, although terms range from one to 60 months. Our subscription and support contracts are non-cancelable, though customers typically have the right to terminate their contracts for cause if we materially fail to perform. We generally invoice our customers in advance, in annual installments, and typical payment terms provide that our customers pay us within 30 days of invoice. Amounts that have been invoiced are recorded in accounts receivable and in deferred revenue, or in revenue depending on whether the revenue recognition criteria have been met. In general, we collect our billings in advance of the subscription service period. 
+ Professional services and other revenues consist of fees associated with consulting and implementation services and training. Our consulting and implementation engagements are billed on a time and materials, fixed fee or subscription basis. We also offer a number of training classes on implementing, using and administering our service that are billed on a per person, per class basis. Our typical professional services payment terms provide that our customers pay us within 30 days of invoice. 
+ In determining whether professional services can be accounted for separately from subscription and support revenues, we consider a number of factors, which are described in “Critical Accounting Policies and Estimates—Revenue Recognition” below. 
+ Revenue by Cloud Service Offering 
+ The information below is provided on a supplemental basis to give additional insight into the revenue performance of our individual core service offerings. 
+ All of the cloud offerings that we offer to customers are grouped into four major core cloud service offerings. Subscription and support revenues consisted of the following (in millions): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fiscal Year Ended January 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ Variance- Percent FY'17 and FY'16 
+ 
+ 
+ 
+ Variance- Percent FY'16 and FY'15 
+ 
+ 
+ Sales Cloud 
+ 
+ 
+ 
+ $ 
+ 
+ 3,060.6 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 2,699.0 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 2,443.0 
+ 
+ 
+ 
+ 
+ 
+ 13 
+ 
+ % 
+ 
+ 
+ 
+ 10 
+ 
+ % 
+ 
+ 
+ Service Cloud 
+ 
+ 
+ 
+ 2,320.7 
+ 
+ 
+ 
+ 
+ 
+ 1,817.8 
+ 
+ 
+ 
+ 
+ 
+ 1,320.2 
+ 
+ 
+ 
+ 
+ 
+ 28 
+ 
+ % 
+ 
+ 
+ 
+ 38 
+ 
+ % 
+ 
+ 
+ Salesforce Platform and Other 
+ 
+ 
+ 
+ 1,441.6 
+ 
+ 
+ 
+ 
+ 
+ 1,034.7 
+ 
+ 
+ 
+ 
+ 
+ 745.3 
+ 
+ 
+ 
+ 
+ 
+ 39 
+ 
+ % 
+ 
+ 
+ 
+ 39 
+ 
+ % 
+ 
+ 
+ Marketing Cloud 
+ 
+ 
+ 
+ 933.3 
+ 
+ 
+ 
+ 
+ 
+ 654.1 
+ 
+ 
+ 
+ 
+ 
+ 505.3 
+ 
+ 
+ 
+ 
+ 
+ 43 
+ 
+ % 
+ 
+ 
+ 
+ 29 
+ 
+ % 
+ 
+ 
+ Total 
+ 
+ 
+ 
+ $ 
+ 
+ 7,756.2 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 6,205.6 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 5,013.8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Subscription and support revenues from the Analytics Cloud, Community Cloud, IoT Cloud, Commerce Cloud and Salesforce Quip were not significant. Analytics Cloud, IoT Cloud and Salesforce Quip revenue is included with Salesforce Platform and Other in the table above. Community Cloud revenue is included in either Sales Cloud, Service Cloud or Salesforce Platform and Other revenue depending on the primary service offering purchased. Commerce Cloud revenue, 
+ 
+ 
+ 34 
+ 
+ Table of Contents 
+ 
+ resulting from our Demandware acquisition in July 2016, is included in Marketing Cloud. As required under U.S. generally accepted accounting principles (“U.S. GAAP”), we recorded deferred revenue related to acquired contracts from Demandware at fair value. As a result, we did not recognize certain revenues related to these acquired contracts that Demandware would have otherwise recorded as an independent entity. Of the $933.3 million subscription and support revenue for Marketing Cloud for the fiscal year 2017, approximately 11 percent was attributed to our Demandware acquisition. To the extent Demandware contracts are renewed following the acquisition, we will recognize the revenues for the full values of the contracts over the respective contractual periods. 
+ In situations where a customer purchases multiple cloud offerings, such as through an Enterprise License Agreement, we allocate the contract value to each core service offering based on the customer’s estimated product demand plan and the service that was provided at the inception of the contract. We do not update these allocations based on actual product usage during the term of the contract. We have allocated approximately 13 percent of our total subscription and support revenues for fiscal 2017 and 10 percent for fiscal 2016 , based on customers’ estimated product demand plans and these allocated amounts are included in the table above. 
+ Additionally, some of our service offerings have similar features and functions. For example, customers may use the Sales Cloud, the Service Cloud or our Salesforce Platform to record account and contact information, which are similar features across these core service offerings. Depending on a customer’s actual and projected business requirements, more than one core service offering may satisfy the customer’s current and future needs. We record revenue based on the individual products ordered by a customer, and not according to the customer’s business requirements and usage. In addition, as we introduce new features and functions within each offering and refine our allocation methodology for changes in our business, we do not expect it to be practical to adjust historical revenue results by core service offering for comparability. Accordingly, comparisons of revenue performance by service offering over time may not be meaningful. 
+ Our Sales Cloud service offering is our most widely distributed service offering and has historically been the largest contributor of subscription and support revenues. As a result, Sales Cloud has the most international exposure and foreign exchange rate exposure, relative to the other cloud service offerings. Conversely, revenue for Marketing Cloud is primarily derived from the Americas, with little impact from foreign exchange rate movement. 
+ The revenue growth rates of each of our core service offerings fluctuate from quarter to quarter and over time. While we are a market leader in each core offering, we manage the total balanced product portfolio to deliver solutions to our customers. Accordingly, the revenue result for each cloud service offering is not necessarily indicative of the results to be expected for any subsequent quarter. 
+ Seasonal Nature of Deferred Revenue, Accounts Receivable and Operating Cash Flow 
+ Deferred revenue primarily consists of billings to customers for our subscription service. Over 90 percent of the value of our billings to customers is for our subscription and support service. We generally invoice our customers in annual cycles. Approximately 80 percent of all subscription and support invoices were issued with annual terms during fiscal 2017 , which is consistent with fiscal 2016 . Occasionally, we bill customers for their multi-year contract on a single invoice which results in an increase in noncurrent deferred revenue. We typically issue renewal invoices in advance of the renewal service period, and depending on timing, the initial invoice for the subscription and services contract and the subsequent renewal invoice may occur in different quarters. This may result in an increase in deferred revenue and accounts receivable. There is a disproportionate weighting towards annual billings in the fourth quarter, primarily as a result of large enterprise account buying patterns. Our fourth quarter has historically been our strongest quarter for new business and renewals. The year on year compounding effect of this seasonality in both billing patterns and overall new and renewal business causes the value of invoices that we generate in the fourth quarter for both new business and renewals to increase as a proportion of our total annual billings. Accordingly, because of this billing activity, our first quarter is our largest collections and operating cash flow quarter. 
+ 
+ 
+ 35 
+ 
+ Table of Contents 
+ 
+ The sequential quarterly changes in accounts receivable, related deferred revenue and operating cash flow during the first three quarters of our fiscal year are not necessarily indicative of the billing activity that occurs in the fourth quarter as displayed below (in thousands, except unbilled deferred revenue): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ January 31, 2017 
+ 
+ 
+ 
+ October 31, 2016 
+ 
+ 
+ 
+ July 31, 2016 
+ 
+ 
+ 
+ April 30, 2016 
+ 
+ 
+ Fiscal 2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Accounts receivable, net 
+ 
+ $ 
+ 
+ 3,196,643 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,281,425 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,323,114 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,192,965 
+ 
+ 
+ 
+ 
+ Deferred revenue, current and noncurrent 
+ 
+ 5,542,802 
+ 
+ 
+ 
+ 
+ 
+ 3,495,133 
+ 
+ 
+ 
+ 
+ 
+ 3,823,561 
+ 
+ 
+ 
+ 
+ 
+ 4,006,914 
+ 
+ 
+ 
+ 
+ Operating cash flow (1) 
+ 
+ 706,146 
+ 
+ 
+ 
+ 
+ 
+ 154,312 
+ 
+ 
+ 
+ 
+ 
+ 250,678 
+ 
+ 
+ 
+ 
+ 
+ 1,051,062 
+ 
+ 
+ 
+ 
+ Unbilled deferred revenue (2) 
+ 
+ 9.0 bn 
+ 
+ 
+ 
+ 
+ 
+ 8.6 bn 
+ 
+ 
+ 
+ 
+ 
+ 8.0 bn 
+ 
+ 
+ 
+ 
+ 
+ 7.6 bn 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ January 31, 2016 
+ 
+ 
+ 
+ October 31, 2015 
+ 
+ 
+ 
+ July 31, 2015 
+ 
+ 
+ 
+ April 30, 2015 
+ 
+ 
+ Fiscal 2016 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Accounts receivable, net 
+ 
+ $ 
+ 
+ 2,496,165 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,060,726 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,067,799 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 926,381 
+ 
+ 
+ 
+ 
+ Deferred revenue, current and noncurrent 
+ 
+ 4,291,553 
+ 
+ 
+ 
+ 
+ 
+ 2,846,510 
+ 
+ 
+ 
+ 
+ 
+ 3,034,991 
+ 
+ 
+ 
+ 
+ 
+ 3,056,820 
+ 
+ 
+ 
+ 
+ Operating cash flow (1) 
+ 
+ 470,208 
+ 
+ 
+ 
+ 
+ 
+ 162,514 
+ 
+ 
+ 
+ 
+ 
+ 304,278 
+ 
+ 
+ 
+ 
+ 
+ 735,081 
+ 
+ 
+ 
+ 
+ Unbilled deferred revenue (2) 
+ 
+ 7.1 bn 
+ 
+ 
+ 
+ 
+ 
+ 6.7 bn 
+ 
+ 
+ 
+ 
+ 
+ 6.2 bn 
+ 
+ 
+ 
+ 
+ 
+ 6.0 bn 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ January 31, 2015 
+ 
+ 
+ 
+ October 31, 2014 
+ 
+ 
+ 
+ July 31, 2014 
+ 
+ 
+ 
+ April 30, 2014 
+ 
+ 
+ Fiscal 2015 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Accounts receivable, net 
+ 
+ $ 
+ 
+ 1,905,506 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 794,590 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 834,323 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 684,155 
+ 
+ 
+ 
+ 
+ Deferred revenue, current and noncurrent 
+ 
+ 3,321,449 
+ 
+ 
+ 
+ 
+ 
+ 2,223,977 
+ 
+ 
+ 
+ 
+ 
+ 2,352,904 
+ 
+ 
+ 
+ 
+ 
+ 2,324,615 
+ 
+ 
+ 
+ 
+ Operating cash flow (1) 
+ 
+ 336,506 
+ 
+ 
+ 
+ 
+ 
+ 123,732 
+ 
+ 
+ 
+ 
+ 
+ 239,078 
+ 
+ 
+ 
+ 
+ 
+ 482,128 
+ 
+ 
+ 
+ 
+ Unbilled deferred revenue (2) 
+ 
+ 5.7 bn 
+ 
+ 
+ 
+ 
+ 
+ 5.4 bn 
+ 
+ 
+ 
+ 
+ 
+ 5.0 bn 
+ 
+ 
+ 
+ 
+ 
+ 4.8 bn 
+ 
+ 
+ 
+ (1) Operating cash flow represents net cash provided by operating activities for the three months ended in the periods stated above. In the first quarter of fiscal year 2017, we adopted Accounting Standards Update No. 2016-09, “Stock Compensation (Topic 718): Improvements to Employee Shared-Based Payment Accounting” (“ASU 2016-09”), which addresses among other items, updates to the presentation and treatment of excess tax benefits related to stock based compensation on the Statements of Cash Flows. We have adopted changes to the statement of cash flows on a retrospective basis and have accordingly updated the operating cash flow amounts presented above. 
+ (2) Unbilled deferred revenue represents future billings under our non-cancelable subscription agreements that have not been invoiced and, accordingly, are not recorded in deferred revenue. 
+ 
+ 
+ 
+ 36 
+ 
+ Table of Contents 
+ 
+ Unbilled Deferred Revenue, an Operational Measure 
+ The U.S. GAAP deferred revenue balance on our consolidated balance sheet does not represent the total contract value of annual or multi-year, non-cancelable subscription agreements. Unbilled deferred revenue is an operational measure that represents future billings under our subscription agreements that have not been invoiced and, accordingly, are not recorded in deferred revenue. Unbilled deferred revenue amounts by quarter are reflected in the table above. Our typical contract length is between 12 and 36 months. We expect that the amount of unbilled deferred revenue will change from quarter to quarter for several reasons, including the specific timing, duration and size of large customer subscription agreements, varying billing cycles of subscription agreements, the specific timing of customer renewals, foreign currency fluctuations, the timing of when unbilled deferred revenue is to be recognized as revenue, and changes in customer financial circumstances. For multi-year subscription agreements billed annually, the associated unbilled deferred revenue is typically high at the beginning of the contract period, zero just prior to renewal, and increases if the agreement is renewed. Low unbilled deferred revenue attributable to a particular subscription agreement is often associated with an impending renewal and may not be an indicator of the likelihood of renewal or future revenue from such customer. Accordingly, we expect that the amount of aggregate unbilled deferred revenue will change from year-to-year depending in part upon the number and dollar amount of subscription agreements at particular stages in their renewal cycle. Such fluctuations are not a reliable indicator of future revenues. Unbilled deferred revenue does not include minimum revenue commitments from indirect sales channels, as we recognize revenue, deferred revenue, and any unbilled deferred revenue upon sell-through to an end user customer. Unbilled deferred revenue also does not include any estimates for overage billings above a customer's minimum commitment. 
+ 
+ 
+ Cost of Revenues and Operating Expenses 
+ Cost of Revenues. Cost of subscription and support revenues primarily consists of expenses related to delivering our service and providing support, the costs of data center capacity, depreciation or operating lease expense associated with computer equipment and software, allocated overhead, amortization expense associated with capitalized software related to our services and acquired developed technologies and certain fees paid to various third parties for the use of their technology, services and data. We allocate overhead such as information technology infrastructure, rent and occupancy charges based on headcount. Employee benefit costs and taxes are allocated based upon a percentage of total compensation expense. As such, general overhead expenses are reflected in each cost of revenue and operating expense category. Cost of professional services and other revenues consists primarily of employee-related costs associated with these services, including stock-based expenses, the cost of subcontractors, certain third party fees and allocated overhead. The cost of providing professional services is significantly higher as a percentage of the related revenue than for our enterprise cloud computing subscription service due to the direct labor costs and costs of subcontractors. 
+ We intend to continue to invest additional resources in our enterprise cloud computing services. For example, we have invested in additional database software and we plan to increase the capacity that we are able to offer globally through data centers and third party infrastructure providers. As we acquire new businesses and technologies, the amortization expense associated with this activity will be included in cost of revenues. Additionally, as we enter into new contracts with third parties for the use of their technology, services or data, or as our sales volume grows, the fees paid to use such technology or services may increase. The timing of these additional expenses will affect our cost of revenues, both in terms of absolute dollars and as a percentage of revenues, in the affected periods. 
+ Research and Development . Research and development expenses consist primarily of salaries and related expenses, including stock-based expenses, the costs of our development and test data center and allocated overhead. We continue to focus our research and development efforts on adding new features and services, integrating acquired technologies, increasing the functionality and security and enhancing the ease of use of our enterprise cloud computing services. Our proprietary, scalable and secure multi-tenant architecture enables us to provide all of our customers with a service based on a single version of our application. As a result, we do not have to maintain multiple versions, which enables us to have relatively lower research and development expenses as compared to traditional enterprise software companies. 
+ We expect that in the future, research and development expenses will increase in absolute dollars and may increase as a percentage of total revenues as we invest in building the necessary employee and system infrastructure required to support the development of new, and improve existing, technologies and the integration of acquired businesses and technologies. 
+ Marketing and Sales. Marketing and sales expenses are our largest cost and consist primarily of salaries and related expenses, including stock-based expenses, for our sales and marketing staff, including commissions, payments to partners, marketing programs and allocated overhead. Marketing programs consist of advertising, events, corporate communications, brand building and product marketing activities. 
+ 
+ 
+ 37 
+ 
+ Table of Contents 
+ 
+ We plan to continue to invest in marketing and sales by expanding our domestic and international selling and marketing activities, building brand awareness, attracting new customers and sponsoring additional marketing events. The timing of these marketing events, such as our annual and largest event, Dreamforce, will affect our marketing costs in a particular quarter. We expect that in the future, marketing and sales expenses will increase in absolute dollars and continue to be our largest cost. 
+ General and Administrative. General and administrative expenses consist of salaries and related expenses, including stock-based expenses, for finance and accounting, legal, internal audit, human resources and management information systems personnel, legal costs, professional fees, other corporate expenses and allocated overhead. We expect that in the future, general and administrative expenses will increase in absolute dollars as we invest in our infrastructure and we incur additional employee related costs, professional fees and insurance costs related to the growth of our business and international expansion. We expect general and administrative costs as a percentage of total revenues to either remain flat or decrease for the next several quarters. However, the timing of additional expenses in a particular quarter, both in terms of absolute dollars and as a percentage of revenues, will affect our general and administrative expenses. 
+ Stock-Based Expenses. Our cost of revenues and operating expenses include stock-based expenses related to equity plans for employees and non-employee directors. We recognize our stock-based compensation as an expense in the statement of operations based on their fair values and vesting periods. These charges have been significant in the past and we expect that they will increase as our stock price increases, as we acquire more companies, as we hire more employees and seek to retain existing employees. 
+ During fiscal 2017 , we recognized stock-based expense of $820.4 million . As of January 31, 2017 , the aggregate stock compensation remaining to be amortized to costs and expenses was $2.6 billion . We expect this stock compensation balance to be amortized as follows: $980.5 million during fiscal 2018 ; $762.9 million during fiscal 2019 ; $540.5 million during fiscal 2020 ; $249.7 million during fiscal 2021 ; $17.4 million during fiscal 2022 ; $17.2 million during fiscal 2023 ; $8.0 million during fiscal 2024 . The expected amortization reflects only outstanding stock awards as of January 31, 2017 and assumes no forfeiture activity. We expect to continue to issue stock-based awards to our employees in future periods. 
+ Amortization of Purchased Intangibles from Business Combinations . Our cost of revenues and operating expenses include amortization of acquisition-related intangible assets, such as the amortization of the cost associated with an acquired company’s research and development efforts, trade names, customer lists and customer relationships. We expect this expense to fluctuate as we acquire more companies. 
+ 
+ Critical Accounting Policies and Estimates 
+ Our consolidated financial statements are prepared in accordance with accounting principles generally accepted in the United States. The preparation of these consolidated financial statements requires us to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenues, costs and expenses, and related disclosures. On an ongoing basis, we evaluate our estimates and assumptions. Our actual results may differ from these estimates under different assumptions or conditions. 
+ We believe that of our significant accounting policies, which are described in Note 1 “Summary of Business and Significant Accounting Policies” to our consolidated financial statements, the following accounting policies involve a greater degree of judgment and complexity. Accordingly, these are the policies we believe are the most critical to aid in fully understanding and evaluating our consolidated financial condition and results of operations. 
+ Revenue Recognition . We derive our revenues from two sources: (1) subscription revenues, which are comprised of subscription fees from customers accessing our enterprise cloud computing services and from customers purchasing additional support beyond the standard support that is included in the basic subscription fee; and (2) related professional services such as process mapping, project management, implementation services and other revenue. “Other revenue” consists primarily of training fees. 
+ We commence revenue recognition when all of the following conditions are satisfied: 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ there is persuasive evidence of an arrangement; 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ the service has been or is being provided to the customer; 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ the collection of the fees is reasonably assured; and 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ the amount of fees to be paid by the customer is fixed or determinable. 
+ Our subscription service arrangements are non-cancelable and do not contain refund-type provisions. 
+ 
+ 
+ 38 
+ 
+ Table of Contents 
+ 
+ Subscription and Support Revenues 
+ Subscription and support revenues are recognized ratably over the contract terms beginning on the commencement date of each contract, which is the date our service is made available to customers. Amounts that have been invoiced are recorded in accounts receivable and in deferred revenue or revenue, depending on whether the revenue recognition criteria have been met. 
+ Professional Services and Other Revenues 
+ Our professional services contracts are either on a time and materials, fixed-fee or subscription basis. As discussed below, these revenues are recognized as the services are rendered for time and materials contracts, and when the milestones are achieved and accepted by the customer or on a proportional performance basis for fixed price contracts and ratably over the contract term for subscription professional services. The milestone method for revenue recognition is used when there is substantive uncertainty at the date the contract is entered into whether the milestone will be achieved. Training revenues are recognized after the services are performed. 
+ Multiple Deliverable Arrangements 
+ We enter into arrangements with multiple deliverables that generally include multiple subscriptions, premium support, and professional services. If the deliverables have standalone value at contract inception, we account for each deliverable separately. Subscription services have standalone value as such services are often sold separately. In determining whether professional services have standalone value, we consider the following factors for each professional services agreement: availability of the services from other vendors, the nature of the professional services, the timing of when the professional services contract was signed in comparison to the subscription service start date, and the contractual dependence of the subscription service on the customer’s satisfaction with the professional services work. To date, we have concluded that all of the professional services included in multiple deliverable arrangements executed have standalone value. 
+ Multiple deliverables included in an arrangement are separated into different units of accounting and the arrangement consideration is allocated to the identified separate units based on a relative selling price hierarchy. We determine the relative selling price for a deliverable based on its vendor-specific objective evidence of selling price (“VSOE”), if available, or our best estimate of selling price (“BESP”), if VSOE is not available. We have determined that third-party evidence (“TPE”) is not a practical alternative due to differences in our service offerings compared to other parties and the availability of relevant third-party pricing information. The amount of revenue allocated to delivered items is limited by contingent revenue, if any. 
+ For certain professional services, we have established VSOE as a consistent number of standalone sales of this deliverable have been priced within a reasonably narrow range. We have not established VSOE for our subscription services due to lack of pricing consistency, the introduction of new services and other factors. Accordingly, we use our BESP to determine the relative selling price. 
+ We determined BESP by considering our overall pricing objectives and market conditions. Significant pricing practices taken into consideration include our discounting practices, the size and volume of our transactions, the customer demographic, the geographic area where our services are sold, our price lists, our go-to-market strategy, historical standalone sales and contract prices. The determination of BESP is made through consultation with and approval by management, taking into consideration the go-to-market strategy. As our go-to-market strategies evolve, we may modify our pricing practices in the future, which could result in changes in relative selling prices, including both VSOE and BESP. 
+ Deferred Revenue. The deferred revenue balance does not represent the total contract value of annual or multi-year, non-cancelable subscription agreements. Deferred revenue primarily consists of billings or payments received in advance of revenue recognition from subscription services described above and is recognized as the revenue recognition criteria are met. We generally invoice customers in annual installments. The deferred revenue balance is influenced by several factors, including seasonality, the compounding effects of renewals, invoice duration, invoice timing, dollar size and new business linearity within the quarter. 
+ Deferred revenue that will be recognized during the succeeding twelve month period is recorded as current deferred revenue and the remaining portion is recorded as noncurrent. 
+ Deferred Commissions. We defer commission payments to our direct sales force. The commissions are deferred and amortized to sales expense over the non-cancelable terms of the related subscription contracts with our customers, which are typically 12 to 36 months. The commission payments, which are paid in full the month after the customer’s service commences, are a direct and incremental cost of the revenue arrangements. The deferred commission amounts are recoverable through the future revenue streams under the non-cancelable customer contracts. We believe this is the preferable method of accounting as the commission charges are so closely related to the revenue from the non-cancelable customer contracts that they should be recorded as an asset and charged to expense over the same period that the subscription revenue is recognized. 
+ 
+ 
+ 39 
+ 
+ Table of Contents 
+ 
+ During fiscal 2017 , we deferred $462.0 million of commission expenditures and we amortized $371.5 million to sales expense. During fiscal 2016 , we deferred $380.0 million of commission expenditures and we amortized $319.1 million to sales expense. Deferred commissions on our consolidated balance sheets totaled $539.6 million at January 31, 2017 and $449.1 million at January 31, 2016 . 
+ 
+ Capitalized Internal-Use Software Costs . We are required to follow the guidance of Accounting Standards Codification 350 (“ASC 350”), Intangibles- Goodwill and Other in accounting for the cost of computer software developed for internal-use and the accounting for web-based product development costs. ASC 350 requires companies to capitalize qualifying computer software costs, which are incurred during the application development stage, and amortize these costs on a straight-line basis over the estimated useful life of the respective asset. We deliver our enterprise cloud computing solutions as a service via all the major Internet browsers and on leading major mobile device operating systems. As a result of this software as a service delivery model, we believe we have larger capitalized costs as compared to traditional enterprise software companies as they are required to use a different accounting standard. 
+ Costs related to preliminary project activities and post implementation activities are expensed as incurred. Internal-use software is amortized on a straight-line basis over its estimated useful life. We evaluate the useful lives of these assets on an annual basis and test for impairment whenever events or changes in circumstances occur that could impact the recoverability of these assets. 
+ Stock-Based Expense. We recognize stock-based expenses related to stock options and restricted stock awards on a straight-line basis, net of estimated forfeitures, over the requisite service period of the awards, which is generally the vesting term of four years . We recognize stock-based expenses related to shares issued pursuant to our 2004 Employee Stock Purchase Plan (“ESPP”) on a straight-line basis over the offering period, which is 12 months . 
+ 
+ Stock-based expenses related to performance share grants are measured based on grant date fair value and expensed on a straight-line basis over the service period of the awards, which is generally the vesting term of three years. 
+ 
+ We, at times, grant unvested restricted shares to employee stockholders of certain acquired companies in lieu of cash consideration. These awards are generally subject to continued post-acquisition employment, and as a result, we have accounted for them as post-acquisition stock-based expense. We recognize stock-based expenses equal to the grant date fair value of the restricted stock awards on a straight-line basis over the requisite service period of the awards. 
+ Business Combinations. Accounting for business combinations requires us to make significant estimates and assumptions, especially at the acquisition date with respect to tangible and intangible assets acquired and liabilities assumed and pre-acquisition contingencies. We use our best estimates and assumptions to accurately assign fair value to the tangible and intangible assets acquired and liabilities assumed at the acquisition date. 
+ Examples of critical estimates in valuing certain of the intangible assets and goodwill we have acquired include but are not limited to: 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ future expected cash flows from subscription and support contracts, professional services contracts, other customer contracts and acquired developed technologies and patents; 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ the acquired company’s trade name, trademark and existing customer relationship, as well as assumptions about the period of time the acquired trade name and trademark will continue to be used in our offerings; 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ uncertain tax positions and tax related valuation allowances assumed; and 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ discount rates. 
+ Unanticipated events and circumstances may occur that may affect the accuracy or validity of such assumptions, estimates or actual results. 
+ In the event that we acquire an entity in which we previously held a strategic investment, the difference between the fair value of the shares as of the date of the acquisition and the carrying value of the strategic investment is recorded as a gain or loss and disclosed separately within the statements of operations. 
+ 
+ Goodwill and Intangibles. We make estimates, assumptions, and judgments when valuing goodwill and other intangible assets in connection with the initial purchase price allocation of an acquired entity, as well as when evaluating the recoverability of our goodwill and other intangible assets on an ongoing basis. These estimates are based upon a number of factors, including historical experience, market conditions, and information obtained from the management of acquired companies. Critical estimates in valuing certain intangible assets include, but are not limited to, historical and projected 
+ 
+ 
+ 40 
+ 
+ Table of Contents 
+ 
+ attrition rates, discount rates, anticipated growth in revenue from the acquired customers and acquired technology, and the expected use of the acquired assets. These factors are also considered in determining the useful life of acquired intangible assets. The amounts and useful lives assigned to identified intangible assets impact the amount and timing of future amortization expense. 
+ Income Taxes. We use the asset and liability method of accounting for income taxes. Under this method, deferred tax assets and liabilities are determined based on temporary differences between the financial statement and tax basis of assets and liabilities using enacted tax rates in effect for the year in which the differences are expected to reverse. The effect on deferred tax assets and liabilities of a change in tax rates is recognized in the consolidated statements of operations in the period that includes the enactment date. 
+ Our tax positions are subject to income tax audits by multiple tax jurisdictions throughout the world. We recognize the tax benefit of an uncertain tax position only if it is more likely than not that the position is sustainable upon examination by the taxing authority, based on the technical merits. The tax benefit recognized is measured as the largest amount of benefit which is greater than 50 percent likely to be realized upon settlement with the taxing authority. We recognize interest accrued and penalties related to unrecognized tax benefits in our income tax provision. 
+ Valuation allowances are established when necessary to reduce deferred tax assets to the amounts that are more likely than not expected to be realized based on the weighting of positive and negative evidence. Future realization of deferred tax assets ultimately depends on the existence of sufficient taxable income of the appropriate character (for example, ordinary income or capital gain) within the carryback or carryforward periods available under the applicable tax law. We regularly review the deferred tax assets for recoverability based on historical taxable income, projected future taxable income, the expected timing of the reversals of existing temporary differences and tax planning strategies. Our judgment regarding future profitability may change due to many factors, including future market conditions and the ability to successfully execute the business plans and/or tax planning strategies. Should there be a change in the ability to recover deferred tax assets, our income tax provision would increase or decrease in the period in which the assessment is changed. 
+ Strategic Investments. We hold strategic investments in marketable equity securities and non-marketable debt and equity securities in which we do not have a controlling interest or significant influence, as defined in Accounting Standards Codification 323 (“ASC 323”), Investments - Equity Method and Joint Ventures. Marketable equity securities are measured using quoted prices in their respective active markets and non-marketable debt and equity securities are recorded at cost. If, based on the terms of our ownership of these marketable and non-marketable securities, we determine that we exercise significant influence on the entity to which these marketable and non-marketable securities relate, we apply the equity method of accounting for such investments. 
+ We determine the fair value of our marketable equity securities and non-marketable debt and equity securities quarterly for impairment and disclosure purposes; however, the non-marketable debt and equity securities are recorded at fair value only if an impairment is recognized. The measurement of fair value requires significant judgment and includes a qualitative and quantitative analysis of events and circumstances that impact the fair value of the investment. Our assessment of the severity and duration of the impairment and qualitative and quantitative analysis includes the investee’s financial metrics, the investee’s products and technologies meeting or exceeding predefined milestones, market acceptance of the product or technology, other competitive products or technology in the market, general market conditions, management and governance structure of the investee, investee’s liquidity, debt ratios and the rate at which the investee is using its cash, and investee’s receipt of additional funding at a lower valuation. In determining the estimated fair value of our strategic investments in privately held companies, we utilize the most recent data available to us. Valuations of privately held companies are inherently complex due to the lack of readily available market data. 
+ 
+ If the fair value of an investment is below our cost, we determine whether the investment is other-than-temporarily impaired based on our qualitative and quantitative analysis, which includes the severity and duration of the impairment. If the investment is considered to be other-than-temporarily impaired, we record the investment at fair value by recognizing an impairment through the income statement and establishing a new cost basis for the investment. 
+ 
+ 
+ 41 
+ 
+ 
+ Table of Contents 
+ 
+ Results of Operations 
+ The following tables set forth selected data for each of the periods indicated (in thousands): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fiscal Year Ended January 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ As a % of Total Revenues 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ As a % of Total Revenues 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ As a % of Total Revenues 
+ 
+ 
+ Revenues: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Subscription and support 
+ 
+ 
+ 
+ $ 
+ 
+ 7,756,205 
+ 
+ 
+ 
+ 
+ 
+ 92% 
+ 
+ 
+ 
+ $ 
+ 
+ 6,205,599 
+ 
+ 
+ 
+ 
+ 
+ 93% 
+ 
+ 
+ 
+ $ 
+ 
+ 5,013,764 
+ 
+ 
+ 
+ 
+ 
+ 93% 
+ 
+ 
+ Professional services and other 
+ 
+ 
+ 
+ 635,779 
+ 
+ 
+ 
+ 
+ 
+ 8 
+ 
+ 
+ 
+ 461,617 
+ 
+ 
+ 
+ 
+ 
+ 7 
+ 
+ 
+ 
+ 359,822 
+ 
+ 
+ 
+ 
+ 
+ 7 
+ 
+ 
+ Total revenues 
+ 
+ 
+ 
+ 8,391,984 
+ 
+ 
+ 
+ 
+ 
+ 100 
+ 
+ 
+ 
+ 6,667,216 
+ 
+ 
+ 
+ 
+ 
+ 100 
+ 
+ 
+ 
+ 5,373,586 
+ 
+ 
+ 
+ 
+ 
+ 100 
+ 
+ 
+ Cost of revenues (1)(2): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Subscription and support 
+ 
+ 
+ 
+ 1,556,353 
+ 
+ 
+ 
+ 
+ 
+ 19 
+ 
+ 
+ 
+ 1,188,967 
+ 
+ 
+ 
+ 
+ 
+ 18 
+ 
+ 
+ 
+ 924,638 
+ 
+ 
+ 
+ 
+ 
+ 17 
+ 
+ 
+ Professional services and other 
+ 
+ 
+ 
+ 677,686 
+ 
+ 
+ 
+ 
+ 
+ 8 
+ 
+ 
+ 
+ 465,581 
+ 
+ 
+ 
+ 
+ 
+ 7 
+ 
+ 
+ 
+ 364,632 
+ 
+ 
+ 
+ 
+ 
+ 7 
+ 
+ 
+ Total cost of revenues 
+ 
+ 
+ 
+ 2,234,039 
+ 
+ 
+ 
+ 
+ 
+ 27 
+ 
+ 
+ 
+ 1,654,548 
+ 
+ 
+ 
+ 
+ 
+ 25 
+ 
+ 
+ 
+ 1,289,270 
+ 
+ 
+ 
+ 
+ 
+ 24 
+ 
+ 
+ Gross profit 
+ 
+ 
+ 
+ 6,157,945 
+ 
+ 
+ 
+ 
+ 
+ 73 
+ 
+ 
+ 
+ 5,012,668 
+ 
+ 
+ 
+ 
+ 
+ 75 
+ 
+ 
+ 
+ 4,084,316 
+ 
+ 
+ 
+ 
+ 
+ 76 
+ 
+ 
+ Operating expenses (1)(2): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Research and development 
+ 
+ 
+ 
+ 1,208,127 
+ 
+ 
+ 
+ 
+ 
+ 14 
+ 
+ 
+ 
+ 946,300 
+ 
+ 
+ 
+ 
+ 
+ 14 
+ 
+ 
+ 
+ 792,917 
+ 
+ 
+ 
+ 
+ 
+ 15 
+ 
+ 
+ Marketing and sales 
+ 
+ 
+ 
+ 3,918,027 
+ 
+ 
+ 
+ 
+ 
+ 47 
+ 
+ 
+ 
+ 3,239,824 
+ 
+ 
+ 
+ 
+ 
+ 49 
+ 
+ 
+ 
+ 2,757,096 
+ 
+ 
+ 
+ 
+ 
+ 51 
+ 
+ 
+ General and administrative 
+ 
+ 
+ 
+ 967,563 
+ 
+ 
+ 
+ 
+ 
+ 11 
+ 
+ 
+ 
+ 748,238 
+ 
+ 
+ 
+ 
+ 
+ 11 
+ 
+ 
+ 
+ 679,936 
+ 
+ 
+ 
+ 
+ 
+ 13 
+ 
+ 
+ Operating lease termination resulting from purchase of 50 Fremont 
+ 
+ 
+ 
+ 0 
+ 
+ 
+ 
+ 
+ 
+ 0 
+ 
+ 
+ 
+ (36,617 
+ 
+ ) 
+ 
+ 
+ 
+ (1) 
+ 
+ 
+ 
+ 0 
+ 
+ 
+ 
+ 
+ 
+ 0 
+ 
+ 
+ Total operating expenses 
+ 
+ 
+ 
+ 6,093,717 
+ 
+ 
+ 
+ 
+ 
+ 72 
+ 
+ 
+ 
+ 4,897,745 
+ 
+ 
+ 
+ 
+ 
+ 73 
+ 
+ 
+ 
+ 4,229,949 
+ 
+ 
+ 
+ 
+ 
+ 79 
+ 
+ 
+ Income (loss) from operations 
+ 
+ 
+ 
+ 64,228 
+ 
+ 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 114,923 
+ 
+ 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ (145,633 
+ 
+ ) 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ Investment income 
+ 
+ 
+ 
+ 27,374 
+ 
+ 
+ 
+ 
+ 
+ 0 
+ 
+ 
+ 
+ 15,341 
+ 
+ 
+ 
+ 
+ 
+ 0 
+ 
+ 
+ 
+ 10,038 
+ 
+ 
+ 
+ 
+ 
+ 0 
+ 
+ 
+ Interest expense 
+ 
+ 
+ 
+ (88,988 
+ 
+ ) 
+ 
+ 
+ 
+ (1) 
+ 
+ 
+ 
+ (72,485 
+ 
+ ) 
+ 
+ 
+ 
+ (1) 
+ 
+ 
+ 
+ (73,237 
+ 
+ ) 
+ 
+ 
+ 
+ (1) 
+ 
+ 
+ Other income (expense) (1) 
+ 
+ 
+ 
+ 9,072 
+ 
+ 
+ 
+ 
+ 
+ 0 
+ 
+ 
+ 
+ (15,292 
+ 
+ ) 
+ 
+ 
+ 
+ 0 
+ 
+ 
+ 
+ (19,878 
+ 
+ ) 
+ 
+ 
+ 
+ 0 
+ 
+ 
+ Gain on sales of land and building improvements 
+ 
+ 
+ 
+ 0 
+ 
+ 
+ 
+ 
+ 
+ 0 
+ 
+ 
+ 
+ 21,792 
+ 
+ 
+ 
+ 
+ 
+ 0 
+ 
+ 
+ 
+ 15,625 
+ 
+ 
+ 
+ 
+ 
+ 0 
+ 
+ 
+ Gains from acquisitions of strategic investments 
+ 
+ 
+ 
+ 13,697 
+ 
+ 
+ 
+ 
+ 
+ 0 
+ 
+ 
+ 
+ 0 
+ 
+ 
+ 
+ 
+ 
+ 0 
+ 
+ 
+ 
+ 0 
+ 
+ 
+ 
+ 
+ 
+ 0 
+ 
+ 
+ Income (loss) before benefit from (provision for) income taxes 
+ 
+ 
+ 
+ 25,383 
+ 
+ 
+ 
+ 
+ 
+ 0 
+ 
+ 
+ 
+ 64,279 
+ 
+ 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ (213,085 
+ 
+ ) 
+ 
+ 
+ 
+ (4) 
+ 
+ 
+ Benefit from (provision for) income taxes (3) 
+ 
+ 
+ 
+ 154,249 
+ 
+ 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ (111,705 
+ 
+ ) 
+ 
+ 
+ 
+ (2) 
+ 
+ 
+ 
+ (49,603 
+ 
+ ) 
+ 
+ 
+ 
+ (1) 
+ 
+ 
+ Net income (loss) 
+ 
+ 
+ 
+ $ 
+ 
+ 179,632 
+ 
+ 
+ 
+ 
+ 
+ 2% 
+ 
+ 
+ 
+ $ 
+ 
+ (47,426 
+ 
+ ) 
+ 
+ 
+ 
+ (1)% 
+ 
+ 
+ 
+ $ 
+ 
+ (262,688 
+ 
+ ) 
+ 
+ 
+ 
+ (5)% 
+ (1) Cost of revenues and marketing and sales expenses include the following amounts related to amortization of purchased intangibles from business combinations (in thousands): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fiscal Year Ended January 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ As a % of Total Revenues 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ As a % of Total Revenues 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ As a % of Total Revenues 
+ 
+ 
+ Cost of revenues 
+ 
+ 
+ 
+ $ 
+ 
+ 127,676 
+ 
+ 
+ 
+ 
+ 
+ 2% 
+ 
+ 
+ 
+ $ 
+ 
+ 80,918 
+ 
+ 
+ 
+ 
+ 
+ 1% 
+ 
+ 
+ 
+ $ 
+ 
+ 90,300 
+ 
+ 
+ 
+ 
+ 
+ 2% 
+ 
+ 
+ Marketing and sales 
+ 
+ 
+ 
+ 97,601 
+ 
+ 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 77,152 
+ 
+ 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 64,673 
+ 
+ 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ Other non-operating expense 
+ 
+ 
+ 
+ 2,491 
+ 
+ 
+ 
+ 
+ 
+ 0 
+ 
+ 
+ 
+ 3,636 
+ 
+ 
+ 
+ 
+ 
+ 0 
+ 
+ 
+ 
+ 0 
+ 
+ 
+ 
+ 
+ 
+ 0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 42 
+ 
+ Table of Contents 
+ 
+ (2) Cost of revenues and operating expenses include the following amounts related to stock-based expenses (in thousands): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fiscal Year Ended January 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ As a % of Total Revenues 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ As a % of Total Revenues 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ As a % of Total Revenues 
+ 
+ 
+ Cost of revenues 
+ 
+ 
+ 
+ $ 
+ 
+ 107,457 
+ 
+ 
+ 
+ 
+ 
+ 1% 
+ 
+ 
+ 
+ $ 
+ 
+ 69,443 
+ 
+ 
+ 
+ 
+ 
+ 1% 
+ 
+ 
+ 
+ $ 
+ 
+ 53,812 
+ 
+ 
+ 
+ 
+ 
+ 1% 
+ 
+ 
+ Research and development 
+ 
+ 
+ 
+ 187,487 
+ 
+ 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ 129,434 
+ 
+ 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ 121,193 
+ 
+ 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ Marketing and sales 
+ 
+ 
+ 
+ 388,937 
+ 
+ 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ 289,152 
+ 
+ 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ 286,410 
+ 
+ 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ General and administrative 
+ 
+ 
+ 
+ 136,486 
+ 
+ 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ 105,599 
+ 
+ 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ 103,350 
+ 
+ 
+ 
+ 
+ 
+ 2 
+ 
+ (3) Amounts include a $210.3 million tax benefit recorded during fiscal 2017 as a result of the partial release of the valuation allowance related to the Demandware, Inc. acquisition. See Note 11 “Income Taxes.” 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ As of January 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ Selected Balance Sheet Data (in thousands): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cash, cash equivalents and marketable securities 
+ 
+ 
+ 
+ $ 
+ 
+ 2,208,887 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 2,725,377 
+ 
+ 
+ 
+ 
+ Deferred revenue, current and noncurrent 
+ 
+ 
+ 
+ 5,542,802 
+ 
+ 
+ 
+ 
+ 
+ 4,291,553 
+ 
+ 
+ 
+ 
+ Unbilled deferred revenue (an operational measure) 
+ 
+ 
+ 
+ 9,000,000 
+ 
+ 
+ 
+ 
+ 
+ 7,100,000 
+ 
+ 
+ 
+ 
+ Principal due on our outstanding debt obligations 
+ 
+ 
+ 
+ 2,050,000 
+ 
+ 
+ 
+ 
+ 
+ 1,350,000 
+ 
+ 
+ Unbilled deferred revenue was approximately $9.0 billion as of January 31, 2017 and $7.1 billion as of January 31, 2016 . Unbilled deferred revenue represents future billings under our non-cancelable subscription agreements that have not been invoiced and, accordingly, are not recorded in deferred revenue. The January 31, 2017 balance includes approximately $450.0 million related to Demandware, which we acquired in July 2016. 
+ Fiscal Years Ended January 31, 2017 and 2016 
+ Revenues. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fiscal Year Ended January 31, 
+ 
+ 
+ 
+ Variance 
+ 
+ 
+ (in thousands) 
+ 
+ 2017 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ Dollars 
+ 
+ 
+ 
+ Percent 
+ 
+ 
+ Subscription and support 
+ 
+ $ 
+ 
+ 7,756,205 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 6,205,599 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,550,606 
+ 
+ 
+ 
+ 
+ 
+ 25% 
+ 
+ 
+ Professional services and other 
+ 
+ 635,779 
+ 
+ 
+ 
+ 
+ 
+ 461,617 
+ 
+ 
+ 
+ 
+ 
+ 174,162 
+ 
+ 
+ 
+ 
+ 
+ 38% 
+ 
+ 
+ Total revenues 
+ 
+ $ 
+ 
+ 8,391,984 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 6,667,216 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,724,768 
+ 
+ 
+ 
+ 
+ 
+ 26% 
+ Total revenues were $8.4 billion for fiscal 2017 , compared to $6.7 billion during the same period a year ago, an increase of $1.7 billion , or 26 percent . Subscription and support revenues were $7.8 billion , or 92 percent of total revenues, for fiscal 2017 , compared to $6.2 billion , or 93 percent of total revenues, during the same period a year ago, an increase of $1.6 billion , or 25 percent . The increase in subscription and support revenues in fiscal 2017 was primarily caused by volume-driven increases from new business, which includes new customers, upgrades and additional subscriptions from existing customers. Revenue resulting from our July 2016 acquisition of Demandware contributed $120.4 million to total revenues for fiscal 2017 . Revenues from other acquired businesses in fiscal 2017 were not material. We continue to invest in a variety of customer programs and initiatives, which, along with increasing enterprise adoption, have helped keep our attrition rate consistent as compared to the prior year. Our attrition rate also played a role in the increase in subscription and support revenues. Changes in our pricing have not been a significant driver of revenue growth for the periods presented. Professional services and other revenues were $635.8 million , or eight percent of total revenues, for fiscal 2017 , compared to $461.6 million , or seven percent of total revenues, for the same period a year ago, an increase of $174.2 million , or 38 percent . The increase is primarily due to the growth in our subscription professional services. 
+ 
+ 
+ 43 
+ 
+ Table of Contents 
+ 
+ Revenues by geography were as follows (in thousands): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fiscal Year Ended January 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ Americas 
+ 
+ 
+ 
+ $ 
+ 
+ 6,224,971 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 4,910,745 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 3,868,329 
+ 
+ 
+ 
+ 
+ Europe 
+ 
+ 
+ 
+ 1,373,547 
+ 
+ 
+ 
+ 
+ 
+ 1,162,808 
+ 
+ 
+ 
+ 
+ 
+ 984,919 
+ 
+ 
+ 
+ 
+ Asia Pacific 
+ 
+ 
+ 
+ 793,466 
+ 
+ 
+ 
+ 
+ 
+ 593,663 
+ 
+ 
+ 
+ 
+ 
+ 520,338 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 8,391,984 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 6,667,216 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 5,373,586 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fiscal Year Ended January 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ Revenues by geography: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Americas 
+ 
+ 
+ 
+ 74 
+ 
+ % 
+ 
+ 
+ 
+ 74 
+ 
+ % 
+ 
+ 
+ 
+ 72 
+ 
+ % 
+ 
+ 
+ Europe 
+ 
+ 
+ 
+ 16 
+ 
+ 
+ 
+ 
+ 
+ 17 
+ 
+ 
+ 
+ 
+ 
+ 18 
+ 
+ 
+ 
+ 
+ Asia Pacific 
+ 
+ 
+ 
+ 10 
+ 
+ 
+ 
+ 
+ 
+ 9 
+ 
+ 
+ 
+ 
+ 
+ 10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 100 
+ 
+ % 
+ 
+ 
+ 
+ 100 
+ 
+ % 
+ 
+ 
+ 
+ 100 
+ 
+ % 
+ Revenues in Europe and Asia Pacific accounted for $2.2 billion , or 26 percent of total revenues, for fiscal 2017 , compared to $1.8 billion , or 26 percent of total revenues, during the same period a year ago, an increase of $410.5 million , or 23 percent . The increase in revenues on a total dollar basis outside of the Americas was the result of the increasing acceptance of our service, our focus on marketing our services internationally, additional resources and consistent attrition rates as a result of the reasons stated above. Revenues outside of the Americas increased on a total dollar basis in fiscal 2017 despite an overall strengthening of the U.S. dollar, which reduced aggregate international revenues by $103.8 million compared to fiscal 2016. 
+ Americas revenue attributed to the United States was approximately 96 percent , 95 percent and 94 percent for fiscal 2017 , 2016 and 2015 , respectively. No other country represented more than ten percent of total revenue during fiscal 2017 , 2016 or 2015 . 
+ 
+ Cost of Revenues. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fiscal Year Ended January 31, 
+ 
+ 
+ 
+ Variance 
+ Dollars 
+ 
+ 
+ (in thousands) 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 
+ Subscription and support 
+ 
+ 
+ 
+ $ 
+ 
+ 1,556,353 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,188,967 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 367,386 
+ 
+ 
+ 
+ 
+ Professional services and other 
+ 
+ 
+ 
+ 677,686 
+ 
+ 
+ 
+ 
+ 
+ 465,581 
+ 
+ 
+ 
+ 
+ 
+ 212,105 
+ 
+ 
+ 
+ 
+ Total cost of revenues 
+ 
+ 
+ 
+ $ 
+ 
+ 2,234,039 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,654,548 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 579,491 
+ 
+ 
+ 
+ 
+ Percent of total revenues 
+ 
+ 
+ 
+ 27 
+ 
+ % 
+ 
+ 
+ 
+ 25 
+ 
+ % 
+ 
+ 
+ 
+ 
+ Cost of revenues was $2.2 billion , or 27 percent of total revenues, for fiscal 2017 , compared to $1.7 billion , or 25 percent of total revenues, during the same period a year ago, an increase of $579.5 million . The increase in absolute dollars was primarily due to an increase of $240.9 million in employee-related costs, an increase of $38.0 million in stock-based expenses, an increase of $162.4 million in service delivery costs, primarily due to our efforts to increase data center capacity, an increase of $23.5 million in professional and outside services, an increase of amortization of purchased intangibles of $46.8 million , an increase in depreciation of equipment of $16.2 million and an increase in allocated overhead of $35.9 million . We have increased our headcount by 34 percent since January 31, 2016 to meet the higher demand for services from our customers and as a result of our fiscal 2017 acquisitions. We intend to continue to invest additional resources in our enterprise cloud computing services and data center capacity. Additionally, the amortization of purchased intangible assets may increase as we acquire additional businesses and technologies. We also plan to add additional employees in our professional services group to facilitate the adoption of our services. The timing of these expenses will affect our cost of revenues, both in terms of absolute dollars and as a percentage of revenues in future periods. 
+ The cost of professional services and other revenues exceeded the related revenue during fiscal 2017 and fiscal 2016 by $41.9 million and $4.0 million , respectively. The increase is primarily due to the growth in our headcount as well as the increase in employee costs for our subscription professional services employees. We expect the cost of professional services to continue to exceed revenue from professional services in future fiscal years. We believe that this investment in professional services facilitates the adoption of our service offerings. 
+ 
+ 
+ 44 
+ 
+ Table of Contents 
+ 
+ Operating Expenses. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fiscal Year Ended January 31, 
+ 
+ 
+ 
+ Variance 
+ Dollars 
+ 
+ 
+ (in thousands) 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 
+ Research and development 
+ 
+ 
+ 
+ $ 
+ 
+ 1,208,127 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 946,300 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 261,827 
+ 
+ 
+ 
+ 
+ Marketing and sales 
+ 
+ 
+ 
+ 3,918,027 
+ 
+ 
+ 
+ 
+ 
+ 3,239,824 
+ 
+ 
+ 
+ 
+ 
+ 678,203 
+ 
+ 
+ 
+ 
+ General and administrative 
+ 
+ 
+ 
+ 967,563 
+ 
+ 
+ 
+ 
+ 
+ 748,238 
+ 
+ 
+ 
+ 
+ 
+ 219,325 
+ 
+ 
+ 
+ 
+ Operating lease termination resulting from purchase of 50 Fremont 
+ 
+ 
+ 
+ 0 
+ 
+ 
+ 
+ 
+ 
+ (36,617 
+ 
+ ) 
+ 
+ 
+ 
+ 36,617 
+ 
+ 
+ 
+ 
+ Total operating expenses 
+ 
+ 
+ 
+ 6,093,717 
+ 
+ 
+ 
+ 
+ 
+ 4,897,745 
+ 
+ 
+ 
+ 
+ 
+ 1,195,972 
+ 
+ 
+ 
+ 
+ Percent of total revenues 
+ 
+ 
+ 
+ 72 
+ 
+ % 
+ 
+ 
+ 
+ 73 
+ 
+ % 
+ 
+ 
+ 
+ 
+ Research and development expenses were $1.2 billion , or 14 percent of total revenues, for fiscal 2017 , compared to $946.3 million , or 14 percent of total revenues, during the same period a year ago, an increase of $261.8 million . The increase in absolute dollars was primarily due to an increase of $173.2 million in employee-related costs, an increase of $58.1 million in stock-based expense, an increase of $28.1 million in development and test data center expense, and an increase in allocated overhead. We increased our research and development headcount by 35 percent since January 31, 2016 in order to improve and extend our service offerings and develop new technologies as a result of our fiscal 2017 acquisitions. We expect that research and development expenses will increase in absolute dollars and may increase as a percentage of revenues in future periods as we continue to invest in additional employees and technology to support the development of new, and improve existing, technologies and the integration of acquired technologies. 
+ Marketing and sales expenses were $3.9 billion , or 47 percent of total revenues, for fiscal 2017 , compared to $3.2 billion , or 49 percent of total revenues, during the same period a year ago, an increase of $678.2 million . The increase in absolute dollars was primarily due to increases of $484.3 million in employee-related costs, including amortization of deferred commissions, $34.7 million in advertising expense, $20.4 million in amortization of purchased intangibles, $99.8 million stock-based expense and $36.5 million in allocated overhead. Our marketing and sales headcount increased by 24 percent since January 31, 2016 . The increase in headcount was also attributable to hiring additional sales personnel to focus on adding new customers and increasing penetration within our existing customer base. 
+ General and administrative expenses were $967.6 million , or 11 percent of total revenues, for fiscal 2017 , compared to $748.2 million , or 11 percent of total revenues, during the same period a year ago, an increase of $219.3 million . The increase was primarily due to an increase of $175.2 million in employee-related costs, an increase of $30.9 million in stock-based expense and an increase in professional and outside services. Our general and administrative headcount increased by 22 percent since January 31, 2016 as we added personnel to support our growth. 
+ In connection with the purchase of 50 Fremont, we recognized a net non-cash gain in fiscal 2016 totaling approximately $36.6 million on the termination of the lease signed in January 2012. 
+ Other income and expense. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fiscal Year Ended January 31, 
+ 
+ 
+ 
+ Variance 
+ Dollars 
+ 
+ 
+ (in thousands) 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 
+ Investment income 
+ 
+ 
+ 
+ $ 
+ 
+ 27,374 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 15,341 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 12,033 
+ 
+ 
+ 
+ 
+ Interest expense 
+ 
+ 
+ 
+ (88,988 
+ 
+ ) 
+ 
+ 
+ 
+ (72,485 
+ 
+ ) 
+ 
+ 
+ 
+ (16,503 
+ 
+ ) 
+ 
+ 
+ Other income (expense) 
+ 
+ 
+ 
+ 9,072 
+ 
+ 
+ 
+ 
+ 
+ (15,292 
+ 
+ ) 
+ 
+ 
+ 
+ 24,364 
+ 
+ 
+ 
+ 
+ Gain on sales of land and building improvements 
+ 
+ 
+ 
+ 0 
+ 
+ 
+ 
+ 
+ 
+ 21,792 
+ 
+ 
+ 
+ 
+ 
+ (21,792 
+ 
+ ) 
+ 
+ 
+ Gains from acquisitions of strategic investments 
+ 
+ 
+ 
+ 13,697 
+ 
+ 
+ 
+ 
+ 
+ 0 
+ 
+ 
+ 
+ 
+ 
+ 13,697 
+ 
+ 
+ Investment income consists of income on our cash and marketable securities balances. Investment income was $27.4 million for fiscal 2017 and was $15.3 million during the same period a year ago. The increase was due to both realized gains resulting from the sales of marketable securities as well as higher interest income across our portfolio. 
+ Interest expense consists of interest on our convertible senior notes, capital leases, financing obligation related to 350 Mission, the loan assumed on 50 Fremont, revolving credit facility and the $500.0 million term loan that was entered into in connection with our acquisition of Demandware. Interest expense was $89.0 million for fiscal 2017 and was $72.5 million 
+ 
+ 
+ 45 
+ 
+ Table of Contents 
+ 
+ during the same period a year ago. The increase was primarily due to the term loan in fiscal 2017 associated with the Demandware purchase and our outstanding balance in our revolving facility in in fiscal 2017. 
+ Other income (expense) primarily consists of non-operating transactions such as strategic investments fair market value adjustments, gains and losses from foreign exchange rate fluctuations and real estate transactions. 
+ Gain on sales of land and building improvements consists of the gain the company recognized from sales of undeveloped real estate and a portion of associated perpetual parking rights in San Francisco, California. Gain on sales of land and building improvements, net of closing costs, was $21.8 million during fiscal 2016. 
+ Gains from acquisitions of strategic investments represents gains on sales of strategic investments when we acquire an entity in which we previously held a strategic investment. The difference between the fair value of the shares as of the date of the acquisition and the carrying value of the strategic investment is recorded as a gain or loss and disclosed separately within the statements of operations. 
+ Benefit from (provision for) income taxes. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fiscal Year Ended January 31, 
+ 
+ 
+ 
+ Variance 
+ Dollars 
+ 
+ 
+ (in thousands) 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 
+ Benefit from (provision for) income taxes 
+ 
+ 
+ 
+ $ 
+ 
+ 154,249 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (111,705 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ 265,954 
+ 
+ 
+ 
+ 
+ Effective tax rate 
+ 
+ 
+ 
+ (608 
+ 
+ )% 
+ 
+ 
+ 
+ 174 
+ 
+ % 
+ 
+ 
+ 
+ 
+ We reported a tax benefit of $154.2 million on a pretax income of $25.4 million , which resulted in a negative effective tax rate of 608 percent for fiscal 2017 . The most significant component of this tax amount was the tax benefit of $210.3 million from a partial release of the valuation allowance in connection with the acquisition of Demandware. The net deferred tax liability from the acquisition of Demandware provided a source of additional income to support the realizability of our preexisting deferred tax assets and as a result, we released a portion of our tax valuation allowance. The tax benefit associated with the release of the valuation allowance was partially offset by income taxes in profitable jurisdictions outside the United States. Additionally, as a result of early adopting Accounting Standards Update No. 2016-09, “Stock Compensation (Topic 718): Improvements to Employee Shared-Based Payment Accounting” (“ASU 2016-09”) and our valuation allowance position, we did not record significant U.S. current income tax expense. 
+ We recorded a tax provision of $111.7 million with a pretax income of $64.3 million , which resulted in an effective tax rate of 174 percent for fiscal 2016 . We had a tax provision in profitable jurisdictions outside the United States and current tax 
+ expense in the United States. We had U.S. current tax expense as a result of taxable income before considering certain excess 
+ tax benefits from stock options and vesting of restricted stock. 
+ 
+ We regularly assess the realizability of our deferred tax assets and establish a valuation allowance if it is more-likely-than-not that some or all of our deferred tax assets will not be realized. We evaluate and weigh all available positive and negative evidence such as historic results, future reversals of existing deferred tax liabilities, projected future taxable income, as well as prudent and feasible tax-planning strategies. Generally, more weight is given to objectively verifiable evidence, such as the cumulative loss in recent years. We will adjust our valuation allowance in the event sufficient positive evidence overcomes the negative evidence of losses in recent years, for example, if the trend in increasing taxable income continues. Our valuation allowance could contribute to the volatility of our effective tax rate and is difficult to forecast in future periods. 
+ 
+ 
+ 46 
+ 
+ Table of Contents 
+ 
+ Fiscal Years Ended January 31, 2016 and 2015 
+ Revenues. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fiscal Year Ended January 31, 
+ 
+ 
+ 
+ Variance 
+ 
+ 
+ (in thousands) 
+ 
+ 2016 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ Dollars 
+ 
+ 
+ 
+ Percent 
+ 
+ 
+ Subscription and support 
+ 
+ $ 
+ 
+ 6,205,599 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 5,013,764 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,191,835 
+ 
+ 
+ 
+ 
+ 
+ 24% 
+ 
+ 
+ Professional services and other 
+ 
+ 461,617 
+ 
+ 
+ 
+ 
+ 
+ 359,822 
+ 
+ 
+ 
+ 
+ 
+ 101,795 
+ 
+ 
+ 
+ 
+ 
+ 28% 
+ 
+ 
+ Total revenues 
+ 
+ $ 
+ 
+ 6,667,216 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 5,373,586 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,293,630 
+ 
+ 
+ 
+ 
+ 
+ 24% 
+ Total revenues were $6.7 billion for fiscal 2016, compared to $5.4 billion for fiscal 2015, an increase of $1.3 billion, or 24 percent. Subscription and support revenues were $6.2 billion, or 93 percent of total revenues, for fiscal 2016, compared to $5.0 billion, or 93 percent of total revenues for fiscal 2015, an increase of $1.2 billion, or 24 percent. The increase in subscription and support revenues in fiscal 2016 was primarily attributable to volume-driven increases from new business, which includes new customers, upgrades and additional subscriptions from existing customers. Our attrition rate, which was favorable compared to the prior year, also played a role in the increase in subscription and support revenues. Changes in the net price per user per month were not a significant driver of revenue growth for the periods presented. Professional services and other revenues were $461.6 million, or seven percent of total revenues, for fiscal 2016, compared to $359.8 million, or seven percent of total revenues, for the same period a year ago, an increase of $101.8 million, or 28 percent. 
+ Revenues in Europe and Asia Pacific accounted for $1.8 billion, or 26 percent of total revenues, for fiscal 2016, compared to $1.5 billion, or 28 percent of total revenues, during the same period a year ago, an increase of $251.2 million, or 17 percent. The increase in revenues on a total dollar basis outside of the Americas was the result of the increasing acceptance of our service, our focus on marketing our services internationally, additional resources and consistent attrition rates as a result of the reasons stated above. Revenues outside of the Americas increased on a total dollar basis in fiscal 2016 despite an overall strengthening of the U.S. dollar, which reduced aggregate international revenues by $170.5 million compared to fiscal 2015. 
+ Cost of Revenues. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fiscal Year Ended January 31, 
+ 
+ 
+ 
+ Variance 
+ Dollars 
+ 
+ 
+ (in thousands) 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 
+ Subscription and support 
+ 
+ 
+ 
+ $ 
+ 
+ 1,188,967 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 924,638 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 264,329 
+ 
+ 
+ 
+ 
+ Professional services and other 
+ 
+ 
+ 
+ 465,581 
+ 
+ 
+ 
+ 
+ 
+ 364,632 
+ 
+ 
+ 
+ 
+ 
+ 100,949 
+ 
+ 
+ 
+ 
+ Total cost of revenues 
+ 
+ 
+ 
+ $ 
+ 
+ 1,654,548 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,289,270 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 365,278 
+ 
+ 
+ 
+ 
+ Percent of total revenues 
+ 
+ 
+ 
+ 25 
+ 
+ % 
+ 
+ 
+ 
+ 24 
+ 
+ % 
+ 
+ 
+ 
+ 
+ Cost of revenues was $1.7 billion, or 25 percent of total revenues, for fiscal 2016, compared to $1.3 billion, or 24 percent of total revenues, for fiscal 2015, an increase of $365.3 million. The increase in absolute dollars was primarily due to an increase of $127.9 million in employee-related costs, an increase of $15.6 million in stock-based expenses, an increase of $137.2 million in service delivery costs, primarily due to our efforts to increase data center capacity, an increase of $40.6 million in professional and outside services, an increase in depreciation of equipment and an increase in allocated overhead, offset by a decrease of $9.4 million in amortization of purchased intangibles. Our headcount increased by 34 percent in fiscal 2016 to meet the higher demand for services from our customers. 
+ The cost of professional services and other revenues exceeded the related revenue during fiscal 2016 by $4.0 million as compared to $4.8 million for fiscal 2015. 
+ 
+ 
+ 47 
+ 
+ Table of Contents 
+ 
+ Operating Expenses. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fiscal Year Ended January 31, 
+ 
+ 
+ 
+ Variance 
+ Dollars 
+ 
+ 
+ (in thousands) 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 
+ Research and development 
+ 
+ 
+ 
+ $ 
+ 
+ 946,300 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 792,917 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 153,383 
+ 
+ 
+ 
+ 
+ Marketing and sales 
+ 
+ 
+ 
+ 3,239,824 
+ 
+ 
+ 
+ 
+ 
+ 2,757,096 
+ 
+ 
+ 
+ 
+ 
+ 482,728 
+ 
+ 
+ 
+ 
+ General and administrative 
+ 
+ 
+ 
+ 748,238 
+ 
+ 
+ 
+ 
+ 
+ 679,936 
+ 
+ 
+ 
+ 
+ 
+ 68,302 
+ 
+ 
+ 
+ 
+ Operating lease termination resulting from purchase of 50 Fremont 
+ 
+ 
+ 
+ (36,617 
+ 
+ ) 
+ 
+ 
+ 
+ 0 
+ 
+ 
+ 
+ 
+ 
+ (36,617 
+ 
+ ) 
+ 
+ 
+ Total operating expenses 
+ 
+ 
+ 
+ $ 
+ 
+ 4,897,745 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 4,229,949 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 667,796 
+ 
+ 
+ 
+ 
+ Percent of total revenues 
+ 
+ 
+ 
+ 73 
+ 
+ % 
+ 
+ 
+ 
+ 79 
+ 
+ % 
+ 
+ 
+ 
+ 
+ Research and development expenses were $946.3 million, or 14 percent of total revenues, for fiscal 2016, compared to $792.9 million, or 15 percent of total revenues, for fiscal 2015, an increase of $153.4 million. The increase in absolute dollars was primarily due to an increase of $114.0 million in employee-related costs, an increase of $8.2 million in stock-based expense, an increase of $18.2 million in development and test data center expense, and an increase in allocated overhead. Our research and development headcount increased by 16 percent in fiscal 2016 in order to improve and extend our service offerings and develop new technologies. 
+ Marketing and sales expenses were $3.2 billion, or 49 percent of total revenues, for fiscal 2016, compared to $2.8 billion, or 51 percent of total revenues, for fiscal 2015, an increase of $482.7 million. The increase in absolute dollars was primarily due to increases of $304.7 million in employee-related costs, including amortization of deferred commissions, $112.0 million in advertising expense, $12.5 million in amortization of purchased intangibles, $2.7 million stock-based expense and $40.4 million in allocated overhead. Our marketing and sales headcount increased by 21 percent in fiscal 2016. The increase in headcount was primarily attributable to hiring additional sales personnel to focus on adding new customers and increasing penetration within our existing customer base. 
+ General and administrative expenses were $748.2 million, or 11 percent of total revenues, for fiscal 2016, compared to $679.9 million, or 13 percent of total revenues, for fiscal 2015, an increase of $68.3 million. The increase was primarily due to an increase of $39.0 million in employee-related costs, an increase of $8.1 million in bad debt expense, an increase of $2.2 million in stock-based expense and an increase in professional and outside services. Our general and administrative headcount increased by 16 percent in fiscal 2016 as we added personnel to support our growth. 
+ In connection with the purchase of 50 Fremont, we recognized in fiscal 2016 a net non-cash gain totaling approximately $36.6 million on the termination of the lease signed in January 2012. 
+ Other income and expense. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fiscal Year Ended January 31, 
+ 
+ 
+ 
+ Variance 
+ Dollars 
+ 
+ 
+ (in thousands) 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 
+ Investment income 
+ 
+ 
+ 
+ $ 
+ 
+ 15,341 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 10,038 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 5,303 
+ 
+ 
+ 
+ 
+ Interest expense 
+ 
+ 
+ 
+ (72,485 
+ 
+ ) 
+ 
+ 
+ 
+ (73,237 
+ 
+ ) 
+ 
+ 
+ 
+ 752 
+ 
+ 
+ 
+ 
+ Other expense 
+ 
+ 
+ 
+ (15,292 
+ 
+ ) 
+ 
+ 
+ 
+ (19,878 
+ 
+ ) 
+ 
+ 
+ 
+ 4,586 
+ 
+ 
+ 
+ 
+ Gain on sales of land and building improvements 
+ 
+ 
+ 
+ 21,792 
+ 
+ 
+ 
+ 
+ 
+ 15,625 
+ 
+ 
+ 
+ 
+ 
+ 6,167 
+ 
+ 
+ Investment income consists of income on our cash and marketable securities balances. Investment income was $15.3 million for fiscal 2016 and was $10.0 million for fiscal 2015. The increase was primarily due to the increase in cash, cash equivalent and marketable securities balances. 
+ Interest expense consists of interest on our convertible senior notes, capital leases, term loan and revolving credit facility. Interest expense, net of interest costs capitalized, was $72.5 million for fiscal 2016 and was $73.2 million during fiscal 2015. The decrease was primarily due to the payment of our revolving credit facility in 2015. 
+ Other expense primarily consists of non-operating costs such as strategic investments fair market adjustments, foreign exchange rate fluctuations, real estate transactions and losses on derecognition of debt. The decrease in other expense for fiscal 2016 was primarily due to losses totaling $10.3 million related to the extinguishment of the 0.75% Senior Notes converted by noteholders in fiscal 2015. 
+ 
+ 
+ 48 
+ 
+ Table of Contents 
+ 
+ Gain on sales of land and building improvements consists of the gain we recognized from sales of undeveloped real estate and a portion of associated perpetual parking rights in San Francisco, California. Gain on sales of land and building improvements, net of closing costs, was $21.8 million for fiscal 2016 and was $15.6 million for fiscal 2015. 
+ Provision for income taxes. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fiscal Year Ended January 31, 
+ 
+ 
+ 
+ Variance 
+ Dollars 
+ 
+ 
+ (in thousands) 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 
+ Provision for income taxes 
+ 
+ 
+ 
+ $ 
+ 
+ (111,705 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ (49,603 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ (62,102 
+ 
+ ) 
+ 
+ 
+ Effective tax rate 
+ 
+ 
+ 
+ 174 
+ 
+ % 
+ 
+ 
+ 
+ (23 
+ 
+ )% 
+ 
+ 
+ 
+ 
+ We reported a tax provision of $111.7 million on a pretax income of $64.3 million, which resulted in an effective tax rate of 174 percent for fiscal 2016. We had a tax provision in profitable jurisdictions outside the United States and current tax expense in the United States. We had U.S. current tax expense as a result of taxable income before considering certain excess tax benefits from stock options and vesting of restricted stock. 
+ We recorded a tax provision of $49.6 million on a pretax loss of $213.1 million, which resulted in a negative effective tax rate of 23 percent for fiscal 2015. We had a tax provision primarily due to income taxes in profitable jurisdictions outside the United States, which was partially offset by tax benefits from losses incurred by ExactTarget in certain state jurisdictions. 
+ 
+ 
+ Liquidity and Capital Resources 
+ At January 31, 2017 , our principal sources of liquidity were cash, cash equivalents and marketable securities totaling $2.2 billion and accounts receivable of $3.2 billion . 
+ 
+ Net cash provided by operating activities was $2.2 billion during fiscal 2017 and $1.7 billion during the same period a year ago. Net cash provided by operating activities was $1.7 billion during fiscal 2016 and $1.2 billion in fiscal 2015. Cash provided by operating activities has historically been affected by the amount of net income adjusted for non-cash expense items such as depreciation and amortization; amortization of purchased intangibles from business combinations; amortization of debt discount; discrete items such as the non-cash gain from the termination of the 50 Fremont lease; the expense associated with stock-based awards; gains on sales of strategic investments; the timing of employee related costs including commissions and bonus payments; the timing of payments against accounts payable, accrued expenses and other current liabilities; the timing of collections from our customers, which is our largest source of operating cash flows; the timing of business combination activity and the related integration and transaction costs; and changes in working capital accounts. Net cash provided by operating activities was also impacted by payments made during fiscal 2017 for the transaction fees related to the acquisitions we completed during the year. 
+ 
+ Our working capital accounts consist of cash, cash equivalents and marketable securities, accounts receivable, deferred commissions, prepaid assets and other current assets. Claims against working capital include accounts payable, accrued expenses, deferred revenue, and other current liabilities and payments related to our debt obligations. Our working capital may be impacted by factors in future periods such as billings to customers for subscriptions and support services and the subsequent collection of those billings, certain amounts and timing of which are seasonal. Our working capital in some quarters, may be impacted by adverse foreign currency exchange rate movements. Our billings are also influenced by new business linearity within the quarters and across quarters. 
+ As described above in “Seasonal Nature of Deferred Revenue, Accounts Receivable and Operating Cash Flow,” our fourth quarter has historically been our strongest quarter for new business and renewals. The year on year compounding effect of this seasonality in both billing patterns and overall business causes the value of invoices that we generate in the fourth quarter to increase as a proportion of our total annual billings. 
+ We generally invoice our customers for our subscription and services contracts in advance in annual installments. We typically issue renewal invoices in advance of the renewal service period, and depending on timing, the initial invoice for the subscription and services contract and the subsequent renewal invoice may occur in different quarters. Such invoice amounts are initially reflected in accounts receivable and deferred revenue, which is reflected on the balance sheet. The operating cash flow benefit of increased billing activity generally occurs in the subsequent quarter when we collect from our customers. As such, our first quarter is our largest collections and operating cash flow quarter. 
+ 
+ 
+ 
+ 49 
+ 
+ Table of Contents 
+ 
+ Net cash used in investing activities was $2.7 billion during fiscal 2017 and $1.5 billion during the same period a year ago. The net cash used in investing activities during fiscal 2017 primarily related to business combinations with the largest being the acquisition of Demandware in July 2016, purchases of marketable securities of approximately $1.1 billion , new office build-outs and strategic and capital investments, which were offset by the cash inflows for the period from sales and maturities of marketable securities of $2.0 billion . Net cash used in investing activities was $1.5 billion during fiscal 2016 and $698.4 million during fiscal 2015. The net cash used in investing activities during fiscal 2016 primarily related to capital expenditures, strategic investments, business combinations, purchase of 50 Fremont land and building, new office build-outs, investment of cash balances offset by proceeds from sales and maturities of marketable securities and proceeds from sales of Mission Bay land and the use of restricted cash to purchase 50 Fremont land and building. 
+ 
+ Net cash provided by financing activities was $997.7 million during fiscal 2017 as compared to net cash provided by financing activities of $73.2 million during the same period a year ago. Net cash provided by financing activities during fiscal 2017 consisted primarily of $748.8 million proceeds from borrowings under our revolving credit facility, $495.6 million of proceeds from the Term Loan, net of loan fees, $401.5 million from proceeds from equity plans and the reclassification of excess tax benefits from employee stock plans to cash flows from operating activities due to the early adoption of ASU 2016-09 offset by $98.2 million of principal payments on capital leases and $550.0 million payment of our revolving credit facility. Net cash provided by financing activities was $73.2 million during fiscal 2016 as compared to net cash used in financing activities of $318.2 million during fiscal 2015. Net cash provided by financing activities during fiscal 2016 consisted primarily of $455.5 million from proceeds from equity plan offset by $82.3 million of principal payments on capital leases and $300.0 million payment of our revolving credit facility. During fiscal 2015, we repaid the convertible senior notes that matured. 
+ 
+ In March 2013, we issued at par value $1.15 billion of 0.25% convertible senior notes (the “0.25% Senior Notes”), due April 1, 2018, unless earlier purchased by us or converted. The 0.25% Senior Notes will be convertible if during any 20 trading days during the 30 consecutive trading days of any fiscal quarter, our common stock trades at a price exceeding 130% of the conversion price of $66.44 per share applicable to the 0.25% Senior Notes. The 0.25% Senior Notes are classified as a noncurrent liability on our consolidated balance sheet as of January 31, 2017 . Our common stock did not trade at a price exceeding 130% of the conversion price of $66.44 per share applicable to the Notes during the fiscal quarter ended January 31, 2017 . Accordingly, the 0.25% Senior Notes were not convertible at the holders’ option. 
+ 
+ In July 2016, in order to partially finance the acquisition of Demandware, we entered into a $500.0 million term loan (the “Term Loan”) which matures in July 2019 and bears interest at our option, at either a base rate plus a spread of 0.00% to 0.75% or an adjusted LIBOR rate plus a spread of 1.00% to 1.75%, in each case with such spread being determined based on the Company’s consolidated leverage ratio for the preceding four fiscal quarter period. 
+ The Term Loan Credit Agreement contains customary affirmative and negative covenants, including covenants that limit or restrict us and our subsidiaries’ ability to, among other things, incur indebtedness, grant liens, merge or consolidate, dispose of assets, make investments, make acquisitions, enter into transactions with affiliates, pay dividends or make distributions and repurchase stock. We are also required to maintain compliance with a consolidated leverage ratio and a consolidated interest coverage ratio. The Term Loan Credit Agreement includes customary events of default. Under certain circumstances, a default interest rate will apply on all obligations during the existence of an event of default under the Term Loan Credit Agreement at a per annum rate equal to 2.00% above the applicable interest rate for any overdue principal and 2.00% above the rate applicable for base rate loans for any other overdue amounts. The occurrence of an event of default could result in the acceleration of obligations under the Term Loan Credit Agreement. We were in compliance with the Term Loan Credit Agreement’s covenants as of January 31, 2017 . 
+ 
+ In July 2016, we entered into a credit agreement (the “Revolving Loan Credit Agreement”), which provides for a $1.0 billion unsecured revolving credit facility (the “Credit Facility”) that matures in July 2021. We may use any future borrowings under the Credit Facility for refinancing other indebtedness, working capital, capital expenditures and other general corporate purposes, including permitted acquisitions. We may borrow amounts under the Credit Facility at any time during the term of the Revolving Loan Credit Agreement. As of January 31, 2017 , we had $200.0 million in outstanding borrowings under the Credit Facility. Subsequent to January 31, 2017 , we paid the remaining outstanding balance of the Credit Facility. 
+ 
+ The Revolving Loan Credit Agreement contains certain customary affirmative and negative covenants, including a consolidated leverage ratio covenant, a consolidated interest coverage ratio covenant, a limit on our ability to incur additional indebtedness, dispose of assets, make certain acquisition transactions, pay dividends or distributions, and certain other restrictions on our activities each defined specifically in the Revolving Loan Credit Agreement. We were in compliance with the Revolving Loan Credit Agreement’s covenants as of January 31, 2017 . 
+ 
+ 
+ 
+ 50 
+ 
+ Table of Contents 
+ 
+ In February 2015, we acquired 50 Fremont Street, a 41-story building totaling approximately 820,000 rentable square feet located in San Francisco, California (“50 Fremont”). At the time of the acquisition, we were leasing approximately 500,000 square feet of the available space in 50 Fremont. The total purchase price for 50 Fremont was $637.6 million. In financing the purchase price, we used $115.0 million of restricted cash on hand and assumed a $200.0 million loan secured by the property with the remainder paid in cash. 
+ 
+ In April 2016, we entered into an agreement with a third party provider for certain infrastructure services for a period of four years. The agreement provides that we will pay $96.0 million in fiscal 2018, $108.0 million in fiscal 2019 and $126.0 million in fiscal 2020. During fiscal 2017, we paid $70.0 million. 
+ 
+ Our cash, cash equivalents and marketable securities are comprised primarily of corporate notes and other obligations, U.S. treasury securities, government obligations, collateralized mortgage obligations, mortgage backed securities, time deposits, money market mutual funds and municipal securities. 
+ As of January 31, 2017 , we have a total of $83.3 million in letters of credit outstanding in favor of certain landlords for office space. To date, no amounts have been drawn against the letters of credit, which renew annually and expire at various dates through December 2030. 
+ We do not have any special purpose entities, and other than operating leases for office space and computer equipment, we do not engage in off-balance sheet financing arrangements. 
+ Our principal commitments consist of obligations under leases for office space, co-location data center facilities, and our development and test data center, as well as leases for computer equipment, software, furniture and fixtures. At January 31, 2017 , the future non-cancelable minimum payments under these commitments were as follows (in thousands): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Contractual Obligations 
+ 
+ Payments Due by Period 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ 
+ 
+ Less than 1 Year 
+ 
+ 
+ 
+ 1-3 Years 
+ 
+ 
+ 
+ 3-5 Years 
+ 
+ 
+ 
+ More than 5 Years 
+ 
+ 
+ Capital lease obligations, including interest 
+ 
+ $ 
+ 
+ 436,747 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 119,342 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 317,369 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 36 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 0 
+ 
+ 
+ 
+ 
+ Operating lease obligations: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Facilities space 
+ 
+ 2,536,933 
+ 
+ 
+ 
+ 
+ 
+ 257,387 
+ 
+ 
+ 
+ 
+ 
+ 569,210 
+ 
+ 
+ 
+ 
+ 
+ 507,519 
+ 
+ 
+ 
+ 
+ 
+ 1,202,817 
+ 
+ 
+ 
+ 
+ Computer equipment and furniture and fixtures 
+ 
+ 382,215 
+ 
+ 
+ 
+ 
+ 
+ 205,863 
+ 
+ 
+ 
+ 
+ 
+ 176,352 
+ 
+ 
+ 
+ 
+ 
+ 0 
+ 
+ 
+ 
+ 
+ 
+ 0 
+ 
+ 
+ 
+ 
+ 0.25% Convertible Senior Notes, including interest 
+ 
+ 1,154,313 
+ 
+ 
+ 
+ 
+ 
+ 2,875 
+ 
+ 
+ 
+ 
+ 
+ 1,151,438 
+ 
+ 
+ 
+ 
+ 
+ 0 
+ 
+ 
+ 
+ 
+ 
+ 0 
+ 
+ 
+ 
+ 
+ Loan assumed on 50 Fremont 
+ 
+ 200,000 
+ 
+ 
+ 
+ 
+ 
+ 0 
+ 
+ 
+ 
+ 
+ 
+ 0 
+ 
+ 
+ 
+ 
+ 
+ 0 
+ 
+ 
+ 
+ 
+ 
+ 200,000 
+ 
+ 
+ 
+ 
+ Term loan 
+ 
+ 500,000 
+ 
+ 
+ 
+ 
+ 
+ 0 
+ 
+ 
+ 
+ 
+ 
+ 500,000 
+ 
+ 
+ 
+ 
+ 
+ 0 
+ 
+ 
+ 
+ 
+ 
+ 0 
+ 
+ 
+ 
+ 
+ Revolving Credit Facility 
+ 
+ 200,000 
+ 
+ 
+ 
+ 
+ 
+ 0 
+ 
+ 
+ 
+ 
+ 
+ 0 
+ 
+ 
+ 
+ 
+ 
+ 200,000 
+ 
+ 
+ 
+ 
+ 
+ 0 
+ 
+ 
+ 
+ 
+ Financing obligation - leased facility 
+ 
+ 322,340 
+ 
+ 
+ 
+ 
+ 
+ 21,437 
+ 
+ 
+ 
+ 
+ 
+ 44,206 
+ 
+ 
+ 
+ 
+ 
+ 45,984 
+ 
+ 
+ 
+ 
+ 
+ 210,713 
+ 
+ 
+ 
+ 
+ Contractual commitments 
+ 
+ 365,200 
+ 
+ 
+ 
+ 
+ 
+ 122,660 
+ 
+ 
+ 
+ 
+ 
+ 239,558 
+ 
+ 
+ 
+ 
+ 
+ 2,982 
+ 
+ 
+ 
+ 
+ 
+ 0 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 6,097,748 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 729,564 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 2,998,133 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 756,521 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,613,530 
+ 
+ 
+ The majority of our operating lease agreements provide us with the option to renew. Our future operating lease obligations would change if we exercised these options and if we entered into additional operating lease agreements as we expand our operations. 
+ The financing obligation above represents the total obligation for our lease of approximately 445,000 rentable square feet of office space in San Francisco, California. As of January 31, 2017 , $220.3 million of the total obligation noted above was recorded to Financing obligation - leased facility, of which the current portion is included in “Accounts payable, accrued expenses and other liabilities” and the non-current portion is included in “Other noncurrent liabilities” on the consolidated balance sheets. 
+ Purchase orders are not included in the table above. Our purchase orders represent authorizations to purchase rather than binding agreements. The contractual commitment amounts in the table above are associated with agreements that are enforceable and legally binding and that specify all significant terms, including: fixed or minimum services to be used; fixed, minimum or variable price provisions; and the approximate timing of the transaction. Obligations under contracts that we can cancel without a significant penalty are not included in the table above. 
+ 
+ 
+ 51 
+ 
+ Table of Contents 
+ 
+ In April 2014, we entered into an office lease agreement to lease approximately 732,000 rentable square feet of an office building located in San Francisco, California that is under construction. The lease payments associated with the lease will be approximately $590.0 million over the 15.5 year term of the lease, beginning in our second quarter of fiscal 2018, which is reflected above under Operating Leases. 
+ In February 2016, we entered into an agreement to sublease additional office space in New York, New York. The amounts associated with the agreement will be approximately $288.0 million over the approximately 12 year term of the agreement, beginning in our first quarter of fiscal 2018. In May 2016, we entered into an agreement to lease additional office space in Indianapolis, Indiana. The amounts associated with the agreement will be approximately $77.0 million over the approximately 13 year term of the agreement, beginning in our second quarter of fiscal 2018. 
+ During fiscal 2017 and in future fiscal years, we have made and expect to continue to make additional investments in our infrastructure to scale our operations and increase productivity. We plan to upgrade or replace various internal systems to scale with the overall growth of the Company. Additionally, we expect capital expenditures to be higher in absolute dollars and remain consistent as a percentage of total revenues in future periods as a result of continued office build-outs, other leasehold improvements and data center investments. 
+ In the future, we may enter into arrangements to acquire or invest in complementary businesses or joint ventures, services and technologies, and intellectual property rights. To facilitate these acquisitions or investments, we may seek additional equity or debt financing, which may not be available on terms favorable to us or at all, which may affect our ability to complete subsequent acquisitions or investments, and which may affect the risks of owning our common stock. 
+ We believe our existing cash, cash equivalents and marketable securities and cash provided by operating activities will be sufficient to meet our working capital, capital expenditure and debt repayment needs over the next 12 months. 
+ New Accounting Pronouncements 
+ 
+ See Note 1 “Summary of Business and Significant Accounting Policies” to the consolidated financial statements for our discussion about new accounting pronouncements adopted and those pending. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

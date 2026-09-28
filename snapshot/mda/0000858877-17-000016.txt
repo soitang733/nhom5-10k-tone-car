@@ -1,0 +1,7893 @@
+ ITEM 7. 
+ 
+ Management’s Discussion and Analysis of Financial Condition and Results of Operations 
+ Forward-Looking Statements 
+ This Annual Report on Form 10-K, including this Management’s Discussion and Analysis of Financial Condition and Results of Operations, contains forward-looking statements regarding future events and our future results that are subject to the safe harbors created under the Securities Act of 1933 (the “Securities Act”) and the Securities Exchange Act of 1934 (the “Exchange Act”). All statements other than statements of historical facts are statements that could be deemed forward-looking statements. These statements are based on current expectations, estimates, forecasts, and projections about the industries in which we operate and the beliefs and assumptions of our management. Words such as “expects,” “anticipates,” “targets,” “goals,” “projects,” “intends,” “plans,” “believes,” “momentum,” “seeks,” “estimates,” “continues,” “endeavors,” “strives,” “may,” variations of such words, and similar expressions are intended to identify such forward-looking statements. In addition, any statements that refer to projections of our future financial performance, our anticipated growth and trends in our businesses, and other characterizations of future events or circumstances are forward-looking statements. Readers are cautioned that these forward-looking statements are only predictions and are subject to risks, uncertainties, and assumptions that are difficult to predict, including those under “Part I, ITEM 1A. Risk Factors,” and elsewhere herein. Therefore, actual results may differ materially and adversely from those expressed in any forward-looking statements. We undertake no obligation to revise or update any forward-looking statements for any reason. 
+ 
+ OVERVIEW 
+ Cisco designs and sells a broad range of technologies that have been powering the Internet since 1984. Across networking, security, collaboration and the cloud, our evolving intent-based technologies are constantly learning and adapting to provide customers with a highly secure, intelligent platform for their digital business. 
+ A summary of our results is as follows (in millions, except percentages and per-share amounts): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Three Months Ended 
+ 
+ 
+ 
+ Years Ended 
+ 
+ 
+ 
+ 
+ 
+ 
+ July 29, 2017 
+ 
+ 
+ 
+ July 30, 2016 
+ 
+ 
+ 
+ Variance 
+ 
+ 
+ 
+ July 29, 2017 
+ 
+ 
+ 
+ July 30, 2016 
+ 
+ 
+ 
+ Variance 
+ 
+ 
+ 
+ 
+ Revenue (1) 
+ 
+ $ 
+ 
+ 12,133 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 12,638 
+ 
+ 
+ 
+ 
+ 
+ (4.0 
+ 
+ )% 
+ 
+ 
+ 
+ $ 
+ 
+ 48,005 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 49,247 
+ 
+ 
+ 
+ 
+ 
+ (2.5 
+ 
+ )% 
+ 
+ 
+ 
+ 
+ Gross margin percentage 
+ 
+ 62.2 
+ 
+ % 
+ 
+ 
+ 
+ 63.1 
+ 
+ % 
+ 
+ 
+ 
+ (0.9 
+ 
+ ) 
+ 
+ pts 
+ 
+ 63.0 
+ 
+ % 
+ 
+ 
+ 
+ 62.9 
+ 
+ % 
+ 
+ 
+ 
+ 0.1 
+ 
+ 
+ 
+ pts 
+ 
+ 
+ Research and development 
+ 
+ $ 
+ 
+ 1,499 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,601 
+ 
+ 
+ 
+ 
+ 
+ (6.4 
+ 
+ )% 
+ 
+ 
+ 
+ $ 
+ 
+ 6,059 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 6,296 
+ 
+ 
+ 
+ 
+ 
+ (3.8 
+ 
+ )% 
+ 
+ 
+ 
+ 
+ Sales and marketing 
+ 
+ $ 
+ 
+ 2,318 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 2,443 
+ 
+ 
+ 
+ 
+ 
+ (5.1 
+ 
+ )% 
+ 
+ 
+ 
+ $ 
+ 
+ 9,184 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 9,619 
+ 
+ 
+ 
+ 
+ 
+ (4.5 
+ 
+ )% 
+ 
+ 
+ 
+ 
+ General and administrative 
+ 
+ $ 
+ 
+ 495 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 533 
+ 
+ 
+ 
+ 
+ 
+ (7.1 
+ 
+ )% 
+ 
+ 
+ 
+ $ 
+ 
+ 1,993 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,814 
+ 
+ 
+ 
+ 
+ 
+ 9.9 
+ 
+ % 
+ 
+ 
+ 
+ 
+ Total R&D, sales and marketing, general and administrative 
+ 
+ $ 
+ 
+ 4,312 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 4,577 
+ 
+ 
+ 
+ 
+ 
+ (5.8 
+ 
+ )% 
+ 
+ 
+ 
+ $ 
+ 
+ 17,236 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 17,729 
+ 
+ 
+ 
+ 
+ 
+ (2.8 
+ 
+ )% 
+ 
+ 
+ 
+ 
+ Total as a percentage of revenue 
+ 
+ 35.5 
+ 
+ % 
+ 
+ 
+ 
+ 36.2 
+ 
+ % 
+ 
+ 
+ 
+ (0.7 
+ 
+ ) 
+ 
+ pts 
+ 
+ 35.9 
+ 
+ % 
+ 
+ 
+ 
+ 36.0 
+ 
+ % 
+ 
+ 
+ 
+ (0.1 
+ 
+ ) 
+ 
+ pts 
+ 
+ 
+ Amortization of purchased intangible assets included in operating expenses 
+ 
+ $ 
+ 
+ 58 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 82 
+ 
+ 
+ 
+ 
+ 
+ (29.3 
+ 
+ )% 
+ 
+ 
+ 
+ $ 
+ 
+ 259 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 303 
+ 
+ 
+ 
+ 
+ 
+ (14.5 
+ 
+ )% 
+ 
+ 
+ 
+ 
+ Restructuring and other charges included in operating expenses 
+ 
+ $ 
+ 
+ 142 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 13 
+ 
+ 
+ 
+ 
+ 
+ 992.3 
+ 
+ % 
+ 
+ 
+ 
+ $ 
+ 
+ 756 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 268 
+ 
+ 
+ 
+ 
+ 
+ 182.1 
+ 
+ % 
+ 
+ 
+ 
+ 
+ Operating income as a percentage of revenue 
+ 
+ 25.0 
+ 
+ % 
+ 
+ 
+ 
+ 26.1 
+ 
+ % 
+ 
+ 
+ 
+ (1.1 
+ 
+ ) 
+ 
+ pts 
+ 
+ 24.9 
+ 
+ % 
+ 
+ 
+ 
+ 25.7 
+ 
+ % 
+ 
+ 
+ 
+ (0.8 
+ 
+ ) 
+ 
+ pts 
+ 
+ 
+ Income tax percentage 
+ 
+ 23.8 
+ 
+ % 
+ 
+ 
+ 
+ 17.1 
+ 
+ % 
+ 
+ 
+ 
+ 6.7 
+ 
+ 
+ 
+ pts 
+ 
+ 21.8 
+ 
+ % 
+ 
+ 
+ 
+ 16.9 
+ 
+ % 
+ 
+ 
+ 
+ 4.9 
+ 
+ 
+ 
+ pts 
+ 
+ 
+ Net income 
+ 
+ $ 
+ 
+ 2,424 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 2,813 
+ 
+ 
+ 
+ 
+ 
+ (13.8 
+ 
+ )% 
+ 
+ 
+ 
+ $ 
+ 
+ 9,609 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 10,739 
+ 
+ 
+ 
+ 
+ 
+ (10.5 
+ 
+ )% 
+ 
+ 
+ 
+ 
+ Net income as a percentage of revenue 
+ 
+ 20.0 
+ 
+ % 
+ 
+ 
+ 
+ 22.3 
+ 
+ % 
+ 
+ 
+ 
+ (2.3 
+ 
+ ) 
+ 
+ pts 
+ 
+ 20.0 
+ 
+ % 
+ 
+ 
+ 
+ 21.8 
+ 
+ % 
+ 
+ 
+ 
+ (1.8 
+ 
+ ) 
+ 
+ pts 
+ 
+ 
+ Earnings per share—diluted 
+ 
+ $ 
+ 
+ 0.48 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 0.56 
+ 
+ 
+ 
+ 
+ 
+ (14.3 
+ 
+ )% 
+ 
+ 
+ 
+ $ 
+ 
+ 1.90 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 2.11 
+ 
+ 
+ 
+ 
+ 
+ (10.0 
+ 
+ )% 
+ 
+ 
+ (1) During the second quarter of fiscal 2016, we completed the sale of the Customer Premises Equipment portion of our Service Provider Video Connected Devices business (“SP Video CPE Business”). As a result, revenue from this portion of the Service Provider Video product category will not recur in future periods. The year ended July 30, 2016 included SP Video CPE Business revenue of $504 million . 
+ 
+ 
+ 
+ 35 
+ 
+ Table of Contents 
+ 
+ Fiscal 2017 Compared with Fiscal 2016—Financial Performance 
+ In fiscal 2017 we delivered solid profitability and strong operating cash flows. We remain focused on accelerating innovation across our portfolio, and we believe that we have made continued progress on our strategic priorities. We continue to operate in a challenging and highly competitive environment, which has impacted, in particular, our NGN Routing and Switching areas. We saw weakness in the service provider customer market and we expect ongoing uncertainty in that area. In addition, we continued to see weakness in emerging countries in the aggregate. We experienced solid revenue growth in Security and Wireless, and we continued to make progress in the transition of our business model to increased software and subscriptions which is part of our strategy. While the overall environment remains uncertain, we continue to aggressively invest in priority areas to drive profitable growth over the long term. 
+ Total revenue decreased by 3% compared with fiscal 2016 . Within total revenue, product revenue decreased 4% while service revenue increased by 3% . In the second quarter of fiscal 2016, we completed the sale of our SP Video CPE Business. Total company revenue for fiscal 2017 decreased 2% not including revenue from SP Video CPE products for fiscal 2016. Additionally, fiscal 2017 had 52 weeks, compared with 53 weeks in fiscal 2016, thus our results for fiscal 2017 reflect one less week compared with fiscal 2016. We estimate that the additional revenue associated with the extra week was approximately $265 million. Total gross margin increased by 0.1 percentage points. As a percentage of revenue, research and development, sales and marketing, and general and administrative expenses, collectively, decreased by 0.1 percentage points. Operating income as a percentage of revenue decreased by 0.8 percentage points, driven primarily by an increase in restructuring and other charges related to the restructuring action announced in August 2016. Diluted earnings per share decreased by 10% , driven by an 11% decrease in net income. Net income was impacted by a higher effective tax rate, as compared with fiscal 2016, primarily due to the recognition of $448 million of net benefits to the provision for income taxes in fiscal 2016. These benefits were comprised of a settlement with the IRS of outstanding items related to the audit of our federal income tax returns covering the period from fiscal 2008 through fiscal 2010 and the permanent reinstatement of the U.S. federal R&D tax credit. 
+ In terms of our geographic segments, revenue from the Americas decreased $1.0 billion , driven in large part by lower product revenue in the Unites States. EMEA revenue decreased by $0.3 billion , led by a product revenue decline in the United Kingdom. Revenue in our APJC segment increased by $0.1 billion , led by service revenue growth in this segment. We saw revenue declines in many emerging countries across the world during fiscal 2017. The “BRICM” countries experienced a product revenue decline of 7% in the aggregate, driven by declines in the emerging countries of Mexico, China and Brazil of 28%, 12% and 7%, respectively, partially offset by increased product revenue in Russia and India of 20% and 11%, respectively. 
+ From a customer market standpoint, we experienced product revenue declines in the service provider and the public sector markets and, to a lesser extent, in the commercial market. Product revenue in the enterprise market was flat. The decline in the service provider market was driven in part by the sale of the SP Video CPE Business as well as ongoing weakness in the service provider market. 
+ From a product category perspective, total company product revenue decreased 4% . This decrease was led by product revenue decreases in Switching and NGN Routing of 5% and 4% , respectively. The decline in sales of our Switching products was primarily due to lower sales of switches used in campus environments, which comprise the majority of our Switching portfolio. We believe the decline in sales of Switching products used in campus environments was driven both by uncertainty in the macro environment, which led to a slowdown in customer spending, as well as by a highly competitive landscape. Product revenue from Service Provider Video, Data Center and Collaboration decreased by 45% , 4% and 2% , respectively. Partially offsetting these decreases was product revenue growth in Security and Wireless, which grew by 9% and 5% , respectively. 
+ 
+ 
+ 36 
+ 
+ Table of Contents 
+ 
+ Fourth Quarter Snapshot 
+ For the fourth quarter of fiscal 2017 , as compared with the fourth quarter of fiscal 2016 , total revenue decreased by 4% . Within the total revenue, product revenue decreased 5% while service revenue increased by 1% . With regard to our geographic segment performance, on a year-over-year basis, revenue in the Americas and EMEA each decreased by 6% , while APJC had revenue growth of 6% . From a product category perspective, total product revenue decrease was driven by revenue decreases from Switching and NGN Routing products, with each decreasing 9% year over year. Total gross margin decreased by 0.9 percentage points. As a percentage of revenue, research and development, sales and marketing, and general and administrative expenses collectively decreased by 0.7 percentage points. Operating income as a percentage of revenue decreased by 1.1 percentage points. Diluted earnings per share decreased by 14% from the prior year, primarily as a result of a 14% decrease in net income. 
+ Strategy and Priorities 
+ As our customers add billions of new connections to their enterprises, we believe the network is becoming more critical than ever. We believe that our customers are looking for intelligent networks that provide meaningful business value through automation, security, and analytics. Our vision is to deliver a highly secure, intelligent, platform for digital businesses. Our strategic priorities include accelerating our pace of innovation, increasing the value of the network, and delivering technology the way our customers want to consume it. 
+ For a full discussion of our strategy and focus areas, see ITEM 1. Business. 
+ Other Key Financial Measures 
+ The following is a summary of our other key financial measures for fiscal 2017 compared with fiscal 2016 (in millions, except annualized inventory turns): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fiscal 2017 
+ 
+ 
+ 
+ Fiscal 2016 
+ 
+ 
+ Cash and cash equivalents and investments 
+ 
+ 
+ 
+ $70,492 
+ 
+ 
+ 
+ $65,756 
+ 
+ 
+ Cash provided by operating activities 
+ 
+ 
+ 
+ $13,876 
+ 
+ 
+ 
+ $13,570 
+ 
+ 
+ Deferred revenue 
+ 
+ 
+ 
+ $18,494 
+ 
+ 
+ 
+ $16,472 
+ 
+ 
+ Repurchases of common stock—stock repurchase program 
+ 
+ 
+ 
+ $3,706 
+ 
+ 
+ 
+ $3,918 
+ 
+ 
+ Dividends 
+ 
+ 
+ 
+ $5,511 
+ 
+ 
+ 
+ $4,750 
+ 
+ 
+ Inventories 
+ 
+ 
+ 
+ $1,616 
+ 
+ 
+ 
+ $1,217 
+ 
+ 
+ Annualized inventory turns 
+ 
+ 
+ 
+ 12.3 
+ 
+ 
+ 
+ 14.6 
+ 
+ 
+ 
+ 
+ 37 
+ 
+ 
+ Table of Contents 
+ 
+ CRITICAL ACCOUNTING ESTIMATES 
+ The preparation of financial statements and related disclosures in conformity with accounting principles generally accepted in the United States requires us to make judgments, assumptions, and estimates that affect the amounts reported in the Consolidated Financial Statements and accompanying notes. Note 2 to the Consolidated Financial Statements describes the significant accounting policies and methods used in the preparation of the Consolidated Financial Statements. The accounting policies described below are significantly affected by critical accounting estimates. Such accounting policies require significant judgments, assumptions, and estimates used in the preparation of the Consolidated Financial Statements, and actual results could differ materially from the amounts reported based on these policies. 
+ Revenue Recognition 
+ Revenue is recognized when all of the following criteria have been met: 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Persuasive evidence of an arrangement exists. Contracts, Internet commerce agreements, and customer purchase orders are generally used to determine the existence of an arrangement. 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Delivery has occurred. Shipping documents and customer acceptance, when applicable, are used to verify delivery. For software, delivery is considered to have occurred upon unrestricted license access and license term commencement, when applicable. 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ The fee is fixed or determinable. We assess whether the fee is fixed or determinable based on the payment terms associated with the transaction and whether the sales price is subject to refund or adjustment. 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Collectibility is reasonably assured. We assess collectibility based primarily on the creditworthiness of the customer as determined by credit checks and analysis, as well as the customer’s payment history. 
+ In instances where final acceptance of the product, system, or solution is specified by the customer, revenue is deferred until all acceptance criteria have been met. When a sale involves multiple deliverables, such as sales of products that include services, the multiple deliverables are evaluated to determine the unit of accounting, and the entire fee from the arrangement is allocated to each unit of accounting based on the relative selling price. Revenue is recognized when the revenue recognition criteria for each unit of accounting are met. For hosting arrangements, we recognize revenue ratably over the hosting period, while usage revenue is recognized based on utilization. Software subscription revenue is deferred and recognized ratably over the subscription term upon delivery of the first product and commencement of the term. 
+ The amount of revenue recognized in a given period is affected by our judgment as to whether an arrangement includes multiple deliverables and, if so, our valuation of the units of accounting. Our multiple element arrangements may contain only deliverables within the scope of Accounting Standards Codification (ASC) 605, Revenue Recognition , deliverables within the scope of ASC 985-605, Software-Revenue Recognition, or a combination of both. According to the accounting guidance prescribed in ASC 605, we use vendor-specific objective evidence of selling price (VSOE) for each of those units, when available. We determine VSOE based on our normal pricing and discounting practices for the specific product or service when sold separately. In determining VSOE, we require that a substantial majority of the historical standalone transactions have the selling prices for a product or service fall within a reasonably narrow pricing range, generally evidenced by approximately 80% of such historical standalone transactions falling within plus or minus 15% of the median rates. When VSOE does not exist, we apply the selling price hierarchy to applicable multiple-deliverable arrangements. Under the selling price hierarchy, third-party evidence of selling price (TPE) will be considered if VSOE does not exist, and estimated selling price (ESP) will be used if neither VSOE nor TPE is available. Generally, we are not able to determine TPE because our go-to-market strategy differs from that of others in our markets, and the extent of our proprietary technology varies among comparable products or services from those of our peers. In determining ESP, we apply significant judgment as we weigh a variety of factors, based on the characteristics of the deliverable. We typically arrive at an ESP for a product or service that is not sold separately by considering company-specific factors such as geographies, competitive landscape, internal costs, profitability objectives, pricing practices used to establish bundled pricing, and existing portfolio pricing and discounting. 
+ As our business and offerings evolve over time, our pricing practices may be required to be modified accordingly, which could result in changes in selling prices, including both VSOE and ESP, in subsequent periods. There were no material impacts during fiscal 2017 , nor do we currently expect a material impact in the next 12 months on our revenue recognition due to any changes in our VSOE, TPE, or ESP. 
+ We make sales to distributors which we refer to as two-tier sales to the end customer. Revenue from two-tier distributors is recognized based on a sell-through method using point-of-sale information provided by these distributors. Distributors participate in various cooperative marketing and other incentive programs, and we maintain estimated accruals and allowances for these programs. If actual credits received by distributors under these programs were to deviate significantly from our estimates, which are based on historical experience, our revenue could be adversely affected. 
+ 
+ 
+ 38 
+ 
+ Table of Contents 
+ 
+ Allowances for Receivables and Sales Returns 
+ The allowances for receivables were as follows (in millions, except percentages): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ July 29, 2017 
+ 
+ 
+ 
+ 
+ 
+ July 30, 2016 
+ 
+ 
+ 
+ 
+ Allowance for doubtful accounts 
+ 
+ 
+ 
+ $ 
+ 
+ 211 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 249 
+ 
+ 
+ 
+ 
+ Percentage of gross accounts receivable 
+ 
+ 
+ 
+ 3.9 
+ 
+ % 
+ 
+ 
+ 
+ 4.1 
+ 
+ % 
+ 
+ 
+ Allowance for credit loss—lease receivables 
+ 
+ 
+ 
+ $ 
+ 
+ 162 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 230 
+ 
+ 
+ 
+ 
+ Percentage of gross lease receivables (1) 
+ 
+ 
+ 
+ 5.5 
+ 
+ % 
+ 
+ 
+ 
+ 6.6 
+ 
+ % 
+ 
+ 
+ Allowance for credit loss—loan receivables 
+ 
+ 
+ 
+ $ 
+ 
+ 103 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 97 
+ 
+ 
+ 
+ 
+ Percentage of gross loan receivables 
+ 
+ 
+ 
+ 2.3 
+ 
+ % 
+ 
+ 
+ 
+ 2.8 
+ 
+ % 
+ (1) Calculated as allowance for credit loss on lease receivables as a percentage of gross lease receivables and residual value before unearned income. 
+ The allowance for doubtful accounts is based on our assessment of the collectibility of customer accounts. We regularly review the adequacy of these allowances by considering internal factors such as historical experience, credit quality and age of the receivable balances as well as external factors such as economic conditions that may affect a customer’s ability to pay as well as historical and expected default frequency rates, which are published by major third-party credit-rating agencies and are updated on a quarterly basis. We also consider the concentration of receivables outstanding with a particular customer in assessing the adequacy of our allowances for doubtful accounts. If a major customer’s creditworthiness deteriorates, if actual defaults are higher than our historical experience, or if other circumstances arise, our estimates of the recoverability of amounts due to us could be overstated, and additional allowances could be required, which could have an adverse impact on our operating results. 
+ The allowance for credit loss on financing receivables is also based on the assessment of collectibility of customer accounts. We regularly review the adequacy of the credit allowances determined either on an individual or a collective basis. When evaluating the financing receivables on an individual basis, we consider historical experience, credit quality and age of receivable balances, and economic conditions that may affect a customer’s ability to pay. When evaluating financing receivables on a collective basis, we use expected default frequency rates published by a major third-party credit-rating agency as well as our own historical loss rate in the event of default, while also systematically giving effect to economic conditions, concentration of risk and correlation. Determining expected default frequency rates and loss factors associated with internal credit risk ratings, as well as assessing factors such as economic conditions, concentration of risk, and correlation, are complex and subjective. Our ongoing consideration of all these factors could result in an increase in our allowance for credit loss in the future, which could adversely affect our operating results. Both accounts receivable and financing receivables are charged off at the point when they are considered uncollectible. 
+ A reserve for future sales returns is established based on historical trends in product return rates. The reserve for future sales returns as of July 29, 2017 and July 30, 2016 was $122 million and $126 million , respectively, and was recorded as a reduction of our accounts receivable and revenue. If the actual future returns were to deviate from the historical data on which the reserve had been established, our revenue could be adversely affected. 
+ Inventory Valuation and Liability for Purchase Commitments with Contract Manufacturers and Suppliers 
+ Inventory is written down based on excess and obsolete inventories, determined primarily by future demand forecasts. Inventory write-downs are measured as the difference between the cost of the inventory and market, based upon assumptions about future demand, and are charged to the provision for inventory, which is a component of our cost of sales. At the point of the loss recognition, a new, lower cost basis for that inventory is established, and subsequent changes in facts and circumstances do not result in the restoration or increase in that newly established cost basis. 
+ We record a liability for firm, noncancelable, and unconditional purchase commitments with contract manufacturers and suppliers for quantities in excess of our future demand forecasts consistent with the valuation of our excess and obsolete inventory. As of July 29, 2017 , the liability for these purchase commitments was $162 million , compared with $159 million as of July 30, 2016 , and was included in other current liabilities. 
+ Our provision for inventory was $74 million , $65 million , and $54 million in fiscal 2017, 2016, and 2015 , respectively. The provision for the liability related to purchase commitments with contract manufacturers and suppliers was $124 million , $134 million , and $102 million in fiscal 2017, 2016, and 2015 , respectively. If there were to be a sudden and significant decrease in demand for our products, or if there were a higher incidence of inventory obsolescence because of rapidly changing technology and customer requirements, we could be required to increase our inventory write-downs, and our liability for purchase commitments with contract manufacturers and suppliers, and accordingly our profitability, could be adversely affected. We regularly evaluate our exposure for inventory write-downs and the adequacy of our liability for purchase commitments. 
+ 
+ 
+ 39 
+ 
+ Table of Contents 
+ 
+ Inventory and supply chain management remain areas of focus as we balance the need to maintain supply chain flexibility to help ensure competitive lead times with the risk of inventory obsolescence, particularly in light of current macroeconomic uncertainties and conditions and the resulting potential for changes in future demand forecast. 
+ Loss Contingencies and Product Warranties 
+ We are subject to the possibility of various losses arising in the ordinary course of business. We consider the likelihood of impairment of an asset or the incurrence of a liability, as well as our ability to reasonably estimate the amount of loss, in determining loss contingencies. An estimated loss contingency is accrued when it is probable that an asset has been impaired or a liability has been incurred and the amount of loss can be reasonably estimated. We regularly evaluate information available to us to determine whether such accruals should be made or adjusted and whether new accruals are required. 
+ Third parties, including customers, have in the past and may in the future assert claims or initiate litigation related to exclusive patent, copyright, trademark, and other intellectual property rights to technologies and related standards that are relevant to us. These assertions have increased over time as a result of our growth and the general increase in the pace of patent claims assertions, particularly in the United States. If any infringement or other intellectual property claim made against us by any third party is successful, or if we fail to develop non-infringing technology or license the proprietary rights on commercially reasonable terms and conditions, our business, operating results, and financial condition could be materially and adversely affected. 
+ In fiscal 2014, we recorded a charge to product cost of sales of $655 million resulting from failures related to products containing memory components manufactured by a single supplier between 2005 and 2010. We perform regular assessments of the sufficiency of this liability and reduced the amount by $74 million and $164 million in fiscal 2016 and fiscal 2015, respectively based on updated analyses. During the second quarter of fiscal 2017, we further reduced the liability by $141 million to reflect lower than expected defects, actual usage history, and estimated lower future remediation costs as more of the impacted products age and near the end of the support period covered by the remediation program. In addition, during the second quarter of fiscal 2017, we recorded a $125 million charge to product cost of sales related to the expected remediation costs for anticipated failures in future periods of a widely-used component sourced from a third party which is included in several of our products. The liabilities related to the supplier component remediation matters as of July 29, 2017 and July 30, 2016 was $174 million and $276 million , respectively. 
+ Estimating these liabilities is complex and subjective, and if we experience changes in a number of underlying assumptions and estimates such as a change in claims compared with our expectations, or if the cost of servicing these claims is different than expected, our estimated liabilities for these matters may be impacted. 
+ Our products are generally covered by a warranty for periods ranging from 90 days to five years, and for some products we provide a limited lifetime warranty. We accrue for warranty costs as part of our cost of sales based on associated material costs, technical support labor costs, and associated overhead. Material cost is estimated based primarily upon historical trends in the volume of product returns within the warranty period and the cost to repair or replace the equipment. Technical support labor cost is estimated based primarily upon historical trends in the rate of customer cases and the cost to support the customer cases within the warranty period. Overhead cost is applied based on estimated time to support warranty activities. 
+ If we experience an increase in warranty claims compared with our historical experience, or if the cost of servicing warranty claims is greater than expected, our profitability could be adversely affected. 
+ Fair Value Measurements 
+ Our fixed income and publicly traded equity securities, collectively, are reflected in the Consolidated Balance Sheets at a fair value of $58.8 billion as of July 29, 2017 , compared with $58.1 billion as of July 30, 2016 . Our fixed income investment portfolio, as of July 29, 2017 , consisted primarily of high quality investment-grade securities. See Note 8 to the Consolidated Financial Statements. 
+ As described more fully in Note 2 to the Consolidated Financial Statements, a valuation hierarchy is based on the level of independent, objective evidence available regarding the value of the investments. It encompasses three classes of investments: Level 1 consists of securities for which there are quoted prices in active markets for identical securities; Level 2 consists of securities for which observable inputs other than Level 1 inputs are used, such as quoted prices for similar securities in active markets or quoted prices for identical securities in less active markets and model-derived valuations for which the variables are derived from, or corroborated by, observable market data; and Level 3 consists of securities for which there are unobservable inputs to the valuation methodology that are significant to the measurement of the fair value. 
+ 
+ 
+ 40 
+ 
+ Table of Contents 
+ 
+ Our Level 2 securities are valued using quoted market prices for similar instruments or nonbinding market prices that are corroborated by observable market data. We use inputs such as actual trade data, benchmark yields, broker/dealer quotes, and other similar data, which are obtained from independent pricing vendors, quoted market prices, or other sources to determine the ultimate fair value of our assets and liabilities. We use such pricing data as the primary input, to which we have not made any material adjustments during fiscal 2017 and 2016 , to make our assessments and determinations as to the ultimate valuation of our investment portfolio. We are ultimately responsible for the financial statements and underlying estimates. 
+ The inputs and fair value are reviewed for reasonableness, may be further validated by comparison to publicly available information, and could be adjusted based on market indices or other information that management deems material to its estimate of fair value. The assessment of fair value can be difficult and subjective. However, given the relative reliability of the inputs we use to value our investment portfolio, and because substantially all of our valuation inputs are obtained using quoted market prices for similar or identical assets, we do not believe that the nature of estimates and assumptions affected by levels of subjectivity and judgment was material to the valuation of the investment portfolio as of July 29, 2017 . Level 3 assets do not represent a significant portion of our total assets measured at fair value on a recurring basis as of July 29, 2017 and July 30, 2016 . 
+ Other-than-Temporary Impairments 
+ We recognize an impairment charge when the declines in the fair values of our fixed income or publicly traded equity securities below their cost basis are judged to be other than temporary. The ultimate value realized on these securities, to the extent unhedged, is subject to market price volatility until they are sold. 
+ If the fair value of a debt security is less than its amortized cost, we assess whether the impairment is other than temporary. An impairment is considered other than temporary if (i) we have the intent to sell the security, (ii) it is more likely than not that we will be required to sell the security before recovery of its entire amortized cost basis, or (iii) we do not expect to recover the entire amortized cost of the security. If an impairment is considered other than temporary based on (i) or (ii) described in the prior sentence, the entire difference between the amortized cost and the fair value of the security is recognized in earnings. If an impairment is considered other than temporary based on condition (iii), the amount representing credit loss, defined as the difference between the present value of the cash flows expected to be collected and the amortized cost basis of the debt security, will be recognized in earnings, and the amount relating to all other factors will be recognized in other comprehensive income (OCI). In estimating the amount and timing of cash flows expected to be collected, we consider all available information, including past events, current conditions, the remaining payment terms of the security, the financial condition of the issuer, expected defaults, and the value of underlying collateral. 
+ For publicly traded equity securities, we consider various factors in determining whether we should recognize an impairment charge, including the length of time and extent to which the fair value has been less than our cost basis, the financial condition and near-term prospects of the issuer, and our intent and ability to hold the investment for a period of time sufficient to allow for any anticipated recovery in market value. 
+ We also have investments in privately held companies, some of which are in the startup or development stages. As of July 29, 2017 , our investments in privately held companies were $983 million , compared with $1,003 million as of July 30, 2016 , and were included in other assets. We monitor these investments for events or circumstances indicative of potential impairment, and we make appropriate reductions in carrying values if we determine that an impairment charge is required, based primarily on the financial condition and near-term prospects of these companies. These investments are inherently risky because the markets for the technologies or products these companies are developing are typically in the early stages and may never materialize. 
+ Goodwill and Purchased Intangible Asset Impairments 
+ Our methodology for allocating the purchase price relating to purchase acquisitions is determined through established valuation techniques. Goodwill represents a residual value as of the acquisition date, which in most cases results in measuring goodwill as an excess of the purchase consideration transferred plus the fair value of any noncontrolling interest in the acquired company over the fair value of net assets acquired, including contingent consideration. We perform goodwill impairment tests on an annual basis in the fourth fiscal quarter and between annual tests in certain circumstances for each reporting unit. The assessment of fair value for goodwill and purchased intangible assets is based on factors that market participants would use in an orderly transaction in accordance with the new accounting guidance for the fair value measurement of nonfinancial assets. 
+ The goodwill recorded in the Consolidated Balance Sheets as of July 29, 2017 and July 30, 2016 was $29.8 billion and $26.6 billion , respectively. The increase in goodwill during fiscal 2017 was due in large part to our acquisition of AppDynamics. In response to changes in industry and market conditions, we could be required to strategically realign our resources and consider restructuring, disposing of, or otherwise exiting businesses, which could result in an impairment of goodwill. There was no impairment of goodwill in fiscal 2017, 2016, and 2015 . For the annual impairment testing in fiscal 2017 , the excess of the fair value over the carrying value for each of our reporting units was $46.8 billion for the Americas, $25.1 billion for EMEA, and $20.9 billion for APJC. 
+ 
+ 
+ 41 
+ 
+ Table of Contents 
+ 
+ During the fourth quarter of fiscal 2017 , we performed a sensitivity analysis for goodwill impairment with respect to each of our respective reporting units and determined that a hypothetical 10% decline in the fair value of each reporting unit would not result in an impairment of goodwill for any reporting unit. 
+ The fair value of acquired technology and patents, as well as acquired technology under development, is determined at acquisition date primarily using the income approach, which discounts expected future cash flows to present value. The discount rates used in the present value calculations are typically derived from a weighted-average cost of capital analysis and then adjusted to reflect risks inherent in the development lifecycle as appropriate. We consider the pricing model for products related to these acquisitions to be standard within the high-technology communications industry, and the applicable discount rates represent the rates that market participants would use for valuation of such intangible assets. 
+ We make judgments about the recoverability of purchased intangible assets with finite lives whenever events or changes in circumstances indicate that an impairment may exist. Recoverability of purchased intangible assets with finite lives is measured by comparing the carrying amount of the asset to the future undiscounted cash flows the asset is expected to generate. We review indefinite-lived intangible assets for impairment annually or whenever events or changes in circumstances indicate that the asset might be impaired. If the asset is considered to be impaired, the amount of any impairment is measured as the difference between the carrying value and the fair value of the impaired asset. Assumptions and estimates about future values and remaining useful lives of our purchased intangible assets are complex and subjective. They can be affected by a variety of factors, including external factors such as industry and economic trends, and internal factors such as changes in our business strategy and our internal forecasts. Our impairment charges related to purchased intangible assets were $47 million , $74 million , and $175 million during fiscal 2017, 2016, and 2015 , respectively. Our ongoing consideration of all the factors described previously could result in additional impairment charges in the future, which could adversely affect our net income. 
+ Income Taxes 
+ We are subject to income taxes in the United States and numerous foreign jurisdictions. Our effective tax rates differ from the statutory rate, primarily due to the tax impact of state taxes, foreign operations, R&D tax credits, domestic manufacturing deductions, tax audit settlements, nondeductible compensation, international realignments, and transfer pricing adjustments. Our effective tax rate was 21.8% , 16.9% , and 19.8% in fiscal 2017, 2016, and 2015 , respectively. 
+ Significant judgment is required in evaluating our uncertain tax positions and determining our provision for income taxes. Although we believe our reserves are reasonable, no assurance can be given that the final tax outcome of these matters will not be different from that which is reflected in our historical income tax provisions and accruals. We adjust these reserves in light of changing facts and circumstances, such as the closing of a tax audit or the refinement of an estimate. To the extent that the final tax outcome of these matters is different than the amounts recorded, such differences will impact the provision for income taxes in the period in which such determination is made. The provision for income taxes includes the impact of reserve provisions and changes to reserves that are considered appropriate, as well as the related net interest and penalties. 
+ Significant judgment is also required in determining any valuation allowance recorded against deferred tax assets. In assessing the need for a valuation allowance, we consider all available evidence, including past operating results, estimates of future taxable income, and the feasibility of tax planning strategies. In the event that we change our determination as to the amount of deferred tax assets that can be realized, we will adjust our valuation allowance with a corresponding impact to the provision for income taxes in the period in which such determination is made. 
+ Our provision for income taxes is subject to volatility and could be adversely impacted by earnings being lower than anticipated in countries that have lower tax rates and higher than anticipated in countries that have higher tax rates; by changes in the valuation of our deferred tax assets and liabilities; by changes to domestic manufacturing deduction laws, regulations, or interpretations thereof; by expiration of or lapses in tax incentives; by transfer pricing adjustments, including the effect of acquisitions on our intercompany R&D cost-sharing arrangement and legal structure; by tax effects of nondeductible compensation; by tax costs related to intercompany realignments; by changes in accounting principles; or by changes in tax laws and regulations, treaties, or interpretations thereof, including possible changes to the taxation of earnings of our foreign subsidiaries, the deductibility of expenses attributable to foreign income, or the foreign tax credit rules. Significant judgment is required to determine the recognition and measurement attributes prescribed in the accounting guidance for uncertainty in income taxes. The Organisation for Economic Co-operation and Development (OECD), an international association comprised of 35 countries, including the United States, has recently made changes to numerous long-standing tax principles. There can be no assurance that these changes, once adopted by countries, will not have an adverse impact on our provision for income taxes. As a result of certain of our ongoing employment and capital investment actions and commitments, our income in certain countries is subject to reduced tax rates. Our failure to meet these commitments could adversely impact our provision for income taxes. In addition, we are subject to the continuous examination of our income tax returns by the Internal Revenue Service (IRS) and other tax authorities. We regularly assess the likelihood of adverse outcomes resulting from these examinations to determine the adequacy of our provision for income taxes. There can be no assurance that the outcomes from these continuous examinations will not have an adverse impact on our operating results and financial condition. 
+ 
+ 
+ 42 
+ 
+ 
+ Table of Contents 
+ 
+ RESULTS OF OPERATIONS 
+ Revenue 
+ The following table presents the breakdown of revenue between product and service (in millions, except percentages): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended 
+ 
+ 
+ 
+ 2017 vs. 2016 
+ 
+ 
+ 
+ 2016 vs. 2015 
+ 
+ 
+ 
+ 
+ 
+ 
+ July 29, 2017 
+ 
+ 
+ 
+ July 30, 2016 
+ 
+ 
+ 
+ July 25, 2015 
+ 
+ 
+ 
+ Variance in Dollars 
+ 
+ 
+ 
+ Variance in Percent 
+ 
+ 
+ 
+ Variance in Dollars 
+ 
+ 
+ 
+ Variance in Percent 
+ 
+ 
+ Revenue: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Product 
+ 
+ 
+ 
+ $ 
+ 
+ 35,705 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 37,254 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 37,750 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (1,549 
+ 
+ ) 
+ 
+ 
+ 
+ (4.2 
+ 
+ )% 
+ 
+ 
+ 
+ $ 
+ 
+ (496 
+ 
+ ) 
+ 
+ 
+ 
+ (1.3 
+ 
+ )% 
+ 
+ 
+ Percentage of revenue 
+ 
+ 
+ 
+ 74.4 
+ 
+ % 
+ 
+ 
+ 
+ 75.6 
+ 
+ % 
+ 
+ 
+ 
+ 76.8 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Service 
+ 
+ 
+ 
+ 12,300 
+ 
+ 
+ 
+ 
+ 
+ 11,993 
+ 
+ 
+ 
+ 
+ 
+ 11,411 
+ 
+ 
+ 
+ 
+ 
+ 307 
+ 
+ 
+ 
+ 
+ 
+ 2.6 
+ 
+ % 
+ 
+ 
+ 
+ 582 
+ 
+ 
+ 
+ 
+ 
+ 5.1 
+ 
+ % 
+ 
+ 
+ Percentage of revenue 
+ 
+ 
+ 
+ 25.6 
+ 
+ % 
+ 
+ 
+ 
+ 24.4 
+ 
+ % 
+ 
+ 
+ 
+ 23.2 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ 
+ 
+ $ 
+ 
+ 48,005 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 49,247 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 49,161 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (1,242 
+ 
+ ) 
+ 
+ 
+ 
+ (2.5 
+ 
+ )% 
+ 
+ 
+ 
+ $ 
+ 
+ 86 
+ 
+ 
+ 
+ 
+ 
+ 0.2 
+ 
+ % 
+ 
+ We manage our business primarily on a geographic basis, organized into three geographic segments. Our revenue, which includes product and service for each segment, is summarized in the following table (in millions, except percentages): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended 
+ 
+ 
+ 
+ 2017 vs. 2016 
+ 
+ 
+ 
+ 2016 vs. 2015 
+ 
+ 
+ 
+ 
+ 
+ 
+ July 29, 2017 
+ 
+ 
+ 
+ July 30, 2016 
+ 
+ 
+ 
+ July 25, 2015 
+ 
+ 
+ 
+ Variance in Dollars 
+ 
+ 
+ 
+ Variance in Percent 
+ 
+ 
+ 
+ Variance in Dollars 
+ 
+ 
+ 
+ Variance in Percent 
+ 
+ 
+ Revenue: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Americas 
+ 
+ 
+ 
+ $ 
+ 
+ 28,351 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 29,392 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 29,626 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (1,041 
+ 
+ ) 
+ 
+ 
+ 
+ (3.5 
+ 
+ )% 
+ 
+ 
+ 
+ $ 
+ 
+ (234 
+ 
+ ) 
+ 
+ 
+ 
+ (0.8 
+ 
+ )% 
+ 
+ 
+ Percentage of revenue 
+ 
+ 
+ 
+ 59.1 
+ 
+ % 
+ 
+ 
+ 
+ 59.7 
+ 
+ % 
+ 
+ 
+ 
+ 60.3 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EMEA 
+ 
+ 
+ 
+ 12,004 
+ 
+ 
+ 
+ 
+ 
+ 12,302 
+ 
+ 
+ 
+ 
+ 
+ 12,348 
+ 
+ 
+ 
+ 
+ 
+ (298 
+ 
+ ) 
+ 
+ 
+ 
+ (2.4 
+ 
+ )% 
+ 
+ 
+ 
+ (46 
+ 
+ ) 
+ 
+ 
+ 
+ (0.4 
+ 
+ )% 
+ 
+ 
+ Percentage of revenue 
+ 
+ 
+ 
+ 25.0 
+ 
+ % 
+ 
+ 
+ 
+ 25.0 
+ 
+ % 
+ 
+ 
+ 
+ 25.1 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APJC 
+ 
+ 
+ 
+ 7,650 
+ 
+ 
+ 
+ 
+ 
+ 7,553 
+ 
+ 
+ 
+ 
+ 
+ 7,187 
+ 
+ 
+ 
+ 
+ 
+ 97 
+ 
+ 
+ 
+ 
+ 
+ 1.3 
+ 
+ % 
+ 
+ 
+ 
+ 366 
+ 
+ 
+ 
+ 
+ 
+ 5.1 
+ 
+ % 
+ 
+ 
+ Percentage of revenue 
+ 
+ 
+ 
+ 15.9 
+ 
+ % 
+ 
+ 
+ 
+ 15.3 
+ 
+ % 
+ 
+ 
+ 
+ 14.6 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ 
+ 
+ $ 
+ 
+ 48,005 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 49,247 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 49,161 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (1,242 
+ 
+ ) 
+ 
+ 
+ 
+ (2.5 
+ 
+ )% 
+ 
+ 
+ 
+ $ 
+ 
+ 86 
+ 
+ 
+ 
+ 
+ 
+ 0.2 
+ 
+ % 
+ Fiscal 2017 Compared with Fiscal 2016 
+ Total revenue decreased by 3% . Total company revenue not including SP Video CPE products decreased 2%. Product revenue decreased by 4% while service revenue increased by 3% . Fiscal 2017 had 52 weeks, compared with 53 weeks in fiscal 2016, thus our results for fiscal 2017 reflect one less extra week. We estimate that the additional revenue associated with the extra week was approximately $265 million, $200 million of which was from our services subscriptions, and $65 million from our SaaS offerings such as WebEx, and a small amount from product distribution. Our total revenue declined in the Americas and EMEA geographic segments, while revenue grew in our APJC geographic segment. The emerging countries of BRICM, in the aggregate, experienced a 7% product revenue decline, with revenue declines in Mexico, China, and Brazil partially offset by increases in the other two BRICM countries. 
+ In addition to the impact of macroeconomic factors, including a reduced IT spending environment and reductions in spending by government entities, revenue by segment in a particular period may be significantly impacted by several factors related to revenue recognition, including the complexity of transactions such as multiple-element arrangements; the mix of financing arrangements provided to channel partners and customers; and final acceptance of the product, system, or solution, among other factors. In addition, certain customers tend to make large and sporadic purchases, and the revenue related to these transactions may also be affected by the timing of revenue recognition, which in turn would impact the revenue of the relevant segment. As has been the case in certain emerging countries from time to time, customers require greater levels of financing arrangements, service, and support, and these activities may occur in future periods, which may also impact the timing of the recognition of revenue. 
+ 
+ 
+ 43 
+ 
+ Table of Contents 
+ 
+ Fiscal 2016 Compared with Fiscal 2015 
+ Total revenue was flat. Total company revenue not including SP Video CPE products increased 3%. Product revenue decreased by 1% in total, but increased by 2% for product revenue not including SP Video CPE products. Service revenue increased by 5%. Fiscal 2016 had 53 weeks, compared with 52 weeks in fiscal 2015, thus our results for fiscal 2016 reflect an extra week, the impact of which is discussed above. Our total revenue grew in our APJC geographic segment, while revenue declined in the Americas and EMEA geographic segments. The emerging countries of BRICM, in the aggregate, experienced 3% product revenue growth, with growth in China, India and Mexico, partially offset by decreases in the other two BRICM countries. Our revenue in fiscal 2016 was adversely affected by the depreciation of certain currencies relative to the U.S. dollar and especially currencies in certain emerging countries, although the indirect effects are difficult to measure. 
+ 
+ 
+ Product Revenue by Segment 
+ The following table presents the breakdown of product revenue by segment (in millions, except percentages): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended 
+ 
+ 
+ 
+ 2017 vs. 2016 
+ 
+ 
+ 
+ 2016 vs. 2015 
+ 
+ 
+ 
+ 
+ 
+ 
+ July 29, 2017 
+ 
+ 
+ 
+ July 30, 2016 
+ 
+ 
+ 
+ July 25, 2015 
+ 
+ 
+ 
+ Variance in Dollars 
+ 
+ 
+ 
+ Variance in Percent 
+ 
+ 
+ 
+ Variance in Dollars 
+ 
+ 
+ 
+ Variance in Percent 
+ 
+ 
+ Product revenue: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Americas 
+ 
+ 
+ 
+ $ 
+ 
+ 20,487 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 21,663 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 22,231 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (1,176 
+ 
+ ) 
+ 
+ 
+ 
+ (5.4 
+ 
+ )% 
+ 
+ 
+ 
+ $ 
+ 
+ (568 
+ 
+ ) 
+ 
+ 
+ 
+ (2.6 
+ 
+ )% 
+ 
+ 
+ Percentage of product revenue 
+ 
+ 
+ 
+ 57.4 
+ 
+ % 
+ 
+ 
+ 
+ 58.1 
+ 
+ % 
+ 
+ 
+ 
+ 58.9 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EMEA 
+ 
+ 
+ 
+ 9,369 
+ 
+ 
+ 
+ 
+ 
+ 9,682 
+ 
+ 
+ 
+ 
+ 
+ 9,882 
+ 
+ 
+ 
+ 
+ 
+ (313 
+ 
+ ) 
+ 
+ 
+ 
+ (3.2 
+ 
+ )% 
+ 
+ 
+ 
+ (200 
+ 
+ ) 
+ 
+ 
+ 
+ (2.0 
+ 
+ )% 
+ 
+ 
+ Percentage of product revenue 
+ 
+ 
+ 
+ 26.2 
+ 
+ % 
+ 
+ 
+ 
+ 26.0 
+ 
+ % 
+ 
+ 
+ 
+ 26.2 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APJC 
+ 
+ 
+ 
+ 5,849 
+ 
+ 
+ 
+ 
+ 
+ 5,909 
+ 
+ 
+ 
+ 
+ 
+ 5,637 
+ 
+ 
+ 
+ 
+ 
+ (60 
+ 
+ ) 
+ 
+ 
+ 
+ (1.0 
+ 
+ )% 
+ 
+ 
+ 
+ 272 
+ 
+ 
+ 
+ 
+ 
+ 4.8 
+ 
+ % 
+ 
+ 
+ Percentage of product revenue 
+ 
+ 
+ 
+ 16.4 
+ 
+ % 
+ 
+ 
+ 
+ 15.9 
+ 
+ % 
+ 
+ 
+ 
+ 14.9 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ 
+ 
+ $ 
+ 
+ 35,705 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 37,254 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 37,750 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (1,549 
+ 
+ ) 
+ 
+ 
+ 
+ (4.2 
+ 
+ )% 
+ 
+ 
+ 
+ $ 
+ 
+ (496 
+ 
+ ) 
+ 
+ 
+ 
+ (1.3 
+ 
+ )% 
+ 
+ During the second quarter of fiscal 2016, we completed the sale of our SP Video CPE Business. As a result, revenue from this portion of the Service Provider Video product category will not recur in future periods. SP Video CPE Business revenue was $504 million and $1,846 million for fiscal 2016 and 2015, respectively. 
+ Americas 
+ Fiscal 2017 Compared with Fiscal 2016 
+ The 5% decrease in product revenue in the Americas segment was driven by declines in the service provider, public sector and commercial markets. Product revenue in the enterprise market was flat. The product revenue decrease in the service provider market was driven in large part by the absence of product sales related to our SP Video CPE Business in fiscal 2017. We had $378 million in product sales related to our SP Video CPE Business in fiscal 2016 in this segment. The product revenue decline in the public sector market was due primarily to lower sales to state and local governments and to the U.S. federal government. From a country perspective, product revenue decreased by 5% in the United States, 28% in Mexico and 7% in Brazil, partially offset by an increase of 2% in Canada. 
+ Fiscal 2016 Compared with Fiscal 2015 
+ The decrease in product revenue for the Americas segment was driven by a decline of $1,146 million in product sales related to our SP Video CPE Business. Product revenue not including SP Video CPE products increased for the Americas segment. From a customer markets perspective, the decrease in product revenue in the Americas segment of 3% was led by a significant decline in the service provider market driven by the sale of the SP Video CPE Business. We experienced product revenue growth in the commercial, public sector and enterprise markets. The product revenue growth in the public sector market was due primarily to higher sales to state and local governments, partially offset by lower sales to the U.S. federal government. From a country perspective, product revenue decreased by 34% in Brazil and 24% in Canada partially offset by a slight increase in the United States and an increase of 3% in Mexico. 
+ 
+ 
+ 44 
+ 
+ Table of Contents 
+ 
+ EMEA 
+ Fiscal 2017 Compared with Fiscal 2016 
+ Product revenue in the EMEA segment decreased by 3% , driven by a decline in the service provider market and, to a lesser extent, declines in the public sector and enterprise markets. Product revenue in the commercial market was flat. The product revenue decrease in the service provider market was driven in part by the absence of product sales related to our SP Video CPE Business in fiscal 2017. We had $108 million in product sales related to our SP Video CPE Business in fiscal 2016 in this segment. Product revenue from emerging countries within EMEA and product revenue for the remainder of the EMEA segment each decreased by 3%. 
+ Fiscal 2016 Compared with Fiscal 2015 
+ The decrease in product revenue of 2% , or $200 million , for the EMEA segment was driven by a decline of $164 million in product sales related to our SP Video CPE Business. From a customer market perspective, the decrease was driven by product revenue declines in the service provider, public sector and enterprise markets, partially offset by product revenue growth in the commercial market. The decline in sales to the service provider market was due primarily to the sale of the SP Video CPE Business. Product revenue from emerging countries within EMEA decreased by 11%, led by a decline in Russia of 31%. Product revenue for the remainder of the EMEA segment, which primarily consists of countries in Western Europe, increased by 1%. 
+ APJC 
+ Fiscal 2017 Compared with Fiscal 2016 
+ Product revenue in the APJC segment decreased by 1% . The product revenue decrease was led by declines in the service provider and public sector markets, partially offset by product revenue growth in the commercial market. Product revenue in the enterprise market was flat. From a country perspective, product revenue decreased by 12% in China, driven by a decrease in sales of Service Provider Video software and solutions products, while product revenue increased by 11% in India, 9% in Australia and 2% in Japan. Product sales for this geographic segment were adversely impacted by an $18 million decrease in product sales related to the absence of our SP Video CPE Business. 
+ Fiscal 2016 Compared with Fiscal 2015 
+ The increase in product revenue in the APJC segment of 5% was led by solid growth in the service provider market and, to a lesser extent, growth in the enterprise, public sector and commercial markets. From a country perspective, product revenue increased by 22% in China, driven by an increase in sales of Service Provider Video software and solutions products, and 18% in India, partially offset by product revenue decreases of 7% in Japan and 5% in Australia. Product revenue for this geographic segment was adversely impacted by a $32 million decrease in product revenue related to the sale of our SP Video CPE Business. 
+ 
+ 
+ 
+ 
+ 45 
+ 
+ 
+ Table of Contents 
+ 
+ Product Revenue by Groups of Similar Products 
+ In addition to the primary view on a geographic basis, we also prepare financial information related to groups of similar products and customer markets for various purposes. Our product categories consist of the following categories: Switching; NGN Routing; Collaboration; Data Center; Wireless; Security; Service Provider Video; and Other Products. 
+ The following table presents revenue for groups of similar products (in millions, except percentages): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended 
+ 
+ 
+ 
+ 2017 vs. 2016 
+ 
+ 
+ 
+ 2016 vs. 2015 
+ 
+ 
+ 
+ 
+ 
+ 
+ July 29, 2017 
+ 
+ 
+ 
+ July 30, 2016 
+ 
+ 
+ 
+ July 25, 2015 
+ 
+ 
+ 
+ Variance in Dollars 
+ 
+ 
+ 
+ Variance in Percent 
+ 
+ 
+ 
+ Variance in Dollars 
+ 
+ 
+ 
+ Variance in Percent 
+ 
+ 
+ Product revenue: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Switching 
+ 
+ 
+ 
+ $ 
+ 
+ 13,949 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 14,700 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 14,712 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (751 
+ 
+ ) 
+ 
+ 
+ 
+ (5.1 
+ 
+ )% 
+ 
+ 
+ 
+ $ 
+ 
+ (12 
+ 
+ ) 
+ 
+ 
+ 
+ (0.1 
+ 
+ )% 
+ 
+ 
+ Percentage of product revenue 
+ 
+ 
+ 
+ 39.1 
+ 
+ % 
+ 
+ 
+ 
+ 39.4 
+ 
+ % 
+ 
+ 
+ 
+ 39.0 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ NGN Routing 
+ 
+ 
+ 
+ 7,831 
+ 
+ 
+ 
+ 
+ 
+ 8,133 
+ 
+ 
+ 
+ 
+ 
+ 8,343 
+ 
+ 
+ 
+ 
+ 
+ (302 
+ 
+ ) 
+ 
+ 
+ 
+ (3.7 
+ 
+ )% 
+ 
+ 
+ 
+ (210 
+ 
+ ) 
+ 
+ 
+ 
+ (2.5 
+ 
+ )% 
+ 
+ 
+ Percentage of product revenue 
+ 
+ 
+ 
+ 21.9 
+ 
+ % 
+ 
+ 
+ 
+ 21.8 
+ 
+ % 
+ 
+ 
+ 
+ 22.1 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Collaboration 
+ 
+ 
+ 
+ 4,278 
+ 
+ 
+ 
+ 
+ 
+ 4,352 
+ 
+ 
+ 
+ 
+ 
+ 4,004 
+ 
+ 
+ 
+ 
+ 
+ (74 
+ 
+ ) 
+ 
+ 
+ 
+ (1.7 
+ 
+ )% 
+ 
+ 
+ 
+ 348 
+ 
+ 
+ 
+ 
+ 
+ 8.7 
+ 
+ % 
+ 
+ 
+ Percentage of product revenue 
+ 
+ 
+ 
+ 12.0 
+ 
+ % 
+ 
+ 
+ 
+ 11.7 
+ 
+ % 
+ 
+ 
+ 
+ 10.6 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Data Center 
+ 
+ 
+ 
+ 3,228 
+ 
+ 
+ 
+ 
+ 
+ 3,365 
+ 
+ 
+ 
+ 
+ 
+ 3,219 
+ 
+ 
+ 
+ 
+ 
+ (137 
+ 
+ ) 
+ 
+ 
+ 
+ (4.1 
+ 
+ )% 
+ 
+ 
+ 
+ 146 
+ 
+ 
+ 
+ 
+ 
+ 4.5 
+ 
+ % 
+ 
+ 
+ Percentage of product revenue 
+ 
+ 
+ 
+ 9.0 
+ 
+ % 
+ 
+ 
+ 
+ 9.0 
+ 
+ % 
+ 
+ 
+ 
+ 8.5 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Wireless 
+ 
+ 
+ 
+ 2,766 
+ 
+ 
+ 
+ 
+ 
+ 2,640 
+ 
+ 
+ 
+ 
+ 
+ 2,551 
+ 
+ 
+ 
+ 
+ 
+ 126 
+ 
+ 
+ 
+ 
+ 
+ 4.8 
+ 
+ % 
+ 
+ 
+ 
+ 89 
+ 
+ 
+ 
+ 
+ 
+ 3.5 
+ 
+ % 
+ 
+ 
+ Percentage of product revenue 
+ 
+ 
+ 
+ 7.7 
+ 
+ % 
+ 
+ 
+ 
+ 7.1 
+ 
+ % 
+ 
+ 
+ 
+ 6.8 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Security 
+ 
+ 
+ 
+ 2,153 
+ 
+ 
+ 
+ 
+ 
+ 1,969 
+ 
+ 
+ 
+ 
+ 
+ 1,747 
+ 
+ 
+ 
+ 
+ 
+ 184 
+ 
+ 
+ 
+ 
+ 
+ 9.3 
+ 
+ % 
+ 
+ 
+ 
+ 222 
+ 
+ 
+ 
+ 
+ 
+ 12.7 
+ 
+ % 
+ 
+ 
+ Percentage of product revenue 
+ 
+ 
+ 
+ 6.0 
+ 
+ % 
+ 
+ 
+ 
+ 5.3 
+ 
+ % 
+ 
+ 
+ 
+ 4.6 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Service Provider Video (1) 
+ 
+ 
+ 
+ 946 
+ 
+ 
+ 
+ 
+ 
+ 1,734 
+ 
+ 
+ 
+ 
+ 
+ 2,941 
+ 
+ 
+ 
+ 
+ 
+ (788 
+ 
+ ) 
+ 
+ 
+ 
+ (45.4 
+ 
+ )% 
+ 
+ 
+ 
+ (1,207 
+ 
+ ) 
+ 
+ 
+ 
+ (41.0 
+ 
+ )% 
+ 
+ 
+ Percentage of product revenue 
+ 
+ 
+ 
+ 2.7 
+ 
+ % 
+ 
+ 
+ 
+ 4.7 
+ 
+ % 
+ 
+ 
+ 
+ 7.8 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other 
+ 
+ 
+ 
+ 554 
+ 
+ 
+ 
+ 
+ 
+ 361 
+ 
+ 
+ 
+ 
+ 
+ 233 
+ 
+ 
+ 
+ 
+ 
+ 193 
+ 
+ 
+ 
+ 
+ 
+ 53.5 
+ 
+ % 
+ 
+ 
+ 
+ 128 
+ 
+ 
+ 
+ 
+ 
+ 54.9 
+ 
+ % 
+ 
+ 
+ Percentage of product revenue 
+ 
+ 
+ 
+ 1.6 
+ 
+ % 
+ 
+ 
+ 
+ 1.0 
+ 
+ % 
+ 
+ 
+ 
+ 0.6 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 35,705 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 37,254 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 37,750 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (1,549 
+ 
+ ) 
+ 
+ 
+ 
+ (4.2 
+ 
+ )% 
+ 
+ 
+ 
+ $ 
+ 
+ (496 
+ 
+ ) 
+ 
+ 
+ 
+ (1.3 
+ 
+ )% 
+ (1) During the second quarter of fiscal 2016, we completed the sale of the SP Video CPE Business. As a result, fiscal 2016 includes only four months of product revenue from SP Video CPE Business. SP Video CPE Business revenue was $504 million and $1,846 million for fiscal 2016 and 2015, respectively. 
+ Certain reclassifications have been made to the prior period amounts to conform to the current period’s presentation. 
+ Switching 
+ Fiscal 2017 Compared with Fiscal 2016 
+ The decrease in revenue in our Switching product category of 5% , or $751 million , was driven primarily by a decrease in sales of Switching products used in campus environments, which comprise the majority of our Switching portfolio. We believe this was driven both by the uncertainty in the macro environment which led to a slowdown in customer spending, as well as by a highly competitive landscape. These impacts were partially offset by an increase in sales of our ACI portfolio which is included in our data center switching portfolio. 
+ In terms of subcategories, the decrease in revenue from our modular switches of 18%, or $784 million and the decrease in sales of storage products of 22%, or $95 million were partially offset by increased revenue from our LAN fixed-configuration switches of 1%, or $128 million. Revenue from our modular switches decreased driven by lower sales of most of the Cisco Catalyst Series Switches and Cisco Nexus 7000 Series Switches, partially offset by growth in Cisco Nexus 9500 Series Switches within this product category. Revenue from LAN fixed-configuration switches increased due to higher sales of our Cisco Nexus 9300 Series Switches, Cisco Catalyst 3650 Series Switches and Cisco Catalyst 3850 Series Switches, partially offset by a decrease in sales of certain other products in this portfolio. 
+ Fiscal 2016 Compared with Fiscal 2015 
+ We believe the flat revenue in our Switching product category was driven in large part by the uncertainty in the macro environment which led to a slowdown in customer spending. This led to flat revenue in our Switching products used in campus environments which comprise the majority of revenue within this product category. We also experienced decreased revenue from storage products. 
+ 
+ 
+ 46 
+ 
+ Table of Contents 
+ 
+ These impacts were offset by an increase in sales of our Switching products used in data centers, reflecting strength in our ACI portfolio. 
+ In terms of subcategories, the increase in revenue from LAN fixed-configuration switches of 5%, or $452 million was substantially offset by decreased revenue from our modular switches of 8%, or $375 million, and the decreased revenue from storage products of 17%, or $89 million. Revenue from our LAN-fixed configuration switches increased due primarily to higher sales of our Cisco Catalyst 3850 Series Switches, Cisco Catalyst 3650 Series Switches, Cisco Nexus 9300 Series Switches and Cisco Nexus 3000 Series Switches, partially offset by a decrease in sales of certain other products in this portfolio. Decreased revenue from our modular switches was due primarily to lower sales of most of our Cisco Catalyst Series Switches and also due to lower sales of our Cisco Nexus 7000 Series Switches, partially offset by sales growth in Cisco Nexus 9500 Series Switches within this product category. 
+ NGN Routing 
+ Fiscal 2017 Compared with Fiscal 2016 
+ Revenue in our NGN Routing product category decreased by 4% , or $302 million , driven by an 8%, or $211 million, decrease in revenue from our midrange and low-end router products and a 5%, or $208 million, decrease in revenue from our high-end router products. These declines were partially offset by a 10%, or $117 million, increase in revenue from other NGN Routing products. Revenue from our midrange and low-end router products decreased due to lower sales of our Cisco ISR products and certain of our access router products. The decrease in revenue from high-end router products was driven by a decrease in revenue from our mobility products within our ASRs and from our CRS products. Revenue from other NGN Routing products increased due to higher sales of cable access products and certain optical networking products. 
+ Fiscal 2016 Compared with Fiscal 2015 
+ We believe a cautious service provider capital expenditure spending environment negatively impacted sales in NGN Routing. Revenue in this product category decreased by 3% , or $210 million , driven by an 8%, or $378 million, decrease in revenue from our high-end router products partially offset by a 12%, or $126 million, increase in revenue from what we categorize as other NGN Routing products and a 2%, or $42 million, increase in revenue from our mid-range and low-end router products. Revenue from high-end router products decreased due to a decrease in revenue from most of our high-end router products, partially offset by higher sales of our CRS-X products. Revenue from other NGN Routing products increased due to higher sales of optical networking products. The revenue increase in the mid-range and low-end routers was primarily driven by higher sales of Cisco ISR products. 
+ Collaboration 
+ Fiscal 2017 Compared with Fiscal 2016 
+ Revenue from our Collaboration product category decreased by 2% , or $74 million , driven by a decrease in sales of Cisco Unified Communications and Cisco TelePresence products, partially offset by continued growth in Conferencing revenue. The decrease in Unified Communications revenue was driven primarily by decreased revenue from phones. Revenue from Cisco TelePresence products declined due to lower revenue from endpoint products. The growth in Conferencing revenue resulted from higher usage and recurring SaaS revenue from WebEx, which we include as product revenue in this category. We continue to increase the amount of deferred revenue and the proportion of recurring revenue related to our Collaboration product category. 
+ 
+ Fiscal 2016 Compared with Fiscal 2015 
+ Revenue from our Collaboration product category increased by 9% , or $348 million , driven by growth across the various subcategories within this product category. The growth in Conferencing revenue resulted from higher usage and recurring revenue from WebEx. Revenue from Cisco TelePresence products grew due to higher revenue in infrastructure and endpoint products as a result of new product introductions. The increase in Unified Communications revenue was driven by higher software revenue. 
+ 
+ 
+ 47 
+ 
+ Table of Contents 
+ 
+ Data Center 
+ Fiscal 2017 Compared with Fiscal 2016 
+ Revenue in our Data Center product category decreased by 4% , or $137 million , driven by a decrease in sales of our Cisco Unified Computing System products, with declines in the commercial, enterprise and public sector markets partially offset by growth in the service provider market. We believe that both the uncertainty in the macro environment and the continued market transition with computing workloads shifting from blade server systems to rack-based systems continued to affect customer spending. The decrease in sales of our Cisco Unified Computing System products was partially offset by an increase in sales of our hyperconverged offering, HyperFlex. 
+ Fiscal 2016 Compared with Fiscal 2015 
+ The increase in revenue in our Data Center product category of 5% , or $146 million , was primarily driven by an increase in sales of our Cisco Unified Computing System products, with growth across all geographic segments and most of the customer markets. We believe the uncertainty in the macro environment led to a slowdown of customer spending for products in this category and we are seeing a market transition with computing workloads shifting from blade server systems to rack-based systems. 
+ Wireless 
+ Fiscal 2017 Compared with Fiscal 2016 
+ Revenue in our Wireless product category increased by 5% , or $126 million , due primarily to continued growth in sales of Meraki products within this product category, and an increase in sales of certain of our access point products, partially offset by a decrease in sales of our controller products. We continue to increase the amount of deferred revenue and the proportion of recurring revenue related to our Wireless product category. 
+ Fiscal 2016 Compared with Fiscal 2015 
+ Revenue in our Wireless product category increased by 3% , or $89 million , due primarily to continued growth in sales of Meraki products within this category, partially offset by a decrease in sales of our controllers products. 
+ Security 
+ Fiscal 2017 Compared with Fiscal 2016 
+ Revenue in our Security product category increased 9% , or $184 million , driven by higher sales of unified threat management products, advanced threat security products, and web security products. We continue to increase the amount of deferred revenue and the proportion of recurring revenue related to our Security product category. 
+ Fiscal 2016 Compared with Fiscal 2015 
+ Revenue in our Security product category increased 13% , or $222 million , driven by higher sales of advanced threat security, web security and unified threat management products. 
+ Service Provider Video 
+ Fiscal 2017 Compared with Fiscal 2016 
+ The decrease in revenue from our Service Provider Video product category of 45% , or $788 million , was driven by a decrease in product sales of $504 million related to our SP Video CPE Business and a decrease in revenue from our video software and solutions products, particularly in China. 
+ Fiscal 2016 Compared with Fiscal 2015 
+ The decrease in revenue from our Service Provider Video product category of 41% , or $1,207 million , was driven by a decrease in product sales of $1,342 million related to our SP Video CPE Business which we sold during the second quarter of fiscal 2016. This decrease was partially offset by an increase in revenue from certain cable access products and an increase in revenue from our video software and solutions products, particularly in China. 
+ Other Products 
+ The increase in revenue in our Other Products category for fiscal 2017 was in large part due to increased revenue from our IoT products, driven by our fiscal 2016 Jasper acquisition. The acquisition of AppDynamics in the third quarter of fiscal 2017 also contributed to the increase in revenue in this product category. The increase in revenue for fiscal 2016 was due to increased revenue from data and analytics offerings, from our cloud-related offerings and from our IoT products, driven by our Jasper acquisition. 
+ 
+ 
+ 
+ 48 
+ 
+ 
+ Table of Contents 
+ 
+ Service Revenue by Segment 
+ The following table presents the breakdown of service revenue by segment (in millions, except percentages): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended 
+ 
+ 
+ 
+ 2017 vs. 2016 
+ 
+ 
+ 
+ 2016 vs. 2015 
+ 
+ 
+ Years Ended 
+ 
+ July 29, 2017 
+ 
+ 
+ 
+ July 30, 2016 
+ 
+ 
+ 
+ July 25, 2015 
+ 
+ 
+ 
+ Variance in Dollars 
+ 
+ 
+ 
+ Variance in Percent 
+ 
+ 
+ 
+ Variance in Dollars 
+ 
+ 
+ 
+ Variance in Percent 
+ 
+ 
+ Service revenue: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Americas 
+ 
+ $ 
+ 
+ 7,864 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 7,729 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 7,395 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 135 
+ 
+ 
+ 
+ 
+ 
+ 1.7 
+ 
+ % 
+ 
+ 
+ 
+ $ 
+ 
+ 334 
+ 
+ 
+ 
+ 
+ 
+ 4.5 
+ 
+ % 
+ 
+ 
+ Percentage of service revenue 
+ 
+ 63.9 
+ 
+ % 
+ 
+ 
+ 
+ 64.4 
+ 
+ % 
+ 
+ 
+ 
+ 64.8 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EMEA 
+ 
+ 2,635 
+ 
+ 
+ 
+ 
+ 
+ 2,620 
+ 
+ 
+ 
+ 
+ 
+ 2,466 
+ 
+ 
+ 
+ 
+ 
+ 15 
+ 
+ 
+ 
+ 
+ 
+ 0.6 
+ 
+ % 
+ 
+ 
+ 
+ 154 
+ 
+ 
+ 
+ 
+ 
+ 6.2 
+ 
+ % 
+ 
+ 
+ Percentage of service revenue 
+ 
+ 21.4 
+ 
+ % 
+ 
+ 
+ 
+ 21.9 
+ 
+ % 
+ 
+ 
+ 
+ 21.6 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APJC 
+ 
+ 1,801 
+ 
+ 
+ 
+ 
+ 
+ 1,644 
+ 
+ 
+ 
+ 
+ 
+ 1,550 
+ 
+ 
+ 
+ 
+ 
+ 157 
+ 
+ 
+ 
+ 
+ 
+ 9.5 
+ 
+ % 
+ 
+ 
+ 
+ 94 
+ 
+ 
+ 
+ 
+ 
+ 6.1 
+ 
+ % 
+ 
+ 
+ Percentage of service revenue 
+ 
+ 14.7 
+ 
+ % 
+ 
+ 
+ 
+ 13.7 
+ 
+ % 
+ 
+ 
+ 
+ 13.6 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ $ 
+ 
+ 12,300 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 11,993 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 11,411 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 307 
+ 
+ 
+ 
+ 
+ 
+ 2.6 
+ 
+ % 
+ 
+ 
+ 
+ $ 
+ 
+ 582 
+ 
+ 
+ 
+ 
+ 
+ 5.1 
+ 
+ % 
+ Fiscal 2017 Compared with Fiscal 2016 
+ Service revenue grew 3% . Excluding the $200 million of additional revenue as a result of the extra week in fiscal 2016, service revenue grew 4%. Service revenue grew across all of our geographic segments. Technical support services revenue increased by 3% and advanced services revenue increased by 1%. Technical support services revenue increased across all geographic segments. The increase in technical support services revenue was driven by contract initiations and renewals associated with product sales and an increase in software support offerings. Advanced services revenue, which relates to professional services for specific customer network needs, had solid revenue growth in our APJC segment, declined slightly in our EMEA segment and was flat in our Americas segment. 
+ Fiscal 2016 Compared with Fiscal 2015 
+ Service revenue grew 5% , which includes a $200 million, or 2%, year-over-year increase as a result of the impact of the extra week in fiscal 2016. Service revenue had solid growth across all of our geographic segments. Technical support services revenue increased by 5% and advanced services revenue increased by 7%. Technical support services revenue increased across all geographic segments. Renewals and technical support service contract initiations associated with product sales provided an installed base of equipment being serviced which, in concert with new service offerings, were the primary factors driving the revenue increases. Advanced services revenue grew across all geographic segments. 
+ 
+ 
+ Gross Margin 
+ The following table presents the gross margin for products and services (in millions, except percentages): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AMOUNT 
+ 
+ 
+ 
+ PERCENTAGE 
+ 
+ 
+ Years Ended 
+ 
+ July 29, 2017 
+ 
+ 
+ 
+ July 30, 2016 
+ 
+ 
+ 
+ July 25, 2015 
+ 
+ 
+ 
+ July 29, 2017 
+ 
+ 
+ 
+ July 30, 2016 
+ 
+ 
+ 
+ July 25, 2015 
+ 
+ 
+ Gross margin: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Product 
+ 
+ $ 
+ 
+ 22,006 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 23,093 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 22,373 
+ 
+ 
+ 
+ 
+ 
+ 61.6 
+ 
+ % 
+ 
+ 
+ 
+ 62.0 
+ 
+ % 
+ 
+ 
+ 
+ 59.3 
+ 
+ % 
+ 
+ 
+ Service 
+ 
+ 8,218 
+ 
+ 
+ 
+ 
+ 
+ 7,867 
+ 
+ 
+ 
+ 
+ 
+ 7,308 
+ 
+ 
+ 
+ 
+ 
+ 66.8 
+ 
+ % 
+ 
+ 
+ 
+ 65.6 
+ 
+ % 
+ 
+ 
+ 
+ 64.0 
+ 
+ % 
+ 
+ 
+ Total 
+ 
+ $ 
+ 
+ 30,224 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 30,960 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 29,681 
+ 
+ 
+ 
+ 
+ 
+ 63.0 
+ 
+ % 
+ 
+ 
+ 
+ 62.9 
+ 
+ % 
+ 
+ 
+ 
+ 60.4 
+ 
+ % 
+ 
+ 
+ 49 
+ 
+ Table of Contents 
+ 
+ Product Gross Margin 
+ Fiscal 2017 Compared with Fiscal 2016 
+ The following table summarizes the key factors that contributed to the change in product gross margin percentage from fiscal 2016 to fiscal 2017 : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Product Gross Margin Percentage 
+ 
+ 
+ Fiscal 2016 
+ 
+ 
+ 
+ 62.0 
+ 
+ % 
+ 
+ 
+ Product pricing 
+ 
+ 
+ 
+ (2.1 
+ 
+ )% 
+ 
+ 
+ Mix of products sold 
+ 
+ 
+ 
+ (0.3 
+ 
+ )% 
+ 
+ 
+ Supplier component remediation adjustment 
+ 
+ 
+ 
+ (0.1 
+ 
+ )% 
+ 
+ 
+ Other 
+ 
+ 
+ 
+ (0.1 
+ 
+ )% 
+ 
+ 
+ Productivity (1) 
+ 
+ 
+ 
+ 1.4 
+ 
+ % 
+ 
+ 
+ SP Video CPE Business impact 
+ 
+ 
+ 
+ 0.8 
+ 
+ % 
+ 
+ 
+ Fiscal 2017 
+ 
+ 
+ 
+ 61.6 
+ 
+ % 
+ (1) Productivity includes overall manufacturing-related costs, such as component costs, warranty expense, provision for inventory, freight, logistics, shipment volume, and other items not categorized elsewhere. 
+ Product gross margin decreased by 0.4 percentage points as compared with fiscal 2016 . The decrease in product gross margin was largely due to unfavorable impacts from product pricing, lower productivity benefits, and unfavorable product mix, partially offset by a benefit from the divestiture of the lower margin SP Video CPE business in fiscal 2016. 
+ The negative pricing impact was driven by typical market factors and impacted each of our geographic segments and customer markets. While productivity was positive to overall product gross margin, the benefit was lower than the prior year as these improvements were adversely impacted by an increase in the cost of certain memory components which are currently constrained. We expect the higher costs related to the constraint on these memory components to continue to impact productivity in the near term. In addition, productivity was negatively impacted by decreases in core routing and switching revenue which limited our ability to generate cost savings. Productivity improvements were driven by value engineering efforts (e.g. component redesign, board configuration, test processes, and transformation processes), lower warranty expenses and continued operational efficiency in manufacturing operations. The decrease in product gross margin was also due to an unfavorable mix of products sold driven by negative mix impacts from our NGN Routing, Switching and IoT products. 
+ Fiscal 2016 Compared with Fiscal 2015 
+ The following table summarizes the key factors that contributed to the change in product gross margin percentage from fiscal 2015 to fiscal 2016 : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Product Gross Margin Percentage 
+ 
+ 
+ Fiscal 2015 
+ 
+ 
+ 
+ 59.3 
+ 
+ % 
+ 
+ 
+ Productivity (1) 
+ 
+ 
+ 
+ 3.3 
+ 
+ % 
+ 
+ 
+ SP Video CPE Business impact 
+ 
+ 
+ 
+ 1.5 
+ 
+ % 
+ 
+ 
+ Amortization of purchased intangible assets 
+ 
+ 
+ 
+ 0.6 
+ 
+ % 
+ 
+ 
+ Rockstar patent portfolio charge 
+ 
+ 
+ 
+ 0.5 
+ 
+ % 
+ 
+ 
+ Product pricing 
+ 
+ 
+ 
+ (2.2 
+ 
+ )% 
+ 
+ 
+ Mix of products sold 
+ 
+ 
+ 
+ (0.8 
+ 
+ )% 
+ 
+ 
+ Supplier component remediation charge/adjustment 
+ 
+ 
+ 
+ (0.2 
+ 
+ )% 
+ 
+ 
+ Fiscal 2016 
+ 
+ 
+ 
+ 62.0 
+ 
+ % 
+ Product gross margin increased by 2.7 percentage points compared with fiscal 2015 . The increase in product gross margin was due in large part to productivity improvements, which were driven primarily by value engineering efforts; favorable component pricing; and continued operational efficiency in manufacturing operations. Our product gross margin also benefited from the sale during the second quarter of fiscal 2016 of our lower margin SP Video CPE Business, lower amortization expense and impairment charges related to acquisition-related intangible assets, and a $188 million charge to product cost of sales recorded in the first quarter of fiscal 2015 related to the Rockstar Consortium patent portfolio. 
+ 
+ 
+ 50 
+ 
+ Table of Contents 
+ 
+ The various factors contributing to the product gross margin increase were partially offset by unfavorable impacts from product pricing, which were driven by typical market factors and impacted each of our geographic segments and customer markets, an unfavorable mix of products sold and the lower supplier component remediation adjustment. The unfavorable mix of products sold was due to a negative mix impact from our Cisco Unified Computing System products, higher sales of Service Provider Video products (not including the CPE Business) and an unfavorable mix within Switching products. 
+ Service Gross Margin 
+ Fiscal 2017 Compared with Fiscal 2016 
+ Our service gross margin percentage increased by 1.2 percentage points due to higher sales volume, decreased delivery costs, favorable mix and, to a lesser extent, lower share-based compensation expense. These benefits to service gross margin were partially offset by increased headcount-related costs. 
+ Our service gross margin normally experiences some fluctuations due to various factors such as the timing of contract initiations in our renewals, our strategic investments in headcount, and the resources we deploy to support the overall service business. Other factors include the mix of service offerings, as the gross margin from our advanced services is typically lower than the gross margin from technical support services. 
+ Fiscal 2016 Compared with Fiscal 2015 
+ Service gross margin percentage increased by 1.6 percentage points due to higher sales volume and decreased headcount-related costs. These benefits to gross margin were partially offset by increased partner delivery costs and increased outside services costs. 
+ Gross Margin by Segment 
+ The following table presents the total gross margin for each segment (in millions, except percentages): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AMOUNT 
+ 
+ 
+ 
+ PERCENTAGE 
+ 
+ 
+ Years Ended 
+ 
+ 
+ 
+ July 29, 2017 
+ 
+ 
+ 
+ July 30, 2016 
+ 
+ 
+ 
+ July 25, 2015 
+ 
+ 
+ 
+ July 29, 2017 
+ 
+ 
+ 
+ July 30, 2016 
+ 
+ 
+ 
+ July 25, 2015 
+ 
+ 
+ Gross margin: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Americas 
+ 
+ 
+ 
+ $ 
+ 
+ 18,284 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 18,986 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 18,638 
+ 
+ 
+ 
+ 
+ 
+ 64.5 
+ 
+ % 
+ 
+ 
+ 
+ 64.6 
+ 
+ % 
+ 
+ 
+ 
+ 62.9 
+ 
+ % 
+ 
+ 
+ EMEA 
+ 
+ 
+ 
+ 7,855 
+ 
+ 
+ 
+ 
+ 
+ 7,998 
+ 
+ 
+ 
+ 
+ 
+ 7,731 
+ 
+ 
+ 
+ 
+ 
+ 65.4 
+ 
+ % 
+ 
+ 
+ 
+ 65.0 
+ 
+ % 
+ 
+ 
+ 
+ 62.6 
+ 
+ % 
+ 
+ 
+ APJC 
+ 
+ 
+ 
+ 4,741 
+ 
+ 
+ 
+ 
+ 
+ 4,620 
+ 
+ 
+ 
+ 
+ 
+ 4,313 
+ 
+ 
+ 
+ 
+ 
+ 62.0 
+ 
+ % 
+ 
+ 
+ 
+ 61.2 
+ 
+ % 
+ 
+ 
+ 
+ 60.0 
+ 
+ % 
+ 
+ 
+ Segment total 
+ 
+ 
+ 
+ 30,880 
+ 
+ 
+ 
+ 
+ 
+ 31,604 
+ 
+ 
+ 
+ 
+ 
+ 30,682 
+ 
+ 
+ 
+ 
+ 
+ 64.3 
+ 
+ % 
+ 
+ 
+ 
+ 64.2 
+ 
+ % 
+ 
+ 
+ 
+ 62.4 
+ 
+ % 
+ 
+ 
+ Unallocated corporate items (1) 
+ 
+ 
+ 
+ (656 
+ 
+ ) 
+ 
+ 
+ 
+ (644 
+ 
+ ) 
+ 
+ 
+ 
+ (1,001 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ 
+ 
+ $ 
+ 
+ 30,224 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 30,960 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 29,681 
+ 
+ 
+ 
+ 
+ 
+ 63.0 
+ 
+ % 
+ 
+ 
+ 
+ 62.9 
+ 
+ % 
+ 
+ 
+ 
+ 60.4 
+ 
+ % 
+ (1) The unallocated corporate items include the effects of amortization and impairments of acquisition-related intangible assets, share-based compensation expense, significant litigation and other contingencies, charges related to asset impairments and restructurings, and certain other charges. We do not allocate these items to the gross margin for each segment because management does not include such information in measuring the performance of the operating segments. 
+ Fiscal 2017 Compared with Fiscal 2016 
+ The Americas segment experienced a slight gross margin percentage decrease due to negative impacts from pricing and product mix, partially offset by productivity improvements and the sale of the lower margin SP Video CPE Business. The unfavorable mix impact was driven by NGN Routing, Switching and IoT products. 
+ The gross margin percentage increase in our EMEA segment was due primarily to higher service gross margin. Product gross margin in this segment also increased slightly due to the impact of productivity improvements, the sale of the lower margin SP Video CPE Business and a favorable product mix, partially offset by unfavorable impacts from pricing. 
+ The APJC segment gross margin percentage increased due primarily to higher service gross margin. Product gross margin in this segment decreased due to negative impacts from pricing and product mix, partially offset by productivity improvements. The unfavorable mix impact was driven by our Cisco Unified Computing System products. 
+ The gross margin percentage for a particular segment may fluctuate, and period-to-period changes in such percentages may or may not be indicative of a trend for that segment. 
+ 
+ 
+ 51 
+ 
+ Table of Contents 
+ 
+ Fiscal 2016 Compared with Fiscal 2015 
+ The Americas segment experienced a gross margin percentage increase due primarily to the sale of the lower margin SP Video CPE Business. In this geographic segment, productivity improvements were substantially offset by unfavorable impacts from pricing and product mix. The unfavorable mix of products sold was due to increased revenue from our lower margin Cisco Unified Computing System products and an unfavorable mix within our NGN Routing products. 
+ The gross margin percentage increase in our EMEA segment was due primarily to the impact of productivity improvements in this geographic segment and the sale of the SP Video CPE Business. Partially offsetting these favorable impacts to gross margin were negative impacts from pricing and an unfavorable product mix. The unfavorable mix of products sold was due primarily to increased revenue from our lower margin Cisco Unified Computing System products. Higher service gross margin also contributed to the increase in the overall gross margin in this geographic segment. 
+ Our APJC segment gross margin percentage increased due to productivity improvements, partially offset by unfavorable impacts from pricing and mix. The mix impact was driven primarily by higher sales from our Service Provider Video products (not including the SP Video CPE Business) and unfavorable mix within our NGN Routing products. 
+ 
+ 
+ Research and Development (“R&D”), Sales and Marketing, and General and Administrative (“G&A”) Expenses 
+ R&D, sales and marketing, and G&A expenses are summarized in the following table (in millions, except percentages): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended 
+ 
+ 
+ 
+ 2017 vs. 2016 
+ 
+ 
+ 
+ 2016 vs. 2015 
+ 
+ 
+ 
+ 
+ 
+ 
+ July 29, 2017 
+ 
+ 
+ 
+ July 30, 2016 
+ 
+ 
+ 
+ July 25, 2015 
+ 
+ 
+ 
+ Variance in Dollars 
+ 
+ 
+ 
+ Variance in Percent 
+ 
+ 
+ 
+ Variance in Dollars 
+ 
+ 
+ 
+ Variance in Percent 
+ 
+ 
+ Research and development 
+ 
+ 
+ 
+ $ 
+ 
+ 6,059 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 6,296 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 6,207 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (237 
+ 
+ ) 
+ 
+ 
+ 
+ (3.8 
+ 
+ )% 
+ 
+ 
+ 
+ $ 
+ 
+ 89 
+ 
+ 
+ 
+ 
+ 
+ 1.4 
+ 
+ % 
+ 
+ 
+ Percentage of revenue 
+ 
+ 
+ 
+ 12.6 
+ 
+ % 
+ 
+ 
+ 
+ 12.8 
+ 
+ % 
+ 
+ 
+ 
+ 12.6 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sales and marketing 
+ 
+ 
+ 
+ 9,184 
+ 
+ 
+ 
+ 
+ 
+ 9,619 
+ 
+ 
+ 
+ 
+ 
+ 9,821 
+ 
+ 
+ 
+ 
+ 
+ (435 
+ 
+ ) 
+ 
+ 
+ 
+ (4.5 
+ 
+ )% 
+ 
+ 
+ 
+ (202 
+ 
+ ) 
+ 
+ 
+ 
+ (2.1 
+ 
+ )% 
+ 
+ 
+ Percentage of revenue 
+ 
+ 
+ 
+ 19.1 
+ 
+ % 
+ 
+ 
+ 
+ 19.5 
+ 
+ % 
+ 
+ 
+ 
+ 20.0 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ General and administrative 
+ 
+ 
+ 
+ 1,993 
+ 
+ 
+ 
+ 
+ 
+ 1,814 
+ 
+ 
+ 
+ 
+ 
+ 2,040 
+ 
+ 
+ 
+ 
+ 
+ 179 
+ 
+ 
+ 
+ 
+ 
+ 9.9 
+ 
+ % 
+ 
+ 
+ 
+ (226 
+ 
+ ) 
+ 
+ 
+ 
+ (11.1 
+ 
+ )% 
+ 
+ 
+ Percentage of revenue 
+ 
+ 
+ 
+ 4.2 
+ 
+ % 
+ 
+ 
+ 
+ 3.7 
+ 
+ % 
+ 
+ 
+ 
+ 4.1 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ 
+ 
+ $ 
+ 
+ 17,236 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 17,729 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 18,068 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (493 
+ 
+ ) 
+ 
+ 
+ 
+ (2.8 
+ 
+ )% 
+ 
+ 
+ 
+ $ 
+ 
+ (339 
+ 
+ ) 
+ 
+ 
+ 
+ (1.9 
+ 
+ )% 
+ 
+ 
+ Percentage of revenue 
+ 
+ 
+ 
+ 35.9 
+ 
+ % 
+ 
+ 
+ 
+ 36.0 
+ 
+ % 
+ 
+ 
+ 
+ 36.8 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Our fiscal 2017 had one less week compared with fiscal 2016, which had an extra week. We estimate that the extra week in fiscal 2016 contributed approximately $116 million of the year-over-year decrease in total operating expenses (not including share-based compensation expense). 
+ R&D Expenses 
+ Fiscal 2017 Compared with Fiscal 2016 
+ R&D expenses decreased primarily due to lower contracted services, lower headcount-related expenses, lower discretionary spending and lower acquisition-related costs, partially offset by higher share-based compensation expense. Lower headcount- related expenses were due to efficiencies related to our restructuring actions and the extra week in fiscal 2016. 
+ We continue to invest in R&D in order to bring a broad range of products to market in a timely fashion. If we believe that we are unable to enter a particular market in a timely manner with internally developed products, we may purchase or license technology from other businesses, or we may partner with or acquire businesses as an alternative to internal R&D. 
+ Fiscal 2016 Compared with Fiscal 2015 
+ R&D expenses increased primarily due to higher headcount-related expenses attributable in part to the impact of the extra week in fiscal 2016 and, to a lesser extent, higher share-based compensation expense. These increases were partially offset by lower acquisition-related costs and lower discretionary spending. 
+ Sales and Marketing Expenses 
+ Fiscal 2017 Compared with Fiscal 2016 
+ Sales and marketing expenses decreased due to lower headcount-related expenses, lower contracted services, lower discretionary spending, lower acquisition-related costs and, to a lesser extent, lower share-based compensation expense. Lower headcount-related expenses were due to efficiencies related to our restructuring actions. The extra week in fiscal 2016 also contributed to the decrease in headcount-related expenses. 
+ 
+ 
+ 52 
+ 
+ Table of Contents 
+ 
+ Fiscal 2016 Compared with Fiscal 2015 
+ Sales and marketing expenses decreased due to lower discretionary spending and lower headcount-related expenses. The aforementioned items benefited from foreign exchange rates during fiscal 2016. Lower share-based compensation expense also contributed to the decrease. 
+ G&A Expenses 
+ Fiscal 2017 Compared with Fiscal 2016 
+ G&A expenses increased primarily due to the $253 million pre-tax gain from the sale of our SP Video CPE Business recorded during fiscal 2016 and, to a lesser extent, higher share-based compensation expense. These increases were partially offset by lower headcount-related expenses and lower contracted services. The extra week in fiscal 2016 contributed to the decreased headcount-related expense. 
+ Fiscal 2016 Compared with Fiscal 2015 
+ G&A expenses decreased primarily due to the $253 million pre-tax gain from the sale of our SP Video CPE Business and, to a lesser extent, lower contracted services and lower share-based compensation expense, partially offset by higher headcount-related expenses. The extra week in fiscal 2016 contributed to the increased headcount-related expenses. 
+ 
+ Effect of Foreign Currency 
+ In fiscal 2017 , foreign currency fluctuations, net of hedging, decreased the combined R&D, sales and marketing, and G&A expenses by approximately $77 million , or 0.4% , compared with fiscal 2016 . In fiscal 2016 , foreign currency fluctuations, net of hedging, decreased the combined R&D, sales and marketing, and G&A expenses by approximately $567 million , or 3.1% , compared with fiscal 2015 . 
+ Share-Based Compensation Expense 
+ The following table presents share-based compensation expense (in millions): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended 
+ 
+ 
+ 
+ July 29, 2017 
+ 
+ 
+ 
+ July 30, 2016 
+ 
+ 
+ 
+ July 25, 2015 
+ 
+ 
+ Cost of sales—product 
+ 
+ 
+ 
+ $ 
+ 
+ 85 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 70 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 50 
+ 
+ 
+ 
+ 
+ Cost of sales—service 
+ 
+ 
+ 
+ 134 
+ 
+ 
+ 
+ 
+ 
+ 142 
+ 
+ 
+ 
+ 
+ 
+ 157 
+ 
+ 
+ 
+ 
+ Share-based compensation expense in cost of sales 
+ 
+ 
+ 
+ 219 
+ 
+ 
+ 
+ 
+ 
+ 212 
+ 
+ 
+ 
+ 
+ 
+ 207 
+ 
+ 
+ 
+ 
+ Research and development 
+ 
+ 
+ 
+ 529 
+ 
+ 
+ 
+ 
+ 
+ 470 
+ 
+ 
+ 
+ 
+ 
+ 448 
+ 
+ 
+ 
+ 
+ Sales and marketing 
+ 
+ 
+ 
+ 542 
+ 
+ 
+ 
+ 
+ 
+ 545 
+ 
+ 
+ 
+ 
+ 
+ 559 
+ 
+ 
+ 
+ 
+ General and administrative 
+ 
+ 
+ 
+ 236 
+ 
+ 
+ 
+ 
+ 
+ 205 
+ 
+ 
+ 
+ 
+ 
+ 228 
+ 
+ 
+ 
+ 
+ Restructuring and other charges 
+ 
+ 
+ 
+ 3 
+ 
+ 
+ 
+ 
+ 
+ 26 
+ 
+ 
+ 
+ 
+ 
+ (2 
+ 
+ ) 
+ 
+ 
+ Share-based compensation expense in operating expenses 
+ 
+ 
+ 
+ 1,310 
+ 
+ 
+ 
+ 
+ 
+ 1,246 
+ 
+ 
+ 
+ 
+ 
+ 1,233 
+ 
+ 
+ 
+ 
+ Total share-based compensation expense 
+ 
+ 
+ 
+ $ 
+ 
+ 1,529 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,458 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,440 
+ 
+ 
+ The increase in share-based compensation expense for fiscal 2017 , as compared with fiscal 2016 , was due primarily to higher expense related to equity awards assumed with respect to our recent acquisitions. 
+ The increase in share-based compensation expense for fiscal 2016 , as compared with fiscal 2015 , was due primarily to the timing of restricted stock unit (RSU) grants and the impact of the extra week in fiscal 2016, partially offset by lower net expense associated with accelerated and modified awards. 
+ Amortization of Purchased Intangible Assets 
+ The following table presents the amortization of purchased intangible assets (in millions): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended 
+ 
+ 
+ 
+ July 29, 2017 
+ 
+ 
+ 
+ July 30, 2016 
+ 
+ 
+ 
+ July 25, 2015 
+ 
+ 
+ Amortization of purchased intangible assets: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of sales 
+ 
+ 
+ 
+ $ 
+ 
+ 556 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 577 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 814 
+ 
+ 
+ 
+ 
+ Operating expenses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Amortization of purchased intangible assets 
+ 
+ 
+ 
+ 259 
+ 
+ 
+ 
+ 
+ 
+ 303 
+ 
+ 
+ 
+ 
+ 
+ 359 
+ 
+ 
+ 
+ 
+ Restructuring and other charges 
+ 
+ 
+ 
+ 38 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ 
+ 
+ $ 
+ 
+ 853 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 880 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,173 
+ 
+ 
+ 
+ 
+ 53 
+ 
+ Table of Contents 
+ 
+ Amortization of purchased intangible assets decreased in fiscal 2017 , as compared with fiscal 2016 , due to certain purchased intangible assets having become fully amortized and lower impairment charges in fiscal 2017, partially offset by amortization of purchased intangible assets from our recent acquisitions. 
+ Amortization of purchased intangible assets decreased in fiscal 2016 as compared with fiscal 2015 , due to certain purchased intangible assets having become fully amortized or impaired, partially offset by amortization of purchased intangible assets from our recent acquisitions. Lower impairment charges in fiscal 2016 also contributed to the decrease. 
+ Restructuring and Other Charges 
+ In August 2016, we announced a restructuring plan that will impact up to 6,600 employees, with estimated pretax charges of approximately $850 million . In connection with this restructuring plan, we incurred charges of $756 million during fiscal 2017. These charges were related primarily to severance and other one-time termination benefits and other associated costs. We expect the restructuring action to be substantially completed by the end of the first quarter of fiscal 2018. We expect to reinvest substantially all of the cost savings from the restructuring action in our key priority areas such as security, IoT, collaboration, next generation data center and cloud. As a result, the overall cost savings from the restructuring action are not expected to be material for future periods. 
+ In connection with a restructuring action announced in August 2014, we incurred restructuring and other charges of $267 million and $489 million during fiscal 2016 and 2015, respectively. These charges were related primarily to severance and other one-time termination benefits and other associated costs. We completed this plan at the end of fiscal 2016. 
+ Operating Income 
+ The following table presents our operating income and our operating income as a percentage of revenue (in millions, except percentages): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended 
+ 
+ 
+ 
+ July 29, 2017 
+ 
+ 
+ 
+ July 30, 2016 
+ 
+ 
+ 
+ July 25, 2015 
+ 
+ 
+ Operating income 
+ 
+ 
+ 
+ $ 
+ 
+ 11,973 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 12,660 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 10,770 
+ 
+ 
+ 
+ 
+ Operating income as a percentage of revenue 
+ 
+ 
+ 
+ 24.9 
+ 
+ % 
+ 
+ 
+ 
+ 25.7 
+ 
+ % 
+ 
+ 
+ 
+ 21.9 
+ 
+ % 
+ For fiscal 2017 , as compared with fiscal 2016 , operating income decreased by 5% , and as a percentage of revenue operating income decreased by 0.8 percentage points. These decreases resulted primarily from an increase in restructuring and other charges related to the restructuring action announced in August 2016 and the $253 million pre-tax gain from the sale of our SP Video CPE Business recorded in fiscal 2016. 
+ For fiscal 2016 , as compared with fiscal 2015 , operating income increased by 18% , and as a percentage of revenue operating income increased by 3.8 percentage points. The increase resulted from the following: a gross margin percentage increase, driven in part by the sale of the lower margin SP Video CPE Business during fiscal 2016; the $253 million pre-tax gain from the sale of our SP Video CPE Business; and a decrease in restructuring and other charges related to the restructuring action announced in August 2014. 
+ 
+ 
+ 
+ 54 
+ 
+ 
+ Table of Contents 
+ 
+ Interest and Other Income (Loss), Net 
+ Interest Income (Expense), Net The following table summarizes interest income and interest expense (in millions): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended 
+ 
+ 
+ 
+ 2017 vs. 2016 
+ 
+ 
+ 
+ 2016 vs. 2015 
+ 
+ 
+ 
+ 
+ July 29, 2017 
+ 
+ 
+ 
+ July 30, 2016 
+ 
+ 
+ 
+ July 25, 2015 
+ 
+ 
+ 
+ Variance in Dollars 
+ 
+ 
+ 
+ Variance in Dollars 
+ 
+ 
+ Interest income 
+ 
+ $ 
+ 
+ 1,338 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,005 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 769 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 333 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 236 
+ 
+ 
+ 
+ 
+ Interest expense 
+ 
+ (861 
+ 
+ ) 
+ 
+ 
+ 
+ (676 
+ 
+ ) 
+ 
+ 
+ 
+ (566 
+ 
+ ) 
+ 
+ 
+ 
+ (185 
+ 
+ ) 
+ 
+ 
+ 
+ (110 
+ 
+ ) 
+ 
+ 
+ Interest income (expense), net 
+ 
+ $ 
+ 
+ 477 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 329 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 203 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 148 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 126 
+ 
+ 
+ Fiscal 2017 Compared with Fiscal 2016 
+ Interest income increased driven by an increase in our portfolio of cash, cash equivalents, and fixed income investments as well as higher yields on our portfolio. The increase in interest expense was driven by higher average debt balances which includes commercial paper notes and the impact of higher effective interest rates on floating-rate senior notes and interest rate swaps associated with fixed-rate senior notes. 
+ Fiscal 2016 Compared with Fiscal 2015 
+ Interest income increased driven by an increase in our portfolio of cash, cash equivalents, and fixed income investments as well as higher yields on our portfolio of cash and investments. The increase in interest expense was driven by higher average debt balances and the impact of higher effective interest rates on floating-rate senior notes and interest rate swaps associated with fixed-rate senior notes. 
+ 
+ Other Income (Loss), Net The components of other income (loss), net, are summarized as follows (in millions): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended 
+ 
+ 
+ 
+ 2017 vs. 2016 
+ 
+ 
+ 
+ 2016 vs. 2015 
+ 
+ 
+ 
+ 
+ July 29, 2017 
+ 
+ 
+ 
+ July 30, 2016 
+ 
+ 
+ 
+ July 25, 2015 
+ 
+ 
+ 
+ Variance in Dollars 
+ 
+ 
+ 
+ Variance in Dollars 
+ 
+ 
+ Gains (losses) on investments, net: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Publicly traded equity securities 
+ 
+ $ 
+ 
+ (45 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ 33 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 116 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (78 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ (83 
+ 
+ ) 
+ 
+ 
+ Fixed income securities 
+ 
+ (42 
+ 
+ ) 
+ 
+ 
+ 
+ (34 
+ 
+ ) 
+ 
+ 
+ 
+ 41 
+ 
+ 
+ 
+ 
+ 
+ (8 
+ 
+ ) 
+ 
+ 
+ 
+ (75 
+ 
+ ) 
+ 
+ 
+ Total available-for-sale investments 
+ 
+ (87 
+ 
+ ) 
+ 
+ 
+ 
+ (1 
+ 
+ ) 
+ 
+ 
+ 
+ 157 
+ 
+ 
+ 
+ 
+ 
+ (86 
+ 
+ ) 
+ 
+ 
+ 
+ (158 
+ 
+ ) 
+ 
+ 
+ Privately held companies 
+ 
+ (46 
+ 
+ ) 
+ 
+ 
+ 
+ (35 
+ 
+ ) 
+ 
+ 
+ 
+ 82 
+ 
+ 
+ 
+ 
+ 
+ (11 
+ 
+ ) 
+ 
+ 
+ 
+ (117 
+ 
+ ) 
+ 
+ 
+ Net gains (losses) on investments 
+ 
+ (133 
+ 
+ ) 
+ 
+ 
+ 
+ (36 
+ 
+ ) 
+ 
+ 
+ 
+ 239 
+ 
+ 
+ 
+ 
+ 
+ (97 
+ 
+ ) 
+ 
+ 
+ 
+ (275 
+ 
+ ) 
+ 
+ 
+ Other gains (losses), net 
+ 
+ (30 
+ 
+ ) 
+ 
+ 
+ 
+ (33 
+ 
+ ) 
+ 
+ 
+ 
+ (11 
+ 
+ ) 
+ 
+ 
+ 
+ 3 
+ 
+ 
+ 
+ 
+ 
+ (22 
+ 
+ ) 
+ 
+ 
+ Other income (loss), net 
+ 
+ $ 
+ 
+ (163 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ (69 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ 228 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (94 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ (297 
+ 
+ ) 
+ Fiscal 2017 Compared with Fiscal 2016 
+ The change in total net gains (losses) on available-for-sale investments was driven by $74 million of impairment charges on publicly traded equity securities. 
+ The change in net gains (losses) on investments in privately held companies was primarily due to higher impairment charges on investments in privately held companies, partially offset by higher realized gains on investments in privately held companies. 
+ The change in other gains (losses), net was driven by lower donation expense partially offset by impacts from customer lease terminations, foreign exchange and equity derivatives. 
+ Fiscal 2016 Compared with Fiscal 2015 
+ The change in total net gains (losses) on available-for-sale investments was primarily attributable to lower realized gains on publicly traded equity securities and net losses on fixed income securities in fiscal 2016 compared to net gains in fiscal 2015 as a result of market conditions and the timing of sales of these securities. 
+ The change in net gains (losses) on investments in privately held companies was primarily due to a gain of $126 million related to the reorganization of our investment in VCE, which was recorded in fiscal 2015. 
+ The change in other gains (losses), net was driven by higher donation expenses and net unfavorable foreign exchange impacts, partially offset by higher gains from customer lease terminations. 
+ 
+ 
+ 55 
+ 
+ Table of Contents 
+ 
+ Provision for Income Taxes 
+ Our provision for income taxes is subject to volatility and could be adversely impacted by earnings being lower than anticipated in countries that have lower tax rates, higher than anticipated in countries that have higher tax rates, and expiration of or lapses in tax incentives. Our provision for income taxes does not include provisions for U.S. income taxes and foreign withholding taxes associated with the repatriation of undistributed earnings of certain foreign subsidiaries that we intend to reinvest indefinitely in our foreign subsidiaries. If these earnings were distributed from the foreign subsidiaries to the United States in the form of dividends or otherwise, or if the shares of the relevant foreign subsidiaries were sold or otherwise transferred, we would be subject to additional U.S. income taxes (subject to an adjustment for foreign tax credits) and foreign withholding taxes. Further, as a result of certain of our ongoing employment and capital investment actions and commitments, our income in certain countries is subject to reduced tax rates. Our failure to meet these commitments could adversely impact our provision for income taxes. 
+ Fiscal 2017 Compared with Fiscal 2016 
+ The provision for income taxes resulted in an effective tax rate of 21.8% for fiscal 2017 , compared with 16.9% for fiscal 2016 . The net 4.9 percentage point increase in the effective tax rates was primarily due to the recognition of a net benefit to the provision for income taxes in fiscal 2016 related to our settlement with the IRS of all outstanding items covering fiscal 2008 through fiscal 2010 and reinstatement of the U.S. federal R&D tax credit on December 18, 2015. 
+ For a full reconciliation of our effective tax rate to the U.S. federal statutory rate of 35% and for further explanation of our provision for income taxes, see Note 16 to the Consolidated Financial Statements. 
+ Fiscal 2016 Compared with Fiscal 2015 
+ The provision for income taxes resulted in an effective tax rate of 16.9% for fiscal 2016 , compared with 19.8% for fiscal 2015 . The net 2.9 percentage point decrease in the effective tax rates was primarily due to a non-recurring net tax benefit of $367 million, or 2.8 percentage points, related to a tax settlement with the IRS in fiscal 2016. 
+ 
+ LIQUIDITY AND CAPITAL RESOURCES 
+ The following sections discuss the effects of changes in our balance sheet, our capital allocation strategy including stock repurchase program and dividends, our contractual obligations, and certain other commitments and activities on our liquidity and capital resources. 
+ Balance Sheet and Cash Flows 
+ Cash and Cash Equivalents and Investments The following table summarizes our cash and cash equivalents and investments (in millions): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ July 29, 2017 
+ 
+ 
+ 
+ July 30, 2016 
+ 
+ 
+ 
+ Increase (Decrease) 
+ 
+ 
+ Cash and cash equivalents 
+ 
+ $ 
+ 
+ 11,708 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 7,631 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 4,077 
+ 
+ 
+ 
+ 
+ Fixed income securities 
+ 
+ 57,077 
+ 
+ 
+ 
+ 
+ 
+ 56,621 
+ 
+ 
+ 
+ 
+ 
+ 456 
+ 
+ 
+ 
+ 
+ Publicly traded equity securities 
+ 
+ 1,707 
+ 
+ 
+ 
+ 
+ 
+ 1,504 
+ 
+ 
+ 
+ 
+ 
+ 203 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ $ 
+ 
+ 70,492 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 65,756 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 4,736 
+ 
+ 
+ The net increase in cash and cash equivalents and investments from fiscal 2016 to fiscal 2017 was primarily the result of cash provided by operating activities of $13.9 billion and a net increase in debt of $5.3 billion . These sources of cash were partially offset by cash returned to shareholders in the form of cash dividends of $5.5 billion and repurchases of common stock of $3.7 billion under the stock repurchase program, net cash paid for acquisitions of $3.3 billion , the timing of settlements of investments and other of $1.1 billion and capital expenditures of $1.0 billion . 
+ Our total in cash and cash equivalents and investments held by various foreign subsidiaries was $67.5 billion and $59.8 billion as of July 29, 2017 and July 30, 2016 , respectively. Under current tax laws and regulations, if these assets were to be distributed from the foreign subsidiaries to the United States in the form of dividends or otherwise, we would be subject to additional U.S. income taxes (subject to an adjustment for foreign tax credits) and foreign withholding taxes. The balance of cash and cash equivalents and investments available in the United States as of July 29, 2017 and July 30, 2016 was $3.0 billion and $5.9 billion , respectively. 
+ We maintain an investment portfolio of various holdings, types, and maturities. We classify our investments as short-term investments based on their nature and their availability for use in current operations. We believe the overall credit quality of our portfolio is strong, with our cash equivalents and our fixed income investment portfolio consisting primarily of high quality investment-grade securities. We believe that our strong cash and cash equivalents and investments position allows us to use our cash resources for strategic investments to gain access to new technologies, for acquisitions, for customer financing activities, for working capital needs, and for the repurchase of shares of common stock and payment of dividends as discussed below. 
+ 
+ 
+ 56 
+ 
+ Table of Contents 
+ 
+ Free Cash Flow and Capital Allocation As part of our capital allocation strategy, we intend to return a minimum of 50% of our free cash flow annually to our shareholders through cash dividends and repurchases of common stock. 
+ We define free cash flow as net cash provided by operating activities less cash used to acquire property and equipment. The following table reconciles our net cash provided by operating activities to free cash flow (in millions): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended 
+ 
+ July 29, 2017 
+ 
+ 
+ 
+ July 30, 2016 
+ 
+ 
+ 
+ July 25, 2015 
+ 
+ 
+ Net cash provided by operating activities 
+ 
+ $ 
+ 
+ 13,876 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 13,570 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 12,552 
+ 
+ 
+ 
+ 
+ Acquisition of property and equipment 
+ 
+ (964 
+ 
+ ) 
+ 
+ 
+ 
+ (1,146 
+ 
+ ) 
+ 
+ 
+ 
+ (1,227 
+ 
+ ) 
+ 
+ 
+ Free cash flow 
+ 
+ $ 
+ 
+ 12,912 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 12,424 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 11,325 
+ 
+ 
+ We expect that cash provided by operating activities may fluctuate in future periods as a result of a number of factors, including fluctuations in our operating results, the rate at which products are shipped during the quarter (which we refer to as shipment linearity), the timing and collection of accounts receivable and financing receivables, inventory and supply chain management, deferred revenue, excess tax benefits resulting from share-based compensation, and the timing and amount of tax and other payments. For additional discussion, see “Part I, ITEM 1A. Risk Factors” in this report. 
+ We consider free cash flow to be a liquidity measure that provides useful information to management and investors because of our intent to return a stated percentage of free cash flow to shareholders in the form of dividends and stock repurchases. We further regard free cash flow as a useful measure because it reflects cash that can be used to, among other things, invest in our business, make strategic acquisitions, repurchase common stock, and pay dividends on our common stock, after deducting capital investments. A limitation of the utility of free cash flow as a measure of financial performance and liquidity is that the free cash flow does not represent the total increase or decrease in our cash balance for the period. In addition, we have other required uses of cash, including repaying the principal of our outstanding indebtedness. Free cash flow is not a measure calculated in accordance with U.S. generally accepted accounting principles and should not be regarded in isolation or as an alternative for net income provided by operating activities or any other measure calculated in accordance with such principles, and other companies may calculate free cash flow in a different manner than we do. 
+ The following table summarizes the dividends paid and stock repurchases (in millions, except per-share amounts): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DIVIDENDS 
+ 
+ 
+ 
+ STOCK REPURCHASE PROGRAM 
+ 
+ 
+ 
+ TOTAL 
+ 
+ 
+ Years Ended 
+ 
+ 
+ 
+ Per Share 
+ 
+ 
+ 
+ Amount 
+ 
+ 
+ 
+ Shares 
+ 
+ 
+ 
+ Weighted-Average Price per Share 
+ 
+ 
+ 
+ Amount 
+ 
+ 
+ 
+ Amount 
+ 
+ 
+ July 29, 2017 
+ 
+ 
+ 
+ $ 
+ 
+ 1.10 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 5,511 
+ 
+ 
+ 
+ 
+ 
+ 118 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 31.38 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 3,706 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 9,217 
+ 
+ 
+ 
+ 
+ July 30, 2016 
+ 
+ 
+ 
+ $ 
+ 
+ 0.94 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 4,750 
+ 
+ 
+ 
+ 
+ 
+ 148 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 26.45 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 3,918 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 8,668 
+ 
+ 
+ 
+ 
+ July 25, 2015 
+ 
+ 
+ 
+ $ 
+ 
+ 0.80 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 4,086 
+ 
+ 
+ 
+ 
+ 
+ 155 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 27.22 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 4,234 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 8,320 
+ 
+ 
+ Any future dividends are subject to the approval of our Board of Directors. 
+ Accounts Receivable, Net The following table summarizes our accounts receivable, net (in millions): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ July 29, 2017 
+ 
+ 
+ 
+ July 30, 2016 
+ 
+ 
+ 
+ Increase (Decrease) 
+ 
+ 
+ Accounts receivable, net 
+ 
+ $ 
+ 
+ 5,146 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 5,847 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (701 
+ 
+ ) 
+ Our accounts receivable net, as of July 29, 2017 decreased by approximately 12% compared with the end of fiscal 2016 , primarily due to service and product billings being more linear in the fourth quarter of fiscal 2017 compared with the fourth quarter of fiscal 2016. 
+ 
+ 
+ 57 
+ 
+ Table of Contents 
+ 
+ Inventory Supply Chain The following table summarizes our inventories and purchase commitments with contract manufacturers and suppliers (in millions, except annualized inventory turns): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ July 29, 2017 
+ 
+ 
+ 
+ July 30, 2016 
+ 
+ 
+ 
+ Increase (Decrease) 
+ 
+ 
+ Inventories 
+ 
+ $ 
+ 
+ 1,616 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,217 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 399 
+ 
+ 
+ 
+ 
+ Annualized inventory turns 
+ 
+ 12.3 
+ 
+ 
+ 
+ 
+ 
+ 14.6 
+ 
+ 
+ 
+ 
+ 
+ (2.3 
+ 
+ ) 
+ 
+ 
+ Purchase commitments with contract manufacturers and suppliers 
+ 
+ $ 
+ 
+ 4,640 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 3,896 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 744 
+ 
+ 
+ Inventory as of July 29, 2017 increased by 33% from our inventory balance at the end of fiscal 2016 , and for the same period purchase commitments with contract manufacturers and suppliers increased by approximately 19% . On a combined basis, inventories and purchase commitments with contract manufacturers and suppliers increased by 22% compared with the end of fiscal 2016 . The increase in inventory was due to an increase in raw materials due to securing memory supply which is currently constrained and higher levels of manufactured finished goods in support of current order activity. The increase in purchase commitments with contract manufacturers and suppliers was due to securing memory supply and procuring key components for specific product areas. We believe our inventory and purchase commitments levels are in line with our current demand forecasts. 
+ Our finished goods consist of distributor inventory and deferred cost of sales and manufactured finished goods. Distributor inventory and deferred cost of sales are related to unrecognized revenue on shipments to distributors and retail partners as well as shipments to customers. Manufactured finished goods consist primarily of build-to-order and build-to-stock products. 
+ We purchase components from a variety of suppliers and use several contract manufacturers to provide manufacturing services for our products. During the normal course of business, in order to manage manufacturing lead times and help ensure adequate component supply, we enter into agreements with contract manufacturers and suppliers that allow them to procure inventory based upon criteria as defined by us or that establish the parameters defining our requirements and our commitment to securing manufacturing capacity. A significant portion of our reported purchase commitments arising from these agreements are firm, noncancelable, and unconditional commitments. In certain instances, these agreements allow us the option to cancel, reschedule, and adjust our requirements based on our business needs prior to firm orders being placed. Our purchase commitments are for short-term product manufacturing requirements as well as for commitments to suppliers to secure manufacturing capacity. 
+ Inventory and supply chain management remain areas of focus as we balance the need to maintain supply chain flexibility to help ensure competitive lead times with the risk of inventory obsolescence because of rapidly changing technology and customer requirements. We believe the amount of our inventory and purchase commitments is appropriate for our revenue levels. 
+ Financing Receivables and Guarantees The following table summarizes our financing receivables (in millions): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ July 29, 2017 
+ 
+ 
+ 
+ July 30, 2016 
+ 
+ 
+ 
+ Increase (Decrease) 
+ 
+ 
+ Lease receivables, net 
+ 
+ $ 
+ 
+ 2,650 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 3,070 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (420 
+ 
+ ) 
+ 
+ 
+ Loan receivables, net 
+ 
+ 4,457 
+ 
+ 
+ 
+ 
+ 
+ 3,349 
+ 
+ 
+ 
+ 
+ 
+ 1,108 
+ 
+ 
+ 
+ 
+ Financed service contracts, net 
+ 
+ 2,487 
+ 
+ 
+ 
+ 
+ 
+ 2,011 
+ 
+ 
+ 
+ 
+ 
+ 476 
+ 
+ 
+ 
+ 
+ Total, net 
+ 
+ $ 
+ 
+ 9,594 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 8,430 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,164 
+ 
+ 
+ Financing Receivables Our financing arrangements include leases, loans, and financed service contracts. Lease receivables include sales-type and direct-financing leases. Arrangements related to leases are generally collateralized by a security interest in the underlying assets. Our loan receivables include customers financing purchases of our hardware, software and services and also may include additional funds for other costs associated with network installation and integration of our products and services. We also provide financing to certain qualified customers for long-term service contracts, which primarily relate to technical support services. The majority of the revenue from these financed service contracts is deferred and is recognized ratably over the period during which the services are performed. Financing receivables increased by 14% primarily due to a 33% increase in loan receivables driven by an increase in financing for software arrangements. We expect to continue to expand the use of our financing programs in the near term. 
+ Financing Guarantees In the normal course of business, third parties may provide financing arrangements to our customers and channel partners under financing programs. The financing arrangements to customers provided by third parties are related to leases and loans and typically have terms of up to three years. In some cases, we provide guarantees to third parties for these lease and loan arrangements. The financing arrangements to channel partners consist of revolving short-term financing provided by third parties, generally with payment terms ranging from 60 to 90 days. In certain instances, these financing arrangements result in a transfer of our receivables to the third party. The receivables are derecognized upon transfer, as these transfers qualify as true sales, and we receive payments for the receivables from the third party based on our standard payment terms. 
+ 
+ 
+ 58 
+ 
+ Table of Contents 
+ 
+ The volume of channel partner financing was $27.0 billion , $26.9 billion , and $25.9 billion in fiscal 2017, 2016, and 2015 , respectively. These financing arrangements facilitate the working capital requirements of the channel partners, and in some cases, we guarantee a portion of these arrangements. The balance of the channel partner financing subject to guarantees was $1.0 billion and $1.1 billion as of July 29, 2017 and July 30, 2016 , respectively. We could be called upon to make payments under these guarantees in the event of nonpayment by the channel partners or end-user customers. Historically, our payments under these arrangements have been immaterial. Where we provide a guarantee, we defer the revenue associated with the channel partner and end-user financing arrangement in accordance with revenue recognition policies, or we record a liability for the fair value of the guarantees. In either case, the deferred revenue is recognized as revenue when the guarantee is removed. As of July 29, 2017 , the total maximum potential future payments related to these guarantees was approximately $314 million , of which approximately $134 million was recorded as deferred revenue. 
+ Borrowings 
+ Senior Notes The following table summarizes the principal amount of our senior notes (in millions): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Maturity Date 
+ 
+ 
+ 
+ July 29, 2017 
+ 
+ 
+ 
+ July 30, 2016 
+ 
+ 
+ 
+ 
+ Senior notes: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Floating-rate notes: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Three-month LIBOR plus 0.28% 
+ 
+ March 3, 2017 
+ 
+ (1) 
+ 
+ $ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ Three-month LIBOR plus 0.60% 
+ 
+ February 21, 2018 
+ 
+ 
+ 
+ 1,000 
+ 
+ 
+ 
+ 
+ 
+ 1,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ Three-month LIBOR plus 0.31% 
+ 
+ June 15, 2018 
+ 
+ 
+ 
+ 900 
+ 
+ 
+ 
+ 
+ 
+ 900 
+ 
+ 
+ 
+ 
+ 
+ 
+ Three-month LIBOR plus 0.50% 
+ 
+ March 1, 2019 
+ 
+ 
+ 
+ 500 
+ 
+ 
+ 
+ 
+ 
+ 500 
+ 
+ 
+ 
+ 
+ 
+ 
+ Three-month LIBOR plus 0.34% 
+ 
+ September 20, 2019 
+ 
+ (2) 
+ 
+ 500 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fixed-rate notes: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1.10% 
+ 
+ March 3, 2017 
+ 
+ (1) 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 2,400 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.15% 
+ 
+ March 14, 2017 
+ 
+ (1) 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 750 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1.40% 
+ 
+ February 28, 2018 
+ 
+ 
+ 
+ 1,250 
+ 
+ 
+ 
+ 
+ 
+ 1,250 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1.65% 
+ 
+ June 15, 2018 
+ 
+ 
+ 
+ 1,600 
+ 
+ 
+ 
+ 
+ 
+ 1,600 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.95% 
+ 
+ February 15, 2019 
+ 
+ 
+ 
+ 2,000 
+ 
+ 
+ 
+ 
+ 
+ 2,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1.60% 
+ 
+ February 28, 2019 
+ 
+ 
+ 
+ 1,000 
+ 
+ 
+ 
+ 
+ 
+ 1,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2.125% 
+ 
+ March 1, 2019 
+ 
+ 
+ 
+ 1,750 
+ 
+ 
+ 
+ 
+ 
+ 1,750 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1.40% 
+ 
+ September 20, 2019 
+ 
+ (2) 
+ 
+ 1,500 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.45% 
+ 
+ January 15, 2020 
+ 
+ 
+ 
+ 2,500 
+ 
+ 
+ 
+ 
+ 
+ 2,500 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2.45% 
+ 
+ June 15, 2020 
+ 
+ 
+ 
+ 1,500 
+ 
+ 
+ 
+ 
+ 
+ 1,500 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2.20% 
+ 
+ February 28, 2021 
+ 
+ 
+ 
+ 2,500 
+ 
+ 
+ 
+ 
+ 
+ 2,500 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2.90% 
+ 
+ March 4, 2021 
+ 
+ 
+ 
+ 500 
+ 
+ 
+ 
+ 
+ 
+ 500 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1.85% 
+ 
+ September 20, 2021 
+ 
+ (2) 
+ 
+ 2,000 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.00% 
+ 
+ June 15, 2022 
+ 
+ 
+ 
+ 500 
+ 
+ 
+ 
+ 
+ 
+ 500 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2.60% 
+ 
+ February 28, 2023 
+ 
+ 
+ 
+ 500 
+ 
+ 
+ 
+ 
+ 
+ 500 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2.20% 
+ 
+ September 20, 2023 
+ 
+ (2) 
+ 
+ 750 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.625% 
+ 
+ March 4, 2024 
+ 
+ 
+ 
+ 1,000 
+ 
+ 
+ 
+ 
+ 
+ 1,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.50% 
+ 
+ June 15, 2025 
+ 
+ 
+ 
+ 500 
+ 
+ 
+ 
+ 
+ 
+ 500 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2.95% 
+ 
+ February 28, 2026 
+ 
+ 
+ 
+ 750 
+ 
+ 
+ 
+ 
+ 
+ 750 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2.50% 
+ 
+ September 20, 2026 
+ 
+ (2) 
+ 
+ 1,500 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5.90% 
+ 
+ February 15, 2039 
+ 
+ 
+ 
+ 2,000 
+ 
+ 
+ 
+ 
+ 
+ 2,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5.50% 
+ 
+ January 15, 2040 
+ 
+ 
+ 
+ 2,000 
+ 
+ 
+ 
+ 
+ 
+ 2,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 30,500 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 28,400 
+ 
+ 
+ 
+ 
+ (1) In March 2017, we repaid senior notes with an aggregate principal amount of $4.15 billion upon maturity. 
+ (2) In September 2016, we issued senior notes for an aggregate principal amount of $6.25 billion. 
+ Interest is payable semiannually on each class of the senior fixed-rate notes, each of which is redeemable by us at any time, subject to a make-whole premium. Interest is payable quarterly on the floating-rate notes. We were in compliance with all debt covenants as of July 29, 2017 . 
+ 
+ 
+ 59 
+ 
+ Table of Contents 
+ 
+ Commercial Paper Effective March 31, 2017, we increased our borrowing capacity under our commercial paper program from $3.0 billion to $10.0 billion. We use the proceeds from the issuance of commercial paper notes for general corporate purposes. We had $3.2 billion and no commercial paper notes outstanding as of July 29, 2017 and July 30, 2016 , respectively. 
+ Credit Facilities On May 15, 2015, we entered into a credit agreement with certain institutional lenders that provides for a $3.0 billion unsecured revolving credit facility that is scheduled to expire on May 15, 2020. Any advances under the credit agreement will accrue interest at rates that are equal to, based on certain conditions, either (i) the highest of (a) the Federal Funds rate plus 0.50%, (b) Bank of America’s “prime rate” as announced from time to time, or (c) LIBOR, or a comparable or successor rate that is approved by the Administrative Agent (“Eurocurrency Rate”), for an interest period of one month plus 1.00%, or (ii) the Eurocurrency Rate, plus a margin that is based on our senior debt credit ratings as published by Standard & Poor’s Financial Services, LLC and Moody’s Investors Service, Inc., provided that in no event will the Eurocurrency Rate be less than zero. We may also, upon the agreement of either the then-existing lenders or additional lenders not currently parties to the agreement, increase the commitments under the credit facility by up to an additional $2.0 billion and/or extend the expiration date of the credit facility up to May 15, 2022. 
+ In addition, on March 30, 2017 we entered into a 364-Day credit agreement with certain institutional lenders that provides for a $2.0 billion unsecured revolving credit facility that is scheduled to expire on March 29, 2018. The credit agreement also provides us the option to, for a fee, convert any borrowings outstanding thereunder on March 29, 2018 to a term loan maturing no later than March 29, 2019. The interest rate applicable to outstanding balances under the credit agreement will be based on either (i) the higher of (a) the rates on overnight Federal Funds transactions with members of the Federal Reserve System (i.e., Federal Funds rate) plus 0.50%, (b) Bank of America’s “prime rate” as announced from time to time or (c) LIBOR for an interest period of one month plus 1.00%, or (ii) LIBOR plus a margin that is based on our senior debt credit ratings as published by S&P Global Rating, a business unit of Standard & Poor’s Financial Services LLC, and Moody’s Investors Service, Inc. 
+ These credit agreements require that we comply with certain covenants, including that we maintain interest coverage ratios as defined in these agreements. As of July 29, 2017 , we were in compliance with the required interest coverage ratios and the other covenants, and we had not borrowed any funds under these credit facilities. 
+ Deferred Revenue The following table presents the breakdown of deferred revenue (in millions): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ July 29, 2017 
+ 
+ 
+ 
+ July 30, 2016 
+ 
+ 
+ 
+ Increase (Decrease) 
+ 
+ 
+ Service 
+ 
+ $ 
+ 
+ 11,302 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 10,621 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 681 
+ 
+ 
+ 
+ 
+ Product: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Deferred revenue related to recurring software and subscription offers 
+ 
+ 4,971 
+ 
+ 
+ 
+ 
+ 
+ 3,308 
+ 
+ 
+ 
+ 
+ 
+ 1,663 
+ 
+ 
+ 
+ 
+ Other product deferred revenue 
+ 
+ 2,221 
+ 
+ 
+ 
+ 
+ 
+ 2,543 
+ 
+ 
+ 
+ 
+ 
+ (322 
+ 
+ ) 
+ 
+ 
+ Total product deferred revenue 
+ 
+ 7,192 
+ 
+ 
+ 
+ 
+ 
+ 5,851 
+ 
+ 
+ 
+ 
+ 
+ 1,341 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ $ 
+ 
+ 18,494 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 16,472 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 2,022 
+ 
+ 
+ 
+ 
+ Reported as: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Current 
+ 
+ $ 
+ 
+ 10,821 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 10,155 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 666 
+ 
+ 
+ 
+ 
+ Noncurrent 
+ 
+ 7,673 
+ 
+ 
+ 
+ 
+ 
+ 6,317 
+ 
+ 
+ 
+ 
+ 
+ 1,356 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ $ 
+ 
+ 18,494 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 16,472 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 2,022 
+ 
+ 
+ Total deferred revenue increased 12% in fiscal 2017 . Deferred product revenue increased 23% primarily due to increased deferrals related to recurring software and subscription offers. The portion of product deferred revenue related to recurring software and subscription offers grew 50%, to $5.0 billion , as of July 29, 2017 . Wireless, Security, and Collaboration were the key product category contributors to this product deferred revenue growth during the fiscal year. Deferred service revenue increased 6% driven by the timing and amount of multiyear arrangements and our focus on contract renewals and service contract attach rates. 
+ 
+ 
+ 60 
+ 
+ Table of Contents 
+ 
+ Contractual Obligations 
+ The impact of contractual obligations on our liquidity and capital resources in future periods should be analyzed in conjunction with the factors that impact our cash flows from operations discussed previously. In addition, we plan for and measure our liquidity and capital resources through an annual budgeting process. The following table summarizes our contractual obligations at July 29, 2017 (in millions): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PAYMENTS DUE BY PERIOD 
+ 
+ 
+ July 29, 2017 
+ 
+ Total 
+ 
+ 
+ 
+ Less than 1 Year 
+ 
+ 
+ 
+ 1 to 3 Years 
+ 
+ 
+ 
+ 3 to 5 Years 
+ 
+ 
+ 
+ More than 5 Years 
+ 
+ 
+ Operating leases 
+ 
+ $ 
+ 
+ 1,237 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 417 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 467 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 210 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 143 
+ 
+ 
+ 
+ 
+ Purchase commitments with contract manufacturers and suppliers 
+ 
+ 4,640 
+ 
+ 
+ 
+ 
+ 
+ 4,620 
+ 
+ 
+ 
+ 
+ 
+ 20 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Other purchase obligations 
+ 
+ 1,987 
+ 
+ 
+ 
+ 
+ 
+ 750 
+ 
+ 
+ 
+ 
+ 
+ 867 
+ 
+ 
+ 
+ 
+ 
+ 284 
+ 
+ 
+ 
+ 
+ 
+ 86 
+ 
+ 
+ 
+ 
+ Senior notes 
+ 
+ 30,500 
+ 
+ 
+ 
+ 
+ 
+ 4,750 
+ 
+ 
+ 
+ 
+ 
+ 11,250 
+ 
+ 
+ 
+ 
+ 
+ 5,500 
+ 
+ 
+ 
+ 
+ 
+ 9,000 
+ 
+ 
+ 
+ 
+ Other long-term liabilities 
+ 
+ 1,179 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 209 
+ 
+ 
+ 
+ 
+ 
+ 99 
+ 
+ 
+ 
+ 
+ 
+ 871 
+ 
+ 
+ 
+ 
+ Total by period 
+ 
+ $ 
+ 
+ 39,543 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 10,537 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 12,813 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 6,093 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 10,100 
+ 
+ 
+ 
+ 
+ Other long-term liabilities (uncertainty in the timing of future payments) 
+ 
+ 1,521 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ $ 
+ 
+ 41,064 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating Leases For more information on our operating leases, see Note 12 to the Consolidated Financial Statements. 
+ Purchase Commitments with Contract Manufacturers and Suppliers We purchase components from a variety of suppliers and use several contract manufacturers to provide manufacturing services for our products. A significant portion of our reported estimated purchase commitments arising from these agreements are firm, noncancelable, and unconditional commitments. We record a liability for firm, noncancelable, and unconditional purchase commitments for quantities in excess of our future demand forecasts consistent with the valuation of our excess and obsolete inventory. See further discussion in “Inventory Supply Chain.” As of July 29, 2017 , the liability for these purchase commitments was $162 million and is recorded in other current liabilities and is not included in the preceding table. 
+ Other Purchase Obligations Other purchase obligations represent an estimate of all contractual obligations in the ordinary course of business, other than operating leases and commitments with contract manufacturers and suppliers, for which we have not received the goods or services. Purchase orders are not included in the preceding table as they typically represent our authorization to purchase rather than binding contractual purchase obligations. 
+ Long-Term Debt The amount of long-term debt in the preceding table represents the principal amount of the respective debt instruments. See Note 10 to the Consolidated Financial Statements. 
+ Other Long-Term Liabilities Other long-term liabilities primarily include noncurrent income taxes payable, accrued liabilities for deferred compensation, deferred tax liabilities, and certain other long-term liabilities. Due to the uncertainty in the timing of future payments, our noncurrent income taxes payable of approximately $1,250 million and deferred tax liabilities of $271 million were presented as one aggregated amount in the total column on a separate line in the preceding table. Noncurrent income taxes payable include uncertain tax positions (see Note 16 to the Consolidated Financial Statements). 
+ Other Commitments 
+ In connection with our acquisitions, we have agreed to pay certain additional amounts contingent upon the achievement of certain agreed-upon technology, development, product, or other milestones or the continued employment with us of certain employees of the acquired entities. See Note 12 to the Consolidated Financial Statements. 
+ Insieme Networks, Inc. In fiscal 2012, we made an investment in Insieme, an early stage company focused on research and development in the data center market. This investment included $100 million of funding and a license to certain of our technology. During fiscal 2014, we acquired the remaining interests in Insieme, at which time the former noncontrolling interest holders became eligible to receive up to two milestone payments, which were determined using agreed-upon formulas based primarily on revenue for certain of Insieme’s products. The former noncontrolling interest holders earned the maximum amount related to these two milestone payments and were paid approximately $441 million and $389 million during fiscal 2017 and fiscal 2016 , respectively. During fiscal 2017, 2016, and 2015 , we recorded compensation expense of $47 million , $160 million and $207 million , respectively, related to these milestone payments. We do not expect a material amount of future compensation expense or further milestone payments related to this acquisition. 
+ 
+ 
+ 61 
+ 
+ Table of Contents 
+ 
+ Other Funding Commitments We also have certain funding commitments primarily related to our investments in privately held companies and venture funds, some of which are based on the achievement of certain agreed-upon milestones, and some of which are required to be funded on demand. The funding commitments were $216 million as of July 29, 2017 , compared with $222 million as of July 30, 2016 . 
+ Off-Balance Sheet Arrangements 
+ We consider our investments in unconsolidated variable interest entities to be off-balance sheet arrangements. In the ordinary course of business, we have investments in privately held companies including venture funds and provide financing to certain customers. Certain of these investments are considered to be variable interest entities. We evaluate on an ongoing basis our investments in these privately held companies and customer financings, and we have determined that as of July 29, 2017 there were no material unconsolidated variable interest entities. 
+ On an ongoing basis, we reassess our investments in privately held companies and customer financings to determine if they are variable interest entities and if we would be regarded as the primary beneficiary pursuant to the applicable accounting guidance. As a result of this ongoing assessment, we may be required to make additional disclosures or consolidate these entities. Because we may not control these entities, we may not have the ability to influence these events. 
+ We provide financing guarantees, which are generally for various third-party financing arrangements extended to our channel partners and end-user customers. We could be called upon to make payments under these guarantees in the event of nonpayment by the channel partners or end-user customers. See the previous discussion of these financing guarantees under “Financing Receivables and Guarantees.” 
+ Securities Lending 
+ We periodically engage in securities lending activities with certain of our available-for-sale investments. These transactions are accounted for as a secured lending of the securities, and the securities are typically loaned only on an overnight basis. The average daily balance of securities lending for fiscal 2017 and 2016 was $0.7 billion and $0.6 billion , respectively. We require collateral equal to at least 102% of the fair market value of the loaned security and that the collateral be in the form of cash or liquid, high-quality assets. We engage in these secured lending transactions only with highly creditworthy counterparties, and the associated portfolio custodian has agreed to indemnify us against collateral losses. As of July 29, 2017 and July 30, 2016 , we had no outstanding securities lending transactions. We believe these arrangements do not present a material risk or impact to our liquidity requirements. 
+ Liquidity and Capital Resource Requirements 
+ Based on past performance and current expectations, we believe our cash and cash equivalents, investments, cash generated from operations, and ability to access capital markets and committed credit lines will satisfy, through at least the next 12 months, our liquidity requirements, both in total and domestically, including the following: working capital needs, capital expenditures, investment requirements, stock repurchases, cash dividends, contractual obligations, commitments, principal and interest payments on debt, pending acquisitions, future customer financings, and other liquidity requirements associated with our operations. There are no other transactions, arrangements, or relationships with unconsolidated entities or other persons that are reasonably likely to materially affect the liquidity and the availability of, as well as our requirements for, capital resources. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

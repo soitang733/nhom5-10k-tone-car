@@ -1,0 +1,5632 @@
+ Management Discussion 
+ International Business Machines Corporation and Subsidiary Companies 
+ 
+ 
+ 
+ OVERVIEW 
+ The financial section of the International Business Machines Corporation (IBM or the company) 2023 Annual Report includes the Management Discussion, the Consolidated Financial Statements and the Notes to Consolidated Financial Statements. This Overview is designed to provide the reader with some perspective regarding the information contained in the financial section. 
+ 
+ Organization of Information 
+ • The Management Discussion is designed to provide readers with an overview of the business and a narrative on our financial results and certain factors that may affect our future prospects from the perspective of management. The “Management Discussion Snapshot” presents an overview of the key performance drivers in 2023. 
+ • Beginning with the "Year in Review," the Management Discussion contains the results of operations for each reportable segment of the business, a discussion of our financial position and a discussion of cash flows as reflected in the Consolidated Statement of Cash Flows. Other key sections within the Management Discussion include: "Looking Forward" and "Liquidity and Capital Resources," the latter of which includes a description of management's definition and use of free cash flow. 
+ • The Consolidated Financial Statements provide an overview of income and cash flow performance and financial position. 
+ • The Notes follow the Consolidated Financial Statements. Among other items, the Notes contain our accounting policies, revenue information, acquisitions and divestitures, certain commitments and contingencies and retirement-related plans information. 
+ • On November 3, 2021 we completed the separation of our managed infrastructure services unit into a new public company, Kyndryl. The accounting requirements for reporting the separation of Kyndryl as a discontinued operation were met when the separation was completed. Accordingly, the historical results of Kyndryl are presented as discontinued operations and, as such, have been excluded from continuing operations and segment results for all periods presented. Refer to note E, “Acquisitions & Divestitures,” for additional information. 
+ • In September 2022, the IBM Qualified Personal Pension Plan (Qualified PPP) purchased two separate nonparticipating single premium group annuity contracts from The Prudential Insurance Company of America and Metropolitan Life Insurance Company (collectively, the Insurers) and irrevocably transferred to the Insurers approximately $16 billion of the Qualified PPP’s defined benefit pension obligations and related plan assets, thereby reducing our pension obligations and assets by the same amount. The group annuity contracts were purchased using assets of the Qualified PPP and no additional funding contribution was required from IBM. The transaction resulted in no changes to the benefits to be received by the plan participants. As a result of this transaction we recognized a one-time, non-cash, pre-tax pension settlement charge of $5.9 billion ($4.4 billion net of tax) in the third quarter of 2022, primarily related to the accelerated recognition of accumulated actuarial losses of the Qualified PPP. Refer to note V, “Retirement-Related Benefits,” for additional information. 
+ • Effective January 1, 2023, due to advances in technology, we increased the estimated useful lives of our server and network equipment from five to six years for new assets and from three to four years for used assets. Based on the carrying amount of server and network equipment included in property, plant and equipment-net in our Consolidated Balance Sheet as of December 31, 2022, the effect of this change in accounting estimate was an increase in income from continuing operations before income taxes of $208 million or $0.18 per basic and diluted share for the year ended December 31, 2023. 
+ • In 2023, we executed workforce rebalancing actions to address remaining stranded costs from portfolio actions over the last couple of years resulting in charges to pre-tax income from continuing operations of $438 million. In addition, beginning in the first quarter of 2023, we updated our measure of segment pre-tax income to no longer allocate workforce rebalancing actions to our reportable segments, consistent with our management system. Workforce rebalancing charges in 2022 and 2021 of $40 million and $182 million, respectively, were included in the segments. 
+ • The references to “adjusted for currency” or “at constant currency” in the Management Discussion do not include operational impacts that could result from fluctuations in foreign currency rates. When we refer to growth rates at constant currency or adjust such growth rates for currency, it is done so that certain financial results can be viewed without the impact of fluctuations in foreign currency exchange rates, thereby facilitating period-to-period comparisons of business performance. Financial results adjusted for currency are calculated by translating current period activity in local currency using the comparable prior-year period’s currency conversion rate. This approach is used for countries where the functional currency is the local currency. Generally, when the dollar either strengthens or weakens against other currencies, the growth at constant currency rates or adjusting for currency will be higher or lower than growth reported at actual exchange rates. Refer to “Currency Rate Fluctuations” for additional information. 
+ • Within the financial statements and tables in this Annual Report, certain columns and rows may not add due to the use of rounded numbers for disclosure purposes. Percentages presented are calculated from the underlying whole-dollar numbers. Certain prior-year amounts have been reclassified to conform to the change in current year presentation. This is annotated where applicable. 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Management Discussion 
+ International Business Machines Corporation and Subsidiary Companies 
+ 
+ 7 
+ Operating (non-GAAP) Earnings 
+ In an effort to provide better transparency into the operational results of the business, supplementally, management separates business results into operating and non-operating categories. Operating earnings from continuing operations is a non-GAAP measure that excludes the effects of certain acquisition-related charges, intangible asset amortization, expense resulting from basis differences on equity method investments, retirement-related costs, certain impacts from the Kyndryl separation and their related tax impacts. Due to the unique, non-recurring nature of the enactment of the U.S. Tax Cuts and Jobs Act (U.S. tax reform), management characterizes the one-time provisional charge recorded in the fourth quarter of 2017 and adjustments to that charge as non-operating. Adjustments primarily include true-ups, accounting elections and any changes to regulations, laws, audit adjustments that affect the recorded one-time charge. Management characterizes direct and incremental charges incurred related to the Kyndryl separation as non-operating given their unique and non-recurring nature. In 2022, these charges primarily related to any net gains or losses on the Kyndryl common stock and the related cash-settled swap with a third-party financial institution, which were recorded in other (income) and expense in the Consolidated Income Statement. As of November 2, 2022, the company no longer held an ownership interest in Kyndryl. For acquisitions, operating (non-GAAP) earnings exclude the amortization of purchased intangible assets and acquisition-related charges such as in-process research and development, transaction costs, applicable retention, restructuring and related expenses, tax charges related to acquisition integration and pre-closing charges, such as financing costs. These charges are excluded as they may be inconsistent in amount and timing from period to period and are significantly impacted by the size, type and frequency of our acquisitions. Given its unique and temporary nature, management has also characterized as non-operating expense, the mark-to-market impact on the foreign exchange call option contracts to economically hedge the foreign currency exposure related to the purchase price of our announced acquisition of StreamSets and webMethods from Software AG. The mark-to-market impact is recorded in other (income) and expense in the Consolidated Income Statement and reflects the fair value changes in the derivative contracts. All other spending for acquired companies is included in both earnings from continuing operations and in operating (non-GAAP) earnings. For retirement-related costs, management characterizes certain items as operating and others as non-operating, consistent with GAAP. We include defined benefit plan and nonpension postretirement benefit plan service costs, multi-employer plan costs and the cost of defined contribution plans in operating earnings. Non-operating retirement-related costs include defined benefit plan and nonpension postretirement benefit plan amortization of prior service costs, interest cost, expected return on plan assets, amortized actuarial gains/losses, the impacts of any plan curtailments/settlements including the one-time, non-cash, pre-tax settlement charge of $5.9 billion ($4.4 billion, net of tax) in the third quarter of 2022 and pension insolvency costs and other costs. Non-operating retirement-related costs are primarily related to changes in pension plan assets and liabilities which are tied to financial market performance, and we consider these costs to be outside of the operational performance of the business. 
+ Overall, management believes that supplementally providing investors with a view of operating earnings as described above provides increased transparency and clarity into both the operational results of the business and the performance of our pension plans; improves visibility to management decisions and their impacts on operational performance; enables better comparison to peer companies; and allows us to provide a long-term strategic view of the business going forward. In addition, these non-GAAP measures provide a perspective consistent with areas of interest we routinely receive from investors and analysts. Our reportable segment financial results reflect pre-tax operating earnings from continuing operations, consistent with our management and measurement system . 
+ 
+ FORWARD-LOOKING AND CAUTIONARY STATEMENTS 
+ Certain statements contained in this Annual Report may constitute forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Any forward-looking statement in this Annual Report speaks only as of the date on which it is made; IBM assumes no obligation to update or revise any such statements except as required by law. Forward-looking statements are based on IBM’s current assumptions regarding future business and financial performance; these statements, by their nature, address matters that are uncertain to different degrees. Forward-looking statements involve a number of risks, uncertainties and other factors that could cause actual results to be materially different, as discussed more fully elsewhere in this Annual Report and in the company’s filings with the Securities and Exchange Commission (SEC), including IBM’s 2023 Form 10-K filed on February 26, 2024. 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 8 
+ 
+ Management Discussion 
+ International Business Machines Corporation and Subsidiary Companies 
+ 
+ MANAGEMENT DISCUSSION SNAPSHOT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ($ and shares in millions except per share amounts) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For year ended December 31: 
+ 
+ 2023 
+ 
+ 
+ 2022 (1) 
+ 
+ Yr.-to-Yr. Percent/Margin Change 
+ 
+ 
+ Revenue (2) 
+ 
+ $ 
+ 61,860 
+ 
+ 
+ $ 
+ 60,530 
+ 
+ 
+ 2.2 
+ % 
+ 
+ Gross profit margin 
+ 
+ 55.4 
+ % 
+ 
+ 54.0 
+ % 
+ 
+ 1.4 
+ pts. 
+ 
+ Total expense and other (income) 
+ 
+ $ 
+ 25,610 
+ 
+ 
+ $ 
+ 31,531 
+ 
+ 
+ (18.8) 
+ % 
+ 
+ Income from continuing operations before income taxes 
+ 
+ $ 
+ 8,690 
+ 
+ 
+ $ 
+ 1,156 
+ 
+ 
+ NM 
+ 
+ 
+ Provision for/(benefit from) income taxes from continuing operations 
+ 
+ $ 
+ 1,176 
+ 
+ 
+ $ 
+ (626) 
+ 
+ 
+ NM 
+ 
+ 
+ Income from continuing operations 
+ 
+ $ 
+ 7,514 
+ 
+ 
+ $ 
+ 1,783 
+ 
+ 
+ NM 
+ 
+ 
+ Income from continuing operations margin 
+ 
+ 12.1 
+ % 
+ 
+ 2.9 
+ % 
+ 
+ 9.2 
+ pts. 
+ 
+ Loss from discontinued operations, net of tax 
+ 
+ $ 
+ (12) 
+ 
+ 
+ $ 
+ (143) 
+ 
+ 
+ (91.8) 
+ % 
+ 
+ Net income 
+ 
+ $ 
+ 7,502 
+ 
+ 
+ $ 
+ 1,639 
+ 
+ 
+ NM 
+ 
+ 
+ Earnings per share from continuing operations–assuming dilution 
+ 
+ $ 
+ 8.15 
+ 
+ 
+ $ 
+ 1.95 
+ 
+ 
+ NM 
+ 
+ 
+ Consolidated earnings per share–assuming dilution 
+ 
+ $ 
+ 8.14 
+ 
+ 
+ $ 
+ 1.80 
+ 
+ 
+ NM 
+ 
+ 
+ Weighted-average shares outstanding–assuming dilution 
+ 
+ 922.1 
+ 
+ 
+ 912.3 
+ 
+ 
+ 1.1 
+ % 
+ 
+ 
+ Assets (3) 
+ 
+ $ 
+ 135,241 
+ 
+ 
+ $ 
+ 127,243 
+ 
+ 
+ 6.3 
+ % 
+ 
+ 
+ Liabilities (3) 
+ 
+ $ 
+ 112,628 
+ 
+ 
+ $ 
+ 105,222 
+ 
+ 
+ 7.0 
+ % 
+ 
+ 
+ Equity (3) 
+ 
+ $ 
+ 22,613 
+ 
+ 
+ $ 
+ 22,021 
+ 
+ 
+ 2.7 
+ % 
+ (1) Includes a one-time, non-cash, pre-tax pension settlement charge of $5.9 billion ($4.4 billion net of tax) resulting in an impact of ($4.84) to diluted earnings per share from continuing operations and an impact of ($4.83) to consolidated diluted earnings per share. Refer to note V, “Retirement-Related Benefits,” for additional information. 
+ (2) Year-to-year revenue growth of 2.9 percent adjusted for currency. 
+ (3) At December 31. 
+ NM–Not meaningful 
+ The following table provides the company’s operating (non-GAAP) earnings for 2023 and 2022. Refer to page 28 for additional information. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ($ in millions except per share amounts) 
+ 
+ 
+ 
+ 
+ 
+ 
+ For year ended December 31: 
+ 2023 
+ 
+ 2022 
+ 
+ Yr.-to-Yr. Percent Change 
+ 
+ 
+ Net income as reported (1) 
+ $ 
+ 7,502 
+ 
+ 
+ $ 
+ 1,639 
+ 
+ 
+ NM 
+ 
+ 
+ Loss from discontinued operations, net of tax 
+ (12) 
+ 
+ 
+ (143) 
+ 
+ 
+ (91.8) 
+ % 
+ 
+ 
+ Income from continuing operations (1) 
+ $ 
+ 7,514 
+ 
+ 
+ $ 
+ 1,783 
+ 
+ 
+ NM 
+ 
+ 
+ Non-operating adjustments (net of tax) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Acquisition-related charges 
+ 1,292 
+ 
+ 
+ 1,329 
+ 
+ 
+ (2.8) 
+ % 
+ 
+ 
+ Non-operating retirement-related costs/(income) (1) 
+ (30) 
+ 
+ 
+ 4,933 
+ 
+ 
+ NM 
+ 
+ 
+ U.S. tax reform impacts 
+ 95 
+ 
+ 
+ (70) 
+ 
+ 
+ NM 
+ 
+ 
+ Kyndryl-related impacts 
+ — 
+ 
+ 
+ 351 
+ 
+ 
+ (100.0) 
+ % 
+ 
+ Operating (non-GAAP) earnings 
+ $ 
+ 8,870 
+ 
+ 
+ $ 
+ 8,326 
+ 
+ 
+ 6.5 
+ % 
+ 
+ Diluted operating (non-GAAP) earnings per share 
+ $ 
+ 9.62 
+ 
+ 
+ $ 
+ 9.13 
+ 
+ 
+ 5.4 
+ % 
+ (1) 2022 includes a one-time, non-cash pension settlement charge of $4.4 billion net of tax. 
+ NM–Not meaningful 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Management Discussion 
+ International Business Machines Corporation and Subsidiary Companies 
+ 
+ 9 
+ Macroeconomic Environment 
+ Our business profile positions us well in challenging macroeconomic times. Our diversification across geographies, industries, clients and business mix and our recurring revenue base provides some stability in revenue, profit and cash generation. In the current environment, technology demand continues to be a major driving force behind global economic and business growth. Businesses and governments around the world are looking for opportunities to scale, offer better services, drive efficiencies and seize new market opportunities. More recently, geopolitical events and the interest rate environment are adding to the uncertainty. In response, clients are leveraging technologies like hybrid cloud and artificial intelligence (AI) that boost productivity and competitiveness. 
+ For the year ended December 31, 2023, movements in global currencies continued to impact our reported year-to-year revenue and profit. We execute hedging programs which defer, but do not eliminate, the impact of currency. The (gains)/losses from these hedging programs are reflected primarily in other (income) and expense. Refer to “Currency Rate Fluctuations,” for additional information. We saw progress from the actions we have taken to mitigate the impacts of escalating labor and component costs and a strong U.S. dollar. 
+ 
+ Financial Performance Summary 
+ In 2023, we reported $61.9 billion in revenue, income from continuing operations of $7.5 billion, and operating (non-GAAP) earnings of $8.9 billion. Diluted earnings per share from continuing operations was $8.15 as reported and diluted earnings per share was $9.62 on an operating (non-GAAP) basis. We generated $13.9 billion in cash from operations and $11.2 billion in free cash flow, and returned $6.0 billion to shareholders in dividends. We are pleased with the fundamentals of our business and progress we have made in executing our strategy. Our 2023 performance demonstrates the strength of our diversified portfolio and sustainability of our revenue growth. We increased our investment in innovation and talent and completed nine acquisitions in 2023, strengthening our hybrid cloud and AI capabilities, all while continuing to return value to shareholders through our dividend. 
+ Total revenue grew 2.2 percent year to year as reported and 3 percent adjusted for currency compared to the prior year, led by Software and Consulting. Software revenue increased 5.1 percent as reported and 5 percent adjusted for currency, with growth in Hybrid Platform & Solutions and Transaction Processing. Hybrid Platform & Solutions increased 4.6 percent as reported and 5 percent adjusted for currency, with growth across Red Hat, Automation and Data & AI. Transaction Processing increased 6.2 percent as reported and 6 percent adjusted for currency, reflecting the success of our zSystems platform which continued to drive client demand. Consulting revenue increased 4.6 percent as reported and 6 percent adjusted for currency with growth across all lines of business, highlighting the solid demand for data and technology transformation and application modernization projects. Infrastructure decreased 4.5 percent year to year as reported and 4 percent adjusted for currency, reflecting product cycle dynamics. 
+ From a geographic perspective, Americas revenue grew 2.0 percent year to year as reported (2 percent adjusted for currency). Europe/Middle East/Africa (EMEA) increased 3.0 percent as reported (1 percent adjusted for currency). Asia Pacific grew 1.6 percent as reported (7 percent adjusted for currency). 
+ Gross margin of 55.4 percent increased 1.4 points year to year, with continued margin expansion across all reportable segments driven by revenue growth, improving portfolio mix and productivity actions. Operating (non-GAAP) gross margin of 56.5 percent increased 1.3 points versus the prior year, due to the same dynamics. 
+ Total expense and other (income) decreased 18.8 percent in 2023 versus the prior year primarily driven by the one-time, non-cash pension settlement charge of $5.9 billion in 2022 and the benefits from productivity actions we have taken; partially offset by the effects of currency, higher workforce rebalancing charges to address remaining stranded cost from portfolio actions, and higher spending reflecting our continued focus on talent and portfolio innovation to drive our strategy. Total operating (non-GAAP) expense and other (income) increased 4.5 percent year to year, driven primarily by the effects of currency, higher workforce rebalancing charges and higher spending to drive our strategy; partially offset by benefits from productivity actions. 
+ Pre-tax income from continuing operations was $8.7 billion in 2023 compared with $1.2 billion in the prior year and pre-tax margin was 14.0 percent, an increase of 12.1 points versus 2022. The year-to-year improvements were primarily driven by the $5.9 billion pension settlement charge in the prior year, the combination of our revenue growth and gross margin performance and the benefits from productivity actions. The continuing operations effective tax rate for 2023 was 13.5 percent compared to (54.2) percent in 2022. The prior-year effective tax rate was primarily driven by the pension settlement charge. Net income from continuing operations was $7.5 billion in 2023 compared with $1.8 billion in the prior year and net income from continuing operations margin was 12.1 percent, an increase of 9.2 points year to year. Operating (non-GAAP) pre-tax income from continuing operations of $10.3 billion increased 5.0 percent year to year and the operating (non-GAAP) pre-tax margin from continuing operations increased 0.4 points to 16.7 percent. The combination of our revenue and gross margin performance and productivity actions resulted in strong operating (non-GAAP) pre-tax income growth in 2023. The operating (non-GAAP) effective tax rate for 2023 was 14.0 percent 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 10 
+ 
+ Management Discussion 
+ International Business Machines Corporation and Subsidiary Companies 
+ 
+ compared to 15.2 percent in 2022. Operating (non-GAAP) income from continuing operations of $8.9 billion increased 6.5 percent and the operating (non-GAAP) income margin from continuing operations of 14.3 percent was up 0.6 points year to year. 
+ Diluted earnings per share from continuing operations was $8.15 in 2023 compared with $1.95 in 2022, which included an impact of $4.84 from the prior-year pension settlement charge. Operating (non-GAAP) diluted earnings per share of $9.62 increased 5.4 percent versus 2022. 
+ At December 31, 2023, the balance sheet remained strong with increased financial flexibility to support and invest in the business. Cash and cash equivalents, restricted cash and marketable securities at year end were $13.5 billion, an increase of $4.6 billion from December 31, 2022. During 2023, we invested $5.1 billion in acquisitions and returned $6.0 billion to shareholders through dividends. Total debt of $56.5 billion at December 31, 2023 increased $5.6 billion driven by net debt issuances. We were opportunistic in accessing the debt market and issued $9.5 billion of debt in the first quarter of 2023 to plan for our debt maturity obligations in 2023 and 2024 as well as capital allocation priorities. 
+ Total assets increased $8.0 billion ($7.1 billion adjusted for currency) from December 31, 2022 primarily driven by an increase in cash and cash equivalents and goodwill; partially offset by a decrease in prepaid pension assets. Total liabilities increased $7.4 billion ($6.6 billion adjusted for currency) from December 31, 2022 primarily driven by an increase in debt, deferred income and retirement and postretirement benefit obligations. Total equity of $22.6 billion increased $0.6 billion from December 31, 2022, driven by 2023 net income and common stock issuances; partially offset by dividends paid and an increase in accumulated other comprehensive loss due to retirement-related benefit plans. 
+ Cash provided by operating activities was $13.9 billion in 2023, an increase of $3.5 billion compared to 2022, driven by an increase in cash provided by financing receivables, performance-related improvements within net income and sales cycle working capital efficiencies. Our free cash flow was $11.2 billion, an increase of $1.9 billion versus the prior year. Refer to page 31 for additional information on free cash flow. Net cash used in investing activities of $7.1 billion increased $2.9 billion compared to the prior year, mainly driven by the Apptio acquisition, and a decrease in cash provided by divestitures; partially offset by higher net proceeds from marketable securities and other investments. Net cash used in financing activities of $1.8 billion decreased $3.2 billion compared to 2022, mainly due to an increase in net cash provided by debt . 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Management Discussion 
+ International Business Machines Corporation and Subsidiary Companies 
+ 
+ 11 
+ DESCRIPTION OF BUSINESS 
+ Please refer to IBM’s Annual Report on Form 10-K filed with the SEC on February 26, 2024, for ITEM 1A. entitled “Risk Factors.” 
+ IBM is addressing the hybrid cloud and AI opportunity with a platform-centric approach, focused on providing client value through a combination of technology and business expertise. We provide integrated solutions and products that leverage: data, information technology, deep expertise in industries and business processes, with trust and security and a broad ecosystem of partners and alliances. Our hybrid cloud platform and AI technology and services capabilities support clients’ digital transformations and help them engage with their customers and employees in new ways. These solutions draw from an industry-leading portfolio of capabilities in software, consulting services and a deep incumbency in mission-critical systems, all bolstered by one of the world’s leading research organizations. 
+ 
+ IBM Strategy 
+ IBM continues to focus its strategy on hybrid cloud and AI, today’s most transformative technologies. Businesses are pursuing digital-first strategies as a critical imperative for driving revenue growth, boosting productivity, mitigating risks including cyberattacks, and meeting sustainability commitments. Technology is increasingly distributed across environments spanning multiple clouds, data centers, and myriad edge devices, making hybrid cloud the default approach for most enterprises. 77 percent of business and IT decision makers use hybrid cloud environments (Harris Poll survey). In parallel, generative AI has become a top priority for boards and the C-Suite. Over 80 percent of C-suite executives expect that generative AI will fundamentally transform their organization’s workflows and how people do their jobs (IBM Institute for Business Value survey). 
+ Our strategy aligns with the needs of our clients 
+ Client demand for technology to drive business outcomes is accelerating. Our two strategic platforms deliver impact to serve that demand: Red Hat OpenShift in hybrid cloud and watsonx in AI. 
+ These two strategic platforms complement one another. AI benefits from hybrid cloud through seamless access to data and applications across heterogeneous environments. Conversely, hybrid cloud is differentiated by AI’s delivery of insights and automation to streamline business, IT, and security processes. 
+ In 2023, we launched watsonx as our AI platform for business. Built on Red Hat OpenShift, watsonx offers the power of state-of-the-art IBM and open-source models for clients to run AI wherever they need it. The depth and breadth of our consulting expertise in generative AI can make a crucial difference in accelerating time-to-value for clients. Our offerings are uniquely differentiated, delivering to clients an open and responsible approach to use multiple models, trusted AI governance solutions, and targeted use cases with proven value, including digital labor, customer service and software development. Watsonx and our Consulting capabilities to deploy AI at-scale are a powerful combination distinctive to IBM. 
+ Red Hat OpenShift is the market-leading hybrid cloud application platform. OpenShift is built on open-source technologies including Linux, containers, and Kubernetes. With hybrid cloud becoming the industry’s dominant architecture, OpenShift allows clients to build and run applications in a consistent way across environments enabling organizations to write once, run anywhere . A 2023 study by IBM Consulting profiled hybrid cloud practices used by organizations and found most to be implementing a siloed ‘hybrid by default’ approach. Leading enterprises have embraced a ‘hybrid by design’ architecture to leverage common platforms and practices throughout environments. The study shows that clients taking a ‘hybrid by design’ platform approach can expect over three times higher return on investment in their digital transformation efforts. OpenShift’s market leadership make it the best choice for clients seeking the value of a ‘hybrid by design’ approach. 
+ IBM’s hybrid cloud and AI strategy addresses an enormous market need. The hybrid cloud market is projected to grow to more than $1.5 trillion over 3 years. In conjunction, the AI market is expected to grow at 30 percent powered by generative AI (International Data Corporation). As technology evolves beyond IT to being a differentiator in every industry and business function, we continue to expect strong tailwinds in the markets we serve. 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 12 
+ 
+ Management Discussion 
+ International Business Machines Corporation and Subsidiary Companies 
+ 
+ IBM’s differentiated portfolio value 
+ All our businesses benefit Red Hat OpenShift and watsonx by extending, implementing, or delivering them. In turn, the platforms differentiate our businesses in the unique capabilities they bring. For each business we provide a brief overview and examples of strategic linkage to our platforms. 
+ 
+ IBM Software brings to life the combined value of hybrid cloud and AI with capabilities that deliver improved client outcomes: (1) AI and data to infuse generative AI at scale into applications and business processes, leveraging the power of data to drive decisions in real-time; (2) Automation and Application Modernization to improve business and IT productivity with digital labor and create outstanding customer experiences; (3) Security of all touchpoints using AI to drive real-time, automated detection, and an orchestrated response; (4) Transaction Processing software that powers IBM Z; (5) Red Hat, also reported in our Software segment, that delivers our hybrid cloud platform with OpenShift as well as market leading capabilities of Red Hat Enterprise Linux and Ansible. Our Software products differentiate our platforms. For example, our award-winning Application Resource Management product, Turbonomic, leverages AI to simultaneously improve performance while minimizing cost across a client’s hybrid cloud environment. We strategically build products on OpenShift to provide clients the flexibility to consume software across clouds and on-premises. Building to that common platform also accelerates our innovation and efficiency. 
+ IBM Consulting delivers business transformation, technology consulting, and application operations by leveraging hybrid cloud and AI technologies from IBM along with our ecosystem partners. To support our hybrid cloud strategy, we built a Red Hat business of over $2.5 billion. We are pursuing a similar approach for our AI strategy with over 16,000 accredited consultants. We have also scaled our focus on the ecosystem to create multi-billion-dollar partnerships with AWS, Microsoft, and SAP. Our consulting capabilities help clients to realize value from their digital transformations, for example, a global provider of business decisioning data and analytics is leveraging watsonx for a procurement solution to improve savings, reduce time, and mitigate risk. 
+ IBM Infrastructure provides trusted, performant, secure, and resilient infrastructure solutions across AI, data-intensive, and regulated mission-critical workloads. Forty-five of the world’s top fifty banks run on IBM Z, where our transaction processing capability excels with integrated AI to deliver unmatched throughput, availability, and security. Our AI strategy delivers more value on IBM Z. For example, watsonx Code Assistant leverages generative AI to modernize Z applications. Our Power, Storage, and Cloud offerings accelerate client’s digital transformations while our Infrastructure Support delivers lifecycle services to optimize hybrid cloud environments. 
+ IBM Research demonstrates our ability to quickly transition from research to market-ready solutions, continuing our legacy of defining the evolution of computing. In 2023, we delivered a pipeline of AI and hybrid cloud innovations that created new business opportunities for IBM including watsonx, generative AI models, and AI infusions into our software product portfolio. In quantum computing, we delivered noteworthy progress in both hardware and software: we unveiled our lowest-error, highest-performing 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Management Discussion 
+ International Business Machines Corporation and Subsidiary Companies 
+ 
+ 13 
+ flagship chips Heron and Condor, and updated Qiskit software for greater stability, reliability, and performance. We continue to leverage our world-class skills in semiconductors to achieve breakthroughs and expand our industry leading partnerships. 
+ A key part of our strategy is to add value to our strategic platforms through inorganic investments. Our focus is on bolstering our hybrid cloud, and data and AI technology assets that further accelerate our organic innovation engines as well as consulting expertise that expand our position in new markets. Additionally, in line with our focus on sharpening our portfolio, we recently closed the divestiture of The Weather Company assets. 
+ To bolster our AI strategy, we established the $500 million Enterprise AI Venture Fund to deepen collaboration with early-stage innovators. We also collaborated to launch the AI Alliance to accelerate responsible innovation in AI throughout a broad, open community across industry, startups, academia, research, and government. 
+ Collaborating to create value with clients and ecosystem partners 
+ As technology becomes pervasive across businesses, we are also diversifying the ways we reach a broader client base. For example, we invest in product-led growth routes to capture new customers and expand our market reach. We also continue to build our experiential selling skills across client engineering, customer success management, and deep technical expertise to solve clients’ critical challenges. We brought our next-generation innovations including watsonx to a wide range of clients and partners through our signature THINK event tour and our inaugural IBM TechXchange conference. 
+ We set a strategic objective to increase the mix of business with our ecosystem. Our partnerships with technology resellers, systems integrators, independent software vendors (ISVs), consultancies, advisory firms, and managed service providers give clients the flexibility they seek to maximize the impact of their technology investments. We launched a redesigned Partner Plus program in 2023, providing partners with access to extensive IBM resources, incentives, training, and support to accelerate delivering innovation to clients. We continue to deepen relationships with key strategic partners such as AWS, Microsoft, SAP, Salesforce, and Adobe to amplify the joint impact for our clients by embedding IBM technology into the platforms that run their businesses. For example, in 2023 we continued to expand our software-as-a-service offerings on AWS marketplace, and our industry aligned portfolio of offerings with Microsoft. 
+ In 2024, we will continue to advance our hybrid cloud and AI strategy. We will co-create with our clients and ecosystem to realize business value through digital transformations, as their trusted innovation partner . 
+ 
+ Business Segments and Capabilities 
+ IBM operates in more than 175 countries around the world. Our platform-centric hybrid cloud and AI strategy is executed through our operations and consists of four business segments: Software, Consulting, Infrastructure and Financing. 
+ The following description of our business segments is based on our organizational structure as of December 31, 2023. Refer to "Looking Forward," for changes to our reportable segments effective January 1, 2024. 
+ Software 
+ Software provides software solutions that address client needs for a hybrid cloud platform, data and AI, automation, and security on their journey to hybrid cloud. It includes all software, except operating system software reported in the Infrastructure segment. 
+ Software comprises two business areas – Hybrid Platform & Solutions and Transaction Processing, which have the following capabilities: 
+ 
+ Hybrid Platform & Solutions: includes software, infused with AI, to help clients operate, manage and optimize their IT resources and business processes within hybrid, multi-cloud environments. It includes the following: 
+ Red Hat: provides enterprise open-source solutions, for hybrid, multi-cloud environments, which includes Red Hat Enterprise Linux (RHEL), OpenShift, our hybrid cloud platform, as well as Ansible. 
+ Automation: optimizes processes from business workflows to IT operations with AI-powered automation. Automation includes software for business automation, IT automation, integration and application runtimes. 
+ Data & AI: accelerates data-driven agendas by infusing AI throughout the enterprise, empowering intelligent decision making. The portfolio includes capabilities that simplify data consumption through data fabric with data management, optimize lifecycle management, and make better predictions through business analytics. Data & AI capabilities facilitate sustainable, resilient businesses and enable intelligent management of enterprise assets and supply chains with environmental intelligence. 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 14 
+ 
+ Management Discussion 
+ International Business Machines Corporation and Subsidiary Companies 
+ 
+ Security: creates a risk-aware, secure business by gaining real-time threat insights, orchestrating actions and automating responses across all touchpoints, in line with a zero-trust security strategy. Security includes software and services for threat management, data security, and identity and access management. 
+ Transaction Processing: supports clients’ mission-critical, on-premise workloads in industries such as banking, airlines and retail. This includes transaction processing software such as Customer Information Control System and storage software, as well as the analytics and integration software running on IBM operating systems such as DB2 and WebSphere running on z/OS. 
+ Consulting 
+ Consulting provides deep industry expertise and market-leading capabilities in business transformation and technology implementation. Consulting designs, builds and operates technology and business processes based on open, hybrid cloud architectures leveraging the power of generative AI, with IBM technology and ecosystem partner technologies. Consulting uses its IBM Garage method to convene experts to co-create solutions with clients to accelerate their digital transformations through AI and automation. 
+ Consulting comprises three business areas – Business Transformation, Technology Consulting and Application Operations, which have the following capabilities: 
+ Business Transformation: provides strategy, process design, system implementation and operations services to improve and transform key experiences and business processes. These services deploy AI and automation in business processes to exploit the value of data and include an ecosystem of partners alongside IBM technology, including strategic partnerships with Adobe, Oracle, Salesforce and SAP, among others. 
+ Technology Consulting: helps clients architect and implement solutions across cloud platforms, including Amazon, Microsoft and IBM, and deploy strategies to transform the enterprise experience and enable innovation, including data transformation for AI with watsonx and application modernization for hybrid cloud with Red Hat OpenShift. 
+ Application Operations: focuses on application and cloud platform services required to operationalize and run hybrid cloud platforms. It facilitates clients’ efforts to manage, optimize and orchestrate application and data workloads across platforms and environments through both custom applications and ISV packages. 
+ Infrastructure 
+ Infrastructure provides trusted and secure solutions for hybrid cloud and is optimized for infusing AI into mission-critical transactions. 
+ Infrastructure comprises two business areas – Hybrid Infrastructure and Infrastructure Support, which have the following capabilities: 
+ Hybrid Infrastructure: provides clients with innovative infrastructure platforms to help meet the new requirements of hybrid multi-cloud and enterprise AI workloads leveraging flexible and as-a-service consumption models. Hybrid Infrastructure includes zSystems and Distributed Infrastructure. 
+ zSystems (also referred to as IBM Z): the premier transaction processing platform with leading security, resilience and scale, highly optimized for mission-critical, high-volume transaction workloads and enabled for enterprise AI and hybrid cloud. It includes zSystems and LinuxONE, with a range of high-performance systems designed to address enterprise computing capacity, security and performance needs, z/OS, a security-rich, high-performance enterprise operating system, as well as Linux and other operating systems. 
+ Distributed Infrastructure: includes Power, Storage and IBM Cloud Infrastructure-as-a-Service (IaaS). Power consists of high-performance servers, designed and engineered for data intensive and AI-enabled workloads and optimized for hybrid cloud and Linux. The Storage portfolio consists of a broad range of storage hardware and software-defined offerings, including Z-attach and distributed flash, tape solutions, software-defined storage controllers, data protection software and network-attach storage. IBM Cloud IaaS is built on enterprise-grade hardware with leading security and compliance capabilities and offers flexible computing options across architectures to meet client workload needs. 
+ Infrastructure Support: delivers comprehensive, proactive and AI-enabled maintenance and support services to maintain and improve the availability and value of clients’ IT infrastructure (hardware and software) both on-premises and in the cloud. 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Management Discussion 
+ International Business Machines Corporation and Subsidiary Companies 
+ 
+ 15 
+ Financing 
+ Financing facilitates IBM clients’ acquisition of hardware, software and services through its financing solutions. The financing arrangements are predominantly for products or services that are critical to the end users’ business operations and support IBM’s hybrid cloud and AI strategy. Financing conducts a comprehensive credit evaluation of its clients prior to extending financing. As a captive financier, Financing has the benefit of both deep knowledge of its client base and a clear insight into the products and services financed. These factors allow the business to effectively manage two of the primary risks associated with financing, credit and residual value, while generating strong returns on equity. 
+ Financing comprises the following two business areas – Client Financing and Commercial Financing: 
+ Client Financing: lease, installment payment plan and loan financing to end-user clients for terms generally up to seven years. Assets financed are primarily new and used IBM hardware, software and services. 
+ Commercial Financing: short-term working capital financing to business partners and distributors primarily of IBM products and services. The company has an existing agreement with a third-party investor to sell IBM short-term commercial financing receivables on a revolving basis. Refer to note L, "Financing Receivables," for additional information . 
+ 
+ Human Capital 
+ Employees and Related Workforce 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (In thousands) 
+ 
+ 
+ For the year ended December 31: 
+ 2023 
+ 
+ IBM/wholly owned subsidiaries 
+ 282.2 
+ 
+ Less-than-wholly owned subsidiaries 
+ 8.7 
+ 
+ 
+ Complementary (1) 
+ 14.4 
+ (1) The complementary workforce is an approximation of equivalent full-time employees hired under temporary, part-time and limited-term employment arrangements to meet specific business needs in a flexible and cost-effective manner. 
+ As a globally integrated enterprise, IBM operates in more than 175 countries. Our highly skilled global workforce is reflective of the work we do for clients in support of their digital transformations and mission-critical operations through our focus on hybrid cloud and AI. Our employees are among the world’s leading experts in hybrid cloud, AI, quantum computing, cybersecurity and industry-specific solutions. We believe our success depends on the caliber of our talent and the engagement and inclusion of IBMers in the workplace. 
+ Talent and Culture 
+ We attract, develop, engage, and retain talent in a dynamic and competitive environment. IBM provides a compelling employee value proposition, offering professionals competitive compensation and attractive career opportunities in the development and delivery of innovative technologies for clients whose businesses the world relies on. Our value proposition and talent strategy help to retain talent. In 2023, voluntary attrition decreased when compared to each of the past two years. 
+ We are continuously transforming and developing our talent, both through learning and hiring. In 2023, we added skills in consulting and key technical areas and invested in scaling our capacity in strategically important markets. We continue to invest in upskilling and reskilling our workforce. Our digital learning and career platforms are examples of this commitment to provide employees access to the resources needed to build strategic skills and grow their careers. Our performance reflection cycles inspire further learning, growth, and development via candid feedback to help employees reach their career and business goals. Helping our employees learn and apply new skills is important for retention and critical to our ability to transform and evolve. 
+ Employee engagement is a key indicator of employee well-being and their dedication to the company’s mission, purpose and values. We conduct an annual engagement survey to assess the health of the company’s growth culture and employee sentiment. We maintained strong participation with over 187,000 employees globally responding to the 2023 engagement survey, providing actionable data-driven insights to managers and leaders around factors such as workplace experience, inclusion, pride, and propensity to recommend IBM as an employer. For the third year in a row, more than eight out of ten employees who participated in the survey responded that they felt engaged at work, a testament to our industry-leading talent practices. 
+ Diversity and Inclusion 
+ IBM takes immense pride in its rich legacy as a trailblazer in fostering diversity and inclusion within the workplace. We work to ensure individuals from diverse backgrounds feel a sense of belonging, can embrace their true selves, nurture their talents and advance in their careers. Our efforts have resulted in nearly nine out of ten of employees who participated in the survey feeling empowered to express their authentic identities at work. 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 16 
+ 
+ Management Discussion 
+ International Business Machines Corporation and Subsidiary Companies 
+ 
+ A workplace characterized by diversity and inclusivity serves as a catalyst for heightened innovation, agility, and overall performance. This environment fuels business growth. Our focus on creating a diverse and inclusive workplace has led to increased levels of inclusion for underrepresented employees, including women, who make up more than one-third of our workforce. Executive representation of women globally, and Hispanic executives in the U.S. improved by 1.1 points and 0.5 points, respectively, in 2023. Representation of Black executives in the U.S. declined 0.2 points in 2023. Our executive annual incentive program includes a diversity modifier that affirms our commitment to diverse representation in our workforce that reflects the labor pool demographics of the communities in which we operate. The design of the modifier is based on our progress in creating and developing a diverse executive population. 
+ We are committed to pay equity and transparency, fostering an environment of equal pay for equal work regardless of gender, race, or other personal characteristics. Statistical pay equity assessments are conducted across all countries with IBM employees, reinforcing our dedication to our longstanding pay equity practice. We also empower employees to understand their pay by providing comprehensive compensation education. Employees can also directly access information about their pay, including a comparison against their market pay range, through the HR system or their direct managers. 
+ Health, Safety and Well-Being 
+ IBM has long established its commitment to a culture of health, safety, and well-being. This commitment is demonstrated through our health and safety policy and compliance with country legal requirements, both of which are implemented through IBM’s externally certified Health & Safety Management System (HSMS). Objectives of our HSMS include providing a safe and healthy workplace, preventing work-related injuries and illnesses, enhancing worker health and productivity and providing resources to fulfill these commitments. 
+ Our belief that there is no greater resource than our people led us to integrate employee well-being into every aspect of our business. We feel that our employees perform best at work, at home and in the communities where they live and work when their well-being is supported. We believe in not taking a one-size-fits-all approach when it comes to health, safety, and well-being and strive to provide programs that are culturally relevant and inclusive to address the needs of a diverse employee population. Our health and safety programs are driven by evidence-based strategies, real time insights and innovative solutions. 
+ We offer a wide range of health, safety, and well-being programs, covering all aspects of employee well-being: physical, mental, and financial health. Access to well-being services and resources are offered through onsite activities and partnerships with external vendors, among other methods of delivery. We continued our focus on cardiovascular, musculoskeletal, and mental health. IBMers worldwide have confidential, 24/7 access to critical mental health support through employee assistance programs and supplemental resources. Other programs include training for employees on resilience, ergonomics, and financial well-being. 
+ Employees are supported with around-the-clock access to IBM’s world-class Health and Safety team who provide education, timely updates on new health and safety developments and forums to ask questions and raise concerns. In 2023, we enhanced our health and safety incident management program by introducing a centralized reporting and investigation system, providing IBMers an efficient, seamless and secure way to report work-related accidents, occupational illnesses and near-miss incidents, regardless of where they occur. This facilitates prompt investigation of incidents and implementation of corrective actions to prevent future occurrences . 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Management Discussion 
+ International Business Machines Corporation and Subsidiary Companies 
+ 
+ 17 
+ YEAR IN REVIEW 
+ Results of Continuing Operations 
+ 
+ Segment Details 
+ The table below presents each reportable segment’s revenue and gross margin results, followed by an analysis of the 2023 versus 2022 reportable segment results. The segment details presented below are reported under our historical reportable segments. Refer to "Looking Forward" for changes to our reportable segments effective in the first quarter of 2024. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ($ in millions) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the year ended December 31: 
+ 2023 
+ 
+ 2022 
+ 
+ Yr.-to-Yr. Percent/ Margin Change 
+ 
+ Yr.-to-Yr. Percent Change Adjusted for Currency 
+ 
+ Revenue 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Software 
+ $ 
+ 26,308 
+ 
+ 
+ $ 
+ 25,037 
+ 
+ 
+ 5.1 
+ % 
+ 
+ 5.2 
+ % 
+ 
+ Gross margin 
+ 80.1 
+ % 
+ 
+ 79.6 
+ % 
+ 
+ 0.4 
+ pts. 
+ 
+ 
+ 
+ Consulting 
+ 19,985 
+ 
+ 
+ 19,107 
+ 
+ 
+ 4.6 
+ % 
+ 
+ 6.1 
+ % 
+ 
+ Gross margin 
+ 26.6 
+ % 
+ 
+ 25.5 
+ % 
+ 
+ 1.1 
+ pts. 
+ 
+ 
+ 
+ Infrastructure 
+ 14,593 
+ 
+ 
+ 15,288 
+ 
+ 
+ (4.5) 
+ % 
+ 
+ (3.9) 
+ % 
+ 
+ Gross margin 
+ 56.0 
+ % 
+ 
+ 52.8 
+ % 
+ 
+ 3.2 
+ pts. 
+ 
+ 
+ 
+ Financing 
+ 741 
+ 
+ 
+ 645 
+ 
+ 
+ 14.8 
+ % 
+ 
+ 15.0 
+ % 
+ 
+ Gross margin 
+ 48.1 
+ % 
+ 
+ 38.3 
+ % 
+ 
+ 9.8 
+ pts. 
+ 
+ 
+ 
+ Other 
+ 233 
+ 
+ 
+ 453 
+ 
+ 
+ (48.4) 
+ % 
+ 
+ (50.6) 
+ % 
+ 
+ Gross margin 
+ (256.4) 
+ % 
+ 
+ (95.3) 
+ % 
+ 
+ (161.1) 
+ pts. 
+ 
+ 
+ 
+ Total revenue 
+ $ 
+ 61,860 
+ 
+ 
+ $ 
+ 60,530 
+ 
+ 
+ 2.2 
+ % 
+ 
+ 2.9 
+ % 
+ 
+ Total gross profit 
+ $ 
+ 34,300 
+ 
+ 
+ $ 
+ 32,687 
+ 
+ 
+ 4.9 
+ % 
+ 
+ 
+ 
+ Total gross margin 
+ 55.4 
+ % 
+ 
+ 54.0 
+ % 
+ 
+ 1.4 
+ pts. 
+ 
+ 
+ 
+ Non-operating adjustments 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Amortization of acquired intangible assets 
+ 631 
+ 
+ 
+ 682 
+ 
+ 
+ (7.5) 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating (non-GAAP) gross profit 
+ $ 
+ 34,931 
+ 
+ 
+ $ 
+ 33,370 
+ 
+ 
+ 4.7 
+ % 
+ 
+ 
+ 
+ Operating (non-GAAP) gross margin 
+ 56.5 
+ % 
+ 
+ 55.1 
+ % 
+ 
+ 1.3 
+ pts. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Software 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ($ in millions) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the year ended December 31: 
+ 2023 
+ 
+ 2022 
+ 
+ Yr.-to-Yr. Percent Change 
+ 
+ Yr.-to-Yr. Percent Change Adjusted for Currency 
+ 
+ Software revenue 
+ $ 
+ 26,308 
+ 
+ 
+ $ 
+ 25,037 
+ 
+ 
+ 5.1 
+ % 
+ 
+ 5.2 
+ % 
+ 
+ Hybrid Platform & Solutions 
+ $ 
+ 18,693 
+ 
+ 
+ $ 
+ 17,866 
+ 
+ 
+ 4.6 
+ % 
+ 
+ 4.8 
+ % 
+ 
+ Red Hat 
+ 
+ 
+ 
+ 
+ 9.1 
+ 
+ 
+ 9.0 
+ 
+ 
+ Automation 
+ 
+ 
+ 
+ 
+ 3.4 
+ 
+ 
+ 3.6 
+ 
+ 
+ Data & AI 
+ 
+ 
+ 
+ 
+ 4.5 
+ 
+ 
+ 4.8 
+ 
+ 
+ Security 
+ 
+ 
+ 
+ 
+ (2.5) 
+ 
+ 
+ (2.2) 
+ 
+ 
+ Transaction Processing 
+ 7,615 
+ 
+ 
+ 7,171 
+ 
+ 
+ 6.2 
+ 
+ 
+ 6.3 
+ 
+ Software revenue of $26,308 million increased 5.1 percent as reported (5 percent adjusted for currency) in 2023 compared to the prior year, driven by growth in both Hybrid Platform & Solutions and Transaction Processing. The growth in Hybrid Platform & Solutions was led by Red Hat, Automation and Data & AI. In Transaction Processing, our zSystems platform continued to drive client demand. Our Software revenue performance in 2023 reflects growth in our high-value, recurring revenue base, which is approximately 80 percent of our annual software revenue, as well as transactional revenue. Our platform-based approach is resonating with clients and there is growing interest in our generative AI platform, watsonx. 
+ Hybrid Platform & Solutions revenue of $18,693 million increased 4.6 percent as reported (5 percent adjusted for currency) in 2023 compared to the prior year. Within Hybrid Platform & Solutions, Red Hat revenue increased 9.1 percent as reported (9 percent adjusted for currency) led by double-digit growth in OpenShift and Ansible, and solid growth in RHEL. OpenShift continued its strong performance with annual recurring revenue of $1.2 billion exiting 2023. Automation revenue increased 3.4 percent as reported (4 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 18 
+ 
+ Management Discussion 
+ International Business Machines Corporation and Subsidiary Companies 
+ 
+ percent adjusted for currency), with strength in AIOps and Management solutions as clients looked to optimize business performance and enhance productivity. Data & AI revenue increased 4.5 percent as reported (5 percent adjusted for currency), reflecting demand for data management as clients prepare for generative AI and strength in asset and supply chain management software which helps clients run sustainable operations. Security revenue decreased 2.5 percent as reported (2 percent adjusted for currency). While we had revenue declines in security threat management and identity and access management, we delivered revenue growth in data security. 
+ Across Hybrid Platform & Solutions, our annual recurring revenue (ARR) was $14.4 billion exiting 2023. ARR is a key performance metric management uses to assess the health and growth trajectory of our Hybrid Platform & Solutions business within the Software segment. ARR is calculated by estimating the current quarter’s recurring, committed value for certain types of active contracts as of the period-end date and then multiplying that value by four. This value is based on each arrangement’s contract value and start date, mitigating fluctuations during the contract term, and includes the following consumption models: (1) software subscription agreements, including committed term licenses, (2) as-a-service arrangements such as SaaS and PaaS, (3) maintenance and support contracts, and (4) security managed services contracts. ARR should be viewed independently of revenue as this performance metric and its inputs may not represent the amount of revenue recognized in the period and therefore is not intended to represent current period revenue or revenue that will be recognized in future periods. 
+ Transaction Processing revenue of $7,615 million increased 6.2 percent as reported (6 percent adjusted for currency) in 2023 compared to the prior year. Clients continue to value this portfolio of mission-critical software in support of growing workloads on our hardware platforms, such as zSystems. This, together with price increases, contributed to growth in both recurring and transactional revenue in Transaction Processing. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ($ in millions) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the year ended December 31: 
+ 2023 
+ 
+ 2022 
+ 
+ Yr.-to-Yr. Percent/ Margin Change 
+ 
+ 
+ Software 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Gross profit 
+ $ 
+ 21,063 
+ 
+ 
+ $ 
+ 19,941 
+ 
+ 
+ 5.6 
+ % 
+ 
+ 
+ Gross profit margin 
+ 80.1 
+ % 
+ 
+ 79.6 
+ % 
+ 
+ 0.4 
+ pts. 
+ 
+ 
+ Pre-tax income 
+ $ 
+ 6,571 
+ 
+ 
+ $ 
+ 6,162 
+ 
+ 
+ 6.6 
+ % 
+ 
+ 
+ Pre-tax margin 
+ 25.0 
+ % 
+ 
+ 24.6 
+ % 
+ 
+ 0.4 
+ pts. 
+ 
+ Software gross profit margin of 80.1 percent in 2023 increased 0.4 points compared to the prior year, primarily driven by margin expansion in software services due to portfolio mix. Pre-tax income of $6,571 million increased 6.6 percent and pre-tax margin of 25.0 percent increased 0.4 points compared to the prior year. The year-to-year increases in pre-tax income and pre-tax margin were driven by our solid revenue growth, higher gross profit contribution and the productivity actions we have taken, partially offset by key investments in innovation. Pre-tax margin in 2023 includes approximately 1 point of impact from currency. 
+ Consulting 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ($ in millions) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the year ended December 31: 
+ 2023 
+ 
+ 2022 
+ 
+ Yr.-to-Yr. Percent Change 
+ 
+ Yr.-to-Yr. Percent Change Adjusted for Currency 
+ 
+ Consulting revenue 
+ $ 
+ 19,985 
+ 
+ 
+ $ 
+ 19,107 
+ 
+ 
+ 4.6 
+ % 
+ 
+ 6.1 
+ % 
+ 
+ Business Transformation 
+ $ 
+ 9,179 
+ 
+ 
+ $ 
+ 8,834 
+ 
+ 
+ 3.9 
+ % 
+ 
+ 5.3 
+ % 
+ 
+ Technology Consulting 
+ 3,849 
+ 
+ 
+ 3,765 
+ 
+ 
+ 2.2 
+ 
+ 
+ 3.8 
+ 
+ 
+ Application Operations 
+ 6,958 
+ 
+ 
+ 6,508 
+ 
+ 
+ 6.9 
+ 
+ 
+ 8.6 
+ 
+ Consulting revenue of $19,985 million increased 4.6 percent as reported (6 percent adjusted for currency) in 2023 compared to the prior year, with growth across all three business areas. This growth reflects the solid demand for our data and technology transformation projects with a focus on AI and analytics. Clients are also prioritizing cloud modernization and cloud-based application development projects. There has been a consistent client focus throughout the year on digital transformation and AI initiatives to drive productivity and cost savings for their enterprises. Our integrated value proposition, investments in skills and strategic partnerships and focused execution continues to differentiate us in the marketplace. Our strategic partnerships which account for approximately 40 percent of Consulting revenue, delivered double-digit growth in 2023 on a year-to-year basis in both Consulting signings and revenue. 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Management Discussion 
+ International Business Machines Corporation and Subsidiary Companies 
+ 
+ 19 
+ Business Transformation revenue of $9,179 million increased 3.9 percent as reported (5 percent adjusted for currency) compared to the prior year, led by data and technology transformations including AI and analytics-focused projects, and finance and supply chain transformations. 
+ Technology Consulting revenue of $3,849 million increased 2.2 percent as reported (4 percent adjusted for currency), led by cloud-based application development and cloud modernization projects. 
+ Application Operations revenue of $6,958 million increased 6.9 percent as reported (9 percent adjusted for currency) driven by growth in platform engineering services and cloud application management. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ($ in millions) 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the year ended December 31: 
+ 2023 
+ 
+ 2022 
+ 
+ Yr.-to-Yr. Percent/Margin Change 
+ 
+ Consulting 
+ 
+ 
+ 
+ 
+ 
+ 
+ Gross profit 
+ $ 
+ 5,313 
+ 
+ 
+ $ 
+ 4,864 
+ 
+ 
+ 9.2 
+ % 
+ 
+ Gross profit margin 
+ 26.6 
+ % 
+ 
+ 25.5 
+ % 
+ 
+ 1.1 
+ pts. 
+ 
+ Pre-tax income 
+ $ 
+ 1,918 
+ 
+ 
+ $ 
+ 1,677 
+ 
+ 
+ 14.4 
+ % 
+ 
+ Pre-tax margin 
+ 9.6 
+ % 
+ 
+ 8.8 
+ % 
+ 
+ 0.8 
+ pts. 
+ Consulting gross profit margin increased 1.1 points to 26.6 percent compared to the prior year. Pre-tax income of $1,918 million increased 14.4 percent and pre-tax margin increased 0.8 points to 9.6 percent compared to the prior year. The increases in gross profit margin and pre-tax margin reflect benefits from pricing and productivity actions we have taken, which were partially offset by increased labor costs. 
+ Consulting Signings and Book-to-Bill 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ($ in millions) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the year ended December 31: 
+ 2023 
+ 
+ 2022 
+ 
+ Yr.-to-Yr. Percent Change 
+ 
+ 
+ Yr.-to-Yr. 
+ Percent Change 
+ Adjusted for 
+ Currency 
+ 
+ Total Consulting signings 
+ $ 
+ 23,339 
+ 
+ 
+ $ 
+ 20,485 
+ 
+ 
+ 13.9 
+ % 
+ 
+ 16.7 
+ % 
+ Consulting signings grew 13.9 percent as reported (17 percent adjusted for currency) in 2023, and our book-to-bill ratio over the trailing twelve months was over 1.15. Book-to-bill represents the ratio of IBM Consulting signings to its revenue over the same period and is a useful indicator of the demand for our business over time. 
+ Signings are management’s initial estimate of the value of a client’s commitment under a services contract within IBM Consulting. There are no third-party standards or requirements governing the calculation of signings. The calculation used by management involves estimates and judgments to gauge the extent of a client’s commitment, including the type and duration of the agreement and the presence of termination charges or wind-down costs. 
+ Contract extensions and increases in scope are treated as signings only to the extent of the incremental new value. Total signings can vary over time due to a variety of factors including, but not limited to, the timing of signing a small number of larger contracts. Signings associated with an acquisition will be recognized on a prospective basis. 
+ Management believes the estimated values of signings disclosed provide an indication of our forward-looking revenue. Signings are used to monitor the performance of the business and viewed as useful information for management and shareholders. The conversion of signings into revenue may vary based on the types of services and solutions, contract duration, customer decisions, and other factors, which may include, but are not limited to, the macroeconomic environment. 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 20 
+ 
+ Management Discussion 
+ International Business Machines Corporation and Subsidiary Companies 
+ 
+ Infrastructure 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ($ in millions) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the year ended December 31: 
+ 2023 
+ 
+ 2022 
+ 
+ Yr.-to-Yr. Percent Change 
+ 
+ Yr.-to-Yr. Percent Change Adjusted for Currency 
+ 
+ Infrastructure revenue 
+ $ 
+ 14,593 
+ 
+ 
+ $ 
+ 15,288 
+ 
+ 
+ (4.5) 
+ % 
+ 
+ (3.9) 
+ % 
+ 
+ Hybrid Infrastructure 
+ $ 
+ 9,215 
+ 
+ 
+ $ 
+ 9,451 
+ 
+ 
+ (2.5) 
+ % 
+ 
+ (2.2) 
+ % 
+ 
+ zSystems 
+ 
+ 
+ 
+ 
+ (4.5) 
+ 
+ 
+ (4.2) 
+ 
+ 
+ Distributed Infrastructure 
+ 
+ 
+ 
+ 
+ (1.0) 
+ 
+ 
+ (0.7) 
+ 
+ 
+ Infrastructure Support 
+ 5,377 
+ 
+ 
+ 5,837 
+ 
+ 
+ (7.9) 
+ 
+ 
+ (6.6) 
+ 
+ Infrastructure revenue of $14,593 million decreased 4.5 percent as reported (4 percent adjusted for currency) as compared to the prior year, reflecting product cycle dynamics which impacted both Hybrid Infrastructure and Infrastructure Support. 
+ Hybrid Infrastructure revenue of $9,215 million decreased 2.5 percent as reported (2 percent adjusted for currency) as compared to the prior year. Within Hybrid Infrastructure, zSystems revenue decreased 4.5 percent as reported (4 percent adjusted for currency) on a year-to-year basis, consistent with the z16 cycle, as it was introduced in the second quarter of 2022. Overall, across the program cycle, z16 revenue performance has significantly outperformed prior cycles, including the successful z15 program. The z16 program incorporates a number of key innovations for our clients including cloud-native development for hybrid cloud, embedded AI at scale, quantum safe cyber-resilient security, energy efficiency and strong reliability and scalability. Clients are increasingly leveraging zSystems for more workloads which drives demand for more capacity. Installed MIPS have doubled during the last two zSystems product cycles. zSystems remains an enduring platform, driving hardware adoption as well as related software, storage and services. Distributed Infrastructure revenue decreased 1.0 percent as reported (1 percent adjusted for currency). We had year-to-year declines in high-end Power and cloud platform revenue, partially offset by strong growth in high-end Storage and low- to mid-range Power. 
+ Infrastructure Support revenue of $5,377 million decreased 7.9 percent as reported (7 percent adjusted for currency), reflecting reduced demand for support services as a result of product cycle dynamics. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ($ in millions) 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the year ended December 31: 
+ 2023 
+ 
+ 2022 
+ 
+ Yr.-to-Yr. Percent/ Margin Change 
+ 
+ Infrastructure 
+ 
+ 
+ 
+ 
+ 
+ 
+ Gross profit 
+ $ 
+ 8,167 
+ 
+ 
+ $ 
+ 8,066 
+ 
+ 
+ 1.2 
+ % 
+ 
+ Gross profit margin 
+ 56.0 
+ % 
+ 
+ 52.8 
+ % 
+ 
+ 3.2 
+ pts. 
+ 
+ Pre-tax income 
+ $ 
+ 2,421 
+ 
+ 
+ $ 
+ 2,262 
+ 
+ 
+ 7.0 
+ % 
+ 
+ Pre-tax margin 
+ 16.6 
+ % 
+ 
+ 14.8 
+ % 
+ 
+ 1.8 
+ pts. 
+ Infrastructure gross profit margin increased 3.2 points to 56.0 percent in 2023 compared to the prior year. The increase was driven by margin expansion in Hybrid Infrastructure across both Distributed Infrastructure and zSystems, reflecting our continued focus on productivity initiatives including streamlining our supply chain, partially offset by margin decline in Infrastructure Support due to product cycle dynamics. Pre-tax income of $2,421 million increased 7.0 percent and pre-tax margin increased 1.8 points to 16.6 percent primarily driven by the increase in gross profit contribution, an increase in IP and custom development income, a benefit from the changes in the useful life of servers and network equipment and productivity actions. Pre-tax margin in 2023 included approximately 1 point of impact from currency. 
+ Financing 
+ Refer to pages 38 through 40 for a discussion of Financing’s segment results. 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Management Discussion 
+ International Business Machines Corporation and Subsidiary Companies 
+ 
+ 21 
+ Geographic Revenue 
+ In addition to the revenue presentation by reportable segment, we also measure revenue performance on a geographic basis. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ($ in millions) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the year ended December 31: 
+ 2023 
+ 
+ 2022 
+ 
+ Yr.-to-Yr. Percent Change 
+ 
+ Yr.-to-Yr. Percent Change Adjusted for Currency 
+ 
+ Total revenue 
+ $ 
+ 61,860 
+ 
+ 
+ $ 
+ 60,530 
+ 
+ 
+ 2.2 
+ % 
+ 
+ 2.9 
+ % 
+ 
+ Americas 
+ $ 
+ 31,666 
+ 
+ 
+ $ 
+ 31,057 
+ 
+ 
+ 2.0 
+ % 
+ 
+ 2.5 
+ % 
+ 
+ Europe/Middle East/Africa 
+ 18,492 
+ 
+ 
+ 17,950 
+ 
+ 
+ 3.0 
+ 
+ 
+ 1.3 
+ 
+ 
+ Asia Pacific 
+ 11,702 
+ 
+ 
+ 11,522 
+ 
+ 
+ 1.6 
+ 
+ 
+ 6.5 
+ 
+ Total revenue of $61,860 million in 2023 increased 2.2 percent year to year as reported and 3 percent adjusted for currency. 
+ Americas revenue increased 2.0 percent as reported and 2 percent adjusted for currency. The U.S. increased 1.1 percent. Canada decreased 2.5 percent as reported, but grew 1 percent adjusted for currency. Latin America increased 15.7 percent as reported and 18 percent adjusted for currency. Within Latin America, Brazil revenue increased 21.0 percent as reported and 19 percent adjusted for currency. 
+ EMEA revenue increased 3.0 percent as reported and 1 percent adjusted for currency. France increased 1.2 percent as reported, but decreased 1 percent adjusted for currency. The UK increased 0.7 percent as reported and was flat adjusted for currency. Germany increased 0.4 percent as reported, but decreased 2 percent adjusted for currency. Italy decreased 0.8 percent as reported and 3 percent adjusted for currency. 
+ Asia Pacific revenue increased 1.6 percent as reported and 7 percent adjusted for currency. Japan revenue increased 3.8 percent as reported and 11 percent adjusted for currency. India increased 15.1 percent as reported and 20 percent adjusted for currency. Australia decreased 6.7 percent as reported and 3 percent adjusted for currency. China decreased 19.6 percent as reported and 16 percent adjusted for currency. 
+ 
+ Total Expense and Other (Income) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ($ in millions) 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the year ended December 31: 
+ 2023 
+ 
+ 2022 
+ 
+ Yr.-to-Yr. Percent/ Margin Change 
+ 
+ 
+ Total expense and other (income) (1) 
+ $ 
+ 25,610 
+ 
+ 
+ $ 
+ 31,531 
+ 
+ 
+ (18.8) 
+ % 
+ 
+ Non-operating adjustments 
+ 
+ 
+ 
+ 
+ 
+ 
+ Amortization of acquired intangible assets 
+ (996) 
+ 
+ 
+ (1,065) 
+ 
+ 
+ (6.5) 
+ 
+ 
+ Acquisition-related charges 
+ (33) 
+ 
+ 
+ (18) 
+ 
+ 
+ 83.7 
+ 
+ 
+ 
+ Non-operating retirement-related (costs)/income (1) 
+ 39 
+ 
+ 
+ (6,548) 
+ 
+ 
+ NM 
+ 
+ 
+ Kyndryl-related impacts 
+ — 
+ 
+ 
+ (351) 
+ 
+ 
+ (100.0) 
+ 
+ 
+ Operating (non-GAAP) expense and other (income) 
+ $ 
+ 24,620 
+ 
+ 
+ $ 
+ 23,549 
+ 
+ 
+ 4.5 
+ % 
+ 
+ Total expense-to-revenue ratio 
+ 41.4 
+ % 
+ 
+ 52.1 
+ % 
+ 
+ (10.7)pts. 
+ 
+ Operating (non-GAAP) expense-to-revenue ratio 
+ 39.8 
+ % 
+ 
+ 38.9 
+ % 
+ 
+ 0.9 pts. 
+ (1) 2022 includes a one-time, non-cash pension settlement charge of $5.9 billion. Refer to note V, “Retirement-Related Benefits,” for additional information. 
+ NM–Not meaningful 
+ Our expense dynamics in 2023 reflect our continued investments to execute our hybrid cloud and AI strategy. We remain focused on our productivity initiatives as we digitally transform our business processes and scale AI within IBM. This includes simplifying our application and infrastructure environments, aligning our teams by workflow, reducing our real estate footprint and enabling a higher value-add workforce through automation and AI driven efficiencies. These productivity actions have allowed us to increase our investments in innovation, technical and industry skills and go-to-market capabilities, including our ecosystem. 
+ For additional information regarding total expense and other (income) for both expense presentations, refer to the following analyses by category. 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 22 
+ 
+ Management Discussion 
+ International Business Machines Corporation and Subsidiary Companies 
+ 
+ Selling, General and Administrative Expense 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ($ in millions) 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the year ended December 31: 
+ 2023 
+ 
+ 2022 
+ 
+ Yr.-to-Yr. Percent Change 
+ 
+ Selling, general and administrative expense 
+ 
+ 
+ 
+ 
+ 
+ 
+ Selling, general and administrative–other 
+ $ 
+ 15,706 
+ 
+ 
+ $ 
+ 15,537 
+ 
+ 
+ 1.1 
+ % 
+ 
+ Advertising and promotional expense 
+ 1,237 
+ 
+ 
+ 1,330 
+ 
+ 
+ (7.0) 
+ 
+ 
+ Workforce rebalancing charges 
+ 438 
+ 
+ 
+ 50 
+ 
+ 
+ NM 
+ 
+ 
+ Amortization of acquired intangible assets 
+ 995 
+ 
+ 
+ 1,062 
+ 
+ 
+ (6.4) 
+ 
+ 
+ Stock-based compensation 
+ 616 
+ 
+ 
+ 566 
+ 
+ 
+ 8.8 
+ 
+ 
+ Provision for/(benefit from) expected credit loss expense 
+ 10 
+ 
+ 
+ 64 
+ 
+ 
+ (83.6) 
+ 
+ 
+ Total selling, general and administrative expense 
+ $ 
+ 19,003 
+ 
+ 
+ $ 
+ 18,609 
+ 
+ 
+ 2.1 
+ % 
+ 
+ Non-operating adjustments 
+ 
+ 
+ 
+ 
+ 
+ 
+ Amortization of acquired intangible assets 
+ (995) 
+ 
+ 
+ (1,062) 
+ 
+ 
+ (6.4) 
+ 
+ 
+ Acquisition-related charges 
+ (44) 
+ 
+ 
+ (17) 
+ 
+ 
+ 156.7 
+ 
+ 
+ Kyndryl-related impacts 
+ — 
+ 
+ 
+ 0 
+ 
+ 
+ NM 
+ 
+ 
+ Operating (non-GAAP) selling, general and administrative expense 
+ $ 
+ 17,964 
+ 
+ 
+ $ 
+ 17,529 
+ 
+ 
+ 2.5 
+ % 
+ NM–Not meaningful 
+ Total selling, general and administrative (SG&A) expense increased 2.1 percent in 2023 versus 2022, driven primarily by the following factors: 
+ • Higher workforce rebalancing charges (2 points) to address remaining stranded cost from portfolio actions; and 
+ • Higher net spending (1 point) reflecting our continued investment to drive our hybrid cloud and AI strategy, partially offset by benefits from productivity actions. 
+ Operating (non-GAAP) SG&A expense increased 2.5 percent year to year primarily driven by the same factors. 
+ Provisions for expected credit loss expense was $10 million in 2023 as compared to $64 million in 2022. The year-to-year change was primarily driven by lower specific reserve requirements in the current year. Refer to "Receivables and Allowances" section on page 25 for additional information. 
+ Research, Development and Engineering Expense 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ($ in millions) 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the year ended December 31: 
+ 2023 
+ 
+ 2022 
+ 
+ Yr.-to-Yr. Percent Change 
+ 
+ Total research, development and engineering 
+ $ 
+ 6,775 
+ 
+ 
+ $ 
+ 6,567 
+ 
+ 
+ 3.2 
+ % 
+ Research, development and engineering (RD&E) expense increased 3.2 percent in 2023 versus 2022, primarily driven by higher spending (4 points) reflecting our continued investment to drive innovation in AI, hybrid cloud and quantum, partially offset by the effects of currency (1 point). 
+ Intellectual Property and Custom Development Income 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ($ in millions) 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the year ended December 31: 
+ 2023 
+ 
+ 2022 
+ 
+ Yr.-to-Yr. Percent Change 
+ 
+ Licensing of intellectual property including royalty-based fees 
+ $ 
+ 366 
+ 
+ 
+ $ 
+ 397 
+ 
+ 
+ (7.7) 
+ % 
+ 
+ Custom development income 
+ 485 
+ 
+ 
+ 246 
+ 
+ 
+ 97.2 
+ 
+ 
+ Sales/other transfers of intellectual property 
+ 8 
+ 
+ 
+ 21 
+ 
+ 
+ (60.1) 
+ 
+ 
+ Total 
+ $ 
+ 860 
+ 
+ 
+ $ 
+ 663 
+ 
+ 
+ 29.6 
+ % 
+ Total Intellectual Property and Custom Development Income increased 29.6 percent in 2023 compared to 2022. The increase was primarily driven by a three-year joint development and licensing agreement signed in the fourth quarter of 2022 with a Japanese consortium to leverage our intellectual property and expertise on advanced semiconductors. 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Management Discussion 
+ International Business Machines Corporation and Subsidiary Companies 
+ 
+ 23 
+ The timing and amount of licensing, sales or other transfers of IP may vary significantly from period to period depending upon the timing of licensing agreements, economic conditions, industry consolidation and the timing of new patents and know-how development. 
+ Other (Income) and Expense 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ($ in millions) 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the year ended December 31: 
+ 2023 
+ 
+ 2022 
+ 
+ Yr.-to-Yr. Percent Change 
+ 
+ Other (income) and expense 
+ 
+ 
+ 
+ 
+ 
+ 
+ Foreign currency transaction losses/(gains) 
+ $ 
+ 116 
+ 
+ 
+ $ 
+ (643) 
+ 
+ 
+ NM 
+ 
+ 
+ (Gains)/losses on derivative instruments 
+ (17) 
+ 
+ 
+ 225 
+ 
+ 
+ NM 
+ 
+ 
+ Interest income 
+ (670) 
+ 
+ 
+ (162) 
+ 
+ 
+ NM 
+ 
+ 
+ Net (gains)/losses from securities and investment assets 
+ (39) 
+ 
+ 
+ 278 
+ 
+ 
+ NM 
+ 
+ 
+ 
+ Retirement-related costs/(income) (1) 
+ (39) 
+ 
+ 
+ 6,548 
+ 
+ 
+ NM 
+ 
+ 
+ Other 
+ (266) 
+ 
+ 
+ (443) 
+ 
+ 
+ (40.1) 
+ % 
+ 
+ Total other (income) and expense 
+ $ 
+ (914) 
+ 
+ 
+ $ 
+ 5,803 
+ 
+ 
+ NM 
+ 
+ 
+ Non-operating adjustments 
+ 
+ 
+ 
+ 
+ 
+ 
+ Amortization of acquired intangible assets 
+ (1) 
+ 
+ 
+ (2) 
+ 
+ 
+ (66.7) 
+ 
+ 
+ 
+ Acquisition-related charges (2) 
+ 11 
+ 
+ 
+ (1) 
+ 
+ 
+ NM 
+ 
+ 
+ 
+ Non-operating retirement-related costs/(income) (1) 
+ 39 
+ 
+ 
+ (6,548) 
+ 
+ 
+ NM 
+ 
+ 
+ Kyndryl-related impacts 
+ — 
+ 
+ 
+ (351) 
+ 
+ 
+ (100.0) 
+ 
+ 
+ Operating (non-GAAP) other (income) and expense 
+ $ 
+ (866) 
+ 
+ 
+ $ 
+ (1,099) 
+ 
+ 
+ (21.3) 
+ % 
+ (1) 2022 includes a one-time, non-cash pension settlement charge of $5.9 billion. 
+ (2) 2023 includes a gain of $12 million on foreign exchange call option contracts related to the company’s announced acquisition of StreamSets and webMethods from Software AG. Refer to note E, “Acquisitions & Divestitures,” for additional information. 
+ NM–Not meaningful 
+ Total other (income) and expense was income of $914 million in 2023 compared to expense of $5,803 million in 2022. The year-to-year change was primarily driven by: 
+ • Lower non-operating retirement-related cost ($6,587 million) primarily driven by the pension settlement charge in 2022. Refer to note V, “Retirement-Related Benefits,” for additional information; and 
+ • Higher interest income ($508 million) driven by higher average interest rates and a higher average cash balance in the current year; and 
+ • Losses on Kyndryl retained shares ($267 million) in the prior year; partially offset by 
+ • Net exchange losses (including foreign exchange derivative instruments) in the current year versus net exchange gains in the prior year ($516 million). The prior-year (gains)/losses on derivative instruments also includes a loss on the cash-settled swap related to the Kyndryl retained shares; and 
+ • Lower gains on divestitures ($277 million) primarily driven by the divestiture of our healthcare software assets in 2022 (included in “Other”). 
+ Operating (non-GAAP) other (income) and expense was $866 million of income in 2023 and decreased $234 million compared to the prior year. The year-to-year decrease was driven primarily by the effects of currency and lower gains on divestitures, partially offset by higher interest income described above. 
+ Interest Expense 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ($ in millions) 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the year ended December 31: 
+ 2023 
+ 
+ 2022 
+ 
+ Yr.-to-Yr. Percent Change 
+ 
+ Total interest expense 
+ $ 
+ 1,607 
+ 
+ 
+ $ 
+ 1,216 
+ 
+ 
+ 32.1 
+ % 
+ Interest expense of $1,607 million in 2023 increased $391 million compared to 2022. Interest expense is presented in cost of financing in the Consolidated Income Statement only if the related external borrowings are to support the Financing external 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 24 
+ 
+ Management Discussion 
+ International Business Machines Corporation and Subsidiary Companies 
+ 
+ business. Overall interest expense (excluding capitalized interest) in 2023 was $1,940 million, an increase of $379 million year to year primarily driven by higher average interest rates and a higher average debt balance in the current yea r. 
+ 
+ Stock-Based Compensation 
+ Pre-tax stock-based compensation cost of $1,133 million increased $146 million compared to 2022. This was primarily due to increases from restricted stock units ($84 million), stock options ($32 million) and Employee Stock Purchase Plan (ESPP) ($21 million). The increases are driven by stock-based compensation awards granted as part of our annual cycles for executives and other employees, and the ESPP being considered compensatory effective April 1, 2022. Stock-based compensation cost, and the year-to-year change, was reflected in the following categories: Cost: $190 million, up $26 million; SG&A expense: $616 million, up $50 million; and RD&E expense: $328 million, up $70 million. 
+ 
+ Retirement-Related Plans 
+ The following table provides the total pre-tax cost for all retirement-related plans. Total operating costs/(income) are included in the Consolidated Income Statement within the caption (e.g., Cost, SG&A, RD&E) relating to the job function of the plan participants. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ($ in millions) 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the year ended December 31: 
+ 2023 
+ 
+ 2022 
+ 
+ Yr.-to-Yr. Percent Change 
+ 
+ Retirement-related plans–cost 
+ 
+ 
+ 
+ 
+ 
+ 
+ Service cost 
+ $ 
+ 183 
+ 
+ 
+ $ 
+ 245 
+ 
+ 
+ (25.2) 
+ % 
+ 
+ Multi-employer plans 
+ 13 
+ 
+ 
+ 15 
+ 
+ 
+ (10.6) 
+ 
+ 
+ Cost of defined contribution plans 
+ 991 
+ 
+ 
+ 924 
+ 
+ 
+ 7.2 
+ 
+ 
+ Total operating costs/(income) 
+ $ 
+ 1,188 
+ 
+ 
+ $ 
+ 1,184 
+ 
+ 
+ 0.3 
+ % 
+ 
+ Interest cost 
+ $ 
+ 2,415 
+ 
+ 
+ $ 
+ 1,731 
+ 
+ 
+ 39.5 
+ % 
+ 
+ Expected return on plan assets 
+ (2,971) 
+ 
+ 
+ (2,747) 
+ 
+ 
+ 8.2 
+ 
+ 
+ Recognized actuarial losses 
+ 508 
+ 
+ 
+ 1,568 
+ 
+ 
+ (67.6) 
+ 
+ 
+ Amortization of prior service costs/(credits) 
+ (9) 
+ 
+ 
+ 12 
+ 
+ 
+ NM 
+ 
+ 
+ 
+ Curtailments/settlements (1) 
+ 5 
+ 
+ 
+ 5,970 
+ 
+ 
+ (99.9) 
+ % 
+ 
+ Other costs 
+ 13 
+ 
+ 
+ 15 
+ 
+ 
+ (11.8) 
+ 
+ 
+ 
+ Total non-operating costs/(income) (1) 
+ $ 
+ (39) 
+ 
+ 
+ $ 
+ 6,548 
+ 
+ 
+ NM 
+ 
+ 
+ 
+ Total retirement-related plans–cost (1) 
+ $ 
+ 1,149 
+ 
+ 
+ $ 
+ 7,732 
+ 
+ 
+ (85.1) 
+ % 
+ (1) 2022 includes a one-time, non-cash pension settlement charge of $5.9 billion. 
+ NM–Not meaningful 
+ Total pre-tax retirement-related plan cost decreased by $6,583 million compared to 2022, primarily due to a decrease in curtailment/settlements ($5,965 million) driven by the $5.9 billion pension settlement charge in 2022, lower recognized actuarial losses ($1,060 million), higher expected returns on plan assets ($224 million) and lower service cost ($62 million) partially offset by higher interest costs ($684 million) and higher cost of defined contribution plans ($67 million). 
+ As discussed in the “Operating (non-GAAP) Earnings” section, we characterize certain retirement-related costs as operating and others as non-operating. Utilizing this characterization, operating retirement-related costs in 2023 were $1,188 million, an increase of $3 million compared to 2022. Non-operating income was $39 million in 2023 as compared to cost of $6,548 million in 2022. The year-to-year change was driven primarily by the pension settlement charge in the prior year, lower recognized actuarial losses, and lower service cost partially offset by higher interest costs and higher cost of defined contribution plans. 
+ 
+ Income Taxes 
+ The continuing operations effective tax rate for 2023 was 13.5 percent compared to (54.2) percent in 2022. The prior-year effective tax rate was primarily driven by the transfer of a portion of the Qualified PPP’s defined benefit pension obligations and related plan assets. The operating (non-GAAP) effective tax rate for 2023 was 14.0 percent compared to 15.2 percent in 2022. For additional information, refer to note H, “Taxes.” 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Management Discussion 
+ International Business Machines Corporation and Subsidiary Companies 
+ 
+ 25 
+ Financial Position 
+ 
+ Dynamics 
+ Our balance sheet at December 31, 2023 continues to provide us with flexibility to support and invest in the business. 
+ Cash and cash equivalents, restricted cash and marketable securities at December 31, 2023 were $13,462 million, an increase of $4,622 million compared to prior-year end. Total debt of $56,547 million increased $5,598 million from prior-year end primarily due to net debt issuances. We were opportunistic in accessing the debt market and issued $9,463 million of debt in the first quarter of 2023 to prudently plan for our debt maturity obligations in 2023 and 2024 as well as capital allocation priorities. We continue to manage our debt levels while being acquisitive and without sacrificing investments in our business. 
+ During 2023, we generated $13,931 million in cash from operating activities, an increase of $3,496 million compared to 2022. Our free cash flow for 2023 was $11,210 million, an increase of $1,919 million versus the prior year. Refer to page 31 for additional information on free cash flow. Our strong cash generation has enabled us to be acquisitive and increase our investment in R&D, strengthening our AI and hybrid cloud capabilities, while supporting continued shareholder returns through dividends. We invested $5,082 million in acquisitions and returned $6,040 million to shareholders through dividends in 2023. Our cash generation supports investment and deployment of capital to areas with the most attractive long-term opportunities. 
+ Consistent with accounting standards, the company remeasured the funded status of our retirement and postretirement plans at December 31. The overall net underfunded position at December 31, 2023 was $4,006 million, an increase of $1,855 million from the prior-year end, primarily due to lower discount rates. At year end, our qualified defined benefit pension plans were well funded and the required contributions related to these plans and multi-employer plans are expected to be $200 million in 2024. In 2023, the return on the U.S. Personal Pension Plan assets was 4.3 percent and the plan was 123 percent funded at December 31, 2023. Overall, global asset returns were 4.5 percent and the qualified defined benefit plans worldwide were 111 percent funded at December 31, 2023. 
+ 
+ 
+ IBM Working Capital 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ($ in millions) 
+ 
+ 
+ 
+ 
+ At December 31: 
+ 2023 
+ 
+ 2022 
+ 
+ Current assets 
+ $ 
+ 32,908 
+ 
+ 
+ $ 
+ 29,118 
+ 
+ 
+ Current liabilities 
+ 34,122 
+ 
+ 31,505 
+ 
+ Working capital 
+ $ 
+ (1,214) 
+ 
+ 
+ $ 
+ (2,387) 
+ 
+ 
+ Current ratio 
+ 0.96:1 
+ 
+ 0.92:1 
+ Working capital increased $1,173 million from the year-end 2022 position. Current assets increased $3,790 million ($3,626 million adjusted for currency) primarily in cash and cash equivalents; partially offset by a decrease in short-term financing receivables and inventories. Current liabilities increased $2,617 million ($2,426 million adjusted for currency) primarily in short-term debt driven by reclassifications from long-term debt net of maturities and from deferred income. 
+ 
+ Receivables and Allowances 
+ Roll Forward of Total IBM Receivables Allowance for Credit Losses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ($ in millions) 
+ 
+ January 1, 2023 
+ 
+ 
+ Additions/ 
+ (Releases) (1) 
+ 
+ 
+ Write-offs (2) 
+ 
+ 
+ Foreign currency 
+ and other (3) 
+ 
+ December 31, 2023 
+ 
+ $495 
+ 
+ $11 
+ 
+ $(97) 
+ 
+ $48 
+ 
+ $457 
+ (1) Additions/(Releases) for allowance for credit losses are recorded in expense . 
+ (2) Refer to note A, “Significant Accounting Policies,” for additional information regarding allowance for credit loss write-offs. 
+ (3) Other includes additions/(releases) related to discontinued operations. 
+ Excluding receivables classified as held for sale, the total IBM receivables provision coverage was 2.2 percent at December 31, 2023, a decrease of 20 basis points compared to December 31, 2022. The decrease in coverage is due to declines in reserves primarily driven by write-offs. The majority of the write-offs during the year related to receivables which had been previously reserved. Refer to Financing's "Financial Position" on page 39 for additional details regarding the Financing segment receivables and allowances. 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 26 
+ 
+ Management Discussion 
+ International Business Machines Corporation and Subsidiary Companies 
+ 
+ Noncurrent Assets and Liabilities 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ($ in millions) 
+ 
+ 
+ 
+ 
+ 
+ At December 31: 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ Noncurrent assets 
+ 
+ $ 
+ 102,333 
+ 
+ 
+ $ 
+ 98,125 
+ 
+ 
+ Long-term debt 
+ 
+ $ 
+ 50,121 
+ 
+ 
+ $ 
+ 46,189 
+ 
+ 
+ Noncurrent liabilities (excluding debt) 
+ 
+ $ 
+ 28,385 
+ 
+ 
+ $ 
+ 27,528 
+ 
+ The increase in noncurrent assets of $4,208 million ($3,495 million adjusted for currency) was primarily due to goodwill mainly related to the Apptio acquisition; partially offset by a decrease in prepaid pension assets. 
+ Long-term debt increased $3,932 million ($3,531 million adjusted for currency) primarily driven by debt issuances; partially offset by reclassifications to short-term debt to reflect upcoming maturities. 
+ Noncurrent liabilities (excluding debt) increased $858 million ($605 million adjusted for currency) primarily driven by retirement and postretirement benefit obligations due to plan remeasurements. 
+ 
+ Debt 
+ Our funding requirements are continually monitored as we execute our strategies to manage the overall asset and liability profile. Additionally, we maintain sufficient flexibility to access global funding sources as needed. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ($ in millions) 
+ 
+ 
+ 
+ 
+ 
+ At December 31: 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ Total debt 
+ 
+ $ 
+ 56,547 
+ 
+ 
+ $ 
+ 50,949 
+ 
+ 
+ 
+ Financing segment debt (1) 
+ 
+ $ 
+ 11,879 
+ 
+ 
+ $ 
+ 12,872 
+ 
+ 
+ Non-Financing debt 
+ 
+ $ 
+ 44,668 
+ 
+ 
+ $ 
+ 38,077 
+ 
+ (1) Refer to Financing’s “Financial Position” on page 38 for additional details. 
+ Total debt of $56,547 million increased $5,598 million ($5,181 million adjusted for currency) from December 31, 2022, primarily driven by proceeds from issuances of $9,586 million; partially offset by maturities of $5,082 million. 
+ Non-Financing debt of $44,668 million increased $6,591 million ($6,230 million adjusted for currency) from December 31, 2022, primarily driven by our first quarter debt issuances to plan for debt maturity obligations in 2023 and 2024 as well as capital allocation priorities. 
+ Financing segment debt of $11,879 million decreased $992 million ($1,049 million adjusted for currency) from December 31, 2022, primarily due to lower funding requirements associated with financing receivables. 
+ Financing provides financing solutions predominantly for IBM’s external client assets, and the debt used to fund Financing assets is primarily composed of intercompany loans. Total debt changes generally correspond with the level of client and commercial financing receivables, the level of cash and cash equivalents, the change in intercompany and external payables and the change in intercompany investment from IBM. The terms of the intercompany loans are set by the company to substantially match the term, currency and interest rate variability underlying the financing receivable. The Financing debt-to-equity ratio remained at 9.0 to 1 at December 31, 2023. 
+ Interest expense relating to debt supporting Financing’s external client and internal business is included in the “Financing Results of Operations” and in note D, “Segments.” In the Consolidated Income Statement, the external debt-related interest expense supporting Financing’s internal financing to the company is classified as interest expense. 
+ 
+ Equity 
+ Total equity increased $592 million from December 31, 2022, primarily driven by an increase from net income of $7,502 million and common stock of $1,300 million; partially offset by dividends paid of $6,040 million and an increase in accumulated other comprehensive loss of $2,021 million driven by retirement-related benefit plans. 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Management Discussion 
+ International Business Machines Corporation and Subsidiary Companies 
+ 
+ 27 
+ Cash Flow 
+ Our cash flows from operating, investing and financing activities, as reflected in the Consolidated Statement of Cash Flows on page 47 , are summarized in the table below. These amounts also include the cash flows associated with the Financing business. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ($ in millions) 
+ 
+ 
+ 
+ 
+ 
+ For the year ended December 31: 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ Net cash provided by/(used in) 
+ 
+ 
+ 
+ 
+ 
+ Operating activities 
+ 
+ $ 
+ 13,931 
+ 
+ 
+ $ 
+ 10,435 
+ 
+ 
+ Investing activities 
+ 
+ (7,070) 
+ 
+ 
+ (4,202) 
+ 
+ 
+ Financing activities 
+ 
+ (1,769) 
+ 
+ 
+ (4,958) 
+ 
+ 
+ Effect of exchange rate changes on cash, cash equivalents and restricted cash 
+ 
+ 9 
+ 
+ 
+ (244) 
+ 
+ 
+ Net change in cash, cash equivalents and restricted cash 
+ 
+ $ 
+ 5,101 
+ 
+ 
+ $ 
+ 1,032 
+ 
+ Net cash provided by operating activities increased $3,496 million in 2023. This was due to an increase in cash provided by financing receivables, performance-related improvements within net income and sales cycle working capital efficiencies. 
+ Net cash used in investing activities increased $2,868 million mainly driven by the Apptio acquisition, and a decrease in cash provided by divestitures; partially offset by higher net proceeds from marketable securities and other investments. 
+ Net cash used in financing activities decreased $3,188 million mainly due to an increase in net cash provided by debt of $3,276 million primarily driven by a higher level of issuances and lower level of maturities in the current year . 
+ 
+ Discontinued Operations 
+ Loss from discontinued operations was $12 million in 2023 compared to $143 million in the prior-year period. The results for both periods reflect the net impact of changes in separation-related estimates and the settlement of assets and liabilities in accordance with the separation and distribution agreement. The prior-year results also reflect a gain on sale of a joint venture historically managed by Kyndryl, which was sold to Kyndryl in the first quarter of 2022 upon receiving regulatory approval. The discontinued operations provision for income taxes for the year ended December 31, 2022 primarily reflects the impact of provision to return adjustments on the Kyndryl-related taxes. Refer to note E, "Acquisitions & Divestitures," for additional information. 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 28 
+ 
+ Management Discussion 
+ International Business Machines Corporation and Subsidiary Companies 
+ 
+ GAAP Reconciliation 
+ The tables below provide a reconciliation of our income statement results as reported under GAAP to our operating earnings presentation which is a non-GAAP measure. Management’s calculation of operating (non-GAAP) earnings, as presented, may differ from similarly titled measures reported by other companies. Please refer to the “Operating (non-GAAP) Earnings” section for management’s rationale for presenting operating earnings information. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ($ in millions except per share amounts) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the year ended December 31, 2023: 
+ 
+ GAAP 
+ 
+ Acquisition- Related Adjustments 
+ 
+ Retirement- Related Adjustments 
+ 
+ U.S. Tax Reform Impacts 
+ 
+ Kyndryl- Related Impacts 
+ 
+ Operating (non-GAAP) 
+ 
+ Gross profit 
+ 
+ $ 
+ 34,300 
+ 
+ 
+ $ 
+ 631 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ 34,931 
+ 
+ 
+ Gross profit margin 
+ 
+ 55.4 
+ % 
+ 
+ 1.0 
+ pts. 
+ 
+ — 
+ pts. 
+ 
+ — 
+ pts. 
+ 
+ — 
+ pts. 
+ 
+ 56.5 
+ % 
+ 
+ SG&A 
+ 
+ $ 
+ 19,003 
+ 
+ 
+ $ 
+ (1,039) 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ 17,964 
+ 
+ 
+ 
+ Other (income) and expense (1) 
+ 
+ (914) 
+ 
+ 
+ 10 
+ 
+ 
+ 39 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ (866) 
+ 
+ 
+ Total expense and other (income) 
+ 
+ 25,610 
+ 
+ 
+ (1,029) 
+ 
+ 
+ 39 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ 24,620 
+ 
+ 
+ Pre-tax income from continuing operations 
+ 
+ 8,690 
+ 
+ 
+ 1,660 
+ 
+ 
+ (39) 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ 10,311 
+ 
+ 
+ Pre-tax margin from continuing operations 
+ 
+ 14.0 
+ % 
+ 
+ 2.7 
+ pts. 
+ 
+ (0.1) 
+ pts. 
+ 
+ — 
+ pts. 
+ 
+ — 
+ pts. 
+ 
+ 16.7 
+ % 
+ 
+ 
+ Provision for income taxes (3) 
+ 
+ $ 
+ 1,176 
+ 
+ 
+ $ 
+ 368 
+ 
+ 
+ $ 
+ (8) 
+ 
+ 
+ $ 
+ (95) 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ 1,441 
+ 
+ 
+ Effective tax rate 
+ 
+ 13.5 
+ % 
+ 
+ 1.4 
+ pts. 
+ 
+ 0.0 
+ pts. 
+ 
+ (0.9) 
+ pts. 
+ 
+ — 
+ pts. 
+ 
+ 14.0 
+ % 
+ 
+ Income from continuing operations 
+ 
+ $ 
+ 7,514 
+ 
+ 
+ $ 
+ 1,292 
+ 
+ 
+ $ 
+ (30) 
+ 
+ 
+ $ 
+ 95 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ 8,870 
+ 
+ 
+ Income margin from continuing operations 
+ 
+ 12.1 
+ % 
+ 
+ 2.1 
+ pts. 
+ 
+ 0.0 
+ pts. 
+ 
+ 0.2 
+ pts. 
+ 
+ — 
+ pts. 
+ 
+ 14.3 
+ % 
+ 
+ Diluted earnings per share from continuing operations 
+ 
+ $ 
+ 8.15 
+ 
+ 
+ $ 
+ 1.40 
+ 
+ 
+ $ 
+ (0.03) 
+ 
+ 
+ $ 
+ 0.10 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ 9.62 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ($ in millions except per share amounts) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the year ended December 31, 2022: 
+ 
+ GAAP 
+ 
+ Acquisition- Related Adjustments 
+ 
+ 
+ Retirement- 
+ Related 
+ Adjustments (2) 
+ 
+ U.S. Tax Reform Impacts 
+ 
+ Kyndryl- Related Impacts 
+ 
+ Operating (non-GAAP) 
+ 
+ Gross profit 
+ 
+ $ 
+ 32,687 
+ 
+ 
+ $ 
+ 682 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ 33,370 
+ 
+ 
+ Gross profit margin 
+ 
+ 54.0 
+ % 
+ 
+ 1.1 
+ pts. 
+ 
+ — 
+ pts. 
+ 
+ — 
+ pts. 
+ 
+ — 
+ pts. 
+ 
+ 55.1 
+ % 
+ 
+ SG&A 
+ 
+ $ 
+ 18,609 
+ 
+ 
+ $ 
+ (1,080) 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ 0 
+ 
+ 
+ $ 
+ 17,529 
+ 
+ 
+ Other (income) and expense 
+ 
+ 5,803 
+ 
+ 
+ (3) 
+ 
+ 
+ (6,548) 
+ 
+ 
+ — 
+ 
+ 
+ (351) 
+ 
+ 
+ (1,099) 
+ 
+ 
+ Total expense and other (income) 
+ 
+ 31,531 
+ 
+ 
+ (1,083) 
+ 
+ 
+ (6,548) 
+ 
+ 
+ — 
+ 
+ 
+ (351) 
+ 
+ 
+ 23,549 
+ 
+ 
+ Pre-tax income from continuing operations 
+ 
+ 1,156 
+ 
+ 
+ 1,765 
+ 
+ 
+ 6,548 
+ 
+ 
+ — 
+ 
+ 
+ 351 
+ 
+ 
+ 9,821 
+ 
+ 
+ Pre-tax margin from continuing operations 
+ 
+ 1.9 
+ % 
+ 
+ 2.9 
+ pts. 
+ 
+ 10.8 
+ pts. 
+ 
+ — 
+ pts. 
+ 
+ 0.6 
+ pts. 
+ 
+ 16.2 
+ % 
+ 
+ 
+ Provision for/(benefit from) income taxes (3) 
+ 
+ $ 
+ (626) 
+ 
+ 
+ $ 
+ 436 
+ 
+ 
+ $ 
+ 1,615 
+ 
+ 
+ $ 
+ 70 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ 1,495 
+ 
+ 
+ Effective tax rate 
+ 
+ (54.2) 
+ % 
+ 
+ 14.2 
+ pts. 
+ 
+ 52.6 
+ pts. 
+ 
+ 0.7 
+ pts. 
+ 
+ 1.9 
+ pts. 
+ 
+ 15.2 
+ % 
+ 
+ Income from continuing operations 
+ 
+ $ 
+ 1,783 
+ 
+ 
+ $ 
+ 1,329 
+ 
+ 
+ $ 
+ 4,933 
+ 
+ 
+ $ 
+ (70) 
+ 
+ 
+ $ 
+ 351 
+ 
+ 
+ $ 
+ 8,326 
+ 
+ 
+ Income margin from continuing operations 
+ 
+ 2.9 
+ % 
+ 
+ 2.2 
+ pts. 
+ 
+ 8.1 
+ pts. 
+ 
+ (0.1) 
+ pts. 
+ 
+ 0.6 
+ pts. 
+ 
+ 13.8 
+ % 
+ 
+ Diluted earnings per share from continuing operations 
+ 
+ $ 
+ 1.95 
+ 
+ 
+ $ 
+ 1.46 
+ 
+ 
+ $ 
+ 5.41 
+ 
+ 
+ $ 
+ (0.08) 
+ 
+ 
+ $ 
+ 0.38 
+ 
+ 
+ $ 
+ 9.13 
+ 
+ (1) Acquisition-Related Adjustments in 2023 includes a gain of $12 million on foreign exchange call option contracts related to the company’s planned acquisition of StreamSets and webMethods from Software AG. Refer to note E, “Acquisitions & Divestitures,” for additional information. 
+ (2) Retirement-Related Adjustments in 2022 includes a one-time, non-cash, pre-tax pension settlement charge of $5.9 billion ($4.4 billion after tax). Refer to note V, “Retirement-Related Benefits,” for additional information. 
+ (3) The tax impact on operating (non-GAAP) pre-tax income is calculated under the same accounting principles applied to the GAAP pre-tax income which employs an annual effective tax rate method to the result s. 
+ 
+ PRIOR YEAR IN REVIEW 
+ Refer to "Year in Review" on pages 17 through 29 of the "Management Discussion" section of our 2022 Annual Report on Form 10-K for a discussion on our financial condition and results of operations for the year ended December 31, 2022 compared to the year ended December 31, 2021. 
+ 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Management Discussion 
+ International Business Machines Corporation and Subsidiary Companies 
+ 
+ 29 
+ OTHER INFORMATION 
+ 
+ Looking Forward 
+ Technology has proven to be a fundamental source of competitive advantage. Continued demand for technology will serve as a major driving force behind global economic and business growth as businesses look to scale, offer better services, drive efficiencies and seize new market opportunities. Our clients are asking how to boost productivity with AI and how to manage their technology stack, much of which is deployed across a hybrid environment: public, private and on-premise. These trends continue to fuel demand for both hybrid cloud and AI. 
+ Hybrid Cloud and AI Progress 
+ We entered 2023 intent on enhancing our Software portfolio and strengthening our Consulting position. We have accomplished both. In mid-2023, we launched watsonx, our flagship AI and data platform that enables clients to train, tune, validate and deploy AI models and we continue to build additional capabilities to help clients and partners capitalize on the AI opportunity. Consulting has delivered consistent revenue growth throughout 2023 despite an uneven macroeconomic environment. Our integrated value proposition, expanding ecosystem, skills and technical expertise, global reach and co-creation approach, set us apart and contributed to our Consulting performance outpacing that of our competitors. 2023 also underscored the enduring nature and relevance of our zSystems platform with the z16 program significantly outperforming prior cycles including the successful z15 cycle. 
+ We continue to drive our productivity initiatives as we digitally transform our business processes and scale AI within IBM. We have achieved over $1.5 billion in savings from these productivity initiatives through 2023 and believe we can achieve at least $3.0 billion in annual run-rate savings by the end of 2024. The savings have allowed us to increase our investments in innovation, technical and industry skills and go-to-market capabilities, including our ecosystem. As we continue to execute productivity initiatives, we expect workforce rebalancing to be consistent with 2023 levels. 
+ To complement our portfolio, we completed nine acquisitions in 2023, including Apptio, and we announced the acquisition of StreamSets and webMethods from Software AG which is expected to close in mid-year 2024. We also announced the Enterprise AI Venture Fund, a $500 million fund with the goal of partnering with the startup community to understand the latest AI innovations in the market to help them scale. As we remain focused on portfolio optimization, we completed the sale of our Weather Company assets in January 2024. 
+ We are pleased with the progress we have made. Over the last two years, we aligned our business to a platform-centric model, focused on hybrid cloud and AI. Our go-to-market is based on more technical and experiential selling. We opened our ecosystem and strategic partnerships to give our clients greater choice and technical depth. And we have invested in innovation and skills and pursued strategic acquisitions. These actions resulted in a fundamentally different company with an improved business mix, a higher value recurring revenue base and solid cash generation – a business well positioned for the future. 
+ Effective January 1, 2024, we changed how we provide certain retirement-related benefits in the U.S. We are providing a new benefit to most U.S. employees under our existing U.S. Defined Benefit Qualified Personal Pension Plan (Qualified PPP) called the Retirement Benefit Account (RBA). This is in place of our contributions to the U.S. employees' 401(k) Plus accounts. IBM U.S. regular full-time and part-time employees with at least one year of service will participate in the RBA. Each eligible employee's RBA will be credited monthly with an amount equal to five percent of their eligible pay with no employee contribution required. Under the RBA, eligible employees will earn six percent interest through 2026 and starting in 2027, will earn interest equal to the 10-year U.S. Treasury Yield, subject to a three percent minimum per year through 2033. Eligible employees also received a salary increase effective January 1, 2024 for the difference between the IBM 401(k) Plus contribution percent they were previously entitled to receive and the five percent RBA pay credit. Since the RBA is a component of the Qualified PPP, it will be funded by the trust for the Qualified PPP along with other benefits in the Qualified PPP. At December 31, 2023, the Qualified PPP was 123 percent funded with assets exceeding liabilities by $4.6 billion. 
+ As a result of this change, service cost within the Qualified PPP is expected to increase by approximately $0.4 billion and cost of defined contribution plans is expected to decline by approximately $0.5 billion in 2024. Including the employee salary increase described above, the net impact to the company’s operating costs is expected to be immaterial. In addition, inactive pension plan participants no longer represent substantially all of the participants in the U.S. Qualified PPP. As required by U.S. GAAP, this will change the amortization period of unrecognized actuarial losses from the average remaining life expectancy of inactive plan participants, to the average remaining service period of active plan participants. This will result in an increase to 2024 amortization expense of approximately $0.3 billion. Actuarial loss amortization is reported within non-operating pension costs. There will be no impact to 2024 operating (non-GAAP) earnings, funded status, retiree benefit payments or funding requirements of the U.S. Qualified PPP due to the change in amortization period. 
+ Our retirement-related plans remain in a strong financial position. In aggregate, our worldwide qualified plans are funded 111 percent, with the U.S. at 123 percent. Contributions for all retirement-related plans are expected to be approximately $1.5 billion in 2024, of which approximately $0.2 billion generally relates to legally required contributions to non-U.S. defined benefits and multi-employer plans. The expected decrease of $0.3 billion in total contributions for 2024 is primarily driven by ongoing dynamics of our 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 30 
+ 
+ Management Discussion 
+ International Business Machines Corporation and Subsidiary Companies 
+ 
+ retirement-related plans, including the change in U.S. retirement-related benefits described above. We expect 2024 pre-tax retirement-related plan cost to be approximately $1.5 billion. This estimate reflects current pension plan assumptions at December 31, 2023. Within total retirement-related plan cost, operating retirement-related plan cost is expected to be approximately $1.1 billion in 2024, a decrease of approximately $0.1 billion compared to 2023. Non-operating retirement-related plan cost is expected to be approximately $0.4 billion, an increase of approximately $0.5 billion compared to 2023, primarily driven by higher recognized actuarial losses, partially offset by lower interest cost. 
+ In addition, in the first quarter of 2024, we announced changes to our organizational structure and management system to better align our portfolio to the market, increase transparency and improve segment comparability to peers. These changes will not impact our Consolidated Financial Statements, but will impact our reportable segments beginning in the first quarter of 2024. The changes include: Security services, previously reported in Software segment moved to the Consulting segment; The Weather Company assets, divested in January 2024, previously reported in Software segment moved to Other - divested businesses category; and stock-based compensation expense and non-Financing net interest expense are no longer included in our reportable segment results, consistent with our management system. Since these changes did not occur until first-quarter 2024, the periods presented in this Annual Report are reported under the historical segments. Refer to note D, “Segments,” for additional information . 
+ We recognized a pre-tax gain on the sale of The Weather Company assets of approximately $240 million at closing. The tax impact of the transaction will be included in our 2024 annual effective tax rate. On a full year basis, the gain on sale, net of tax, and forgone profit is expected to be immaterial. 
+ 
+ Liquidity and Capital Resources 
+ We have generated strong cash flow from operations allowing us to invest and deploy capital to areas with the most attractive long-term opportunities. We provide for additional liquidity through several sources: maintaining an adequate cash balance, access to global funding sources, committed global credit facilities and other committed and uncommitted lines of credit worldwide. The following table provides a summary of the major sources of liquidity for the years ended December 31, 2021 through 2023. 
+ Cash Flow and Liquidity Trends 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ($ in billions) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ 2021 
+ 
+ 
+ Net cash from operating activities 
+ 
+ $ 
+ 13.9 
+ 
+ 
+ $ 
+ 10.4 
+ 
+ 
+ $ 
+ 12.8 
+ 
+ 
+ Cash and cash equivalents, restricted cash and short-term marketable securities 
+ 
+ $ 
+ 13.5 
+ 
+ 
+ $ 
+ 8.8 
+ 
+ 
+ $ 
+ 7.6 
+ 
+ 
+ 
+ Committed global credit facilities (1) 
+ 
+ $ 
+ 10.0 
+ 
+ 
+ $ 
+ 10.0 
+ 
+ 
+ $ 
+ 10.0 
+ 
+ (1) Refer to note P, “Borrowings,” for additional information. 
+ The indenture governing our debt securities and our various credit facilities each contain significant covenants which obligate the company to promptly pay principal and interest, limit the aggregate amount of secured indebtedness and sale and leaseback transactions to 10 percent of IBM’s consolidated net tangible assets, and restrict our ability to merge or consolidate unless certain conditions are met. The credit facilities also include a covenant on our consolidated net interest expense ratio, which cannot be less than 2.20 to 1.0, as well as a cross default provision with respect to other defaulted indebtedness of at least $500 million. 
+ We are in compliance with all of our significant debt covenants and provide periodic certification to our lenders. The failure to comply with debt covenants could constitute an event of default with respect to our debt to which such provisions apply. If certain events of default were to occur, the principal and interest on the debt to which such event of default applied would become immediately due and payable. 
+ We do not have “ratings trigger” provisions in our debt covenants or documentation, which would allow the holders to declare an event of default and seek to accelerate payments thereunder in the event of a change in credit rating. Our debt covenants are well within the required levels. Our contractual agreements governing derivative instruments contain standard market clauses which can trigger the termination of the agreement if IBM’s credit rating were to fall below investment grade. At December 31, 2023, the fair value of those instruments that were in a liability position was $593 million, before any applicable netting, and this position is subject to fluctuations in fair value period to period based on the level of our outstanding instruments and market conditions. We have no other contractual arrangements that, in the event of a change in credit rating, would result in a material adverse effect on our financial position or liquidity. 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Management Discussion 
+ International Business Machines Corporation and Subsidiary Companies 
+ 
+ 31 
+ The following table presents the major ratings agencies’ ratings assigned to our debt securities as of December 31, 2023. The Moody's and Standard and Poor’s ratings remain unchanged from December 31, 2022. Additionally, Fitch assigned its credit ratings on our debt securities in the fourth quarter of 2023. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ IBM Ratings 
+ 
+ Standard and Poor’s 
+ 
+ Moody’s Investors Service 
+ 
+ 
+ Fitch Ratings 
+ 
+ Senior long-term debt 
+ 
+ A- 
+ 
+ A3 
+ 
+ A- 
+ 
+ Commercial paper 
+ 
+ A-2 
+ 
+ Prime-2 
+ 
+ F1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ We have ample and increased financial flexibility, supported by our strong liquidity position and cash flows, to operate at a single A credit rating. In 2023, we issued $9.5 billion of debt to plan for our debt maturity obligations in 2023 and 2024, as well as capital allocation priorities. Debt levels increased $5.6 billion from December 31, 2022, driven by net debt issuances. On February 5, 2024, we issued $5.5 billion of debt to increase our financial liquidity and plan for our future debt maturities. Refer to note W, “Subsequent Events,” for additional information. 
+ We prepare our Consolidated Statement of Cash Flows in accordance with applicable accounting standards for cash flow presentation on page 47 and highlight causes and events underlying sources and uses of cash in that format on page 27 . For the purpose of running its business, IBM manages, monitors and analyzes cash flows in a different manner. 
+ Management uses free cash flow as a measure to evaluate its operating results, plan shareholder return levels, strategic investments and assess its ability and need to incur and service debt. The entire free cash flow amount is not necessarily available for discretionary expenditures. We define free cash flow as net cash from operating activities less the change in Financing receivables and net capital expenditures, including the investment in software. A key objective of the Financing business is to generate strong returns on equity, and our Financing receivables are the basis for that growth. Accordingly, management considers Financing receivables as a profit-generating investment, not as working capital that should be minimized for efficiency. Therefore, management includes presentations of both free cash flow and net cash from operating activities that exclude the effect of Financing receivables. 
+ The following is management’s view of cash flows for 2023, 2022 and 2021 prepared in a manner consistent with the description above and is presented on a consolidated basis, including cash flows of discontinued operations. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ($ in billions) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the year ended December 31: 
+ 
+ 2023 
+ 
+ 
+ 2022 (1) 
+ 
+ 2021 
+ 
+ 
+ Net cash from operating activities per GAAP (2) 
+ 
+ $ 
+ 13.9 
+ 
+ 
+ $ 
+ 10.4 
+ 
+ 
+ $ 
+ 12.8 
+ 
+ 
+ Less: the change in Financing receivables 
+ 
+ 1.2 
+ 
+ 
+ (0.7) 
+ 
+ 
+ 3.9 
+ 
+ 
+ Net cash from operating activities, excluding Financing receivables 
+ 
+ 12.7 
+ 
+ 
+ 11.2 
+ 
+ 
+ 8.9 
+ 
+ 
+ Capital expenditures, net 
+ 
+ (1.5) 
+ 
+ 
+ (1.9) 
+ 
+ 
+ (2.4) 
+ 
+ 
+ 
+ Free cash flow (FCF) (3) 
+ 
+ 11.2 
+ 
+ 
+ 9.3 
+ 
+ 
+ 6.5 
+ 
+ 
+ Acquisitions 
+ 
+ (5.1) 
+ 
+ 
+ (2.3) 
+ 
+ 
+ (3.3) 
+ 
+ 
+ Divestitures 
+ 
+ 0.0 
+ 
+ 
+ 1.3 
+ 
+ 
+ 0.1 
+ 
+ 
+ Dividends 
+ 
+ (6.0) 
+ 
+ 
+ (5.9) 
+ 
+ 
+ (5.9) 
+ 
+ 
+ Non-Financing debt 
+ 
+ 5.5 
+ 
+ 
+ 1.9 
+ 
+ 
+ (1.2) 
+ 
+ 
+ 
+ Other (includes Financing receivables and Financing debt) (4) 
+ 
+ (1.0) 
+ 
+ 
+ (2.9) 
+ 
+ 
+ (3.0) 
+ 
+ 
+ Change in cash, cash equivalents, restricted cash and short-term marketable securities 
+ 
+ $ 
+ 4.6 
+ 
+ 
+ $ 
+ 1.3 
+ 
+ 
+ $ 
+ (6.7) 
+ 
+ (1) Includes immaterial cash flows from discontinued operations. 
+ (2) 2021 includes cash flows of discontinued operations of $1.6 billion. 
+ (3) 2021 includes cash impacts of approximately $1.4 billion for Kyndryl-related structural actions and separation charges. 
+ (4) 2021 includes the distribution from Kyndryl of $0.9 billion. 
+ From the perspective of how management views cash flow, in 2023, after investing $1.5 billion in capital investments, we generated free cash flow of $11.2 billion, an increase of $1.9 billion versus the prior year. The year-to-year increase in free cash flow primarily reflects current year performance-related improvements within net income, sales cycle working capital efficiencies and a decline in capital expenditures reflecting actions to optimize our real estate portfolio. In 2023, we continued to return value to shareholders with $6.0 billion in dividends and invested $5.1 billion in acquisitions. 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 32 
+ 
+ Management Discussion 
+ International Business Machines Corporation and Subsidiary Companies 
+ 
+ IBM’s Board of Directors considers the dividend payment on a quarterly basis. In the second quarter of 2023, the Board of Directors increased the company’s quarterly common stock dividend from $1.65 to $1.66 per share. 
+ Events that could temporarily change the historical cash flow dynamics discussed previously include significant changes in operating results, material changes in geographic sources of cash, unexpected adverse impacts from litigation, future pension funding requirements during periods of severe downturn in the capital markets or the timing of tax payments. Whether any litigation has such an adverse impact will depend on a number of variables, which are more completely described in note R, “Commitments & Contingencies.” With respect to pension funding, in 2023, we contributed $70 million to our non-U.S. defined benefit plans compared to $118 million in 2022. As highlighted in the Contractual Obligations table, we expect to make legally mandated pension plan contributions to certain non-U.S. plans of approximately $1.3 billion in the next five years. The 2024 contributions are currently expected to be approximately $200 million. Contributions related to all retirement-related plans are expected to be approximately $1.5 billion in 2024, a decrease of approximately $300 million compared to 2023. Refer to "Looking Forward" for additional information. Financial market performance could increase the legally mandated minimum contributions in certain non-U.S. countries that require more frequent remeasurement of the funded status. We are not quantifying any further impact from pension funding because it is not possible to predict future movements in the capital markets or pension plan funding regulations. 
+ In 2024, we are not legally required to make any contributions to the U.S. defined benefit pension plans. 
+ Our cash flows are sufficient to fund our current operations and obligations, including investing and financing activities such as dividends and debt service. When additional requirements arise, we have several liquidity options available. These options may include the ability to borrow additional funds at reasonable interest rates and utilizing our committed global credit facilities. Our overall shareholder payout remains at a comfortable level and we remain fully committed to our long-standing dividend policy. 
+ 
+ Contractual Obligations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ($ in millions) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Contractual 
+ 
+ Payments Due In 
+ 
+ 
+ 
+ Payment Stream 
+ 
+ 2024 
+ 
+ 2025–26 
+ 
+ 2027–28 
+ 
+ After 2028 
+ 
+ Long-term debt obligations 
+ 
+ $ 
+ 57,099 
+ 
+ 
+ $ 
+ 6,307 
+ 
+ 
+ $ 
+ 10,531 
+ 
+ 
+ $ 
+ 9,733 
+ 
+ 
+ $ 
+ 30,528 
+ 
+ 
+ Interest on long-term debt obligations 
+ 
+ 19,170 
+ 
+ 
+ 1,717 
+ 
+ 
+ 2,991 
+ 
+ 
+ 2,322 
+ 
+ 
+ 12,140 
+ 
+ 
+ 
+ Finance lease obligations (1) 
+ 
+ 499 
+ 
+ 
+ 121 
+ 
+ 
+ 182 
+ 
+ 
+ 124 
+ 
+ 
+ 72 
+ 
+ 
+ 
+ Operating lease obligations (1) 
+ 
+ 3,948 
+ 
+ 
+ 948 
+ 
+ 
+ 1,377 
+ 
+ 
+ 733 
+ 
+ 
+ 890 
+ 
+ 
+ Purchase obligations 
+ 
+ 3,822 
+ 
+ 
+ 1,203 
+ 
+ 
+ 1,581 
+ 
+ 
+ 610 
+ 
+ 
+ 428 
+ 
+ 
+ Other long-term liabilities: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Minimum defined benefit plan pension funding (mandated) (2) 
+ 
+ 1,300 
+ 
+ 
+ 200 
+ 
+ 
+ 600 
+ 
+ 
+ 500 
+ 
+ 
+ 
+ 
+ Excess 401(k) Plus Plan 
+ 
+ 1,644 
+ 
+ 
+ 207 
+ 
+ 
+ 436 
+ 
+ 
+ 464 
+ 
+ 
+ 537 
+ 
+ 
+ Long-term termination benefits 
+ 
+ 858 
+ 
+ 
+ 191 
+ 
+ 
+ 128 
+ 
+ 
+ 97 
+ 
+ 
+ 442 
+ 
+ 
+ 
+ Tax reserves (3) 
+ 
+ 5,712 
+ 
+ 
+ 108 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other 
+ 
+ 569 
+ 
+ 
+ 149 
+ 
+ 
+ 93 
+ 
+ 
+ 55 
+ 
+ 
+ 271 
+ 
+ 
+ Total 
+ 
+ $ 
+ 94,622 
+ 
+ 
+ $ 
+ 11,151 
+ 
+ 
+ $ 
+ 17,920 
+ 
+ 
+ $ 
+ 14,639 
+ 
+ 
+ $ 
+ 45,308 
+ 
+ (1) Finance lease obligations are presented on a discounted cash flow basis, whereas operating lease obligations are presented on an undiscounted cash flow basis. 
+ (2) As funded status on plans will vary, obligations for mandated minimum pension payments after 2028 could not be reasonably estimated. 
+ (3) These amounts represent the liability for unrecognized tax benefits. We estimate that approximately $108 million of the liability is expected to be settled within the next 12 months. The settlement period for the noncurrent portion of the income tax liability cannot be reasonably estimated as the timing of the payments will depend on the progress of tax examinations with the various tax authorities; however, it is not expected to be due within the next 12 months. 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Management Discussion 
+ International Business Machines Corporation and Subsidiary Companies 
+ 
+ 33 
+ Certain contractual obligations reported in the previous table exclude the effects of time value and therefore, may not equal the amounts reported in the Consolidated Balance Sheet. Certain noncurrent liabilities are excluded from the previous table as their future cash outflows are uncertain. This includes deferred taxes, derivatives, deferred income, disability benefits and other sundry items. Certain obligations related to our divestitures are included. 
+ Purchase obligations include all commitments to purchase goods or services of either a fixed or minimum quantity that meet any of the following criteria: (1) they are noncancelable, (2) we would incur a penalty if the agreement was canceled, or (3) we must make specified minimum payments even if we do not take delivery of the contracted products or services (take-or-pay). If the obligation to purchase goods or services is noncancelable, the entire value of the contract is included in the previous table. If the obligation is cancelable, but we would incur a penalty if canceled, the dollar amount of the penalty is included as a purchase obligation. Contracted minimum amounts specified in take-or-pay contracts are also included in the table as they represent the portion of each contract that is a firm commitment. 
+ In the ordinary course of business, we enter into contracts that specify that we will purchase all or a portion of our requirements of a specific product, commodity or service from a supplier or vendor. These contracts are generally entered into in order to secure pricing or other negotiated terms. They do not specify fixed or minimum quantities to be purchased and, therefore, we do not consider them to be purchase obligations. 
+ Interest on floating-rate debt obligations is calculated using the effective interest rate at December 31, 2023, plus the interest rate spread associated with that debt, if any. 
+ Off-Balance Sheet Arrangements 
+ In the normal course of business, we may enter into off-balance sheet arrangements such as client financing commitments and guarantees. At December 31, 2023, we had no off-balance sheet arrangements that have, or are reasonably likely to have, a material current or future effect on our financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources. Refer to the table above for our contractual obligations, and note R, “Commitments & Contingencies,” for detailed information about our guarantees, financial commitments and indemnification arrangements. We do not have retained interests in assets transferred to unconsolidated entities or other material off-balance sheet interests or instruments . 
+ 
+ Critical Accounting Estimates 
+ The application of GAAP requires IBM to make estimates and assumptions about certain items and future events that directly affect its reported financial condition. The accounting estimates and assumptions discussed in this section are those that we consider to be the most critical to our financial statements. An accounting estimate is considered critical if both (a) the nature of the estimate or assumption is material due to the levels of subjectivity and judgment involved, and (b) the impact within a reasonable range of outcomes of the estimate and assumption is material to IBM’s financial condition. Senior management has discussed the development, selection and disclosure of these estimates with the Audit Committee of IBM’s Board of Directors. Our significant accounting policies are described in note A, “Significant Accounting Policies.” 
+ A quantitative sensitivity analysis is provided where that information is reasonably available, can be reliably estimated and provides material information to investors. The amounts used to assess sensitivity (e.g., 1 percent, 10 percent, etc.) are included to allow users of the financial statements to understand a general direction cause and effect of changes in the estimates and do not represent management’s predictions of variability. For all of these estimates, it should be noted that future events rarely develop exactly as forecasted, and estimates require regular review and adjustment. 
+ Pension Assumptions 
+ For our defined benefit pension plans, the measurement of the benefit obligation to plan participants and net periodic pension (income)/cost requires the use of certain assumptions, including, among others, estimates of discount rates, interest crediting rates and expected return on plan assets. Beginning in 2024, as a result of changes to the Qualified PPP as discussed in "Looking Forward" the interest crediting rate and expected return on plan assets will be based on their relationship to the plan's discount rate. 
+ Changes in the discount rate and the interest crediting rate assumptions would impact the service cost, (gain)/loss amortization and interest cost components of the net periodic pension (income)/cost calculation and the projected benefit obligation (PBO). Changes in the expected long-term return on plan assets assumption impacts the net periodic pension (income)/cost. Expected returns on plan assets are calculated based on the market-related value of plan assets, which recognizes changes in the fair value of plan assets systematically over a five-year period in the expected return on plan assets line in net periodic pension (income)/cost. The differences between the actual return on plan assets and the expected long-term return on plan assets are recognized over five years in the expected return on plan assets line in net periodic pension (income)/cost and also as a component of actuarial (gains)/losses, which are recognized over the service lives or life expectancy of the participants, depending on the plan, provided such 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 34 
+ 
+ Management Discussion 
+ International Business Machines Corporation and Subsidiary Companies 
+ 
+ amounts exceed thresholds which are based upon the benefit obligation or the value of plan assets, as provided by accounting standards. 
+ The discount rate assumption for the IBM Personal Pension Plan (PPP), a U.S.-based defined benefit plan, decreased by 30 basis points to 5.0 percent on December 31, 2023. This change will decrease pre-tax income recognized in 2024 by an estimated $112 million. A 25 basis point increase or decrease in the discount rate assumption for the PPP would cause a corresponding increase or decrease, respectively, in the pre-tax income recognized in 2024 by an estimated $100 million. The impact on pre-tax income as a result of a change in discount rate includes the impact of a similar change in the interest crediting rate. The increase or decrease in the discount rate would also cause a corresponding increase or decrease, respectively, in the 2024 expected return on plan assets assumption. Further changes in the discount rate assumptions would impact the PBO which, in turn, may impact our funding decisions if the PBO exceeds plan assets. A 25 basis point increase in the discount rate would decrease the PBO by $399 million. A 25 basis point decrease in the discount rate would increase the PBO by $414 million. The impact on the PBO as a result of a change in discount rate includes the impact of a similar change in the interest crediting rate. 
+ Each 50 basis point change in the expected long-term return on PPP plan assets assumption would have an estimated impact of $136 million on the following year’s pre-tax net periodic pension (income)/cost (based upon the 2024 assumptions). 
+ We may voluntarily make contributions or be required, by law, to make contributions to our pension plans. Actual results that differ from the estimates may result in more or less future IBM funding into the pension plans than is planned by management. Impacts of these types of changes on our pension plans in other countries worldwide would vary depending upon the status of each respective plan. 
+ In addition to the above, we evaluate other pension assumptions involving demographic factors, such as retirement age and mortality, and update these assumptions to reflect experience and expectations for the future. Actual results in any given year can differ from actuarial assumptions because of economic and other factors. 
+ For additional information on our pension plans and the development of these assumptions, refer to note V, “Retirement-Related Benefits.” 
+ Revenue Recognition 
+ Application of GAAP related to the measurement and recognition of revenue requires us to make judgments and estimates. Specifically, complex arrangements with nonstandard terms and conditions may require significant contract interpretation to determine the appropriate accounting, including whether promised goods and services specified in an arrangement are distinct performance obligations. Other significant judgments include determining the standalone selling price (SSP), determining whether IBM or a reseller is acting as the principal in a transaction and whether separate contracts should be combined and considered part of one arrangement. 
+ Revenue recognition is also impacted by our ability to determine when a contract is probable of collection and to estimate variable consideration, including, for example, rebates, volume discounts, service-level penalties and performance bonuses. We consider various factors when making these judgments, including a review of specific transactions, historical experience and market and economic conditions. Evaluations are conducted each quarter to assess the adequacy of the estimates. If the estimates were changed by 10 percent in 2023, the impact on net income would have been $42 million. 
+ Costs to Complete Service Contracts 
+ We enter into numerous service contracts through our services businesses. During the contractual period, revenue, cost and profits may be impacted by estimates of the ultimate profitability of each contract, especially contracts for which we use cost-to-cost measures of progress. For those contracts, if at any time these estimates indicate the contract will be unprofitable, the entire estimated loss for the remainder of the contract is recorded immediately in cost. We perform ongoing profitability analyses of these services contracts in order to determine whether the latest estimates require updating. Key factors reviewed to estimate the future costs to complete each contract are future labor costs and product costs and expected productivity efficiencies. Contract loss provisions recorded as a component of other accrued expenses and liabilities were immaterial at December 31, 2023 and 2022. 
+ Income Taxes 
+ We are subject to income taxes in the U.S. and numerous foreign jurisdictions. Significant judgments are required in determining the consolidated provision for income taxes. 
+ During the ordinary course of business, there are many transactions and calculations for which the ultimate tax determination is uncertain. As a result, we recognize tax liabilities based on estimates of whether additional taxes and interest will be due. These tax liabilities are recognized when, despite our belief that our tax return positions are supportable, we believe that certain positions may not be fully sustained upon review by tax authorities. We believe that our accruals for tax liabilities are adequate for all open audit years based on our assessment of many factors, including past experience and interpretations of tax law. This assessment relies on 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Management Discussion 
+ International Business Machines Corporation and Subsidiary Companies 
+ 
+ 35 
+ estimates and assumptions and may involve a series of complex judgments about future events. To the extent that new information becomes available which causes us to change our judgment regarding the adequacy of existing tax liabilities, such changes to tax liabilities will impact income tax expense in the period in which such determination is made. 
+ Significant judgment is also required in determining any valuation allowance recorded against deferred tax assets. In assessing the need for a valuation allowance, management considers all available evidence for each jurisdiction including past operating results, estimates of future taxable income and the feasibility of ongoing tax planning strategies/actions. In the event that we change our determination as to the amount of deferred tax assets that can be realized, we will adjust the valuation allowance with a corresponding impact to income tax expense in the period in which such determination is made. 
+ The consolidated provision for income taxes will change period to period based on non-recurring events, such as the settlement of income tax audits and changes in tax laws, as well as recurring factors including the geographic mix of income before taxes, state and local taxes and the effects of various global income tax strategies. 
+ To the extent that the provision for income taxes increases/decreases by 1 percent of income from continuing operations before income taxes, consolidated net income would have decreased/improved by $87 million in 2023. 
+ Valuation of Assets 
+ The application of business combination and impairment accounting requires the use of significant estimates and assumptions. The acquisition method of accounting for business combinations requires us to estimate the fair value of assets acquired including separately identifiable intangible assets, liabilities assumed, and any noncontrolling interest in the acquiree to properly allocate purchase price consideration. Impairment testing for assets, other than goodwill, requires the allocation of cash flows to those assets or group of assets and if required, an estimate of fair value for the assets or group of assets. Our estimates are based upon assumptions believed to be reasonable, but which are inherently uncertain and unpredictable. These valuations require the use of management’s assumptions, which would not reflect unanticipated events and circumstances that may occur. 
+ Valuation of Goodwill 
+ We review goodwill for impairment annually and whenever events or changes in circumstances indicate the carrying value of goodwill may not be recoverable. We first assess qualitative factors in each of our reporting units that carry goodwill including relevant events and circumstances that affect the fair value of the reporting units to determine whether it is more likely than not that the fair value of a reporting unit is less than its carrying amount. Judgment in the assessment of qualitative factors of impairment include entity specific factors, industry, market and other macroeconomic conditions, legal and regulatory actions, as well as other individual factors impacting each reporting unit such as loss of key personnel and overall financial performance. If we do not perform a qualitative assessment, or if the qualitative assessment indicates it is more likely than not that the fair value of a reporting unit is less than its carrying amount, we perform a quantitative test. 
+ In the quantitative test, we compare the fair value of each reporting unit to its carrying amount. Estimating the fair value of a reporting unit is judgmental in nature and involves the use of significant estimates and assumptions. We estimate the fair value of our reporting units using the income approach. When circumstances warrant, we may also use a combination of the income approach and certain market approaches. Under the income approach, we estimate the fair value of a reporting unit based on the present value of estimated discounted future cash flows. The discounted cash flow methodology includes the use of projections, which require the use of significant estimates and assumptions specific to the reporting unit as well as those based on general economic conditions. Factors specific to each reporting unit include revenue growth rates, gross margins, discount rates, terminal value growth rates, capital expenditures projections, assumed tax rates and other assumptions deemed reasonable by management. 
+ After performing the annual goodwill impairment qualitative analysis during the fourth quarter of 2023, the company determined it was not necessary to perform the quantitative goodwill impairment test. 
+ Loss Contingencies 
+ We are currently involved in various claims and legal proceedings. At least quarterly, we review the status of each significant matter and assess our potential financial exposure. If the potential loss from any claim or legal proceeding is considered probable and the amount can be reasonably estimated, we accrue a liability for the estimated loss. Significant judgment is required in both the determination of probability and the determination as to whether an exposure is reasonably estimable. Because of uncertainties related to these matters, accruals are based only on the best information available at the time. As additional information becomes available, we reassess the potential liability related to our pending claims and litigation, and may revise our estimates. These revisions in the estimates of the potential liabilities could have a material impact on our results of operations and financial position. 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 36 
+ 
+ Management Discussion 
+ International Business Machines Corporation and Subsidiary Companies 
+ 
+ Financing Receivables Allowance for Credit Losses 
+ The Financing business reviews its financing receivables portfolio on a regular basis in order to assess collectibility and records adjustments to the allowance for credit losses at least quarterly. A description of the methods used by management to estimate the amount of uncollectible receivables is included in note A, “Significant Accounting Policies.” Factors that could result in actual receivable losses that are materially different from the estimated reserve include significant changes in the economy, or a sudden change in the economic health of a client that represents a significant concentration in Financing’s receivables portfolio. 
+ To the extent that actual collectibility differs from management’s estimates currently provided for by 10 percent, Financing’s segment pre-tax income and our income from continuing operations before income taxes would be higher or lower by an estimated $16 million depending upon whether the actual collectibility was better or worse, respectively, than the estimates. 
+ Change in Accounting Estimate 
+ Effective January 1, 2023, due to advances in technology, we increased the estimated useful lives of our server and network equipment. Refer to note A, "Significant Accounting Policies," for additional information on this change in accounting estimate . 
+ 
+ Currency Rate Fluctuations 
+ Changes in the relative values of non-U.S. currencies to the USD affect our financial results and financial position. At December 31, 2023, currency changes resulted in assets and liabilities denominated in local currencies being translated into more dollars than at year-end 2022. We use financial hedging instruments to limit specific currency risks related to foreign currency-based transactions. 
+ Movements in currency, and the fact that we do not hedge 100 percent of our currency exposures, resulted in a currency impact to our revenues, profit and cash flows throughout 2023. We execute a hedging program which defers, versus eliminates, the volatility of currency impacts on our financial results. During periods of sustained movements in currency, the marketplace and competition adjust to the changing rates over time. 
+ We translate revenue, cost and expense in our non-U.S. operations at current exchange rates in the reported period. References to “adjusted for currency” or “constant currency” reflect adjustments based upon a simple mathematical formula. However, this constant currency methodology that we utilize to disclose this information does not incorporate any operational actions that management could take to mitigate fluctuating currency rates. Based on the currency rate movements in 2023, revenue from continuing operations increased 2.2 percent as reported and 2.9 percent at constant currency versus 2022. Currency translation and hedging impacted year-to-year pre-tax income growth and operating (non-GAAP) pre-tax income growth by approximately $700 million in 2023. From a segment perspective, in 2023, currency translation and hedging impacted our Software and Infrastructure pre-tax income margin year-to-year growth by approximately one point each. We view these amounts as a theoretical maximum impact to our as-reported financial results. Hedging and certain underlying foreign currency transaction gains and losses are allocated to our segment results. Considering the operational responses mentioned above, movements of exchange rates, and the nature and timing of hedging instruments, it is difficult to predict future currency impacts on any particular period. 
+ For non-U.S. subsidiaries and branches that operate in U.S. dollars or whose economic environment is highly inflationary, translation adjustments are reflected in results of operations. Generally, we manage currency risk in these entities by linking prices and contracts to U.S. dollar s. 
+ 
+ Market Risk 
+ In the normal course of business, our financial position is routinely subject to a variety of risks, including the market risk associated with interest rate and currency movements on outstanding debt and non-U.S. dollar denominated assets and liabilities, and other risks such as collectibility of accounts receivable. 
+ We regularly assess these risks and have established policies and business practices to protect against the adverse effects of these and other potential exposures. As a result, we do not anticipate any material losses from these risks. 
+ Our debt, in support of the geographic breadth of our operations and our Financing business, contains an element of market risk from changes in interest and currency rates. We manage this risk, in part, through the use of a variety of financial instruments including derivatives, as described in note T, “Derivative Financial Instruments.” 
+ To meet disclosure requirements, we perform a sensitivity analysis to determine the effects that market risk exposures may have on the fair values of our debt and other financial instruments. 
+ The financial instruments that are included in the sensitivity analysis are comprised of our cash and cash equivalents, marketable securities, short-term and long-term loans, commercial financing and installment payment receivables, investments, long-term and short-term debt and derivative financial instruments. Our derivative financial instruments generally include interest rate swaps, foreign currency swaps, forward contracts, and options. 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Management Discussion 
+ International Business Machines Corporation and Subsidiary Companies 
+ 
+ 37 
+ To perform the sensitivity analysis, we assess the risk of loss in fair values from the effect of hypothetical changes in interest rates and foreign currency exchange rates on market-sensitive instruments. The market values for interest and foreign currency exchange risk are computed based on the present value of future cash flows as affected by the changes in rates that are attributable to the market risk being measured. The discount rates used for the present value computations were selected based on market interest and foreign currency exchange rates in effect at December 31, 2023 and 2022. The differences in this comparison are the hypothetical losses associated with each type of risk. 
+ Information provided by the sensitivity analysis does not necessarily represent the actual changes in fair value that we would incur under normal market conditions because, due to practical limitations, all variables other than the specific market risk factor are held constant. In addition, the results of the model are constrained by the fact that certain items are specifically excluded from the analysis, while the financial instruments relating to the financing or hedging of those items are included by definition. Excluded items include short-term and long-term receivables from sales-type and direct financing leases, forecasted foreign currency cash flows and the company’s net investment in foreign operations. As a consequence, reported changes in the values of some of the financial instruments impacting the results of the sensitivity analysis are not matched with the offsetting changes in the values of the items that those instruments are designed to finance or hedge. 
+ The results of the sensitivity analysis at December 31, 2023 and 2022, are as follows: 
+ Interest Rate Risk 
+ A hypothetical 10 percent adverse change in the levels of interest rates, with all other variables held constant, would result in a decrease in the fair value of our financial instruments of approximately $0.3 billion and $0.2 billion at December 31, 2023 and 2022, respectively. Changes in the relative sensitivity of the fair value of our financial instrument portfolio for these theoretical changes in the level of interest rates from the prior year are primarily driven by changes in debt maturities, interest rate profile and amount. 
+ Foreign Currency Exchange Rate Risk 
+ A hypothetical 10 percent adverse change in the levels of foreign currency exchange rates relative to the U.S. dollar, with all other variables held constant, would result in a decrease in the fair value of our financial instruments of approximately $1.6 billion and $1.4 billion at December 31, 2023 and 2022, respectively. The theoretical changes from the prior year are primarily driven by changes in foreign currency activities related to long-term debt and derivatives. 
+ Financing Risks 
+ Refer to the “Description of Business” on page 15 for a discussion of the financing risks associated with the Financing business and management’s actions to mitigate such risks. 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 38 
+ 
+ Management Discussion 
+ International Business Machines Corporation and Subsidiary Companies 
+ 
+ FINANCING 
+ Financing is a reportable segment that facilitates IBM clients' acquisition of hardware, software and services by providing financing solutions, while generating solid returns on equity. 
+ Results of Operations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ($ in millions) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the year ended December 31: 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ Yr.-to-Yr. Percent Change 
+ 
+ Revenue 
+ 
+ $ 
+ 741 
+ 
+ 
+ $ 
+ 645 
+ 
+ 
+ 14.8 
+ % 
+ 
+ Pre-tax income 
+ 
+ $ 
+ 374 
+ 
+ 
+ $ 
+ 340 
+ 
+ 
+ 10.1 
+ % 
+ Financing revenue increased 14.8 percent (15 percent adjusted for currency) to $741 million compared to the prior year, primarily driven by client financing up $89 million to $728 million. The increase in client financing revenue was primarily driven by an increase in client financing asset yields. 
+ Financing pre-tax income increased 10.1 percent to $374 million compared to the prior year and the pre-tax margin of 50.5 percent decreased 2.2 points year to year. The increase in pre-tax income in 2023 is primarily driven by a decrease in selling, general and administrative expenses and settlements on non-accrual assets. 
+ Financial Position 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ($ in millions) 
+ 
+ 
+ 
+ 
+ 
+ At December 31: 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ Cash and cash equivalents 
+ 
+ $ 
+ 555 
+ 
+ 
+ $ 
+ 699 
+ 
+ 
+ Client financing receivables 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net investment in sales-type and direct financing leases (1) 
+ 
+ 4,237 
+ 
+ 
+ 4,047 
+ 
+ 
+ Client loans 
+ 
+ 6,486 
+ 
+ 
+ 8,329 
+ 
+ 
+ Total client financing receivables 
+ 
+ $ 
+ 10,723 
+ 
+ 
+ $ 
+ 12,376 
+ 
+ 
+ Commercial financing receivables 
+ 
+ 
+ 
+ 
+ 
+ Held for investment 
+ 
+ 1,155 
+ 
+ 
+ 293 
+ 
+ 
+ Held for sale 
+ 
+ 692 
+ 
+ 
+ 939 
+ 
+ 
+ Other receivables 
+ 
+ 26 
+ 
+ 
+ 66 
+ 
+ 
+ 
+ Total external receivables (2) 
+ 
+ $ 
+ 12,596 
+ 
+ 
+ $ 
+ 13,674 
+ 
+ 
+ 
+ Intercompany assets (3)(4) 
+ 
+ 963 
+ 
+ 
+ 988 
+ 
+ 
+ 
+ Other assets (4) 
+ 
+ 294 
+ 
+ 
+ 395 
+ 
+ 
+ Total assets 
+ 
+ $ 
+ 14,409 
+ 
+ 
+ $ 
+ 15,757 
+ 
+ 
+ 
+ Intercompany payables (3) 
+ 
+ $ 
+ 426 
+ 
+ 
+ $ 
+ 637 
+ 
+ 
+ 
+ Debt (5) 
+ 
+ 11,879 
+ 
+ 
+ 12,872 
+ 
+ 
+ Other liabilities 
+ 
+ 783 
+ 
+ 
+ 814 
+ 
+ 
+ Total liabilities 
+ 
+ $ 
+ 13,088 
+ 
+ 
+ $ 
+ 14,323 
+ 
+ 
+ Total equity 
+ 
+ $ 
+ 1,321 
+ 
+ 
+ $ 
+ 1,433 
+ 
+ 
+ Total liabilities and equity 
+ 
+ $ 
+ 14,409 
+ 
+ 
+ $ 
+ 15,757 
+ 
+ (1) Includes deferred initial direct costs which are expensed in IBM’s consolidated financial results. 
+ (2) The difference between the decrease in total external receivables of $1.1 billion (from $13.7 billion in 2022 to $12.6 billion in 2023) and the $1.2 billion change in Financing segment receivables disclosed in the free cash flow presentation on page 31 is primarily attributable to currency impacts. 
+ (3) This entire amount is eliminated for purposes of IBM’s consolidated financial results and therefore does not appear in the Consolidated Balance Sheet. 
+ (4) Prior period amounts have been recast to conform to 2023 presentation. 
+ (5) Financing segment debt is primarily composed of intercompany loans. 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Management Discussion 
+ International Business Machines Corporation and Subsidiary Companies 
+ 
+ 39 
+ Financing Segment Receivables and Allowances 
+ The following table presents external Financing segment receivables excluding receivables classified as held for sale, and immaterial miscellaneous receivables. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ($ in millions) 
+ 
+ 
+ 
+ 
+ 
+ At December 31: 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ 
+ Amortized cost (1) 
+ 
+ $ 
+ 12,034 
+ 
+ 
+ $ 
+ 12,843 
+ 
+ 
+ Specific allowance for credit losses 
+ 
+ 111 
+ 
+ 
+ 127 
+ 
+ 
+ Unallocated allowance for credit losses 
+ 
+ 45 
+ 
+ 
+ 46 
+ 
+ 
+ Total allowance for credit losses 
+ 
+ 156 
+ 
+ 
+ 173 
+ 
+ 
+ Net financing receivables 
+ 
+ $ 
+ 11,878 
+ 
+ 
+ $ 
+ 12,670 
+ 
+ 
+ Allowance for credit losses coverage 
+ 
+ 1.3 
+ % 
+ 
+ 1.3 
+ % 
+ (1) Includes deferred initial direct costs which are expensed in IBM’s consolidated financial results. 
+ Roll Forward of Financing Segment Receivables Allowance for Credit Losses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ($ in millions) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ January 1, 2023 
+ 
+ 
+ Additions/ 
+ (Releases) (1) 
+ 
+ 
+ Write-offs (2) 
+ 
+ Foreign currency and other 
+ 
+ December 31, 2023 
+ 
+ $173 
+ 
+ $(12) 
+ 
+ $(18) 
+ 
+ $12 
+ 
+ $156 
+ (1) Additions/(Releases) for allowance for credit losses are recorded in expense. 
+ (2) Refer to note A, “Significant Accounting Policies,” for additional information regarding allowance for credit loss write-offs. 
+ We continue to apply our rigorous credit policies. Approximately 72 percent of the total external portfolio was with investment-grade clients, a decrease of 1 point compared to December 31, 2022. This investment grade percentage is based on the credit ratings of the companies in the portfolio and reflects certain mitigating actions taken to reduce the risk to IBM. 
+ We have a long-standing practice of taking mitigation actions, in certain circumstances, to transfer credit risk to third parties. These actions may include credit insurance, financial guarantees, nonrecourse secured borrowings, transfers of receivables recorded as true sales in accordance with accounting guidance or sales of equipment under operating lease. Sale of receivables arrangements are also utilized in the normal course of business as part of our cash and liquidity management. For additional information related to the company's sales of receivables, refer to "Transfer of Financial Assets" in note L, “Financing Receivables.” 
+ Return on Equity Calculation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ($ in millions) 
+ 
+ 
+ 
+ 
+ 
+ At December 31: 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ Numerator 
+ 
+ 
+ 
+ 
+ 
+ 
+ Financing after-tax income (A) (1) 
+ 
+ $ 
+ 312 
+ 
+ 
+ $ 
+ 279 
+ 
+ 
+ Denominator 
+ 
+ 
+ 
+ 
+ 
+ 
+ Average Financing equity (B) (2) 
+ 
+ $ 
+ 1,238 
+ 
+ 
+ $ 
+ 1,389 
+ 
+ 
+ Financing return on equity (A)/(B) 
+ 
+ 25.2 
+ % 
+ 
+ 20.1 
+ % 
+ (1) Calculated based upon an estimated tax rate, which is a function of IBM’s provision for income taxes determined on a consolidated basis. 
+ (2) Average of the ending equity for Financing for the last five quarters. 
+ Return on equity was 25.2 percent compared to 20.1 percent for the years ended December 31, 2023 and 2022, respectively. The increase was driven by an increase in net income and a lower average equity balance. 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 40 
+ 
+ Management Discussion 
+ International Business Machines Corporation and Subsidiary Companies 
+ 
+ Residual Value 
+ The estimated residual value represents the estimated fair value of the equipment under lease at the end of the lease. The company estimates the future fair value of leased equipment by using historical models, analyzing the current market for new and used equipment and obtaining forward-looking product information such as marketing plans and technology innovations. 
+ The company optimizes the recovery of residual values by extending lease arrangements with, or selling leased equipment to existing clients and periodically reassesses the realizable value of its lease residual values. 
+ The following table presents the recorded amount of unguaranteed residual value for sales-type and direct financing leases at December 31, 2023 and 2022. In addition, the table presents the run out of when the unguaranteed residual value assigned to equipment on leases at December 31, 2023, is expected to be returned to the company. The unguaranteed residual value for operating leases at December 31, 2023 and 2022 was not material. 
+ Unguaranteed Residual Value 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ($ in millions) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Estimated Run Out of December 31, 2023 Balance 
+ 
+ 
+ 
+ At December 31, 2022 
+ 
+ At December 31, 2023 
+ 
+ 2024 
+ 
+ 2025 
+ 
+ 2026 
+ 
+ 2027 and Beyond 
+ 
+ Sales-type and direct financing leases 
+ 
+ $ 
+ 422 
+ 
+ 
+ $ 
+ 458 
+ 
+ 
+ $ 
+ 67 
+ 
+ 
+ $ 
+ 146 
+ 
+ 
+ $ 
+ 124 
+ 
+ 
+ $ 
+ 121 
+ 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

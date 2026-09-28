@@ -1,0 +1,2141 @@
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+ The following discussion should be read together with the accompanying Consolidated Financial Statements and Notes to the Consolidated Financial Statements thereto included in Part II ITEM 8, “Financial Statements and Supplementary Data .” Readers are cautioned the statements, estimates, projections or outlook contained in this report, including discussions regarding financial prospects, economic conditions, trends and uncertainties contained in this ITEM 7, may constitute forward-looking statements within the meaning of the PSLRA. These forward-looking statements involve risks and uncertainties which may cause our actual results to differ materially from the expectations expressed or implied in the forward-looking statements. A description of some of the risks and uncertainties can be found further below in this ITEM 7 and in Part I, ITEM 1A, “Risk Factors.” 
+ Discussions of year-over-year comparisons between 2023 and 2022 are not included in this Form 10-K and can be found in Part II, ITEM 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations” of the Company’s Form 10-K for the fiscal year ended December 31, 2023. 
+ EXECUTIVE OVERVIEW 
+ General 
+ UnitedHealth Group is a health care and well-being company with a mission to help people live healthier lives and help make the health system work better for everyone. Our two distinct, yet complementary businesses — Optum and UnitedHealthcare — are working to help build a modern, high-performing health system through improved access, affordability, outcomes and experiences for the individuals and organizations we are privileged to serve. 
+ We have four reportable segments across our two businesses: 
+ • Optum Health; 
+ • Optum Insight; 
+ • Optum Rx; and 
+ • UnitedHealthcare, which includes UnitedHealthcare Employer & Individual, UnitedHealthcare Medicare & Retirement and UnitedHealthcare Community & State. 
+ Further information on our business and reportable segments is presented in Part I, ITEM 1, “Business” and in Note 14 of the Notes to the Consolidated Financial Statements included in Part II, ITEM 8, “Financial Statements and Supplementary Data.” 
+ 
+ Change Healthcare Cyberattack 
+ As previously announced, on February 21, 2024, we identified that cybercrime threat actors had gained access to certain Change Healthcare information technology systems. Upon detection of this outside threat, we isolated the impacted systems to protect our partners and customers. 
+ We have substantially mitigated the impact to consumers and care providers of the unprecedented cyberattack on the U.S. health system and restored or replaced the majority of the affected Change Healthcare services. To support care providers we provided interest-free loans of more than $9 billion through December 31, 2024. For the year ended December 31, 2024, we incurred $2.2 billion of direct response costs, including costs associated with providing interest-free loans; increased medical care expenditures, as we suspended some care management activities to help care providers with their workflow processes; network restoration; and notifications of impacted persons. Optum Insight also experienced estimated business disruption impacts of $867 million for the year ended December 31, 2024, reflecting lost revenue while maintaining full readiness of the affected Change Healthcare services. We expect to continue to incur direct response costs and experience business disruption impacts at a lesser extent in 2025 as we work to bring transaction volumes back to pre-event levels and win new business. 
+ We have determined the estimated total number of individuals impacted by the Change Healthcare cyberattack is approximately 190 million. The vast majority of those people have already been provided individual or substitute notice. The final number will be confirmed and filed with the Office for Civil Rights. Change Healthcare is not aware of any misuse of individuals’ information as a result of this incident and has not seen electronic medical record databases appear in the data during the analysis. It is possible that future risks and uncertainties resulting from the Change Healthcare cyberattack, including risks related to impacted data, litigation, reputational harm, and regulatory actions could adversely affect our financial condition or results of operations. 
+ 
+ 
+ 24 
+ 
+ Table of Contents 
+ Business Trends 
+ Our businesses participate in the United States and certain other international health markets. In the United States, health care spending has grown consistently for many years and comprises 18% of gross domestic product (GDP). We expect overall spending on health care to continue to grow in the future, due to inflation, medical technology and pharmaceutical advancement, regulatory requirements, demographic trends in the population and national interest in health and well-being. The rate of market growth may be affected by a variety of factors, including macroeconomic conditions, which could impact our results of operations, including our continued efforts to control health care costs. 
+ Pricing Trends. To price our health care benefits, products and services, we start with our view of expected future costs, including medical care patterns, inflation and labor market dynamics. We frequently evaluate and adjust our approach in each of the local markets we serve, considering relevant factors, such as product positioning, price competitiveness and environmental, competitive, legislative and regulatory considerations, including minimum medical loss ratio (MLR) thresholds and similar revenue adjustments. We will continue seeking to balance growth and profitability across all these dimensions. 
+ The commercial risk market remains highly competitive in the small group, large group and individual segments. We expect broad-based competition to continue as the industry adapts to individual and employer needs. 
+ Medicare Advantage funding continues to be pressured, as discussed below in “Regulatory Trends and Uncertainties” and we have observed increased care patterns as discussed below in “Medical Cost Trends.” Our 2025 benefit design approach contemplates these trends. 
+ In Medicaid, we believe the payment rate environment creates the risk of continued downward pressure on Medicaid margin percentages. We continue to take a prudent, market-sustainable posture for both new business and maintenance of existing relationships. We continue to advocate for actuarially sound rates commensurate with our medical cost trends and we remain dedicated to partnering with those states that are committed to the long-term viability of their programs. 
+ Medical Cost Trends. Our medical cost trends primarily relate to changes in unit costs, care activity and prescription drug costs. As expected and contemplated in our benefits design, we have continued to observe increased care patterns, which may continue in future periods. We also observed an upshift in hospital coding intensity and an acceleration in the prescribing of certain high-cost medications in early response to the Inflation Reduction Act (IRA). We expect these additional factors to continue into future periods. We endeavor to mitigate those increases by engaging hospitals, physicians and consumers with information and helping them make clinically sound choices, with the objective of helping them achieve high-quality, affordable care. 
+ As a result of the Change Healthcare cyberattack, we incurred medical costs related to the impact of the temporary suspension of some care management activities, impacting our UnitedHealthcare and Optum Health businesses, to help care providers with their workflow processes. Early in the second quarter we resumed these activities. For the year ended December 31, 2024, medical costs related to the temporary suspension of some care management activities were approximately $640 million. 
+ Medicaid Redeterminations. Medicaid redeterminations have impacted the number of people served through our Medicaid offerings, partially offset by an increase in consumers served through our commercial offerings as we endeavor to ensure that people and families have continued access to care. The Medicaid redetermination process has also caused a timing mismatch between the current health status of people served through Medicaid and state rate updates, which remained well short of current care activity. We expect this gap between people’s health status and rates will narrow in 2025. 
+ Delivery System and Payment Modernization. The health care market continues to change based on demographic shifts, new regulations, political forces and both payer and patient expectations. Health plans and care providers are being called upon to work together to close gaps in care and improve overall care quality and patient experience, improve the health of populations and reduce costs. We are working to accelerate this vision through the innovation and integration of our care delivery models including in-clinic, in-home, behavioral and virtual care, and by using our data and analytics to provide clinicians with the necessary information in order to provide the best possible care in the most cost efficient setting. We continue to see a greater number of people enrolled in fully accountable value-based plans rewarding high-quality, affordable care and fostering collaboration. 
+ This trend is creating needs for health management services which can coordinate care around the primary care physician, including new primary care channels, and for investments in new clinical and administrative information and management systems, which we believe provide growth opportunities for our Optum business platform. A key focus of our future growth is to accelerate the transition from fee-for-service care delivery and payment models to fully accountable value-based care. This transition requires initial costs such as system enhancements, integrated care coordination technology, physician training and clinical engagement. Enhanced clinical engagement is a critical step to improving the experience and health outcomes of the people we serve and should result in lower costs to the overall health system over time. 
+ 
+ 
+ 25 
+ 
+ 
+ Table of Contents 
+ Regulatory Trends and Uncertainties 
+ Following is a summary of management’s view of the trends and uncertainties related to regulatory matters. For additional information regarding regulatory trends and uncertainties, see Part I, ITEM 1 “Business - Government Regulation” and ITEM 1A, “Risk Factors.” 
+ Medicare Advantage Rates. Medicare Advantage rate notices over the years have at times resulted in industry base rates well below industry forward medical trend. For example, the Final Notice for 2024 and 2025 rates resulted in an industry base rate decrease, both of which are well short of what is an increasing industry forward medical cost trend. The Advance Notice for 2026 rates proposes an industry base rate increase also well short of forward medical cost trend, creating continued pressure in the Medicare Advantage program. Further, substantial revisions to the risk adjustment model, which serves to adjust rates to reflect a patient’s health status and care resource needs, will result in reduced funding and potentially benefits for people, especially those with some of the greatest health and social challenges. 
+ As a result of ongoing Medicare funding pressures, there are adjustments we can make to partially offset these rate pressures and reductions for a particular period. For example, we can seek to intensify our medical and operating cost management, make changes to the size and composition of our care provider networks, adjust member benefits and implement or increase the member premiums supplementing the monthly payments we receive from the government. Additionally, we decide annually on a county-by-county basis where we will offer Medicare Advantage plans. 
+ 
+ SELECTED OPERATING PERFORMANCE ITEMS 
+ The following summarizes select 2024 year-over-year operating comparisons to 2023 and other financial results. 
+ • Consolidated revenues grew 8%, UnitedHealthcare revenues grew 6% and Optum revenues grew 12%. 
+ • UnitedHealthcare served 2.1 million more people domestically, driven by growth in commercial offerings, partially offset by the impact of Medicaid redeterminations. 
+ • Earnings from operations of $32.3 billion compared to $32.4 billion last year. 
+ • Diluted earnings per common share was $15.51, impacted by the loss on sale of subsidiary and subsidiaries held for sale. 
+ • Cash flows from operations were $24.2 billion. 
+ 
+ 
+ 26 
+ 
+ Table of Contents 
+ RESULTS SUMMARY 
+ The following table summarizes our consolidated results of operations and other financial information: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (in millions, except percentages and per share data) 
+ 
+ For the Years Ended December 31, 
+ 
+ Change 
+ 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ 2024 vs. 2023 
+ 
+ Revenues: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Premiums 
+ 
+ $ 
+ 308,810 
+ 
+ 
+ $ 
+ 290,827 
+ 
+ 
+ $ 
+ 257,157 
+ 
+ 
+ $ 
+ 17,983 
+ 
+ 
+ 6 
+ % 
+ 
+ Products 
+ 
+ 50,226 
+ 
+ 
+ 42,583 
+ 
+ 
+ 37,424 
+ 
+ 
+ 7,643 
+ 
+ 
+ 18 
+ 
+ 
+ Services 
+ 
+ 36,040 
+ 
+ 
+ 34,123 
+ 
+ 
+ 27,551 
+ 
+ 
+ 1,917 
+ 
+ 
+ 6 
+ 
+ 
+ Investment and other income 
+ 
+ 5,202 
+ 
+ 
+ 4,089 
+ 
+ 
+ 2,030 
+ 
+ 
+ 1,113 
+ 
+ 
+ 27 
+ 
+ 
+ Total revenues 
+ 
+ 400,278 
+ 
+ 
+ 371,622 
+ 
+ 
+ 324,162 
+ 
+ 
+ 28,656 
+ 
+ 
+ 8 
+ 
+ 
+ Operating costs: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Medical costs 
+ 
+ 264,185 
+ 
+ 
+ 241,894 
+ 
+ 
+ 210,842 
+ 
+ 
+ 22,291 
+ 
+ 
+ 9 
+ 
+ 
+ Operating costs 
+ 
+ 53,013 
+ 
+ 
+ 54,628 
+ 
+ 
+ 47,782 
+ 
+ 
+ (1,615) 
+ 
+ 
+ (3) 
+ 
+ 
+ Cost of products sold 
+ 
+ 46,694 
+ 
+ 
+ 38,770 
+ 
+ 
+ 33,703 
+ 
+ 
+ 7,924 
+ 
+ 
+ 20 
+ 
+ 
+ Depreciation and amortization 
+ 
+ 4,099 
+ 
+ 
+ 3,972 
+ 
+ 
+ 3,400 
+ 
+ 
+ 127 
+ 
+ 
+ 3 
+ 
+ 
+ Total operating costs 
+ 
+ 367,991 
+ 
+ 
+ 339,264 
+ 
+ 
+ 295,727 
+ 
+ 
+ 28,727 
+ 
+ 
+ 8 
+ 
+ 
+ Earnings from operations 
+ 
+ 32,287 
+ 
+ 
+ 32,358 
+ 
+ 
+ 28,435 
+ 
+ 
+ (71) 
+ 
+ 
+ — 
+ 
+ 
+ Interest expense 
+ 
+ (3,906) 
+ 
+ 
+ (3,246) 
+ 
+ 
+ (2,092) 
+ 
+ 
+ (660) 
+ 
+ 
+ 20 
+ 
+ 
+ Loss on sale of subsidiary and subsidiaries held for sale 
+ 
+ (8,310) 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ (8,310) 
+ 
+ 
+ nm 
+ 
+ Earnings before income taxes 
+ 
+ 20,071 
+ 
+ 
+ 29,112 
+ 
+ 
+ 26,343 
+ 
+ 
+ (9,041) 
+ 
+ 
+ (31) 
+ 
+ 
+ Provision for income taxes 
+ 
+ (4,829) 
+ 
+ 
+ (5,968) 
+ 
+ 
+ (5,704) 
+ 
+ 
+ 1,139 
+ 
+ 
+ (19) 
+ 
+ 
+ Net earnings 
+ 
+ 15,242 
+ 
+ 
+ 23,144 
+ 
+ 
+ 20,639 
+ 
+ 
+ (7,902) 
+ 
+ 
+ (34) 
+ 
+ 
+ Earnings attributable to noncontrolling interests 
+ 
+ (837) 
+ 
+ 
+ (763) 
+ 
+ 
+ (519) 
+ 
+ 
+ (74) 
+ 
+ 
+ 10 
+ 
+ 
+ Net earnings attributable to UnitedHealth Group common shareholders 
+ 
+ $ 
+ 14,405 
+ 
+ 
+ $ 
+ 22,381 
+ 
+ 
+ $ 
+ 20,120 
+ 
+ 
+ $ 
+ (7,976) 
+ 
+ 
+ (36) 
+ % 
+ 
+ Diluted earnings per share attributable to UnitedHealth Group common shareholders 
+ 
+ $ 
+ 15.51 
+ 
+ 
+ $ 
+ 23.86 
+ 
+ 
+ $ 
+ 21.18 
+ 
+ 
+ $ 
+ (8.35) 
+ 
+ 
+ (35) 
+ % 
+ 
+ Medical care ratio (a) 
+ 
+ 85.5 
+ % 
+ 
+ 83.2 
+ % 
+ 
+ 82.0 
+ % 
+ 
+ 2.3 
+ % 
+ 
+ 
+ 
+ Operating cost ratio 
+ 
+ 13.2 
+ 
+ 
+ 14.7 
+ 
+ 
+ 14.7 
+ 
+ 
+ (1.5) 
+ 
+ 
+ 
+ 
+ Operating margin 
+ 
+ 8.1 
+ 
+ 
+ 8.7 
+ 
+ 
+ 8.8 
+ 
+ 
+ (0.6) 
+ 
+ 
+ 
+ 
+ Tax rate 
+ 
+ 24.1 
+ 
+ 
+ 20.5 
+ 
+ 
+ 21.7 
+ 
+ 
+ 3.6 
+ 
+ 
+ 
+ 
+ Net earnings margin (b) 
+ 
+ 3.6 
+ 
+ 
+ 6.0 
+ 
+ 
+ 6.2 
+ 
+ 
+ (2.4) 
+ 
+ 
+ 
+ 
+ Return on equity (c) 
+ 
+ 15.9 
+ % 
+ 
+ 27.0 
+ % 
+ 
+ 27.2 
+ % 
+ 
+ (11.1) 
+ % 
+ 
+ 
+ ________ 
+ nm = not meaningful 
+ (a) Medical care ratio (MCR) is calculated as medical costs divided by premium revenue. 
+ (b) Net earnings margin attributable to UnitedHealth Group common shareholders. 
+ (c) Return on equity is calculated as net earnings attributable to UnitedHealth Group common shareholders divided by average shareholders’ equity. Average shareholders’ equity is calculated using the shareholders’ equity balance at the end of the preceding year and the shareholders’ equity balances at the end of each of the four quarters of the year presented. 
+ 2024 RESULTS OF OPERATIONS COMPARED TO 2023 RESULTS 
+ Consolidated Financial Results 
+ Revenues 
+ The increases in revenues were primarily driven by growth in Optum Rx, UnitedHealthcare’s domestic offerings and Optum Health, partially offset by the sale of UnitedHealthcare’s Brazil operations. 
+ Medical Costs and MCR 
+ Medical costs increased primarily due to growth in people served through Medicare Advantage and domestic commercial offerings and member mix. The MCR increased as a result of the revenue effects of the Medicare funding reductions, Medicaid timing mismatch between people’s health status and rates, upshift in hospital coding intensity, specialty pharmaceutical prescribing patterns, member mix and due to incremental medical costs for accommodations made to care providers as a result of the Change Healthcare cyberattack. 
+ 
+ 
+ 27 
+ 
+ Table of Contents 
+ Operating Cost Ratio 
+ The operating cost ratio decreased primarily due to operating cost management and gains related to business portfolio refinement, including strategic transactions, partially offset by the impact of our direct response efforts to the Change Healthcare cyberattack and investments to support future growth. 
+ Loss on Sale of Subsidiary and Subsidiaries Held for Sale 
+ On February 6, 2024, the Company completed the sale of its Brazil operations. During the year ended December 31, 2024, we recorded a loss of $7.1 billion, of which $4.1 billion related to the impact of cumulative foreign currency translation losses previously included in accumulated other comprehensive loss. 
+ In the second quarter of 2024, the Company initiated a plan to sell its remaining South American operations, which were classified as held for sale as of December 31, 2024. During the year ended December 31, 2024, we recorded a loss of $1.2 billion, of which $855 million related to the impact of cumulative foreign currency translation losses. 
+ Reportable Segments 
+ See Note 14 of Notes to the Consolidated Financial Statements included in Part II, ITEM 8, “Financial Statements and Supplementary Data” for more information on our segments. We utilize various metrics to evaluate and manage our reportable segments, including individuals served by UnitedHealthcare by major market segment and funding arrangement, people served by Optum Health and adjusted scripts for Optum Rx. These metrics are the main drivers of revenue, earnings and cash flows at each business. The metrics also allow management and investors to evaluate and understand business mix, including the level and scope of services provided to people and pricing trends when comparing the metrics to revenue by segment. 
+ The following table presents a summary of the reportable segment financial information: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Years Ended December 31, 
+ 
+ Change 
+ 
+ (in millions, except percentages) 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ 2024 vs. 2023 
+ 
+ Revenues 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ UnitedHealthcare 
+ 
+ $ 
+ 298,208 
+ 
+ 
+ $ 
+ 281,360 
+ 
+ 
+ $ 
+ 249,741 
+ 
+ 
+ $ 
+ 16,848 
+ 
+ 
+ 6 
+ % 
+ 
+ Optum Health 
+ 
+ 105,358 
+ 
+ 
+ 95,319 
+ 
+ 
+ 71,174 
+ 
+ 
+ 10,039 
+ 
+ 
+ 11 
+ 
+ 
+ Optum Insight 
+ 
+ 18,757 
+ 
+ 
+ 18,932 
+ 
+ 
+ 14,581 
+ 
+ 
+ (175) 
+ 
+ 
+ (1) 
+ 
+ 
+ Optum Rx 
+ 
+ 133,231 
+ 
+ 
+ 116,087 
+ 
+ 
+ 99,773 
+ 
+ 
+ 17,144 
+ 
+ 
+ 15 
+ 
+ 
+ Optum eliminations 
+ 
+ (4,389) 
+ 
+ 
+ (3,703) 
+ 
+ 
+ (2,760) 
+ 
+ 
+ (686) 
+ 
+ 
+ 19 
+ 
+ 
+ 
+ Optum 
+ 
+ 252,957 
+ 
+ 
+ 226,635 
+ 
+ 
+ 182,768 
+ 
+ 
+ 26,322 
+ 
+ 
+ 12 
+ 
+ 
+ Eliminations 
+ 
+ (150,887) 
+ 
+ 
+ (136,373) 
+ 
+ 
+ (108,347) 
+ 
+ 
+ (14,514) 
+ 
+ 
+ 11 
+ 
+ 
+ Consolidated revenues 
+ 
+ $ 
+ 400,278 
+ 
+ 
+ $ 
+ 371,622 
+ 
+ 
+ $ 
+ 324,162 
+ 
+ 
+ $ 
+ 28,656 
+ 
+ 
+ 8 
+ % 
+ 
+ Earnings from operations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ UnitedHealthcare 
+ 
+ $ 
+ 15,584 
+ 
+ 
+ $ 
+ 16,415 
+ 
+ 
+ $ 
+ 14,379 
+ 
+ 
+ $ 
+ (831) 
+ 
+ 
+ (5) 
+ % 
+ 
+ Optum Health 
+ 
+ 7,770 
+ 
+ 
+ 6,560 
+ 
+ 
+ 6,032 
+ 
+ 
+ 1,210 
+ 
+ 
+ 18 
+ 
+ 
+ Optum Insight 
+ 
+ 3,097 
+ 
+ 
+ 4,268 
+ 
+ 
+ 3,588 
+ 
+ 
+ (1,171) 
+ 
+ 
+ (27) 
+ 
+ 
+ Optum Rx 
+ 
+ 5,836 
+ 
+ 
+ 5,115 
+ 
+ 
+ 4,436 
+ 
+ 
+ 721 
+ 
+ 
+ 14 
+ 
+ 
+ 
+ Optum 
+ 
+ 16,703 
+ 
+ 
+ 15,943 
+ 
+ 
+ 14,056 
+ 
+ 
+ 760 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ Consolidated earnings from operations 
+ 
+ $ 
+ 32,287 
+ 
+ 
+ $ 
+ 32,358 
+ 
+ 
+ $ 
+ 28,435 
+ 
+ 
+ $ 
+ (71) 
+ 
+ 
+ — 
+ % 
+ 
+ Operating margin 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ UnitedHealthcare 
+ 
+ 5.2 
+ % 
+ 
+ 5.8 
+ % 
+ 
+ 5.8 
+ % 
+ 
+ (0.6) 
+ % 
+ 
+ 
+ 
+ Optum Health 
+ 
+ 7.4 
+ 
+ 
+ 6.9 
+ 
+ 
+ 8.5 
+ 
+ 
+ 0.5 
+ 
+ 
+ 
+ 
+ Optum Insight 
+ 
+ 16.5 
+ 
+ 
+ 22.5 
+ 
+ 
+ 24.6 
+ 
+ 
+ (6.0) 
+ 
+ 
+ 
+ 
+ Optum Rx 
+ 
+ 4.4 
+ 
+ 
+ 4.4 
+ 
+ 
+ 4.4 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ Optum 
+ 
+ 6.6 
+ 
+ 
+ 7.0 
+ 
+ 
+ 7.7 
+ 
+ 
+ (0.4) 
+ 
+ 
+ 
+ 
+ Consolidated operating margin 
+ 
+ 8.1 
+ % 
+ 
+ 8.7 
+ % 
+ 
+ 8.8 
+ % 
+ 
+ (0.6) 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 28 
+ 
+ Table of Contents 
+ UnitedHealthcare 
+ The following table summarizes UnitedHealthcare revenues by business: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Years Ended December 31, 
+ 
+ Change 
+ 
+ (in millions, except percentages) 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ 2024 vs. 2023 
+ 
+ UnitedHealthcare Employer & Individual - Domestic 
+ 
+ $ 
+ 74,489 
+ 
+ 
+ $ 
+ 67,187 
+ 
+ 
+ $ 
+ 63,599 
+ 
+ 
+ $ 
+ 7,302 
+ 
+ 
+ 11 
+ % 
+ 
+ UnitedHealthcare Employer & Individual - Global 
+ 
+ 3,667 
+ 
+ 
+ 9,307 
+ 
+ 
+ 8,668 
+ 
+ 
+ (5,640) 
+ 
+ 
+ (61) 
+ 
+ 
+ UnitedHealthcare Employer & Individual - Total 
+ 
+ 78,156 
+ 
+ 
+ 76,494 
+ 
+ 
+ 72,267 
+ 
+ 
+ 1,662 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ UnitedHealthcare Medicare & Retirement 
+ 
+ 139,482 
+ 
+ 
+ 129,862 
+ 
+ 
+ 113,671 
+ 
+ 
+ 9,620 
+ 
+ 
+ 7 
+ 
+ 
+ 
+ UnitedHealthcare Community & State 
+ 
+ 80,570 
+ 
+ 
+ 75,004 
+ 
+ 
+ 63,803 
+ 
+ 
+ 5,566 
+ 
+ 
+ 7 
+ 
+ 
+ Total UnitedHealthcare revenues 
+ 
+ $ 
+ 298,208 
+ 
+ 
+ $ 
+ 281,360 
+ 
+ 
+ $ 
+ 249,741 
+ 
+ 
+ $ 
+ 16,848 
+ 
+ 
+ 6 
+ % 
+ The following table summarizes the number of individuals served by our UnitedHealthcare businesses, by major market segment and funding arrangement: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ December 31, 
+ 
+ Change 
+ 
+ (in thousands, except percentages) 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ 2024 vs. 2023 
+ 
+ Commercial - domestic: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Risk-based 
+ 
+ 8,845 
+ 
+ 
+ 8,115 
+ 
+ 
+ 8,045 
+ 
+ 
+ 730 
+ 
+ 
+ 9 
+ % 
+ 
+ Fee-based 
+ 
+ 20,885 
+ 
+ 
+ 19,200 
+ 
+ 
+ 18,640 
+ 
+ 
+ 1,685 
+ 
+ 
+ 9 
+ 
+ 
+ Total commercial - domestic 
+ 
+ 29,730 
+ 
+ 
+ 27,315 
+ 
+ 
+ 26,685 
+ 
+ 
+ 2,415 
+ 
+ 
+ 9 
+ 
+ 
+ Medicare Advantage 
+ 
+ 7,845 
+ 
+ 
+ 7,695 
+ 
+ 
+ 7,105 
+ 
+ 
+ 150 
+ 
+ 
+ 2 
+ 
+ 
+ Medicaid 
+ 
+ 7,435 
+ 
+ 
+ 7,845 
+ 
+ 
+ 8,170 
+ 
+ 
+ (410) 
+ 
+ 
+ (5) 
+ 
+ 
+ Medicare Supplement (Standardized) 
+ 
+ 4,335 
+ 
+ 
+ 4,355 
+ 
+ 
+ 4,375 
+ 
+ 
+ (20) 
+ 
+ 
+ — 
+ 
+ 
+ Total community and senior 
+ 
+ 19,615 
+ 
+ 
+ 19,895 
+ 
+ 
+ 19,650 
+ 
+ 
+ (280) 
+ 
+ 
+ (1) 
+ 
+ 
+ Total UnitedHealthcare - domestic medical 
+ 
+ 49,345 
+ 
+ 
+ 47,210 
+ 
+ 
+ 46,335 
+ 
+ 
+ 2,135 
+ 
+ 
+ 5 
+ 
+ 
+ Commercial - global 
+ 
+ 1,330 
+ 
+ 
+ 5,540 
+ 
+ 
+ 5,360 
+ 
+ 
+ (4,210) 
+ 
+ 
+ (76) 
+ 
+ 
+ Total UnitedHealthcare - medical 
+ 
+ 50,675 
+ 
+ 
+ 52,750 
+ 
+ 
+ 51,695 
+ 
+ 
+ (2,075) 
+ 
+ 
+ (4) 
+ % 
+ 
+ Supplemental Data: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Medicare Part D stand-alone 
+ 
+ 3,050 
+ 
+ 
+ 3,315 
+ 
+ 
+ 3,295 
+ 
+ 
+ (265) 
+ 
+ 
+ (8) 
+ % 
+ UnitedHealthcare’s revenues increased due to growth in the number of people served through Medicare Advantage and domestic commercial offerings, partially offset by decreased people served globally due to the sale of the Brazil operations and in Medicaid offerings due to redeterminations. Earnings from operations decreased due to Medicare Advantage funding reductions, the impacts of Medicaid redeterminations, member mix and incremental medical costs for accommodations to support care providers as a result of the Change Healthcare cyberattack, partially offset by gains related to business portfolio refinement, including strategic transactions, and the growth in the number of people served through Medicare Advantage and domestic commercial offerings. 
+ Optum 
+ Total revenues increased due to growth at Optum Rx and Optum Health. Earnings from operations increased with growth at Optum Health and Optum Rx, partially offset by decreased earnings from operations at Optum Insight. The results by segment were as follows: 
+ Optum Health 
+ Revenues at Optum Health increased primarily due to organic growth in patients served under value-based care arrangements. Earnings from operations increased due to gains related to business portfolio refinement, including strategic transactions, increased investment income and cost management initiatives, partially offset by Medicare Advantage funding reductions, costs associated with serving newly added patients under value-based care arrangements and medical care activity. Optum Health served approximately 100 million people as of December 31, 2024 compared to 103 million people as of December 31, 2023. 
+ 
+ 
+ 
+ 29 
+ 
+ Table of Contents 
+ Optum Insight 
+ Revenues at Optum Insight decreased primarily due the business disruption impacts from the Change Healthcare cyberattack, partially offset by growth in technology services. Earnings from operations decreased primarily due to direct response costs and business disruption impacts related to the Change Healthcare cyberattack, partially offset by gains related to business portfolio refinement, including strategic transactions. 
+ Optum Rx 
+ Revenues and earnings from operations at Optum Rx increased due to higher script volumes from both new clients and growth in existing clients and growth in pharmacy services. Earnings from operations also increased due to operating cost efficiencies and supply chain initiatives. Optum Rx fulfilled 1,623 million and 1,542 million adjusted scripts in 2024 and 2023, respectively. 
+ 
+ LIQUIDITY, FINANCIAL CONDITION AND CAPITAL RESOURCES 
+ Liquidity 
+ Introduction 
+ We manage our liquidity and financial position in the context of our overall business strategy. We continually forecast and manage our cash, investments, working capital balances and capital structure to meet the short-term and long-term obligations of our businesses while seeking to maintain liquidity and financial flexibility. Cash flows generated from operating activities are principally derived from earnings before noncash expenses. 
+ Our regulated subsidiaries generate significant cash flows from operations and are subject to, among other things, minimum levels of statutory capital, as defined by their respective jurisdictions, and restrictions on the timing and amount of dividends paid to their parent companies. 
+ Our U.S. regulated subsidiaries paid their parent companies dividends of $9.2 billion and $8.0 billion in 2024 and 2023, respectively. See Note 10 of the Notes to the Consolidated Financial Statements included in Part II, ITEM 8, “Financial Statements and Supplementary Data” for further detail concerning our regulated subsidiary dividends. 
+ Our nonregulated businesses also generate significant cash flows from operations available for general corporate use. Cash flows generated by these entities, combined with dividends from our regulated entities and financing through the issuance of long-term debt as well as issuance of commercial paper or the ability to draw under our committed credit facilities, further strengthen our operating and financial flexibility. We use these cash flows to expand our businesses through acquisitions, reinvest in our businesses through capital expenditures, repay debt and return capital to our shareholders through dividends and repurchases of our common stock. 
+ 
+ 
+ 30 
+ 
+ Table of Contents 
+ Summary of our Major Sources and Uses of Cash and Cash Equivalents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Years Ended December 31, 
+ 
+ Change 
+ 
+ (in millions) 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ 2024 vs. 2023 
+ 
+ Sources of cash: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cash provided by operating activities 
+ 
+ $ 
+ 24,204 
+ 
+ 
+ $ 
+ 29,068 
+ 
+ 
+ $ 
+ 26,206 
+ 
+ 
+ $ 
+ (4,864) 
+ 
+ 
+ Issuances of long-term debt and short-term borrowings, net of repayments 
+ 
+ 14,660 
+ 
+ 
+ 4,280 
+ 
+ 
+ 12,536 
+ 
+ 
+ 10,380 
+ 
+ 
+ 
+ Proceeds from common share issuances 
+ 
+ 1,846 
+ 
+ 
+ 1,353 
+ 
+ 
+ 1,253 
+ 
+ 
+ 493 
+ 
+ 
+ 
+ Customer funds administered 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ 5,548 
+ 
+ 
+ — 
+ 
+ 
+ Cash received for dispositions 
+ 
+ 2,041 
+ 
+ 
+ 685 
+ 
+ 
+ 3,414 
+ 
+ 
+ 1,356 
+ 
+ 
+ Sales and maturities of investments, net of purchases 
+ 
+ 525 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ 525 
+ 
+ 
+ Total sources of cash 
+ 
+ 43,276 
+ 
+ 
+ 35,386 
+ 
+ 
+ 48,957 
+ 
+ 
+ 7,890 
+ 
+ 
+ Uses of cash: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cash paid for acquisitions and other transactions, net of cash assumed 
+ 
+ (13,408) 
+ 
+ 
+ (10,136) 
+ 
+ 
+ (21,458) 
+ 
+ 
+ (3,272) 
+ 
+ 
+ Common share repurchases 
+ 
+ (9,000) 
+ 
+ 
+ (8,000) 
+ 
+ 
+ (7,000) 
+ 
+ 
+ (1,000) 
+ 
+ 
+ Cash dividends paid 
+ 
+ (7,533) 
+ 
+ 
+ (6,761) 
+ 
+ 
+ (5,991) 
+ 
+ 
+ (772) 
+ 
+ 
+ 
+ Purchases of property, equipment and capitalized software 
+ 
+ (3,499) 
+ 
+ 
+ (3,386) 
+ 
+ 
+ (2,802) 
+ 
+ 
+ (113) 
+ 
+ 
+ Purchases of investments, net of sales and maturities 
+ 
+ — 
+ 
+ 
+ (1,777) 
+ 
+ 
+ (6,837) 
+ 
+ 
+ 1,777 
+ 
+ 
+ Purchases of redeemable noncontrolling interests 
+ 
+ (280) 
+ 
+ 
+ (730) 
+ 
+ 
+ (176) 
+ 
+ 
+ 450 
+ 
+ 
+ Loans to care providers - cyberattack, net of repayments 
+ 
+ (4,519) 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ (4,519) 
+ 
+ 
+ Customer funds administered 
+ 
+ (1,560) 
+ 
+ 
+ (521) 
+ 
+ 
+ — 
+ 
+ 
+ (1,039) 
+ 
+ 
+ Other 
+ 
+ (3,312) 
+ 
+ 
+ (2,110) 
+ 
+ 
+ (2,737) 
+ 
+ 
+ (1,202) 
+ 
+ 
+ Total uses of cash 
+ 
+ (43,111) 
+ 
+ 
+ (33,421) 
+ 
+ 
+ (47,001) 
+ 
+ 
+ (9,690) 
+ 
+ 
+ 
+ Effect of exchange rate changes on cash and cash equivalents 
+ 
+ (61) 
+ 
+ 
+ 97 
+ 
+ 
+ 34 
+ 
+ 
+ (158) 
+ 
+ 
+ Net increase in cash and cash equivalents, including cash within businesses held for sale 
+ 
+ $ 
+ 104 
+ 
+ 
+ $ 
+ 2,062 
+ 
+ 
+ $ 
+ 1,990 
+ 
+ 
+ $ 
+ (1,958) 
+ 
+ 
+ Less: cash within businesses held for sale 
+ 
+ (219) 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ (219) 
+ 
+ 
+ Net (decrease) increase in cash and cash equivalents 
+ 
+ $ 
+ (115) 
+ 
+ 
+ $ 
+ 2,062 
+ 
+ 
+ $ 
+ 1,990 
+ 
+ 
+ $ 
+ (2,177) 
+ 
+ 2024 Cash Flows Compared to 2023 Cash Flows 
+ Decreased cash flows provided by operating activities were primarily driven by CMS Medicare funding reductions, Change Healthcare cyberattack response actions, increased medical costs and changes in working capital accounts. Other significant changes in sources or uses of cash year-over-year included increased net issuances of short-term borrowings and long-term debt, net sales and maturities of investments and cash received from dispositions, offset by loans to care providers in response to the Change Healthcare cyberattack, increased cash paid for acquisitions and other transactions, decreased customer funds administered and increased share repurchases. 
+ Financial Condition 
+ As of December 31, 2024, our cash, cash equivalent, available-for-sale debt securities and equity securities balances of $77.1 billion included $25.3 billion of cash and cash equivalents (of which approximately $800 million was available for general corporate use), $46.9 billion of debt securities and $4.9 billion of equity securities. Given the significant portion of our portfolio held in cash equivalents, we do not anticipate fluctuations in the aggregate fair value of our financial assets to have a material impact on our liquidity or capital position. Other sources of liquidity, primarily from operating cash flows and our commercial paper program, which is fully supported by our bank credit facilities, reduce the need to sell investments during adverse market conditions. See Note 4 of the Notes to the Consolidated Financial Statements included in Part II, ITEM 8, “Financial Statements and Supplementary Data” for further detail concerning our fair value measurements. 
+ Our available-for-sale debt portfolio had a weighted-average duration of 4.2 years and a weighted-average credit rating of “Double A” as of December 31, 2024. When multiple credit ratings are available for an individual security, the average of the available ratings is used to determine the weighted-average credit rating. 
+ 
+ 
+ 31 
+ 
+ Table of Contents 
+ Capital Resources and Uses of Liquidity 
+ Cash Requirements. The Company’s cash requirements within the next twelve months include medical costs payable, accounts payable and accrued liabilities, short-term borrowings and current maturities of long-term debt, other current liabilities, and purchase commitments and other obligations. We expect the cash required to meet these obligations to be primarily generated through cash flows from current operations; cash available for general corporate use; and the realization of current assets, such as accounts receivable. 
+ Our long-term cash requirements under our various contractual obligations and commitments include: 
+ • Debt obligations. See Note 8 of the Notes to the Consolidated Financial Statements included in Part II, ITEM 8, “Financial Statements and Supplementary Data ” for further detail of our long-term debt and the timing of expected future payments. Interest coupon payments are typically paid semi-annually. 
+ • Operating leases. See Note 12 of the Notes to the Consolidated Financial Statements included in Part II, ITEM 8, “Financial Statements and Supplementary Data ” for further detail of our obligations and the timing of expected future payments. 
+ • Purchase and other obligations. These include $11.5 billion, $2.4 billion of which is expected to be paid within the next twelve months, of fixed or minimum commitments under existing purchase obligations for goods and services, including agreements cancelable with the payment of an early termination penalty, and remaining capital commitments for venture capital funds, strategic transactions and other funding commitments. These amounts exclude agreements cancelable without penalty and liabilities to the extent recorded in our Consolidated Balance Sheets as of December 31, 2024. 
+ • Other liabilities. These include other long-term liabilities reflected in our Consolidated Balance Sheets as of December 31, 2024, including obligations associated with certain employee benefit programs, unrecognized tax benefits and various long-term liabilities, which have some inherent uncertainty in the timing of these payments. 
+ • Redeemable noncontrolling interests. See Note 2 of the Notes to the Consolidated Financial Statements included in Part II, ITEM 8, “Financial Statements and Supplementary Data ” for further detail. We do not have any material potential required redemptions in the next twelve months. 
+ We expect the cash required to meet our long-term obligations to be primarily generated through future cash flows from operations. However, we also have the ability to generate cash to satisfy both our current and long-term requirements through the issuance of commercial paper, issuance of long-term debt, or drawing under our committed credit facilities or the ability to sell investments. We believe our capital resources are sufficient to meet future, short-term and long-term, liquidity needs. 
+ Short-Term Borrowings. Our revolving bank credit facilities provide liquidity support for our commercial paper borrowing program, which facilitates the private placement of senior unsecured debt through independent broker-dealers, and are available for general corporate purposes. For more information on our commercial paper and bank credit facilities, see Note 8 of the Notes to the Consolidated Financial Statements included in Part II, ITEM 8, “Financial Statements and Supplementary Data.” 
+ As of December 31, 2024, we were in compliance with the various covenants under our bank credit facilities. 
+ Long-Term Debt. Periodically, we access capital markets to issue long-term debt for general corporate purposes, such as to meet our working capital requirements, to refinance debt, to finance acquisitions or for share repurchases. For more information on our debt, see Note 8 of the Notes to the Consolidated Financial Statements included in Part II, ITEM 8 “Financial Statements and Supplementary Data.” 
+ Credit Ratings. Our credit ratings as of December 31, 2024 were as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Moody’s 
+ 
+ S&P Global 
+ 
+ Fitch 
+ 
+ A.M. Best 
+ 
+ 
+ Ratings 
+ 
+ Outlook 
+ 
+ Ratings 
+ 
+ Outlook 
+ 
+ Ratings 
+ 
+ Outlook 
+ 
+ Ratings 
+ 
+ Outlook 
+ 
+ Senior unsecured debt 
+ A2 
+ 
+ Stable 
+ 
+ A+ 
+ 
+ Stable 
+ 
+ A 
+ 
+ Stable 
+ 
+ A 
+ 
+ Stable 
+ 
+ Commercial paper 
+ P-1 
+ 
+ n/a 
+ 
+ A-1 
+ 
+ n/a 
+ 
+ F1 
+ 
+ n/a 
+ 
+ AMB-1+ 
+ 
+ n/a 
+ The availability of financing in the form of debt or equity is influenced by many factors, including our profitability, operating cash flows, debt levels, credit ratings, debt covenants and other contractual restrictions, regulatory requirements and economic and market conditions. A significant downgrade in our credit ratings or adverse conditions in the capital markets may increase the cost of borrowing for us or limit our access to capital. 
+ 
+ 
+ 
+ 32 
+ 
+ Table of Contents 
+ Share Repurchase Program. In June 2024, our Board of Directors amended our share repurchase program to authorize the repurchase of up to 35 million shares of Common Stock, in addition to all remaining shares authorized to be repurchased under the Board’s 2018 renewal of the program. As of December 31, 2024, we had Board of Directors’ authorization to purchase up to 33 million shares of our common stock. The Board of Directors from time to time may further amend the share repurchase program in order to increase the authorized number of shares which may be repurchased under the program. For more information on our share repurchase program, see Note 10 of the Notes to the Consolidated Financial Statements included in Part II, ITEM 8, “Financial Statements and Supplementary Data.” 
+ Dividends. In June 2024, our Board of Directors increased the Company’s quarterly cash dividend to shareholders to an annual rate of $8.40 compared to $7.52 per share. For more information on our dividend, see Note 10 of the Notes to the Consolidated Financial Statements included in Part II, ITEM 8, “Financial Statements and Supplementary Data.” 
+ Pending Acquisitions. As of December 31, 2024, we have entered into agreements to acquire companies in the health care sector, subject to regulatory approval and other customary closing conditions. The total anticipated capital required for these acquisitions, excluding the payoff of acquired indebtedness, is approximately $4 billion. 
+ We do not have other significant contractual obligations or commitments requiring cash resources. However, we continually evaluate opportunities to expand our operations, which include internal development of new products, programs and technology applications and may include acquisitions. 
+ 
+ CRITICAL ACCOUNTING ESTIMATES 
+ Critical accounting estimates are those estimates requiring management to make challenging, subjective or complex judgments, often because they must estimate the effects of matters inherently uncertain and may change in subsequent periods. Critical accounting estimates involve judgments and uncertainties which are sufficiently sensitive and may result in materially different results under different assumptions and conditions. 
+ Medical Costs Payable 
+ Medical costs and medical costs payable include estimates of our obligations for medical care services rendered on behalf of consumers, but for which claims have either not yet been received or processed. Depending on the health care professional and type of service, the typical billing lag for services can be up to 90 days from the date of service. Approximately 90% of claims related to medical care services are known and settled within 90 days from the date of service. 
+ In each reporting period, our operating results include the effects of more completely developed medical costs payable estimates associated with previously reported periods. If the revised estimate of prior period medical costs is less than the previous estimate, we will decrease reported medical costs in the current period (favorable development). If the revised estimate of prior period medical costs is more than the previous estimate, we will increase reported medical costs in the current period (unfavorable development). Medical costs in 2024, 2023 and 2022 included favorable medical cost development related to prior years of $700 million, $840 million and $410 million, respectively. 
+ In developing our medical costs payable estimates, we apply different estimation methods depending on the month for which incurred claims are being estimated. For example, for the most recent two months, we estimate claim costs incurred by applying observed medical cost trend factors to the average per member per month (PMPM) medical costs incurred in prior months for which more complete claim data is available, supplemented by a review of near-term completion factors. 
+ Completion Factors. A completion factor is an actuarial estimate, based upon historical experience and analysis of current trends, of the percentage of incurred claims during a given period adjudicated by us at the date of estimation. Completion factors are the most significant factors we use in developing our medical costs payable estimates for periods prior to the most recent two months. Completion factors include judgments in relation to claim submissions such as the time from date of service to claim receipt, claim levels and processing cycles, as well as other factors. If actual claims submission rates from providers (which can be influenced by a number of factors, including provider mix and electronic versus manual submissions), actual care activity incurred (which can be influenced by pandemics or seasonal illnesses, such as influenza), or our claim processing patterns are different than estimated, our reserve estimates may be significantly impacted. 
+ 
+ 
+ 33 
+ 
+ Table of Contents 
+ The following table illustrates the sensitivity of these factors and the estimated potential impact on our medical costs payable estimates for those periods as of December 31, 2024: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Completion Factors (Decrease) Increase in Factors 
+ 
+ Increase (Decrease) In Medical Costs Payable 
+ 
+ 
+ 
+ (in millions) 
+ 
+ (0.75)% 
+ 
+ $ 
+ 973 
+ 
+ 
+ (0.50) 
+ 
+ 647 
+ 
+ 
+ (0.25) 
+ 
+ 322 
+ 
+ 
+ 0.25 
+ 
+ (321) 
+ 
+ 
+ 0.50 
+ 
+ (640) 
+ 
+ 
+ 0.75 
+ 
+ (958) 
+ 
+ Medical Cost Per Member Per Month Trend Factors. Medical cost PMPM trend factors are significant factors we use in developing our medical costs payable estimates for the most recent two months. Medical cost trend factors are developed through a comprehensive analysis of claims incurred in prior months, provider contracting and expected unit costs, benefit design and a review of a broad set of health care utilization indicators. These factors include but are not limited to pharmacy utilization trends, inpatient hospital authorization data and seasonal and other incidence data from the National Centers for Disease Control. We also consider macroeconomic variables such as GDP growth, employment and disposable income. A large number of factors can cause the medical cost trend to vary from our estimates, including: our ability and practices to manage medical and pharmaceutical costs, changes in level and mix of services utilized; mix of benefits offered, including the impact of co-pays and deductibles; changes in medical practices; and catastrophes, epidemics and pandemics. 
+ The following table illustrates the sensitivity of these factors and the estimated potential impact on our medical costs payable estimates for the most recent two months as of December 31, 2024: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Medical Cost PMPM Quarterly Trend Increase (Decrease) in Factors 
+ 
+ Increase (Decrease) In Medical Costs Payable 
+ 
+ 
+ 
+ (in millions) 
+ 
+ 3% 
+ 
+ $ 
+ 1,264 
+ 
+ 
+ 2 
+ 
+ 843 
+ 
+ 
+ 1 
+ 
+ 421 
+ 
+ 
+ (1) 
+ 
+ (421) 
+ 
+ 
+ (2) 
+ 
+ (843) 
+ 
+ 
+ (3) 
+ 
+ (1,264) 
+ 
+ The completion factors and medical costs PMPM trend factors analyses above include outcomes considered reasonably likely based on our historical experience estimating liabilities for incurred but not reported benefit claims. 
+ Management believes the amount of medical costs payable is reasonable and adequate to cover our liability for unpaid claims as of December 31, 2024; however, actual claim payments may differ from established estimates as discussed above. Assuming a hypothetical 1% difference between our December 31, 2024 estimates of medical costs payable and actual medical costs payable, 2024 net earnings would have increased or decreased by approximately $260 million. 
+ For more detail related to our medical cost estimates, see Note 2 of the Notes to the Consolidated Financial Statements included in Part II, ITEM 8, “Financial Statements and Supplementary Data.” 
+ Goodwill 
+ We evaluate goodwill for impairment annually or more frequently when an event occurs or circumstances change indicating the carrying value may not be recoverable. When testing goodwill for impairment, we may first assess qualitative factors to determine if it is more likely than not the carrying value of a reporting unit exceeds its estimated fair value. During a qualitative analysis, we consider the impact of changes, if any, to the following factors: macroeconomic, industry and market factors; cost factors; changes in overall financial performance; and any other relevant events and uncertainties impacting a reporting unit. If our qualitative assessment indicates a goodwill impairment is more likely than not, we perform additional quantitative analyses. We may also elect to skip the qualitative testing and proceed directly to the quantitative testing. For reporting units where a quantitative analysis is performed, we perform a test measuring the fair values of the reporting units and comparing them to their carrying values, including goodwill. If the fair value is less than the carrying value of the reporting unit, an impairment is recognized for the difference, up to the carrying amount of goodwill. 
+ 
+ 
+ 
+ 34 
+ 
+ Table of Contents 
+ We estimate the fair values of our reporting units using a discounted cash flow method which includes assumptions about a wide variety of internal and external factors. Significant assumptions used in the discounted cash flow method include financial projections of free cash flow, including revenue trends, medical costs trends, operating productivity, income taxes and capital levels; long-term growth rates for determining terminal value beyond the discretely forecasted periods; and discount rates. For each reporting unit, comparative market multiples are used to corroborate the results of our discounted cash flow test. 
+ Financial projections and long-term growth rates used for our reporting units are consistent with, and use inputs from, our internal long-term business plan and strategies. Discount rates are determined for each reporting unit and include consideration of the implied risk inherent in their forecasts. Our most significant estimate in the discount rate determinations involves our adjustments to the peer company weighted average costs of capital reflecting reporting unit-specific factors. We have not made any adjustments to decrease a discount rate below the calculated peer company weighted average cost of capital for any reporting unit. Company-specific adjustments to discount rates are subjective and thus are difficult to measure with certainty. The passage of time and the availability of additional information regarding areas of uncertainty with respect to the reporting units’ operations could cause these assumptions to change in the future. Additionally, as part of our quantitative impairment testing, we perform various sensitivity analyses on certain key assumptions, such as discount rates and cash flow projections to analyze the potential for a material impact. As of October 1, 2024, we completed our annual impairment tests for goodwill with all of our reporting units having fair values substantially in excess of their carrying values. 
+ LEGAL MATTERS 
+ A description of our legal proceedings is presented in Note 12 of Notes to the Consolidated Financial Statements included in Part II, ITEM 8, “Financial Statements and Supplementary Data.” 
+ CONCENTRATIONS OF CREDIT RISK 
+ Investments in financial instruments such as marketable securities and accounts receivable may subject us to concentrations of credit risk. Our investments in marketable securities are managed under an investment policy authorized by our Board of Directors. This policy limits the amounts which may be invested in any one issuer and generally limits our investments to U.S. government and agency securities, state and municipal securities and corporate debt obligations of investment grade. Concentrations of credit risk with respect to accounts receivable are limited due to the large number of employer groups and other customers constituting our client base. As of December 31, 2024, there were no significant concentrations of credit risk. 
+ 
+ 
+ 35 
+ 
+ 
+ Table of Contents 
