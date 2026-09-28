@@ -94,7 +94,7 @@ if page == "Tổng quan":
     k2.metric("Tone trung bình", vi(frame.tone.mean(), 4))
     k3.metric("CAR trung bình", vi(100 * frame[car].mean(), 2) + "%")
     k4.metric("p baseline · HC3", vi(baseline.p_value, 3))
-    st.info(f"Toàn mẫu: b = {vi(baseline.coefficient, 5)}, p = {vi(baseline.p_value, 5)}, CI 95% [{vi(baseline.ci_low, 4)}; {vi(baseline.ci_high, 4)}], N = {int(baseline.n)}. Kết quả không chứng minh nhân quả. Bộ lọc phía trái chỉ thay biểu đồ; hệ số này thuộc toàn mẫu.")
+    st.info(f"Kết quả hồi quy trên toàn bộ {int(baseline.n)} báo cáo: hệ số tone = {vi(baseline.coefficient, 5)}, p = {vi(baseline.p_value, 5)}, khoảng tin cậy 95% [{vi(baseline.ci_low, 4)}; {vi(baseline.ci_high, 4)}]. Chưa đủ cơ sở để nói tone làm giá cổ phiếu thay đổi. Chọn doanh nghiệp hoặc năm ở bên trái sẽ đổi biểu đồ, nhưng các số hồi quy trong ô này vẫn tính trên toàn bộ mẫu.")
     a,b = st.columns(2)
     with a:
         st.markdown("#### Tone và CAR")

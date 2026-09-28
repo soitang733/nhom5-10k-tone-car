@@ -114,7 +114,6 @@ DOWNLOADS = {'report': ROOT / 'outputs/Nhom5_BaoCao.html',
              'panel': ROOT / 'outputs/real/same/car_panel.csv',
              'regressions': ROOT / 'outputs/real/same/regressions.csv',
              'audit': ROOT / 'data/research_audit.csv',
-             'notebook': ROOT / 'notebooks/final_analysis.ipynb',
              'zip': ROOT.parent / 'Nhom5_Tone_CAR.zip'}
 
 

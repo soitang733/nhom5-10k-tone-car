@@ -10,6 +10,3 @@ matplotlib
 python-dotenv
 nltk
 pytest
-nbformat
-nbclient
-ipykernel
