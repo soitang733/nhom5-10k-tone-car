@@ -80,6 +80,7 @@ with st.sidebar:
     firm = st.selectbox("Doanh nghiệp", ["Tất cả"] + sorted(base.ticker.unique().tolist()))
     year = st.selectbox("Năm tài chính", ["Tất cả"] + [str(x) for x in sorted(base.fiscal_year.unique())])
     st.caption("Snapshot dữ liệu thật · FY2016–2025")
+    st.caption(f"Bản công khai: {meta['firms']} doanh nghiệp · {meta['filings']} báo cáo 10-K")
 
 frame = selected_panel(alignment, firm, year)
 st.markdown("<div class='hero'><h1>Phân tích văn bản báo cáo tài chính</h1><p>Từ ngôn ngữ MD&A trong 10-K đến phản ứng thị trường.</p></div>", unsafe_allow_html=True)

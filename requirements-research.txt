@@ -1,0 +1,15 @@
+numpy
+pandas
+requests
+beautifulsoup4
+lxml
+yfinance
+exchange-calendars
+statsmodels
+matplotlib
+python-dotenv
+nltk
+pytest
+nbformat
+nbclient
+ipykernel
