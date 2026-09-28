@@ -1,5 +1,5 @@
 streamlit==1.64.0
 pandas==2.3.3
-numpy==2.2.6
+numpy==2.3.5
 statsmodels==0.15.0
 protobuf==5.29.5
