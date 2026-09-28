@@ -1,0 +1,2084 @@
+ ITEM 7. 
+ Management’s Discussion and Analysis of Financial Condition and Results of Operations 
+ 
+ Overview 
+ Teledyne provides enabling technologies to sense, analyze and distribute information for industrial growth markets that require advanced technology and high reliability. These markets include aerospace and defense, factory automation, air and water quality environmental monitoring, electronics design and development, oceanographic research, deepwater oil and gas exploration and production, medical imaging, and pharmaceutical research. Our products include digital imaging sensors, cameras and systems within the visible, infrared and X-ray spectra, monitoring and control instrumentation for marine and environmental applications, harsh environment interconnects, electronic test and measurement equipment, aircraft information management systems and defense electronics, and satellite communication subsystems. We also supply engineered systems for defense, space, environmental and energy applications. We believe our technological capabilities, innovation and the ability to invest in the development of new and enhanced products are critical to obtaining and maintaining leadership in our markets and the industries in which we compete. 
+ Information about results of operations and financial conditions for 2023 and 2024 can be found in “Management’s Discussion and Analysis of Financial Condition and Results of Operations” sections in the Company’s Annual Report on Form 10-K for the year ended December 29, 2024. 
+ 
+ 
+ 22 
+ 
+ 
+ Table of Contents 
+ 
+ Strategy 
+ Our strategy continues to emphasize growth in our four business segments: Digital Imaging, Instrumentation, Aerospace and Defense Electronics, and Engineered Systems. The markets in which we sell our enabling technologies are characterized by high barriers to entry and include specialized products and services not likely to be commoditized. We intend to strengthen and expand our business with targeted acquisitions and through product development. We continue to focus on balanced and disciplined capital deployment among capital expenditures, acquisitions, stock repurchases and product development. We aggressively pursue operational excellence to continually improve our margins and earnings by emphasizing cost containment and evaluating cost reductions in all aspects of our business. At Teledyne, operational excellence includes the rapid integration of the businesses we acquire. Using complementary technology across our businesses and through targeted R&D, we seek to create new products to grow our company and expand our addressable markets. We continually evaluate our businesses and products to ensure that they are aligned with our strategy. 
+ 
+ Trends and Other Matters Affecting Our Business 
+ The global trade environment continues to be highly dynamic, including new potential tariffs and retaliatory tariffs, and a number of the tariffs remain in effect. There have been continuing significant tariffs and trade sanctions between the United States and China. China has also restricted the export of certain rare earth minerals that we use in our products, which could disrupt the supply chain for these minerals and components made from these materials. Tariffs, trade restrictions and retaliatory measures could result in revenue reductions, cost increases on material used in our products or significant production delays, which could adversely affect our business, financial condition, operational results and cash flows. Our manufacturing facilities span across many countries which helps us mitigate the impact of certain tariffs and trade restrictions. Also, consistent with our strategy, we continually optimize our operations and take measures to contain costs to reduce the impact from tariffs. We may also implement additional pricing actions to mitigate the impact of these tariffs. We have been working to minimize potential delivery delays and shortages of components and raw materials needed for certain products we manufacture. To date, we believe our strategies have helped minimize our exposure to these conditions. It is unclear how the recent U.S. Supreme Court ruling invalidating certain tariffs will impact our exposure to tariffs or our strategy with respect to tariffs going forward. 
+ U.S. Government shutdowns could negatively impact our businesses. Previous U.S. Government shutdowns have resulted in delays in anticipated contract awards, issuances of export licenses, shipments and payments of invoices for several of our businesses. 
+ Sales recorded and costs incurred recorded by subsidiaries operating outside of the United States are translated into U.S. dollars using exchange rates effective during the respective period. As a result, we are exposed to movements in the exchange rates of various currencies against the U.S. dollar. We try to reduce this potential volatility in reported earnings primarily through derivative instruments and hedging activities. See Note 1 4 for additional discussion around our derivative instruments and hedging activities used to mitigate these impacts. 
+ During 2026, we plan to invest approximately $150 million in capital expenditures, principally to upgrade facilities and manufacturing equipment as well as to support internal growth initiatives. As part of a continuing effort to reduce costs and improve operating performance, we continue to take actions to consolidate and relocate certain facilities, rationalize products and reduce headcount across various businesses, reducing our exposure to weaker end markets. We continue to seek cost reductions in our businesses. 
+ 
+ Recent Acquisitions 
+ Consistent with our strategy, we completed four acquisitions in 2025 and two acquisitions in 2024. The financial results of these acquisitions have been included since the respective date of each acquisition. Our 2025 and 2024 acquisitions were within the Digital Imaging, Instrumentation and Aerospace and Defense Electronics segments. See Note 3 for additional information about our 2025 and 2024 business acquisitions. Subsequent to the end of the year, we have completed one acquisition which will be included within the Instrumentation segment. See Note 18 for additional information. 
+ 
+ 
+ 23 
+ 
+ 
+ Table of Contents 
+ 
+ Selected Consolidated Operating Results 
+ Our fiscal year is determined based on a 52- or 53-week convention ending on the Sunday nearest to December 31. Fiscal years 2025 and 2024 each contained 52 weeks. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (dollars in millions) 
+ 2025 
+ 
+ 2024 
+ 
+ $ Change 
+ 
+ % Change 
+ 
+ 
+ 
+ Net sales 
+ $ 
+ 6,115.4 
+ 
+ 
+ $ 
+ 5,670.0 
+ 
+ 
+ $ 
+ 445.4 
+ 
+ 
+ 7.9 
+ % 
+ 
+ 
+ 
+ Costs and expenses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of sales 
+ 3,500.6 
+ 
+ 
+ 3,235.2 
+ 
+ 
+ 265.4 
+ 
+ 
+ 8.2 
+ % 
+ 
+ 
+ 
+ Selling, general and administrative 
+ 931.1 
+ 
+ 
+ 902.6 
+ 
+ 
+ 28.5 
+ 
+ 
+ 3.2 
+ % 
+ 
+ 
+ 
+ Research and development 
+ 317.3 
+ 
+ 
+ 292.6 
+ 
+ 
+ 24.7 
+ 
+ 
+ 8.4 
+ % 
+ 
+ 
+ 
+ Acquired intangible asset amortization 
+ 216.6 
+ 
+ 
+ 198.0 
+ 
+ 
+ 18.6 
+ 
+ 
+ 9.4 
+ % 
+ 
+ 
+ 
+ Impairment of acquired intangible assets 
+ — 
+ 
+ 
+ 52.5 
+ 
+ 
+ (52.5) 
+ 
+ 
+ (100.0) 
+ % 
+ 
+ 
+ 
+ Total costs and expenses 
+ 4,965.6 
+ 
+ 
+ 4,680.9 
+ 
+ 
+ 284.7 
+ 
+ 
+ 6.1 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating income (loss) 
+ 1,149.8 
+ 
+ 
+ 989.1 
+ 
+ 
+ 160.7 
+ 
+ 
+ 16.2 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net income (loss) attributable to Teledyne 
+ $ 
+ 894.8 
+ 
+ 
+ $ 
+ 819.2 
+ 
+ 
+ $ 
+ 75.6 
+ 
+ 
+ 9.2 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Diluted earnings per common share 
+ $ 
+ 18.88 
+ 
+ 
+ $ 
+ 17.21 
+ 
+ 
+ $ 
+ 1.67 
+ 
+ 
+ 9.7 
+ % 
+ 
+ 
+ 
+ 
+ 24 
+ 
+ 
+ Table of Contents 
+ 
+ Consolidated Results of Operations 
+ Our businesses are aligned in four segments: Digital Imaging, Instrumentation, Aerospace and Defense Electronics, and Engineered Systems. Additional financial information about our business segments can be found in Note 4 . 
+ 2025 compared with 2024 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net sales (dollars in millions) 
+ 2025 
+ 
+ 2024 
+ 
+ $ Change 
+ 
+ % Change 
+ 
+ Digital Imaging 
+ $ 
+ 3,163.9 
+ 
+ 
+ $ 
+ 3,070.8 
+ 
+ 
+ $ 
+ 93.1 
+ 
+ 
+ 3.0 
+ % 
+ 
+ Instrumentation 
+ 1,457.1 
+ 
+ 
+ 1,382.6 
+ 
+ 
+ 74.5 
+ 
+ 
+ 5.4 
+ % 
+ 
+ Aerospace and Defense Electronics 
+ 1,058.7 
+ 
+ 
+ 776.8 
+ 
+ 
+ 281.9 
+ 
+ 
+ 36.3 
+ % 
+ 
+ Engineered Systems 
+ 435.7 
+ 
+ 
+ 439.8 
+ 
+ 
+ (4.1) 
+ 
+ 
+ (0.9) 
+ % 
+ 
+ Total net sales 
+ $ 
+ 6,115.4 
+ 
+ 
+ $ 
+ 5,670.0 
+ 
+ 
+ $ 
+ 445.4 
+ 
+ 
+ 7.9 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Results of operations (dollars in millions) 
+ 2025 
+ 
+ 2024 
+ 
+ $ Change 
+ 
+ % Change 
+ 
+ 
+ Operating income (loss): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Digital Imaging 
+ $ 
+ 528.2 
+ 
+ 
+ $ 
+ 442.0 
+ 
+ 
+ $ 
+ 86.2 
+ 
+ 
+ 19.5 
+ % 
+ 
+ Instrumentation 
+ 400.4 
+ 
+ 
+ 370.3 
+ 
+ 
+ 30.1 
+ 
+ 
+ 8.1 
+ % 
+ 
+ Aerospace and Defense Electronics 
+ 262.1 
+ 
+ 
+ 221.7 
+ 
+ 
+ 40.4 
+ 
+ 
+ 18.2 
+ % 
+ 
+ Engineered Systems 
+ 46.6 
+ 
+ 
+ 32.9 
+ 
+ 
+ 13.7 
+ 
+ 
+ 41.6 
+ % 
+ 
+ Corporate expense 
+ (87.5) 
+ 
+ 
+ (77.8) 
+ 
+ 
+ (9.7) 
+ 
+ 
+ 12.5 
+ % 
+ 
+ 
+ Total operating income (loss) 
+ 1,149.8 
+ 
+ 
+ 989.1 
+ 
+ 
+ 160.7 
+ 
+ 
+ 16.2 
+ % 
+ 
+ Interest and debt expense, net 
+ (59.6) 
+ 
+ 
+ (57.9) 
+ 
+ 
+ (1.7) 
+ 
+ 
+ 2.9 
+ % 
+ 
+ Non-service retirement benefit income 
+ 10.9 
+ 
+ 
+ 10.8 
+ 
+ 
+ 0.1 
+ 
+ 
+ 0.9 
+ % 
+ 
+ Gain (loss) on debt extinguishment 
+ 15.0 
+ 
+ 
+ — 
+ 
+ 
+ 15.0 
+ 
+ 
+ * 
+ 
+ Other income (expense), net 
+ (21.6) 
+ 
+ 
+ (4.1) 
+ 
+ 
+ (17.5) 
+ 
+ 
+ 426.8 
+ % 
+ 
+ Income (loss) before income taxes 
+ 1,094.5 
+ 
+ 
+ 937.9 
+ 
+ 
+ 156.6 
+ 
+ 
+ 16.7 
+ % 
+ 
+ Provision (benefit) for income taxes 
+ 198.8 
+ 
+ 
+ 117.2 
+ 
+ 
+ 81.6 
+ 
+ 
+ 69.6 
+ % 
+ 
+ Net income (loss) including noncontrolling interest 
+ 895.7 
+ 
+ 
+ 820.7 
+ 
+ 
+ 75.0 
+ 
+ 
+ 9.1 
+ % 
+ 
+ Less: Net income (loss) attributable to noncontrolling interest 
+ 0.9 
+ 
+ 
+ 1.5 
+ 
+ 
+ (0.6) 
+ 
+ 
+ (40.0) 
+ % 
+ 
+ Net income (loss) attributable to Teledyne 
+ $ 
+ 894.8 
+ 
+ 
+ $ 
+ 819.2 
+ 
+ 
+ $ 
+ 75.6 
+ 
+ 
+ 9.2 
+ % 
+ * Not meaningful 
+ Net Sales 
+ Net sales increased across three of our four business segments. Total year 2025 net sales included $270.1 million in incremental net sales from current and prior year acquisitions. Refer to “ Business Segment Operating Results ” later in this section for additional discussion of changes in net sales. In both 2025 and 2024, sales to international customers represented approximately 48% of total net sales. Approximately 25% and 24% of our total net sales in 2025 and 2024, respectively, were derived from contracts with agencies of, or prime contractors to, the U.S. Government. 
+ Cost of Sales 
+ Cost of sales increased in 2025, primarily driven by the impact of higher net sales. Cost of sales as a percentage of net sales for 2025 was 57.2%, compared with 57.1% for 2024. Refer to “Business Segment Operating Results” later in this section for additional discussion of changes in cost of sales. 
+ Selling, General and Administrative Expense 
+ Selling, general and administrative (“SG&A”) expense increased in 2025, primarily driven by higher sales across most segments. SG&A expense as a percentage of net sales was 15.2% for 2025, compared with 15.9% for 2024. Corporate expense in 2025 was $87.5 million, compared with $77.8 million in 2024, with the increase primarily related to higher compensation expense, including higher stock-based compensation as well as higher consulting and legal costs. 
+ Research and Development Expense 
+ R&D expense increased in 2025, primarily driven by increases within our Digital Imaging, Aerospace and Defense Electronics, and Instrumentation segments. 
+ 
+ 
+ 25 
+ 
+ Table of Contents 
+ 
+ Acquired Intangible Asset Amortization 
+ Acquired intangible asset amortization for 2025 was $216.6 million, compared with $198.0 million for 2024, with the increase primarily related to current and prior year acquisitions. 
+ Impairment of Acquired Intangible Assets 
+ We recorded $52.5 million of pretax, non-cash trademark impairments in 2024 in the Digital Imaging and Instrumentation segments. No comparative amounts were recorded in 2025. 
+ Pension Service Expense 
+ Pension service expense is included in both cost of sales and SG&A expense. In 2025 and 2024, pension service expense was $5.9 million and $6.2 million, respectively. 
+ Operating Income 
+ Operating income increased in 2025, primarily driven by higher operating income in each segment, including incremental operating income related to current and prior year acquisitions as well as $52.5 million of pretax, non-cash trademark impairments recorded in 2024. No trademark impairments were recorded in 2025. 
+ Non-operating Income and Expense 
+ Interest and debt expense, net of interest income, was $59.6 million in 2025, compared with $57.9 million in 2024. Non-service retirement benefit income was $10.9 million in 2025 and $10.8 million in 2024. Other income and expense, net was expense of $21.6 million in 2025 compared with expense of $4.1 million in 2024 and primarily related to foreign exchange losses in both periods. In 2025, we repurchased and retired $177.0 million of our fixed rate senior notes, recording a $15.0 million non-cash gain on the extinguishment of this debt, with no comparable amount recorded in 2024. 
+ Income Taxes 
+ The income tax provision considers income, permanent items, tax credits and various statutory tax rates. The effective tax rate increased in 2025 compared with 2024, primarily due to lower reversals of unrecognized tax benefits in 2025. See Note 9 for further information regarding our income taxes. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (dollars in millions) 
+ 2025 
+ 
+ 2024 
+ 
+ 
+ Provision (benefit) for income taxes 
+ $ 
+ 198.8 
+ 
+ $ 
+ 117.2 
+ 
+ Income (loss) before income taxes 
+ $ 
+ 1,094.5 
+ 
+ $ 
+ 937.9 
+ 
+ Effective tax rate 
+ 18.2% 
+ 
+ 12.5% 
+ In July 2025, the “One Big Beautiful Bill Act” (the “Act”) was enacted into law. The Act includes changes to U.S. tax law, including provisions to accelerate tax deductions for qualified property and research expense. The Company has estimated the 2025 impact in current results which includes a cash tax reduction of approximately $30.0 million. The Company will continue to evaluate elective decisions impacting cash taxes before the 2025 tax return is filed in 2026. The 2026 impact is estimated to include a cash tax reduction of between $60.0 million and $70.0 million. 
+ 
+ 
+ 26 
+ 
+ 
+ Table of Contents 
+ 
+ Business Segment Operating Results 
+ The following discussion of our four segments should be read in conjunction with Note 4 . 
+ 
+ Digital Imaging 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (dollars in millions) 
+ 2025 
+ 
+ 2024 
+ 
+ $ Change 
+ 
+ % Change 
+ 
+ Net sales 
+ $ 
+ 3,163.9 
+ 
+ $ 
+ 3,070.8 
+ 
+ $ 
+ 93.1 
+ 
+ 3.0% 
+ 
+ Cost of sales 
+ $ 
+ 1,771.4 
+ 
+ $ 
+ 1,708.0 
+ 
+ $ 
+ 63.4 
+ 
+ 3.7% 
+ 
+ 
+ Selling, general and administrative expense 
+ $ 
+ 491.5 
+ 
+ $ 
+ 510.7 
+ 
+ $ 
+ (19.2) 
+ 
+ (3.8)% 
+ 
+ 
+ Research and development expense 
+ $ 
+ 187.5 
+ 
+ $ 
+ 177.3 
+ 
+ $ 
+ 10.2 
+ 
+ 5.8% 
+ 
+ Acquired intangible asset amortization 
+ $ 
+ 185.3 
+ 
+ $ 
+ 183.3 
+ 
+ $ 
+ 2.0 
+ 
+ 1.1% 
+ 
+ 
+ Impairment of acquired intangible assets 
+ $ 
+ — 
+ 
+ $ 
+ 49.5 
+ 
+ $ 
+ (49.5) 
+ 
+ (100.0)% 
+ 
+ Operating income 
+ $ 
+ 528.2 
+ 
+ $ 
+ 442.0 
+ 
+ $ 
+ 86.2 
+ 
+ 19.5% 
+ 
+ Cost of sales % of net sales 
+ 56.0 
+ % 
+ 
+ 55.6 
+ % 
+ 
+ 
+ 
+ 0.4% 
+ 
+ 
+ Selling, general and administrative expense % of net sales 
+ 15.5 
+ % 
+ 
+ 16.6 
+ % 
+ 
+ 
+ 
+ (1.1)% 
+ 
+ 
+ Research and development expense % of net sales 
+ 5.9 
+ % 
+ 
+ 5.8 
+ % 
+ 
+ 
+ 
+ 0.1% 
+ 
+ Acquired intangible asset amortization % of net sales 
+ 5.9 
+ % 
+ 
+ 6.0 
+ % 
+ 
+ 
+ 
+ (0.1)% 
+ 
+ 
+ Impairment of acquired intangible assets % of net sales 
+ — 
+ % 
+ 
+ 1.6 
+ % 
+ 
+ 
+ 
+ (1.6)% 
+ 
+ Operating income % of net sales 
+ 16.7 
+ % 
+ 
+ 14.4 
+ % 
+ 
+ 
+ 
+ 2.3% 
+ 
+ International sales % of net sales 
+ 53.8 
+ % 
+ 
+ 55.5 
+ % 
+ 
+ 
+ 
+ (1.7)% 
+ 
+ U.S. Government sales % of net sales 
+ 20.4 
+ % 
+ 
+ 18.1 
+ % 
+ 
+ 
+ 
+ 2.3% 
+ Our Digital Imaging segment includes high-performance sensors, cameras and systems, within the visible, infrared and X-ray spectra for use in industrial, government and medical applications, as well as MEMS and high-performance, high-reliability semiconductors including analog-to-digital and digital-to-analog converters. 
+ 2025 compared with 2024 
+ Our Digital Imaging segment net sales for 2025 increased 3.0%. Operating income for 2025 increased 19.5%. 
+ Total year 2025 net sales included $21.2 million in incremental net sales from current and prior year acquisitions. Net sales increased primarily due to higher sales of commercial infrared imaging components and subsystems, unmanned air systems and surveillance systems, partially offset by lower sales of commercial infrared imaging systems, X-ray products, geospatial products and industrial automation imaging systems. Sales of commercial infrared imaging components and subsystems increased by $55.9 million, sales of unmanned air systems increased by $35.1 million, sales of surveillance systems increased by $28.7 million, sales of commercial infrared imaging systems decreased by $25.2 million, sales of X-ray products decreased by $14.2 million, sales of geospatial products decreased by $7.4 million, and sales of industrial automation imaging systems decreased by $5.6 million. 
+ Cost of sales and the cost of sales percentage increased, primarily due to unfavorable product mix. The SG&A expense decrease included the reduction of a contingent liability resulting from a change in estimate, partially offset by higher severance and facility consolidation costs. As a result, SG&A expense as a percentage of net sales decreased in 2025. R&D expense and R&D expense as a percentage of net sales increased, primarily due to the timing of FLIR unmanned systems product development activities. Acquired intangible asset amortization and acquired intangible asset amortization as a percentage of net sales increased slightly. 
+ Operating income increased, primarily due to higher net sales and lower SG&A as well as an impairment of intangible assets of $49.5 million in 2024 with no comparable amount in 2025, partially offset by unfavorable product mix during the period. As a result, operating income as a percentage of net sales increased during the period. 
+ 
+ 
+ 27 
+ 
+ 
+ Table of Contents 
+ 
+ Instrumentation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (dollars in millions) 
+ 2025 
+ 
+ 2024 
+ 
+ $ Change 
+ 
+ % Change 
+ 
+ Net sales 
+ $ 
+ 1,457.1 
+ 
+ $ 
+ 1,382.6 
+ 
+ $ 
+ 74.5 
+ 
+ 5.4% 
+ 
+ Cost of sales 
+ $ 
+ 742.5 
+ 
+ $ 
+ 706.4 
+ 
+ $ 
+ 36.1 
+ 
+ 5.1% 
+ 
+ 
+ Selling, general and administrative expense 
+ $ 
+ 201.9 
+ 
+ $ 
+ 196.4 
+ 
+ $ 
+ 5.5 
+ 
+ 2.8% 
+ 
+ 
+ Research and development expense 
+ $ 
+ 99.4 
+ 
+ $ 
+ 92.6 
+ 
+ $ 
+ 6.8 
+ 
+ 7.3% 
+ 
+ 
+ Acquired intangible asset amortization expense 
+ $ 
+ 12.9 
+ 
+ $ 
+ 13.9 
+ 
+ $ 
+ (1.0) 
+ 
+ (7.2)% 
+ 
+ 
+ Impairment of acquired intangible assets 
+ $ 
+ — 
+ 
+ $ 
+ 3.0 
+ 
+ $ 
+ (3.0) 
+ 
+ (100.0)% 
+ 
+ Operating income 
+ $ 
+ 400.4 
+ 
+ $ 
+ 370.3 
+ 
+ $ 
+ 30.1 
+ 
+ 8.1% 
+ 
+ Cost of sales % of net sales 
+ 50.9 
+ % 
+ 
+ 51.1 
+ % 
+ 
+ 
+ 
+ (0.2)% 
+ 
+ 
+ Selling, general and administrative expense % of net sales 
+ 13.9 
+ % 
+ 
+ 14.2 
+ % 
+ 
+ 
+ 
+ (0.3)% 
+ 
+ 
+ Research and development expense % of net sales 
+ 6.8 
+ % 
+ 
+ 6.7 
+ % 
+ 
+ 
+ 
+ 0.1% 
+ 
+ 
+ Acquired intangible asset amortization % of net sales 
+ 0.9 
+ % 
+ 
+ 1.0 
+ % 
+ 
+ 
+ 
+ (0.1)% 
+ 
+ 
+ Impairment of acquired intangible assets % of net sales 
+ — 
+ % 
+ 
+ 0.2 
+ % 
+ 
+ 
+ 
+ (0.2)% 
+ 
+ Operating income % of net sales 
+ 27.5 
+ % 
+ 
+ 26.8 
+ % 
+ 
+ 
+ 
+ 0.7% 
+ 
+ International sales % of net sales 
+ 57.5 
+ % 
+ 
+ 55.8 
+ % 
+ 
+ 
+ 
+ 1.7% 
+ 
+ U.S. Government sales % of net sales 
+ 8.6 
+ % 
+ 
+ 8.9 
+ % 
+ 
+ 
+ 
+ (0.3)% 
+ Our Instrumentation segment provides monitoring and control instruments for marine, environmental, industrial and other applications, as well as electronic test and measurement applications. We also provide power and communications connectivity devices for distributed instrumentation systems and sensor networks deployed in mission critical, harsh environments. 
+ 2025 compared with 2024 
+ Our Instrumentation segment net sales for 2025 increased 5.4%. Operating income for 2025 increased 8.1%. 
+ Total year 2025 net sales included $4.7 million in incremental net sales from current and prior year acquisitions which were all included within the Marine Instrumentation product line. Net sales increased due to higher sales in each product line. Sales of Marine Instrumentation increased $48.6 million due to stronger offshore energy and defense markets. Sales of Environmental Instrumentation increased $19.2 million primarily due to stronger sales of gas detection products and sales of Test and Measurement Instrumentation increased $6.7 million. 
+ Cost of sales increased primarily due to higher net sales. The cost of sales percentage decreased slightly, and SG&A expense as a percentage of net sales decreased primarily due to maintaining cost levels year-over-year. R&D expense increased due to higher Marine Instrumentation product development, and R&D expense as a percentage of net sales increased slightly. Acquired intangible asset amortization and acquired intangible asset amortization as a percentage of net sales decreased slightly. 
+ Operating income increased primarily due to higher net sales and an impairment of intangible assets of $3.0 million in 2024 with no comparable amount in 2025. Operating income as a percentage of net sales increased primarily due slower SG&A growth as compared with stronger net sales growth as well as an impairment of intangible assets in 2024 with no comparable amount recorded in 2025. 
+ 
+ 
+ 28 
+ 
+ 
+ Table of Contents 
+ 
+ Aerospace and Defense Electronics 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (dollars in millions) 
+ 2025 
+ 
+ 2024 
+ 
+ $ Change 
+ 
+ % Change 
+ 
+ Net sales 
+ $ 
+ 1,058.7 
+ 
+ $ 
+ 776.8 
+ 
+ $ 
+ 281.9 
+ 
+ 36.3% 
+ 
+ Cost of sales 
+ $ 
+ 624.6 
+ 
+ $ 
+ 441.3 
+ 
+ $ 
+ 183.3 
+ 
+ 41.5% 
+ 
+ 
+ Selling, general and administrative expense 
+ $ 
+ 123.8 
+ 
+ $ 
+ 91.2 
+ 
+ $ 
+ 32.6 
+ 
+ 35.7% 
+ 
+ 
+ Research and development expense 
+ $ 
+ 29.8 
+ 
+ $ 
+ 21.8 
+ 
+ $ 
+ 8.0 
+ 
+ 36.7% 
+ 
+ Acquired intangible asset amortization 
+ $ 
+ 18.4 
+ 
+ $ 
+ 0.8 
+ 
+ $ 
+ 17.6 
+ 
+ * 
+ 
+ Operating income 
+ $ 
+ 262.1 
+ 
+ $ 
+ 221.7 
+ 
+ $ 
+ 40.4 
+ 
+ 18.2% 
+ 
+ Cost of sales % of net sales 
+ 59.0 
+ % 
+ 
+ 56.8 
+ % 
+ 
+ 
+ 
+ 2.2% 
+ 
+ Selling, general and administrative expenses % of net sales 
+ 11.7 
+ % 
+ 
+ 11.8 
+ % 
+ 
+ 
+ 
+ (0.1)% 
+ 
+ 
+ Research and development expense % of net sales 
+ 2.8 
+ % 
+ 
+ 2.8 
+ % 
+ 
+ 
+ 
+ —% 
+ 
+ Acquired intangible asset amortization % of net sales 
+ 1.7 
+ % 
+ 
+ 0.1 
+ % 
+ 
+ 
+ 
+ 1.6% 
+ 
+ Operating income % of net sales 
+ 24.8 
+ % 
+ 
+ 28.5 
+ % 
+ 
+ 
+ 
+ (3.7)% 
+ 
+ International sales % of net sales 
+ 36.6 
+ % 
+ 
+ 32.3 
+ % 
+ 
+ 
+ 
+ 4.3% 
+ 
+ U.S. Government sales % of net sales 
+ 39.7 
+ % 
+ 
+ 39.6 
+ % 
+ 
+ 
+ 
+ 0.1% 
+ * Not meaningful 
+ Our Aerospace and Defense Electronics segment provides sophisticated electronic components and subsystems and communications products, including defense electronics, harsh environment interconnects, data acquisition and communications equipment for aircraft, components and subsystems for wireless and satellite communications, and general aviation batteries. 
+ 2025 compared with 2024 
+ Our Aerospace and Defense Electronics segment net sales for 2025 increased 36.3%. Operating income for 2025 increased 18.2%. 
+ Total year 2025 net sales included $244.2 million in incremental net sales from current year acquisitions. Net sales increased due to a $277.6 million increase for defense electronics and a $4.3 million increase for aerospace electronics. 
+ Cost of sales increased due to higher net sales, inventory step-up expense related to the 2025 acquisitions and unfavorable product mix, including recent acquisitions, which carry a higher cost of sales percentage, and as a result, the cost of sales percentage increased. SG&A expense increased primarily due to incremental SG&A from current year acquisitions, including higher transaction and integration costs related to these acquisitions. R&D expense increased primarily due to the current year acquisitions, and the R&D expense as a percentage of net sales was similar in both periods. Acquired intangible asset amortization increased primarily due to the 2025 acquisitions. 
+ Operating income increased primarily due to increased net sales, and operating income as a percentage of net sales decreased primarily due to higher transaction and integration costs, higher acquired intangible asset amortization and unfavorable product mix including lower gross margins on sales from 2025 acquisitions. 
+ 
+ 
+ 29 
+ 
+ 
+ Table of Contents 
+ 
+ Engineered Systems 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (dollars in millions) 
+ 2025 
+ 
+ 2024 
+ 
+ $ Change 
+ 
+ % Change 
+ 
+ Net sales 
+ $ 
+ 435.7 
+ 
+ $ 
+ 439.8 
+ 
+ $ 
+ (4.1) 
+ 
+ (0.9)% 
+ 
+ Cost of sales 
+ $ 
+ 362.1 
+ 
+ $ 
+ 379.5 
+ 
+ $ 
+ (17.4) 
+ 
+ (4.6)% 
+ 
+ 
+ Selling, general and administrative expense 
+ $ 
+ 26.4 
+ 
+ $ 
+ 26.5 
+ 
+ $ 
+ (0.1) 
+ 
+ (0.4)% 
+ 
+ 
+ Research and development expense 
+ $ 
+ 0.6 
+ 
+ $ 
+ 0.9 
+ 
+ $ 
+ (0.3) 
+ 
+ (33.3)% 
+ 
+ Operating income 
+ $ 
+ 46.6 
+ 
+ $ 
+ 32.9 
+ 
+ $ 
+ 13.7 
+ 
+ 41.6% 
+ 
+ Cost of sales % of net sales 
+ 83.1 
+ % 
+ 
+ 86.3 
+ % 
+ 
+ 
+ 
+ (3.2) 
+ % 
+ 
+ 
+ Selling, general and administrative expense % of net sales 
+ 6.1 
+ % 
+ 
+ 6.0 
+ % 
+ 
+ 
+ 
+ 0.1 
+ % 
+ 
+ 
+ Research and development expense % of net sales 
+ 0.1 
+ % 
+ 
+ 0.2 
+ % 
+ 
+ 
+ 
+ (0.1) 
+ % 
+ 
+ Operating income % of net sales 
+ 10.7 
+ % 
+ 
+ 7.5 
+ % 
+ 
+ 
+ 
+ 3.2 
+ % 
+ 
+ International sales % of net sales 
+ 1.3 
+ % 
+ 
+ 1.0 
+ % 
+ 
+ 
+ 
+ 0.3 
+ % 
+ 
+ U.S. Government sales % of net sales 
+ 84.5 
+ % 
+ 
+ 88.4 
+ % 
+ 
+ 
+ 
+ (3.9) 
+ % 
+ Our Engineered Systems segment provides innovative systems engineering and integration, advanced technology development, and manufacturing solutions for defense, space, environmental and energy applications, including the design and manufacture of electrochemical energy systems. 
+ 2025 compared with 2024 
+ Our Engineered Systems segment net sales for 2025 decreased 0.9%. Operating income for 2025 increased 41.6%. 
+ Net sales decreased due to a decrease of $4.9 million for engineered systems, partially offset by a $0.8 million increase in energy products. 
+ Cost of sales and cost of sales as a percentage of net sales decreased primarily due to favorable program mix. SG&A expense decreased slightly primarily due to lower bid and proposal expense, and SG&A expense as a percentage of net sales increased slightly primarily due to lower net sales. 
+ Operating income and operating income as a percentage of net sales increased primarily due to favorable program mix. 
+ 
+ Financial Condition, Liquidity and Capital Resources 
+ 
+ Principal Cash and Capital Requirements 
+ Our principal cash and capital requirements are to fund working capital needs, capital expenditures, income tax payments and debt service requirements as well as acquisitions. We may deploy cash for the stock repurchase program. It is anticipated that cash on hand, operating cash flow, together with available borrowings under our $1.2 billion credit facility, will be sufficient to meet these requirements during the next 12 months and during the period thereafter covered by our current longer-term business plan. To support acquisitions, we may need to raise additional capital. No cash pension contributions have been made since 2013 or are planned for 2026 for the domestic qualified pension plans. 
+ During the second quarter of 2025, we entered into a multi-currency notional cash pooling agreement with a financial institution to manage cash flow more efficiently and optimize liquidity. Under the terms of this arrangement, certain participating foreign subsidiaries combine their cash balances in pooling accounts at the same financial institution, with the ability to offset bank overdrafts of one participant against positive cash account balances held by another participant. The pool runs daily on a net positive cash basis and is not intended to be used as a source of funding. Amounts in each of the accounts are unencumbered and unrestricted with respect to use. The net positive cash balance related to this pooling arrangement is included in cash and cash equivalents on the consolidated balance sheets. 
+ 
+ Cash and Cash Equivalents 
+ Cash and cash equivalents totaled $352.4 million at December 28, 2025, compared with $649.8 million at December 29, 2024. In 2025, we generated $1,191.3 million of cash flow from operating activities, and we used our cash flow in 2025 to fund acquisitions, make stock repurchases as well as repurchase portions of our fixed rate senior notes. Cash equivalents consist of highly liquid money-market mutual funds with maturities of three months or less when purchased. 
+ 
+ 
+ 30 
+ 
+ 
+ Table of Contents 
+ 
+ Long-term Debt 
+ Long-term debt, including unamortized debt issuance costs, was $2,475.4 million at December 28, 2025, compared with $2,649.0 million at December 29, 2024. During 2025, the Company repurchased and retired $177.0 million of principal of its fixed rate senior notes for $162.0 million in cash. 
+ At December 28, 2025, we had $53.4 million in outstanding letters of credit, including $29.0 million against our credit facility. 
+ Our credit facility requires us to comply with various financial and operating covenants and at December 28, 2025, we were in compliance with these covenants and had a significant amount of margin between required financial covenant ratios and our actual ratios. Currently, we do not believe our ability to undertake additional debt financing, if needed, is reasonably likely to be materially impacted by debt restrictions under our credit agreements. Available borrowing capacity under the $1.20 billion credit facility, which is reduced by borrowings and $29.0 million in outstanding letters of credit, was $1,171.0 million at December 28, 2025. 
+ Our liquidity is not dependent upon the use of off-balance sheet financial arrangements. We have no off-balance sheet financing arrangements that incorporate the use of special purpose entities or unconsolidated entities. 
+ We may at any time and from time to time seek to retire or purchase our outstanding debt through cash purchases in open-market purchases, privately negotiated transactions or otherwise. Such repurchases, if any, will depend on prevailing market conditions, our liquidity requirements, contractual restrictions and other factors. The amounts involved may be material. 
+ See Note 8 for additional information regarding our credit facility and long-term debt. 
+ 
+ Stock Repurchases 
+ In July 2025, our Board approved a stock repurchase program authorizing the Company to repurchase up to $2.0 billion of our common stock. This authorization superseded the remaining prior open stock repurchase programs authorized by the Board. The newly authorized stock repurchase program does not have a stated expiration date. Shares may be repurchased from time to time in open-market transactions at prevailing market prices, in privately negotiated transactions or via an accelerated stock repurchase program. Shares could be repurchased in a plan pursuant to Rule 10b5-1 of the Securities Exchange Act of 1934. The number of shares purchased will depend on a variety of factors such as share price, levels of cash available, acquisitions and alternative investment opportunities available immediately or longer-term, and other regulatory, market or economic conditions. We currently intend to fund future share repurchases, if any, with cash on hand and available borrowings under our credit facility. 
+ During 2025, we repurchased approximately 0.8 million shares for $400.0 million with a weighted average price of $507.52 per share. 
+ 
+ Contractual Obligations 
+ The following table summarizes our expected cash outflows resulting from financial contracts and commitments at December 28, 2025: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Contractual obligations (in millions): 
+ 2026 
+ 
+ 2027 
+ 
+ 2028 
+ 
+ 2029 
+ 
+ 2030 
+ 
+ After 2031 
+ 
+ Total 
+ 
+ Debt obligations 
+ $ 
+ 450.1 
+ 
+ 
+ $ 
+ 0.1 
+ 
+ 
+ $ 
+ 700.1 
+ 
+ 
+ $ 
+ 0.1 
+ 
+ 
+ $ 
+ 427.4 
+ 
+ 
+ $ 
+ 911.2 
+ 
+ 
+ $ 
+ 2,489.0 
+ 
+ 
+ Interest expense (a) 
+ 54.8 
+ 
+ 
+ 53.0 
+ 
+ 
+ 41.2 
+ 
+ 
+ 36.5 
+ 
+ 
+ 32.2 
+ 
+ 
+ 6.3 
+ 
+ 
+ 224.0 
+ 
+ 
+ Operating lease obligations (b) 
+ 40.9 
+ 
+ 
+ 37.2 
+ 
+ 
+ 29.1 
+ 
+ 
+ 22.1 
+ 
+ 
+ 18.7 
+ 
+ 
+ 51.7 
+ 
+ 
+ 199.7 
+ 
+ 
+ Purchase obligations (c) 
+ 363.3 
+ 
+ 
+ 21.4 
+ 
+ 
+ 3.4 
+ 
+ 
+ 0.6 
+ 
+ 
+ 1.5 
+ 
+ 
+ 0.8 
+ 
+ 
+ 391.0 
+ 
+ 
+ Total 
+ $ 
+ 909.1 
+ 
+ 
+ $ 
+ 111.7 
+ 
+ 
+ $ 
+ 773.8 
+ 
+ 
+ $ 
+ 59.3 
+ 
+ 
+ $ 
+ 479.8 
+ 
+ 
+ $ 
+ 970.0 
+ 
+ 
+ $ 
+ 3,303.7 
+ 
+ (a) Interest expense related to the credit facility, including facility fees, is assumed to accrue at the rates in effect at year end 2025 and is assumed to be paid at the end of each quarter with the final payment in June 2029 when the credit facility expires. 
+ (b) Includes imputed interest and the short-term portion of lease obligations. 
+ (c) Purchase obligations generally include contractual obligations for the purchase of goods and services and capital commitments that are enforceable and legally binding on us and that specifies all significant terms, including: fixed or minimum quantities to be purchased; fixed, minimum, or variable price provisions; and the approximate timing of the transaction. 
+ Unrecognized tax benefits of $79.6 million and accrued interest and penalties on these tax matters of $11.4 million are not included in the table above. These unrecognized tax benefits, accrued interest and penalties are not included in the table above because $10.9 million is offset by deferred tax assets, and the remainder cannot be reasonably estimated to be settled in cash due to a lack of prior settlement history and offsetting credits. 
+ At December 28, 2025, we were not required, and accordingly are not planning, to make any cash contributions to the domestic qualified pension plans for 2026. Our minimum funding requirements after 2025 as set forth by the Employee Retirement 
+ 
+ 
+ 31 
+ 
+ Table of Contents 
+ 
+ Income Security Act, are dependent on several factors. Estimates beyond 2026 have not been provided due to the significant uncertainty of these amounts, which are subject to change until the Company’s pension assumptions can be updated at the appropriate times. In addition, certain pension contributions are eligible for future recovery through the pricing of products and services to the U.S. Government under certain government contracts, therefore, future cash contributions are not necessarily indicative of the impact these contributions may have on our liquidity. We also have payments due under our other postretirement benefit plans. These plans are not required to be funded in advance but are pay as you go. See further discussion in Note 10 . We monitor and manage our defined benefit pension plans obligation and may take additional actions to manage risk in the future. 
+ 
+ Operating Activities 
+ Net cash provided by operating activities was $1,191.3 million and $1,191.9 million in 2025 and 2024, respectively. 
+ Free cash flow (cash provided by operating activities less capital expenditures) was as follows (in millions): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 2024 
+ 
+ Cash provided by (used in) operating activities 
+ $ 
+ 1,191.3 
+ 
+ $ 
+ 1,191.9 
+ 
+ Less: Capital expenditures for property, plant and equipment 
+ (117.3) 
+ 
+ (83.7) 
+ 
+ 
+ Free cash flow (a) 
+ $ 
+ 1,074.0 
+ 
+ $ 
+ 1,108.2 
+ (a) We define free cash flow as cash provided by operating activities (a measure prescribed by U.S. generally accepted accounting principles “GAAP”) less capital expenditures for property, plant and equipment. We believe that this supplemental non-GAAP information is useful to assist management and the investment community in analyzing the Company’s ability to generate cash flow. 
+ 
+ Investing Activities 
+ Net cash used in investing activities was $937.9 million and $207.2 million in 2025 and 2024, respectively. Investing activities used cash for business acquisitions of $821.4 million and $123.7 million in 2025 and 2024, respectively (see “ Recent Developments ”). We funded the acquisitions from cash on hand. 
+ Cash flows relating to investing activities for capital expenditures was as follows (dollars in millions): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 2024 
+ 
+ 
+ $ Change 
+ 
+ 
+ % Change 
+ 
+ Digital Imaging 
+ $ 
+ 67.7 
+ 
+ 
+ $ 
+ 54.7 
+ 
+ 
+ $ 
+ 13.0 
+ 
+ 
+ 23.8 
+ % 
+ 
+ Instrumentation 
+ 15.1 
+ 
+ 
+ 15.0 
+ 
+ 
+ 0.1 
+ 
+ 
+ 0.7 
+ % 
+ 
+ Aerospace and Defense Electronics 
+ 19.4 
+ 
+ 
+ 7.2 
+ 
+ 
+ 12.2 
+ 
+ 
+ 169.4 
+ % 
+ 
+ Engineered Systems 
+ 4.7 
+ 
+ 
+ 2.4 
+ 
+ 
+ 2.3 
+ 
+ 
+ 95.8 
+ % 
+ 
+ 
+ Total segment capital expenditures 
+ 106.9 
+ 
+ 
+ 79.3 
+ 
+ 
+ 27.6 
+ 
+ 
+ 34.8 
+ % 
+ 
+ Corporate 
+ 10.4 
+ 
+ 
+ 4.4 
+ 
+ 
+ 6.0 
+ 
+ 
+ 136.4 
+ % 
+ 
+ 
+ Total Teledyne capital expenditures 
+ $ 
+ 117.3 
+ 
+ 
+ $ 
+ 83.7 
+ 
+ 
+ $ 
+ 33.6 
+ 
+ 
+ 40.1 
+ % 
+ During 2026, we plan to invest approximately $150 million in capital expenditures, principally to upgrade facilities and manufacturing equipment as well as to support internal growth initiatives. 
+ 
+ Financing Activities 
+ Net cash used in financing activities reflected net repayment of debt of $163.8 million, share repurchases of $402.9 million, net proceeds from the exercise of stock options of $48.8 million and acquired redeemable noncontrolling interest of NL Acoustics for $27.2 million in 2025. Net cash used in financing activities reflected net payments from debt of $600.6 million, share repurchases of $354.0 million and net proceeds from the exercise of stock options of $37.9 million in 2024. 
+ During 2025, we repurchased and retired $177.0 million in principal of our fixed rate senior notes for $162.0 million in cash. 
+ During 2024, we repaid $450.0 million Fixed Rate Senior Notes due April 2024 and $150.0 million for a term loan due October 2024. 
+ 
+ 
+ 32 
+ 
+ 
+ Table of Contents 
+ 
+ Other Matters 
+ 
+ Income Taxes 
+ Our income tax expense, deferred tax assets and liabilities, and reserves for unrecognized tax benefits reflect management’s best assessment of estimated current and future taxes to be paid. We are subject to income taxes in both the United States and numerous foreign jurisdictions. Significant judgments and estimates are required in determining the consolidated income tax expense. 
+ There is no deferred tax liability recognized for unrepatriated prior year earnings of the Company’s material subsidiaries in Canada, which would become taxable if distributed to the United States. The unrecognized deferred tax liability for this is estimated between $23 million to $26 million of potential tax. 
+ Deferred income taxes arise from temporary differences between the tax basis of assets and liabilities and their reported amount in the financial statements, which will result in taxable or deductible amounts in the future. In evaluating our ability to recover our deferred tax assets within the jurisdiction from which they arise, we consider all available positive and negative evidence, including scheduled reversals of deferred tax liabilities, projected future taxable income, tax-planning strategies and results of recent operations. In projecting future taxable income, we begin with historical results adjusted for the results of discontinued operations and incorporate assumptions about the amount of future state, federal and foreign pretax operating income adjusted for items that do not have tax consequences. The assumptions about future taxable income require significant judgment and are consistent with the plans and estimates we are using to manage the underlying businesses. In evaluating the objective evidence that historical results provide, we consider three years of cumulative operating income. Based on the Company’s history of operating earnings, expectations of future operating earnings and potential tax planning strategies, management believes that it is possible that some portion of deferred taxes will not be realized as a future tax benefit and therefore has recorded a valuation allowance. 
+ We file income tax returns in the U.S. federal jurisdiction and in various states and foreign jurisdictions. We have substantially concluded income tax matters in the United States through 2016, in Canada through 2012, in the UK through 2022, and in France through 2020. 
+ 
+ Costs and Pricing 
+ Inflation exists in certain markets in which we operate. Current inventory costs, the costs of labor, materials, equipment and other costs are considered in establishing sales pricing policies. In addition, we emphasize cost containment and cost reductions in all aspects of our business. 
+ 
+ Market Risk Disclosures 
+ Our primary exposure to market risk relates to changes in interest rates and foreign currency exchange rates. We periodically evaluate these risks and have taken measures to mitigate these risks. We own assets and operate facilities in countries that have been politically stable. 
+ Interest Rate Risk 
+ We are exposed to market risk through the interest rate on our borrowings under our $1.20 billion credit facility. As of December 28, 2025, no borrowings are outstanding under our credit facility. Future indebtedness incurred under our credit facility will expose us to interest rate risk. 
+ Foreign Currency Exchange Rate Risk 
+ Teledyne transacts business in various foreign currencies and has international sales and expenses denominated in foreign currencies, subjecting the Company to foreign currency risk. Our primary foreign currency risk management objective is to protect the U.S. dollar value of future cash flows and reduce the volatility of reported earnings, primarily achieved through the following: 
+ • We utilize foreign currency forward contracts to reduce the volatility of cash flows primarily related to forecasted revenue and expenses denominated in Canadian dollars for our Canadian companies, and in British pounds for our U.K. companies. These contracts are designated and qualify as cash flow hedges. 
+ • We utilize foreign currency forward contracts to mitigate foreign exchange rate risk associated with foreign currency denominated monetary assets and liabilities, including intercompany receivables and payables. 
+ • The Company utilizes cross-currency swaps to hedge portions of the Company’s euro denominated net investments against the effect of exchange rate fluctuations on the translation of foreign currency balances to the U.S. dollar. 
+ 
+ 
+ 33 
+ 
+ Table of Contents 
+ 
+ All derivatives are recorded on the balance sheet at fair value. The accounting for gains and losses resulting from changes in fair value depends on the use of the derivative and whether it is designated and qualifies for hedge accounting. Teledyne does not use foreign currency forward contracts for speculative or trading purposes. Refer to Notes 2 , 14 and 15 for further disclosures around our derivative instruments and hedging activities. 
+ Notwithstanding our efforts to mitigate portions of our foreign currency exchange rate risks, there can be no assurance that our hedging activities will adequately protect us against the risks associated with foreign currency fluctuations. A hypothetical 10% price change of the U.S. dollar from its value on December 28, 2025, would result in a decrease or increase in the fair value of our foreign currency forward contracts designated as cash flow hedges to buy Canadian dollars and sell U.S. dollars by approximately $3.2 million. A hypothetical 10% price change of the U.S. dollar from its value on December 28, 2025, would result in a decrease or increase in the fair value of our foreign currency forward contracts designated as cash flow hedges to buy British Pounds and sell U.S. dollars by approximately $1.9 million. A hypothetical 10% price change of the euro from its value on December 28, 2025, would result in a decrease or increase in the fair value of our cross-currency swaps designated as net investment hedges to buy U.S. dollars and sell euros by approximately $53.5 million. 
+ 
+ Environmental 
+ We are subject to various federal, state, local and international environmental laws and regulations which require that we investigate and remediate the effects of the release or disposal of materials at sites associated with past and present operations. These include sites at which Teledyne has been identified as a potentially responsible party under the Comprehensive Environmental Response, Compensation and Liability Act, commonly known as Superfund, and comparable state laws. We are currently involved in the investigation and remediation of a number of sites. Reserves for environmental investigation and remediation totaled $6.0 million and $6.5 million as of December 28, 2025, and December 29, 2024, respectively. As investigation and remediation of these sites proceed and new information is received, we will adjust reserves to reflect new information. Based on current information, we do not believe that future environmental costs, in excess of those already accrued, will materially and adversely affect our financial condition or liquidity. See also our environmental risk factor disclosure in ITEM 1A . “ Risk Factors ” as well as additional discussion in Notes 2 and 1 7. 
+ 
+ U. S. Government Contracts 
+ We perform work on a number of contracts with the U.S. Department of War and other agencies and departments of the U.S. Government including sub-contracts with government prime contractors. Sales under these contracts with the U.S. Government, which included contracts with the U.S. Department of War, were 25% and 24% of our total net sales in 2025 and 2024, respectively. For a summary of sales to the U.S. Government by segment, see Note 5 . Sales to the U.S. Department of War represented approximately 20% of total net sales for both 2025 and 2024. 
+ Performance under government contracts has certain inherent risks that could have a material adverse effect on our business, results of operations and financial condition. Government contracts are conditioned upon the continuing availability of Congressional appropriations, which usually are made available on a fiscal year basis even though contract performance may take more than one year. See also our government contracts risks factor disclosure in ITEM 1A . “ Risk Factors ”. 
+ For information on accounts receivable from the U.S. Government, see Note 7 . 
+ 
+ Estimates and Reserves 
+ Our discussion and analysis of financial condition and results of operations are based upon our consolidated financial statements, which have been prepared in accordance with U.S. GAAP. The preparation of these financial statements requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses, and related disclosure of contingent liabilities. On an ongoing basis, we evaluate our estimates, including those related to product returns and replacements, allowance for doubtful accounts, inventory, intangible assets, income taxes, warranty obligations, pension and other postretirement benefits, long-term contracts, environmental, workers’ compensation and general liability, employee benefits and other contingencies and litigation. We base our estimates on historical experience and on various other assumptions that are believed to be reasonable under the circumstances at the time, the results of which form the basis for making our judgments. Actual results may differ materially from these estimates under different assumptions or conditions. See “ Critical Accounting Policies and Estimates ” for further information on key estimates. 
+ Some of our products are subject to standard warranties, and we provide for the estimated cost of product warranties. We regularly assess the adequacy of our pre-existing warranty liabilities and adjust amounts as necessary based on a review of historical warranty experience with respect to the applicable business or products, as well as the length and actual terms of the warranties, which are typically one year. See further discussion in Note 7 . 
+ 
+ 
+ 34 
+ 
+ 
+ Table of Contents 
+ 
+ Critical Accounting Policies and Estimates 
+ The preparation of our consolidated financial statements in conformity with U.S. generally accepted accounting principles (“GAAP”) requires management to make estimates and assumptions that affect the amounts reported in the financial statements and the notes to the financial statements. Some of those judgments can be subjective and complex, and therefore, actual results could differ materially from those estimates under different assumptions or conditions. Our critical accounting policies are those that are reflective of significant judgment, complexity and uncertainty, and may potentially result in materially different results under different assumptions and conditions. We have identified the following as critical accounting policies: revenue recognition; accounting for business combinations, goodwill and acquired intangible assets; and accounting for income taxes. For additional discussion of the application of these and other accounting policies, see Note 2 . 
+ Revenue Recognition 
+ Approximately 60% of our revenue is recognized at a point in time, with the remaining 40% recognized over time. 
+ Revenue recognized over time primarily relates to contracts to design, develop and/or manufacture highly engineered products used in both defense and commercial applications. The transaction price in these arrangements may include estimated amounts of variable consideration, including award fees, incentive fees, contract amounts not yet funded, or other provisions that can either increase or decrease the transaction price. We estimate variable consideration at the amount to which we expect to be entitled, and we include estimated amounts in the transaction price to the extent it is probable that a significant reversal of cumulative revenue recognized will not occur when the estimation uncertainty is resolved. The estimation of this variable consideration and determination of whether to include estimated amounts in the transaction price are based largely on an assessment of our anticipated performance and all information (historical, current and forecasted) that is reasonably available to us. As control transfers continuously over time on these contracts, revenue is recognized based on the extent of progress towards completion of the performance obligation. The selection of the method to measure progress towards completion requires judgment and is based on the nature of the products or services to be provided. We generally use the cost-to-cost measure of progress as this measure best depicts the transfer of control to the customer which occurs as we incur costs on our contracts. Under the cost-to-cost method, the extent of progress towards completion is measured based on the ratio of costs incurred to date to the total estimated costs at completion of the performance obligation. 
+ For over time contracts using the cost-to-cost method, we have an Estimate at Completion (“EAC”) process in which management reviews the progress and execution of our performance obligations. This EAC process requires management judgment relative to assessing risks, estimating contract revenue, determining reasonably dependable cost estimates, and making assumptions for schedule and technical issues. Since certain contracts extend over a longer period of time, the impact of revisions in cost and revenue estimates during the progress of work may adjust the current period earnings through a cumulative catch-up basis. This method recognizes, in the current period, the cumulative effect of the changes on current and prior quarters. Additionally, if the current contract estimate indicates a loss, a provision is made for the total anticipated loss in the period that it becomes evident. Contract cost and revenue estimates for significant contracts are generally reviewed and reassessed at least quarterly. We do not believe that any discrete event or adjustment to an individual contract within the aggregate changes in contract estimates in 2025 and 2024 was material to the consolidated statement of income (loss) for such annual periods. 
+ Revenue recognized at a point in time primarily relates to the sale of standard or minimally customized products, with control transferring to the customer generally upon the transfer of title. See Note 5 for additional revenue recognition disclosures. 
+ Business Combinations, Goodwill and Acquired Intangible Assets 
+ The results for all acquisitions are included in our consolidated financial statements from the date of each respective acquisition. Business acquisitions are accounted for under the acquisition method by assigning the purchase price to tangible and intangible assets acquired and liabilities assumed. Assets acquired and liabilities assumed are recorded at their fair values and the excess of the purchase price over the amounts assigned is recorded as goodwill. We determine the fair value of such assets and liabilities, often in consultation with third-party valuation advisors. Acquired intangible assets with finite lives are amortized over their estimated useful lives. Adjustments to fair value assessments are recorded to goodwill over the purchase price allocation period. 
+ Goodwill and acquired intangible assets with indefinite lives are not amortized. We review goodwill and acquired indefinite-lived intangible assets for impairment whenever events or changes in circumstances indicate that the carrying amount of these assets may not be recoverable. We also perform an annual impairment test in the fourth quarter of each year. We test goodwill and acquired indefinite-lived intangible assets for impairment between annual tests if events occur or circumstances change that would more likely than not reduce our enterprise fair value below its book value. These events or circumstances could include a significant change in the business climate, including a significant sustained decline in an entity’s market value, legal factors, operating performance indicators, competition, sale or disposition of a significant portion of the business, or other factors. 
+ 
+ 
+ 35 
+ 
+ Table of Contents 
+ 
+ We may use either a qualitative or quantitative approach when testing a reporting unit’s goodwill for impairment. For reporting units where we use the qualitative approach, we perform a qualitative evaluation of events and circumstances impacting the reporting unit to determine the likelihood of goodwill impairment. Based on that qualitative evaluation, if we determine it is more likely than not that the fair value of a reporting unit exceeds its carrying amount, no further evaluation is necessary. Otherwise, we perform a quantitative impairment test. We perform a quantitative test for each reporting unit at least once every three years. 
+ For goodwill impairment testing using the quantitative approach, we estimate the fair value of the selected reporting units primarily through the use of a discounted cash flow model. We compare the estimated fair value of the reporting unit to the carrying value of the reporting unit, including goodwill. The discounted cash flow model requires judgmental assumptions about projected revenue growth, future operating margins, discount rates and terminal values over a multi-year period, and the discounted cash flow model is based on our best estimate of amounts and timing of future revenues and cash flows using our most recent business and strategic plans. There are inherent uncertainties related to these assumptions and management’s judgment in applying them to the analysis of goodwill impairment. While we believe we have made reasonable estimates and assumptions to calculate the fair value of its reporting units, it is possible a material change could occur. If actual results are below management’s estimates and assumptions, goodwill may be overstated, and an impairment loss might need to be recorded. 
+ When using a quantitative approach to test goodwill, changes in our projections used in the discounted cash flow model could affect the estimated fair value of certain of our reporting units and could result in a goodwill impairment charge in a future period. In order to evaluate the sensitivity of the fair value calculations used in the quantitative goodwill impairment test, we will apply a hypothetical 10% decrease to the fair values of each reporting unit subject to a quantitative impairment test and compare those values to the reporting unit carrying values. Due to the many variables inherent in the estimation of a reporting unit’s fair value and the relative size of our recorded goodwill, differences in assumptions may have a material effect on the results of our impairment analysis. 
+ As of December 28, 2025, we had eleven reporting units for goodwill impairment testing. In the fourth quarter of 2025, a qualitative test was performed for ten of the eleven reporting units, and the carrying value of goodwill included in these reporting units ranged from $20.4 million to $979.1 million. The results of our qualitative assessments indicated that no impairment existed in 2025. We bypassed the qualitative test for the FLIR reporting unit and performed a quantitative impairment test. At the assessment date, the FLIR reporting unit had $5,193.4 million of goodwill, and the estimated fair value of the FLIR reporting unit exceeded its carrying value by approximately $619.2 million or 8%. Although the forecasts used in our discounted cash flow model and market approach are based on assumptions that are considered reasonable by management and consistent with the plans and estimates management uses to operate the underlying businesses, there is significant judgment in determining the expected results of the FLIR reporting unit. Changes in forecast estimates or the application of alternative assumptions could produce significantly different results. The discount rate, which is consistent with a weighted average cost of capital that is likely to be expected by a market participant, is based upon industry required rates of return, including consideration of both debt and equity components of the capital structure. Although no impairment exists for the FLIR reporting unit, a non-cash impairment of goodwill could result from a number of circumstances, including different assumptions used in determining the fair value of the reporting unit, changes to customer spending priorities, or a sharp increase in interest rates without a corresponding increase in future net sales. 
+ As of December 28, 2025, we had $793.4 million of indefinite-lived trademark intangibles which were subject to an annual impairment test in the fourth quarter of 2025. With the exception of the FLIR indefinite-lived trademark, the estimated fair value of all material indefinite-lived trademarks significantly exceeded their respective carrying value. At the annual assessment date, the FLIR indefinite-lived trademark had a carrying value of $635.8 million and a fair value of $657.4 million, or approximately 3% above its carrying value. In fiscal year 2024, we recorded a $49.5 million non-cash impairment charge, which is included within impairment of acquired intangible assets on the consolidated statement of income (loss). No comparable charges were recorded in 2025. 
+ The most significant assumptions utilized in the determination of the fair value of the FLIR indefinite-lived trademark are the net sales growth rates (including residual growth rates), discount rate and royalty rate. Although the FLIR sales forecasts are based on assumptions that are considered reasonable by management and consistent with the plans and estimates management uses to operate the underlying businesses, there is significant judgment in determining the expected results of the FLIR business. Changes in sales forecast estimates or the application of alternative assumptions could produce significantly different results. The discount rate, which is consistent with a weighted average cost of capital that is likely to be expected by a market participant, is based upon industry required rates of return, including consideration of both debt and equity components of the capital structure. During its fourth quarter annual assessment and as part of finalizing its strategic plan in December 2025, the Company also included an additional 50 basis points of risk premium in the discount rate when considering FLIR’s historical and expected future performance of achieving sales forecast projections. The royalty rate was driven by historical and estimated future profitability of the underlying FLIR business. The royalty rate may be impacted by significant adverse 
+ 
+ 
+ 36 
+ 
+ Table of Contents 
+ 
+ changes in long-term operating margins. Additional future non-cash impairment charges on the FLIR trademark could result from a number of circumstances, including different assumptions used in determining the fair value of the trademark, changes to customer spending priorities, or a sharp increase in interest rates without a corresponding increase in future net sales. 
+ Income Taxes 
+ For a description of the Company’s tax accounting policies, refer to Note 2 and Note 9 . We make certain estimates and judgments in determining income tax expense for financial statement purposes. These estimates and judgments occur in the calculation of tax credits, benefits and deductions, and in the calculation of certain tax assets and liabilities which arise from differences in the timing of recognition of revenue and expense for tax and financial statement purposes. In addition, uncertainty exists regarding tax positions taken in previously filed tax returns still under examination and positions expected to be taken in the current year and future returns which may impact income tax expense. On a quarterly basis, we provide for income taxes based upon an estimated annual effective tax rate which is dependent on the geographic composition of worldwide earnings, tax regulations governing each region, availability of tax credits, and the effectiveness of our tax planning strategies. Although we believe our income tax expense is reasonable, no assurance can be given that the final tax outcome will not be different from that which is reflected in our historical income tax provisions. To the extent that the final tax outcome is different than the amounts recorded, such differences will impact the provision for income taxes in the period in which such determination is made. An increase of 100 basis points in our nominal tax rate would have resulted in additional income tax provision for the fiscal year ended December 28, 2025, of $10.9 million. 
+ Deferred tax assets and liabilities arise due to differences between the consolidated financial statement carrying amounts of existing assets and liabilities and their respective tax bases and tax carryforwards. Significant management judgment is required in determining whether deferred tax assets will be realized in full or in part. When it is more-likely-than-not that all or some portion of deferred tax assets may not be realized, a valuation allowance must be established against the deferred tax assets. In assessing the need for a valuation allowance, we consider all available positive and negative evidence, including past operating results, estimates of future taxable income and the feasibility of tax planning strategies. In the event that we change our determination as to the amount of deferred tax assets that can be realized, we will adjust our valuation allowance with a corresponding impact to the provision for income taxes in the period in which such determination is made. 
+ The calculation of our tax liabilities involves dealing with uncertainties in the application of complex tax laws and regulations across domestic and foreign jurisdictions. We establish reserves for uncertain tax positions when, despite the belief that our tax positions are supportable, there remains uncertainty in a tax position taken in our filed tax returns or planned to be taken in a future tax return or claim. We follow a recognition and measurement approach, considering the facts, circumstances, and information available at the reporting date. Judgment is exercised in determining the level of evidence necessary and appropriate to support its assessment using all available information. The technical merits of a given tax position are derived from sources of authority in the tax law and their applicability to the facts and circumstances of the position. In measuring the tax position, we consider the amount and probabilities of the outcomes that could be realized upon settlement. When it is more-likely-than-not that a tax position will be sustained, we record a liability for the anticipated tax and interest due upon ultimate settlement with a taxing authority. To the extent we prevail in matters for which reserves have been established or are required to pay amounts in excess of reserves, there could be a significant impact on our consolidated financial position and annual results of operations. 
+ 
+ Recent Accounting Standards 
+ For a discussion of recent accounting standards see Note 2 . 
+ 
+ 
+ 37 
+ 
+ 
+ Table of Contents 
+ 
+ Safe Harbor Cautionary Statement Regarding Forward-Looking Information 
+ This Annual Report on Form 10-K contains forward-looking statements, as defined in the Private Securities Litigation Reform Act of 1995, with respect to management’s beliefs about the financial condition, results of operations, acquisitions, capital expenditures, stock repurchases, product synergies, integration costs, tax matters and businesses of Teledyne in the future. Forward-looking statements involve risks and uncertainties, are based on the current expectations of the management of Teledyne and are subject to uncertainty and changes in circumstances. All statements made in this Annual Report on Form 10-K that are not historical in nature should be considered forward-looking. Actual results could differ materially from these forward-looking statements. 
+ Many factors could change anticipated results, including: the impact of policies of the U.S. Presidential Administration, especially with respect to new and higher tariffs, cutbacks in the funding of government agencies and programs, and the scaling back of environmental and green energy policies; escalating economic and diplomatic tension between China and the United States, including a “trade war” resulting in higher tariffs and restrictions on sales of goods and services; reciprocal tariffs from other countries, especially from members of the EU; existing and new restrictions on the supply of rare earth minerals and permanent magnets from China; U.S. Government shutdowns, which in the past have resulted in delays in anticipated contract awards, delayed payments of invoices and delays in the issuance of export and other licenses; the inability to develop and market new competitive products; changes in relevant tax and other laws; foreign currency exchange risks; rising interest rates; risks associated with indebtedness, as well as our ability to reduce indebtedness and the timing thereof; the impact of semiconductor and other supply chain shortages; higher inflation, including wage competition and higher shipping costs; labor shortages and competition for skilled personnel; inherent uncertainties involved in the estimates and judgments used in the preparation of financial statements and the providing of estimates of financial measures, in accordance with U.S. GAAP and related standards; disruptions in the global economy; global conflicts including the ongoing conflict between Russia and Ukraine; changes in demand for products sold to the defense electronics, instrumentation, digital imaging, energy exploration and production, commercial aviation, semiconductor, and communications markets; funding, continuation and award of government programs; cuts to defense spending resulting from existing and future deficit reduction measures or changes to U.S. and foreign government spending and budget priorities triggered by inflation, and economic conditions; the continuing review and resolution of FLIR’s trade compliance and tax matters; threats to the security of our confidential and proprietary information, including cybersecurity threats; risks related to AI; natural and man-made disasters; and our ability to achieve emission reduction targets and decrease our carbon footprint. Lower oil and natural gas prices, as well as instability in the Middle East, Latin America or other oil producing regions, and new regulations or restrictions relating to energy production could further negatively affect our businesses that supply the oil and gas industry. Weakness in the commercial aerospace industry negatively affects the markets of our commercial aviation businesses. In addition, financial market fluctuations affect the value of the Company’s pension assets. Changes in the policies of the United States and foreign governments, including economic sanctions or in regard to support for Ukraine, could result, over time, in reductions or realignment in defense or other government spending and further changes in programs in which the Company participates. 
+ While our growth strategy includes possible acquisitions, we cannot provide any assurance as to when, if or on what terms any acquisitions will be made. Acquisitions involve various inherent risks, such as, among others, our ability to integrate acquired businesses, retain key management and customers, and achieve identified financial and operating synergies. There are additional risks associated with acquiring, owning and operating businesses internationally, including those arising from U.S. and foreign government policy changes or actions and exchange rate fluctuations. 
+ We continue to take action to assure compliance with the internal controls, disclosure controls and other requirements of the Sarbanes-Oxley Act of 2002. While we believe our control systems are effective, there are inherent limitations in all control systems, and misstatements due to error or fraud may occur and may not be detected. 
+ Additional information concerning factors that could cause actual results to differ materially from those projected in the forward-looking statements is contained beginning on page 7 of this Form 10-K under the caption “Risk Factors” Forward-looking statements are generally accompanied by words such as “estimate”, “project”, “predict”, “believes” or “expect”, that convey the uncertainty of future events or outcomes. We assume no obligation to publicly update or revise any forward-looking statements, whether as a result of new information or otherwise. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

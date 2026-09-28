@@ -1,111 +1,32 @@
+# Kết quả mở rộng mẫu 100 công ty
 
-## Phụ lục G. Kết quả mở rộng 50 công ty và phương pháp bổ sung
+Danh sách gốc gồm đúng 100 ticker; mỗi công ty có 10 năm tài khóa FY2016–FY2025. SEC manifest có 1000 accession duy nhất, bảng tone và CAR cùng phiên có 1000 dòng của 100 công ty. Không bổ sung công ty ngoài CSV.
 
-Mẫu mục tiêu cố định 50 công ty, 500 firm-years. Manifest có 500 filings, trích được 500 MD&A và baseline có 500 sự kiện hợp lệ thuộc 50 công ty. Danh sách được chọn trước kết quả mới, không thay công ty theo dấu hệ số hoặc p-value. Các nhóm ngành sau là nhóm phân tích tự định nghĩa, không phải GICS chính thức. Cỡ mẫu lớn hơn không bảo đảm statistical significance.
-
-| ticker | analytical_group | sample_status | valid_events | target_events |
-|---|---|---|---|---|
-| AAPL | Technology | original | 10 | 10 |
-| MSFT | Technology | original | 10 | 10 |
-| AMZN | Technology | original | 10 | 10 |
-| GOOGL | Technology | original | 10 | 10 |
-| NVDA | Technology | original | 10 | 10 |
-| ORCL | Technology | added | 10 | 10 |
-| IBM | Technology | added | 10 | 10 |
-| INTC | Technology | added | 10 | 10 |
-| CSCO | Technology | added | 10 | 10 |
-| ADBE | Technology | added | 10 | 10 |
-| CRM | Technology | added | 10 | 10 |
-| QCOM | Technology | added | 10 | 10 |
-| TXN | Technology | added | 10 | 10 |
-| AMD | Technology | added | 10 | 10 |
-| JPM | Financials | original | 10 | 10 |
-| BAC | Financials | added | 10 | 10 |
-| C | Financials | added | 10 | 10 |
-| WFC | Financials | added | 10 | 10 |
-| GS | Financials | added | 10 | 10 |
-| MS | Financials | added | 10 | 10 |
-| BLK | Financials | added | 10 | 10 |
-| AXP | Financials | added | 10 | 10 |
-| JNJ | Healthcare | original | 10 | 10 |
-| UNH | Healthcare | added | 10 | 10 |
-| PFE | Healthcare | added | 10 | 10 |
-| MRK | Healthcare | added | 10 | 10 |
-| ABBV | Healthcare | added | 10 | 10 |
-| ABT | Healthcare | added | 10 | 10 |
-| BMY | Healthcare | added | 10 | 10 |
-| AMGN | Healthcare | added | 10 | 10 |
-| WMT | Consumer | original | 10 | 10 |
-| PG | Consumer | original | 10 | 10 |
-| KO | Consumer | added | 10 | 10 |
-| PEP | Consumer | added | 10 | 10 |
-| COST | Consumer | added | 10 | 10 |
-| HD | Consumer | added | 10 | 10 |
-| MCD | Consumer | added | 10 | 10 |
-| NKE | Consumer | added | 10 | 10 |
-| DIS | Consumer | added | 10 | 10 |
-| CAT | Industrials | added | 10 | 10 |
-| HON | Industrials | added | 10 | 10 |
-| UPS | Industrials | added | 10 | 10 |
-| LMT | Industrials | added | 10 | 10 |
-| UNP | Industrials | added | 10 | 10 |
-| XOM | Energy | original | 10 | 10 |
-| CVX | Energy | added | 10 | 10 |
-| COP | Energy | added | 10 | 10 |
-| SLB | Energy | added | 10 | 10 |
-| NEE | Utilities | added | 10 | 10 |
-| DUK | Utilities | added | 10 | 10 |
+| Căn ngày | N | Hệ số | p HC3 | CI thấp | CI cao |
+| --- | --- | --- | --- | --- | --- |
+| same | 1000 | -0.40288 | 0.07130 | -0.84070 | 0.03494 |
+| next | 1000 | -0.21843 | 0.30636 | -0.63697 | 0.20011 |
+| acceptance | 1000 | -0.24790 | 0.25581 | -0.67548 | 0.17967 |
 
 
-So sánh cùng thiết kế baseline giữa snapshot 100 và mẫu mở rộng:
-
-| sample | N | b | SE_HC3 | p |
-|---|---|---|---|---|
-| Original 10 firms | 100 | -0.226326 | 0.883157 | 0.797743 |
-| Expanded 50-firm target | 500 | -0.058633 | 0.285987 | 0.837558 |
-
-
-Chênh lệch hệ số giữa hai mẫu phản ánh bổ sung công ty và thay đổi thành phần mẫu. Không thể coi đó là thí nghiệm chứng minh cỡ mẫu gây thay đổi hệ số. Cần đọc SE, CI và độ phủ; baseline gốc vẫn giữ trong archive.
-
-Delta_tone bằng tone năm hiện tại trừ năm liền trước của cùng công ty. Chỉ dùng hai fiscal years liên tiếp, không nối qua năm thiếu và không gán delta năm đầu bằng 0. Vì thế N nhỏ hơn mô hình tone mức. Đặc tả delta đơn có N=450, b=1.898472, SE HC3=1.665164, p=0.254240, CI [-1.365189; 5.162133]. Khoảng tin cậy chứa 0.
-
-Các đặc tả chính và phụ cho CAR[-1,+1]:
-
-| specification | term | coefficient | se_HC3 | p_value | ci_low | ci_high | n | p_holm_all_reported_tests |
-|---|---|---|---|---|---|---|---|---|
-| tone | tone | -0.058633 | 0.285987 | 0.837558 | -0.619158 | 0.501892 | 500.0 | 1.0 |
-| tone + C(fiscal_year) | tone | -0.040205 | 0.287885 | 0.888932 | -0.604449 | 0.52404 | 500.0 | 1.0 |
-| tone + C(fiscal_year) + C(ticker) | tone | 1.31728 | 1.62175 | 0.416644 | -1.861292 | 4.495852 | 500.0 | 1.0 |
-| delta_tone | delta_tone | 1.898472 | 1.665164 | 0.25424 | -1.365189 | 5.162133 | 450.0 | 1.0 |
-| delta_tone + C(fiscal_year) | delta_tone | 1.846003 | 1.742831 | 0.28951 | -1.569883 | 5.261888 | 450.0 | 1.0 |
-| delta_tone + C(fiscal_year) + C(ticker) | delta_tone | 1.767462 | 1.568753 | 0.259883 | -1.307237 | 4.842162 | 450.0 | 1.0 |
-| tone + log_assets + liabilities_assets + roa + C(fiscal_year) | tone | -0.2922 | 0.45828 | 0.523733 | -1.190413 | 0.606012 | 441.0 | 1.0 |
-| delta_tone + log_assets + liabilities_assets + roa + C(fiscal_year) | delta_tone | 1.756585 | 2.000005 | 0.379786 | -2.163353 | 5.676523 | 397.0 | 1.0 |
+| outcome | specification | coefficient | se_HC3 | p_value | ci_low | ci_high | n | p_holm_all_reported_tests |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| car_-1_1 | tone | -0.40288 | 0.22338 | 0.07130 | -0.84070 | 0.03494 | 1000.00000 | 1.00000 |
+| car_-1_1 | tone + C(fiscal_year) | -0.43391 | 0.22513 | 0.05393 | -0.87515 | 0.00734 | 1000.00000 | 1.00000 |
+| car_-1_1 | tone + C(fiscal_year) + C(ticker) | -0.59605 | 0.63379 | 0.34698 | -1.83825 | 0.64615 | 1000.00000 | 1.00000 |
+| car_-1_1 | tone + log_assets + liabilities_assets + roa + C(fiscal_year) | -0.74541 | 0.27793 | 0.00732 | -1.29015 | -0.20068 | 794.00000 | 0.32199 |
+| car_-3_3 | tone | -0.56458 | 0.28384 | 0.04669 | -1.12089 | -0.00827 | 1000.00000 | 1.00000 |
+| car_-3_3 | tone + C(fiscal_year) | -0.57236 | 0.28326 | 0.04332 | -1.12754 | -0.01717 | 1000.00000 | 1.00000 |
+| car_-3_3 | tone + C(fiscal_year) + C(ticker) | -0.31909 | 0.90942 | 0.72568 | -2.10152 | 1.46334 | 1000.00000 | 1.00000 |
+| car_-3_3 | tone + log_assets + liabilities_assets + roa + C(fiscal_year) | -0.88857 | 0.33806 | 0.00858 | -1.55116 | -0.22599 | 794.00000 | 0.36884 |
+| car_-5_5 | tone | -0.56145 | 0.35450 | 0.11324 | -1.25626 | 0.13335 | 1000.00000 | 1.00000 |
+| car_-5_5 | tone + C(fiscal_year) | -0.59777 | 0.35373 | 0.09104 | -1.29106 | 0.09551 | 1000.00000 | 1.00000 |
+| car_-5_5 | tone + C(fiscal_year) + C(ticker) | -1.02485 | 1.13283 | 0.36563 | -3.24515 | 1.19546 | 1000.00000 | 1.00000 |
+| car_-5_5 | tone + log_assets + liabilities_assets + roa + C(fiscal_year) | -0.90634 | 0.40629 | 0.02570 | -1.70266 | -0.11002 | 794.00000 | 0.97651 |
+| mar_-1_1 | tone | -0.32037 | 0.22715 | 0.15842 | -0.76557 | 0.12483 | 1000.00000 | 1.00000 |
+| mar_-1_1 | tone + C(fiscal_year) | -0.34000 | 0.22915 | 0.13787 | -0.78912 | 0.10912 | 1000.00000 | 1.00000 |
+| mar_-1_1 | tone + C(fiscal_year) + C(ticker) | -0.51905 | 0.64256 | 0.41921 | -1.77844 | 0.74034 | 1000.00000 | 1.00000 |
+| mar_-1_1 | tone + log_assets + liabilities_assets + roa + C(fiscal_year) | -0.64789 | 0.28513 | 0.02307 | -1.20673 | -0.08905 | 794.00000 | 0.92281 |
 
 
-Fundamentals từ SEC Company Facts chọn đúng accession 10-K và report_date, units USD. Log_assets đo quy mô theo tài sản; liabilities_assets là tỷ lệ tổng nợ phải trả trên tài sản; ROA dùng lợi nhuận năm chia tài sản cuối năm. Các biến không được lấy từ báo cáo nộp sau sự kiện hoặc từ quý gần nhất. Giá trị thiếu/khác nhau giữa các facts được công bố, không tự điền 0. Mô hình controls dùng complete cases nên phải so sánh N riêng. Chỉ tiêu của công ty tài chính và phi tài chính có ý nghĩa kinh tế khác nhau; pooled controls không tự giải quyết khác biệt ngành.
-
-Các mô hình delta, fixed effects và controls là kiểm định phụ. Holm tính cho toàn bộ hệ số mục tiêu xuất trong mỗi alignment; không điều chỉnh toàn bộ lựa chọn giao diện. Không sử dụng kết quả có p nhỏ nhất để thay câu hỏi nghiên cứu sau khi nhìn dữ liệu. FinBERT và earnings surprise chưa có kết quả trong đợt này; không được diễn giải như đã thực hiện.
-
-Độ phủ biến kiểm soát (số filing có dữ liệu):
-
-| variable | available |
-|---|---|
-| log_assets | 500 |
-| liabilities_assets | 441 |
-| roa | 500 |
-
-
-Đối chứng sai số chuẩn cluster theo công ty (finite-sample correction, phân phối t):
-
-| specification | term | coefficient | se_cluster | p_cluster | ci_low | ci_high | N | clusters |
-|---|---|---|---|---|---|---|---|---|
-| tone | tone | -0.058633 | 0.185194 | 0.752891 | -0.430794 | 0.313529 | 500 | 50 |
-| delta_tone | delta_tone | 1.898472 | 1.733818 | 0.278885 | -1.585766 | 5.38271 | 450 | 50 |
-| delta_year | delta_tone | 1.846003 | 1.789709 | 0.307392 | -1.750553 | 5.442558 | 450 | 50 |
-| delta_firm | delta_tone | 1.767462 | 1.695656 | 0.302366 | -1.640085 | 5.17501 | 450 | 50 |
-| tone_controls | tone | -0.2922 | 0.245221 | 0.239673 | -0.786101 | 0.2017 | 441 | 46 |
-| delta_controls | delta_tone | 1.756585 | 1.717542 | 0.312025 | -1.704893 | 5.218063 | 397 | 45 |
-| tone_same_controls_sample | tone | -0.067847 | 0.195099 | 0.729645 | -0.460797 | 0.325103 | 441 | 46 |
-
-Mô hình tone_same_controls_sample giữ đúng các complete cases của mô hình controls, giúp phân biệt thay đổi thành phần mẫu với việc thêm biến. Các p-value cluster trong bảng này chưa điều chỉnh đa kiểm định; dùng cùng bảng Holm và không chọn đặc tả theo p-value.
+Nguồn kiểm toán: `data/companies_100_input.csv`, `data/filings_manifest.csv`, `data/extraction_audit.csv`, `outputs/real/*/car_panel.csv`.

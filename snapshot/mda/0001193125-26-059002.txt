@@ -1,0 +1,4240 @@
+ ITEM 7: Management’s Discussion and Analysis of Financial Condition and Results of Operations 
+ Overview 
+ We are a leading global provider of automated test equipment and robotics products. Our automated test systems are used to test semiconductors, wireless products, data storage, silicon photonics, and complex electronics systems in many industries including consumer electronics, wireless, automotive, industrial, computing, communications, and aerospace and defense industries. Our robotics product offerings consist primarily of collaborative robotic arms and autonomous mobile robots used by global manufacturing, logistics and industrial customers to improve quality and increase manufacturing and material handling efficiency, while reducing costs. In the first quarter of 2025, we identified opportunities for operational synergies amongst our production board test, defense and aerospace, and wireless test businesses leading to the creation of the Product Test division as a new segment effective March 2025. Our automated test equipment and robotics products and services include: 
+ • 
+ semiconductor test (“Semiconductor Test”) systems; 
+ • 
+ robotics (“Robotics”) products; and 
+ • 
+ product test (“Product Test”) systems, which includes circuit-board test and inspection systems, wireless test systems photonic integrated circuit (“PIC”) test solutions, and defense and aerospace test instrumentation and systems. 
+ 
+ The market for our test products is concentrated with a limited number of significant customers accounting for a substantial portion of the purchases of test equipment. A few customers drive sizable demand for our offerings both through direct sales and sales to the customer’s supply partners. We expect that sales of our test products will continue to be concentrated with a limited number of major customers for the foreseeable future. 
+ In 2025, our Semiconductor Test segment achieved considerable growth driven by robust demand from Artificial Intelligence (“AI”) applications in networking and with vertically integrated producer (“VIP”) compute solutions. Memory test revenue remained stable despite a smaller overall market, supported by share gains in high bandwidth memory (“HBM”) and DRAM final test applications. The Semiconductor Test segment’s strategic shift toward AI-driven semiconductor testing resulted in AI related customer demand driving the majority of our revenue in the second half of 2025. Looking ahead to 2026, we expect AI related customer demand to continue to represent the bulk of our revenues in the first quarter. Our results reflect our focused investments in AI applications and VIP customers, with benefits from these initiatives materializing throughout 2025 and expected to continue in 2026. In the Product Test Group, we also achieved revenue growth in 2025, bolstered primarily by strength in defense and aerospace applications. 
+ In our Robotics segment, the fourth quarter of 2025 represented the third consecutive quarter of sequential revenue growth. During the year, we aimed at strategic partnerships with original equipment manufacturers, systems integrators, and large enterprise accounts, concentrating on high-growth verticals such as ecommerce, logistics, semiconductor, and electronics. At the same time, we also reduced costs through restructuring activities designed to better position the Robotics organization for future success. 
+ On January 29, 2026, we and MultiLane, a leading high-speed input/output (“I/O”) test and measurement company, announced an agreement to form a joint venture, MultiLane Test Products (“MLTP”). MLTP is being created to serve the growing demand from the AI Data Center equipment market by accelerating the development of test solutions for critical high speed data connections. Under the agreement, MultiLane will contribute all the assets related to its test and measurement business to the joint venture and we will invest approximately $157 million in exchange for 75% ownership of MLTP. This transaction is expected to close in the first half of 2026 and is subject to customary closing conditions. 
+ On May 31, 2025, we acquired privately held Quantifi Photonics (“Quantifi”), a leader in PIC test solutions for a total purchase price of $127.2 million. This acquisition enables the delivery of scalable PIC test solutions and is included in our Product Test segment. Over time, we also intend to leverage the engineering expertise and technology to enhance functionality and create additional differentiation in our Semiconductor Test business, specifically with integration into our UltraFlexplus platform. 
+ On January 31, 2025, we acquired Infineon Technologies AG's (“Infineon”) automated test equipment technology and associated development team (“AET”) based in Regensburg, Germany for a total purchase price of 17.6 million Euros, equivalent to $18.3 million. AET adds resources and expertise to our company and strengthens the relationship between us and this key customer. AET is included in our Semiconductor Test segment. 
+ While revenues in our test businesses are predominantly in U.S. dollars, the majority of our Robotics revenue is denominated in foreign currencies. Strengthening of the U.S. dollar has, and will continue to, negatively affect Robotics revenue in 2025 and 2026, respectively. 
+ 
+ 
+ 24 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ Our capital allocation plan will continue to be focused on investing in organic and inorganic growth and returning cash to shareholders through share repurchases and dividends. During 2025, we completed the acquisitions of Quantifi and AET and additionally, we returned $778.4 million to shareholders through $702.1 million of share buybacks and $76.3 million of dividend payments. 
+ Government Regulations 
+ We are subject to numerous U.S. and foreign laws and regulations, including, without limitation, tariffs, trade sanctions, trade barriers, trade embargoes, regulations relating to import-export control, technology transfer restrictions, and other laws and regulations. Additionally, U.S. and foreign governmental authorities have taken, and may continue to take, administrative, legislative or regulatory action that could impact our operations. We believe that our operations are in material compliance with applicable trade regulations. The costs we incurred in complying with applicable trade regulations for the year ended December 31, 2025 were not material, however, compliance with these laws has limited our ability to compete in certain regions. It is possible that future developments, including changes in laws and regulations or government policies, could lead to material costs, and such costs may have an material adverse effect on our future business or prospects. 
+ For information regarding risks associated with import-export control regulations and similar applicable laws and regulations, see Part II - ITEM 1A “Risk Factors- Risks Related to Legal and Regulatory Compliance” included elsewhere in this Form 10-K. 
+ Critical Accounting Estimates 
+ We have identified the policies and estimates discussed below as critical to understanding our business and our results of operations and financial condition. The impact and any associated risks related to these estimates on our business operations is discussed throughout Management’s Discussion and Analysis of Financial Condition and Results of Operations where such policies affect our reported and expected financial results. For a full description of our accounting policies related to the below items refer to Note B: “Accounting Policies”, included in the Notes to Consolidated Financial Statements in this Annual Report. 
+ Critical accounting estimates are complex and may require significant judgment by management. Changes to the underlying assumptions may have a material impact on our financial condition and results of operations. These estimates may change, as new events occur, and additional information is obtained. Actual results could differ significantly from these estimates under different assumptions or conditions. 
+ Revenue Recognition 
+ In accordance with ASC 606, “ Revenue from Contracts with Customers” (“ASC 606”) , we recognize revenues, when or as control is transferred to a customer. Our determination of revenue requires judgment in the determination of performance obligations and allocation of the transaction price to performance obligations. We often sell bundled orders that include both product and services or multiple different products within the same order. We evaluate each of the deliverables to determine if it meets the definition of a performance obligation, which requires that it is capable of being distinct and distinct within the context of the contract. This determination is based on an assessment of contractual rights of the contract and the ability of the performance obligation to perform on its own or with readily available resources. In bundled transactions, we estimate the standalone selling price of each identified performance obligation and use that estimate to allocate the transaction price among said performance obligations. The estimated standalone selling price is determined using all information reasonably available to us, including standalone transactions, market information and other observable inputs. 
+ Inventories 
+ Inventories are stated at the lower of cost using a standard costing system which approximates cost based on a first-in, first-out basis or net realizable value. On a quarterly basis, we evaluate all inventories for net realizable value. This quarterly process identifies obsolete and excess inventory. Obsolete inventory, which represents items for which there is no demand, is fully reserved. Excess inventory, which represents inventory items that are not expected to be consumed within the forecasted demand window, is written down to estimated net realizable value. Forecasted demand information is obtained from the sales and marketing groups and incorporates factors such as backlog and future revenues. The demand forecast is based on assumptions around the product life and customer and market expectations. 
+ Retirement and Postretirement Plans 
+ We recognize net actuarial gains and losses and the change in the fair value of the plan assets in our operating results in the year in which they occur or upon any interim remeasurement of the plans. Discount rate and expected return on assets are two assumptions 
+ 
+ 
+ 25 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ which are important elements of pension plan expense and asset/liability measurement. We evaluate our discount rate and expected rate of return on assets assumptions annually on a plan and country specific basis. We evaluate other assumptions related to demographic factors, such as retirement age, mortality and turnover periodically, and update them to reflect our experience and expectations for the future. 
+ In developing the expected return on U.S. Qualified Pension Plan (“U.S. Plan”) assets assumption, we evaluated input from our investment manager and pension consultants, including their forecast of asset class return expectations. We believe that 5.05% was an appropriate rate of return on assets to use for 2025. The December 31, 2025, asset allocation for our U.S. Plan was 94% invested in fixed income securities, 5% invested in equity securities, and 1% invested in other securities. Our investment manager regularly reviews the actual asset allocation and periodically rebalances the portfolio to ensure alignment with our target allocations. 
+ The discount rate that we utilized for determining future pension obligations for the U.S. Plan is based on the FTSE Pension Index adjusted for the U.S. Plan’s expected cash flows and was 5.30% at December 31, 2025, down from 5.45% at December 31, 2024. We estimate that in 2026 we will recognize approximately $0.1 million of pension income for the U.S. Plan. The U.S. Plan pension income estimate for 2026 is based on a 5.30% discount rate and a 5.10% return on assets. Future pension expense or income will depend on future investment performance, changes in future discount rates and various other factors related to the employee population participating in our pension plans. 
+ Goodwill, Intangible and Long-Lived Assets 
+ Goodwill represents the excess of the purchase price in a business combination over the fair value of the net tangible and intangible assets acquired. Goodwill is assessed for impairment at the reporting unit level annually during the fourth quarter of each fiscal year, as of December 31, or more frequently if we believe indicators of impairment exist. Potential impairment is identified by comparing the fair value of a reporting unit to its carrying value, including goodwill. For our annual impairment assessment, we have the option to evaluate qualitative factors such as industry and market conditions, and entity specific financial performance and events, including changes in management, strategy and key customers. If based on our qualitative assessment it is more likely than not that the fair value of the reporting unit is less than its carry amount, we are required to perform quantitative impairment testing. If necessary, an impairment loss is recognized in an amount equal to the excess of the reporting unit’s carrying value over its fair value, up to the amount of goodwill allocated to the reporting unit. 
+ Intangible assets acquired through a business combination typically consist of developed technologies, customer relationships, and trademarks and trade names. Long-lived assets primarily consist of property and equipment and operating lease right-of-use assets. We engage third-party valuation specialists to assist us with the initial measurement of the fair value of acquired intangible assets. We evaluate the recoverability of intangible assets and long-lived assets whenever events and changes in circumstances, such as reductions in demand or significant economic slowdowns, indicate that the carrying amount of an asset may not be fully recoverable. When indicators of impairment are present, the future undiscounted cash flows of the related asset group are compared to its carrying value. If necessary, the net book value of the underlying asset is adjusted to fair value as indicated by the sum of the expected discounted cash flows. Fair values are based on estimates of market prices and assumptions concerning the amount and timing of estimated future cash flows. 
+ The impairment assessment of goodwill, intangible assets and long-lived assets involves critical estimates and assumptions, which may be unpredictable and inherently uncertain. These estimates and assumptions may include projected revenue growth rates, projected earnings before interest, taxes, depreciation, and amortization margins, discount rate, and comparable market multiples, specifically revenue multiples. Any changes in key assumptions could impact the result of the impairment assessment. 
+ Income Taxes 
+ Deferred tax assets and liabilities are determined based on differences between financial reporting and tax basis of assets and liabilities and are measured using the enacted tax rates and laws that will be in effect when the differences are expected to reverse. The measurement of deferred tax assets is reduced by a valuation allowance if it is more likely than not that some or all of the deferred tax assets will not be realized. Evaluating the positive and negative evidence regarding the realization of the net deferred tax assets in accordance with ASC 740, “ Accounting for Income Taxes ” is a key judgment in the valuation of income taxes. This assessment included the evaluation of scheduled reversals of deferred tax liabilities, estimates of projected future taxable income and tax-planning strategies. Although realization is not assured, based on our assessment, we concluded that it is more likely than not that such assets, net of the existing valuation allowance, will be realized. 
+ 
+ 
+ 26 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ Business Combinations 
+ We recognize tangible and intangible assets acquired and liabilities assumed based on their estimated fair values at the date of acquisition. The fair value of identifiable intangible assets is based on detailed cash flow valuations that use information and assumptions provided by management, for example, revenue growth rates, customer attrition rates, and discount rate. We allocate any excess purchase price over the fair value of the net tangible and intangible assets acquired and liabilities assumed to goodwill. The assumptions used in the valuations for our acquisitions may differ materially from actual results depending on performance of the acquired businesses and other factors. While we believe the assumptions used were appropriate, different assumptions in the valuation of assets acquired and liabilities assumed could have a material impact on the timing and extent of impact on our statements of operations. Goodwill is assigned to reporting units as of the date of the related acquisition. 
+ Results of Operations 
+ Information pertaining to fiscal year 2023 results of operations, including a year-to-year comparison against fiscal year 2024, was included in our Annual Report on Form 10-K for the year ended December 31, 2024 under Part II, ITEM 7, “Management’s Discussion and Analysis of Financial Position and Results of Operations,” which was filed with the SEC on February 20, 2025. This information is incorporated by reference herein. 
+ The following table sets forth the percentage of total net revenues included in our consolidated statements of operations: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended December 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2024 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Percentage of revenues: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Revenues: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Products 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 83.4 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 81.4 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ Services 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 16.6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 18.6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total revenues 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 100.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 100.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of revenues: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of products 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 35.6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 34.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of services 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6.2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 7.4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total cost of revenues (exclusive of acquired intangible assets amortization shown separately below) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 41.8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 41.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Gross profit 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 58.2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 58.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating expenses: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Selling and administrative 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 20.3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 21.9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Engineering and development 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 15.8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 16.3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Acquired intangible assets amortization 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Restructuring and other 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1.2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Gain on sale of business 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (2.0 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ Total operating expenses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 37.8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 37.4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Income from operations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 20.4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 21.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Non-operating (income) expenses: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Interest income 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (0.5 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (0.9 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ Interest expense 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other (income) expense, net 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Income before income taxes and equity in net earnings of affiliate 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 20.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 21.6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Income tax provision 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Income before equity in net earnings of affiliate 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 18.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 19.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Equity in net earnings of affiliate 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (0.6 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (0.3 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ Net income 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 17.4 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 19.2 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 27 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ Revenues 
+ Revenues for our reportable segments were as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2024 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Dollar Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (in millions) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Semiconductor Test 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 2,523.7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 2,123.9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 399.8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Product Test 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 358.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 331.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 26.9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Robotics 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 308.3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 364.8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (56.5 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 3,190.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 2,819.9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 370.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ The increase in Semiconductor Test revenues of $399.8 million, or 18.8%, was driven primarily by higher sales in compute related to artificial intelligence applications and in Integrated System Test primarily related to system level testers. The decrease in Robotics revenues of $56.5 million, or 15.5%, was primarily due to lower sales of collaborative robotic arms and autonomous mobile robots. The increase in Product Test revenues of $26.9 million, or 8.1%, was primarily due to higher sales of defense and aerospace testing systems. 
+ 
+ Our reportable segments accounted for the following percentages of consolidated revenues: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2024 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Semiconductor Test 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 79 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 75 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ Product Test 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Robotics 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 13 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 100 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 100 
+ 
+ 
+ % 
+ 
+ 
+ 
+ Revenues by country as a percentage of total revenues were as follows (1): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2024 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Taiwan 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 36 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 21 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ China 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 14 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 13 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Korea 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 14 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 25 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ United States 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 13 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Europe 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Malaysia 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Singapore 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Philippines 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Thailand 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Japan 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Rest of the World 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 100 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 100 
+ 
+ 
+ % 
+ 
+ 
+ 
+ (1) 
+ Revenues attributable to a country are based on the location of the customer site. 
+ The breakout of product and service revenues was as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2024 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Dollar Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (in millions) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Product revenues 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 2,660.2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 2,294.9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 365.3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Service revenues 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 529.8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 524.9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 3,190.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 2,819.9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 370.2 
+ 
+ 
+ 
+ 
+ 
+ 
+ Our product revenues increased $365.3 million, or 15.9%, driven primarily by higher sales in compute related to artificial intelligence applications and in Integrated System Test primarily related to system level testers. 
+ 
+ 
+ 28 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ In 2025 and 2024, our five largest direct customers in aggregate accounted for 44% and 36% of our consolidated revenues, respectively. See Note V: “Segment, Geographic, and Significant Customer Information” for additional discussion of significant customer concentrations. 
+ Gross Profit 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2024 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2024-2025 Dollar / Point Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (in millions) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Gross profit 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 1,857.3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 1,648.9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 208.4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Percent of total revenues 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 58.2 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 58.5 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (0.3 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ Gross profit as a percent of total revenues decreased by 0.3 points, primarily due to product mix. 
+ 
+ The breakout of product and service gross profit was as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2024 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2024-2025 Dollar / Point Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (in millions) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Product gross profit 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 1,524.2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 1,334.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 190.2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Percent of product revenues 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 57.3 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 58.1 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (0.8 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ Service gross profit 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 333.2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 314.9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 18.3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Percent of service revenues 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 62.9 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 60.0 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2.9 
+ 
+ 
+ 
+ 
+ 
+ 
+ Product revenues gross profit percentage decreased by 0.8 points primarily due to product mix. Service revenues gross profit percentage increased by 2.9 points primarily in Semiconductor Test as a result of the sale of the DIS business on May 27, 2024. 
+ During the year ended December 31, 2025, we recorded an inventory provision of $25.8 million included in cost of revenues, primarily due to downward revisions to previously forecasted demand levels for certain products. Of the $25.8 million of total excess and obsolete provisions, $17.5 million was related to Semiconductor Test, $6.0 million was related to Robotics, and $2.2 million was related to Product Test. 
+ During the year ended December 31, 2024, we recorded an inventory provision of $18.9 million included in cost of revenues, primarily due to downward revisions to previously forecasted demand levels for certain products. Of the $18.9 million of total excess and obsolete provisions, $13.6 million was related to Semiconductor Test, $2.3 million was related to Robotics, and $3.1 million was related to Product Test. 
+ During the years ended December 31, 2025, and 2024, we scrapped $11.8 million and $10.6 million of inventory, respectively, and sold $3.6 million and $2.2 million of previously written-down or written-off inventory, respectively. As of December 31, 2025, we had inventory related reserves for amounts which had been written-down or written-off totaling $151.8 million. We have no pre-determined timeline to scrap the remaining inventory. 
+ Selling and Administrative 
+ Selling and administrative expenses were as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2024 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2024-2025 Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (in millions) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Selling and administrative 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 648.9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 617.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 31.8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Percent of total revenues 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 20.3 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 21.9 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The increase of $31.8 million in selling and administrative expenses was primarily due to higher spending in Semiconductor Test partially offset by lower spending in Robotics. 
+ 
+ 
+ 29 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ Engineering and Development 
+ Engineering and development expenses were as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2024 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2024-2025 Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (in millions) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Engineering and development 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 504.6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 460.9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 43.7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Percent of total revenues 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 15.8 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 16.3 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The increase of $43.7 million in engineering and development expenses was primarily due to higher spending in Semiconductor Test partially offset by lower spending in Robotics. 
+ Restructuring and Other 
+ During the year ended December 31, 2025, we recorded $29.4 million of severance charges, $24.3 million of which is related to the Robotics restructuring which impacted approximately 400 employees, $1.8 million of which was related to Product Test and $1.6 million of which was related to Semiconductor Test. During the year ended December 31, 2025, we made $15.3 million of Robotics severance payments. We expect all Robotics severance payments to be made prior to the end of the third quarter of 2026. Additionally, we recorded $4.9 million of asset impairment expenses and $2.3 million of acquisition and divestiture expenses. 
+ During the year ended December 31, 2024, we recorded $5.2 million of severance charges related to headcount reductions of 98 people primarily in Robotics and Semiconductor Test, which included charges related to a voluntary early retirement program for employees meeting certain conditions, $3.6 million of acquisition and divestiture expenses, and $1.3 million of charges related to lease terminations. 
+ Interest and Other 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2024 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Dollar Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (in millions) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Interest income 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ (15.7 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ (24.8 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 9.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Interest expense 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6.8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other (income) expense, net 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5.6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5.9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (0.3 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ Interest income decreased by $9.1 million primarily due to lower interest rates and a reduced cash balance compared to 2024. Interest expense increased by $3.2 million primarily due to borrowing from the credit facility during 2025. 
+ Income Before Income Taxes and Equity in Net Earnings of Affiliate 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2024 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2024-2025 Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (in millions) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Semiconductor Test 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 700.7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 558.2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 142.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Product Test 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 60.7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 65.7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (5.0 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ Robotics 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (99.4 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (77.6 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (21.8 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ Corporate and Eliminations (1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (8.8 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 62.7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (71.5 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 653.3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 609.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 44.2 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) 
+ Included in Corporate and Eliminations are gain on sale of business, interest income, interest expense, net foreign exchange gains (losses), intercompany eliminations, severance charges, pension and postretirement plan actuarial gains (losses), acquisition and divestiture related expenses, legal and environmental fees, contract termination settlement charge, and modification of outstanding equity awards. 
+ The increase in income before income taxes and equity in net earnings of affiliate in Semiconductor Test was driven primarily by higher sales in compute related to artificial intelligence applications and in Integrated System Test primarily related to system level testers, partially offset by higher spending in selling and administrative and engineering and development. The decrease in income before income taxes and equity in net earnings of affiliate in Robotics was primarily due to lower sales of collaborative robotic arms, partially offset by lower operating expenses. The change in income before income taxes and equity in net earnings of affiliate in Corporate and Eliminations was primarily due to the sale of the DIS business on May 27, 2024. 
+ 
+ 
+ 30 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ Income Taxes 
+ Income tax expense for 2025 and 2024 totaled $79.3 million and $59.5 million, respectively. The effective tax rate for 2025 and 2024 was 12.1% and 9.8%, respectively. The increase in the effective tax rate from the year ended December 31, 2024, to the year ended December 31, 2025, is primarily attributable to decreases in benefits related to reserves for uncertain tax positions, foreign tax credits and U.S. research and development tax credits. This increase was partially offset by a shift in the geographic distribution of income which resulted in a reduction of income in higher tax rate jurisdictions. 
+ We qualify for a tax holiday in Singapore by fulfilling the requirements of an agreement with the Singapore Economic Development Board under which certain headcount and spending requirements must be met. The tax savings attributable to the Singapore tax holiday for the years ended December 31, 2025, and 2024 were $21.6 million or $0.14 per diluted share and $17.1 million or $0.10 per diluted share, respectively. In December 2025, we entered into an agreement with the Singapore Economic Development Board which extended our Singapore tax holiday under substantially similar terms to the agreement which expired on December 31, 2025. The new tax holiday is scheduled to expire on December 31, 2035. 
+ On July 4, 2025, the One Big Beautiful Bill Act (OBBBA, P.L. 119-21) was enacted, introducing significant changes to U.S. federal income tax law. Key provisions include the permanent extension of 100% bonus depreciation, immediate expensing of research and experimental expenditures, and modifications to the deduction for business interest expense. The OBBBA also reduces the deduction rates for taxation of foreign income and taxation of income from export sales. The OBBBA did not have a material impact on the consolidated financial statements for the year ended December 31, 2025. 
+ On January 5, 2026, the Organisation for Economic Co-operation and Development (OECD/G20) Inclusive Framework released a 'side-by-side' arrangement that provides a safe harbor for U.S.-headquartered multinationals, effectively recognizing the U.S. tax system as complying with the Pillar Two GloBE rules for fiscal years beginning on or after January 1, 2026. Under this agreement, we expect our U.S. parented group and our foreign subsidiaries to be exempt from the Income Inclusion Rule (IIR) and the Undertaxed Profits Rule (UTPR) in foreign jurisdictions that adopt this safe harbor. While we do not anticipate material top-up taxes under the IIR and UTPR due to this agreement, we continue to monitor the implementation of Qualified Domestic Minimum Top-up Taxes (QDMTTs) in foreign jurisdictions, which remain unaffected by the side-by-side agreement. 
+ Capital Resources and Material Cash Requirement 
+ Sources of Liquidity 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2024 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2024-2025 Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ . 
+ 
+ 
+ 
+ 
+ 
+ (in millions) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cash, cash equivalents and marketable securities: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cash and cash equivalents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 293.8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 553.4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (259.6 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ Short-term marketable securities 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 28.2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 46.3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (18.1 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ Long-term marketable securities 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 126.3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 124.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total cash, cash equivalents and marketable securities: 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 448.3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 723.8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ (275.5 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Short-term debt 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 200.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 200.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ Our cash, cash equivalents and marketable securities balance decreased by $275.5 million in 2025 to $448.3 million. Cash decreased primarily due to stock repurchases in the amount of $702.1 million and acquisitions of businesses in the amount of $144.4 million, partially offset by operating cash proceeds. 
+ Our Third Amended and Restated Revolving Credit Agreement, amended as of November 7, 2023 (the “Credit Agreement”) provides a six-year, senior secured revolving credit facility of $750.0 million (the “Credit Facility”). During 2025, we borrowed a combined $250.0 million under the Credit Agreement to fund our capital allocation strategy, of which $200.0 million was outstanding as of year-end. The Credit Agreement is set to expire on December 10, 2026. See Note L: “Debt” for more information regarding our Credit Agreement. As of February 19, 2026, we were in compliance with all covenants under the Credit Agreement. 
+ 
+ 
+ 
+ 
+ 31 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ Cash Flows 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ December 31, 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ December 31, 2024 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2024-2025 Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (in millions) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net cash (used for) provided by: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating activities 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 674,415 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 672,176 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2,239 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Investing activities 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (368,617 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (622,342 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 253,725 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Financing activities 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (562,250 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (251,767 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (310,483 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ Effects of exchange rate changes on cash and cash equivalents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (3,151 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (2,284 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (867 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ Net increase (decrease) in cash and cash equivalents 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ (259,603 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ (204,217 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ (55,386 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net change in operating assets and liabilities, net of businesses acquired 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (72,509 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 23,876 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (96,385 
+ 
+ 
+ ) 
+ 
+ 
+ Operating Activities 
+ Operating activities during 2025 provided cash of $674.4 million. Changes in operating assets and liabilities, net of businesses acquired used $72.5 million due to a $340.6 million increase in operating assets and a $268.1 million increase in operating liabilities. The increase in operating assets was primarily due to increases in accounts receivable of $305.6 million. The increase in operating liabilities was primarily due to increases in accounts payable and other liabilities of $208.8 million. 
+ Operating activities during 2024 provided cash of $672.2 million. Changes in operating assets and liabilities used cash of $23.9 million. This was due to a $75.5 million decrease in operating assets and a $51.6 million decrease in operating liabilities. The decrease in operating assets was primarily due to a decrease in other assets of $119.5 million, partially offset by a $52.7 million increase in accounts receivable. The decrease in operating liabilities was primarily due to a $48.2 million decrease in accounts payable. 
+ Investing Activities 
+ Investing activities during 2025 included $224.0 million used for purchases of property, plant, and equipment, $144.4 million used for acquisition of businesses, net of cash and cash equivalents acquired, $33.0 million used for purchases of marketable securities, and $25.5 million used for purchase of investment in a business, partially offset by $49.0 million provided by proceeds from maturities of marketable securities and $9.3 million provided by proceeds from sales of marketable securities. 
+ Investing activities during 2024 included $532.1 million used for investments in businesses, $198.1 million used for purchases of property, plant and equipment, and $45.8 million used for purchases of marketable securities, partially offset by $90.3 million in proceeds from the sale of a business, $38.4 million and $24.0 million in proceeds from the maturities and sales of marketable securities, respectively, and $0.9 million in proceeds from life insurance. 
+ Financing Activities 
+ Financing activities during 2025 included $702.1 million used for repurchase of common stock, $76.3 million used for dividend payments, and $15.7 million used for payments related to net settlement of employee stock compensation awards, partially offset by net proceeds from borrowings on revolving credit facility of $200.0 million and $31.9 million from issuance of common stock under stock purchase and stock option plans. 
+ Financing activities during 2024 included $198.6 million used for the repurchase of common stock, $76.4 million used for dividend payments, and $14.1 million used for payments related to net settlement of employee stock compensation awards, partially offset by $37.3 million from the issuance of common stock under employee stock purchase and stock option plans. 
+ Material Cash Requirements 
+ In January 2025, May 2025, August 2025 and November 2025, our Board of Directors declared a quarterly cash dividend of $0.12 per share. Total dividend payments in 2025 were $76.3 million. In January 2024, May 2024, August 2024 and November 2024, our Board of Directors declared a quarterly cash dividend of $0.12 per share. Total dividend payments in 2024 were $76.4 million. 
+ In January 2023, our Board of Directors approved a repurchase program for up to $2.0 billion of common stock. In 2025, we repurchased 6.3 million shares of common stock for $702.1 million, which excludes related excise tax, at an average price of $112.21 
+ 
+ 
+ 32 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ per share. In 2024, we repurchased 1.7 million shares of common stock for $198.6 million, which excludes related excise tax, at an average price of $114.63 per share. The cumulative repurchases as of December 31, 2025, under the 2023 repurchase program, were 12.0 million shares of common stock for $1,297.3 million, which excludes related excise tax, at an average price per share of $109.38. 
+ In January 2026, our Board of Directors declared a quarterly cash dividend of $0.13 per share to be paid on March 13, 2026 to shareholders of record as of February 13, 2026. 
+ While we declared a quarterly cash dividend and authorized a share repurchase program, we may reduce or eliminate the cash dividend or share repurchase program in the future. Future cash dividends and stock repurchases are subject to the discretion of our Board of Directors, which will consider, among other things, our earnings, capital requirements and financial condition. 
+ At December 31, 2025, our future contractual obligations were related to debt, leases, retirement plan liabilities, deferred tax benefits, and purchase obligations. See Note L: “Debt,” Note K: “Leases,” Note R: “Retirement Plans,” and Note U: “Income Taxes” of Notes to Consolidated Financial Statements in this Annual Report for information about those obligations, which Notes are incorporated by reference into this section. Our purchase obligations were approximately $1,473.0 million, with $1,415.1 million expected to be paid within twelve months. 
+ We believe our cash, cash equivalents, marketable securities and senior secured revolving credit facility will be sufficient to pay our quarterly dividend and meet our working capital and expenditure needs for at least the next twelve months. Inflation has not had a significant long-term impact on earnings. 
+ Retirement Plans 
+ ASC 715-20, “ Compensation—Retirement Benefits—Defined Benefit Plans, ” requires an employer with defined benefit plans or other postretirement benefit plans to recognize an asset or a liability on its balance sheet for the overfunded or underfunded status of the plans as defined by ASC 715-20. The pension asset or liability represents the difference between the fair value of the pension plans’ assets and the projected benefit obligation as of December 31. For other postretirement benefit plans, the liability is the difference between the fair value of the plan’s assets and the accumulated postretirement benefit obligation as of December 31. 
+ For the year ended December 31, 2025, our pension expense, which includes the U.S. Qualified Pension Plan (“U.S. Plan”), certain qualified plans for non-U.S. subsidiaries, and a U.S. Supplemental Executive Defined Benefit Plan, was approximately $4.3 million. Pension expense is calculated based upon a number of actuarial assumptions. Discount rate and expected return on assets are two assumptions which are important elements of pension plan expense and asset/liability measurement. We evaluate our discount rate and expected rate of return on assets assumptions annually on a plan and country specific basis. We evaluate other assumptions related to demographic factors, such as retirement age, mortality and turnover periodically, and update them to reflect our experience and expectations for the future. 
+ In developing the expected return on U.S. Plan assets assumption, we evaluated input from our investment manager and pension consultants, including their forecast of asset class return expectations. We believe that 5.05% was an appropriate rate of return on assets to use for 2025. The December 31, 2025, asset allocation for our U.S. Plan was 94.0% invested in fixed income securities, 5% invested in equity securities, and 1% invested in other securities. Our investment manager regularly reviews the actual asset allocation and periodically rebalances the portfolio to ensure alignment with our target allocations. 
+ We recognize net actuarial gains and losses and the change in the fair value of plan assets in our operating results in the year in which they occur or upon any interim remeasurement of the plans. We calculate the expected return on plan assets using the fair value of the plan assets. Actuarial gains and losses are generally measured annually as of December 31 and, accordingly, recorded during the fourth quarter of each year or upon any interim remeasurement of the plans. 
+ The discount rate that we utilized for determining future pension obligations for the U.S. Plan is based on the FTSE Pension Index adjusted for the U.S. Plan’s expected cash flows and was 5.30% at December 31, 2025, down from 5.45% at December 31, 2024. We estimate that in 2026 we will recognize approximately $0.1 million of pension income for the U.S. Plan. The U.S. Plan pension income estimate for 2026 is based on a 5.30% discount rate and a 5.10% return on assets. Future pension expense or income will depend on future investment performance, changes in future discount rates and various other factors related to the employee population participating in our pension plans. 
+ As of December 31, 2025, our pension plans had no unrecognized pension prior service cost. 
+ 
+ 
+ 33 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ The assets of the U.S. Plan consist substantially of fixed income securities. U.S. Plan assets have decreased from $81.4 million at December 31, 2024 to $80.6 million at December 31, 2025, while the U.S. Plan’s liability decreased from $69.4 million at December 31, 2024 to $68.6 million at December 31, 2025. 
+ Our funding policy is to make contributions to our pension plans in accordance with local laws and to the extent that such contributions are tax deductible. During 2025, we made contributions of $3.3 million to the U.S. supplemental executive defined benefit pension plan, and $1.2 million to certain qualified plans for non-U.S. subsidiaries. In 2026, we expect to contribute approximately $3.6 million to the U.S. supplemental executive defined benefit pension plan. Contributions to be made in 2026 to certain qualified plans for non-U.S. subsidiaries are based on local statutory requirements and are estimated at approximately $1.7 million. 
+ Equity Compensation Plans 
+ As of December 31, 2025, our stockholders have approved two equity compensations plans under which equity securities are authorized for issuance: our 1996 Employee Stock Purchase Plan (the “ESPP”), as discussed in Note S: “Stock-Based Compensation” in Notes to Consolidated Financial Statements, as well as our Equity and Cash Compensation Incentive Plan (the “Equity Plan”). The plans were initially approved by our stockholders on March 19, 1996 and May 12, 2006, respectively, and most recently approved as amended on May 7, 2021, and May 12, 2025, respectively. 
+ Under the ESPP and the Equity Plan, as amended, our stockholders have approved an aggregate of 33.4 million and 32.0 million shares, respectively, issuable thereunder. At our annual meeting of stockholders held May 9, 2025, our stockholders approved an amendment and restatement of the Equity Plan. The amendments, among other changes, renamed the plan to the “Equity and Cash Compensation Incentive Plan,” eliminated the then-current term end date of May 12, 2025, and added a provision that incentive stock options may not be granted without shareholder approval following the ten-year anniversary of the Board’s approval of the amended Equity Plan, which is March 24, 2035. 
+ The following table presents information about these plans as of December 31, 2025 (share numbers in thousands): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Plan category 
+ 
+ 
+ 
+ 
+ 
+ Number of securities to be issued upon exercise of outstanding options, warrants and rights (1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Weighted-average exercise price of outstanding options, warrants and rights 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Number of securities remaining available for future issuance under equity compensation plans (excluding securities reflected in column one) (2) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Equity plans approved by shareholders 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,798 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 108.00 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6,227 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) 
+ Includes 1,634,922 shares of restricted stock units that are not included in the calculation of the weighted average exercise price. 
+ (2) 
+ Consists of 3,050,235 securities available for issuance under the 2006 Equity Plan and 3,176,598 of securities available for issuance under the Employee Stock Purchase Plan. 
+ The purpose of the 2006 Equity Plan is to motivate employees, officers and directors by providing equity ownership and compensation opportunities in Teradyne. The aggregate number of shares available under the 2006 Equity Plan as of December 31, 2025, was 3,050,235 shares of our common stock. The 2006 Equity Plan authorizes the grant of stock-based awards in the form of (1) non-qualified and incentive stock options, (2) stock appreciation rights, (3) restricted stock awards and restricted stock unit awards, (4) phantom stock, and (5) other stock-based awards. Awards may be tied to time-based vesting schedules and/or performance-based vesting measured by reference to performance criteria chosen by the Compensation Committee of the Board of Directors, which administers the 2006 Equity Plan. Awards may be made to any employee, officer, consultant and advisor of Teradyne and our subsidiaries, as well as to our directors. The maximum number of shares of stock-based awards that may be granted to one participant during any one fiscal year is 2,000,000 shares of common stock. 
+ As of December 31, 2025, total unrecognized compensation expense related to non-vested restricted stock units and options was $97.3 million and is expected to be recognized over a weighted average period of 2.6 years. 
+ 
+ 
+ 34 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ Comparative Stock Performance Graph 
+ The following graph compares the change in our cumulative total shareholder return in our common stock with (i) the Standard & Poor’s 500 Index and (ii) the Morningstar Global Semiconductor Equipment & Materials GR USD Industry Group. The comparison assumes $100.00 was invested on December 31, 2020 in our common stock and in each of the foregoing indices and assumes reinvestment of dividends, if any. Historic stock price performance is not necessarily indicative of future price performance. 
+ 
+ 
+ 
+ Recently Issued Accounting Pronouncements 
+ For a description of accounting changes and recent accounting pronouncements, including the expected dates of adoption and estimated effects, if any, on our consolidated financial statements, see Note C: “Recently Issued Accounting Pronouncements,” of this Form 10-K. 

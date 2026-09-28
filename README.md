@@ -1,6 +1,8 @@
 # Nhóm 5 · Textual Finance · Streamlit
 
-Dashboard đọc snapshot **dữ liệu thật** SEC 10-K của 50 doanh nghiệp, FY2016–2025. Tone được tính từ từ điển Loughran–McDonald; CAR dùng market model. Dữ liệu đã sửa 14 phạm vi MD&A bị chọn nhầm. Kết quả chính hiện chưa có ý nghĩa thống kê ở mức 5%.
+App đọc snapshot đã kiểm chứng của **100 công ty do người dùng cung cấp**, mỗi công ty có 10 báo cáo 10-K FY2016–2025. Từ HTML gốc SEC và các phụ lục Exhibit 13, dự án trích 1.000 MD&A, tính tone Loughran–McDonald và CAR quanh ngày nộp. Kết quả quan sát và giới hạn được trình bày trong app và báo cáo PDF.
+
+App công khai: https://nhom5-10k-tone-car.streamlit.app/
 
 ## Chạy local
 
@@ -9,10 +11,8 @@ python -m pip install -r requirements.txt
 python -m streamlit run app.py
 ```
 
-## Đưa lên Streamlit Community Cloud
+Trên Streamlit Community Cloud, dùng repo này, nhánh `main`, entrypoint `app.py`. Phiên bản Python được chọn trong Advanced settings lúc tạo app. Cloud chỉ đọc snapshot; không cần API key và không tải SEC/Yahoo khi khởi động.
 
-Repo GitHub chứa chính thư mục này ở gốc. Trên [share.streamlit.io](https://share.streamlit.io/), chọn repo, nhánh `main` và entrypoint `app.py`. Python 3.12. App không dùng API key hoặc file `.env`; mọi phân tích trên Cloud đọc snapshot cố định, **không tự tải SEC/Yahoo**. Mỗi filing có link đến tài liệu SEC gốc. Chỉ nhóm nghiên cứu cập nhật snapshot từ pipeline có kiểm tra trong dự án gốc.
+`snapshot/` có danh sách gốc 100 công ty, bảng đối chiếu SEC, ba bộ panel/AR/hồi quy theo cách căn ngày, bảng 8-K, phân tích độ nhạy và 1.000 bản trích MD&A. `docs/` chứa báo cáo, nguồn, phương pháp, giới hạn và kiểm toán; `Nhom5_BaoCao.pdf` là bản in. HTML 10-K gốc được giữ trong dự án nghiên cứu local ở `data/raw/sec`, còn app có link trực tiếp tới từng filing SEC để đối chiếu.
 
-`snapshot/` gồm ba panel/AR/hồi quy theo alignment, 500 bản trích MD&A và file kiểm chứng. `docs/` chứa báo cáo/phương pháp/giới hạn; PDF 20 trang nằm ở gốc. Raw HTML SEC không được sao chép lên repo Streamlit để giảm dung lượng; xem file trực tiếp qua link SEC ở tab Khám phá báo cáo. Các file văn bản MD&A là bản trích đã xử lý, không phải HTML gốc.
-
-Nguồn công trình so sánh và các giới hạn về chọn mẫu, dữ liệu giá và earnings surprise được nêu trong `docs/REFERENCES.md` và `docs/LIMITATIONS_REMEDIATION.md`. App không nhận đây là replication chính xác Loughran–McDonald (2011).
+Đây là mẫu có chủ đích, không phải replication chính xác dữ liệu CRSP của Loughran–McDonald (2011); các hệ số không chứng minh quan hệ nhân quả.

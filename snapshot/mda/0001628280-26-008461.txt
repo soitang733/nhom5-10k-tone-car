@@ -1,0 +1,5057 @@
+ ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of Operations 
+ 
+ EVERSOURCE ENERGY AND SUBSIDIARIES 
+ 
+ The following discussion and analysis should be read in conjunction with our consolidated financial statements and related combined notes included in this combined Annual Report on Form 10-K. References in this combined Annual Report on Form 10-K to "Eversource," the "Company," "we," "us," and "our" refer to Eversource Energy and its consolidated subsidiaries. All per-share amounts are reported on a diluted basis. The consolidated financial statements of Eversource, NSTAR Electric and PSNH and the financial statements of CL&P are herein collectively referred to as the "financial statements." Our discussion of fiscal year 2025 compared to fiscal year 2024 is included herein. Unless expressly stated otherwise, for discussion and analysis of fiscal year 2023 items and of fiscal year 2024 compared to fiscal year 2023, please refer to ITEM 7, Management's Discussion and Analysis of Financial Condition and Results of Operations, in our combined 2024 Annual Report on Form 10-K , which is incorporated herein by reference. 
+ 
+ Refer to the Glossary of Terms included in this combined Annual Report on Form 10-K for abbreviations and acronyms used throughout this Management's Discussion and Analysis of Financial Condition and Results of Operations . 
+ 
+ The only common equity securities that are publicly traded are common shares of Eversource. Our earnings discussion includes financial measures that are not recognized under GAAP (non-GAAP) referencing our earnings and EPS excluding losses associated with our previous offshore wind investments, a loss on the pending sale of the Aquarion water distribution business, and a loss on the disposition of land that was initially acquired to construct the Northern Pass Transmission project and was subsequently abandoned. EPS by business is also a non-GAAP financial measure and is calculated by dividing the Net Income Attributable to Common Shareholders of each business by the weighted average diluted Eversource common shares outstanding for the period. The earnings and EPS of each business do not represent a direct legal interest in the assets and liabilities of such business, but rather represent a direct interest in our assets and liabilities as a whole. 
+ 
+ We use these non-GAAP financial measures to evaluate and provide details of earnings results by business and to more fully compare and explain our results without including these items. This information is among the primary indicators we use as a basis for evaluating performance and planning and forecasting of future periods. We believe the impacts of the losses associated with our previous offshore wind investments, the loss on the pending sale of the Aquarion water distribution business, and the loss on the disposition of land associated with an abandoned project are not indicative of our ongoing costs and performance. We view these charges as not directly related to the ongoing operations of the business and therefore not an indicator of baseline operating performance. Due to the nature and significance of the effect of these items on Net Income Attributable to Common Shareholders and EPS, we believe that the non-GAAP presentation is a more meaningful representation of our financial performance and provides additional and useful information to readers of this report in analyzing historical and future performance of our business. These non-GAAP financial measures should not be considered as alternatives to reported Net Income Attributable to Common Shareholders or EPS determined in accordance with GAAP as indicators of operating performance. 
+ 
+ Financial Condition and Business Analysis 
+ 
+ Executive Summary 
+ 
+ Eversource Energy is a public utility holding company primarily engaged, through its wholly-owned regulated utility subsidiaries, in the energy delivery business. Eversource Energy's wholly-owned regulated utility subsidiaries consist of CL&P, NSTAR Electric and PSNH (electric utilities), Yankee Gas, NSTAR Gas and EGMA (natural gas utilities) and Aquarion (water utilities). Eversource is organized into the electric distribution, electric transmission, natural gas distribution, and water distribution reportable segments. 
+ 
+ The following items in this executive summary are explained in more detail in this combined Annual Report on Form 10-K: 
+ 
+ Earnings Overview and Future Outlook: 
+ 
+ • We earned $1.69 billion, or $4.56 per share, in 2025, compared with $811.7 million, or $2.27 per share, in 2024. Our 2025 results include an aggregate, net after-tax charge resulting from our previous offshore wind investments of $75.0 million, or $0.20 per share. Our 2024 results include an aggregate, net after-tax loss on the sale of our offshore wind investments of $524.0 million, or $1.47 per share. These 2025 and 2024 charges were recorded within Eversource Parent and Other Companies. Our 2024 results also include an after-tax loss resulting from the expected sale of Aquarion of $298.3 million, or $0.83 per share. This 2024 charge was recorded within the Water Distribution segment. Excluding these charges, our 2025 non-GAAP earnings were $1.77 billion, or $4.76 per share, and our 2024 non-GAAP earnings of $1.63 billion, or $4.57 per share. 
+ 
+ • We project that we will earn within a 2026 earning guidance range of between $4.80 per share and $4.95 per share. We also project that our long-term EPS growth rate through 2030 will be in a 5 to 7 percent range, using 2025 non-GAAP EPS of $4.76 per share as the base year. 
+ 
+ Liquidity: 
+ 
+ • Cash flows provided by operating activities totaled $4.11 billion in 2025, compared with $2.16 billion in 2024. Investments in property, plant and equipment totaled $4.16 billion in 2025, compared with $4.48 billion in 2024. 
+ 
+ 
+ 
+ 29 
+ 
+ 
+ • Cash totaled $135.4 million as of December 31, 2025, compared with $26.7 million as of December 31, 2024. Our available borrowing capacity under our commercial paper programs totaled $1.12 billion as of December 31, 2025. 
+ 
+ • In 2025, we issued $2.94 billion of new long-term debt and we repaid $1.40 billion of long-term debt. 
+ 
+ • In 2025, we paid dividends totaling $3.01 per common share, compared with dividends of $2.86 per common share in 2024. Our quarterly common share dividend payment was $0.7525 per share in 2025, as compared to $0.715 per share in 2024. On January 27, 2026, our Board of Trustees approved a common share dividend payment of $0.7875 per share, payable on March 31, 2026 to shareholders of record as of March 5, 2026. 
+ 
+ • On May 30, 2025, we entered into an equity distribution agreement pursuant to which we may offer and sell up to $1.2 billion of our common shares from time to time through an “at-the-market” (ATM) equity offering program. In 2025, we issued 7,130,134 common shares, which resulted in proceeds of $465.4 million , net of issuance costs. 
+ 
+ • We project to make capital expenditures of $26.51 billion from 2026 through 2030, of which we expect $11.24 billion to be in our electric distribution segment, $6.80 billion to be in our natural gas distribution segment, and $7.24 billion to be in our electric transmission segment. We also project to invest $1.23 billion in information technology and facilities upgrades and enhancements. 
+ 
+ Regulatory Developments: 
+ 
+ • On July 25, 2025, the NHPUC issued its decision in the PSNH distribution rate case and approved a permanent rate increase of $100.7 million, effective August 1, 2025, inclusive of the temporary rate increase that went into effect in August 2024. The order established an authorized regulatory ROE of 9.5 percent with a 50 percent common equity ratio for PSNH’s capital structure. The NHPUC approved an alternative regulatory framework that authorizes formulaic annual revenue adjustments on August 1st of 2026, 2027 and 2028. 
+ 
+ • On November 3, 2025, EGMA, NSTAR Electric, and the Massachusetts Office of the Attorney General reached a joint settlement agreement that resolved outstanding issues in multiple open Pension Adjustment Mechanism (PAM) dockets and open Resiliency Tree Work (RTW) dockets at NSTAR Electric and allows recovery of transaction and integration costs related to Eversource’s acquisition of EGMA. The settlement agreement was approved by the DPU on December 1, 2025. The settlement resulted in a net pre-tax benefit to earnings of $64.8 million on the Eversource income statement in the fourth quarter of 2025. 
+ 
+ • On November 5, 2025, PURA issued a final decision in the Yankee Gas distribution rate case that included a distribution rate increase of $95.7 million, which excluded a previously recorded non-firm margin rate credit of $13.5 million to be refunded annually over three years, effective November 1, 2025. The final decision also established an authorized net regulatory ROE of 9.32 percent and a 53 percent common equity ratio for Yankee Gas’ capital structure. Yankee Gas filed motions to request PURA reconsider the disallowances of certain capitalized overhead costs, certain computational errors, and other issues identified in its final decision. A final decision on the reconsideration is expected from PURA by March 15, 2026. 
+ 
+ • On November 19, 2025, PURA denied an application to approve the sale of the Aquarion Water Company, finding that the transaction did not meet managerial suitability and responsibility requirements due to concerns with governance and oversight structure over Aquarion and its consumer advocate. On January 15, 2026, the Connecticut Superior Court issued a decision on the appeal of PURA’s denial, sustaining the appeal and remanding back to PURA. A final decision is expected by PURA on March 25, 2026. 
+ 
+ • On December 30, 2025, NSTAR Gas and the Massachusetts Office of the Attorney General reached a joint settlement agreement that allowed for the reinstatement of a rate base reset of $45.0 million increase to base distribution rates effective January 1, 2026 and for continuation of NSTAR Gas’ PBR program through November 1, 2030. The settlement agreement also required NSTAR Gas to provide credits to customers and a concession to the Office of the Attorney General, among other items. The DPU approved the settlement agreement on January 16, 2026. The settlement agreement resulted in a pre-tax charge to earnings of $12.2 million in the fourth quarter of 2025. 
+ 
+ • On January 30, 2026, the New Hampshire Department of Energy filed a notice of appeal with the New Hampshire Supreme Court challenging certain aspects of the PSNH distribution rate case decision approved by the NHPUC on July 25, 2025, including the alternative regulatory framework and the revenue requirement. On February 6, 2026, the Office of the Consumer Advocate filed a notice of cross-appeal challenging other aspects of the rate case decision. Eversource is currently evaluating the appeals. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 30 
+ 
+ 
+ 
+ Earnings Overview 
+ 
+ Consolidated: Below is a summary of our earnings/(loss) by business, which also reconciles the non-GAAP financial measures of consolidated non-GAAP earnings and EPS, as well as EPS by business, to the most directly comparable GAAP measures of consolidated Net Income/(Loss) Attributable to Common Shareholders and diluted EPS. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Years Ended December 31, 
+ 
+ 
+ 2025 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ (Millions of Dollars, Except Per Share Amounts) 
+ Amount 
+ 
+ Per Share 
+ 
+ Amount 
+ 
+ Per Share 
+ 
+ Amount 
+ 
+ Per Share 
+ 
+ Net Income/(Loss) Attributable to Common Shareholders (GAAP) 
+ $ 
+ 1,692.4 
+ 
+ 
+ $ 
+ 4.56 
+ 
+ 
+ $ 
+ 811.7 
+ 
+ 
+ $ 
+ 2.27 
+ 
+ 
+ $ 
+ (442.2) 
+ 
+ 
+ $ 
+ (1.26) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Regulated Companies (Non-GAAP) 
+ $ 
+ 1,848.5 
+ 
+ 
+ $ 
+ 4.98 
+ 
+ 
+ $ 
+ 1,691.9 
+ 
+ 
+ $ 
+ 4.73 
+ 
+ 
+ $ 
+ 1,509.3 
+ 
+ 
+ $ 
+ 4.31 
+ 
+ 
+ Eversource Parent and Other Companies (Non-GAAP) 
+ (81.1) 
+ 
+ 
+ (0.22) 
+ 
+ 
+ (57.9) 
+ 
+ 
+ (0.16) 
+ 
+ 
+ 8.4 
+ 
+ 
+ 0.03 
+ 
+ 
+ Non-GAAP Earnings 
+ $ 
+ 1,767.4 
+ 
+ 
+ $ 
+ 4.76 
+ 
+ 
+ $ 
+ 1,634.0 
+ 
+ 
+ $ 
+ 4.57 
+ 
+ 
+ $ 
+ 1,517.7 
+ 
+ 
+ $ 
+ 4.34 
+ 
+ 
+ 
+ Losses on Offshore Wind (after-tax) (1) 
+ (75.0) 
+ 
+ 
+ (0.20) 
+ 
+ 
+ (524.0) 
+ 
+ 
+ (1.47) 
+ 
+ 
+ (1,953.0) 
+ 
+ 
+ (5.58) 
+ 
+ 
+ 
+ Loss on Pending Sale of Aquarion (after-tax) (2) 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ (298.3) 
+ 
+ 
+ (0.83) 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ 
+ Land Abandonment Loss and Other Charges (after-tax) (3) 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ (6.9) 
+ 
+ 
+ (0.02) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net Income/(Loss) Attributable to Common Shareholders (GAAP) 
+ $ 
+ 1,692.4 
+ 
+ 
+ $ 
+ 4.56 
+ 
+ 
+ $ 
+ 811.7 
+ 
+ 
+ $ 
+ 2.27 
+ 
+ 
+ $ 
+ (442.2) 
+ 
+ 
+ $ 
+ (1.26) 
+ 
+ 
+ (1) In 2025, we recorded a pre-tax charge of $284 million associated with increasing our offshore wind contingent liability for expected future payments under the terms of the 2024 sale agreement with Global Infrastructure Partners (GIP) for the South Fork Wind and Revolution Wind projects, offset by expected tax benefits from the offshore wind sale of $209 million. In 2024, we recorded a pre-tax loss on the sales of our offshore wind investments of $464 million and a $60 million increase in income tax expense, resulting in an after-tax loss of $524 million. In 2023, we recorded impairment charges resulting from the expected sales of these offshore wind investments. For further information, see the "Offshore Wind Sale and Contingent Liability" section below included in this Management's Discussion and Analysis of Financial Condition and Results of Operations . 
+ 
+ (2) The 2024 loss includes an impairment charge of $297 million to write down the carrying value of the water business to fair value resulting from the expected sale of Aquarion, as well as transaction costs. For further information, see "Business Development and Capital Expenditures – Aquarion Sale Status and Regulatory Denial" included in this Management's Discussion and Analysis of Financial Condition and Results of Operations . 
+ 
+ (3) The 2023 charges primarily include a loss on the disposition of abandoned land intended to be used for the cancelled Northern Pass Transmission project. 
+ 
+ The impact of higher shares outstanding resulted in $0.17 earnings per share dilution in 2025, as compared to 2024. 
+ 
+ Regulated Companies: Our regulated companies comprise the electric distribution, electric transmission, natural gas distribution, and water distribution segments. A summary of our segment earnings and EPS is as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Years Ended December 31, 
+ 
+ 
+ 2025 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ (Millions of Dollars, Except Per Share Amounts) 
+ Amount 
+ 
+ Per Share 
+ 
+ Amount 
+ 
+ Per Share 
+ 
+ Amount 
+ 
+ Per Share 
+ 
+ Net Income - Regulated Companies (GAAP) 
+ $ 
+ 1,848.5 
+ 
+ 
+ $ 
+ 4.98 
+ 
+ 
+ $ 
+ 1,393.6 
+ 
+ 
+ $ 
+ 3.90 
+ 
+ 
+ $ 
+ 1,509.3 
+ 
+ 
+ $ 
+ 4.31 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Electric Distribution 
+ $ 
+ 667.1 
+ 
+ 
+ $ 
+ 1.80 
+ 
+ 
+ $ 
+ 631.7 
+ 
+ 
+ $ 
+ 1.77 
+ 
+ 
+ $ 
+ 608.0 
+ 
+ 
+ $ 
+ 1.74 
+ 
+ 
+ Electric Transmission 
+ 776.7 
+ 
+ 
+ 2.09 
+ 
+ 
+ 724.6 
+ 
+ 
+ 2.03 
+ 
+ 
+ 643.4 
+ 
+ 
+ 1.84 
+ 
+ 
+ Natural Gas Distribution 
+ 360.5 
+ 
+ 
+ 0.97 
+ 
+ 
+ 291.0 
+ 
+ 
+ 0.81 
+ 
+ 
+ 224.8 
+ 
+ 
+ 0.64 
+ 
+ 
+ Water Distribution, excluding Loss on Pending Sale (Non-GAAP) 
+ 44.2 
+ 
+ 
+ 0.12 
+ 
+ 
+ 44.6 
+ 
+ 
+ 0.12 
+ 
+ 
+ 33.1 
+ 
+ 
+ 0.09 
+ 
+ 
+ Net Income - Regulated Companies (Non-GAAP) 
+ $ 
+ 1,848.5 
+ 
+ 
+ $ 
+ 4.98 
+ 
+ 
+ $ 
+ 1,691.9 
+ 
+ 
+ $ 
+ 4.73 
+ 
+ 
+ $ 
+ 1,509.3 
+ 
+ 
+ $ 
+ 4.31 
+ 
+ 
+ Loss on Pending Sale of Aquarion (after-tax) 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ (298.3) 
+ 
+ 
+ (0.83) 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ Net Income - Regulated Companies (GAAP) 
+ $ 
+ 1,848.5 
+ 
+ 
+ $ 
+ 4.98 
+ 
+ 
+ $ 
+ 1,393.6 
+ 
+ 
+ $ 
+ 3.90 
+ 
+ 
+ $ 
+ 1,509.3 
+ 
+ 
+ $ 
+ 4.31 
+ 
+ 
+ Our electric distribution segment earnings increased $35.4 million in 2025, as compared to 2024, due primarily to higher revenues from base distribution rate increases at PSNH effective August 1, 2024 and August 1, 2025 and at NSTAR Electric effective January 1, 2025 and from CL&P's capital tracking mechanism due to increased electric system improvements. Earnings also benefited from a lower effective tax rate and the impact of the PSNH rate case decision in July 2025. Those earnings increases were partially offset by higher interest expense, higher operations and maintenance expense, higher property tax expense, higher depreciation expense, and a charge for customer credits at NSTAR Electric as a result of the joint settlement agreement approved in Massachusetts on December 1, 2025. 
+ 
+ Our electric transmission segment earnings increased $52.1 million in 2025, as compared to 2024, due primarily to a higher transmission rate base as a result of our continued investment in our transmission infrastructure and lower interest expense. 
+ 
+ 
+ 
+ 31 
+ 
+ 
+ Our natural gas distribution segment earnings increased $69.5 million in 2025, as compared to 2024, due primarily to higher revenues from base distribution rate increases effective November 1, 2024 and November 1, 2025 at both EGMA and NSTAR Gas, effective November 1, 2025 at Yankee Gas, and from capital tracking mechanisms due to continued investments in natural gas infrastructure. Those earnings increases were partially offset by higher operations and maintenance expense, higher depreciation expense, higher interest expense, the impact of the NSTAR Gas settlement agreement in December 2025, higher property tax expense, and the impact of the Yankee Gas rate case decision in November 2025. 
+ 
+ Our water distribution segment recognized a $297 million impairment charge in 2024 as a result of writing down the carrying value of the business to fair value due to the expected sale of Aquarion. Excluding the 2024 impairment charge and transaction costs associated with the expected sale, water distribution segment earnings decreased $0.4 million in 2025, as compared to 2024. 
+ 
+ Eversource Parent and Other Companies: Eversource parent and other companies’ losses decreased $425.8 million in 2025, as compared to 2024, due primarily to an after-tax charge of $524.0 million recorded in 2024 resulting from the sale of Eversource parent’s offshore wind investments, as compared to an aggregate net after-tax charge of $75.0 million recorded in 2025 resulting from an increase to the offshore wind contingent liability, net of tax benefits associated with the tax losses on the sales of its offshore wind investments. 
+ 
+ Excluding these charges, Eversource parent and other companies losses increased $23.2 million due to higher interest expense from the absence in 2025 of capitalized interest as a result of the sale of our offshore wind projects in the third quarter of 2024 and higher interest costs from short-term debt, partially offset by the allowed recovery of previously expensed acquisition-related and integration costs of EGMA as part of the joint settlement agreement approved in Massachusetts on December 1, 2025. 
+ 
+ Offshore Wind Sale and Contingent Liability: On July 9, 2024, Eversource completed the sale of its 50 percent ownership share of Sunrise Wind to Ørsted. On September 30, 2024, Eversource completed the sale of its 50 percent ownership share in the South Fork Wind and Revolution Wind projects to GIP. Eversource recorded a contingent liability relating to expected future payments to GIP as part of the sale of the South Fork Wind and Revolution Wind projects. As part of the definitive agreement with GIP, Eversource is responsible for certain post-closing purchase price adjustments. This obligation includes an expected cost overrun sharing obligation, an expected obligation to maintain GIP’s internal rate of return, and an obligation for other future costs prior to commercial operation. Eversource recognized an aggregate after-tax loss on the sales of its offshore wind investments of $524 million, which included a net $60 million increase in income tax expense including an increase in the valuation allowance for unused capital losses, in 2024. 
+ 
+ In the third quarter of 2025, Eversource received an updated report from GIP on the construction status of Revolution Wind, which included revised projections of total construction costs. The revised cost projections reflected known and quantifiable cost increases, including those associated with the impacts of damage to the wind turbine installation vessel, insurance costs, tariff impacts, and costs incurred as a result of the stop-work order for Revolution Wind received on August 22, 2025 from the Bureau of Ocean Energy Management that halted all offshore wind construction activities through September 22, 2025. Based on those developments, Eversource recognized a pre-tax charge of $284.0 million in the third quarter of 2025 as a result of the aggregate impact of these items to increase the liability for purchase price adjustments associated with the offshore wind projects. 
+ 
+ Payments made in 2025 reduced the contingent liability and are reflected within investing activities on the statement of cash flows. These payments included cost overruns for the Revolution Wind project paid to GIP, insurance payments, and the purchase price adjustment payment related to the South Fork Wind project paid to GIP. 
+ 
+ Eversource continually evaluates the contingent liability and will reassess the balance as new information becomes available. Based on most recent updates from GIP on the construction status of Revolution Wind, factoring in estimated costs incurred as a result of a second stop-work order for Revolution Wind received on December 22, 2025 and removed on January 12, 2026, revised insurance costs, and other information currently available, Eversource believes that the contingent liability balance as of December 31, 2025 is a reasonable estimate to cover this contingent liability for purchase price adjustments. As of December 31, 2025, the contingent liability totaled $448.2 million and is recorded as a current liability on Eversource’s balance sheet, based upon the timing of expected payments to GIP. The contingent liability totaled $365.0 million as of December 31, 2024. 
+ 
+ Eversource relies on information that it receives from the project owners for the construction-related, delay-related, and insurance-related costs of Revolution Wind. Eversource uses its judgment to adjust, as needed, its expected obligations to GIP while construction of Revolution Wind is completed. 
+ 
+ New information or future developments that arise as the construction of Revolution Wind progresses will necessitate a reassessment of the estimated liability to GIP. The Company reviews available projections of total construction costs, including the latest cost estimates and project timeline, to determine if any changes to this liability are warranted. 
+ 
+ It is reasonably possible that as additional updated cost estimates become available, and if additional cost overruns materialize or other adverse changes in facts, regulations and circumstances occur, it could result in additional losses and increases to the offshore wind contingent liability, which could be material. The Company will continue to monitor developments and evaluate potential exposures related to this contingency and will revise its estimated liability as additional information becomes available. 
+ 
+ Contingencies are evaluated using the best information available at the time the financial statements are published, and this assessment involves judgments and assumptions about future events. Factors that could increase the obligation to GIP include construction cost overruns for Revolution Wind as well as the timing and extent of construction delays, which would impact the economics associated with the purchase price adjustment, and the eligibility for federal investment tax credits for Revolution Wind at a value lower than assumed and included in the purchase 
+ 
+ 
+ 32 
+ 
+ 
+ price. The purchase price of Revolution Wind included the sales value related to a 40 percent level of federal investment tax credits. A change in the expected value or qualification of investment tax credit adders could result in a significant loss in a future period. 
+ 
+ Total net proceeds could also be adjusted for a benefit due to Eversource if there are lower operation costs or higher availability of the projects through the period that is four years following the commercial operation of Revolution Wind. 
+ 
+ Eversource recognized an aggregate, net after-tax charge of $75.0 million, or $0.20 per share, in 2025 resulting from our previous offshore wind investments. This charge consists of the pre-tax $284 million increase to the offshore wind contingent liability, offset by $209 million of tax benefits associated with tax losses on the sale of the South Fork Wind and Revolution Wind projects that Eversource expects to realize. 
+ 
+ 
+ Liquidity 
+ 
+ Sources and Uses of Cash: Eversource’s regulated business is capital intensive and requires considerable capital resources. Eversource’s regulated companies’ capital resources are provided by cash flows generated from operations, short-term borrowings, long-term debt issuances, capital contributions from Eversource parent, and existing cash, and are used to fund their liquidity and capital requirements. Eversource’s regulated companies typically maintain minimal cash balances and use short-term borrowings to meet their working capital needs and other cash requirements. Short-term borrowings are also used as a bridge to long-term debt financings. The levels of short-term borrowing may vary significantly over the course of the year due to the impact of fluctuations in cash flows from operations (including timing of storm costs and regulatory recoveries), dividends paid, capital contributions received and the timing of long-term debt financings. 
+ 
+ Eversource, CL&P, NSTAR Electric and PSNH each uses its available capital resources to fund its respective construction expenditures, meet debt requirements, pay operating costs, including storm-related costs, pay dividends, and fund corporate obligations. Eversource's regulated companies recover their electric, natural gas and water distribution construction expenditures as the related project costs are depreciated over the life of the assets. This impacts the timing of the revenue stream designed to fully recover the total investment including a return on the equity and debt used to finance the investments. Eversource's regulated companies spend a significant amount of cash on capital improvements and construction projects that have a long-term return on investment and recovery period. These factors have resulted in current liabilities exceeding current assets by $2.73 billion, $268.6 million, $9.0 million and $19.6 million at Eversource, CL&P, NSTAR Electric and PSNH, respectively, as of December 31, 2025. 
+ 
+ We expect the future operating cash flows of Eversource, CL&P, NSTAR Electric and PSNH, along with our existing borrowing availability and access to both debt and equity markets, will be sufficient to meet any working capital and future operating requirements, and capital investment forecasted opportunities. 
+ 
+ As of December 31, 2025, $1.39 billion of Eversource's long-term debt, including $1.00 billion at Eversource parent and $300.0 million at NSTAR Electric, matures within the next 12 months. Eversource, with its current credit ratings, has several options available in the financial markets to repay or refinance these maturities with the issuance of new long-term debt. Eversource, CL&P, NSTAR Electric and PSNH will reduce their short-term borrowings with operating cash flows or with the issuance of new long-term debt, determined by considering capital requirements and maintenance of Eversource's credit rating and profile. 
+ 
+ Cash totaled $135.4 million as of December 31, 2025, compared with $26.7 million as of December 31, 2024. 
+ 
+ Short-Term Debt - Commercial Paper Programs and Credit Agreements : Eversource parent has a $2.00 billion commercial paper program allowing Eversource parent to issue commercial paper as a form of short-term debt. Eversource parent, CL&P, PSNH, NSTAR Gas, Yankee Gas, EGMA and Aquarion Water Company of Connecticut are parties to a five-year $2.00 billion revolving credit facility. Effective October 11, 2025, the revolving credit facility’s termination date was extended for one additional year to October 11, 2030, pursuant to the extension provisions contained in the existing credit agreement. This re volving credit facility serves to backstop Eversource parent's $2.00 billion commercial paper program. 
+ 
+ NSTAR Electric has a $650 million commercial paper program allowing NSTAR Electric to issue commercial paper as a form of short-term debt. NSTAR Electric is also a party to a five-year $650 million revolving credit facility. Effective October 11, 2025, the revolving credit facility’s termination date was extended for one additional year to October 11, 2030, pursuant to the extension provisions contained in the existing credit agreement. This revolving credit facility serves to backstop NSTAR Electric's $650 million commercial paper program. 
+ 
+ The amount of borrowings outstanding and available under the commercial paper programs were as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Borrowings Outstanding as of December 31, 
+ 
+ Available Borrowing Capacity as of December 31, 
+ 
+ Weighted-Average Interest Rate as of December 31, 
+ 
+ (Millions of Dollars) 
+ 2025 
+ 
+ 2024 
+ 
+ 2025 
+ 
+ 2024 
+ 
+ 2025 
+ 
+ 2024 
+ 
+ Eversource Parent Commercial Paper Program 
+ $ 
+ 1,280.0 
+ 
+ 
+ $ 
+ 1,538.0 
+ 
+ 
+ $ 
+ 720.0 
+ 
+ 
+ $ 
+ 462.0 
+ 
+ 
+ 3.98 
+ % 
+ 
+ 4.76 
+ % 
+ 
+ NSTAR Electric Commercial Paper Program 
+ 245.4 
+ 
+ 
+ 504.8 
+ 
+ 
+ 404.6 
+ 
+ 
+ 145.2 
+ 
+ 
+ 3.87 
+ % 
+ 
+ 4.55 
+ % 
+ 
+ There were no borrowings outstanding on the revolving credit facilities as of December 31, 2025 or 2024. 
+ 
+ 
+ 
+ 33 
+ 
+ 
+ CL&P and PSNH have uncommitted line of credit agreements totaling $375 million and $250 million, respectively, all of which will expire in either May 2026, September 2026 or October 2026. There are no borrowings outstanding on either the CL&P or PSNH uncommitted line of credit agreements as of December 31, 2025. 
+ 
+ Amounts outstanding under the commercial paper programs are included in Notes Payable and classified in current liabilities on the Eversource and NSTAR Electric balance sheets, as all borrowings are outstanding for no more than 364 days at one time. 
+ 
+ Intercompany Borrowings: Eversource parent uses its available capital resources to provide loans to its subsidiaries to assist in meeting their short-term borrowing needs. Eversource parent records intercompany interest income from its loans to subsidiaries, which is eliminated in consolidation. Intercompany loans from Eversource parent to its subsidiaries are eliminated in consolidation on Eversource's balance sheets. As of December 31, 2025 and 2024, there were intercompany loans from Eversource parent to PSNH of $49.3 million and $131.1 million, respectively. As of December 31, 2024, there were intercompany loans from Eversource parent to CL&P of $280.0 million. Eversource parent charges interest on these intercompany loans at the same weighted-average interest rate as its commercial paper program. Intercompany loans from Eversource parent are included in Notes Payable to Eversource Parent and classified in current liabilities on the respective subsidiary's balance sheets, as these intercompany borrowings are outstanding for no more than 364 days at one time. 
+ 
+ Availability under Long-Term Debt Issuance Authorizations: On May 1, 2024, the DPU approved NSTAR Electric’s request for authorization to issue up to $2.40 billion in long-term debt through December 31, 2026. On August 12, 2024, the DPU approved EGMA’s request for authorization to issue up to $325 million in long-term debt through December 31, 2026. On December 18, 2024, the DPU approved NSTAR Gas’ request for authorization to issue up to $475 million in long-term debt through December 31, 2027. On March 26, 2025, PURA approved Yankee Gas’ request for authorization to issue up to $360 million in long-term debt through December 31, 2026. PSNH has utilized its long-term debt authorizations in place with NHPUC. CL&P has no long-term debt authorization remaining with PURA. 
+ 
+ Long-Term Debt Issuances and Repayments: The following table summarizes long-term debt issuances and repayments: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (Millions of Dollars) 
+ Interest Rate 
+ 
+ Issuance/ (Repayment) 
+ 
+ Issue Date or Repayment Date 
+ 
+ Maturity Date 
+ 
+ Use of Proceeds for Issuance/ Repayment Information 
+ 
+ CL&P 2025 Series A First Mortgage Bonds 
+ 4.95 
+ % 
+ 
+ 400.0 
+ 
+ 
+ January 2025 
+ 
+ January 2030 
+ 
+ Repaid short-term debt, paid capital expenditures and working capital 
+ 
+ CL&P 2020 Series A First Mortgage Bonds 
+ 0.75 
+ % 
+ 
+ (400.0) 
+ 
+ 
+ December 2025 
+ 
+ December 2025 
+ 
+ Paid at maturity 
+ 
+ NSTAR Electric Debentures 
+ 4.85 
+ % 
+ 
+ 400.0 
+ 
+ 
+ February 2025 
+ 
+ March 2030 
+ 
+ 
+ Repaid 3.25% Debentures at maturity, repaid short-term debt, paid capital expenditures and working capital 
+ 
+ NSTAR Electric Debentures 
+ 5.20 
+ % 
+ 
+ 400.0 
+ 
+ 
+ February 2025 
+ 
+ March 2035 
+ 
+ 
+ Repaid 3.25% Debentures at maturity, repaid short-term debt, paid capital expenditures and working capital 
+ 
+ NSTAR Electric Debentures 
+ 5.20 
+ % 
+ 
+ 300.0 
+ 
+ 
+ October 2025 
+ 
+ March 2035 
+ 
+ Repaid short-term debt, paid capital expenditures and working capital 
+ 
+ NSTAR Electric Debentures 
+ 3.25 
+ % 
+ 
+ (250.0) 
+ 
+ 
+ November 2025 
+ 
+ November 2025 
+ 
+ Paid at maturity 
+ 
+ PSNH Series Y First Mortgage Bonds 
+ 4.40 
+ % 
+ 
+ 300.0 
+ 
+ 
+ June 2025 
+ 
+ July 2028 
+ 
+ Repaid short-term debt, paid capital expenditures and working capital 
+ 
+ Eversource Parent Series HH Senior Notes 
+ 4.45 
+ % 
+ 
+ 600.0 
+ 
+ 
+ October 2025 
+ 
+ December 2030 
+ 
+ Repay Series J bonds at maturity and repaid short-term debt 
+ 
+ Eversource Parent Series H Senior Notes 
+ 3.15 
+ % 
+ 
+ (300.0) 
+ 
+ 
+ January 2025 
+ 
+ January 2025 
+ 
+ Paid at maturity 
+ 
+ Eversource Parent Series Q Senior Notes 
+ 0.80 
+ % 
+ 
+ (300.0) 
+ 
+ 
+ August 2025 
+ 
+ August 2025 
+ 
+ Paid at maturity 
+ 
+ NSTAR Gas Series Y First Mortgage Bonds 
+ 4.86 
+ % 
+ 
+ 205.0 
+ 
+ 
+ June 2025 
+ 
+ June 2030 
+ 
+ Repaid short-term debt, paid capital expenditures and working capital 
+ 
+ NSTAR Gas Series Z First Mortgage Bonds 
+ 5.30 
+ % 
+ 
+ 20.0 
+ 
+ 
+ June 2025 
+ 
+ June 2035 
+ 
+ Repaid short-term debt, paid capital expenditures and working capital 
+ 
+ NSTAR Gas Series R First Mortgage Bonds 
+ 2.33 
+ % 
+ 
+ (75.0) 
+ 
+ 
+ May 2025 
+ 
+ May 2025 
+ 
+ Paid at maturity 
+ 
+ Yankee Gas Series Y First Mortgage Bonds 
+ 5.02 
+ % 
+ 
+ 148.0 
+ 
+ 
+ July 2025 
+ 
+ January 2031 
+ 
+ Repaid Series M bonds at maturity, repaid short-term debt, paid capital expenditures and working capital 
+ 
+ Yankee Gas Series Z First Mortgage Bonds 
+ 5.55 
+ % 
+ 
+ 37.0 
+ 
+ 
+ July 2025 
+ 
+ July 2035 
+ 
+ Repaid Series M bonds at maturity, repaid short-term debt, paid capital expenditures and working capital 
+ 
+ Yankee Gas Series M First Mortgage Bonds 
+ 3.35 
+ % 
+ 
+ (75.0) 
+ 
+ 
+ September 2025 
+ 
+ September 2025 
+ 
+ Paid at maturity 
+ 
+ EGMA Series F First Mortgage Bonds 
+ 4.77 
+ % 
+ 
+ 125.0 
+ 
+ 
+ September 2025 
+ 
+ October 2030 
+ 
+ Repaid short-term debt, paid capital expenditures and working capital 
+ 
+ Rate Reduction Bonds: PSNH's RRB payments consist of principal and interest and are paid semi-annually. PSNH paid $43.2 million of RRB principal payments in each of 2025 and 2024, and paid $13.4 million and $14.9 million of interest payments in 2025 and 2024, respectively. 
+ 
+ 
+ 
+ 34 
+ 
+ 
+ Common Share Issuances and Equity Distribution Agreement: On May 30, 2025, Eversource entered into an equity distribution agreement pursuant to which it may offer and sell up to $1.2 billion of its common shares from time to time through an ATM equity offering program. In 2025, Eversource issued 7,130,134 common shares, which resulted in proceeds of $465.4 million, net of issuance costs. Eversource used the net proceeds received for general corporate purposes. 
+ 
+ Cash Flows: Cash flows from operating activities primarily result from the transmission and distribution of electricity, and the distribution of natural gas and water. Cash flows provided by operating activities totaled $4.11 billion in 2025, compared with $2.16 billion in 2024. Operating cash flows were favorably impacted by an improvement in regulatory recoveries driven primarily by the timing of collections for CL&P’s non-bypassable FMCC, CL&P’s SBC, energy efficiency costs, wholesale and retail transmission costs, and other regulatory tracking mechanisms. The CL&P non-bypassable FMCC retail rates in effect for 2025 were higher than those set in 2024 and the net Millstone and Seabrook contract cash flows were higher in 2025 as compared to 2024. These higher collections within the non-bypassable FMCC resulted in an improvement to operating cash flows of $428.2 million for the year. Higher collections from CL&P’s SBC mechanism resulted in a cash flow improvement of $113.3 million. The impacts of regulatory collections are included in both Regulatory Recoveries and Amortization on the statements of cash flows. Additionally, CL&P received general obligation bond proceeds from the State of Connecticut for the reimbursement of hardship costs and for electric vehicle charging program costs of $107.8 million in 2025, which are reflected in Regulatory Recoveries. Operating cash flows were also favorably impacted by a $321.4 million decrease in cash payments to vendors for storm costs, the timing of cash collections on our accounts receivable, the timing of cash payments made on our accounts payable, a $19.1 million decrease in cost of removal expenditures, and the timing of other working capital items. These favorable impacts were partially offset by an increase in capitalized implementation costs for cloud-based service arrangements and a $21.2 million decrease in income tax refunds received in 2025 as compared to 2024. 
+ 
+ In 2025, we paid cash dividends of $1.09 billion and issued non-cash dividends of $23.4 million in the form of treasury shares, totaling dividends of $1.12 billion, or $3.01 per common share. In 2024, we paid cash dividends of $1.00 billion and issued non-cash dividends of $23.5 million in the form of treasury shares, totaling dividends of $1.03 billion, or $2.86 per common share. Our quarterly common share dividend payment was $0.7525 per share in 2025, as compared to $0.715 per share in 2024. On January 27, 2026, our Board of Trustees approved a common share dividend payment of $0.7875 per share, payable on March 31, 2026 to shareholders of record as of March 5, 2026. 
+ 
+ Eversource issues treasury shares to satisfy awards under the Company's incentive plans, shares issued under the dividend reinvestment and share purchase plan, and matching contributions under the Eversource 401k Plan. 
+ 
+ In 2025, CL&P, NSTAR Electric and PSNH paid $430.0 million, $436.0 million and $175.0 million, respectively, in common stock dividends to Eversource parent. 
+ 
+ Investments in Property, Plant and Equipment on the statements of cash flows do not include amounts incurred on capital projects but not yet paid, cost of removal, AFUDC related to equity funds, and the capitalized and deferred portions of pension and PBOP income/expense. In 2025, investments for Eversource, CL&P, NSTAR Electric, and PSNH were $4.16 billion, $867.8 million, $1.56 billion and $537.8 million, respectively. Capital expenditures were primarily for continuing projects to maintain and improve infrastructure and operations, including enhancing reliability to the transmission and distribution systems. 
+ 
+ Contractual Obligations: For information regarding our cash requirements from contractual obligations and payment schedules, see Note 9, "Long-Term Debt," Note 10, "Rate Reduction Bonds and Variable Interest Entities," Note 11A, "Employee Benefits - Pension Benefits and Postretirement Benefits Other Than Pension," Note 13, "Commitments and Contingencies," and Note 14, "Leases," to the financial statements. 
+ 
+ Estimated interest payments on existing long-term fixed-rate debt are calculated by multiplying the coupon rate on the debt by its scheduled notional amount outstanding for the period of measurement as of December 31, 2025 and are as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (Millions of Dollars) 
+ 2026 
+ 
+ 2027 
+ 
+ 2028 
+ 
+ 2029 
+ 
+ 2030 
+ 
+ Thereafter 
+ 
+ Total 
+ 
+ Eversource 
+ $ 
+ 1,214.9 
+ 
+ 
+ $ 
+ 1,153.1 
+ 
+ 
+ $ 
+ 1,041.4 
+ 
+ 
+ $ 
+ 919.7 
+ 
+ 
+ $ 
+ 828.8 
+ 
+ 
+ $ 
+ 6,540.8 
+ 
+ 
+ $ 
+ 11,698.7 
+ 
+ 
+ Our commitments to make payments in addition to these contractual obligations include other liabilities reflected on our balance sheets, and guarantees of certain obligations primarily associated with construction of our previously owned offshore wind investments. 
+ 
+ For information regarding our projected capital expenditures over the next five years, see "Business Development and Capital Expenditures - Projected Capital Expenditures" included in this Management's Discussion and Analysis of Financial Condition and Results of Operations . 
+ 
+ Credit Ratings: A summary of our current corporate credit ratings and outlooks by S&P, Moody's, and Fitch is as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ S&P 
+ 
+ Moody's 
+ 
+ Fitch 
+ 
+ 
+ Current 
+ 
+ Outlook 
+ 
+ Current 
+ 
+ Outlook 
+ 
+ Current 
+ 
+ Outlook 
+ 
+ Eversource Parent 
+ BBB+ 
+ 
+ Stable 
+ 
+ Baa2 
+ 
+ Negative 
+ 
+ BBB 
+ 
+ Negative 
+ 
+ CL&P 
+ A- 
+ 
+ Stable 
+ 
+ Baa1 
+ 
+ Stable 
+ 
+ A- 
+ 
+ Negative 
+ 
+ NSTAR Electric 
+ A- 
+ 
+ Stable 
+ 
+ A2 
+ 
+ Negative 
+ 
+ A- 
+ 
+ Negative 
+ 
+ PSNH 
+ A- 
+ 
+ Stable 
+ 
+ A3 
+ 
+ Stable 
+ 
+ A- 
+ 
+ Negative 
+ 
+ 
+ 
+ 35 
+ 
+ 
+ A summary of the current credit ratings and outlooks by S&P, Moody's, and Fitch for senior unsecured debt of Eversource parent and NSTAR Electric, and senior secured debt of CL&P and PSNH is as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ S&P 
+ 
+ Moody's 
+ 
+ Fitch 
+ 
+ 
+ Current 
+ 
+ Outlook 
+ 
+ Current 
+ 
+ Outlook 
+ 
+ Current 
+ 
+ Outlook 
+ 
+ Eversource Parent 
+ BBB 
+ 
+ Stable 
+ 
+ Baa2 
+ 
+ Negative 
+ 
+ BBB 
+ 
+ Negative 
+ 
+ CL&P 
+ A 
+ 
+ Stable 
+ 
+ A2 
+ 
+ Stable 
+ 
+ A+ 
+ 
+ Negative 
+ 
+ NSTAR Electric 
+ A- 
+ 
+ Stable 
+ 
+ A2 
+ 
+ Negative 
+ 
+ A 
+ 
+ Negative 
+ 
+ PSNH 
+ A 
+ 
+ Stable 
+ 
+ A1 
+ 
+ Stable 
+ 
+ A+ 
+ 
+ Negative 
+ 
+ 
+ Business Development and Capital Expenditures 
+ 
+ Our consolidated capital expenditures, including amounts incurred but not paid, cost of removal, AFUDC, and the capitalized and deferred portions of pension and PBOP income/expense (all of which are non-cash factors), totaled $4.61 billion in 2025, $4.64 billion in 2024, and $4.59 billion in 2023. These amounts included $240.2 million in 2025, $260.5 million in 2024, and $214.4 million in 2023 related to information technology and facilities upgrades and enhancements, primarily at Eversource Service and The Rocky River Realty Company. 
+ 
+ Electric Transmission Business: Our consolidated electric transmission business capital expenditures decreased by $118.8 million in 2025, as compared to 2024. A summary of electric transmission capital expenditures by company is as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Years Ended December 31, 
+ 
+ (Millions of Dollars) 
+ 2025 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ CL&P 
+ $ 
+ 398.6 
+ 
+ 
+ $ 
+ 450.0 
+ 
+ 
+ $ 
+ 470.4 
+ 
+ 
+ NSTAR Electric 
+ 522.9 
+ 
+ 
+ 502.0 
+ 
+ 
+ 567.4 
+ 
+ 
+ PSNH 
+ 287.5 
+ 
+ 
+ 375.8 
+ 
+ 
+ 410.0 
+ 
+ 
+ Total Electric Transmission 
+ $ 
+ 1,209.0 
+ 
+ 
+ $ 
+ 1,327.8 
+ 
+ 
+ $ 
+ 1,447.8 
+ 
+ 
+ Our transmission projects are designed to improve the reliability of the electric grid, meet customer demand for power, and strengthen the electric grid's resilience against extreme weather and other safety and security threats. In Connecticut, Massachusetts and New Hampshire, our transmission projects include transmission line upgrades, the installation of new transmission interconnection facilities, substations and lines, and transmission substation enhancements. 
+ 
+ Greater Cambridge Energy Program: The Greater Cambridge Energy Program will construct Eversource’s first underground transmission substation in Cambridge, Massachusetts, along with associated transmission and distribution lines. The project will address the increased electric demand in the region, enhance the resiliency of the transmission system, and ensure a flexible grid to reliably serve customers. The flexibility to transmit and distribute mixed energy sources will support the decarbonization and electrification goals of both the City of Cambridge and the state of Massachusetts. The new 115/13.8-kV, 35,000 square foot substation will be located in an underground vault and includes three distribution power transformers supplying thirty-six distribution circuits. The project also includes five underground duct banks housing eight new 115-kV transmission lines. The Massachusetts Energy Facilities Siting Board approved the project on June 28, 2024. Environmental permits are acquired to support ongoing construction activities. Additional required permits for transmission line trenchless crossings, including a license from the MA DEP, are expected to be approved by the end of 2026. The initial in-service date for the project is June 2029, which includes two 115-kV transmission lines and the transmission portion of the substation. The first distribution circuits and substation distribution will be placed in-service by the end of 2029. The remaining transmission and distribution circuits will be placed in-service throughout 2030 and into 2031. The total estimated project cost is approximately $1.84 billion, with $1.38 billion allocated for transmission and $460 million for distribution. As of December 31, 2025, $200.9 million has been spent on the project, with $154.7 million for transmission and $46.2 million for distribution. 
+ 
+ 
+ 36 
+ 
+ 
+ 
+ Distribution Business: A summary of distribution capital expenditures is as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Years Ended December 31, 
+ 
+ (Millions of Dollars) 
+ CL&P 
+ 
+ NSTAR Electric 
+ 
+ PSNH 
+ 
+ Total Electric 
+ 
+ Natural Gas 
+ 
+ Water 
+ 
+ Total 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Basic Business 
+ $ 
+ 300.8 
+ 
+ 
+ $ 
+ 558.1 
+ 
+ 
+ $ 
+ 118.0 
+ 
+ 
+ $ 
+ 976.9 
+ 
+ 
+ $ 
+ 201.0 
+ 
+ 
+ $ 
+ 19.4 
+ 
+ 
+ $ 
+ 1,197.3 
+ 
+ 
+ Aging Infrastructure 
+ 132.5 
+ 
+ 
+ 403.6 
+ 
+ 
+ 92.1 
+ 
+ 
+ 628.2 
+ 
+ 
+ 731.6 
+ 
+ 
+ 152.5 
+ 
+ 
+ 1,512.3 
+ 
+ 
+ Load Growth and Other 
+ 115.8 
+ 
+ 
+ 228.3 
+ 
+ 
+ 60.1 
+ 
+ 
+ 404.2 
+ 
+ 
+ 42.9 
+ 
+ 
+ 0.8 
+ 
+ 
+ 447.9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Distribution 
+ $ 
+ 549.1 
+ 
+ 
+ $ 
+ 1,190.0 
+ 
+ 
+ $ 
+ 270.2 
+ 
+ 
+ $ 
+ 2,009.3 
+ 
+ 
+ $ 
+ 975.5 
+ 
+ 
+ $ 
+ 172.7 
+ 
+ 
+ $ 
+ 3,157.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2024 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Basic Business 
+ $ 
+ 298.8 
+ 
+ 
+ $ 
+ 471.7 
+ 
+ 
+ $ 
+ 136.2 
+ 
+ 
+ $ 
+ 906.7 
+ 
+ 
+ $ 
+ 226.9 
+ 
+ 
+ $ 
+ 21.8 
+ 
+ 
+ $ 
+ 1,155.4 
+ 
+ 
+ Aging Infrastructure 
+ 161.3 
+ 
+ 
+ 365.8 
+ 
+ 
+ 65.4 
+ 
+ 
+ 592.5 
+ 
+ 
+ 743.6 
+ 
+ 
+ 140.5 
+ 
+ 
+ 1,476.6 
+ 
+ 
+ Load Growth and Other 
+ 110.6 
+ 
+ 
+ 194.3 
+ 
+ 
+ 66.4 
+ 
+ 
+ 371.3 
+ 
+ 
+ 52.3 
+ 
+ 
+ 0.8 
+ 
+ 
+ 424.4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Distribution 
+ $ 
+ 570.7 
+ 
+ 
+ $ 
+ 1,031.8 
+ 
+ 
+ $ 
+ 268.0 
+ 
+ 
+ $ 
+ 1,870.5 
+ 
+ 
+ $ 
+ 1,022.8 
+ 
+ 
+ $ 
+ 163.1 
+ 
+ 
+ $ 
+ 3,056.4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Basic Business 
+ $ 
+ 280.3 
+ 
+ 
+ $ 
+ 376.6 
+ 
+ 
+ $ 
+ 91.1 
+ 
+ 
+ $ 
+ 748.0 
+ 
+ 
+ $ 
+ 208.2 
+ 
+ 
+ $ 
+ 18.5 
+ 
+ 
+ $ 
+ 974.7 
+ 
+ 
+ Aging Infrastructure 
+ 260.7 
+ 
+ 
+ 310.0 
+ 
+ 
+ 86.4 
+ 
+ 
+ 657.1 
+ 
+ 
+ 719.5 
+ 
+ 
+ 142.3 
+ 
+ 
+ 1,518.9 
+ 
+ 
+ Load Growth and Other 
+ 138.0 
+ 
+ 
+ 191.3 
+ 
+ 
+ 37.2 
+ 
+ 
+ 366.5 
+ 
+ 
+ 70.1 
+ 
+ 
+ 0.9 
+ 
+ 
+ 437.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Distribution 
+ $ 
+ 679.0 
+ 
+ 
+ $ 
+ 877.9 
+ 
+ 
+ $ 
+ 214.7 
+ 
+ 
+ $ 
+ 1,771.6 
+ 
+ 
+ $ 
+ 997.8 
+ 
+ 
+ $ 
+ 161.7 
+ 
+ 
+ $ 
+ 2,931.1 
+ 
+ 
+ For the electric distribution business, basic business includes the purchase of meters, tools, vehicles, information technology, transformer replacements, equipment facilities, and the relocation of plant. Aging infrastructure relates to reliability and the replacement of overhead lines, plant substations, underground cable replacement, and equipment failures. Load growth and other includes requests for new business and capacity additions on distribution lines and substation additions and expansions. We are also focused on making strategic AI investments currently in outage discovery, maintenance management and data analytics to better maintain our system and provide value to our customers. 
+ 
+ For the natural gas distribution business, basic business addresses daily operational needs including meters, pipe relocations due to public works projects, vehicles, and tools. Aging infrastructure projects seek to improve the reliability of the system through enhancements related to cast iron and bare steel replacement of main and services, corrosion mediation, and station upgrades. Load growth and other reflects growth in existing service territories including new developments, installation of services, and expansion. 
+ 
+ For the water distribution business, basic business addresses daily operational needs including periodic meter replacement, water main relocation, facility maintenance, and tools. Aging infrastructure relates to reliability and the replacement of water mains, regulators, storage tanks, pumping stations, wellfields, reservoirs, and treatment facilities. Load growth and other reflects growth in our service territory, including improvements of acquisitions, installation of new services, and interconnections of systems. 
+ 
+ Aquarion Sale Status and Regulatory Denial: In December 2024, Eversource obtained approval from its Board of Trustees to sell the Aquarion water distribution business. On January 27, 2025, Eversource entered into a definitive agreement to sell Aquarion to the Aquarion Water Authority (AWA), a quasi-public corporation and political subdivision of the State of Connecticut and a standalone, newly created water authority alongside the South Central Connecticut Regional Water Authority. In June 2024, a Connecticut law chartered AWA and enabled it to acquire, own and operate Aquarion as a not-for-profit water authority. Subject to certain closing adjustments, the aggregate enterprise value of the sale is approximately $2.4 billion in cash, which included approximately $1.6 billion for the equity and $800 million of net debt that will either be extinguished at closing or transferred to the buyer. The sale requires approval by PURA and the DPU, as well as other approvals pursuant to the Hart-Scott-Rodino Antitrust Improvements Act, for which the relevant waiting period has expired, as well as other customary closing conditions. Regulatory approvals in New Hampshire and Maine were received. Eversource plans to use the net proceeds from sale to pay down parent company debt. 
+ 
+ In the fourth quarter of 2024, upon classifying the assets and liabilities as held for sale, Eversource concluded that the likely sale of Aquarion at a loss resulted in the requirement to test water distribution goodwill for impairment. Eversource performed an impairment test by comparing the fair value of the business to its carrying value and recorded a goodwill impairment of $297 million, as the estimated fair value of the business based on the anticipated sale was less than the carrying value. The fair value included future cash outflows of approximately $140 million of estimated income taxes as a result of the transaction. The goodwill impairment charge was presented separately within Operating Income on the Eversource statement of income for the year ended December 31, 2024. 
+ 
+ On November 19, 2025, PURA denied the application to approve the sale, finding that the transaction did not meet managerial suitability and responsibility requirements due to concerns with governance and oversight structure over Aquarion and its consumer advocate. On December 2, 2025, the denial was appealed to the Connecticut Superior Court. On January 15, 2026, the Court issued its decision, sustaining the appeal and remanding back to PURA, finding that PURA acted illegally in denying the application as those disputed governance elements were mandated under Connecticut law. The Court upheld that operational aspects of the consumer advocate were within PURA’s statutory authority and regulatory discretion. A final decision is expected by PURA on March 25, 2026. 
+ 
+ 
+ 
+ 37 
+ 
+ 
+ Based on PURA’s November 19, 2025 denial of the sale and the uncertainty of the ultimate outcome, the Aquarion water distribution business no longer met the criteria to be classified as held for sale and its assets and liabilities were reclassified as held and used on the balance sheet as of December 31, 2025. The reclassification to held and used did not result in an adjustment to Aquarion’s carrying values. 
+ 
+ Projected Capital Expenditures: A summary of the projected capital expenditures for the regulated companies' electric transmission and for the total electric distribution and natural gas distribution for 2026 through 2030, including information technology and facilities upgrades and enhancements on behalf of the regulated companies, is as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years 
+ 
+ (Millions of Dollars) 
+ 2026 
+ 
+ 2027 
+ 
+ 2028 
+ 
+ 2029 
+ 
+ 2030 
+ 
+ 2026 - 2030 Total 
+ 
+ CL&P Transmission 
+ $ 
+ 520 
+ 
+ 
+ $ 
+ 358 
+ 
+ 
+ $ 
+ 349 
+ 
+ 
+ $ 
+ 241 
+ 
+ 
+ $ 
+ 130 
+ 
+ 
+ $ 
+ 1,598 
+ 
+ 
+ NSTAR Electric Transmission 
+ 574 
+ 
+ 
+ 727 
+ 
+ 
+ 852 
+ 
+ 
+ 1,181 
+ 
+ 
+ 1,381 
+ 
+ 
+ 4,715 
+ 
+ 
+ PSNH Transmission 
+ 181 
+ 
+ 
+ 275 
+ 
+ 
+ 291 
+ 
+ 
+ 85 
+ 
+ 
+ 97 
+ 
+ 
+ 929 
+ 
+ 
+ 
+ Total Electric Transmission 
+ 1,275 
+ 
+ 
+ 1,360 
+ 
+ 
+ 1,492 
+ 
+ 
+ 1,507 
+ 
+ 
+ 1,608 
+ 
+ 
+ 7,242 
+ 
+ 
+ Electric Distribution 
+ 2,291 
+ 
+ 
+ 2,278 
+ 
+ 
+ 2,180 
+ 
+ 
+ 2,197 
+ 
+ 
+ 2,296 
+ 
+ 
+ 11,242 
+ 
+ 
+ Natural Gas Distribution 
+ 1,247 
+ 
+ 
+ 1,320 
+ 
+ 
+ 1,404 
+ 
+ 
+ 1,456 
+ 
+ 
+ 1,376 
+ 
+ 
+ 6,803 
+ 
+ 
+ 
+ Total Electric and Natural Gas Distribution 
+ 3,538 
+ 
+ 
+ 3,598 
+ 
+ 
+ 3,584 
+ 
+ 
+ 3,653 
+ 
+ 
+ 3,672 
+ 
+ 
+ 18,045 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Information Technology and All Other 
+ 259 
+ 
+ 
+ 217 
+ 
+ 
+ 276 
+ 
+ 
+ 219 
+ 
+ 
+ 256 
+ 
+ 
+ 1,227 
+ 
+ 
+ Total 
+ $ 
+ 5,072 
+ 
+ 
+ $ 
+ 5,175 
+ 
+ 
+ $ 
+ 5,352 
+ 
+ 
+ $ 
+ 5,379 
+ 
+ 
+ $ 
+ 5,536 
+ 
+ 
+ $ 
+ 26,514 
+ 
+ 
+ Additionally, investments for the water distribution business are expected to total approximately $1.3 billion from 2026 through 2030. 
+ 
+ Actual capital expenditures could vary from the projected amounts for the companies and years above. 
+ 
+ 
+ FERC Regulatory Matters 
+ 
+ FERC ROE Complaints: Four separate complaints were filed at the FERC by combinations of New England state attorneys general, state regulatory commissions, consumer advocates, consumer groups, municipal parties and other parties (collectively, the Complainants). In each of the first three complaints, filed on October 1, 2011, December 27, 2012, and July 31, 2014, respectively, the Complainants challenged the NETOs' base ROE of 11.14 percent that had been utilized since 2005 and sought an order to reduce it prospectively from the date of the final FERC order and for the separate 15-month complaint periods. In the fourth complaint, filed April 29, 2016, the Complainants challenged the NETOs' base ROE billed of 10.57 percent and the maximum ROE for transmission incentive (incentive cap) of 11.74 percent, asserting that these ROEs were unjust and unreasonable. 
+ 
+ The ROE originally billed during the period October 1, 2011 (beginning of the first complaint period) through October 15, 2014 consisted of a base ROE of 11.14 percent and incentives up to 13.1 percent. On October 16, 2014, FERC issued Opinion No. 531-A and set the base ROE at 10.57 percent and the incentive cap at 11.74 percent for the first complaint period. This was also effective for all prospective billings to customers beginning October 16, 2014. This FERC order was vacated on April 14, 2017 by the U.S. Court of Appeals for the D.C. Circuit (the Court). 
+ 
+ All amounts associated with the first complaint period have been refunded. Eversource has recorded a reserve of $39.1 million (pre-tax and excluding interest) for the second complaint period as of both December 31, 2025 and 2024. This reserve represents the difference between the billed rates during the second complaint period and a 10.57 percent base ROE and 11.74 percent incentive cap. The reserve consisted of $21.4 million for CL&P, $14.6 million for NSTAR Electric and $3.1 million for PSNH as of both December 31, 2025 and 2024. 
+ 
+ On October 16, 2018, FERC issued an order on all four complaints describing how it intends to address the issues that were remanded by the Court. FERC proposed a new framework to determine (1) whether an existing ROE is unjust and unreasonable and, if so, (2) how to calculate a replacement ROE. Initial briefs were filed by the NETOs, Complainants and FERC Trial Staff on January 11, 2019 and reply briefs were filed on March 8, 2019. The NETOs' brief was supportive of the overall ROE methodology determined in the October 16, 2018 order provided the FERC does not change the proposed methodology or alter its implementation in a manner that has a material impact on the results. 
+ 
+ The FERC order included illustrative calculations for the first complaint using FERC's proposed frameworks with financial data from that complaint. Those illustrative calculations indicated that for the first complaint period, the preliminary just and reasonable base ROE for the NETOs, which FERC concludes are of average financial risk, is 10.41 percent and the preliminary incentive cap on total ROE is 13.08 percent. If the results of the illustrative calculations were included in a final FERC order for each of the complaint periods, then a 10.41 percent base ROE and a 13.08 percent incentive cap would not have a significant impact on our financial statements for all of the complaint periods. These preliminary calculations are not binding and do not represent what we believe to be the most likely outcome of a final FERC order. 
+ 
+ On November 21, 2019, FERC issued Opinion No. 569 affecting the two pending transmission ROE complaints against the Midcontinent ISO (MISO) transmission owners, in which FERC adopted a new methodology for determining base ROEs. Various parties sought rehearing. On December 23, 2019, the NETOs filed supplementary materials in the NETOs' four pending cases to respond to this new methodology because of the uncertainty of the applicability to the NETOs' cases. On May 21, 2020, the FERC issued its order in Opinion No. 569-A on the rehearing of the MISO transmission owners' cases, in which FERC again changed its methodology for determining the MISO transmission owners' base ROEs. On November 19, 2020, the FERC issued Opinion No. 569-B denying rehearing of Opinion No. 569-A and reaffirmed the methodology previously adopted in Opinion No. 569-A. The new methodology differs significantly from the methodology proposed by FERC in its October 16, 2018 order 
+ 
+ 
+ 38 
+ 
+ 
+ to determine the NETOs' base ROEs in their four pending cases. FERC Opinion Nos. 569-A and 569-B were appealed to the Court. On August 9, 2022, the Court issued its decision vacating MISO ROE FERC Opinion Nos. 569, 569-A and 569-B and remanded to FERC to reopen the proceedings. The Court found that FERC’s development of the new return methodology was arbitrary and capricious due to FERC’s failure to offer a reasonable explanation for its decision to reintroduce the risk-premium financial model in its new methodology for calculating a just and reasonable return. 
+ 
+ On October 17, 2024, FERC issued an order on the remand of the MISO ROE proceedings. The order addressed the Court’s decision that the reintroduction of the risk-premium financial model in the ROE methodology was arbitrary and capricious by removing the risk-premium financial model from the ROE methodology. The removal of the risk-premium financial model was the only revision to FERC’s ROE methodology and resulted in a two-model approach utilizing the two-step discounted cash flow model and the capital asset pricing model. MISO transmission owners were directed to provide refunds for the period November 12, 2013 to February 11, 2015 (the first MISO ROE complaint refund period) and for the period from September 28, 2016 (the date of FERC’s order on the first MISO ROE complaint) to October 17, 2024 by December 1, 2025. The order also stated that FERC does not preclude the use of the risk-premium financial model in future proceedings if the parties can demonstrate that FERC’s stated concerns around the inclusion of the model have been addressed. On March 25, 2025, FERC issued an order addressing arguments raised on rehearing, sustaining the result, and denying rehearing. 
+ 
+ On November 13, 2024, the NETOs filed a supplemental brief in their four pending ROE proceedings to explain to FERC that it cannot apply the reasoning and methodologies of the MISO ROE case to the NETOs’ cases due to the entirely different set of facts in the MISO and NETOs ROE proceedings. Doing so would violate the substance of the Court’s April 14, 2017 order and would violate the legal standard required by the Federal Power Act. 
+ 
+ On February 4, 2025, the MISO transmission owners submitted a petition for review with the Court requesting review of the October 17, 2024 MISO ROE order on remand and a December 19, 2024 notice of denial of rehearing. The petition requests review of FERC’s decision to retroactively backdate the MISO transmission owners’ base ROE to the date of an earlier order that FERC abandoned when it issued Order No. 569, treat an underlying unlawful complaint as if it were legitimate, and order eight years of interest as part of the directed refunds. On August 21, 2025, the NETOs submitted a brief in support of the MISO transmission owners with the Court. Final briefs in the Court proceeding were submitted on January 26, 2026 and oral argument is scheduled for March 17, 2026. 
+ 
+ Given the significant uncertainty regarding the applicability of the FERC order in the MISO transmission owners’ two complaint cases to the NETOs’ pending four complaint cases due to the complex differences between the cases, Eversource concluded that there is no reasonable basis for a change to the reserve or recognized ROEs for any of the complaints or subsequent periods at this time and Eversource cannot reasonably estimate any potential range of loss for any of the four complaint proceedings at this time. The resolution of these proceedings could have a material impact on the financial condition, results of operations, and cash flows. 
+ 
+ Eversource, CL&P, NSTAR Electric and PSNH currently record revenues at the 10.57 percent base ROE and incentive cap at 11.74 percent established in the October 16, 2014 FERC order. 
+ 
+ A change of 10 basis points to the base ROE used to establish the reserves would impact Eversource’s after-tax earnings by an average of approximately $3 million for each of the four 15-month complaint periods. Prospectively from the date of a final FERC order implementing a new base ROE, based off of estimated 2025 rate base, a change of 10 basis points to the base ROE would impact Eversource’s future annual after-tax earnings by approximately $7 million per year, and will increase slightly over time as we continue to invest in our transmission infrastructure. 
+ 
+ Transmission Rates and Other Transmission Rates-Related Proceedings: CL&P, NSTAR Electric and PSNH transmission rates are calculated in accordance with a FERC-approved formula ratemaking framework and each utility is required to file an annual update on or before July 31st with resulting rates effective January 1st the following year. The formula rate framework provides for an annual reconciliation of the prior calendar year actual costs incurred related to our transmission facilities, including an allowed ROE, plus forecasted information through the next rate period. The annual update process includes formula rate protocols that provide disclosure of cost inputs, an opportunity for informal discovery procedures and a challenge process, which provides transparency to stakeholders. 
+ 
+ From time to time, various matters are pending before FERC relating to transmission rates, incentives, interconnections and transmission planning. Depending on the outcome, any of these matters could materially impact our results of operations and financial condition. At this time, Eversource cannot predict the ultimate outcome of the matters currently pending before FERC, and the resulting impact on its transmission incentives or planning. 
+ 
+ 
+ Regulatory Developments and Rate Matters 
+ 
+ Electric, Natural Gas and Water Utility Retail Tariff Rates: Each Eversource utility subsidiary is subject to the regulatory jurisdiction of the state in which it operates: CL&P, Yankee Gas and Aquarion operate in Connecticut and are subject to PURA regulation; NSTAR Electric, NSTAR Gas, EGMA and Aquarion operate in Massachusetts and are subject to DPU regulation; and PSNH and Aquarion operate in New Hampshire and are subject to NHPUC regulation. The regulated companies' distribution rates are set by their respective state regulatory commissions, and their tariffs include mechanisms for periodically adjusting their rates for the recovery of specific incurred costs. 
+ 
+ Base Distribution Rates: In Connecticut, PURA is required to conduct a review and investigation of the financial and operating records of each electric, natural gas and water utility serving more than seventy-five thousand customers within four years of its last general rate hearing. PURA can elect to convene a general rate hearing at an interval of less than four years unless prohibited from doing so by an agency decision or other law. 
+ 
+ 
+ 39 
+ 
+ 
+ In Massachusetts, electric distribution companies are required to file distribution rate schedules every five years, and natural gas local distribution companies to file distribution rate schedules every 10 years, and those companies are limited to one settlement agreement in any 10-year period. Aquarion is not required to initiate a rate review with the DPU. In New Hampshire, PSNH is not required to initiate a rate review with the NHPUC on any set timeframe, and the NHPUC has no obligation to hear any rate matter that it has investigated within a period of two years, though it may elect to do so at its discretion. 
+ 
+ Rate Reconciling Mechanisms: The Eversource electric distribution companies obtain and resell power to retail customers who choose not to buy energy from a competitive energy supplier. CL&P, NSTAR Electric and PSNH enter into full requirements energy supply procurement contracts for its customers that choose to purchase power from the electric distribution company (standard offer, basic service or default energy service, respectively). The natural gas distribution companies procure natural gas for firm and seasonal customers. These energy supply and natural gas supply procurement costs are recovered from customers in supply rates that are approved by the respective state regulatory commission. The rates are reset periodically (every six months for electric residential customers) and are fully reconciled to their costs. New energy supply rates for residential customers are established effective July 1st at CL&P and NSTAR Electric and effective August 1st at PSNH. Each electric and natural gas distribution company fully recovers its energy supply costs through approved regulatory rate mechanisms on a timely basis and, therefore, such costs have no impact on earnings. Increases or decreases in energy supply retail rates result in corresponding fluctuations in both energy supply procurement revenues and purchased power or purchased natural gas expenses on the statements of income. 
+ 
+ The electric and natural gas distribution companies also recover certain other costs from customers in retail rates on a fully reconciling basis through regulatory commission-approved cost tracking mechanisms and therefore, recovery of these costs has no impact on earnings. Costs recovered through cost tracking mechanisms include, among others, state mandated energy purchase agreements and other energy-related costs, electric retail transmission charges, energy efficiency program costs, electric restructuring and stranded cost recovery revenues (including securitized RRB charges), certain capital tracking mechanisms for infrastructure improvements, and additionally for the Massachusetts utilities, pension and PBOP benefits, net metering for distributed generation, and solar-related programs. The reconciliation filings compare the total actual costs allowed to revenue requirements related to these services and the difference between the costs incurred (or the rate recovery allowed) and the actual costs allowed is deferred and included, to be either recovered or refunded, in future customer rates. These cost tracking mechanisms also include certain incentives earned, return on capital tracking mechanisms, and carrying charges that are billed in rates to customers, which do impact earnings. 
+ 
+ Connecticut: 
+ 
+ CL&P Performance Based Rate Making: On May 26, 2021, in accordance with an October 2020 Connecticut law, PURA opened a proceeding to begin to evaluate and eventually implement performance-based regulation (PBR) for electric distribution companies. PURA is conducting the proceeding in two phases. On April 26, 2023, PURA issued a final decision on the first phase and identified various objectives to guide PBR development and evaluate adoption of a PBR framework. The decision commenced Phase 2 by initiating three reopener dockets focused on revenue adjustment mechanisms, performance metrics, and integrated distribution system planning. 
+ 
+ On November 16, 2023, PURA issued a straw proposal in the first reopener that focused on revenue adjustment mechanisms. The proposal outlined potential additions and reforms to the current revenue adjustment mechanisms, such as multi-year rate plans, earnings sharing mechanisms and the revenue decoupling mechanism. On March 14, 2024, PURA issued a straw proposal in the second reopener docket that concentrated on performance mechanisms in a PBR framework. The proposal suggested the development of performance incentive mechanisms, reported metrics and scorecards. On February 27, 2025, PURA issued revised straw proposals for both the first and second reopener dockets, resulting in some edits to the previous proposals based on participant feedback. On April 4, 2025, PURA issued a straw proposal in the third reopener docket that focused on the establishment of integrated distribution system planning under a PBR framework. 
+ 
+ On July 14, 2025, PURA issued proposed final decisions in the first two reopener dockets. The proposed final decision in the first reopener docket adopted a PBR framework inclusive of a multi-year rate plan with an attrition relief mechanism that uses a revenue-cap formula approach to adjust revenues based on a variety of factors including inflation, a productivity factor, a customer dividend percentage, an exogenous cost factor and a capital funding mechanism, as well as an earnings sharing mechanism and a revenue decoupling mechanism for implementation in CL&P’s next distribution rate case. The multi-year rate plan has a stay out period of four years, but certain situations, such as deteriorating financial condition, exceeding authorized return, falling interest rates, or excess storm costs, could trigger the initiation of a new rate amendment proceeding during the multi-year rate plan. The proposed final decision in the second reopener docket established reporting parameters, including the commencement of scorecards and reported metrics and the development of company specific performance incentive mechanisms. Results of scorecards and reported metrics are proposed to be reported annually to PURA, beginning March 1, 2026. Company specific performance incentive mechanisms will be implemented in CL&P’s next rate case proceeding. 
+ 
+ On August 8, 2025, PURA issued a proposed final decision in the third reopener docket, adopting the contents and reporting process for an integrated distribution system plan (IDSP) under a PBR framework. The IDSP report will document the grid planning process for available distribution system capacity and system needs, including the development, operation, and evolution of the electrical distribution grid. The IDSP report will include CL&P’s planned investments over a four-year plan period and long-term capital investment strategy, and will be utilized by PURA in determining the amount of allowable capital additions within a multi-year rate plan included in the calculation of the capital funding mechanism adopted in the first reopener docket. The draft decision requires CL&P to submit a comprehensive IDSP filing every four years in alignment with the submittal of a rate amendment application and to also submit an annual IDSP filing to report on IDSP investments throughout the four-year period. 
+ 
+ Final decisions on the three reopener dockets have not yet been scheduled. We continue to monitor developments in this proceeding, and at this time, we cannot predict the ultimate outcome of this proceeding and the resulting impact to CL&P. 
+ 
+ 
+ 40 
+ 
+ 
+ 
+ CL&P Storm Filings: On March 28, 2024, PURA established a prudency review proceeding for the purpose of receiving and reviewing evidence of the costs reported by CL&P in response to catastrophic storms and pre-staging events totaling approximately $634 million that occurred between January 1, 2018 and December 31, 2021. On December 31, 2024, CL&P filed a supplement to its March 2024 prudency review application to request that PURA evaluate the prudence of its costs for nine additional catastrophic storms and two additional pre-staging events for the period January 1, 2022 through January 31, 2023 totaling approximately $173 million. On July 10, 2025, CL&P filed a second supplement to its March 2024 prudency review application to request that PURA evaluate the prudence of its costs for ten additional catastrophic storms for the period February 1, 2023 through December 31, 2023 totaling approximately $171 million. On July 25, 2025, CL&P filed a third supplement in this application to include carrying charges calculated at the weighted average cost of capital on the deferred storm costs totaling $246 million, which reflects CL&P’s actual financing costs on the unpaid storm costs from the date the deferred storm costs first began to accrue through May 2025. These carrying charges have not been deferred on the balance sheet. On December 13, 2025, PURA opened a new proceeding for the prudency determination of CL&P’s 2018 to 2023 storm costs either by a settled or litigated process and a separate future docket will be needed to consider CL&P’s application to issue rate reduction bonds for the securitization of approved storm costs. A final decision is expected on or about July 29, 2026. Although we cannot predict the ultimate outcome of these storm proceedings, we continue to believe these deferred storm restoration costs were prudently incurred and are probable of recovery. 
+ 
+ CL&P RAM Filing: On March 28, 2025, PURA issued an interim decision in CL&P’s Rate Adjustment Mechanisms (RAM) filing and approved rates for six RAM components, with rates effective May 1, 2025 through April 30, 2026. The rates include recovery of over- or under-collection balances as of December 31, 2024, actual costs from the prior year, and adjustments to incorporate certain known and measurable cost changes not reflected in prior year costs that CL&P will incur in 2025. On August 13, 2025, PURA issued a final decision that approved a further adjustment to the Non-Bypassable Federally Mandated Congestion Charge (NBFMCC) and System Benefits Charge (SBC) rates based on a July 1, 2025 Connecticut law that authorized the State of Connecticut to issue new general obligation bonds to reduce certain hardship costs and electric vehicle program costs recovered from customers. Proceeds from the general obligation bond funding of $107.8 million will be provided back to customers through a reduction to the NBFMCC and SBC rates. The updated NBFMCC and SBC rates are effective September 1, 2025 through April 30, 2026. These rates are included in the “Public Benefits” portion of the customer bills in Connecticut. 
+ 
+ On September 19, 2025, CL&P received $107.8 million in general obligation bond proceeds from the State of Connecticut, which represent reimbursement of incurred costs that were previously recognized as regulatory assets on CL&P’s balance sheets. The proceeds received for the reimbursement of hardship costs and for electric vehicle charging program costs were credited against the SBC and NBFMCC regulatory deferrals on CL&P’s balance sheet as of December 31, 2025. The proceeds from the state bond funding are presented as a cash inflow in Regulatory Recoveries within operating activities on CL&P’s statement of cash flows. 
+ 
+ CL&P Advanced Metering Infrastructure Filing: On January 3, 2024, PURA issued a final decision regarding CL&P’s Advanced Metering Infrastructure (AMI) investment and implementation plan. In CL&P’s view, the final decision did not provide a reasonable path for cost recovery and would delay implementation. In addition, in CL&P’s view, the final decision modifies the prudence standard for recovery of costs expended on the project, improperly linking recovery to outcomes not known at the outset of the project. On January 18, 2024, CL&P submitted a motion for reconsideration to PURA, asking that the agency modify these aspects of the decision, which PURA subsequently denied on February 14, 2024. On March 6, 2024, CL&P filed written comments citing four major problems associated with PURA’s guidelines for recovery of the costs of AMI implementation, which if not addressed, represent obstacles to AMI implementation in Connecticut. On April 16, 2024, PURA issued a procedural order directing Eversource and inviting all parties and intervenors to submit pre-filed testimony pertaining to AMI. CL&P witnesses filed testimony, including an updated estimate of $855 million for capital costs and operating expenses, and then subsequently participated in the AMI cost recovery hearing on June 6, 2024. 
+ 
+ On October 17, 2024, PURA issued a proposed final decision on recovery of the costs for AMI implementation. On October 31, 2024, CL&P filed written exceptions focused on three main aspects of the proposed decision, which included (1) clarifying the prudence standard to be used in evaluating AMI investments, (2) timing of prudency reviews, and (3) cost recovery related to incremental O&M expenses. On December 4, 2024, PURA issued a final decision on the recovery of costs for AMI implementation. On December 9, 2024, CL&P filed a petition for reconsideration because PURA had not fully resolved the issues CL&P raised in its October 31, 2024 written exceptions. On November 25, 2025, PURA issued correspondence in connection with CL&P’s October 31, 2025 annual AMI compliance filing asserting that it was no longer evaluating the merits of CL&P’s petition for reconsideration, that PURA approval is not required for CL&P to deploy AMI, and that CL&P may invest in AMI at any time and seek cost recovery under the AMI tariff after meeting established filing criteria. On December 19, 2025, CL&P filed a motion responding to the legal issues raised in PURA’s correspondence and requested that PURA reopen the prior proceeding for the purpose of lawfully acting upon CL&P’s December 9, 2024 petition for reconsideration and resolving the open questions on AMI cost recovery. 
+ 
+ Yankee Gas Distribution Rate Case: On November 12, 2024, Yankee Gas filed an application with PURA to amend its existing distribution rates for effect on November 1, 2025. Yankee Gas had subsequently amended its rate application to request approval of a distribution rate increase of $193 million. On September 22, 2025, PURA issued a proposed final (draft) decision in Yankee Gas’s distribution rate case that included a distribution rate increase of $55.6 million, effective November 1, 2025. 
+ 
+ On November 5, 2025, PURA issued a final decision in the Yankee Gas distribution rate case that included a distribution rate increase of $82.2 million and a total distribution revenue requirement of $802.2 million, effective November 1, 2025. The approved revenue requirement includes a previously recorded rate credit of $37.4 million plus carrying charges for non-firm margin credits over three years beginning November 1, 2025. Excluding the rate credit, the distribution rate increase totaled $95.7 million. The final decision also established an authorized net regulatory ROE of 9.32 percent, adopting a 9.48 percent ROE net of certain reductions totaling 16 basis points, and a 53 percent common equity ratio for Yankee Gas’ capital structure. PURA declined to approve the multi-year performance-based rate making plan that would adjust rates annually as proposed by Yankee Gas. PURA also implemented an annual cap on contemporaneous cost recovery of aging infrastructure replacement spending in the 
+ 
+ 
+ 41 
+ 
+ 
+ Distribution Integrity Management Program (DIMP) rate tracking mechanism of $139.9 million, in which spending above the annual cap will be deferred for recovery until the next distribution rate case. The final decision resulted in a net pre-tax loss to earnings of $8.5 million in the fourth quarter of 2025, primarily for the write off of certain capitalized employee compensation costs that were disallowed from rate base. Yankee Gas filed motions to request PURA reconsider the disallowances of these capitalized costs, certain computational errors, and other issues identified in its final decision. On December 15, 2025, PURA issued a notice of reconsideration to reconsider the final decision. A final decision on the reconsideration is expected from PURA by March 15, 2026. 
+ 
+ Aquarion Water Company of Connecticut Distribution 2022 Rate Case: On August 29, 2022, Aquarion Water Company of Connecticut (AWC-CT) filed an application with PURA to amend its existing rate schedules to address an operating revenue deficiency. AWC-CT’s rate application requested approval of rate increases of $27.5 million, an additional $13.6 million, and an additional $8.8 million, effective March 15, 2023, 2024, and 2025, respectively. On March 15, 2023, PURA issued a final decision that rejected this request. In this decision, PURA ordered a decrease to total authorized revenues of $4.0 million effective March 15, 2023. The decision allows an authorized regulatory ROE of 8.70 percent. On March 30, 2023, AWC-CT filed an appeal on the decision. On March 25, 2024, the State of Connecticut Superior Court issued a decision on the appeal which dismissed nine, remanded back to PURA two, and partially remanded one of AWC-CT’s twelve claims of error in its appeal. 
+ 
+ On April 18, 2024, PURA initiated a docket to address the matters on remand. On July 31, 2024, PURA issued a final decision in this docket and increased AWC-CT’s approved revenue requirement by $0.1 million above the amount authorized in the March 15, 2023 decision. Rates went into effect on July 31, 2024. On September 13, 2024, AWC-CT filed an appeal of PURA’s July 31, 2024 final decision to the Connecticut Superior Court. On December 9, 2025, the Connecticut Superior Court remanded the disallowance of approximately $0.4 million of rate case expenses back to PURA. PURA’s decision on the remand is pending. 
+ 
+ On March 28, 2024, AWC-CT filed an appeal of the March 25, 2024 Connecticut Superior Court decision to the Connecticut Appellate Court, and that appeal was subsequently transferred to the Connecticut Supreme Court. On July 9, 2025, the Connecticut Supreme Court issued a decision that overturned PURA’s disallowance of $1.5 million in water conservation program expenses, but affirmed the remaining portions of PURA’s decision that were challenged on appeal. The Connecticut Supreme Court decision also validated AWC-CT’s argument that the correct legal standard PURA must use in determining whether costs can be recovered through customer rates is the longstanding prudence standard, which evaluates the prudence of management decision-making as of the time the utility made the decision to incur costs; PURA cannot use improper hindsight analysis to evaluate prudence. On December 10, 2025, PURA revised its July 31, 2024 decision and increased AWC-CT’s approved revenue requirement by $0.3 million reflecting recovery of the $1.5 million conservation program expenses over six years. 
+ 
+ Massachusetts: 
+ 
+ NSTAR Electric Distribution Rates : NSTAR Electric’s PBR mechanism allows for an annual adjustment to base distribution rates for inflation, exogenous events and future capital additions based on a historical five-year average of total capital additions. On September 15, 2025, NSTAR Electric submitted its annual PBR Adjustment filing for a $55.1 million increase to base distribution rates and a total base distribution revenue requirement of $1.34 billion for effect on January 1, 2026. The requested base distribution rate increase is comprised of a $25.2 million inflation-based adjustment and a $29.9 million K-bar adjustment for capital additions based on the difference between the historical five-year average of total capital additions and the base capital revenue requirement. On December 30, 2025, the DPU approved this filing. 
+ 
+ NSTAR Electric’s Electric Sector Modernization Plan (ESMP) Filing : On August 29, 2024, the DPU approved the overall ESMP as a strategic plan for a five-year period commencing July 1, 2025 through June 30, 2030. The initial five-year plan proposed incremental distribution capital investments of $608 million and incremental distribution expense of $211 million. On November 21, 2024, the DPU opened a second phase of the proceeding (Phase II) to consider a short-term ESMP-focused cost recovery mechanism and metrics. The DPU limited the review of investment in this docket and excluded NSTAR Electric’s ESMP capital proposals regarding the EV Phase II extension and the new capital investment projects, and expense for the funding of low and moderate income solar. These investments will be reviewed in separate proceedings. This reduced the amount of company-proposed incremental capital investment to $295 million and the incremental expense to $44 million related to resiliency and grid modernization for a total spending cap of $339 million. NSTAR Electric filed its proposed tariff and testimony on December 18, 2024. 
+ 
+ On June 13, 2025, the DPU issued an order in the Phase II proceeding on the interim cost recovery mechanism for the ESMP, which approved the interim cost recovery mechanism with certain modifications. In the order, the DPU emphasized its attempt to balance affordability and the goals of advancing Massachusetts’ clean energy goals through proactive investments to support electrification and distributed generation. NSTAR Electric received approval for its proposed grid modernization and resiliency investments and incremental expense for a total spending cap of $139 million, reflecting an ordered reduction in capital spending on undergrounding for resiliency. In compliance with the Phase II order, a revised tariff was filed June 23, 2025, and the revised ESMP spending cap for the first term of July 1, 2025 through June 30, 2030, which included company-proposed incremental capital investment of $95 million and incremental expense of $44 million, was filed June 30, 2025. The DPU is conducting another phase of this proceeding to establish a long-term cost recovery mechanism, which is expected to be through base distribution rates. 
+ 
+ NSTAR Gas Distribution Rates: NSTAR Gas’ PBR mechanism allows for an annual adjustment to base distribution rates for inflation and exogenous events. On June 16, 2025, NSTAR Gas submitted its annual PBR Adjustment filing for rates to be effective on November 1, 2025. On September 11, 2025, NSTAR Gas updated its filing to request approval of a $162.6 million increase to base distribution rates and a total base distribution revenue requirement of $447.7 million. The base distribution rate increase is comprised of a $10.3 million inflation-based adjustment and, in accordance with the DPU’s final decision in the 2020 NSTAR Gas rate case, a $152.3 million rate-base reset to incorporate capital additions for the period 2021 through 2024, which includes the transfer of GSEP revenues totaling $107.3 million into base rates, as well as other non-GSEP plant additions totaling $45.0 million. 
+ 
+ 
+ 42 
+ 
+ 
+ 
+ On October 29, 2025, the DPU issued a decision determining that NSTAR Gas was not eligible to increase its distribution rates for the rate base reset because it did not achieve certain performance metrics under its PBR plan, and did not allow the base rate increase of $45.0 million for the incorporation of non-GSEP plant additions into base rates. The decision stated that those investments could be considered for inclusion in base distribution rates in NSTAR Gas’s next base rate proceeding. The DPU did allow NSTAR Gas to transfer its GSEP revenues through 2024 of $107.3 million for recovery through base distribution rates effective November 1, 2025. The DPU approved the base distribution rate increase of $10.3 million for the inflation-based adjustment. The DPU also approved NSTAR Gas’ mitigation proposal, in which NSTAR Gas paused recovery of the Gas System Enhancement Adjustment Factor (GSEAF) and reduced the current GSEAF to zero on November 1, 2025 in order to align this decrease with the base rate increase and to mitigate November 1, 2025 bill impacts to customers. NSTAR Gas will begin to recover the remaining 2025 GSEP revenue requirement on May 1, 2026 over 18 months. On November 4, 2025, NSTAR Gas filed a motion requesting the DPU to reconsider its decision denying the rate base reset citing legal concerns and arguing that the decision will ultimately result in higher costs for customers. NSTAR Gas also notified the DPU of its intention to file a base distribution rate case. 
+ 
+ On December 30, 2025, NSTAR Gas and the Massachusetts Office of the Attorney General reached a joint settlement agreement that allowed for the reinstatement of the rate base reset of $45.0 million increase to base distribution rates effective January 1, 2026, for NSTAR Gas to not petition for a rate case with new rates effective December 1, 2026, and for continuation of NSTAR Gas’ PBR program through November 1, 2030. The settlement agreement also required NSTAR Gas to provide a credit to customers of $10.2 million over a ten-month period beginning January 2026 as penalty for its failure to meet three performance metrics as required for eligibility for the rate base reset, pay a $2 million concession to the Office of the Attorney General to fund customer energy assistance programs, waive recovery of certain carrying charges, delay recovery of $53 million of capital pipeline investments until the next rate case, and provide bill stabilization credit deferrals. The DPU approved the settlement agreement on January 16, 2026. The settlement agreement resulted in a pre-tax charge to earnings of $12.2 million in the fourth quarter of 2025. 
+ 
+ NSTAR Electric and EGMA Settlement: On November 3, 2025, EGMA, NSTAR Electric, and the Massachusetts Office of the Attorney General reached a joint settlement agreement that resolved outstanding issues in multiple open Pension Adjustment Mechanism (PAM) dockets and open Resiliency Tree Work (RTW) dockets at NSTAR Electric and allows recovery of transaction and integration costs related to Eversource’s acquisition of EGMA. Certain PAM and RTW collections are being refunded to NSTAR Electric’s customers over a one-year period beginning January 1, 2026 and the transaction and integration costs of $82.3 million will be collected from EGMA customers over a ten-year period from the time of the next EGMA rate case. The settlement agreement was approved by the DPU on December 1, 2025. The settlement resulted in a net pre-tax benefit to earnings of $64.8 million on the Eversource income statement in the fourth quarter of 2025 ($82.3 million benefit at Eversource Parent and Other Companies for the allowed recovery of previously expensed acquisition-related and integration costs and $17.5 million charge at NSTAR Electric) and a net increase to regulatory assets on the Eversource balance sheet. 
+ 
+ Massachusetts 2026 Winter Bill Relief Program : In February 2026, NSTAR Electric, NSTAR Gas and EGMA implemented a winter electric and natural gas bill relief program as required by the DPU. Under this program, in February and March 2026, residential electric customers in Massachusetts will receive an aggregate bill reduction of approximately 25 percent and residential natural gas customers will receive an aggregate bill reduction of approximately 10 percent, a portion of which will be funded by the Commonwealth of Massachusetts. The remaining bill credits will be deferred for recovery from electric customers between April and December 2026 and from natural gas customers between May and October 2026, subject to DPU approval. No carrying charges will be collected. The bill relief program results in delayed collections from customers, impacting the timing of cash flows. Proceeds of $84.1 million were received by NSTAR Electric in January 2026 and will reduce regulatory assets recorded on its balance sheet in the first quarter of 2026. 
+ 
+ New Hampshire: 
+ 
+ PSNH Distribution Rate Case : On June 11, 2024, PSNH filed an application with the NHPUC for approval of a temporary annual base distribution rate increase. On July 31, 2024, the NHPUC approved a settlement agreement that was reached by PSNH, New Hampshire Department of Energy, and the Office of the Consumer Advocate to implement a temporary annual base distribution rate increase of $61.2 million effective August 1, 2024. Temporary rates were in effect until permanent rates were approved and took effect August 1, 2025. 
+ 
+ Also on June 11, 2024, PSNH filed an application with the NHPUC to request an increase in permanent base distribution rates of $181.9 million, which is inclusive of the temporary rate increase. Throughout the course of the proceeding, PSNH amended the requested revenue requirement to account for developments in the case, and arrived at a final proposed rate increase of $103 million, which primarily reflects the removal of deferred storm costs that will be addressed in a separate proceeding. On July 25, 2025, the NHPUC issued its decision on permanent rates and approved a permanent rate increase of $100.7 million, effective August 1, 2025, inclusive of the temporary rate increase referenced above. The total base distribution revenue requirement effective August 1, 2025 is $519 million. The order also established an authorized regulatory ROE of 9.5 percent with a 50 percent common equity ratio for PSNH’s capital structure. 
+ 
+ This revenue requirement also contains an alternative regulation revenue requirement adjustment. This adjustment was part of the NHPUC’s alternative regulatory framework that the NHPUC adopted as an alternative to PSNH’s proposed performance-based regulation plan. The alternative regulatory framework authorizes formulaic annual revenue adjustments on August 1st of 2026, 2027 and 2028. PSNH is required to file its next base distribution rate case for effect in June 2029 and committed not to file its next distribution rate case until 2029. The alternative regulatory framework calculates the annual revenue adjustment using a productivity factor and an adjustment for inflation to provide PSNH with increased revenue for operations. The framework also contains an exogenous events recovery mechanism for certain unforeseen events out of PSNH’s control and exceeding a specified threshold, a performance metric, and an earnings sharing mechanism where PSNH would have to return 75 percent of all revenue back to customers that exceeds 25 basis points more than the authorized ROE of 9.5 percent. Consistent with PSNH’s proposal, lost base revenues for both net metering and energy efficiency were eliminated effective August 1, 2025. 
+ 
+ 
+ 
+ 43 
+ 
+ 
+ To the extent permanent rates exceed the level of temporary rates, the difference will reconcile back to the date that the temporary rates took effect and the company recovers the difference over a twelve-month term. On August 11, 2025, PSNH filed its recoupment calculation, and on September 10, 2025, the NHPUC issued an order that the recoupment is $9.1 million and will be collected through the RRA regulatory tracking mechanism over a one-year period. 
+ 
+ As part of the decision, unrecovered storm costs of $247 million were removed from the rate proceeding for consideration in a separate proceeding. Approval of the ultimate amount of storm costs to be recovered is subject to a separate prudency review that was filed in March of 2024 and is being considered by the NHPUC in a separate dedicated docket, which is at this time complete and awaiting the issuance of an order. Approved storm costs in excess of the amount approved in base rates will be recovered through the Regulatory Reconciliation Adjustment (RRA) regulatory tracking mechanism. The NHPUC increased the level of storm costs recovered in base rates from $12 million to $19 million. 
+ 
+ The impact of the rate case decision resulted in a pre-tax benefit to earnings of $15.6 million at PSNH due primarily to the recoupment and the allowed recovery of other deferrals that will be recovered in the RRA. The majority of this amount was recorded as a reduction to amortization expense on PSNH’s statement of income in 2025. 
+ 
+ On January 30, 2026, the New Hampshire Department of Energy filed a notice of appeal with the New Hampshire Supreme Court challenging certain aspects of the PSNH distribution rate case. The appeal raises issues regarding the lawfulness of the Company’s alternative regulatory framework, the adequacy of the NHPUC’s findings supporting the approved revenue requirement, and whether the NHPUC sufficiently addressed required regulatory factors in its final order. The Department of Energy contends that additional findings were necessary to support the final determinations. On February 6, 2026, the Office of the Consumer Advocate filed a notice of cross-appeal with the New Hampshire Supreme Court challenging other aspects of the rate case decision. The NHPUC, as the deciding agency, is afforded the highest level of deference by the New Hampshire Supreme Court, and therefore the Department of Energy and the Office of Consumer Advocate will have a very high burden to meet to be successful on appeal. Eversource is currently evaluating the appeals and will respond consistent with applicable legal and regulatory processes. 
+ 
+ Legislative and Policy Matters 
+ 
+ Federal: On July 4, 2025, An Act to Provide for Reconciliation Pursuant to Title II of H. Con. Res. 14 (known as the One Big Beautiful Bill Act or OBBBA), a budget and reconciliation package, was signed into law. Among various items, the law includes changes to federal tax policy and modifications to clean energy tax incentives originally enacted under the Inflation Reduction Act of 2022. One of the key provisions notable for Eversource is the restoration of bonus depreciation for its affiliates other than rate-regulated utility companies. The deduction is for qualifying depreciable tangible property acquired and placed in service after January 19, 2025. The OBBBA maintains a federal corporate income tax rate of 21 percent. 
+ 
+ The OBBBA also includes provisions that remove federal tax credits for renewable energy. The OBBBA phases out the clean electricity production credit and the clean electricity investment tax credit for wind and solar projects that begin construction after July 4, 2026 and are not placed in service before December 31, 2027. Projects that begin construction prior to July 4, 2026 will remain eligible for investment tax credit benefits under the Inflation Reduction Act of 2022. 
+ 
+ The Company has evaluated the impacts of the OBBBA on our consolidated financial statements. The law will not have an impact on Eversource’s tax equity investment in the South Fork Wind project or the Revolution Wind project for which Eversource has remaining financial obligations. 
+ 
+ Under the OBBBA, clean energy credits, such as clean electricity investment, can lose eligibility if an entity is owned by, controlled by, or receives material assistance from certain prohibited foreign entities. This foreign ownership would include equity ownership and indirect involvement such as debt holdings and supply-chain relationships. The Company currently does not have any tax credits that qualify under the new OBBBA rules. 
+ 
+ Connecticut: On July 1, 2025, Connecticut enacted Public Act No. 25-173, An Act Concerning Energy Affordability, Access, and Accountability, (Senate Bill No. 4) (the Act), which aims to reduce electric rates for Connecticut retail customers by up to $300 million over the next two years in the public benefits charges on electric bills for hardship protection measures and electric vehicle program costs through the issuance of state bonds that would fully fund these state-mandated program costs in lieu of collecting these amounts in electric rates. The Act authorizes the State of Connecticut to issue up to $125 million in new general obligation bonds for each fiscal year 2026 and 2027 to reduce costs of hardship protection measures charged to retail customers, of which 67 percent of each issuance will be allocated to CL&P, and $30 million for fiscal year 2026 and $20 million for fiscal year 2027 in new general obligation bonds to fund the electric vehicle charging program, of which 80 percent of each issuance will be allocated to CL&P. Rate reductions were implemented prospectively beginning September 1, 2025 in CL&P’s revenue adjustment mechanism. 
+ 
+ The Act authorizes the securitization of storm-related expenses for the period January 1, 2018 through January 1, 2025, which covers the majority of deferred storm costs on the CL&P balance sheet, as well as advanced metering infrastructure (AMI) and legacy meter investments, allowing for the recovery of these costs from customers over a longer term to mitigate short-term rate impacts. The Act also seeks to reduce electric rates for retail customers by revising the statutory framework for renewable portfolio standards. 
+ 
+ The Act also directs PURA’s procurement manager, after consultation with the electric distribution companies, the Consumer Counsel and the Commissioner of DEEP, to file with PURA a proposed amendment to the plan to procure standard electric service that would authorize electric distribution companies to, among other things, make dynamic market purchases to attempt to reduce the average cost and minimize the price volatility of standard electric service. 
+ 
+ 
+ 44 
+ 
+ 
+ 
+ Implementation of the Act’s provisions will require further regulatory proceedings and administrative action. We do not anticipate any significant impact to our operating revenues or earnings as a result of the Act’s enactment. However, we expect PURA to initiate proceedings related to securitization, renewable portfolio standard obligations, and other provisions in the Act, which may impact future rate design and recovery mechanisms. 
+ 
+ On October 20, 2025, Governor Lamont nominated four new PURA commissioners who, along with an existing commissioner, enable the agency to now operate with the maximum number of commissioners. The four nominees will serve in an interim capacity until they are confirmed by the legislature. 
+ 
+ PFAS Settlements: Aquarion opted into class-action settlements with the defendants 3M Company, E.I. duPont de Nemours and Company, Tyco Fire Products LP, and BASF Corporation. These settlement agreements were entered to resolve claims of per- and polyfluoroalkyl substances (PFAS) contamination in the drinking water provided by public water systems. In July 2024 and April 2025, Aquarion and other qualifying class members submitted claims to receive settlement awards; these awards were allocated based on the overall number of claimants, PFAS concentrations and flow rates of water sources, and a variety of other factors. The final, total recovery from these settlements is unknown and will be based on the Claims Administrator’s review of the submitted claims and the subsequent allocation procedures. Aquarion anticipates receiving recovery from 3M Company over the next nine years and from E.I. duPont de Nemours and Company over the next two years. The schedule for BASF Corporation and Tyco Fire Products LP are unknown at this time. Aquarion has received $17.8 million of proceeds in 2025. Proceeds from the settlements will be used to fund capital expenditures. 
+ 
+ 
+ Critical Accounting Policies 
+ 
+ The preparation of financial statements in conformity with GAAP requires management to make estimates, assumptions and, at times, difficult, subjective or complex judgments. Changes in these estimates, assumptions and judgments, in and of themselves, could materially impact our financial position, results of operations or cash flows. Our management discusses with the Audit Committee of our Board of Trustees significant matters relating to critical accounting policies. Our critical accounting policies are discussed below. See the combined notes to our financial statements for further information concerning the accounting policies, estimates and assumptions used in the preparation of our financial statements. 
+ 
+ Regulatory Accounting : Our regulated companies are subject to rate regulation that is based on cost recovery and meets the criteria for application of accounting guidance for rate-regulated operations, which considers the effect of regulation on the timing of the recognition of certain revenues and expenses. The regulated companies' financial statements reflect the effects of the rate-making process. The rates charged to the customers of our regulated companies are designed to collect each company's costs to provide service, including a return on investment. 
+ 
+ We believe that the operations of each of our regulated companies currently satisfy the criteria for application of regulatory accounting. If events or circumstances should change in a future period so that those criteria are no longer satisfied, we would be required to eliminate any associated regulatory assets and liabilities and the impact would be recognized in the statement of income and may result in a material adverse effect on results of operations and financial condition. 
+ 
+ The application of accounting guidance for rate-regulated enterprises results in recording regulatory assets and liabilities. Regulatory assets represent the deferral of incurred costs that are probable of future recovery in customer rates. Regulatory assets are amortized as the incurred costs are recovered through customer rates. In some cases, we record regulatory assets before approval for recovery has been received from the applicable regulatory commission. We must use judgment to conclude that costs deferred as regulatory assets are probable of future recovery. We base our conclusion on certain factors, including, but not limited to, regulatory precedent. 
+ 
+ Regulatory liabilities represent either revenues received from customers to fund expected costs that have not yet been incurred or probable future refunds to customers. We make judgments regarding the future outcome of regulatory proceedings that involve potential future refund to customers and record liabilities for these loss contingencies when probable and reasonably estimable based upon available information. Regulatory liabilities are recorded at the best estimate, or at a low end of the range of possible loss. The amount recorded may differ from when the uncertainty is resolved. Such differences could have a significant impact on our financial statements. 
+ 
+ We continually assess whether the regulatory assets and liabilities continue to meet the criteria for probable future recovery or refund. This assessment includes consideration of recent orders issued by regulatory commissions, the passage of new legislation, historical regulatory treatment for similar costs in each of our jurisdictions, discussions with legal counsel, the status of any appeals of regulatory decisions, and changes in applicable regulatory and political environments. We believe that we will continue to be able to defer and recover prudently incurred costs, including additional storm costs, based on the legal and regulatory framework. 
+ 
+ We use judgment when recording regulatory assets and liabilities; however, regulatory commissions can reach different conclusions about the recovery of costs, and those conclusions could have a material impact on our financial statements. The ultimate outcome of regulatory rate proceedings could have a significant effect on our ability to recover costs or earn an adequate return. Established rates are also often subject to subsequent prudency reviews by state regulators, whereby various portions of rates could be adjusted, subject to refund or disallowed. 
+ 
+ 
+ 
+ 45 
+ 
+ 
+ Storm restoration and pre-staging costs are subject to prudency reviews from our regulators. We have $2.06 billion of deferred storm costs that either have yet to be filed with the applicable regulatory commission, are pending regulatory approval, or are subject to prudency review as of December 31, 2025. Tropical Storm Isaias in August 2020 resulted in deferred storm restoration costs of approximately $232 million at CL&P as of December 31, 2025. Although in 2021 PURA found that CL&P’s performance in its preparation for, and response to, Tropical Storm Isaias fell below applicable performance standards in certain instances, CL&P believes it presented in its 2023 storm filing credible evidence demonstrating there is no reasonably close causal connection between the alleged sub-standard performance and the storm costs incurred. While it is possible that some amount of the Tropical Storm Isaias costs may be disallowed by PURA, any such amount cannot be estimated at this time. We believe that our storm restoration costs deferred were prudently incurred, meet the criteria for cost recovery, and are probable of recovery. 
+ 
+ We believe it is probable that each of our regulated companies will recover its respective investments in long-lived assets and the regulatory assets that have been recorded. If we determine that we can no longer apply the accounting guidance applicable to rate-regulated enterprises, or that we cannot conclude it is probable that costs will be recovered from customers in future rates, the applicable costs would be charged to net income in the period in which the determination is made. 
+ 
+ Pension, SERP and PBOP: We sponsor Pension, SERP and PBOP Plans to provide retirement benefits to our employees. Plan assets and the benefit obligation are presented on a net basis and we recognize the overfunded or underfunded status of the plans as an asset or liability on the balance sheet. These amounts are remeasured annually using a December 31st measurement date. For each of these plans, several significant assumptions are used to determine the projected benefit obligation, funded status, and net periodic benefit expense/income. These assumptions include the expected long-term rate of return on plan assets, discount rate, compensation/progression rate, cash balance interest crediting rate and mortality and retirement assumptions. We evaluate these assumptions annually and adjust them as necessary. Changes in these assumptions could have a material impact on our financial position, results of operations or cash flows. 
+ 
+ Expected Long-Term Rate of Return on Plan Assets Assumption : In developing the expected long-term rate of return, we consider historical and expected returns, as well as input from our consultants. Our expected long-term rate of return on assets is based on assumptions regarding target asset allocations and corresponding expected rates of return for each asset class. We routinely review the actual asset allocations and periodically rebalance the investments to the targeted asset allocations. For the year ended December 31, 2025, our expected long-term rate-of-return assumption used to determine our pension and PBOP expense was 8.25 percent for the Eversource Service Pension and PBOP plans. For the forecasted 2026 pension and PBOP expense, an expected long-term rate of return of 8.25 percent for the Eversource Service Pension and PBOP plans will be used reflecting our target asset allocations. 
+ 
+ Discount Rate Assumptions : Payment obligations related to the Pension, SERP and PBOP Plans are discounted at interest rates applicable to the expected timing of each plan's cash flows. The discount rate that was utilized in determining the pension, SERP and PBOP obligations was based on a yield-curve approach. This approach utilizes a population of bonds with an average rating of AA based on bond ratings by Moody's, S&P and Fitch, and uses bonds with above median yields within that population. As of December 31, 2025, the discount rates used to determine the funded status were within a range of 4.9 percent to 5.5 percent for the Pension and SERP Plans, and 5.4 percent to 5.5 percent for the PBOP Plans. As of December 31, 2024, the discount rates used were within a range of 5.6 percent to 5.7 percent for the Pension and SERP Plans, and 5.7 percent for the PBOP Plans. The decrease in the discount rates used to calculate the funded status resulted in an increase to the Pension and SERP Plans’ projected benefit obligation of $98.2 million and an increase to the PBOP Plans' projected benefit obligation of $11.2 million as of December 31, 2025. 
+ 
+ The Company uses the spot rate methodology for the service and interest cost components of Pension, SERP and PBOP expense because it provides a relatively precise measurement by matching projected cash flows to the corresponding spot rates on the yield curve. The discount rates used to estimate the 2025 expense were within a range of 5.2 percent to 5.8 percent for the Pension and SERP Plans, and within a range of 5.4 percent to 5.9 percent for the PBOP Plans. 
+ 
+ Mortality Assumptions: Assumptions as to mortality of the participants in our Pension, SERP and PBOP Plans are a key estimate in measuring the expected payments a participant may receive over their lifetime and the corresponding plan liability we need to record. The mortality assumption is composed of a base table that represents the current expectation of life expectancy of the population adjusted by an improvement scale that attempts to anticipate future improvements in life expectancy. In 2025, our mortality assumption utilized the Society of Actuaries base mortality tables (Pri-2012), adjusted to reflect Eversource’s own mortality experience, and projected generationally using the MP-2021 improvement scale. 
+ 
+ Compensation/Progression Rate Assumptions : This assumption reflects the expected long-term salary growth rate, including consideration of the levels of increases built into collective bargaining agreements, and impacts the estimated benefits that Pension and SERP Plan participants will receive in the future. As of December 31, 2025 and 2024, the compensation/progression rates used to determine the Pension and SERP Plan funded status were within a range of 3.5 percent to 4.0 percent. 
+ 
+ Health Care Cost Assumptions : The Eversource Service PBOP Plan is not subject to health care cost trends. 
+ 
+ Cash Balance Interest Crediting Rate Assumption : The Cash Balance Pension Plan is a recent additional obligation of the existing Eversource Service Pension Plan and the liability began to accrue benefits upon the effective date of January 1, 2025. The cash balance interest crediting rate assumption represents the long-term rate by which the Pension Plan’s cash balance accounts are expected to grow. Actual interest on the cash balance accounts is based on the 30-year U.S. Treasury securities rate in effect for September of the preceding year, with a minimum rate of 4 percent. The cash balance interest crediting rate assumption used in determining the forecasted 2026 pension expense was 4.8 percent. 
+ 
+ 
+ 
+ 46 
+ 
+ 
+ Actuarial Gains and Losses: Actuarial gains and losses represent the differences between actuarial assumptions and actual information or updated assumptions. Unamortized actuarial gains or losses arising at the December 31st measurement date are primarily from differences in actual investment performance compared to our expected return and changes in the discount rate assumption. The Eversource Service Pension and PBOP Plans use the corridor approach to determine the amount of gain or loss to amortize into net periodic benefit expense/income. The corridor approach defers all actuarial gains and losses arising at remeasurement and the net unrecognized actuarial gain or loss balance is amortized as a component of expense if, as of the beginning of the year, that net gain or loss exceeds 10 percent of the greater of the market value of the plan’s assets or the projected benefit obligation. The amount of net unrecognized actuarial gain or loss in excess of the 10 percent corridor is amortized to expense over the estimated average future employee service period. For the Eversource Service Pension Plan, the net actuarial gain or loss is amortized as a component of expense over the estimated average future employee service period of thirteen years. For the Eversource Service PBOP Plan, the net unrecognized actuarial gain or loss was within the 10 percent corridor and therefore there was no amortization to expense during 2025. 
+ 
+ A decrease in the discount rate used to determine our pension funded status would increase our projected benefit obligation at December 31st, resulting in a higher unamortized actuarial loss to be recognized in future years’ pension expense, subject to exceeding the 10 percent corridor. A decrease in the discount rate at December 31st would also result in a decrease in the interest cost component and an increase in the service cost component of the subsequent year’s benefit plan expense. 
+ 
+ The calculated expected return on plan assets is compared to the actual return or loss on plan assets at the end of each year to determine the investment gains or losses to be immediately reflected in unamortized actuarial gains and losses. An underperformance of our pension plan investment returns relative to the expected returns would increase our pension liability at December 31st, resulting in a higher unamortized actuarial loss to be recognized in future years’ pension expense, subject to exceeding the 10 percent corridor, and a lower expected return on assets component of pension expense in future years’ pension expense. 
+ 
+ Net Periodic Benefit Expense/Income: Pension, SERP and PBOP expense/income is determined by our actuaries and consists of service cost and prior service cost/credit, interest cost based on the discounting of the obligations, amortization of actuarial gains and losses, and the expected return on plan assets. For the Pension and SERP Plans, pre-tax net periodic benefit income was $83.5 million, $76.8 million and $108.4 million for the years ended December 31, 2025, 2024 and 2023, respectively. For the PBOP Plans, pre-tax net periodic benefit income was $68.7 million, $64.3 million and $57.3 million for the years ended December 31, 2025, 2024 and 2023, respectively. 
+ 
+ The change in pension, SERP and PBOP expense/income arising from the annual remeasurement does not fully impact earnings. Our Massachusetts utilities recover qualified pension and PBOP expenses related to their distribution operations through a rate reconciling mechanism that fully tracks the change in net pension and PBOP expenses each year, and therefore the change in their pension and PBOP expense does not impact earnings. Our electric transmission companies' rates provide for an annual true-up of estimated to actual costs, which include pension expenses, and therefore the change in their pension expense does not impact earnings. Any differences between the fixed level of PBOP expense included in our formula rate and the PBOP expense calculated in accordance with authoritative accounting guidance is accumulated as a regulatory asset or liability, and is expected, over time, to be recovered from or returned to customers. Additionally, the portion of our pension and PBOP expense that relates to company labor devoted to capital projects is capitalized on the balance sheet instead of being charged to expense. 
+ 
+ Forecasted Expense/Income and Expected Contributions : We estimate that net periodic benefit income in 2026 for the Pension and SERP Plans will be approximately $124 million and for the PBOP Plans will be approximately $79 million. The increase in pension income from 2025 to 2026 is driven primarily by a decrease in the interest cost component and by favorable expected return on assets due to a higher asset balance, partially offset by an increase in the service cost component. The increase in PBOP income from 2025 to 2026 is driven primarily by favorable expected return on assets due to a higher asset balance and a decrease in the interest cost component. For the PBOP Plans, there is no amortization of actuarial loss in 2026. Pension, SERP and PBOP expense/income for subsequent years will depend on future investment performance, changes in future discount rates and other assumptions, and various other factors related to the populations participating in the plans. 
+ 
+ Our policy is to fund the Pension Plans annually, as necessary, in an amount at least equal to the amount that will satisfy all federal funding requirements. Based on the current status of the Pension Plans and federal pension funding requirements, for our Eversource Service Pension Plan there is no minimum funding requirement in 2026 and we do not expect to make pension contributions in 2026. It is our policy to fund the PBOP Plans annually, as necessary, through tax deductible contributions to external trusts. We do not expect to make any contributions to the Eversource Service PBOP Plan in 2026. 
+ 
+ Sensitivity Analysis : The following table illustrates the hypothetical effect on reported annual net periodic benefit income as a result of a change in the following assumptions by 50 basis points: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pension Plans (excluding SERP Plans) 
+ 
+ PBOP Plans 
+ 
+ 
+ Decrease in Plan Income 
+ 
+ Decrease/(Increase) in Plan Income 
+ 
+ (Millions of Dollars) 
+ For the Years Ended December 31, 
+ 
+ For the Years Ended December 31, 
+ 
+ Eversource 
+ 2025 
+ 
+ 2024 
+ 
+ 2025 
+ 
+ 2024 
+ 
+ Lower expected long-term rate of return 
+ $ 
+ 28.4 
+ 
+ 
+ $ 
+ 28.9 
+ 
+ 
+ $ 
+ 5.2 
+ 
+ 
+ $ 
+ 5.0 
+ 
+ 
+ Lower discount rate 
+ 14.5 
+ 
+ 
+ 27.4 
+ 
+ 
+ (0.3) 
+ 
+ 
+ (0.5) 
+ 
+ 
+ Higher compensation rate 
+ 4.1 
+ 
+ 
+ 5.9 
+ 
+ 
+ N/A 
+ 
+ N/A 
+ 
+ 
+ 
+ 47 
+ 
+ 
+ Goodwill: Goodwill is recognized on our balance sheet from previous mergers and acquisitions to the extent that the consideration paid exceeded the net fair value of the identified assets and liabilities acquired in each business combination. We are required to test goodwill balances for impairment at least annually by considering the fair values of the reporting units, which requires us to use estimates and judgments. Additionally, we monitor all relevant events and circumstances during the year to determine if an interim impairment test is required. We have selected October 1st of each year as the annual goodwill impairment test date. Goodwill impairment is deemed to exist if the carrying amount of a reporting unit exceeds its estimated fair value. If goodwill were to be impaired, it would be written down in the current period to the extent of the impairment. 
+ 
+ We have identified our reporting units for purposes of allocating and testing goodwill as Electric Distribution, Electric Transmission, Natural Gas Distribution and Water Distribution. The Electric Distribution and Electric Transmission reporting units include carrying values for the respective components of CL&P, NSTAR Electric and PSNH. The Natural Gas Distribution reporting unit includes the carrying values of NSTAR Gas, Yankee Gas and EGMA. The Water Distribution reporting unit includes the Aquarion water utility businesses. As of December 31, 2025, goodwill was allocated to the reporting units as follows: $2.54 billion to Electric Distribution, $577 million to Electric Transmission, $451 million to Natural Gas Distribution, and $662 million to Water Distribution. 
+ 
+ In assessing goodwill for impairment, an entity is permitted to first assess qualitatively whether it is more likely than not that goodwill impairment exists as of the annual impairment test date. If we perform the qualitative assessment but determine it is more likely than not that a reporting unit’s fair value is less than its carrying amount, we perform a quantitative test to compare the fair value of the reporting unit to its carrying amount, including goodwill. If the carrying amount of the reporting unit exceeds its fair value, we record an impairment loss as a reduction to goodwill and a charge to operating expenses, but the loss recognized would not exceed the total amount of goodwill allocated to the reporting unit. 
+ 
+ We completed our annual goodwill impairment assessment for the Electric Distribution, Electric Transmission and Natural Gas Distribution reporting units as of October 1, 2025 and determined it was more likely than not that their fair value exceeded carrying value and no impairment existed. The annual goodwill assessment included a qualitative evaluation of multiple factors that impact the fair value of the reporting units, including general, macroeconomic and market conditions, and entity-specific assumptions that affect the future cash flows of the reporting units. Key considerations include discount rates, utility sector market performance and merger transaction multiples, the Company's share price and credit ratings, analyst reports, financial performance, cost and risk factors, internal estimates and projections of future cash flows and net income, long-term strategy, the timing and outcome of rate cases, and recent regulatory and legislative proceedings. 
+ 
+ For these reporting units, we believe that their fair value was substantially in excess of their carrying value. Adverse regulatory actions, changes in the regulatory and political environment, or changes in significant assumptions could potentially result in future goodwill impairment indicators. 
+ 
+ For the Water Distribution reporting unit, in the fourth quarter of 2024, we concluded that the likely sale of Aquarion at a loss resulted in the requirement to perform an interim goodwill impairment test for Water Distribution goodwill. We compared the estimated fair value of the business from the anticipated transaction to its carrying value. Assumptions used in the valuation were the future cash flows from the sale, including the estimated income tax impacts as a result of the transaction. Based on the interim impairment test, we recorded a goodwill impairment of $297 million to write down the carrying value of the water distribution reporting unit to its estimated fair value. The remaining goodwill held by the Water Distribution reporting unit was reclassified to Assets Held for Sale on the Eversource balance sheet as of December 31, 2024 and became part of the water distribution disposal group. 
+ 
+ As of October 1, 2025, our annual goodwill impairment test date, the goodwill of the Water Distribution reporting unit was classified within Assets Held for Sale, and the disposal group was carried at fair value less cost to sell. Based on PURA’s November 19, 2025 denial of the Aquarion sale and the uncertainty of the ultimate outcome, the Aquarion water distribution business no longer met the criteria to be classified as held for sale. The goodwill held by the Water Distribution reporting unit of $662.5 million that was previously classified within Assets Held for Sale has been reclassified to Goodwill on the Eversource balance sheet as of December 31, 2025. In the fourth quarter of 2025, we performed a goodwill impairment test for Water Distribution goodwill and determined that no impairment existed. 
+ 
+ Long-Lived Assets: Impairment evaluations of long-lived assets, including property, plant and equipment and other assets, involve a significant degree of estimation and judgment, including identifying circumstances that indicate an impairment may exist. An impairment analysis is required when events or changes in circumstances indicate that the carrying value of a long-lived asset may not be recoverable. Indicators of potential impairment include a deteriorating business climate, unfavorable regulatory action, decline in value that is other than temporary in nature, plans to dispose of a long-lived asset significantly before the end of its useful life, and accumulation of costs that are in excess of amounts allowed for recovery. The evaluation of long-lived assets for impairment utilizes significant assumptions about operating strategies and external developments, including assessment of current and projected market conditions that can impact future cash flows. If indicators are present for a long-lived asset or asset group, a comparison of the undiscounted expected future cash flows to the carrying value is performed. No significant impairments occurred during the year 2025. 
+ 
+ Loss Contingencies: We make judgments regarding the future outcome of contingent events and record liabilities for loss contingencies that are probable and can be reasonably estimated based upon available information. The assessment of loss contingencies involves judgments and assumptions about future events. Our estimates are subject to revision in future periods based on actual costs or new information. The amount recorded may differ from the actual expense incurred when the uncertainty is resolved. Such difference would be a change in estimate and could have a significant impact on the financial statements. 
+ 
+ Upon the sales of our offshore wind investments in 2024, we recorded a contingent liability reflecting our estimate of the future obligations under the terms of the sale to GIP for the South Fork Wind and Revolution Wind projects. As of December 31, 2025 and 2024, the contingent liability totaled $448.2 million and $365.0 million, respectively. Assumptions and key judgments in determining the estimated liability include the expected cost overrun sharing obligation, expected obligation to maintain GIP’s internal rate of return through the construction period, expected 
+ 
+ 
+ 48 
+ 
+ 
+ attainment of commercial operation, obligation for other future costs prior to commercial operation, as well as the likelihood of realization of investment tax credit adders that were included in the purchase price. The use of different assumptions, estimates, or judgments could materially impact the financial statements. We rely on information that we receive from the project owners for the construction-related, delay-related, and insurance-related costs of Revolution Wind. We use our judgment to adjust, as needed, the expected obligations to GIP while construction of Revolution Wind is completed. New information or future developments that arise as the construction of Revolution Wind progresses will necessitate a reassessment of the estimated liability to GIP. Adverse changes in facts, regulations and circumstances could result in additional losses that could be material to the financial statements. 
+ 
+ Accounting for Environmental Reserves: Environmental reserves are accrued when assessments indicate it is probable that a liability has been incurred and an amount can be reasonably estimated. Increases to estimates of environmental liabilities could have an adverse impact on earnings. We estimate these liabilities based on findings through various phases of the assessment, considering the most likely action plan from a variety of available remediation options (ranging from no action required to full site remediation and long-term monitoring), current site information from our site assessments, remediation estimates from third-party engineering and remediation contractors, and our prior experience in remediating contaminated sites. If a most likely action plan cannot yet be determined, we estimate the liability based on the low end of a range of possible action plans. A significant portion of our environmental sites and reserve amounts relate to former MGP sites that were operated several decades ago and manufactured natural gas from coal and other processes, which resulted in certain by-products remaining in the environment that may pose a potential risk to human health and the environment, for which we may have potential liability. Estimates are based on the expected remediation plan. Our estimates are subject to revision in future periods based on actual costs or new information from other sources, including the level of contamination at the site, the extent of our responsibility or the extent of remediation required, recently enacted laws and regulations or a change in cost estimates. 
+ 
+ Allowance for Uncollectible Accounts: We estimate the allowance for uncollectible accounts based upon various judgments and factors, including an aging-based quantitative assessment that applies an estimated uncollectible percentage to each receivable aging category. Factors in determining credit loss include historical collection, write-off experience, analysis of delinquency statistics, and management's assessment of collectability from customers, including current economic conditions, customer payment trends, the impact on customer bills because of energy usage trends and changes in rates, flexible payment plans and financial hardship arrearage management programs offered to customers, reasonable forecasts, and expectations of future collectability and collection efforts. Management continuously assesses the collectability of receivables and adjusts estimates based on actual experience and future expectations based on economic conditions, collection efforts and other factors. Management also monitors the aging analysis of receivables to determine if there are changes in the collections of accounts receivable. 
+ 
+ Income Taxes: Income tax expense is estimated for each of the jurisdictions in which we operate and is recorded each quarter using an estimated annualized effective tax rate. This process to record income tax expense involves estimating current and deferred income tax expense or benefit and the impact of temporary differences resulting from differing treatment of items for financial reporting and income tax return reporting purposes. Such differences are the result of timing of the deduction for expenses, as well as any impact of permanent differences, or other items that directly impact income tax expense as a result of regulatory activity (flow-through items). The temporary differences and flow-through items result in deferred tax assets and liabilities that are included in the balance sheets. 
+ 
+ We also account for uncertainty in income taxes, which applies to all income tax positions previously filed in a tax return and income tax positions expected to be taken in a future tax return that have been reflected on our balance sheets. The determination of whether a tax position meets the recognition threshold under applicable accounting guidance is based on facts and circumstances available to us. 
+ 
+ The interpretation of tax laws and associated regulations involves uncertainty since tax authorities may interpret the laws differently. Ultimate resolution or clarification of income tax matters may result in favorable or unfavorable impacts to net income and cash flows, and adjustments to tax-related assets and liabilities could be material. 
+ 
+ Significant management judgment is required in determining the provision for income taxes, primarily due to the uncertainty related to tax positions taken, as well as deferred tax assets and liabilities and valuation allowances. We evaluate the probability of realizing deferred tax assets by reviewing a forecast of future taxable income and our intent and ability to implement tax planning strategies, if necessary, to realize deferred tax assets. We also assess negative evidence, such as the expiration of historical operating loss or tax credit carryforwards, that could indicate the inability to realize the deferred tax assets. Valuation allowances are provided to reduce deferred tax assets to the amount that will more likely than not be realized in future periods. This requires management to make judgments and estimates regarding the amount and timing of the reversal of taxable temporary differences, expected future taxable income, and the impact of tax planning strategies. 
+ 
+ Actual income taxes could vary from estimated amounts due to the future impacts of various items, including future changes in income tax laws, not realizing expected tax planning strategy amounts, as well as results of audits and examinations of filed tax returns by taxing authorities. 
+ 
+ Derivative Instruments: The accounting treatment for energy contracts entered into varies and depends on the intended use of the particular contract and on whether or not the contract is a derivative. Many of the electric and natural gas companies' contracts for the purchase and sale of energy or energy-related products for delivery to customers in the normal course of business are derivatives that are designated as “normal purchases” or “normal sales” and follow accrual accounting. If a contract is a derivative and the energy is settled in the energy market rather than delivered to customers, it is recorded at fair value on the balance sheet. The application of derivative accounting is complex and requires management judgment in the following respects: identification of derivatives and embedded derivatives, election and designation of a contract as normal, and determination of the fair value of derivative contracts. All of these judgments can have a significant impact on the financial statements. 
+ 
+ 
+ 
+ 49 
+ 
+ 
+ The fair values of derivative contracts are estimated based on the best market information available, including valuation models that estimate future energy and energy-related prices. Fair value estimates involve assumptions, uncertainties and matters of judgment. Valuations are sensitive to the prices of energy-related products in future years and assumptions made. Changes in fair value of our derivative contracts are recorded as Regulatory Assets or Liabilities, as we recover the costs or include the benefits of these contracts in rates charged to customers. 
+ 
+ Fair Value Measurements: We follow fair value measurement guidance that defines fair value as the price that would be received for the sale of an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date (an exit price). We have applied this guidance to our Company's derivative contracts that are not elected or designated as "normal purchases” or “normal sales,” to marketable securities held in trusts, and to our investments in our Pension and PBOP Plans. Fair value measurements are also incorporated into the accounting for goodwill, long-lived assets, equity method investments, AROs, and in the valuation of business combinations and asset acquisitions. 
+ 
+ We use quoted market prices when available to determine the fair value of financial instruments. When quoted prices in active markets for the same or similar instruments are not available, we value financial instruments and derivative contracts using models that incorporate both observable and unobservable inputs. Discounted cash flow valuations incorporate estimates of premiums or discounts, reflecting risk-adjusted profit that would be required by a market participant to arrive at an exit price, using available historical market transaction information and expectations. Valuations of derivative contracts also reflect our estimates of nonperformance risk, including credit risk. 
+ 
+ 
+ 
+ RESULTS OF OPERATIONS – EVERSOURCE ENERGY AND SUBSIDIARIES 
+ 
+ The following provides the amounts and variances in operating revenues and expense line items in the statements of income for Eversource for the years ended December 31, 2025 and 2024 included in this Annual Report on Form 10-K: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Years Ended December 31, 
+ 
+ (Millions of Dollars) 
+ 2025 
+ 
+ 2024 
+ 
+ Increase/(Decrease) 
+ 
+ 
+ 
+ Operating Revenues 
+ $ 
+ 13,547.2 
+ 
+ 
+ $ 
+ 11,900.8 
+ 
+ 
+ $ 
+ 1,646.4 
+ 
+ 
+ 
+ 
+ Operating Expenses: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Purchased Power, Purchased Natural Gas and Transmission 
+ 4,209.2 
+ 
+ 
+ 3,736.1 
+ 
+ 
+ 473.1 
+ 
+ 
+ 
+ 
+ Operations and Maintenance 
+ 2,073.8 
+ 
+ 
+ 2,012.9 
+ 
+ 
+ 60.9 
+ 
+ 
+ 
+ 
+ Depreciation 
+ 1,568.6 
+ 
+ 
+ 1,433.5 
+ 
+ 
+ 135.1 
+ 
+ 
+ 
+ 
+ Amortization 
+ 835.9 
+ 
+ 
+ 342.9 
+ 
+ 
+ 493.0 
+ 
+ 
+ 
+ 
+ Energy Efficiency Programs 
+ 778.2 
+ 
+ 
+ 671.8 
+ 
+ 
+ 106.4 
+ 
+ 
+ 
+ 
+ Taxes Other Than Income Taxes 
+ 1,092.9 
+ 
+ 
+ 997.9 
+ 
+ 
+ 95.0 
+ 
+ 
+ 
+ 
+ Loss on Pending Sale of Aquarion 
+ — 
+ 
+ 
+ 297.0 
+ 
+ 
+ (297.0) 
+ 
+ 
+ 
+ 
+ Total Operating Expenses 
+ 10,558.6 
+ 
+ 
+ 9,492.1 
+ 
+ 
+ 1,066.5 
+ 
+ 
+ 
+ 
+ Operating Income 
+ 2,988.6 
+ 
+ 
+ 2,408.7 
+ 
+ 
+ 579.9 
+ 
+ 
+ 
+ 
+ Interest Expense 
+ 1,243.3 
+ 
+ 
+ 1,111.3 
+ 
+ 
+ 132.0 
+ 
+ 
+ 
+ 
+ Losses on Offshore Wind 
+ 284.0 
+ 
+ 
+ 464.0 
+ 
+ 
+ (180.0) 
+ 
+ 
+ 
+ 
+ Other Income, Net 
+ 378.9 
+ 
+ 
+ 410.5 
+ 
+ 
+ (31.6) 
+ 
+ 
+ 
+ 
+ Income Before Income Tax Expense 
+ 1,840.2 
+ 
+ 
+ 1,243.9 
+ 
+ 
+ 596.3 
+ 
+ 
+ 
+ 
+ Income Tax Expense 
+ 140.3 
+ 
+ 
+ 424.7 
+ 
+ 
+ (284.4) 
+ 
+ 
+ 
+ 
+ Net Income 
+ 1,699.9 
+ 
+ 
+ 819.2 
+ 
+ 
+ 880.7 
+ 
+ 
+ 
+ 
+ Net Income Attributable to Noncontrolling Interests 
+ 7.5 
+ 
+ 
+ 7.5 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Net Income Attributable to Common Shareholders 
+ $ 
+ 1,692.4 
+ 
+ 
+ $ 
+ 811.7 
+ 
+ 
+ $ 
+ 880.7 
+ 
+ 
+ 
+ 
+ Operating Revenues 
+ Sales Volumes: A summary of our retail electric GWh sales volumes, our firm natural gas MMcf sales volumes, and our water MG sales volumes, and percentage changes, is as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Electric 
+ 
+ Firm Natural Gas 
+ 
+ Water 
+ 
+ 
+ Sales Volumes (GWh) 
+ 
+ Percentage Increase/ (Decrease) 
+ 
+ Sales Volumes (MMcf) 
+ 
+ Percentage Increase 
+ 
+ Sales Volumes (MG) 
+ 
+ Percentage (Decrease)/ Increase 
+ 
+ 
+ 2025 
+ 
+ 2024 
+ 
+ 
+ 2025 
+ 
+ 2024 
+ 
+ 
+ 2025 
+ 
+ 2024 
+ 
+ 
+ Traditional 
+ 7,907 
+ 
+ 
+ 7,807 
+ 
+ 
+ 1.3 
+ % 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ % 
+ 
+ 1,663 
+ 
+ 
+ 1,669 
+ 
+ 
+ (0.4) 
+ % 
+ 
+ Decoupled 
+ 43,409 
+ 
+ 
+ 43,516 
+ 
+ 
+ (0.2) 
+ % 
+ 
+ 160,784 
+ 
+ 
+ 147,293 
+ 
+ 
+ 9.2 
+ % 
+ 
+ 24,788 
+ 
+ 
+ 24,308 
+ 
+ 
+ 2.0 
+ % 
+ 
+ Total Sales Volumes 
+ 51,316 
+ 
+ 
+ 51,323 
+ 
+ 
+ — 
+ % 
+ 
+ 160,784 
+ 
+ 
+ 147,293 
+ 
+ 
+ 9.2 
+ % 
+ 
+ 26,451 
+ 
+ 
+ 25,977 
+ 
+ 
+ 1.8 
+ % 
+ 
+ Weather, fluctuations in energy supply rates, conservation measures (including utility-sponsored energy efficiency programs), and economic conditions affect customer energy usage and water consumption. Industrial sales volumes are less sensitive to temperature variations than residential and commercial sales volumes. In our service territories, weather impacts both electric and water sales volumes during the summer and both electric and natural gas sales volumes during the winter; however, natural gas sales volumes are more sensitive to temperature variations than electric sales volumes. Customer heating or cooling usage may not directly correlate with historical levels or with the level of degree-days that occur. 
+ 
+ 
+ 
+ 50 
+ 
+ 
+ Fluctuations in retail electric sales volumes at PSNH impact earnings ("Traditional" in the table above). For CL&P, NSTAR Electric, NSTAR Gas, EGMA, Yankee Gas, and our Connecticut water distribution business, fluctuations in retail sales volumes do not materially impact earnings due to their respective regulatory commission-approved distribution revenue decoupling mechanisms ("Decoupled" in the table above). These distribution revenues are decoupled from their customer sales volumes, which breaks the relationship between sales volumes and revenues recognized. 
+ 
+ Operating Revenues: The variance in Operating Revenues by segment in 2025, as compared to 2024, is as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (Millions of Dollars) 
+ Increase/(Decrease) 
+ 
+ Electric Distribution 
+ $ 
+ 973.1 
+ 
+ 
+ Natural Gas Distribution 
+ 530.9 
+ 
+ 
+ Electric Transmission 
+ 162.3 
+ 
+ 
+ Water Distribution 
+ 7.6 
+ 
+ 
+ Other 
+ 31.4 
+ 
+ 
+ Eliminations 
+ (58.9) 
+ 
+ 
+ Total Operating Revenues 
+ $ 
+ 1,646.4 
+ 
+ 
+ Electric and Natural Gas Distribution Revenues : 
+ Base Distribution Revenues: Base distribution rates are the approved, regulated charges to recover the utility’s cost of service, including operations and building and maintaining infrastructure, that allow utilities to recover investments and earn a reasonable return. Base distribution rates are established in base rate proceedings and approved by state regulators. Fluctuations in base distribution revenues impact earnings. 
+ 
+ • Base electric distribution revenues increased $114.1 million due primarily to base distribution rate increases at PSNH effective August 1, 2024 and August 1, 2025 and at NSTAR Electric effective January 1, 2025. 
+ • Base natural gas distribution revenues increased $198.1 million due primarily to base distribution rate increases effective November 1, 2024 and November 1, 2025 at both EGMA and NSTAR Gas and effective November 1, 2025 at Yankee Gas. The base revenue increase also includes a shift of recovery into base rates of certain GSEP investments, which does not impact earnings. 
+ 
+ NSTAR Electric’s PBR mechanism allows for an annual adjustment to base distribution rates for inflation, exogenous events and future capital additions based on a historical five-year average of total capital additions. On December 23, 2024, the DPU approved a $55.8 million increase to base distribution rates for effect on January 1, 2025. 
+ 
+ On July 31, 2024, the NHPUC approved a settlement agreement to implement a temporary annual base distribution rate increase of $61.2 million effective August 1, 2024 at PSNH. On July 25, 2025, the NHPUC approved a permanent rate increase of $100.7 million, effective August 1, 2025, inclusive of the temporary rate increase. 
+ 
+ NSTAR Gas’ PBR mechanism allows for an annual adjustment to base distribution rates for inflation and exogenous events. On October 30, 2024, the DPU approved the annual PBR Adjustment filing for a $12.7 million increase to base distribution rates for effect November 1, 2024. On October 29, 2025, the DPU approved a $10.3 million increase to base distribution rates for effect on November 1, 2025. 
+ 
+ EGMA was allowed two rate base resets in a DPU-approved October 7, 2020 rate settlement agreement, with the first rate base reset on November 1, 2024. After adjusting for a cap required under the terms of the rate settlement agreement, the increase to base distribution rates was $85.6 million effective November 1, 2024 (of which $8.8 million is offset by a reduction in the GSEP revenue requirement and GSEP rate also taking effect on November 1, 2024 for a net distribution rate change on November 1, 2024 of $76.8 million). Base distribution rates were increased effective November 1, 2025 to incorporate the $62.2 million remaining revenue requirement. On November 7, 2024, the DPU approved this filing. 
+ 
+ On November 5, 2025, PURA issued a final decision in the Yankee Gas distribution rate case that included a distribution rate increase of $82.2 million, effective November 1, 2025. The approved revenue requirement includes a previously recorded rate credit of $37.4 million plus carrying charges for non-firm margin credits over three years beginning November 1, 2025. Excluding the rate credit, the distribution rate increase totaled $95.7 million. 
+ 
+ Tracked Distribution Revenues: Tracked distribution revenues consist of certain costs that are recovered from customers in retail rates on a fully reconciling basis through regulatory commission-approved cost tracking mechanisms and therefore, recovery of these costs has no impact on earnings. Costs recovered through cost tracking mechanisms include, among others, energy supply and natural gas supply procurement, state mandated energy purchase agreements and other energy-related costs, electric retail transmission charges, energy efficiency program costs, electric restructuring and stranded cost recovery revenues (including securitized RRB charges), certain capital tracking mechanisms for infrastructure improvements, and additionally for the Massachusetts utilities, pension and PBOP benefits, net metering for distributed generation, and solar-related programs. Revenues from certain of these cost tracking mechanisms also include certain incentives earned, return on capital tracking mechanisms, and carrying charges that are billed in rates to customers, which do impact earnings. Tracked revenues also include wholesale market sales transactions, such as sales of energy and energy-related products into the ISO-NE wholesale electricity market, sales of natural gas to third-party marketers, and the sale of RECs to various counterparties. 
+ 
+ Customers have the choice to purchase electricity from their Eversource electric utility or from a competitive third-party supplier. For customers who have contracted separately with these competitive suppliers, revenue is not recorded for the sale of the electricity commodity, as the utility is acting as an agent on behalf of the third-party supplier. For customers that choose to purchase electric generation from CL&P, NSTAR Electric or 
+ 
+ 
+ 51 
+ 
+ 
+ PSNH, each utility purchases power on behalf of, and is permitted to recover the related energy supply cost without mark-up from, its customers, and records offsetting amounts in revenues and purchased power related to this energy supply procurement. CL&P, NSTAR Electric and PSNH each remain as the distribution service provider for all customers and charge a regulated rate for distribution delivery service recorded in revenues. Certain eligible natural gas customers may elect to purchase natural gas from their Eversource natural gas utility or may contract separately with a 
+ gas supply operator. Revenue is not recorded for the sale of the natural gas commodity to customers who have contracted separately with these 
+ operators, only the delivery to a customer, as the utility is acting as an agent on behalf of the gas supply operator. 
+ 
+ The variance in tracked distribution revenues in 2025, as compared to 2024, is due primarily to the following: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (Millions of Dollars) 
+ Electric Distribution 
+ 
+ Natural Gas Distribution 
+ 
+ Retail Tariff Tracked Revenues: 
+ 
+ 
+ 
+ 
+ Energy supply procurement 
+ $ 
+ (128.7) 
+ 
+ 
+ $ 
+ 231.7 
+ 
+ 
+ Retail transmission 
+ 245.2 
+ 
+ 
+ — 
+ 
+ 
+ CL&P NBFMCC 
+ 153.3 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CL&P System Benefit Charge 
+ 94.6 
+ 
+ 
+ — 
+ 
+ 
+ Energy efficiency 
+ 26.1 
+ 
+ 
+ 80.5 
+ 
+ 
+ Other distribution tracking mechanisms 
+ 123.4 
+ 
+ 
+ (2.3) 
+ 
+ 
+ Wholesale Market Sales Revenue 
+ 345.8 
+ 
+ 
+ 22.1 
+ 
+ 
+ Fluctuations in retail tariff tracked revenues are driven by adjustments to retail rates to recover costs and changes in sales volumes. 
+ 
+ The decrease in energy supply procurement within electric distribution was driven by lower average prices, partially offset by higher average supply-related sales volumes. The increase in energy supply procurement within natural gas distribution was driven by higher average prices and higher average supply-related sales volumes. 
+ 
+ The variance in CL&P’s NBFMCC revenues was driven by changes in the retail NBFMCC rate. The CL&P NBFMCC rate includes the recovery of costs incurred under long-term state mandated energy purchase contracts with the Millstone and Seabrook nuclear power plants, net of the benefits received from selling this energy into the ISO-NE wholesale market. The rate changes primarily resulted from the timing of recovery of net costs associated with power purchase agreements with the Millstone and Seabrook nuclear power plants. The average NBFMCC rates are as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Effective Date 
+ 
+ 
+ September 1, 2023 
+ 
+ July 1, 2024 
+ 
+ September 1, 2024 
+ 
+ May 1, 2025 
+ 
+ September 1, 2025 
+ 
+ Average NBFMCC Rate 
+ $ 
+ 0.00293 
+ 
+ 
+ $ 
+ 0.03906 
+ 
+ 
+ $ 
+ 0.04290 
+ 
+ 
+ $ 
+ 0.02109 
+ 
+ 
+ $ 
+ 0.01675 
+ 
+ 
+ The increase in electric distribution wholesale market sales revenue in 2025, as compared to 2024, was due primarily to higher average electricity market prices received for wholesale sales at CL&P. ISO-NE average market prices received for CL&P’s wholesale sales increased to an average price of $67.50 per MWh in 2025, as compared to $39.53 per MWh for the same period in 2024, driven primarily by higher natural gas prices in New England. Volumes sold into the market were primarily from the sale of output generated by the Millstone PPA and Seabrook PPA with CL&P. 
+ 
+ CL&P is required by both state legislation and regulation to purchase electric generation from Millstone and Seabrook under PURA-approved PPAs entered in 2019. CL&P does not have legislative authority to use this purchased output to serve its customer load and therefore sells the energy into the wholesale market and uses the proceeds from the energy sales to offset the contract costs. The net cost or net sales amount is recovered from, or refunded to, customers in the non-bypassable component of the CL&P FMCC rate. CL&P does not earn any margin or return from the sale of this contracted output, which solely offsets the cost of the legislatively required purchases from Millstone and Seabrook. Changes in CL&P’s NBFMCC retail revenues and CL&P’s wholesale market sales, as compared to the actual costs incurred, are deferred on the income statement by an offset to amortization expense. 
+ 
+ Electric Transmission Revenues : Electric transmission revenues increased $162.3 million due primarily to a higher transmission rate base as a result of our continued investment in our transmission infrastructure. 
+ 
+ Other Revenues and Eliminations: Other revenues primarily include the revenues of Eversource's service company, most of which are eliminated in consolidation. Eliminations are also related to the Eversource electric transmission revenues that are derived from ISO-NE regional transmission charges to the distribution businesses of CL&P, NSTAR Electric and PSNH that recover the costs of the wholesale transmission business in rates charged to their customers. 
+ 
+ Purchased Power, Purchased Natural Gas and Transmission expense includes costs associated with providing electric generation service 
+ supply and natural gas to all customers who have not migrated to third-party suppliers, the cost of energy purchase contracts entered into as 
+ required by regulation, and transmission costs. These electric and natural gas supply procurement costs, other energy-related costs, and 
+ transmission costs are recovered from customers in rates through commission-approved cost tracking mechanisms, which have no impact on 
+ earnings (tracked costs). 
+ 
+ 
+ 
+ 52 
+ 
+ 
+ The variance in Purchased Power, Purchased Natural Gas and Transmission expense in 2025, as compared to 2024, is due primarily to the following: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (Millions of Dollars) 
+ Increase/(Decrease) 
+ 
+ Energy supply procurement costs 
+ $ 
+ (117.0) 
+ 
+ 
+ Other electric distribution costs 
+ 159.1 
+ 
+ 
+ Natural gas supply costs 
+ 218.7 
+ 
+ 
+ Transmission costs 
+ 231.6 
+ 
+ 
+ Eliminations 
+ (19.3) 
+ 
+ 
+ Total Purchased Power, Purchased Natural Gas and Transmission 
+ $ 
+ 473.1 
+ 
+ 
+ The variance in energy supply procurement costs is offset in Operating Revenues (tracked energy supply procurement revenues). The variance in other electric distribution costs is due to an increase in the long-term renewable energy purchase contract cost deferral and higher net metering costs at NSTAR Electric, higher long-term contractual energy-related costs and the cost of renewable energy credits that are recovered in the non-bypassable component of the FMCC mechanism at CL&P, and higher net metering costs at PSNH. 
+ 
+ Costs at the natural gas distribution segment relate to supply procurement costs for retail customers. Total natural gas costs increased due primarily to higher average prices, higher average purchased volumes and an increase in the retail cost deferral. 
+ 
+ Included in transmission costs are charges that recover the cost of transporting electricity over high-voltage lines from generation facilities to substations, including costs allocated by ISO-NE to maintain the wholesale electric system. The increase in transmission costs was primarily the result of an increase in costs billed by ISO-NE that support regional grid investments. The increase was partially offset by a decrease in the retail transmission cost deferral, which reflects the actual cost of transmission service compared to estimated amounts billed to customers. 
+ 
+ Operations and Maintenance expense includes tracked costs and costs that are part of base electric, natural gas and water distribution rates with changes impacting earnings (non-tracked costs). The variance in Operations and Maintenance expense in 2025, as compared to 2024, is due primarily to the following: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (Millions of Dollars) 
+ Increase/(Decrease) 
+ 
+ Base Electric Distribution (Non-Tracked Costs): 
+ 
+ 
+ Employee-related expenses (including labor and benefits) 
+ $ 
+ 15.3 
+ 
+ 
+ Shared corporate costs (including IT system depreciation at Eversource Service) 
+ 12.7 
+ 
+ 
+ Storm costs 
+ 12.2 
+ 
+ 
+ Uncollectible expense 
+ 9.4 
+ 
+ 
+ Operations-related expenses (including vegetation management, vendor services, vehicles and materials) 
+ (7.4) 
+ 
+ 
+ 
+ 
+ 
+ Total Base Electric Distribution (Non-Tracked Costs) 
+ 42.2 
+ 
+ 
+ Tracked Electric Costs (Electric Distribution and Electric Transmission): 
+ 
+ 
+ Customer credits at NSTAR Electric as a result of the joint settlement agreement approved in Massachusetts (earnings charge) 
+ 17.5 
+ 
+ 
+ 
+ Other tracked - Increase due primarily to higher transmission expense, and higher pension tracking mechanism at NSTAR Electric, partially offset by a decrease in grid modernization mechanism at NSTAR Electric and lower uncollectible expense s 
+ 42.2 
+ 
+ 
+ Total Tracked Electric Costs 
+ 59.7 
+ 
+ 
+ Total Electric Distribution and Electric Transmission 
+ 101.9 
+ 
+ 
+ Natural Gas Distribution: 
+ 
+ 
+ Base (Non-Tracked Costs): 
+ 
+ 
+ Increase due primarily to higher uncollectible expense, higher shared corporate costs, and higher corporate vendor services 
+ 36.6 
+ 
+ 
+ Customer credits and concession at NSTAR Gas as a result of the settlement agreement approved in Massachusetts 
+ 12.2 
+ 
+ 
+ Impact of Yankee Gas rate case decision on November 5, 2025; primarily due to the write off of certain capitalized employee compensation costs disallowed from rate base 
+ 11.9 
+ 
+ 
+ Base (Non-Tracked Costs) 
+ 60.7 
+ 
+ 
+ Tracked Costs 
+ 3.7 
+ 
+ 
+ Total Natural Gas Distribution 
+ 64.4 
+ 
+ 
+ Eversource Parent, Water Distribution and Other Companies: 
+ 
+ 
+ Acquisition-related and integration costs allowed for recovery through EGMA distribution rates as a result of the joint settlement agreement approved in Massachusetts (earnings benefit) 
+ (82.3) 
+ 
+ 
+ Other operations and maintenance 
+ 13.8 
+ 
+ 
+ Eliminations 
+ (36.9) 
+ 
+ 
+ Total Operations and Maintenance 
+ $ 
+ 60.9 
+ 
+ 
+ Depreciation expense increased due primarily to higher net plant in service balances. 
+ 
+ 
+ 
+ 53 
+ 
+ 
+ Amortization expense includes the deferral of energy-related costs and other costs that are included in certain regulatory commission-approved cost tracking mechanisms. This deferral adjusts expense to match the corresponding revenues compared to the actual costs incurred. These costs are recovered from customers in rates and have no impact on earnings. Amortization expense also includes the amortization of cert ain costs as those costs are collected in rates. 
+ 
+ The variance in Amortization is due primarily to the deferral adjustments of energy-related and other tracked costs at CL&P (included in the non-bypassable component of the FMCC mechanism and the SBC mechanism), partially offset by NSTAR Electric and PSNH (included in the stranded cost recovery mechanism), which can fluctuate from period to period based on the timing of costs incurred and related rate changes to recover these costs, as well as the impact of the PSNH rate case decision. 
+ 
+ The CL&P non-bypassable FMCC retail rates in effect were higher than those in the prior period and the net Millstone and Seabrook contract cash flows were higher in 2025 as compared to 2024. These higher collections within the non-bypassable FMCC resulted in a corresponding increase to amortization expense of $428.2 million for the CL&P non-bypassable FMCC deferral adjustment. 
+ 
+ The PSNH rate case decision allowed for the recoupment of temporary rates and the allowed recovery of other deferrals resulting in a pre-tax benefit to earnings of $15.6 million, the majority of which was recorded as a reduction to amortization expense on the statement of income in the third quarter of 2025. 
+ 
+ Energy Efficiency Programs expense includes costs of various state energy policy initiatives and expanded energy efficiency programs that are recovered from customers in rates, most of which have no impact on earnings. Energy Efficiency Programs expense includes a deferral adjustment that reflects the actual costs of energy efficiency programs compared to the amounts billed to customers, which can fluctuate from period to period based on the timing of costs incurred and related rate changes to recover these costs. Energy Efficiency Programs expense increased due primarily to the deferral adjustment that matched costs to the corresponding revenues recorded as well as higher program spending. 
+ 
+ Taxes Other Than Income Taxes expense increased due primarily to higher property taxes as a result of higher utility plant balances across our subsidiaries and higher mill rates at NSTAR Electric and higher Connecticut gross earnings taxes. 
+ 
+ Loss on Pending Sale of Aquarion relates to the impairment charge recorded in 2024 to write down the carrying value of the water business to fair value resulting from the expected sale of Aquarion. For further information, see "Business Development and Capital Expenditures – Aquarion Sale Status and Regulatory Denial" included in this Management's Discussion and Analysis of Financial Condition and Results of Operations . 
+ 
+ Interest Expense increased due primarily to the following: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (Millions of Dollars) 
+ Increase/(Decrease) 
+ 
+ Long-term debt 
+ $ 
+ 91.3 
+ 
+ 
+ Absence in 2025 of capitalized interest as a result of the sale of our offshore wind projects in the third quarter of 2024 
+ 69.3 
+ 
+ 
+ Capitalized AFUDC related to debt funds 
+ 0.3 
+ 
+ 
+ Amortization of debt discounts and premiums, net 
+ 4.5 
+ 
+ 
+ Regulatory deferrals 
+ (31.3) 
+ 
+ 
+ Short-term notes payable 
+ (2.4) 
+ 
+ 
+ RRBs 
+ (1.5) 
+ 
+ 
+ Other 
+ 1.8 
+ 
+ 
+ Total Interest Expense 
+ $ 
+ 132.0 
+ 
+ 
+ Losses on Offshore Wind for 2025 relates to the pre-tax charge of $284 million associated with increasing our offshore wind contingent liability for expected future payments under the terms of the 2024 sale agreement with GIP for the South Fork Wind and Revolution Wind projects. In 2024, it related to the loss recorded for sales of our equity method offshore wind investments. See "Earnings Overview – Offshore Wind Sale and Contingent Liability" included in this Management's Discussion and Analysis of Financial Condition and Results of Operations for further information. 
+ 
+ Other Income, Net decreased due primarily to the following: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (Millions of Dollars) 
+ Increase/(Decrease) 
+ 
+ Pension, SERP and PBOP Non-Service Income Components, Net of Deferred Portion 
+ 23.9 
+ 
+ 
+ Interest Income (primarily on regulatory deferrals) 
+ (12.7) 
+ 
+ 
+ Capitalized AFUDC related to equity funds 
+ 1.2 
+ 
+ 
+ Equity in Earnings of Unconsolidated Affiliates 
+ (32.0) 
+ 
+ 
+ Investment (Loss)/Income 
+ (6.0) 
+ 
+ 
+ 
+ 
+ 
+ Other 
+ (6.0) 
+ 
+ 
+ Total Other Income, Net 
+ $ 
+ (31.6) 
+ 
+ 
+ 
+ 
+ 54 
+ 
+ 
+ Income Tax Expense decreased due primarily to a decrease in reserves ($394.6 million), a decrease in return to provision adjustments ($23.6 million), an increase in amortization of EDIT ($13.6 million) and a decrease in items that impact our tax rate as a result of regulatory treatment (flow-through items) and permanent differences ($30.2 million), partially offset by higher pre-tax earnings ($125.2 million), higher state taxes ($51.9 million), and higher share-based payment tax deficiency ($0.5 million). 
+ 
+ 
+ 
+ RESULTS OF OPERATIONS – 
+ THE CONNECTICUT LIGHT AND POWER COMPANY 
+ NSTAR ELECTRIC COMPANY AND SUBSIDIARY 
+ PUBLIC SERVICE COMPANY OF NEW HAMPSHIRE AND SUBSIDIARIES 
+ 
+ The following provides the amounts and variances in operating revenues and expense line items in the statements of income for CL&P, NSTAR Electric and PSNH for the years ended December 31, 2025 and 2024 included in this Annual Report on Form 10-K: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Years Ended December 31, 
+ 
+ 
+ CL&P 
+ 
+ NSTAR Electric 
+ 
+ PSNH 
+ 
+ (Millions of Dollars) 
+ 2025 
+ 
+ 2024 
+ 
+ Increase/ (Decrease) 
+ 
+ 2025 
+ 
+ 2024 
+ 
+ Increase/ (Decrease) 
+ 
+ 2025 
+ 
+ 2024 
+ 
+ Increase/ (Decrease) 
+ 
+ Operating Revenues 
+ $ 
+ 5,241.0 
+ 
+ 
+ $ 
+ 4,615.0 
+ 
+ 
+ $ 
+ 626.0 
+ 
+ 
+ $ 
+ 3,986.6 
+ 
+ 
+ $ 
+ 3,720.9 
+ 
+ 
+ $ 
+ 265.7 
+ 
+ 
+ $ 
+ 1,376.4 
+ 
+ 
+ $ 
+ 1,294.5 
+ 
+ 
+ $ 
+ 81.9 
+ 
+ 
+ Operating Expenses: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Purchased Power and Transmission 
+ 1,815.8 
+ 
+ 
+ 1,836.9 
+ 
+ 
+ (21.1) 
+ 
+ 
+ 1,141.7 
+ 
+ 
+ 1,045.3 
+ 
+ 
+ 96.4 
+ 
+ 
+ 280.2 
+ 
+ 
+ 244.4 
+ 
+ 
+ 35.8 
+ 
+ 
+ Operations and Maintenance 
+ 849.0 
+ 
+ 
+ 815.3 
+ 
+ 
+ 33.7 
+ 
+ 
+ 792.3 
+ 
+ 
+ 735.0 
+ 
+ 
+ 57.3 
+ 
+ 
+ 299.2 
+ 
+ 
+ 288.3 
+ 
+ 
+ 10.9 
+ 
+ 
+ Depreciation 
+ 432.7 
+ 
+ 
+ 406.5 
+ 
+ 
+ 26.2 
+ 
+ 
+ 446.0 
+ 
+ 
+ 407.7 
+ 
+ 
+ 38.3 
+ 
+ 
+ 168.0 
+ 
+ 
+ 154.1 
+ 
+ 
+ 13.9 
+ 
+ 
+ Amortization of Regulatory Assets, Net 
+ 649.7 
+ 
+ 
+ 104.5 
+ 
+ 
+ 545.2 
+ 
+ 
+ 107.6 
+ 
+ 
+ 130.9 
+ 
+ 
+ (23.3) 
+ 
+ 
+ 68.2 
+ 
+ 
+ 136.1 
+ 
+ 
+ (67.9) 
+ 
+ 
+ Energy Efficiency Programs 
+ 170.2 
+ 
+ 
+ 171.7 
+ 
+ 
+ (1.5) 
+ 
+ 
+ 294.4 
+ 
+ 
+ 263.4 
+ 
+ 
+ 31.0 
+ 
+ 
+ 46.2 
+ 
+ 
+ 42.9 
+ 
+ 
+ 3.3 
+ 
+ 
+ Taxes Other Than Income Taxes 
+ 452.9 
+ 
+ 
+ 419.6 
+ 
+ 
+ 33.3 
+ 
+ 
+ 320.5 
+ 
+ 
+ 280.3 
+ 
+ 
+ 40.2 
+ 
+ 
+ 106.1 
+ 
+ 
+ 96.9 
+ 
+ 
+ 9.2 
+ 
+ 
+ Total Operating Expenses 
+ 4,370.3 
+ 
+ 
+ 3,754.5 
+ 
+ 
+ 615.8 
+ 
+ 
+ 3,102.5 
+ 
+ 
+ 2,862.6 
+ 
+ 
+ 239.9 
+ 
+ 
+ 967.9 
+ 
+ 
+ 962.7 
+ 
+ 
+ 5.2 
+ 
+ 
+ Operating Income 
+ 870.7 
+ 
+ 
+ 860.5 
+ 
+ 
+ 10.2 
+ 
+ 
+ 884.1 
+ 
+ 
+ 858.3 
+ 
+ 
+ 25.8 
+ 
+ 
+ 408.5 
+ 
+ 
+ 331.8 
+ 
+ 
+ 76.7 
+ 
+ 
+ Interest Expense 
+ 211.9 
+ 
+ 
+ 231.0 
+ 
+ 
+ (19.1) 
+ 
+ 
+ 256.1 
+ 
+ 
+ 222.7 
+ 
+ 
+ 33.4 
+ 
+ 
+ 90.0 
+ 
+ 
+ 77.8 
+ 
+ 
+ 12.2 
+ 
+ 
+ Other Income, Net 
+ 59.7 
+ 
+ 
+ 77.6 
+ 
+ 
+ (17.9) 
+ 
+ 
+ 192.6 
+ 
+ 
+ 191.4 
+ 
+ 
+ 1.2 
+ 
+ 
+ 43.0 
+ 
+ 
+ 31.1 
+ 
+ 
+ 11.9 
+ 
+ 
+ Income Before Income Tax Expense 
+ 718.5 
+ 
+ 
+ 707.1 
+ 
+ 
+ 11.4 
+ 
+ 
+ 820.6 
+ 
+ 
+ 827.0 
+ 
+ 
+ (6.4) 
+ 
+ 
+ 361.5 
+ 
+ 
+ 285.1 
+ 
+ 
+ 76.4 
+ 
+ 
+ Income Tax Expense 
+ 167.2 
+ 
+ 
+ 194.5 
+ 
+ 
+ (27.3) 
+ 
+ 
+ 190.0 
+ 
+ 
+ 190.6 
+ 
+ 
+ (0.6) 
+ 
+ 
+ 92.1 
+ 
+ 
+ 70.2 
+ 
+ 
+ 21.9 
+ 
+ 
+ Net Income 
+ $ 
+ 551.3 
+ 
+ 
+ $ 
+ 512.6 
+ 
+ 
+ $ 
+ 38.7 
+ 
+ 
+ $ 
+ 630.6 
+ 
+ 
+ $ 
+ 636.4 
+ 
+ 
+ $ 
+ (5.8) 
+ 
+ 
+ $ 
+ 269.4 
+ 
+ 
+ $ 
+ 214.9 
+ 
+ 
+ $ 
+ 54.5 
+ 
+ 
+ Operating Revenues 
+ Sales Volumes: A summary of our retail electric GWh sales volumes is as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Years Ended December 31, 
+ 
+ 
+ 2025 
+ 
+ 2024 
+ 
+ Increase/ (Decrease) 
+ 
+ Percentage Increase/(Decrease) 
+ 
+ CL&P 
+ 20,351 
+ 
+ 
+ 20,151 
+ 
+ 
+ 200 
+ 
+ 
+ 1.0 
+ % 
+ 
+ NSTAR Electric 
+ 23,058 
+ 
+ 
+ 23,365 
+ 
+ 
+ (307) 
+ 
+ 
+ (1.3) 
+ % 
+ 
+ PSNH 
+ 7,907 
+ 
+ 
+ 7,807 
+ 
+ 
+ 100 
+ 
+ 
+ 1.3 
+ % 
+ 
+ Fluctuations in retail electric sales volumes at PSNH impact earnings. For CL&P and NSTAR Electric, fluctuations in retail electric sales volumes do not impact earnings due to their respective regulatory commission-approved distribution revenue decoupling mechanisms. 
+ 
+ Operating Revenues: Operating Revenues, which consist of base distribution revenues and tracked revenues further described below, increased $626.0 million at CL&P, $265.7 million at NSTAR Electric, and $81.9 million at PSNH in 2025, as compared to 2024. 
+ 
+ Base Distribution Revenues: Base distribution rates are the approved, regulated charges to recover the utility’s cost of service, including operations and building and maintaining infrastructure, that allow utilities to recover investments and earn a reasonable return. Base distribution rates are established in base rate proceedings and approved by state regulators. Fluctuations in base distribution revenues impact earnings. 
+ 
+ • CL&P's distribution revenues were flat. 
+ • NSTAR Electric's distribution revenues increased $54.2 million due primarily to a base distribution rate increase effective January 1, 2025. 
+ • PSNH's distribution revenues increased $59.9 million due primarily to base distribution rate increases effective August 1, 2024 and August 1, 2025. 
+ 
+ 
+ 
+ 55 
+ 
+ 
+ Tracked Distribution Revenues: Tracked distribution revenues consist of certain costs that are recovered from customers in retail rates on a fully reconciling basis through regulatory commission-approved cost tracking mechanisms and therefore, recovery of these costs has no impact on earnings. Costs recovered through cost tracking mechanisms include, among others, energy supply procurement, state mandated energy purchase agreements and other energy-related costs, retail transmission charges, energy efficiency program costs, electric restructuring and stranded cost recovery revenues (including securitized RRB charges), certain capital tracking mechanisms for infrastructure improvements, and additionally for NSTAR Electric, pension and PBOP benefits, net metering for distributed generation, and solar-related programs. Revenues from certain of these cost tracking mechanisms also include certain incentives earned, return on capital tracking mechanisms, and carrying charges that are billed in rates to customers, which do impact earnings. Tracked revenues also include wholesale market sales transactions, such as sales of energy and energy-related products into the ISO-NE wholesale electricity market and the sale of RECs to various counterparties. 
+ 
+ Customers have the choice to purchase electricity from their Eversource electric utility or from a competitive third-party supplier. For customers who have contracted separately with these competitive suppliers, revenue is not recorded for the sale of the electricity commodity, as the utility is acting as an agent on behalf of the third-party supplier. For customers that choose to purchase electric generation from CL&P, NSTAR Electric or PSNH, each utility purchases power on behalf of, and is permitted to recover the related energy supply cost without mark-up from, its customers, and records offsetting amounts in revenues and purchased power related to this energy supply procurement. CL&P, NSTAR Electric and PSNH each remain as the distribution service provider for all customers and charge a regulated rate for distribution delivery service recorded in revenues. 
+ 
+ The variance in tracked distribution revenues in 2025, as compared to 2024, is due primarily to the following: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (Millions of Dollars) 
+ CL&P 
+ 
+ NSTAR Electric 
+ 
+ PSNH 
+ 
+ Retail Tariff Tracked Revenues: 
+ 
+ 
+ 
+ 
+ 
+ 
+ Energy supply procurement 
+ $ 
+ (44.1) 
+ 
+ 
+ $ 
+ (93.4) 
+ 
+ 
+ $ 
+ 8.8 
+ 
+ 
+ Retail transmission 
+ 56.3 
+ 
+ 
+ 135.0 
+ 
+ 
+ 53.9 
+ 
+ 
+ CL&P NBFMCC 
+ 153.3 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CL&P System Benefit Charge 
+ 94.6 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other distribution tracking mechanisms 
+ 56.7 
+ 
+ 
+ 143.7 
+ 
+ 
+ (50.9) 
+ 
+ 
+ Wholesale Market Sales Revenue 
+ 309.4 
+ 
+ 
+ 38.5 
+ 
+ 
+ (2.1) 
+ 
+ 
+ Fluctuations in retail tariff tracked revenues are driven by adjustments to retail rates to recover costs and changes in sales volumes. 
+ 
+ The decrease in energy supply procurement at CL&P was driven by lower average prices, partially offset by higher average supply-related sales volumes. The decrease in energy supply procurement at NSTAR Electric was driven by lower average prices and lower average supply-related sales volumes. The increase in energy supply procurement at PSNH was driven by higher average prices and higher average supply-related sales volumes. 
+ 
+ The variance in CL&P’s NBFMCC revenues was driven by changes in the retail NBFMCC rate. The CL&P NBFMCC rate includes the recovery of costs incurred under long-term state mandated energy purchase contracts with the Millstone and Seabrook nuclear power plants, net of the benefits received from selling this energy into the ISO-NE wholesale market. The rate changes primarily resulted from the timing of recovery of net costs associated with power purchase agreements with the Millstone and Seabrook nuclear power plants. The average NBFMCC rates are as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Effective Date 
+ 
+ 
+ September 1, 2023 
+ 
+ July 1, 2024 
+ 
+ September 1, 2024 
+ 
+ May 1, 2025 
+ 
+ September 1, 2025 
+ 
+ Average NBFMCC Rate 
+ $ 
+ 0.00293 
+ 
+ 
+ $ 
+ 0.03906 
+ 
+ 
+ $ 
+ 0.04290 
+ 
+ 
+ $ 
+ 0.02109 
+ 
+ 
+ $ 
+ 0.01675 
+ 
+ 
+ The increase in CL&P’s wholesale market sales revenue in 2025, as compared to 2024, was due primarily to higher average electricity market prices received for wholesale sales. ISO-NE average market prices received for CL&P’s wholesale sales increased to an average price of $67.50 per MWh in 2025, as compared to $39.53 per MWh for the same period in 2024, driven primarily by higher natural gas prices in New England. Volumes sold into the market were primarily from the sale of output generated by the Millstone PPA and Seabrook PPA with CL&P. 
+ 
+ CL&P is required by both state legislation and regulation to purchase electric generation from Millstone and Seabrook under PURA-approved PPAs entered in 2019. CL&P does not have legislative authority to use this purchased output to serve its customer load and therefore sells the energy into the wholesale market and uses the proceeds from the energy sales to offset the contract costs. The net cost or net sales amount is recovered from, or refunded to, customers in the non-bypassable component of the CL&P FMCC rate. CL&P does not earn any margin or return from the sale of this contracted output, which solely offsets the cost of the legislatively required purchases from Millstone and Seabrook. Changes in CL&P’s NBFMCC retail revenues and CL&P’s wholesale market sales, as compared to the actual costs incurred, are deferred on the income statement by an offset to amortization expense. 
+ 
+ Transmission Revenues: Transmission revenues increased $55.9 million at CL&P, $64.0 million at NSTAR Electric and $42.4 million at PSNH due primarily to a higher transmission rate base as a result of our continued investment in our transmission infrastructure. 
+ 
+ Eliminations: Eliminations are related to the Eversource electric transmission revenues that are derived from ISO-NE regional transmission charges to the distribution businesses of CL&P, NSTAR Electric and PSNH that recover the costs of the wholesale transmission business in rates charged to their customers. The impact of eliminations decreased revenues by $55.7 million at CL&P, $75.0 million at NSTAR Electric and $31.9 million at PSNH. 
+ 
+ 
+ 56 
+ 
+ 
+ 
+ 
+ Purchased Power and Transmission expense includes costs associated with providing electric generation service supply to all customers who have not migrated to third-party suppliers, the cost of energy purchase contracts entered into as required by regulation, and transmission costs. These energy supply procurement costs, other energy-related costs, and transmission costs are recovered from customers in rates through commission-approved cost tracking mechanisms, which have no impact on earnings (tracked costs). The variance in Purchased Power and Transmission expense in 2025, as compared to 2024, is due primarily to the following: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (Millions of Dollars) 
+ CL&P 
+ 
+ NSTAR Electric 
+ 
+ PSNH 
+ 
+ Energy supply procurement costs 
+ $ 
+ (41.1) 
+ 
+ 
+ $ 
+ (85.1) 
+ 
+ 
+ $ 
+ 9.2 
+ 
+ 
+ Other electric distribution costs 
+ 29.1 
+ 
+ 
+ 122.5 
+ 
+ 
+ 7.5 
+ 
+ 
+ Transmission costs 
+ 46.6 
+ 
+ 
+ 134.0 
+ 
+ 
+ 51.0 
+ 
+ 
+ Eliminations 
+ (55.7) 
+ 
+ 
+ (75.0) 
+ 
+ 
+ (31.9) 
+ 
+ 
+ Total Purchased Power and Transmission 
+ $ 
+ (21.1) 
+ 
+ 
+ $ 
+ 96.4 
+ 
+ 
+ $ 
+ 35.8 
+ 
+ 
+ The variance in energy supply procurement costs is offset in Operating Revenues (tracked energy supply procurement revenues). The variance in other electric distribution costs is due to an increase in the long-term renewable energy purchase contract cost deferral and higher net metering costs at NSTAR Electric, higher long-term contractual energy-related costs and the cost of renewable energy credits that are recovered in the non-bypassable component of the FMCC mechanism at CL&P, and higher net metering costs at PSNH. 
+ 
+ Included in transmission costs are charges that recover the cost of transporting electricity over high-voltage lines from generation facilities to substations, including costs allocated by ISO-NE to maintain the wholesale electric system. 
+ 
+ • The increase in transmission costs at CL&P was due primarily to an increase in costs billed by ISO-NE that support regional grid investments and an increase in Local Network Service charges, which reflect the cost of transmission service provided by Eversource over our local transmission network. These increases were partially offset by a decrease in the retail transmission cost deferral, which reflects the actual costs of transmission service compared to estimated amounts billed to customers. 
+ • The increase in transmission costs at NSTAR Electric was due primarily to an increase in costs billed by ISO-NE and an increase in the retail transmission cost deferral. These increases were partially offset by a decrease in Local Network Service charges. 
+ • The increase in transmission costs at PSNH was due primarily to an increase in costs billed by ISO-NE and an increase in Local Network Service charges. These increases were partially offset by a decrease in the retail transmission cost deferral. 
+ 
+ Operations and Maintenance expense includes tracked costs and costs that are part of base distribution rates with changes impacting earnings (non-tracked costs). The variance in Operations and Maintenance expense in 2025, as compared to 2024, is due primarily to the following: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (Millions of Dollars) 
+ CL&P 
+ 
+ NSTAR Electric 
+ 
+ PSNH 
+ 
+ Base Electric Distribution (Non-Tracked Costs): 
+ 
+ 
+ 
+ 
+ 
+ 
+ Employee-related expenses (including labor and benefits) 
+ $ 
+ 17.6 
+ 
+ 
+ $ 
+ 0.3 
+ 
+ 
+ $ 
+ (2.6) 
+ 
+ 
+ Storm costs 
+ 7.8 
+ 
+ 
+ 2.6 
+ 
+ 
+ 1.8 
+ 
+ 
+ Shared corporate costs (including IT system depreciation at Eversource Service) 
+ 2.6 
+ 
+ 
+ 8.6 
+ 
+ 
+ 1.5 
+ 
+ 
+ Uncollectible expense 
+ 0.2 
+ 
+ 
+ 8.3 
+ 
+ 
+ 0.9 
+ 
+ 
+ General corporate costs (including vendor services in corporate areas, insurance, fees and assessments) 
+ (6.8) 
+ 
+ 
+ 11.4 
+ 
+ 
+ (4.7) 
+ 
+ 
+ Vegetation management 
+ (3.7) 
+ 
+ 
+ (5.9) 
+ 
+ 
+ 10.1 
+ 
+ 
+ Operations-related expenses (including vendor services, vehicles and materials) 
+ (3.0) 
+ 
+ 
+ (4.6) 
+ 
+ 
+ (0.2) 
+ 
+ 
+ Total Base Electric Distribution (Non-Tracked Costs) 
+ 14.7 
+ 
+ 
+ 20.7 
+ 
+ 
+ 6.8 
+ 
+ 
+ Tracked Costs: 
+ 
+ 
+ 
+ 
+ 
+ 
+ Customer credits at NSTAR Electric as a result of the joint settlement agreement approved in Massachusetts (earnings charge) 
+ — 
+ 
+ 
+ 17.5 
+ 
+ 
+ — 
+ 
+ 
+ Other tracked - Increase due primarily to higher transmission expense, and higher pension tracking mechanism at NSTAR Electric, partially offset by a decrease in grid modernization mechanism at NSTAR Electric and lower uncollectible expenses 
+ 19.0 
+ 
+ 
+ 19.1 
+ 
+ 
+ 4.1 
+ 
+ 
+ Total Tracked Costs 
+ 19.0 
+ 
+ 
+ 36.6 
+ 
+ 
+ 4.1 
+ 
+ 
+ Total Operations and Maintenance 
+ $ 
+ 33.7 
+ 
+ 
+ $ 
+ 57.3 
+ 
+ 
+ $ 
+ 10.9 
+ 
+ 
+ 
+ Depreciation expense increased for CL&P, NSTAR Electric and PSNH due to higher net plant in service balances. 
+ 
+ Amortization of Regulatory Assets, Net expense includes the deferral of energy-related costs and other costs that are included in certain regulatory commission-approved cost tracking mechanisms. This deferral adjusts expense to match the corresponding revenues compared to the actual costs incurred. These costs are recovered from customers in rates and have no impact on earnings. Amortization expense also includes the amortization of certain costs as those costs are collected in rates. The variance in Amortization of Regulatory Assets, Net is due primarily to the following: 
+ 
+ • The variance at CL&P was due primarily to the deferral adjustment of energy-related and other tracked costs that are included in the non-bypassable component of the FMCC mechanism and the SBC mechanism, which can fluctuate from period to period based on the 
+ 
+ 
+ 57 
+ 
+ 
+ timing of costs incurred and related rate changes to recover these costs. The CL&P non-bypassable FMCC retail rates in effect were higher than those in the prior period and the net Millstone and Seabrook contract cash flows were higher in 2025 as compared to 2024. These higher collections within the non-bypassable FMCC resulted in a corresponding increase to amortization expense of $428.2 million for the CL&P non-bypassable FMCC deferral adjustment. 
+ • The variance at NSTAR Electric was due primarily to the deferral adjustment of costs included in the solar facilities and advanced metering infrastructure regulatory mechanisms, partially offset by the deferral adjustment of energy-related and other tracked costs that are included in the grid modernization regulatory mechanism and higher amortization of storm costs recovered in rates. 
+ • The variance at PSNH was due to the deferral adjustment of energy-related and other tracked costs that are included in the stranded cost recovery mechanism as well as the impact of the PSNH rate case decision. The rate case decision allowed for the recoupment of temporary rates and the allowed recovery of other deferrals resulting in a pre-tax benefit to earnings of $15.6 million, the majority of which was recorded as a reduction to amortization expense on the statement of income in the third quarter of 2025. 
+ 
+ Energy Efficiency Programs expense includes costs of various state energy policy initiatives and expanded energy efficiency programs that are recovered from customers in rates, most of which have no impact on earnings. Energy Efficiency Programs expense includes a deferral adjustment that reflects the actual costs of energy efficiency programs compared to the amounts billed to customers, which can fluctuate from period to period based on the timing of costs incurred and related rate changes to recover these costs. The variance in Energy Efficiency Programs expense is due primarily to the following: 
+ 
+ • The decrease at CL&P was due to lower program spending, partially offset by the deferral adjustment that matched costs to the corresponding revenues recorded. 
+ • The increase at NSTAR Electric was due to the deferral adjustment that matched costs to the corresponding revenues recorded, partially offset by lower program spending. 
+ • The increase at PSNH was due to higher program spending, partially offset by the deferral adjustment that matched costs to the corresponding revenues recorded. 
+ 
+ Taxes Other Than Income Taxes - the variance is due primarily to the following: 
+ 
+ • The increase at CL&P was due to higher Connecticut gross earnings taxes and higher property taxes as a result of higher utility plant balances. 
+ • The increase at NSTAR Electric was due to higher property taxes as a result of higher utility plant balances and higher mill rates. 
+ • The increase at PSNH was due to higher property taxes as a result of higher utility plant balances. 
+ 
+ Interest Expense - the variance is due primarily to the following: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (Millions of Dollars) 
+ CL&P 
+ 
+ NSTAR Electric 
+ 
+ PSNH 
+ 
+ Long-term debt 
+ $ 
+ 20.8 
+ 
+ 
+ $ 
+ 48.7 
+ 
+ 
+ $ 
+ 10.9 
+ 
+ 
+ Capitalized AFUDC related to debt funds 
+ (6.4) 
+ 
+ 
+ (1.7) 
+ 
+ 
+ 3.2 
+ 
+ 
+ Amortization of debt discounts and premiums, net 
+ 1.0 
+ 
+ 
+ 1.3 
+ 
+ 
+ 0.4 
+ 
+ 
+ Regulatory deferrals 
+ (20.9) 
+ 
+ 
+ (9.9) 
+ 
+ 
+ 3.4 
+ 
+ 
+ Short-term notes payable 
+ (13.8) 
+ 
+ 
+ (5.2) 
+ 
+ 
+ (4.0) 
+ 
+ 
+ RRBs 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ (1.5) 
+ 
+ 
+ Other 
+ 0.2 
+ 
+ 
+ 0.2 
+ 
+ 
+ (0.2) 
+ 
+ 
+ Total Interest Expense 
+ $ 
+ (19.1) 
+ 
+ 
+ $ 
+ 33.4 
+ 
+ 
+ $ 
+ 12.2 
+ 
+ 
+ Other Income, Net - the variance is due primarily to the following: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (Millions of Dollars) 
+ CL&P 
+ 
+ NSTAR Electric 
+ 
+ PSNH 
+ 
+ Pension, SERP and PBOP Non-Service Income Components, Net of Deferred Portion 
+ $ 
+ 8.0 
+ 
+ 
+ $ 
+ 8.6 
+ 
+ 
+ $ 
+ 2.7 
+ 
+ 
+ Interest Income (primarily on regulatory deferrals) 
+ (15.4) 
+ 
+ 
+ (4.3) 
+ 
+ 
+ 3.4 
+ 
+ 
+ Capitalized AFUDC related to equity funds 
+ (10.2) 
+ 
+ 
+ (0.4) 
+ 
+ 
+ 6.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Investment (Loss)/Income 
+ (0.3) 
+ 
+ 
+ (3.5) 
+ 
+ 
+ (0.2) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other 
+ — 
+ 
+ 
+ 0.8 
+ 
+ 
+ — 
+ 
+ 
+ Total Other Income, Net 
+ $ 
+ (17.9) 
+ 
+ 
+ $ 
+ 1.2 
+ 
+ 
+ $ 
+ 11.9 
+ 
+ 
+ Income Tax Expense - the variance is due primarily to the following: 
+ 
+ • The decrease at CL&P was due primarily to a decrease in reserves ($17.6 million), an increase in amortization of EDIT ($7.8 million), a decrease in return to provision adjustments ($2.5 million), and a decrease in items that impact our tax rate as a result of regulatory treatment (flow-through items) and permanent differences ($3.6 million), partially offset by higher pre-tax earnings ($2.4 million), higher state taxes ($1.6 million) and higher share-based payment tax deficiency ($0.2 million). 
+ • The decrease at NSTAR Electric was due primarily to lower pre-tax earnings ($1.4 million) and lower state taxes ($0.1 million), partially offset by higher share-based payment tax deficiency ($0.3 million), and an increase in items that impact our tax rate as a result of regulatory treatment (flow-through items) and permanent differences ($0.6 million). 
+ 
+ 
+ 58 
+ 
+ 
+ • The increase at PSNH was due primarily to higher pre-tax earnings ($16.0 million), higher state taxes ($4.7 million), and an increase in items that impact our tax rate as a result of regulatory treatment (flow-through items) and permanent differences ($2.8 million), partially offset by an increase in amortization of EDIT ($1.6 million). 
+ 
+ 
+ EARNINGS SUMMARY 
+ 
+ CL&P's earnings increased $38.7 million in 2025, as compared to 2024, due primarily to higher revenues from its capital tracking mechanism due to increased electric system improvements, a lower effective tax rate, and an increase in transmission earnings driven primarily by a higher transmission rate base and lower interest expense. The earnings increase was partially offset by lower net interest income on regulatory deferrals, higher depreciation expense, higher operations and maintenance expense, and higher property tax expense. 
+ 
+ NSTAR Electric's earnings decreased $5.8 million in 2025, as compared to 2024, due primarily to higher interest expense on long-term debt, higher property tax expense, higher operations and maintenance expense, a charge to earnings for customer credits as a result of the joint settlement agreement approved in Massachusetts on December 1, 2025, and lower net interest income on regulatory deferrals. The earnings decrease was partially offset by higher revenues as a result of the base distribution rate increase effective January 1, 2025, an increase in transmission earnings driven primarily by a higher transmission rate base and lower interest expense, and higher earnings from its AMI tracking mechanism. 
+ 
+ PSNH's earnings increased $54.5 million in 2025, as compared to 2024, due primarily to higher revenues as a result of the base distribution rate increases effective August 1, 2024 and August 1, 2025, an increase in transmission earnings driven primarily by a higher transmission rate base and lower interest expense, and the impact of the rate case decision in July 2025. The earnings increase was partially offset by higher operations and maintenance expense, higher depreciation expense, and a higher effective tax rate. 
+ 
+ LIQUIDITY 
+ 
+ Cash Flows: CL&P had cash flows provided by operating activities of $1.68 billion in 2025, as compared to $683.4 million in 2024. The increase in operating cash flows was due primarily to an improvement in regulatory recoveries driven primarily by the timing of collections for the non-bypassable FMCC and SBC regulatory tracking mechanisms. The CL&P non-bypassable FMCC retail rates in effect for 2025 were higher than those set in 2024 and the net Millstone and Seabrook contract cash flows were higher in 2025 as compared to 2024. These higher collections within the non-bypassable FMCC resulted in an improvement to operating cash flows of $428.2 million for the year. Higher collections from the SBC mechanism resulted in a cash flow improvement of $113.3 million. The impacts of regulatory collections are included in both Regulatory Recoveries and Amortization of Regulatory Assets/(Liabilities) on the statements of cash flows. Additionally, CL&P received general obligation bond proceeds from the State of Connecticut for the reimbursement of hardship costs and for electric vehicle charging program costs of $107.8 million in 2025, which are reflected in Regulatory Recoveries. Operating cash flows were also favorably impacted by the timing of cash collections on our accounts receivable, a $100.2 million decrease in cash payments to vendors for storm costs, the timing of cash payments made on our accounts payable, and the timing of other working capital items. These favorable impacts were partially offset by a decrease of $183.1 million in operating cash flows due to income tax payments made in 2025 compared to income tax refunds received in 2024. 
+ 
+ NSTAR Electric had cash flows provided by operating activities of $980.5 million in 2025, as compared to $687.6 million in 2024. The increase in operating cash flows was due primarily to an improvement in regulatory recoveries driven primarily by the timing of collections for energy efficiency costs, energy supply costs, retail and wholesale transmission costs, and other regulatory tracking mechanisms, a decrease of $119.6 million in cash payments to vendors for storm costs, the timing of cash payments made on our accounts payable, and the timing of other working capital items. The impacts of regulatory collections are included in both Regulatory Recoveries and Amortization of Regulatory Assets on the statements of cash flows. These favorable impacts were partially offset by an increase in capitalized implementation costs for cloud-based service arrangements, the timing of cash collections on our accounts receivable, a $46.1 million increase in income tax payments, and a $7.4 million increase in cost of removal expenditures. 
+ 
+ PSNH had cash flows provided by operating activities of $483.3 million in 2025, as compared to $321.3 million in 2024. The increase in operating cash flows was due primarily to a decrease of $101.7 million in cash payments to vendors for storm costs, an improvement in regulatory recoveries driven by the timing of collections for wholesale and retail transmission costs and other regulatory tracking mechanisms, a $15.5 million decrease in cost of removal expenditures, the timing of cash payments made on our accounts payable, and the timing of other working capital items. The impacts of regulatory collections are included in both Regulatory Recoveries and Amortization of Regulatory Assets/(Liabilities) on the statements of cash flows. These favorable impacts were partially offset by a decrease of $119.0 million in operating cash flows due to income tax payments made in 2025 compared to income tax refunds received in 2024 and the timing of cash collections on our accounts receivable. 
+ 
+ For further information on CL&P's, NSTAR Electric's and PSNH's liquidity and capital resources, see "Liquidity" and "Business Development and Capital Expenditures" included in this Management's Discussion and Analysis of Financial Condition and Results of Operations . 
+ 
+ 
+ 
+ 59 
+ 
+ 
+ 

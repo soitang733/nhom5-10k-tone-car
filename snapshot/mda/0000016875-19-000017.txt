@@ -1,0 +1,10974 @@
+ ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+ 
+ 
+ 
+ INDEX TO MANAGEMENT'S DISCUSSION AND ANALYSIS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Page 
+ 
+ 
+ Executive Summary 
+ 
+ 32 
+ 
+ 
+ 2019 Outlook 
+ 
+ 32 
+ 
+ 
+ Performance Indicators 
+ 
+ 33 
+ 
+ 
+ Results of Operations 
+ 
+ 35 
+ 
+ 
+ Impact of Foreign Exchange on Earnings 
+ 
+ 38 
+ 
+ 
+ Impact of Fuel Price on Earnings 
+ 
+ 39 
+ 
+ 
+ Impact of Share Price on Earnings 
+ 
+ 39 
+ 
+ 
+ Operating Revenues 
+ 
+ 40 
+ 
+ 
+ Operating Expenses 
+ 
+ 45 
+ 
+ 
+ Other Income Statement Items 
+ 
+ 47 
+ 
+ 
+ Liquidity and Capital Resources 
+ 
+ 48 
+ 
+ 
+ Non-GAAP Measures 
+ 
+ 51 
+ 
+ 
+ Off-Balance Sheet Arrangements 
+ 
+ 58 
+ 
+ 
+ Critical Accounting Estimates 
+ 
+ 59 
+ 
+ 
+ Forward-Looking Statements 
+ 
+ 63 
+ 
+ 
+ 
+ 
+ 
+ 
+ CP 2018 ANNUAL REPORT / 32 
+ 
+ The following discussion and analysis should be read in conjunction with the Company’s Consolidated Financial Statements and the related notes in ITEM 8. Financial Statements and Supplementary Data, and other information in this report. Except where otherwise indicated, all financial information reflected herein is expressed in Canadian dollars. 
+ 
+ In the first quarter of 2018, the comparative figures contained in or derived from the Consolidated Statement of Income were restated to reflect the adoption of the new Accounting Standards Update ("ASU") ASU 2017-07 for presentation of Other components of net periodic benefit recovery. These changes in presentation do not result in any changes to net income or earnings per share. For further information, refer to ITEM 8. Financial Statements and Supplemental Data, Note 2 Accounting changes. 
+ 
+ Executive Summary 
+ 2018 Results 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Financial performance – In 2018 , CP reported Diluted EPS of $13.61 , a 17% decrease from $16.44 in 2017. The Adjusted diluted EPS increased to $14.51 , a 27% improvement compared to Adjusted diluted EPS of $11.39 in 2017 . CP’s commitment to service and operational efficiency produced an Operating ratio and Adjusted operating ratio of 61.3% . Adjusted diluted EPS and Adjusted operating ratio are defined and reconciled in Non-GAAP Measures and discussed further in Results of Operations of this ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations. 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Total revenues – CP’s total revenues increased by 12% to $7,316 million in 2018 from $6,554 million in 2017 , driven primarily by an 8% volume growth as measured in revenue ton-miles ("RTM"). 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Operating performance – CP's average train weight increased by 3% to 9,100 tons and fuel efficiency improved by 3% , primarily as a result of improvements in operating plan efficiency. Average train speed decreased by 5% to 21.5 miles per hour and average dwell time increase d by 3% to 6.8 hours in 2018 primarily from network disruptions from labour negotiations in the second quarter and harsher weather conditions in the first quarter. These metrics are discussed further in Performance Indicators of this ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of Operations. 
+ 
+ The following table compares 2018 outlook to actual results: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Revenue growth 
+ 
+ Adjusted diluted EPS (1) 
+ 
+ Capital expenditures 
+ 
+ 
+ Outlook 
+ 
+ Mid-single digits 
+ 
+ Initially set as low double-digits Adjusted diluted EPS growth from full-year 2017 Adjusted diluted EPS of $11.39. 
+ 
+ Revised at the end of the third quarter to grow in excess of 20% from the full-year 2017 Adjusted diluted EPS. 
+ 
+ Approximately $1.35 billion to $1.50 billion 
+ 
+ Revised at the end of the third quarter to $1.60 billion. 
+ 
+ 
+ Actual outcomes 
+ 
+ Revenue growth of 12% to $7,316 million 
+ 
+ Adjusted diluted EPS growth of 27% to $14.51 
+ 
+ $1.55 billion 
+ ( 1) Adjusted diluted EPS is defined and reconciled in Non-GAAP Measures of this ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of Operations. Due to reasons similar to those described in the 2019 Outlook section below, CP had not calculated an outlook for Diluted EPS in 2018. 
+ 
+ During 2018 , CP exceeded its revenue growth primarily due to sustainable volume growth, mainly attributable to increased shipments of Energy, chemicals and plastics, Intermodal, and Potash, partially offset by decreased shipments of U.S. grain. CP also exceeded its Adjusted diluted EPS outlook primarily due to volume growth and continued cost control. Capital expenditures were $1.55 billion spent primarily on network improvements, growth initiatives and renewal of depleted assets. 
+ 
+ 
+ 2019 Outlook 
+ With a 2019 plan that encompasses profitable sustainable growth, CP expects RTM growth to be in the mid-single digit and Adjusted diluted EPS growth to be in the double-digits. CP’s expectations for Adjusted diluted EPS growth in 2019 are based on Adjusted diluted EPS of $14.51 in 2018. CP assumes the Canadian-to-U.S. dollar exchange rate will be approximately $1.30 and expects an effective tax rate in the range of 25.5 to 26 percent. CP estimates other components of net periodic benefit recovery to increase by $11 million versus 2018, and no material land sales. As CP continues to invest in service, productivity and safety, the Company plans to invest approximately $1.6 billion in capital programs in 2019. Capital programs are defined and discussed further in Liquidity and Capital Resources of this ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations. 
+ 
+ Adjusted diluted EPS is defined and discussed further in Non-GAAP Measures and in Forward-Looking Statements of this ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations. Although CP has provided a forward-looking non-GAAP measure (Adjusted diluted EPS), it is not practicable to provide a reconciliation to a forward-looking reported Diluted EPS, the most comparable GAAP measure, due to unknown variables and uncertainty related to future results. These unknown variables may include unpredictable transactions of significant value. In past years, CP has recognized significant asset impairment charges and management transition recoveries or costs related to senior executives. These or other similar, large unforeseen transactions affect Diluted EPS but may be excluded from CP’s Adjusted diluted EPS. Additionally, the Canadian-to-U.S. dollar exchange rate is unpredictable and can have a significant impact on CP’s reported results but may be excluded from CP’s Adjusted diluted EPS. In particular, CP excludes the foreign exchange ("FX") impact 
+ 
+ 
+ 
+ 
+ 33 / CP 2018 ANNUAL REPORT 
+ 
+ 
+ 
+ of translating the Company’s U.S. dollar denominated long-term debt from Adjusted diluted EPS. Please see Forward-Looking Statements of this ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations for further discussion. 
+ 
+ 
+ Performance Indicators 
+ The following table lists the key measures of the Company’s operating performance: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ % Change 
+ 
+ 
+ For the year ended December 31 
+ 
+ 2018 
+ 
+ 
+ 
+ 2017 (1) 
+ 
+ 
+ 
+ 2016 (1) 
+ 
+ 
+ 
+ 2018 vs. 2017 
+ 
+ 2017 vs. 2016 
+ 
+ 
+ Operations Performance 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Gross ton-miles (“GTMs”) (millions) 
+ 
+ 275,362 
+ 
+ 
+ 
+ 252,195 
+ 
+ 
+ 
+ 242,694 
+ 
+ 
+ 
+ 9 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ 
+ Train miles (thousands) 
+ 
+ 32,312 
+ 
+ 
+ 
+ 30,632 
+ 
+ 
+ 
+ 30,373 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 
+ Average train weight – excluding local traffic (tons) 
+ 
+ 9,100 
+ 
+ 
+ 
+ 8,806 
+ 
+ 
+ 
+ 8,614 
+ 
+ 
+ 
+ 3 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ 
+ Average train length – excluding local traffic (feet) 
+ 
+ 7,313 
+ 
+ 
+ 
+ 7,214 
+ 
+ 
+ 
+ 7,217 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Average terminal dwell (hours) 
+ 
+ 6.8 
+ 
+ 
+ 
+ 6.6 
+ 
+ 
+ 
+ 6.7 
+ 
+ 
+ 
+ 3 
+ 
+ 
+ 
+ (1 
+ 
+ ) 
+ 
+ 
+ Average train speed (miles per hour, or "mph") 
+ 
+ 21.5 
+ 
+ 
+ 
+ 22.6 
+ 
+ 
+ 
+ 23.5 
+ 
+ 
+ 
+ (5 
+ 
+ ) 
+ 
+ (4 
+ 
+ ) 
+ 
+ 
+ Fuel efficiency (U.S. gallons of locomotive fuel consumed/1,000 GTMs) 
+ 
+ 0.953 
+ 
+ 
+ 
+ 0.980 
+ 
+ 
+ 
+ 0.980 
+ 
+ 
+ 
+ (3 
+ 
+ ) 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Total employees (average) 
+ 
+ 12,695 
+ 
+ 
+ 
+ 12,034 
+ 
+ 
+ 
+ 12,082 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Total employees (end of period) 
+ 
+ 12,770 
+ 
+ 
+ 
+ 12,163 
+ 
+ 
+ 
+ 11,653 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ 
+ Workforce (end of period) 
+ 
+ 12,793 
+ 
+ 
+ 
+ 12,242 
+ 
+ 
+ 
+ 11,698 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ 
+ Safety Indicators 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ FRA personal injuries per 200,000 employee-hours 
+ 
+ 1.47 
+ 
+ 
+ 
+ 1.65 
+ 
+ 
+ 
+ 1.67 
+ 
+ 
+ 
+ (11 
+ 
+ ) 
+ 
+ (1 
+ 
+ ) 
+ 
+ 
+ FRA train accidents per million train-miles 
+ 
+ 1.10 
+ 
+ 
+ 
+ 0.99 
+ 
+ 
+ 
+ 1.12 
+ 
+ 
+ 
+ 11 
+ 
+ 
+ 
+ (12 
+ 
+ ) 
+ (1) Certain figures have been updated to reflect new information or have been revised to conform with current presentation. 
+ 
+ Operations Performance 
+ These key measures of operating performance reflect how effective CP's management is at controlling costs and executing the Company's operating plan and strategy. CP continues to drive further productivity improvements in its operations, allowing the Company to deliver superior service and grow its business at low incremental cost. 
+ 
+ A GTM is the movement of one ton of train weight over one mile. GTMs are calculated by multiplying total train weight by the distance the train moved. Total train weight comprises of the weight of the freight cars, their contents, and any inactive locomotives. An increase in GTMs indicates additional workload. GTMs for 2018 were 275,362 million , a 9% increase compared with 252,195 million in 2017 . This increase was primarily driven by increased volumes of Energy, chemicals and plastics, Potash, and Intermodal, partially offset by decreased shipments of U.S. grain. 
+ 
+ GTMs in 2017 increase d by 4% compared with 242,694 million in 2016 . This increase was primarily driven by increased volumes of Energy, chemicals and plastics, frac sand, and Potash. This increase was partially offset by decreased volumes of international intermodal and Automotive. 
+ 
+ Train miles are defined as the sum of the distance moved by all trains operated on the network. Train miles for 2018 were 32,312 thousands, an increase of 5% compared with 30,632 thousands in 2017 . This reflects the impact of higher volumes partially offset by continuous improvements in train weights as evident in the relative comparison to GTMs, which grew by 9% in 2018. 
+ 
+ Train miles in 2017 increase d by 1% compared with 30,373 thousands in 2016 . This reflects the impact of higher volumes partially offset by continuous improvements in train weights as evident in the relative comparison to GTMs, which grew by 4% in 2017. 
+ 
+ The average train weight is defined as the average gross weight of CP trains, both loaded and empty. This excludes trains in short-haul service, work trains used to move CP’s track equipment and materials, and the haulage of other railways’ trains on CP’s network. Average train weight of 9,100 tons in 2018 increase d by 294 tons, or 3% , compared with 8,806 tons in 2017 . This increase was due to continuous improvements in operating plan efficiency, as well as higher volumes of heavier commodities, such as crude and Potash, compared to the same period in 2017. 
+ 
+ Average train weight increase d in 2017 by 192 tons, or 2% , from 8,614 tons in 2016 . This increase was due to continuous improvements in operating plan efficiency, as well as higher frac sand, Potash, and crude volumes compared to the same period in 2016. 
+ 
+ 
+ 
+ 
+ CP 2018 ANNUAL REPORT / 34 
+ 
+ 
+ The average train length is the sum of each car multiplied by the distance travelled, divided by train miles. Local trains are excluded from this measure. Average train length of 7,313 feet in 2018 increase d by 99 feet, or 1% , compared with 7,214 feet in 2017 . This was a result of improvements in operating plan efficiency and increased Intermodal and Potash volumes, which move in longer trains. 
+ 
+ Average train length remained relatively constant between 2017 and 2016 . This is a result of moving proportionately more shorter but heavier frac sand and crude trains compared to the same period in 2016, offset by improvements in operating plan efficiency. 
+ 
+ The average terminal dwell is defined as the average time a freight car resides within terminal boundaries expressed in hours. The timing starts with a train arriving at the terminal, a customer releasing the car to the Company, or a car arriving at interchange from another railway. The timing ends when the train leaves, a customer receives the car from CP, or the freight car is transferred to another railway. Freight cars are excluded if they are being stored at the terminal or used in track repairs. Average terminal dwell increase d by 3% in 2018 from 6.6 hours in 2017 to 6.8 hours in 2018 . In 2018, this unfavourable increase was primarily due to: 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ network disruptions from labour negotiations in the second quarter of 2018; 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ harsher weather conditions and increased network disruptions in the first quarter of 2018; and 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ higher volumes in the second half of the year and increased delays from accelerated track and roadway capital programs in the third quarter of 2018. 
+ 
+ Average terminal dwell in 2017 decreased by 1% from 6.7 hours in 2016. In 2017, this favourable decrease was primarily due to continued improvements in yard operating performance and focus and visibility provided through improved trip planning. 
+ 
+ The average train speed is defined as a measure of the line-haul movement from origin to destination including terminal dwell hours. It is calculated by dividing the total train miles travelled by the total train hours operated. This calculation does not include delay time related to customer or foreign railways and excludes the time and distance travelled by: i) trains used in or around CP’s yards; ii) passenger trains; and iii) trains used for repairing track. Average train speed was 21.5 mph in 2018 , a decrease of 5% , from 22.6 mph in 2017 . This decrease was primarily due to: 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ network disruptions from labour negotiations in the second quarter of 2018; 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ harsher weather conditions and increased network disruptions in the first quarter of 2018; and 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ higher volumes and increased delays from accelerated track and roadway capital programs in the third quarter of 2018. 
+ 
+ This decrease was partially offset by the completion of roadway capital programs, resulting in improved network fluidity in the fourth quarter of 2018. 
+ 
+ Average train speed in 2017 was 22.6 mph, a decrease of 4% , from 23.5 mph in 2016 . This decrease was primarily due to: 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ increased volumes of heavier and slower frac sand and Potash trains; 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ decreased volumes of lighter and faster Intermodal trains; and 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ harsher weather conditions in the first quarter of 2017. 
+ 
+ Fuel efficiency is defined as U.S. gallons of locomotive fuel consumed per 1,000 GTMs. Fuel efficiency for 2018 of 0.953 U.S. gallons/1,000 GTMs improve d by 3% compared to 2017 . Fuel efficiency was flat in 2017 compared to 2016 . The improvement in fuel efficiency in 2018 compared to 2017 was primarily due to improved productivity from running longer trains. 
+ 
+ Total Employees and Workforce 
+ An employee is defined by the Company as an individual currently engaged in full-time, part-time or seasonal employment with CP. The average number of total employees for 2018 increase d by 661 compared with 2017 . The increase was primarily due to growth in volumes. The total number of employees as at December 31, 2018 was 12,770 , an increase of 607 , or 5% , compared to 12,163 as at December 31, 2017 , which is in line with the current and expected growth in volumes. 
+ 
+ The average number of total employees for 2017 decrease d by 48 , compared to 2016 . This decrease was primarily due to strong operational performance, natural attrition and efficient resource management planning. The total number of employees as at December 31, 2017 was 12,163 , an increase of 510 , or 4% , compared to 11,653 as at December 31, 2016 , which is in line with the current and expected growth in volumes. 
+ 
+ The workforce is defined as total employees plus contractors and consultants. The total workforce as at December 31, 2018 was 12,793 , an increase of 551 , or 5% , compared to 12,242 as at December 31, 2017 . This increase was in line with the current and expected growth in GTMs and RTMs. 
+ 
+ The workforce as at December 31, 2017 was 12,242 , an increase of 544 , or 5% , compared to 11,698 as at December 31, 2016 . This increase is in line with the current and expected growth in GTMs and RTMs. 
+ 
+ Safety Indicators 
+ Safety is a key priority and core strategy for CP’s management, employees and Board of Directors. The Company’s two main safety indicators – personal injuries and train accidents – follow strict U.S. Federal Railroad Administration ("FRA") reporting guidelines. 
+ 
+ 
+ 
+ 
+ 
+ 35 / CP 2018 ANNUAL REPORT 
+ 
+ 
+ 
+ The FRA personal injuries per 200,000 employee-hours frequency is the number of personal injuries, multiplied by 200,000 and divided by total employee hours. Personal injuries are defined as injuries that require employees to lose time away from work, modify their normal duties or obtain medical treatment beyond minor first aid. FRA employee-hours are the total hours worked, excluding vacation and sick time, by all employees, excluding contractors. The FRA personal injuries per 200,000 employee-hours frequency for CP was 1.47 in 2018 , 1.65 in 2017 and 1.67 in 2016 . 
+ 
+ The FRA train accidents per million train-miles frequency is the number of train accidents, multiplied by 1,000,000 and divided by total train miles. Train accidents included in this metric meet or exceed the FRA damage reporting threshold of U.S. $10,700 in 2018 and 2017 and U.S. $10,500 in damage for 2016. The FRA train accidents per million train-miles frequency for CP in 2018 was 1.10 , compared with 0.99 in 2017 and 1.12 in 2016 . 
+ 
+ 
+ 
+ Results of Operations 
+ Income 
+ 
+ * Comparative years' figures have been restated for the retrospective adoption of Accounting Standards Update ("ASU") 2017-07, and the impact on the 2017 and 2016 comparatives are discussed further in ITEM 8. Financial Statements and Supplementary Data, Note 2 Accounting changes. The restatements of 2015 and 2014 comparatives resulted in a decrease in Operating income of $70 million and $137 million for the years ended December 31, 2015 and 2014, respectively. 
+ ** Adjusted operating income is defined and reconciled in Non-GAAP Measures of this ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations 
+ 
+ Operating income was $ 2,831 million in 2018 , an increase of $ 312 million , or 12% , from $ 2,519 million in 2017 . This increase was primarily due to higher volumes and the efficiencies generated from improved operating performance and asset utilization. 
+ 
+ This increase was partially offset by: 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ cost inflation; 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ management transition recoveries of $51 million associated with Mr. E. Hunter Harrison's retirement as CEO of CP in 2017; and 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ higher depreciation and amortization driven primarily from a higher asset base as a result of higher capital program spending in 2018 . 
+ 
+ Operating income was $ 2,519 million in 2017 , an increase of $ 108 million , or 4% , from $2,411 million in 2016 . This increase was primarily due to: 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ higher volumes; 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ management transition recoveries of $51 million associated with Mr. E. Hunter Harrison's retirement as CEO of CP; and 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ the efficiencies generated from improved operating performance and asset utilization. 
+ 
+ This increase was partially offset by: 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ lower gains on land sales of $91 million, following the sales of CP's Arbutus Corridor and Obico rail yard in 2016; 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ the unfavourable impact of the change in FX of $32 million ; 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ the impact of wage and benefit inflation; and 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ higher depreciation and amortization. 
+ 
+ Adjusted operating income, defined and reconciled in Non-GAAP Measures of this ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations, was $2,831 million in 2018 , an increase of $ 363 million, or 15% , from $2,468 million in 2017 . Adjusted operating income was $2,468 million in 2017 , an increase of $57 million , or 2% , from $2,411 million in 2016 . These increase s were primarily due to the same factors discussed above for the increase in Operating income, except that Adjusted operating income in 2017 excludes the management transition recovery of $51 million. 
+ 
+ 
+ 
+ 
+ CP 2018 ANNUAL REPORT / 36 
+ 
+ 
+ *Adjusted income is defined and reconciled in Non-GAAP Measures of this ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations. 
+ 
+ Net income was $1,951 million in 2018 , a decrease of $ 454 million , or 19% , from $2,405 million in 2017 . This decrease was primarily due to lower income tax recoveries from tax rate changes in 2018 compared to 2017 and the unfavourable impact of the change in FX translation on U.S. dollar-denominated debt. 
+ 
+ This decrease was partially offset by higher Operating income and higher Other components of net periodic benefit recovery . 
+ 
+ Net income was $2,405 million in 2017 , an increase of $806 million , or 50% , from $1,599 million in 2016 . This increase was primarily due to: 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ income tax recoveries of $541 million from tax rate changes; 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ higher Operating income; and 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ the favourable impact of FX translation on U.S. dollar-denominated debt. 
+ 
+ This increase was partially offset by higher Income tax expense associated with higher pre-tax earnings. 
+ 
+ Adjusted income, defined and reconciled in Non-GAAP Measures of this ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations, was $2,080 million in 2018 , an increase of $414 million , or 25% , from $1,666 million in 2017 . 
+ This increase was primarily due to higher Adjusted operating income and higher Other components of net periodic benefit recovery . 
+ 
+ This increase was partially offset by higher income tax expense associated with higher pre-tax earnings. 
+ 
+ Adjusted income was $1,666 million in 2017 , an increase of $ 117 million , or 8% , from $1,549 million in 2016 . This increase was primarily due to the increase in Adjusted operating income, partially offset by higher income tax expense associated with higher pre-tax earnings. 
+ 
+ 
+ 
+ 
+ 
+ 37 / CP 2018 ANNUAL REPORT 
+ 
+ 
+ 
+ Diluted Earnings per Share 
+ 
+ *Adjusted diluted EPS is defined and reconciled in Non-GAAP Measures of this ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations. 
+ 
+ Diluted EPS was $13.61 in 2018 , a decrease of $ 2.83 , or 17% , from $16.44 in 2017 . This decrease was primarily due to lower Net income, partially offset by the lower average number of outstanding Common Shares due to the Company's share repurchase program. 
+ 
+ Diluted EPS was $16.44 in 2017 , an increase of $5.81 , or 55% , from $10.63 in 2016 . This increase was primarily due to higher Net income and the lower average number of outstanding Common Shares due to the Company's share repurchase program. 
+ 
+ Adjusted diluted EPS, defined and reconciled in Non-GAAP Measures of this ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations, was $14.51 in 2018 , an increase of $ 3.12 , or 27% , from $11.39 in 2017 . Adjusted diluted EPS was $11.39 in 2017 , an increase of $ 1.10 , or 11% , from $10.29 in 2016 . These increase s were primarily due to higher Adjusted income and the lower average number of outstanding Common Shares due to the Company's share repurchase program. 
+ 
+ Operating Ratio 
+ 
+ * Comparative years' figures have been restated for the retrospective adoption of ASU 2017-07, and the impact on the 2017 and 2016 comparatives are discussed further in ITEM 8. Financial Statements and Supplementary Data, Note 2 Accounting changes. The restatements of 2015 and 2014 comparatives resulted in a decrease in Operating income of $70 million and $137 million for the years ended December 31, 2015 and 2014, respectively. 
+ ** Adjusted operating ratio is defined and reconciled in Non-GAAP Measures of this ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations. 
+ 
+ 
+ 
+ 
+ 
+ CP 2018 ANNUAL REPORT / 38 
+ 
+ The Operating ratio provides the percentage of revenues used to operate the railway. A lower percentage normally indicates higher efficiency in the operation of the railway. The Company’s Operating ratio was 61.3% in 2018 , a 30 basis point improvement from 61.6% in 2017 . This improvement was primarily due to higher volumes and efficiencies generated from improved operating performance and asset utilization. 
+ 
+ This improvement was partially offset by: 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ the impact of higher fuel prices; 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ cost inflation; and 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ management transition recoveries of $51 million associated with Mr. E. Hunter Harrison's retirement as CEO of CP in 2017. 
+ 
+ The Company’s Operating ratio was 61.6% in 2017 , a 30 basis point increase from 61.3% in 2016 . This increase was primarily due to lower gains on land sales of $91 million, following the sales of CP's Arbutus Corridor and Obico rail yard in 2016, and by the impact of higher fuel prices. 
+ 
+ This increase was partially offset by: 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ higher volumes; 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ management transition recoveries of $51 million associated with Mr. E. Hunter Harrison's retirement as CEO of CP; and 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ efficiencies generated from improved operating performance and asset utilization. 
+ 
+ Adjusted operating ratio, defined and reconciled in Non-GAAP Measures of this ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations, was 61.3% in 2018 , a 110 basis point improvement from 62.4% in 2017 . This improvement in Adjusted operating ratio reflects the same factors discussed above for the improvement in Operating ratio except that Adjusted operating ratio in 2017 excludes the $51 million management transition recovery. 
+ 
+ Adjusted operating ratio was 62.4% in 2017 , a 110 basis point increase from 61.3% in 2016 . This increase in Adjusted operating ratio reflects the same factors discussed above for the increase in Operating ratio except that Adjusted operating ratio in 2017 excludes the $51 million management transition recovery. 
+ 
+ Return on Invested Capital 
+ Return on invested capital ("ROIC") is a measure of how productively the Company uses its long-term capital investments, representing critical indicators of good operating and investment decisions made by management, and is an important performance criteria in determining certain elements of the Company's long-term incentive plan. 
+ 
+ ROIC was 15.3% in 2018 , a 520 basis point decrease compared to 20.5% in 2017 , primarily due to: 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ a higher average invested capital base due to higher Retained earnings from Net income; 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ higher Income tax expense due to lower income tax recoveries from tax rate changes in 2018 compared to 2017; and 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ the unfavourable impact of the change in FX translation on U.S. dollar-denominated debt. 
+ 
+ This decrease was partially offset by higher Operating income and higher Other components of net periodic benefit recoveries. 
+ 
+ ROIC was 20.5% in 2017 , a 610 basis point increase compared to 14.4% in 2016 primarily due to higher Operating income and lower taxes due to income tax rate changes, partially offset by a higher average invested capital base due to higher Retained earnings from Net income. 
+ 
+ Adjusted ROIC was 16.2% in 2018 , a 150 basis point increase compared to 14.7% in 2017 due to higher Adjusted operating income and higher Other components of net periodic benefit recoveries. This increase was partially offset by a higher adjusted average invested capital base due to higher Retained earnings from Net income and higher taxes due to higher taxable earnings. Adjusted ROIC was 14.7% in 2017 , a 70 basis point increase compared to 14.0% in 2016 due to higher Adjusted operating income, partially offset by a higher adjusted average invested capital base due to higher Retained earnings from Net income. ROIC and Adjusted ROIC are defined and reconciled in Non-GAAP Measures of this ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations. 
+ 
+ 
+ Impact of Foreign Exchange on Earnings 
+ Fluctuations in FX affect the Company’s results because U.S. dollar-denominated revenues and expenses are translated into Canadian dollars. U.S. dollar-denominated revenues and expenses increase (decrease) when the Canadian dollar weakens (strengthens) in relation to the U.S. dollar. In 2018 , the impact of a weaker U.S. dollar resulted in a decrease in total revenues of $8 million , a decrease in total operating expenses of $4 million and no change to interest expense. In 2017 , the impact of a weaker U.S. dollar resulted in a decrease in total revenues of $68 million , a decrease in total operating expenses of $36 million and a decrease in interest expense of $8 million. 
+ 
+ On February 8, 2019, noon buying rate certified for customs purposes by the U.S. Federal Reserve Bank of New York was U.S. $1.00 = $1.33 Canadian dollar. 
+ 
+ 
+ 
+ 
+ 
+ 39 / CP 2018 ANNUAL REPORT 
+ 
+ 
+ 
+ The following tables set forth, for the periods indicated, the average exchange rate between the Canadian dollar and the U.S. dollar expressed in the Canadian dollar equivalent of one U.S. dollar, the high and low exchange rates and period end exchange rates for the periods indicated. Averages for year-end periods are calculated by using the exchange rates on the last day of each full month during the relevant period. These rates are based on the noon buying rate certified for customs purposes by the U.S. Federal Reserve Bank of New York set forth in the H.10 statistical release of the Federal Reserve Board. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Average exchange rates (Canadian/U.S. dollar) 
+ 
+ 2018 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 2014 
+ 
+ 
+ 
+ 
+ For the year ended – December 31 
+ 
+ $ 
+ 
+ 1.30 
+ 
+ 
+ 
+ $ 
+ 
+ 1.30 
+ 
+ 
+ 
+ $ 
+ 
+ 1.33 
+ 
+ 
+ 
+ $ 
+ 
+ 1.28 
+ 
+ 
+ 
+ $ 
+ 
+ 1.10 
+ 
+ 
+ 
+ 
+ For the three months ended – December 31 
+ 
+ $ 
+ 
+ 1.32 
+ 
+ 
+ 
+ $ 
+ 
+ 1.27 
+ 
+ 
+ 
+ $ 
+ 
+ 1.33 
+ 
+ 
+ 
+ $ 
+ 
+ 1.34 
+ 
+ 
+ 
+ $ 
+ 
+ 1.13 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ending exchange rates (Canadian/U.S. dollar) 
+ 
+ 2018 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 2014 
+ 
+ 
+ 
+ 
+ Beginning of year – January 1 
+ 
+ $ 
+ 
+ 1.25 
+ 
+ 
+ 
+ $ 
+ 
+ 1.34 
+ 
+ 
+ 
+ $ 
+ 
+ 1.38 
+ 
+ 
+ 
+ $ 
+ 
+ 1.16 
+ 
+ 
+ 
+ $ 
+ 
+ 1.06 
+ 
+ 
+ 
+ 
+ Beginning of quarter – April 1 
+ 
+ $ 
+ 
+ 1.29 
+ 
+ 
+ 
+ $ 
+ 
+ 1.33 
+ 
+ 
+ 
+ $ 
+ 
+ 1.30 
+ 
+ 
+ 
+ $ 
+ 
+ 1.27 
+ 
+ 
+ 
+ $ 
+ 
+ 1.11 
+ 
+ 
+ 
+ 
+ Beginning of quarter – July 1 
+ 
+ $ 
+ 
+ 1.32 
+ 
+ 
+ 
+ $ 
+ 
+ 1.30 
+ 
+ 
+ 
+ $ 
+ 
+ 1.29 
+ 
+ 
+ 
+ $ 
+ 
+ 1.25 
+ 
+ 
+ 
+ $ 
+ 
+ 1.07 
+ 
+ 
+ 
+ 
+ Beginning of quarter – October 1 
+ 
+ $ 
+ 
+ 1.29 
+ 
+ 
+ 
+ $ 
+ 
+ 1.25 
+ 
+ 
+ 
+ $ 
+ 
+ 1.31 
+ 
+ 
+ 
+ $ 
+ 
+ 1.33 
+ 
+ 
+ 
+ $ 
+ 
+ 1.12 
+ 
+ 
+ 
+ 
+ End of year – December 31 
+ 
+ $ 
+ 
+ 1.36 
+ 
+ 
+ 
+ $ 
+ 
+ 1.25 
+ 
+ 
+ 
+ $ 
+ 
+ 1.34 
+ 
+ 
+ 
+ $ 
+ 
+ 1.38 
+ 
+ 
+ 
+ $ 
+ 
+ 1.16 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ High/Low exchange rates (Canadian/U.S. dollar) 
+ 
+ 2018 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 2014 
+ 
+ 
+ 
+ 
+ High 
+ 
+ $ 
+ 
+ 1.37 
+ 
+ 
+ 
+ $ 
+ 
+ 1.37 
+ 
+ 
+ 
+ $ 
+ 
+ 1.46 
+ 
+ 
+ 
+ $ 
+ 
+ 1.40 
+ 
+ 
+ 
+ $ 
+ 
+ 1.16 
+ 
+ 
+ 
+ 
+ Low 
+ 
+ $ 
+ 
+ 1.23 
+ 
+ 
+ 
+ $ 
+ 
+ 1.21 
+ 
+ 
+ 
+ $ 
+ 
+ 1.25 
+ 
+ 
+ 
+ $ 
+ 
+ 1.17 
+ 
+ 
+ 
+ $ 
+ 
+ 1.06 
+ 
+ 
+ 
+ In 2019 , CP expects that for every $0.01 the U.S. dollar appreciates (depreciates) relative to the Canadian dollar, it will increase (decrease) revenues by $28 million , operating expenses by $15 million and net interest expense by $3 million on an annualized basis. 
+ 
+ 
+ Impact of Fuel Price on Earnings 
+ Fluctuations in fuel prices affect the Company’s results because fuel expense constitutes a significant portion of CP's operating costs. As fuel prices fluctuate, there will be a timing impact on earnings, as discussed further in ITEM 1. Business, Operations, Fuel Cost Adjustment Program and ITEM 1A. Risk Factors, Fuel Cost Volatility. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Average Fuel Price (U.S. dollars per U.S. gallon) 
+ 
+ 2018 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 
+ For the year ended – December 31 
+ 
+ $ 
+ 
+ 2.72 
+ 
+ 
+ 
+ $ 
+ 
+ 2.16 
+ 
+ 
+ 
+ $ 
+ 
+ 1.80 
+ 
+ 
+ 
+ 
+ For the three months ended – December 31 
+ 
+ $ 
+ 
+ 2.71 
+ 
+ 
+ 
+ $ 
+ 
+ 2.43 
+ 
+ 
+ 
+ $ 
+ 
+ 2.01 
+ 
+ 
+ 
+ Average fuel prices for 2017 exclude the effects of an $8 million fuel tax recovery related to prior periods. The impact of fuel price on earnings includes the impacts of B.C. and Alberta carbon taxes and levies recovered and paid, on revenues and expenses, respectively. 
+ 
+ In 2018 , the impact of higher fuel prices resulted in an increase in total revenues of $212 million and an increase in total operating expenses of $197 million . In 2017 , the impact of higher fuel prices resulted in an increase in total revenues of $105 million and an increase in total operating expenses of $104 million . 
+ 
+ 
+ Impact of Share Price on Earnings 
+ Fluctuations in the Common Share price affect the Company's operating expenses because share-based liabilities are measured at fair value. The following tables indicate the opening and ending price of the Common Shares on the TSX and the NYSE for each quarter and the change in the price of the Common Shares on the TSX and the NYSE for the years ended December 31, 2018 , 2017 and 2016 : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Toronto Stock Exchange (in Canadian dollars) 
+ 
+ 2018 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 
+ Opening Common Share price, as at January 1 
+ 
+ $ 
+ 
+ 229.66 
+ 
+ 
+ 
+ $ 
+ 
+ 191.56 
+ 
+ 
+ 
+ $ 
+ 
+ 176.73 
+ 
+ 
+ 
+ 
+ Ending Common Share price, as at March 31 
+ 
+ $ 
+ 
+ 227.20 
+ 
+ 
+ 
+ $ 
+ 
+ 195.35 
+ 
+ 
+ 
+ $ 
+ 
+ 172.55 
+ 
+ 
+ 
+ 
+ Ending Common Share price, as at June 30 
+ 
+ $ 
+ 
+ 240.92 
+ 
+ 
+ 
+ $ 
+ 
+ 208.65 
+ 
+ 
+ 
+ $ 
+ 
+ 166.33 
+ 
+ 
+ 
+ 
+ Ending Common Share price, as at September 30 
+ 
+ $ 
+ 
+ 273.23 
+ 
+ 
+ 
+ $ 
+ 
+ 209.58 
+ 
+ 
+ 
+ $ 
+ 
+ 200.19 
+ 
+ 
+ 
+ 
+ Ending Common Share price, as at December 31 
+ 
+ $ 
+ 
+ 242.24 
+ 
+ 
+ 
+ $ 
+ 
+ 229.66 
+ 
+ 
+ 
+ $ 
+ 
+ 191.56 
+ 
+ 
+ 
+ 
+ Change in Common Share price for the year ended December 31 
+ 
+ $ 
+ 
+ 12.58 
+ 
+ 
+ 
+ $ 
+ 
+ 38.10 
+ 
+ 
+ 
+ $ 
+ 
+ 14.83 
+ 
+ 
+ 
+ 
+ 
+ 
+ CP 2018 ANNUAL REPORT / 40 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ New York Stock Exchange (in U.S. dollars) 
+ 
+ 2018 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 
+ Opening Common Share price, as at January 1 
+ 
+ $ 
+ 
+ 182.76 
+ 
+ 
+ 
+ $ 
+ 
+ 142.77 
+ 
+ 
+ 
+ $ 
+ 
+ 127.60 
+ 
+ 
+ 
+ 
+ Ending Common Share price, as at March 31 
+ 
+ $ 
+ 
+ 176.50 
+ 
+ 
+ 
+ $ 
+ 
+ 146.92 
+ 
+ 
+ 
+ $ 
+ 
+ 132.69 
+ 
+ 
+ 
+ 
+ Ending Common Share price, as at June 30 
+ 
+ $ 
+ 
+ 183.02 
+ 
+ 
+ 
+ $ 
+ 
+ 160.81 
+ 
+ 
+ 
+ $ 
+ 
+ 128.79 
+ 
+ 
+ 
+ 
+ Ending Common Share price, as at September 30 
+ 
+ $ 
+ 
+ 211.94 
+ 
+ 
+ 
+ $ 
+ 
+ 168.03 
+ 
+ 
+ 
+ $ 
+ 
+ 152.70 
+ 
+ 
+ 
+ 
+ Ending Common Share price, as at December 31 
+ 
+ $ 
+ 
+ 177.62 
+ 
+ 
+ 
+ $ 
+ 
+ 182.76 
+ 
+ 
+ 
+ $ 
+ 
+ 142.77 
+ 
+ 
+ 
+ 
+ Change in Common Share price for the year ended December 31 
+ 
+ $ 
+ 
+ (5.14 
+ 
+ ) 
+ 
+ $ 
+ 
+ 39.99 
+ 
+ 
+ 
+ $ 
+ 
+ 15.17 
+ 
+ 
+ 
+ In 2018 , the impact of the change in the price of the Common Shares resulted in an increase in stock-based compensation expense of $2 million compared to an increase of $18 million in 2017 , and an increase of $9 million in 2016 . 
+ 
+ The impact of share price on stock-based compensation is discussed further in ITEM 7A. Quantitative and Qualitative Disclosures About Market Risk, Share Price Impact on Stock-Based Compensation. 
+ 
+ 
+ Operating Revenues 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2018 vs. 2017 
+ 
+ 2017 vs. 2016 
+ 
+ 
+ For the year ended 
+ December 31 
+ 
+ 2018 
+ 
+ 2017 
+ 
+ 2016 
+ 
+ Total Change 
+ 
+ % Change 
+ 
+ FX Adjusted % Change (2) 
+ 
+ Total Change 
+ 
+ % Change 
+ 
+ FX Adjusted % Change (2) 
+ 
+ 
+ Freight revenues (in millions) (1) 
+ 
+ $ 
+ 
+ 7,152 
+ 
+ 
+ 
+ $ 
+ 
+ 6,375 
+ 
+ 
+ 
+ $ 
+ 
+ 6,060 
+ 
+ 
+ 
+ $ 
+ 
+ 777 
+ 
+ 
+ 
+ 12 
+ 
+ 
+ 
+ 12 
+ 
+ 
+ 
+ $ 
+ 
+ 315 
+ 
+ 
+ 
+ 5 
+ 
+ 6 
+ 
+ 
+ Non-freight revenues (in millions) 
+ 
+ 164 
+ 
+ 
+ 
+ 179 
+ 
+ 
+ 
+ 172 
+ 
+ 
+ 
+ (15 
+ 
+ ) 
+ 
+ (8 
+ 
+ ) 
+ 
+ (8 
+ 
+ ) 
+ 
+ 7 
+ 
+ 
+ 
+ 4 
+ 
+ 5 
+ 
+ 
+ Total revenues (in millions) 
+ 
+ $ 
+ 
+ 7,316 
+ 
+ 
+ 
+ $ 
+ 
+ 6,554 
+ 
+ 
+ 
+ $ 
+ 
+ 6,232 
+ 
+ 
+ 
+ $ 
+ 
+ 762 
+ 
+ 
+ 
+ 12 
+ 
+ 
+ 
+ 12 
+ 
+ 
+ 
+ $ 
+ 
+ 322 
+ 
+ 
+ 
+ 5 
+ 
+ 6 
+ 
+ 
+ Carloads (in thousands) 
+ 
+ 2,739.8 
+ 
+ 
+ 
+ 2,634.2 
+ 
+ 
+ 
+ 2,524.9 
+ 
+ 
+ 
+ 105.6 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ N/A 
+ 
+ 
+ 
+ 109.3 
+ 
+ 
+ 
+ 4 
+ 
+ N/A 
+ 
+ 
+ Revenue ton-miles (in millions) 
+ 
+ 154,207 
+ 
+ 
+ 
+ 142,540 
+ 
+ 
+ 
+ 135,952 
+ 
+ 
+ 
+ 11,667 
+ 
+ 
+ 
+ 8 
+ 
+ 
+ 
+ N/A 
+ 
+ 
+ 
+ 6,588 
+ 
+ 
+ 
+ 5 
+ 
+ N/A 
+ 
+ 
+ Freight revenue per carload (in dollars) 
+ 
+ $ 
+ 
+ 2,611 
+ 
+ 
+ 
+ $ 
+ 
+ 2,420 
+ 
+ 
+ 
+ $ 
+ 
+ 2,400 
+ 
+ 
+ 
+ $ 
+ 
+ 191 
+ 
+ 
+ 
+ 8 
+ 
+ 
+ 
+ 8 
+ 
+ 
+ 
+ $ 
+ 
+ 20 
+ 
+ 
+ 
+ 1 
+ 
+ 2 
+ 
+ 
+ Freight revenue per revenue ton-miles (in cents) 
+ 
+ 4.64 
+ 
+ 
+ 
+ 4.47 
+ 
+ 
+ 
+ 4.46 
+ 
+ 
+ 
+ 0.17 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ 0.01 
+ 
+ 
+ 
+ — 
+ 
+ 1 
+ (1) Freight revenues include fuel surcharge revenues of $492 million in 2018 , $242 million in 2017 and $133 million in 2016 . 2018 and 2017 fuel surcharge revenues include carbon taxes, levies and obligations recovered under cap-and-trade programs. 
+ (2) FX adjusted % change does not have any standardized meaning prescribed by GAAP and, therefore, is unlikely to be comparable to similar measures presented by other companies. FX adjusted % change is defined and reconciled in Non-GAAP Measures of this ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of Operations. 
+ 
+ The Company’s revenues are primarily derived from transporting freight. Changes in freight volumes generally contribute to corresponding changes in freight revenues and certain variable expenses, such as fuel, equipment rents and crew costs. Non-freight revenue is generated from leasing of certain assets; other arrangements, including logistical services and contracts with passenger service operators; and switching fees. 
+ 
+ Freight Revenues 
+ Freight revenues were $7,152 million in 2018 , an increase of $777 million , or 12% , from $6,375 million in 2017 . This increase was primarily due to higher volumes, as measured by RTMs, of Energy, chemicals and plastics, Potash, and Intermodal, and the favourable impact of higher fuel surcharge revenue of $212 million , as a result of higher fuel prices. This increase was partially offset by lower volumes of U.S. grain, and the unfavourable impact of the change in FX of $8 million . 
+ 
+ Freight revenues were $6,375 million in 2017 , an increase of $315 million , or 5% , from $6,060 million in 2016 . This increase was primarily due to higher volumes, as measured by RTMs, of frac sand, Energy, chemicals and plastics, domestic intermodal, Potash and Canadian grain, and the favourable impact of higher fuel surcharge revenue of $105 million , as a result of higher fuel prices. This increase was partially offset by lower volumes of Automotive, international intermodal, fertilizer and U.S. grain, and the unfavourable impact of the change in FX of $67 million. 
+ 
+ RTMs 
+ RTMs are defined as the movement of one revenue-producing ton of freight over a distance of one mile. RTMs measure the relative weight and distance of rail freight moved by the Company. RTMs for 2018 were 154,207 million , an increase of 11,667 million , or 8% , compared with 142,540 million in 2017 . This increase was mainly attributable to increased shipments of Energy, chemicals and plastics, Potash, and Intermodal, partially offset by decreased shipments of U.S. grain. 
+ 
+ 
+ 
+ 
+ 41 / CP 2018 ANNUAL REPORT 
+ 
+ 
+ 
+ RTMs for 2017 were 142,540 million , an increase of 5% compared with 135,952 million in 2016 . This increase was mainly attributable to increased shipments of frac sand, Energy, chemicals and plastics, Potash, domestic intermodal and Canadian grain. This increase was partially offset by decreased shipments of international intermodal, U.S. grain, fertilizer and Automotive. 
+ 
+ Non-freight Revenues 
+ Non-freight revenues were $164 million in 2018 , a decrease of $15 million , or 8% , from $179 million in 2017 . This decrease was primarily due to the recovery of prior costs following the expiration of a passenger service contract in 2017 and lower passenger revenues in 2018. 
+ 
+ Non-freight revenues were $179 million in 2017 , an increase of $7 million , or 4% , from $172 million in 2016 . This increase was primarily due to the recovery of prior costs following the expiration of a passenger service contract in 2017, partially offset by lower passenger revenues. 
+ 
+ Lines of Business 
+ Grain 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2018 vs. 2017 
+ 
+ 2017 vs. 2016 
+ 
+ 
+ For the year ended December 31 
+ 
+ 2018 
+ 
+ 2017 
+ 
+ 2016 
+ 
+ Total Change 
+ 
+ % Change 
+ 
+ FX Adjusted % Change (1) 
+ 
+ Total Change 
+ 
+ % Change 
+ 
+ FX Adjusted % Change (1) 
+ 
+ 
+ Freight revenues (in millions) 
+ 
+ $ 
+ 
+ 1,566 
+ 
+ 
+ 
+ $ 
+ 
+ 1,532 
+ 
+ 
+ 
+ $ 
+ 
+ 1,480 
+ 
+ 
+ 
+ $ 
+ 
+ 34 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ 2 
+ 
+ $ 
+ 
+ 52 
+ 
+ 
+ 
+ 4 
+ 
+ 5 
+ 
+ 
+ Carloads (in thousands) 
+ 
+ 429.4 
+ 
+ 
+ 
+ 440.7 
+ 
+ 
+ 
+ 431.9 
+ 
+ 
+ 
+ (11.3 
+ 
+ ) 
+ 
+ (3 
+ 
+ ) 
+ 
+ N/A 
+ 
+ 8.8 
+ 
+ 
+ 
+ 2 
+ 
+ N/A 
+ 
+ 
+ Revenue ton-miles (in millions) 
+ 
+ 36,856 
+ 
+ 
+ 
+ 37,377 
+ 
+ 
+ 
+ 36,892 
+ 
+ 
+ 
+ (521 
+ 
+ ) 
+ 
+ (1 
+ 
+ ) 
+ 
+ N/A 
+ 
+ 485 
+ 
+ 
+ 
+ 1 
+ 
+ N/A 
+ 
+ 
+ Freight revenue per carload (in dollars) 
+ 
+ $ 
+ 
+ 3,645 
+ 
+ 
+ 
+ $ 
+ 
+ 3,477 
+ 
+ 
+ 
+ $ 
+ 
+ 3,426 
+ 
+ 
+ 
+ $ 
+ 
+ 168 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ 5 
+ 
+ $ 
+ 
+ 51 
+ 
+ 
+ 
+ 1 
+ 
+ 3 
+ 
+ 
+ Freight revenue per revenue ton-mile (in cents) 
+ 
+ 4.25 
+ 
+ 
+ 
+ 4.10 
+ 
+ 
+ 
+ 4.01 
+ 
+ 
+ 
+ 0.15 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ 4 
+ 
+ 0.09 
+ 
+ 
+ 
+ 2 
+ 
+ 4 
+ (1) FX adjusted % change does not have any standardized meaning prescribed by GAAP and, therefore, is unlikely to be comparable to similar measures presented by other companies. FX adjusted % change is defined and reconciled in Non-GAAP Measures of this ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of Operations. 
+ 
+ Grain revenue was $1,566 million in 2018 , an increase of $34 million , or 2% , from $1,532 million in 2017 . This increase was primarily due to higher freight revenue per revenue ton-mile, higher fuel surcharge as a result of higher fuel prices, and record volumes of Canadian grain in the fourth quarter. These increases were partially offset by decreased volumes of U.S. grain, primarily wheat, and soybeans to the Pacific Northwest, and the unfavourable impact of the change in FX. Freight revenue per revenue ton-mile increased due to higher freight rates, primarily for regulated Canadian grain. RTMs decreased less than carloads due to moving proportionately more Canadian grain, which has a longer length of haul compared to U.S. grain. 
+ 
+ Grain revenue was $1,532 million in 2017 , an increase of $52 million , or 4% , from $1,480 million in 2016 . This increase was primarily due to increased Canadian grain volumes and higher fuel surcharge revenue, partially offset by the unfavourable impact of the change in FX. Carloads increased more than RTMs due to the decreased proportion of U.S. grain to the Pacific North West, which has a longer length of haul. The increase in freight revenue per revenue ton-mile is primarily due to increased regulated Canadian grain rates. 
+ 
+ Coal 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2018 vs. 2017 
+ 
+ 2017 vs. 2016 
+ 
+ 
+ For the year ended December 31 
+ 
+ 2018 
+ 
+ 2017 
+ 
+ 2016 
+ 
+ Total Change 
+ 
+ % Change 
+ 
+ FX Adjusted % Change (1) 
+ 
+ Total Change 
+ 
+ % Change 
+ 
+ FX Adjusted % Change (1) 
+ 
+ 
+ Freight revenues (in millions) 
+ 
+ $ 
+ 
+ 673 
+ 
+ 
+ 
+ $ 
+ 
+ 631 
+ 
+ 
+ 
+ $ 
+ 
+ 606 
+ 
+ 
+ 
+ $ 
+ 
+ 42 
+ 
+ 
+ 
+ 7 
+ 
+ 
+ 
+ 7 
+ 
+ $ 
+ 
+ 25 
+ 
+ 
+ 
+ 4 
+ 
+ 4 
+ 
+ 
+ Carloads (in thousands) 
+ 
+ 304.3 
+ 
+ 
+ 
+ 306.0 
+ 
+ 
+ 
+ 305.3 
+ 
+ 
+ 
+ (1.7 
+ 
+ ) 
+ 
+ (1 
+ 
+ ) 
+ 
+ N/A 
+ 
+ 0.7 
+ 
+ 
+ 
+ — 
+ 
+ N/A 
+ 
+ 
+ Revenue ton-miles (in millions) 
+ 
+ 22,443 
+ 
+ 
+ 
+ 22,660 
+ 
+ 
+ 
+ 22,171 
+ 
+ 
+ 
+ (217 
+ 
+ ) 
+ 
+ (1 
+ 
+ ) 
+ 
+ N/A 
+ 
+ 489 
+ 
+ 
+ 
+ 2 
+ 
+ N/A 
+ 
+ 
+ Freight revenue per carload (in dollars) 
+ 
+ $ 
+ 
+ 2,211 
+ 
+ 
+ 
+ $ 
+ 
+ 2,061 
+ 
+ 
+ 
+ $ 
+ 
+ 1,984 
+ 
+ 
+ 
+ $ 
+ 
+ 150 
+ 
+ 
+ 
+ 7 
+ 
+ 
+ 
+ 7 
+ 
+ $ 
+ 
+ 77 
+ 
+ 
+ 
+ 4 
+ 
+ 4 
+ 
+ 
+ Freight revenue per revenue ton-mile (in cents) 
+ 
+ 3.00 
+ 
+ 
+ 
+ 2.78 
+ 
+ 
+ 
+ 2.73 
+ 
+ 
+ 
+ 0.22 
+ 
+ 
+ 
+ 8 
+ 
+ 
+ 
+ 8 
+ 
+ 0.05 
+ 
+ 
+ 
+ 2 
+ 
+ 2 
+ (1) FX adjusted % change does not have any standardized meaning prescribed by GAAP and, therefore, is unlikely to be comparable to similar measures presented by other companies. FX adjusted % change is defined and reconciled in Non-GAAP Measures of this ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of Operations. 
+ 
+ 
+ 
+ 
+ 
+ CP 2018 ANNUAL REPORT / 42 
+ 
+ Coal revenue was $673 million in 2018 , an increase of $42 million , or 7% , from $631 million in 2017 . This increase was primarily due to higher fuel surcharge revenue as a result of higher fuel prices, and higher freight revenue per revenue ton-mile, partially offset by lower volumes of Canadian export coal, and the unfavourable impact of the change in FX. Freight revenue per revenue ton-mile increased due to higher freight rates. 
+ 
+ Coal revenue was $631 million in 2017 , an increase of $25 million , or 4% , from $606 million in 2016 . This increase was primarily due to an increase in Canadian export volumes and higher fuel surcharge revenue, partially offset by the unfavourable impact of the change in FX. The increase in freight revenue per revenue ton-mile was primarily due to increased freight rates. RTMs increased more than carloads due to proportionately more export Canadian coal moved. 
+ 
+ Potash 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2018 vs. 2017 
+ 
+ 2017 vs. 2016 
+ 
+ 
+ For the year ended December 31 
+ 
+ 2018 
+ 
+ 2017 
+ 
+ 2016 
+ 
+ Total Change 
+ 
+ % Change 
+ 
+ FX Adjusted % Change (1) 
+ 
+ Total Change 
+ 
+ % Change 
+ 
+ FX Adjusted % Change (1) 
+ 
+ 
+ Freight revenues (in millions) 
+ 
+ $ 
+ 
+ 486 
+ 
+ 
+ 
+ $ 
+ 
+ 411 
+ 
+ 
+ 
+ $ 
+ 
+ 338 
+ 
+ 
+ 
+ $ 
+ 
+ 75 
+ 
+ 
+ 
+ 18 
+ 
+ 19 
+ 
+ $ 
+ 
+ 73 
+ 
+ 
+ 
+ 22 
+ 
+ 23 
+ 
+ 
+ Carloads (in thousands) 
+ 
+ 158.4 
+ 
+ 
+ 
+ 137.4 
+ 
+ 
+ 
+ 116.4 
+ 
+ 
+ 
+ 21.0 
+ 
+ 
+ 
+ 15 
+ 
+ N/A 
+ 
+ 21.0 
+ 
+ 
+ 
+ 18 
+ 
+ N/A 
+ 
+ 
+ Revenue ton-miles (in millions) 
+ 
+ 18,371 
+ 
+ 
+ 
+ 15,751 
+ 
+ 
+ 
+ 14,175 
+ 
+ 
+ 
+ 2,620 
+ 
+ 
+ 
+ 17 
+ 
+ N/A 
+ 
+ 1,576 
+ 
+ 
+ 
+ 11 
+ 
+ N/A 
+ 
+ 
+ Freight revenue per carload (in dollars) 
+ 
+ $ 
+ 
+ 3,071 
+ 
+ 
+ 
+ $ 
+ 
+ 2,988 
+ 
+ 
+ 
+ $ 
+ 
+ 2,904 
+ 
+ 
+ 
+ $ 
+ 
+ 83 
+ 
+ 
+ 
+ 3 
+ 
+ 3 
+ 
+ $ 
+ 
+ 84 
+ 
+ 
+ 
+ 3 
+ 
+ 4 
+ 
+ 
+ Freight revenue per revenue ton-mile (in cents) 
+ 
+ 2.65 
+ 
+ 
+ 
+ 2.61 
+ 
+ 
+ 
+ 2.38 
+ 
+ 
+ 
+ 0.04 
+ 
+ 
+ 
+ 2 
+ 
+ 2 
+ 
+ 0.23 
+ 
+ 
+ 
+ 10 
+ 
+ 11 
+ (1) FX adjusted % change does not have any standardized meaning prescribed by GAAP and, therefore, is unlikely to be comparable to similar measures presented by other companies. FX adjusted % change is defined and reconciled in Non-GAAP Measures of this ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of Operations. 
+ 
+ Potash revenue was $486 million in 2018 , an increase of $75 million , or 18% , from $411 million in 2017 . This increase was primarily due to higher export potash volumes, as well as higher fuel surcharge revenue as a result of higher fuel prices, partially offset by the unfavourable impact of the change in FX. RTMs increased more than carloads due to moving proportionately more export potash to Vancouver, which has a longer length of haul. 
+ 
+ Potash revenue was $411 million in 2017 , an increase of $73 million , or 22% , from $338 million in 2016 . This increase was primarily due to higher export and domestic potash volumes, as well as higher fuel surcharge revenue, partially offset by the unfavourable impact of the change in FX. The increase in freight revenue per revenue ton-mile was due to the increased proportion of export traffic to the U.S. Pacific Northwest, which has a shorter length of haul. 
+ 
+ Fertilizers and Sulphur 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2018 vs. 2017 
+ 
+ 2017 vs. 2016 
+ 
+ 
+ For the year ended December 31 
+ 
+ 2018 
+ 
+ 2017 
+ 
+ 2016 
+ 
+ Total Change 
+ 
+ % Change 
+ 
+ FX Adjusted % Change (1) 
+ 
+ Total Change 
+ 
+ % Change 
+ 
+ FX Adjusted % Change (1) 
+ 
+ 
+ Freight revenues (in millions) 
+ 
+ $ 
+ 
+ 243 
+ 
+ 
+ 
+ $ 
+ 
+ 241 
+ 
+ 
+ 
+ $ 
+ 
+ 284 
+ 
+ 
+ 
+ $ 
+ 
+ 2 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ $ 
+ 
+ (43 
+ 
+ ) 
+ 
+ (15 
+ 
+ ) 
+ 
+ (14 
+ 
+ ) 
+ 
+ 
+ Carloads (in thousands) 
+ 
+ 58.1 
+ 
+ 
+ 
+ 57.7 
+ 
+ 
+ 
+ 59.6 
+ 
+ 
+ 
+ 0.4 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ N/A 
+ 
+ 
+ 
+ (1.9 
+ 
+ ) 
+ 
+ (3 
+ 
+ ) 
+ 
+ N/A 
+ 
+ 
+ 
+ 
+ Revenue ton-miles (in millions) 
+ 
+ 4,051 
+ 
+ 
+ 
+ 3,849 
+ 
+ 
+ 
+ 4,140 
+ 
+ 
+ 
+ 202 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ N/A 
+ 
+ 
+ 
+ (291 
+ 
+ ) 
+ 
+ (7 
+ 
+ ) 
+ 
+ N/A 
+ 
+ 
+ 
+ 
+ Freight revenue per carload (in dollars) 
+ 
+ $ 
+ 
+ 4,186 
+ 
+ 
+ 
+ $ 
+ 
+ 4,178 
+ 
+ 
+ 
+ $ 
+ 
+ 4,769 
+ 
+ 
+ 
+ $ 
+ 
+ 8 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ $ 
+ 
+ (591 
+ 
+ ) 
+ 
+ (12 
+ 
+ ) 
+ 
+ (11 
+ 
+ ) 
+ 
+ 
+ Freight revenue per revenue ton-mile (in cents) 
+ 
+ 6.00 
+ 
+ 
+ 
+ 6.27 
+ 
+ 
+ 
+ 6.87 
+ 
+ 
+ 
+ (0.27 
+ 
+ ) 
+ 
+ (4 
+ 
+ ) 
+ 
+ (4 
+ 
+ ) 
+ 
+ (0.60 
+ 
+ ) 
+ 
+ (9 
+ 
+ ) 
+ 
+ (8 
+ 
+ ) 
+ (1) FX adjusted % change does not have any standardized meaning prescribed by GAAP and, therefore, is unlikely to be comparable to similar measures presented by other companies. FX adjusted % change is defined and reconciled in Non-GAAP Measures of this ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of Operations. 
+ 
+ Fertilizers and sulphur revenue was $243 million in 2018 , an increase of $2 million , or 1% , from $241 million in 2017 . This increase was primarily due to increased volumes of dry fertilizer and sulphur, and higher fuel surcharge revenue as a result of higher fuel prices, partially offset by lower freight revenue per revenue ton-mile, and the unfavourable impact of the change in FX. Freight revenue per revenue ton-mile decreased due to moving proportionately less wet fertilizer, which has higher freight rates, and increased volumes of longer haul sulphur from Canada to the U.S. 
+ 
+ Fertilizers and sulphur revenue was $241 million in 2017 , a decrease of $43 million , or 15% , from $284 million in 2016 . This decrease was primarily due to lower fertilizer volumes, which have a higher freight revenue per revenue ton-mile, and the unfavourable impact of the change in FX. The decrease was partially offset by higher fuel surcharge revenue. RTMs decreased more than carloads due to decreased traffic to the U.S. and increased shorter length of haul traffic. 
+ 
+ 
+ 
+ 
+ 43 / CP 2018 ANNUAL REPORT 
+ 
+ 
+ 
+ Forest Products 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2018 vs. 2017 
+ 
+ 2017 vs. 2016 
+ 
+ 
+ For the year ended December 31 
+ 
+ 2018 
+ 
+ 2017 
+ 
+ 2016 
+ 
+ Total Change 
+ 
+ % Change 
+ 
+ FX Adjusted % Change (1) 
+ 
+ Total Change 
+ 
+ % Change 
+ 
+ FX Adjusted % Change (1) 
+ 
+ 
+ Freight revenues (in millions) 
+ 
+ $ 
+ 
+ 284 
+ 
+ 
+ 
+ $ 
+ 
+ 265 
+ 
+ 
+ 
+ $ 
+ 
+ 275 
+ 
+ 
+ 
+ $ 
+ 
+ 19 
+ 
+ 
+ 
+ 7 
+ 
+ 8 
+ 
+ $ 
+ 
+ (10 
+ 
+ ) 
+ 
+ (4 
+ 
+ ) 
+ 
+ (2 
+ 
+ ) 
+ 
+ 
+ Carloads (in thousands) 
+ 
+ 68.6 
+ 
+ 
+ 
+ 65.8 
+ 
+ 
+ 
+ 66.1 
+ 
+ 
+ 
+ 2.8 
+ 
+ 
+ 
+ 4 
+ 
+ N/A 
+ 
+ (0.3 
+ 
+ ) 
+ 
+ — 
+ 
+ 
+ 
+ N/A 
+ 
+ 
+ 
+ 
+ Revenue ton-miles (in millions) 
+ 
+ 4,763 
+ 
+ 
+ 
+ 4,484 
+ 
+ 
+ 
+ 4,691 
+ 
+ 
+ 
+ 279 
+ 
+ 
+ 
+ 6 
+ 
+ N/A 
+ 
+ (207 
+ 
+ ) 
+ 
+ (4 
+ 
+ ) 
+ 
+ N/A 
+ 
+ 
+ 
+ 
+ Freight revenue per carload (in dollars) 
+ 
+ $ 
+ 
+ 4,139 
+ 
+ 
+ 
+ $ 
+ 
+ 4,036 
+ 
+ 
+ 
+ $ 
+ 
+ 4,157 
+ 
+ 
+ 
+ $ 
+ 
+ 103 
+ 
+ 
+ 
+ 3 
+ 
+ 3 
+ 
+ $ 
+ 
+ (121 
+ 
+ ) 
+ 
+ (3 
+ 
+ ) 
+ 
+ (1 
+ 
+ ) 
+ 
+ 
+ Freight revenue per revenue ton-mile (in cents) 
+ 
+ 5.96 
+ 
+ 
+ 
+ 5.92 
+ 
+ 
+ 
+ 5.86 
+ 
+ 
+ 
+ 0.04 
+ 
+ 
+ 
+ 1 
+ 
+ 1 
+ 
+ 0.06 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 3 
+ 
+ 
+ (1) FX adjusted % change does not have any standardized meaning prescribed by GAAP and, therefore, is unlikely to be comparable to similar measures presented by other companies. FX adjusted % change is defined and reconciled in Non-GAAP Measures of this ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of Operations. 
+ 
+ Forest products revenue was $284 million in 2018 , an increase of $19 million , or 7% , from $265 million in 2017 . This increase was primarily due to increased volumes of wood pulp and paper products, and higher fuel surcharge revenue as a result of higher fuel prices, partially offset by the unfavourable impact of the change in FX. RTMs increased more than carloads due to increased volumes of longer haul wood pulp from eastern Canada to the U.S. 
+ 
+ Forest products revenue was $265 million in 2017 , a decrease of $10 million , or 4% , from $275 million in 2016 . This decrease was primarily due to lower volumes of lumber and panel products, due to U.S. tariffs on Canadian softwood lumber in 2017, and the unfavourable impact of the change in FX, partially offset by higher fuel surcharge revenue. Carloads decreased less than RTMs due to a decrease in lumber and panel traffic with a longer length of haul. 
+ 
+ Energy, Chemicals and Plastics 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2018 vs. 2017 
+ 
+ 2017 vs. 2016 
+ 
+ 
+ For the year ended December 31 
+ 
+ 2018 
+ 
+ 2017 
+ 
+ 2016 
+ 
+ Total Change 
+ 
+ % Change 
+ 
+ FX Adjusted % Change (1) 
+ 
+ Total Change 
+ 
+ % Change 
+ 
+ FX Adjusted % Change (1) 
+ 
+ 
+ Freight revenues (in millions) 
+ 
+ $ 
+ 
+ 1,243 
+ 
+ 
+ 
+ $ 
+ 
+ 898 
+ 
+ 
+ 
+ $ 
+ 
+ 852 
+ 
+ 
+ 
+ $ 
+ 
+ 345 
+ 
+ 
+ 
+ 38 
+ 
+ 39 
+ 
+ $ 
+ 
+ 46 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ 7 
+ 
+ 
+ 
+ 
+ Carloads (in thousands) 
+ 
+ 334.6 
+ 
+ 
+ 
+ 269.5 
+ 
+ 
+ 
+ 250.0 
+ 
+ 
+ 
+ 65.1 
+ 
+ 
+ 
+ 24 
+ 
+ N/A 
+ 
+ 19.5 
+ 
+ 
+ 
+ 8 
+ 
+ 
+ 
+ N/A 
+ 
+ 
+ 
+ 
+ Revenue ton-miles (in millions) 
+ 
+ 27,830 
+ 
+ 
+ 
+ 21,327 
+ 
+ 
+ 
+ 19,021 
+ 
+ 
+ 
+ 6,503 
+ 
+ 
+ 
+ 30 
+ 
+ N/A 
+ 
+ 2,306 
+ 
+ 
+ 
+ 12 
+ 
+ 
+ 
+ N/A 
+ 
+ 
+ 
+ 
+ Freight revenue per carload (in dollars) 
+ 
+ $ 
+ 
+ 3,715 
+ 
+ 
+ 
+ $ 
+ 
+ 3,333 
+ 
+ 
+ 
+ $ 
+ 
+ 3,410 
+ 
+ 
+ 
+ $ 
+ 
+ 382 
+ 
+ 
+ 
+ 11 
+ 
+ 12 
+ 
+ $ 
+ 
+ (77 
+ 
+ ) 
+ 
+ (2 
+ 
+ ) 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Freight revenue per revenue ton-mile (in cents) 
+ 
+ 4.47 
+ 
+ 
+ 
+ 4.21 
+ 
+ 
+ 
+ 4.48 
+ 
+ 
+ 
+ 0.26 
+ 
+ 
+ 
+ 6 
+ 
+ 6 
+ 
+ (0.27 
+ 
+ ) 
+ 
+ (6 
+ 
+ ) 
+ 
+ (4 
+ 
+ ) 
+ (1) FX adjusted % change does not have any standardized meaning prescribed by GAAP and, therefore, is unlikely to be comparable to similar measures presented by other companies. FX adjusted % change is defined and reconciled in Non-GAAP Measures of this ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of Operations. 
+ 
+ Energy, chemicals and plastics revenue was $1,243 million in 2018 , an increase of $345 million , or 38% , from $898 million in 2017 . This increase was primarily due to increased volumes of crude and liquefied petroleum gas ("L.P.G."), and higher fuel surcharge revenue as a result of higher fuel prices, partially offset by the unfavourable impact of the change in FX. RTMs increased more than carloads due to moving proportionately more crude, which has a longer length of haul. 
+ 
+ Energy, chemicals and plastics revenue was $898 million in 2017 , an increase of $46 million , or 5% , from $852 million in 2016 . This increase was primarily due to higher volumes of crude, plastics, fuel oil and LPG, and higher fuel surcharge revenue, partially offset by the unfavourable impact of the change in FX. The decrease in freight revenue per revenue ton-mile was primarily due to volume gains in longer length of haul lanes for crude and L.P.G and higher plastics and fuel oil volumes, which have a lower freight revenue per revenue ton-mile. 
+ 
+ 
+ 
+ 
+ 
+ CP 2018 ANNUAL REPORT / 44 
+ 
+ Metals, Minerals and Consumer Products 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2018 vs. 2017 
+ 
+ 2017 vs. 2016 
+ 
+ 
+ For the year ended December 31 
+ 
+ 2018 
+ 
+ 2017 
+ 
+ 2016 
+ 
+ Total Change 
+ 
+ % Change 
+ 
+ FX Adjusted % Change (1) 
+ 
+ Total Change 
+ 
+ % Change 
+ 
+ FX Adjusted % Change (1) 
+ 
+ 
+ Freight revenues (in millions) 
+ 
+ $ 
+ 
+ 797 
+ 
+ 
+ 
+ $ 
+ 
+ 739 
+ 
+ 
+ 
+ $ 
+ 
+ 564 
+ 
+ 
+ 
+ $ 
+ 
+ 58 
+ 
+ 
+ 
+ 8 
+ 
+ 
+ 
+ 8 
+ 
+ $ 
+ 
+ 175 
+ 
+ 
+ 
+ 31 
+ 
+ 
+ 
+ 33 
+ 
+ 
+ 
+ 
+ Carloads (in thousands) 
+ 
+ 252.2 
+ 
+ 
+ 
+ 255.3 
+ 
+ 
+ 
+ 195.3 
+ 
+ 
+ 
+ (3.1 
+ 
+ ) 
+ 
+ (1 
+ 
+ ) 
+ 
+ N/A 
+ 
+ 60.0 
+ 
+ 
+ 
+ 31 
+ 
+ 
+ 
+ N/A 
+ 
+ 
+ 
+ 
+ Revenue ton-miles (in millions) 
+ 
+ 11,858 
+ 
+ 
+ 
+ 11,468 
+ 
+ 
+ 
+ 8,338 
+ 
+ 
+ 
+ 390 
+ 
+ 
+ 
+ 3 
+ 
+ 
+ 
+ N/A 
+ 
+ 3,130 
+ 
+ 
+ 
+ 38 
+ 
+ 
+ 
+ N/A 
+ 
+ 
+ 
+ 
+ Freight revenue per carload (in dollars) 
+ 
+ $ 
+ 
+ 3,161 
+ 
+ 
+ 
+ $ 
+ 
+ 2,894 
+ 
+ 
+ 
+ $ 
+ 
+ 2,888 
+ 
+ 
+ 
+ $ 
+ 
+ 267 
+ 
+ 
+ 
+ 9 
+ 
+ 
+ 
+ 9 
+ 
+ $ 
+ 
+ 6 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ 
+ Freight revenue per revenue ton-mile (in cents) 
+ 
+ 6.72 
+ 
+ 
+ 
+ 6.44 
+ 
+ 
+ 
+ 6.77 
+ 
+ 
+ 
+ 0.28 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ 4 
+ 
+ (0.33 
+ 
+ ) 
+ 
+ (5 
+ 
+ ) 
+ 
+ (3 
+ 
+ ) 
+ (1) FX adjusted % change does not have any standardized meaning prescribed by GAAP and, therefore, is unlikely to be comparable to similar measures presented by other companies. FX adjusted % change is defined and reconciled in Non-GAAP Measures of this ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of Operations. 
+ 
+ Metals, minerals and consumer products revenue was $797 million in 2018 , an increase of $58 million , or 8% , from $739 million in 2017 . This increase was primarily due to higher freight revenue per revenue ton-mile, higher fuel surcharge revenue as a result of higher fuel prices, and increased volumes of steel and aggregate products. This increase was partially offset by the unfavourable impact of the change in FX. RTMs increased while carloads decreased due to a decrease in volumes of short haul copper ore traffic. Freight revenue per revenue ton-mile increased due to higher freight rates. 
+ 
+ Metals, minerals and consumer products revenue was $739 million in 2017 , an increase of $175 million , or 31% , from $564 million in 2016 . This increase was primarily due to frac sand, aggregates and steel volumes, and higher fuel surcharge revenue, partially offset by the unfavourable impact of the change in FX. The decrease in freight revenue per revenue ton-mile was primarily due to the higher volumes of frac sand, which have a lower freight revenue per revenue ton-mile, and longer length of haul for cement and bentonite clay traffic. 
+ 
+ Automotive 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2018 vs. 2017 
+ 
+ 2017 vs. 2016 
+ 
+ 
+ For the year ended December 31 
+ 
+ 2018 
+ 
+ 2017 
+ 
+ 2016 
+ 
+ Total Change 
+ 
+ % Change 
+ 
+ FX Adjusted % Change (1) 
+ 
+ Total Change 
+ 
+ % Change 
+ 
+ FX Adjusted % Change (1) 
+ 
+ 
+ Freight revenues (in millions) 
+ 
+ $ 
+ 
+ 322 
+ 
+ 
+ 
+ $ 
+ 
+ 293 
+ 
+ 
+ 
+ $ 
+ 
+ 350 
+ 
+ 
+ 
+ $ 
+ 
+ 29 
+ 
+ 
+ 
+ 10 
+ 
+ 11 
+ 
+ $ 
+ 
+ (57 
+ 
+ ) 
+ 
+ (16 
+ 
+ ) 
+ 
+ (15 
+ 
+ ) 
+ 
+ 
+ Carloads (in thousands) 
+ 
+ 108.3 
+ 
+ 
+ 
+ 105.1 
+ 
+ 
+ 
+ 124.1 
+ 
+ 
+ 
+ 3.2 
+ 
+ 
+ 
+ 3 
+ 
+ N/A 
+ 
+ (19.0 
+ 
+ ) 
+ 
+ (15 
+ 
+ ) 
+ 
+ N/A 
+ 
+ 
+ 
+ 
+ Revenue ton-miles (in millions) 
+ 
+ 1,347 
+ 
+ 
+ 
+ 1,321 
+ 
+ 
+ 
+ 1,667 
+ 
+ 
+ 
+ 26 
+ 
+ 
+ 
+ 2 
+ 
+ N/A 
+ 
+ (346 
+ 
+ ) 
+ 
+ (21 
+ 
+ ) 
+ 
+ N/A 
+ 
+ 
+ 
+ 
+ Freight revenue per carload (in dollars) 
+ 
+ $ 
+ 
+ 2,975 
+ 
+ 
+ 
+ $ 
+ 
+ 2,785 
+ 
+ 
+ 
+ $ 
+ 
+ 2,825 
+ 
+ 
+ 
+ $ 
+ 
+ 190 
+ 
+ 
+ 
+ 7 
+ 
+ 7 
+ 
+ $ 
+ 
+ (40 
+ 
+ ) 
+ 
+ (1 
+ 
+ ) 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Freight revenue per revenue ton-mile (in cents) 
+ 
+ 23.92 
+ 
+ 
+ 
+ 22.15 
+ 
+ 
+ 
+ 21.02 
+ 
+ 
+ 
+ 1.77 
+ 
+ 
+ 
+ 8 
+ 
+ 8 
+ 
+ 1.13 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ 7 
+ 
+ 
+ (1) FX adjusted % change does not have any standardized meaning prescribed by GAAP and, therefore, is unlikely to be comparable to similar measures presented by other companies. FX adjusted % change is defined and reconciled in Non-GAAP Measures of this ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of Operations. 
+ 
+ Automotive revenue was $322 million in 2018 , an increase of $29 million , or 10% , from $293 million in 2017 . This increase was primarily due to higher freight revenue per revenue ton-mile, higher fuel surcharge revenue as a result of higher fuel prices, and higher volumes of machinery. This increase was partially offset by the unfavourable change in FX. Freight revenue per revenue ton-mile increased due to higher freight rates. 
+ 
+ Automotive revenue was $293 million in 2017 , a decrease of $57 million , or 16% from $350 million in 2016 . This decrease was primarily due to a decline in volume and the unfavourable impact of the change in FX, partially offset by higher fuel surcharge revenue. The increase in freight revenue per revenue ton-mile was primarily due to a higher proportion of traffic with higher freight rates. 
+ 
+ 
+ 
+ 
+ 
+ 45 / CP 2018 ANNUAL REPORT 
+ 
+ 
+ 
+ Intermodal 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2018 vs. 2017 
+ 
+ 2017 vs. 2016 
+ 
+ 
+ For the year ended December 31 
+ 
+ 2018 
+ 
+ 2017 
+ 
+ 2016 
+ 
+ Total Change 
+ 
+ % Change 
+ 
+ FX Adjusted % Change (1) 
+ 
+ Total Change 
+ 
+ % Change 
+ 
+ FX Adjusted % Change (1) 
+ 
+ 
+ Freight revenues (in millions) 
+ 
+ $ 
+ 
+ 1,538 
+ 
+ 
+ 
+ $ 
+ 
+ 1,365 
+ 
+ 
+ 
+ $ 
+ 
+ 1,311 
+ 
+ 
+ 
+ $ 
+ 
+ 173 
+ 
+ 
+ 
+ 13 
+ 
+ 13 
+ 
+ $ 
+ 
+ 54 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ Carloads (in thousands) 
+ 
+ 1,025.9 
+ 
+ 
+ 
+ 996.7 
+ 
+ 
+ 
+ 976.2 
+ 
+ 
+ 
+ 29.2 
+ 
+ 
+ 
+ 3 
+ 
+ N/A 
+ 
+ 20.5 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ N/A 
+ 
+ 
+ Revenue ton-miles (in millions) 
+ 
+ 26,688 
+ 
+ 
+ 
+ 24,303 
+ 
+ 
+ 
+ 24,857 
+ 
+ 
+ 
+ 2,385 
+ 
+ 
+ 
+ 10 
+ 
+ N/A 
+ 
+ (554 
+ 
+ ) 
+ 
+ (2 
+ 
+ ) 
+ 
+ N/A 
+ 
+ 
+ Freight revenue per carload (in dollars) 
+ 
+ $ 
+ 
+ 1,499 
+ 
+ 
+ 
+ $ 
+ 
+ 1,370 
+ 
+ 
+ 
+ $ 
+ 
+ 1,342 
+ 
+ 
+ 
+ $ 
+ 
+ 129 
+ 
+ 
+ 
+ 9 
+ 
+ 9 
+ 
+ $ 
+ 
+ 28 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ 3 
+ 
+ 
+ Freight revenue per revenue ton-mile (in cents) 
+ 
+ 5.76 
+ 
+ 
+ 
+ 5.62 
+ 
+ 
+ 
+ 5.27 
+ 
+ 
+ 
+ 0.14 
+ 
+ 
+ 
+ 2 
+ 
+ 2 
+ 
+ 0.35 
+ 
+ 
+ 
+ 7 
+ 
+ 
+ 
+ 7 
+ (1) FX adjusted % change does not have any standardized meaning prescribed by GAAP and, therefore, is unlikely to be comparable to similar measures presented by other companies. FX adjusted % change is defined and reconciled in Non-GAAP Measures of this ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of Operations. 
+ 
+ Intermodal revenue was $1,538 million in 2018 , an increase of $173 million , or 13% , from $1,365 million in 2017 . This increase was primarily due to higher international volumes through the Port of Vancouver, higher wholesale domestic volumes, as well as higher fuel surcharge revenue as a result of higher fuel prices. This was partially offset by the unfavourable impact of the change in FX. RTMs increased more than carloads due to discontinuing expressway service, and an increased length of haul for international intermodal volume moving through the Port of Vancouver. 
+ 
+ Intermodal revenue was $1,365 million in 2017 , an increase of $54 million , or 4% , from $1,311 million in 2016 . This increase was primarily due to higher domestic volumes and higher fuel surcharge revenue, partially offset by a decline in international volumes associated with the loss of a contract and the unfavourable impact of the change in FX. Freight revenue per revenue ton-mile increased due to more revenue-generating moves of empty customer containers. 
+ 
+ 
+ Operating Expenses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2018 Operating Expenses 
+ 
+ 2017 Operating Expenses 
+ 
+ 2016 Operating Expenses 
+ 
+ 
+ 
+ 
+ 
+ CP 2018 ANNUAL REPORT / 46 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2018 vs. 2017 
+ 
+ 2017 vs. 2016 
+ 
+ 
+ For the year ended December 31 (in millions) 
+ 
+ 2018 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ Total Change 
+ 
+ % Change 
+ 
+ FX Adjusted % Change (2) 
+ 
+ Total Change 
+ 
+ % Change 
+ 
+ FX Adjusted % Change (2) 
+ 
+ 
+ Compensation and benefits (1) 
+ 
+ $ 
+ 
+ 1,468 
+ 
+ 
+ 
+ $ 
+ 
+ 1,309 
+ 
+ 
+ 
+ $ 
+ 
+ 1,356 
+ 
+ 
+ 
+ $ 
+ 
+ 159 
+ 
+ 
+ 
+ 12 
+ 
+ 
+ 
+ 12 
+ 
+ 
+ 
+ $ 
+ 
+ (47 
+ 
+ ) 
+ 
+ (3 
+ 
+ ) 
+ 
+ (3 
+ 
+ ) 
+ 
+ 
+ Fuel 
+ 
+ 918 
+ 
+ 
+ 
+ 677 
+ 
+ 
+ 
+ 567 
+ 
+ 
+ 
+ 241 
+ 
+ 
+ 
+ 36 
+ 
+ 
+ 
+ 36 
+ 
+ 
+ 
+ 110 
+ 
+ 
+ 
+ 19 
+ 
+ 
+ 
+ 22 
+ 
+ 
+ 
+ 
+ Materials 
+ 
+ 201 
+ 
+ 
+ 
+ 190 
+ 
+ 
+ 
+ 180 
+ 
+ 
+ 
+ 11 
+ 
+ 
+ 
+ 6 
+ 
+ 
+ 
+ 6 
+ 
+ 
+ 
+ 10 
+ 
+ 
+ 
+ 6 
+ 
+ 
+ 
+ 7 
+ 
+ 
+ 
+ 
+ Equipment rents 
+ 
+ 130 
+ 
+ 
+ 
+ 142 
+ 
+ 
+ 
+ 173 
+ 
+ 
+ 
+ (12 
+ 
+ ) 
+ 
+ (8 
+ 
+ ) 
+ 
+ (8 
+ 
+ ) 
+ 
+ (31 
+ 
+ ) 
+ 
+ (18 
+ 
+ ) 
+ 
+ (17 
+ 
+ ) 
+ 
+ 
+ Depreciation and amortization 
+ 
+ 696 
+ 
+ 
+ 
+ 661 
+ 
+ 
+ 
+ 640 
+ 
+ 
+ 
+ 35 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ 21 
+ 
+ 
+ 
+ 3 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ 
+ Purchased services and other 
+ 
+ 1,072 
+ 
+ 
+ 
+ 1,056 
+ 
+ 
+ 
+ 905 
+ 
+ 
+ 
+ 16 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ 151 
+ 
+ 
+ 
+ 17 
+ 
+ 
+ 
+ 18 
+ 
+ 
+ 
+ 
+ Total operating expenses (1) 
+ 
+ $ 
+ 
+ 4,485 
+ 
+ 
+ 
+ $ 
+ 
+ 4,035 
+ 
+ 
+ 
+ $ 
+ 
+ 3,821 
+ 
+ 
+ 
+ $ 
+ 
+ 450 
+ 
+ 
+ 
+ 11 
+ 
+ 
+ 
+ 11 
+ 
+ 
+ 
+ $ 
+ 
+ 214 
+ 
+ 
+ 
+ 6 
+ 
+ 
+ 
+ 7 
+ 
+ 
+ (1) 2016 and 2017 comparative year figures have been restated for the retrospective adoption of ASU 2017-07, discussed further in ITEM 8. Financial Statements and Supplementary Data, Note 2 Accounting changes. 
+ (2) FX adjusted % change does not have any standardized meaning prescribed by GAAP and, therefore, is unlikely to be comparable to similar measures presented by other companies. FX adjusted % change is defined and reconciled in Non-GAAP Measures of this ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of Operations. 
+ 
+ Operating expenses were $4,485 million in 2018 , an increase of $450 million , or 11% , from $4,035 million in 2017 . This increase was primarily due to: 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ the unfavourable impact of $197 million from higher fuel prices; 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ higher volume variable expenses; 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ cost inflation; 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ management transition recoveries of $51 million associated with Mr. E. Hunter Harrison's retirement as CEO of CP in 2017; 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ higher depreciation and amortization due to a higher asset base; 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ a $20 million charge associated with a loss contingency ; 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ harsher winter operating conditions in the first quarter of 2018; 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ higher stock-based compensation primarily driven by stronger performance against targets, partially offset by the changes in share price ; and 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ higher incentive compensation. 
+ 
+ This increase was partially offset by the efficiencies generated from improved operating performance and asset utilization and higher gains on land sales of $26 million mainly from the sale of Bass Lake railway line, in the fourth quarter of 2018 . 
+ 
+ Operating expenses were $4,035 million in 2017 , an increase of $214 million , or 6% , from $3,821 million in 2016 . This increase was primarily due to: 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ the unfavourable impact of $104 million from higher fuel prices; 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ lower gains on land sales of $91 million, following the sales of CP's Arbutus Corridor and Obico rail yard in 2016; 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ higher volume variable expenses; 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ cost inflation; and 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ higher depreciation and amortization due to a higher asset base. 
+ 
+ This increase was partially offset by: 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ management transition recoveries of $51 million associated with Mr. E. Hunter Harrison's retirement as CEO of CP; 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ efficiencies generated from improved operating performance and asset utilization; and 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ the favourable impact of the change in FX of $36 million . 
+ 
+ 
+ Compensation and Benefits 
+ Compensation and benefits expense includes employee wages, salaries, fringe benefits and stock-based compensation. Compensation and benefits expense was $1,468 million in 2018 , an increase of $159 million , or 12% , from $1,309 million in 2017 . This increase was primarily due to: 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ higher volume variable expenses as a result of an increase in workload as measured by GTMs; 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ management transition recoveries of $51 million associated with Mr. E. Hunter Harrison's retirement as CEO of CP; 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ the impact of wage and benefit inflation; 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ higher stock-based compensation primarily driven by stronger performance against targets, partially offset by the changes in share price ; 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ higher incentive compensation; 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ an increase in training programs; and 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ harsher winter operating conditions. 
+ 
+ This increase was partially offset by lower labour expenses due to operational efficiencies. 
+ 
+ Compensation and benefits expense was $1,309 million in 2017 , a decrease of $47 million , or 3% from $1,356 million in 2016 . This decrease was primarily due to: 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ management transition recoveries of $51 million associated with Mr. E. Hunter Harrison's retirement as CEO of CP; 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ lower labour expenses due to operational efficiencies; and 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ the favourable impact of the change in FX of $9 million. 
+ 
+ This decrease was partially offset by: 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ the impact of wage and benefit inflation; 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ higher volume variable expenses as a result of an increase in workload as measured by GTMs; 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ the unfavourable impact of stock-based compensation driven primarily by the change in stock price; and 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ higher incentive compensation. 
+ 
+ 
+ Fuel 
+ Fuel expense consists mainly of fuel used by locomotives and includes provincial, state and federal fuel taxes. Fuel expense was $918 million in 2018 , an increase of $241 million , or 36% , from $677 million in 2017 . This increase was primarily due to: 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ the unfavourable impact of $197 million from higher fuel prices; 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ an increase in workload, as measured by GTMs; and 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ a fuel tax recovery received in 2017 that related to prior periods of $8 million. 
+ 
+ This increase was partially offset by improvements in fuel efficiency of approximately 3%. 
+ 
+ Fuel expense was $677 million in 2017 , an increase of $110 million , or 19% , from $567 million in 2016 . This increase was primarily due to the unfavourable impact of $104 million from higher fuel prices and an increase in workload, as measured by GTMs. This increase was partially offset by the favourable impact of the change in FX of $10 million and an $8 million fuel tax recovery related to prior periods. 
+ 
+ 
+ Materials 
+ Materials expense includes the cost of material used for maintenance of track, locomotives, freight cars and buildings as well as software sustainment. Materials expense was $201 million in 2018 , an increase of $11 million , or 6% , from $190 million in 2017 . This increase was primarily due to higher locomotive maintenance and higher non-locomotive fuel costs. 
+ 
+ Materials expense was $190 million in 2017 an increase of $10 million , or 6% , from $180 million in 2016 . This increase was primarily due to higher locomotive maintenance and overhaul costs and higher right-of-way maintenance. 
+ 
+ 
+ Equipment Rents 
+ Equipment rents expense includes the cost associated with using other companies’ freight cars, intermodal equipment and locomotives, net of rental income received from other railways for the use of CP’s equipment. Equipment rents expense was $130 million in 2018 , a decrease of $12 million , or 8% , from $142 million in 2017 . This decrease was primarily due to the purchase or return of leased freight cars and lower usage of pooled intermodal containers reducing rental expenses by $7 million, and a $4 million increase in receipts from other railways' use of CP equipment. 
+ 
+ Equipment rents expense was $142 million in 2017 , a decrease of $31 million , or 18% , from $173 million in 2016 . This decrease was primarily due to the purchase or return of leased freight cars, locomotives and intermodal containers reducing rental expenses by $19 million, and a $12 million increase in receipts from other railways' use of CP equipment. 
+ 
+ 
+ Depreciation and Amortization 
+ Depreciation and amortization expense represents the charge associated with the use of track and roadway, buildings, rolling stock, information systems and other depreciable assets. Depreciation and amortization expense was $696 million for 2018 , an increase of $35 million , or 5% , from $661 million in 2017 . This increase was primarily due to higher asset base as a result of higher capital program spending in 2018 . 
+ 
+ Depreciation and amortization expense was $661 million for 2017 , an increase of $21 million , or 3% , from $640 million in 2016 . This increase was primarily due to a higher depreciable asset base, partially offset by the favourable impact of the change in FX of $3 million . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 47 / CP 2018 ANNUAL REPORT 
+ 
+ 
+ 
+ Purchased Services and Other 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2018 vs. 2017 
+ 
+ 2017 vs. 2016 
+ 
+ 
+ For the year ended December 31 (in millions) 
+ 
+ 2018 
+ 
+ 2017 
+ 
+ 2016 
+ 
+ Total Change 
+ 
+ % Change 
+ 
+ Total Change 
+ 
+ % Change 
+ 
+ 
+ Support and facilities 
+ 
+ $ 
+ 
+ 264 
+ 
+ 
+ 
+ $ 
+ 
+ 266 
+ 
+ 
+ 
+ $ 
+ 
+ 271 
+ 
+ 
+ 
+ $ 
+ 
+ (2 
+ 
+ ) 
+ 
+ (1 
+ 
+ ) 
+ 
+ $ 
+ 
+ (5 
+ 
+ ) 
+ 
+ (2 
+ 
+ ) 
+ 
+ 
+ Track and operations 
+ 
+ 268 
+ 
+ 
+ 
+ 251 
+ 
+ 
+ 
+ 238 
+ 
+ 
+ 
+ 17 
+ 
+ 
+ 
+ 7 
+ 
+ 
+ 
+ 13 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ 
+ Intermodal 
+ 
+ 221 
+ 
+ 
+ 
+ 197 
+ 
+ 
+ 
+ 180 
+ 
+ 
+ 
+ 24 
+ 
+ 
+ 
+ 12 
+ 
+ 
+ 
+ 17 
+ 
+ 
+ 
+ 9 
+ 
+ 
+ 
+ 
+ Equipment 
+ 
+ 143 
+ 
+ 
+ 
+ 157 
+ 
+ 
+ 
+ 165 
+ 
+ 
+ 
+ (14 
+ 
+ ) 
+ 
+ (9 
+ 
+ ) 
+ 
+ (8 
+ 
+ ) 
+ 
+ (5 
+ 
+ ) 
+ 
+ 
+ Casualty 
+ 
+ 73 
+ 
+ 
+ 
+ 72 
+ 
+ 
+ 
+ 68 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ 6 
+ 
+ 
+ 
+ 
+ Property taxes 
+ 
+ 124 
+ 
+ 
+ 
+ 121 
+ 
+ 
+ 
+ 116 
+ 
+ 
+ 
+ 3 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ 
+ Other 
+ 
+ 20 
+ 
+ 
+ 
+ 7 
+ 
+ 
+ 
+ (27 
+ 
+ ) 
+ 
+ 13 
+ 
+ 
+ 
+ 186 
+ 
+ 
+ 
+ 34 
+ 
+ 
+ 
+ (126 
+ 
+ ) 
+ 
+ 
+ Land sales 
+ 
+ (41 
+ 
+ ) 
+ 
+ (15 
+ 
+ ) 
+ 
+ (106 
+ 
+ ) 
+ 
+ (26 
+ 
+ ) 
+ 
+ 173 
+ 
+ 
+ 
+ 91 
+ 
+ 
+ 
+ (86 
+ 
+ ) 
+ 
+ 
+ Total Purchased services and other 
+ 
+ $ 
+ 
+ 1,072 
+ 
+ 
+ 
+ $ 
+ 
+ 1,056 
+ 
+ 
+ 
+ $ 
+ 
+ 905 
+ 
+ 
+ 
+ $ 
+ 
+ 16 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ $ 
+ 
+ 151 
+ 
+ 
+ 
+ 17 
+ 
+ 
+ 
+ Purchased services and other expense encompasses a wide range of third-party costs, including contractor and consulting fees, locomotive and freight car repairs performed by third parties, property and other taxes, intermodal pickup and delivery services, casualty expense, expenses for joint facilities and gains on land sales. Purchased services and other expense was $1,072 million in 2018 , an increase of $16 million , or 2% , from $1,056 million in 2017 . This increase was primarily due to: 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ a $20 million charge associated with a loss contingency , reported in Other; 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ higher intermodal expenses related to pickup and delivery, reported in Intermodal; and 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ higher costs due to winter weather related impacts and costs related to labour disruptions, reported primarily in Track and operations. 
+ 
+ This increase was partially offset by higher gains on land sales of $26 million mainly from the sale of Bass Lake railway line, in the fourth quarter of 2018 , and lower locomotive engine overhaul expenses as a greater proportion of this work was capital in nature in 2018, reported in Equipment. 
+ 
+ Purchased services and other expense was $1,056 million in 2017 , an increase of $151 million , or 17% , from $905 million in 2016 . This increase was primarily due to: 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ lower gains on land sales of $91 million, following the sales of CP's Arbutus Corridor and Obico rail yard in 2016; 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ a $17 million gain on sale of surplus freight cars, and a reduction in accrued discontinuance costs for certain branch lines, both in 2016, reported in Other; 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ higher right-of-way and track dismantling costs, reported in Track and operations; 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ higher intermodal expenses related to pickup and delivery services, reported in Intermodal; and 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ higher property taxes due to tax rate increases. 
+ 
+ This increase was partially offset by the favourable impact of the change in FX of $10 million . 
+ 
+ As part of optimizing its assets, the Company may identify and dispose of property used or formerly used in operating activities. The Company includes as part of operating expenses the gains and losses that arise on disposal of such long-lived assets. The following disposals have impacted Purchased services and other during the current and comparative periods: 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ in the fourth quarter of 2018, the Company completed the sale of Bass Lake railway line, for gross proceeds of $37 million and a gain on sale of $35 million; 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ in the fourth quarter of 2016, the Company completed the sale of CP's Obico rail yard for gross proceeds of $38 million and a gain on sale of $37 million; 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ in the second quarter of 2016, the Company disposed of 1,000 surplus freight cars that had reached, or were nearing the end of, their useful life in a non-monetary exchange for new freight cars. The Company recognized a gain on sale of $17 million from the transaction and the sale did not impact cash from investing activities; and 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ in the first quarter of 2016, the Company completed the sale of CP’s Arbutus Corridor to the City of Vancouver for gross proceeds of $55 million and a gain on sale of $50 million. The agreement allows the Company to share in future proceeds on the eventual development and/or sale of certain parcels of the Arbutus Corridor. 
+ 
+ 
+ Other Income Statement Items 
+ 
+ Other Expense (Income) 
+ Other expense (income) consists of gains and losses from the change in FX on long-term debt, working capital, costs related to financing, shareholder costs, equity income and other non-operating expenditures. Other expense was $174 million in 2018 , a change of $352 million , or 198% , compared to an income of $178 million in 2017 . This change was primarily due to an FX translation loss of $168 million on U.S. dollar-denominated debt, compared to a gain of $186 million and a $10 million insurance recovery of legal costs in 2017. These unfavourable changes were partially offset by a $13 million charge on the settlement and roll of forward starting swaps in 2017 and higher equity income in 2018. 
+ 
+ 
+ 
+ 
+ 
+ CP 2018 ANNUAL REPORT / 48 
+ 
+ Other income was $178 million in 2017 , an increase of $133 million , or 296% , compared to an income of $45 million in 2016 . This increase was primarily due to higher FX translation gains of $186 million on U.S. dollar-denominated debt, compared to $79 million in the same period of 2016, and a $10 million insurance recovery of legal costs in 2017, compared to a legal settlement charge of $25 million in 2016. This increase was partially offset by a $13 million charge on the settlement and roll of forward starting swaps in 2017. 
+ 
+ 
+ Other Components of Net Periodic Benefit Recovery 
+ Other components of net periodic benefit recovery were $384 million in 2018 , an increase of $110 million , or 40% , from $274 million in 2017 . Other components of net periodic benefit recovery were $274 million in 2017 , an increase of $107 million , or 64% , from $167 million in 2016 . These increases were primarily due to the 7.75% expected rate of return in each of 2016, 2017 and 2018 being applied to greater asset values, and decreases in the recognized net actuarial loss. 
+ 
+ 
+ Net Interest Expense 
+ Net interest expense includes interest on long-term debt and capital leases. Net interest expense was $453 million in 2018 , a decrease of $20 million , or 4% , from $473 million in 2017 . This decrease was primarily due to a favourable $15 million impact as a result of a lower effective interest rate and lower debt levels from debt refinancing in the second quarter of 2018, as well as higher capitalized interest. 
+ 
+ Net interest expense was $473 million in 2017 , an increase of $2 million , from $471 million in 2016 . This increase was primarily due to lower capitalized interest, partially offset by the favourable impact from the change in FX of $8 million. 
+ 
+ 
+ Income Tax Expense 
+ Income tax expense was $637 million in 2018 , an increase of $544 million , or 585% , from $93 million in 2017 . The increase is due to net income tax recoveries in 2017 of $541 million, primarily as a result of U.S. tax reform, and higher 2018 taxable earnings, partially offset by other tax rate changes in 2018 . 
+ 
+ Income tax expense was $93 million in 2017 , a decrease of $460 million , or 83% , from $553 million in 2016 . The decrease is primarily due to net income tax recoveries of $541 million as a result of U.S. tax reform, partially offset by other tax rate changes, and higher taxable earnings in 2017 . 
+ 
+ The effective income tax rate for 2018 was 24.64% on reported income and 24.55% on Adjusted income. The effective income tax rate for 2017 was 3.74% on reported income and 26.42% on Adjusted income. Adjusted income is a Non-GAAP measure, which is discussed further in Non-GAAP Measures of this ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations. 
+ 
+ The Company expects a 2019 effective tax rate of approximately 25.50% to 26.00%. The Company’s 2019 outlook for its effective tax rate is based on certain assumptions about events and developments that may or may not materialize, or that may be offset entirely or partially by new events and developments. This is discussed further in ITEM 1A. Risk Factors. 
+ 
+ 
+ Liquidity and Capital Resources 
+ The Company believes adequate amounts of Cash and cash equivalents are available in the normal course of business to provide for ongoing operations, including the obligations identified in the tables in Contractual Commitments of this ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations. The Company is not aware of any trends or expected fluctuations in the Company's liquidity that would create any deficiencies. The Company's primary sources of liquidity include its Cash and cash equivalents, its bilateral letter of credit facilities, and its revolving credit facility. 
+ 
+ As at December 31, 2018 , the Company had $61 million of Cash and cash equivalents, U.S. $1.0 billion available under its revolving credit facility and up to $540 million available under its letter of credit facilities. As at December 31, 2017 , the Company had $338 million of Cash and cash equivalents, U.S. $2.0 billion available under its revolving credit facility and up to $281 million available under its letter of credit facilities. 
+ 
+ Effective June 8, 2018, the Company cancelled the U.S. $1.0 billion one-year plus one-year portion of the revolving credit facility and extended the maturity date on the U.S. $1.0 billion five-year portion to June 28, 2023. As at December 31, 2018 and 2017 , the U.S. $1.0 billion five-year revolving credit facility was undrawn. The revolving credit facility agreement requires the Company not to exceed a maximum debt to earnings before interest, tax, depreciation, and amortization ("EBITDA") ratio. As at December 31, 2018 , the Company was in compliance with the threshold stipulated in this financial covenant. 
+ 
+ The Company has a commercial paper program that enables it to issue commercial paper up to a maximum aggregate principal amount of U.S. $1.0 billion in the form of unsecured promissory notes. This commercial paper program is backed by the revolving credit facility. As at December 31, 2018 and 2017 , there were no commercial paper borrowings outstanding. 
+ 
+ As at December 31, 2018 , under its bilateral letter of credit facilities, the Company had letters of credit drawn of $60 million from a total available amount of $600 million. This compares to letters of credit drawn of $319 million from a total available amount of $600 million as at December 31, 2017 . Under the bilateral letter of credit facility, the Company has the option to post collateral in the form of Cash or cash equivalents, equal at least to the face value of the letter of credit issued. As at December 31, 2018 , the Company did not have any collateral posted on its bilateral letter of credit facility. As at December 31, 2017 , the Company had $150 million posted as collateral on its bilateral letter of credit facility. 
+ 
+ 
+ 
+ 
+ 
+ 49 / CP 2018 ANNUAL REPORT 
+ 
+ 
+ 
+ The following discussion of operating, investing and financing activities describes the Company’s indicators of liquidity and capital resources. 
+ 
+ Operating Activities 
+ Cash provided by operating activities was $2,712 million in 2018 , an increase of $530 million compared to $2,182 million in 2017 . This increase was primarily due to higher cash generating income and a favourable change in working capital mainly due to decreased income taxes payable in 2017. 
+ 
+ Cash provided by operating activities was $2,182 million in 2017 , an increase of $93 million from $2,089 million in 2016 . The increase was primarily due to higher cash generating income, partially offset by an unfavourable change in working capital mainly as a result of increased receivables from higher revenues in 2017. 
+ 
+ Investing Activities 
+ Cash used in investing activities was $1,458 million in 2018 , an increase of $163 million from $1,295 million in 2017 . This increase was primarily due to higher additions to properties discussed further below in Capital Programs during 2018. 
+ 
+ Cash used in investing activities was $1,295 million in 2017 , an increase of $226 million from $1,069 million in 2016 . The increase was primarily due to higher additions to properties during 2017 as well as lower proceeds from the sale of properties and other assets compared to 2016. 
+ 
+ Additions to properties were $1,551 million in 2018 , an increase of $211 million from $1,340 million in 2017 . Additions to properties were $1,340 million in 2017 , an increase of $158 million from $1,182 million in 2016 . These increase s, primarily in track and roadway and rolling stock investments, reflect CP's continued investments in its network and locomotive fleet. 
+ 
+ Capital Programs 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the year ended December 31 
+ (in millions, except for track miles and crossties) 
+ 
+ 2018 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 
+ Additions to capital 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Track and roadway 
+ 
+ $ 
+ 
+ 965 
+ 
+ 
+ 
+ $ 
+ 
+ 958 
+ 
+ 
+ 
+ $ 
+ 
+ 904 
+ 
+ 
+ 
+ 
+ Rolling stock 
+ 
+ 401 
+ 
+ 
+ 
+ 198 
+ 
+ 
+ 
+ 105 
+ 
+ 
+ 
+ 
+ Information systems (1) 
+ 
+ 86 
+ 
+ 
+ 
+ 78 
+ 
+ 
+ 
+ 88 
+ 
+ 
+ 
+ 
+ Buildings and other 
+ 
+ 122 
+ 
+ 
+ 
+ 132 
+ 
+ 
+ 
+ 108 
+ 
+ 
+ 
+ 
+ Total – accrued additions to capital 
+ 
+ 1,574 
+ 
+ 
+ 
+ 1,366 
+ 
+ 
+ 
+ 1,205 
+ 
+ 
+ 
+ 
+ Less: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Non-cash transactions 
+ 
+ 23 
+ 
+ 
+ 
+ 26 
+ 
+ 
+ 
+ 23 
+ 
+ 
+ 
+ 
+ Cash invested in additions to properties (per Consolidated Statements of Cash Flows) 
+ 
+ $ 
+ 
+ 1,551 
+ 
+ 
+ 
+ $ 
+ 
+ 1,340 
+ 
+ 
+ 
+ $ 
+ 
+ 1,182 
+ 
+ 
+ 
+ 
+ Track installation capital programs 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Track miles of rail laid (miles) 
+ 
+ 281 
+ 
+ 
+ 
+ 313 
+ 
+ 
+ 
+ 252 
+ 
+ 
+ 
+ 
+ Track miles of rail capacity expansion (miles) 
+ 
+ 4 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ 
+ Crossties installed (thousands) 
+ 
+ 1,015 
+ 
+ 
+ 
+ 1,138 
+ 
+ 
+ 
+ 1,008 
+ 
+ 
+ (1) Information systems include hardware and software. 
+ 
+ Track and roadway expenditures include the replacement and enhancement of the Company’s track infrastructure. Of the $965 million additions in 2018 , approximately $847 million was invested in the renewal of depleted assets, namely rail, ties, ballast, signals and bridges. Approximately $47 million was spent on PTC compliance requirements and $71 million was invested in network improvements and growth initiatives. 
+ 
+ Rolling stock investments encompass locomotives and freight cars. In 2018 , expenditures on locomotives were approximately $218 million and were focused on the continued re-investment in CP's exiting locomotive fleet. Freight car and container investments of approximately $183 million were largely focused on the acquisition of existing units previously held under operating leases and renewal of depleted assets, including the acquisition of covered hoppers for grain transportation. 
+ 
+ In 2018 , CP invested approximately $86 million in information systems primarily focused on rationalizing and enhancing business systems, providing real-time data, and modernizing core hardware and applications. Investments in buildings and other items were $122 million , and included items such as facility upgrades and renovations, vehicles and shop equipment. 
+ 
+ 
+ 
+ 
+ 
+ CP 2018 ANNUAL REPORT / 50 
+ 
+ For 2019 , CP expects to invest approximately $1.6 billion in its capital program, which will be financed with cash generated from operations. Approximately 50% to 60% of the planned capital program is for track and roadway, including PTC. Approximately 30% is expected to be allocated to rolling stock, including freight cars and locomotive improvements. Approximately 5% is expected to be allocated to information services, and 5% to 15% is expected to be allocated to buildings and other. 
+ 
+ Free Cash 
+ CP generated positive Free cash of $1,289 million in 2018 , an increase of $415 million from $874 million in 2017 . This increase is primarily due to an increase in cash provided by operating activities due to higher cash generating activities compared to 2017, partially offset by an increase in cash used in investing activities as a result of higher additions to properties compared to 2017. 
+ 
+ CP generated positive Free cash of $874 million in 2017 , a decrease of $133 million from $1,007 million in 2016 . This decrease is primarily due to an increase in cash used in investing activities as a result of higher additions to properties as well as lower proceeds from the sale of properties and other assets compared to 2016, partially offset by an increase in cash provided by operating activities due to higher Net income compared to the same period of 2016. 
+ 
+ Free cash is affected by seasonal fluctuations and by other factors including the size of the Company's capital programs. The 2018 capital programs are discussed above. Free cash is defined and reconciled in Non-GAAP Measures of this ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations. 
+ 
+ Financing Activities 
+ Cash used in financing activities was $1,542 million in 2018 , an increase of $842 million from $700 million in 2017 . This increase was primarily due to the principal repayments of the U.S. $275 million and the $375 million notes, and higher payments to repurchase Common Shares under the Company's share repurchase program in 2018 compared to 2017, partially offset by the issuance of the U.S. $500 million notes in May 2018. 
+ 
+ Cash used in financing activities was $700 million in 2017 , a decrease of $793 million from $1,493 million in 2016 . This decrease was primarily due to lower payments to repurchase Common Shares under the Company's share repurchase program in 2017, partially offset by higher dividends paid during the year. 
+ 
+ Credit Measures 
+ Credit ratings provide information relating to the Company’s operations and liquidity, and affect the Company’s ability to obtain short-term and long-term financing and/or the cost of such financing. 
+ 
+ A mid-investment grade credit rating is an important measure in assessing the Company’s ability to maintain access to public financing and to minimize the cost of capital. It also affects the ability of the Company to engage in certain collateralized business activities on a cost-effective basis. 
+ 
+ Credit ratings and outlooks are based on the rating agencies’ methodologies and can change from time to time to reflect their views of CP. Their views are affected by numerous factors including, but not limited to, the Company’s financial position and liquidity along with external factors beyond the Company’s control. 
+ 
+ As at December 31, 2018 , CP's credit ratings from Standard & Poor's Rating Services ("Standard & Poor's") and Moody's Investor Service ("Moody's") remain unchanged from December 31, 2017 . 
+ 
+ 
+ 
+ 
+ 
+ 51 / CP 2018 ANNUAL REPORT 
+ 
+ 
+ 
+ Credit ratings as at December 31, 2018 (1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Long-term debt 
+ 
+ 
+ 
+ Outlook 
+ 
+ 
+ Standard & Poor's 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Long-term corporate credit 
+ 
+ BBB+ 
+ 
+ stable 
+ 
+ 
+ 
+ 
+ Senior secured debt 
+ 
+ A 
+ 
+ stable 
+ 
+ 
+ 
+ 
+ Senior unsecured debt 
+ 
+ BBB+ 
+ 
+ stable 
+ 
+ 
+ Moody's 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Senior unsecured debt 
+ 
+ Baa1 
+ 
+ stable 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Commercial paper program 
+ 
+ 
+ 
+ 
+ 
+ 
+ Standard & Poor's 
+ 
+ A-2 
+ 
+ N/A 
+ 
+ 
+ Moody's 
+ 
+ 
+ 
+ P-2 
+ 
+ N/A 
+ (1) Credit ratings are not recommendations to purchase, hold or sell securities and do not address the market price or suitability of a specific security for a particular investor. Credit ratings are based on the rating agencies' methodologies and may be subject to revision or withdrawal at any time by the rating agencies. 
+ 
+ The Adjusted net debt to Adjusted EBITDA ratio for the years ended December 31, 2018 , 2017 , and 2016 , was 2.6 , 2.6 and 2.9 , respectively. The ratio is unchanged between 2017 and 2018 as higher EBITDA was offset by a higher debt balance as a result of the weakening of the Canadian dollar. The decrease from 2016 to 2017 was due to lower Long-term debt and a higher Cash and cash equivalents balance as at December 31, 2017 compared to December 31, 2016. Adjusted net debt to Adjusted EBITDA ratio is defined and reconciled in Non-GAAP Measures of this ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations. Over the long term, CP targets an Adjusted net debt to Adjusted EBITDA ratio of 2.0 to 2.5. 
+ 
+ 
+ Share Capital 
+ At February 13, 2019 , the latest practicable date prior to the date of this Annual Report on Form 10-K, there were 140,041,483 Common Shares and no preferred shares issued and outstanding, which consists of 14,254 holders of record of the Common Shares. In addition, CP has a Management Stock Option Incentive Plan (“MSOIP”), under which key officers and employees are granted options to purchase the Common Shares. Each option granted can be exercised for one Common Share. At February 13, 2019 , 1.7 million options were outstanding under the Company’s MSOIP and stand-alone option agreements entered into with Mr. Keith Creel. There are 1.1 million options available to be issued by the Company’s MSOIP in the future. 
+ 
+ CP has a Director's Stock Option Plan (“DSOP”), under which directors are granted options to purchase the Common Shares. There are no outstanding options under the DSOP, which has 0.3 million options available to be issued in the future. 
+ 
+ 
+ Non-GAAP Measures 
+ The Company presents Non-GAAP measures including Free cash to provide a basis for evaluating underlying earnings and liquidity trends in the Company’s business that can be compared with the results of operations in prior periods. In addition, these Non-GAAP measures facilitate a multi-period assessment of long-term profitability, allowing management and other external users of the Company’s consolidated financial information to compare profitability on a long-term basis, including assessing future profitability, with that of the Company’s peers. 
+ 
+ These Non-GAAP measures have no standardized meaning and are not defined by GAAP and, therefore, may not be comparable to similar measures presented by other companies. The presentation of these Non-GAAP measures is not intended to be considered in isolation from, as a substitute for, or as superior to the financial information presented in accordance with GAAP. 
+ 
+ Non-GAAP Performance Measures 
+ The Company uses Adjusted income, Adjusted diluted earnings per share, Adjusted operating income and Adjusted operating ratio to evaluate the Company’s operating performance and for planning and forecasting future business operations and future profitability. These Non-GAAP measures are presented in ITEM 6. Selected Financial Data and discussed further in other sections of this ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations. These Non-GAAP measures provide meaningful supplemental information regarding operating results because they exclude certain significant items that are not considered indicative of future financial trends either by nature or amount. As a result, these items are excluded for management assessment of operational performance, allocation of resources and preparation of annual budgets. These significant items may include, but are not limited to, restructuring and asset impairment charges, individually significant gains and losses from sales of assets, the FX impact of translating the Company’s U.S. dollar denominated long-term debt, and certain items outside the control of management. These items may not be non-recurring. However, excluding these significant items from GAAP results allows for a consistent understanding of the Company's consolidated financial performance when performing a multi-period assessment including 
+ 
+ 
+ 
+ 
+ CP 2018 ANNUAL REPORT / 52 
+ 
+ assessing the likelihood of future results. Accordingly, these Non-GAAP financial measures may provide insight to investors and other external users of the Company's consolidated financial information. 
+ 
+ In 2018, there were two significant items included in Net income as follows: 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ in the second quarter, a deferred tax recovery of $21 million due to reductions in the Missouri and Iowa state tax rates that favourably impacted Diluted EPS by 15 cents; and 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ during the course of the year, a net non-cash loss of $168 million ($150 million after deferred tax) due to FX translation of the Company's U.S. dollar-denominated debt as follows: 
+ 
+ 
+ 
+ 
+ 
+ – 
+ 
+ in the fourth quarter, a $113 million loss ($103 million after deferred tax) that unfavourably impacted Diluted EPS by 72 cents; 
+ 
+ 
+ 
+ 
+ 
+ – 
+ 
+ in the third quarter, a $38 million gain ($33 million after deferred tax) that favourably impacted Diluted EPS by 23 cents; 
+ 
+ 
+ 
+ 
+ 
+ – 
+ 
+ in the second quarter, a $44 million loss ($38 million after deferred tax) that unfavourably impacted Diluted EPS by 27 cents; and 
+ 
+ 
+ 
+ 
+ 
+ – 
+ 
+ in the first quarter, a $49 million loss ($42 million after deferred tax) that unfavourably impacted Diluted EPS by 29 cents. 
+ 
+ In 2017, there were five significant items included in Net income as follows: 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ in the second quarter, a charge on hedge roll and de-designation of $13 million ($10 million after deferred tax) that unfavourably impacted Diluted EPS by 7 cents; 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ in the second quarter, an insurance recovery of a legal settlement of $10 million ($7 million after current tax) that favourably impacted Diluted EPS by 5 cents; 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ in the first quarter, a management transition recovery of $51 million related to the retirement of Mr. E. Hunter Harrison as CEO of CP ($39 million after deferred tax) that favourably impacted Diluted EPS by 27 cents; 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ during the course of the year, a net deferred tax recovery of $541 million as a result of changes in income tax rates as follows: 
+ 
+ 
+ 
+ 
+ 
+ – 
+ 
+ in the fourth quarter, a deferred tax recovery of $527 million, primarily due to the U.S. tax reform, that favourably impacted Diluted EPS by $3.63; 
+ 
+ 
+ 
+ 
+ 
+ – 
+ 
+ in the third quarter, a deferred tax expense of $3 million as a result of the change in the Illinois state corporate income tax rate change that unfavourably impacted Diluted EPS by 2 cents; 
+ 
+ 
+ 
+ 
+ 
+ – 
+ 
+ in the second quarter, a deferred tax recovery of $17 million as a result of the change in the Saskatchewan provincial corporate income tax rate that favourably impacted Diluted EPS by 12 cents; and 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ during the course of the year, a net non-cash gain of $186 million ($162 million after deferred tax) due to FX translation of the Company’s U.S. dollar-denominated debt as follows: 
+ 
+ 
+ 
+ 
+ 
+ – 
+ 
+ in the fourth quarter, a $14 million loss ($12 million after deferred tax) that unfavourably impacted Diluted EPS by 8 cents; 
+ 
+ 
+ 
+ 
+ 
+ – 
+ 
+ in the third quarter, a $105 million gain ($91 million after deferred tax) that favourably impacted Diluted EPS by 62 cents; 
+ 
+ 
+ 
+ 
+ 
+ – 
+ 
+ in the second quarter, a $67 million gain ($59 million after deferred tax) that favourably impacted Diluted EPS by 40 cents; and 
+ 
+ 
+ 
+ 
+ 
+ – 
+ 
+ in the first quarter, a $28 million gain ($24 million after deferred tax) that favourably impacted Diluted EPS by 16 cents. 
+ 
+ In 2016, there were two significant items included in Net income as follows: 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ in the third quarter, a $25 million expense ($18 million after current tax) related to a legal settlement that unfavourably impacted Diluted EPS by 12 cents; and 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ during the course of the year, a net non-cash gain of $79 million ($68 million after deferred tax) due to FX translation of the Company’s U.S. dollar-denominated debt as follows: 
+ 
+ 
+ 
+ 
+ 
+ – 
+ 
+ in the fourth quarter, a $74 million loss ($64 million after deferred tax) that unfavourably impacted Diluted EPS by 43 cents; 
+ 
+ 
+ 
+ 
+ 
+ – 
+ 
+ in the third quarter, a $46 million loss ($40 million after deferred tax) that unfavourably impacted Diluted EPS by 27 cents; 
+ 
+ 
+ 
+ 
+ 
+ – 
+ 
+ in the second quarter, an $18 million gain ($16 million after deferred tax) that favourably impacted Diluted EPS by 10 cents; and 
+ 
+ 
+ 
+ 
+ 
+ – 
+ 
+ in the first quarter, a $181 million gain ($156 million after deferred tax) that favourably impacted Diluted EPS by $1.01. 
+ 
+ In 2015, there were four significant items included in Net income as follows: 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ in the third quarter, a $68 million gain ($42 million after current tax) related to the sale of D&H South that favourably impacted Diluted EPS by 26 cents; 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ in the third quarter, a $47 million charge ($35 million after deferred tax) related to the early redemption premium on notes that unfavourably impacted Diluted EPS by 22 cents; 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ in the second quarter, a deferred income tax expense of $23 million as a result of the change in the Alberta provincial corporate income tax rate that unfavourably impacted Diluted EPS by 14 cents; and 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ during the course of the year, a net non-cash loss of $297 million ($257 million after deferred tax) due to FX translation of the Company’s U.S. dollar-denominated debt as follows: 
+ 
+ 
+ 
+ 
+ 
+ – 
+ 
+ in the fourth quarter, a $115 million loss ($100 million after deferred tax) that unfavourably impacted Diluted EPS by 64 cents; 
+ 
+ 
+ 
+ 
+ 
+ – 
+ 
+ in the third quarter, a $128 million loss ($111 million after deferred tax) that unfavourably impacted Diluted EPS by 69 cents; 
+ 
+ 
+ 
+ 
+ 
+ – 
+ 
+ in the second quarter, a $10 million gain ($9 million after deferred tax) that favourably impacted Diluted EPS by 5 cents; and 
+ 
+ 
+ 
+ 
+ 
+ – 
+ 
+ in the first quarter, a $64 million loss ($55 million after deferred tax) that unfavourably impacted Diluted EPS by 34 cents. 
+ 
+ In 2014, there were two significant items included in Net income as follows: 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ in the fourth quarter, a net non-cash loss of $12 million ($9 million after deferred tax) due to FX translation on the Company’s U.S. dollar-denominated debt that unfavourably impacted Diluted EPS by 5 cents; and 
+ 
+ 
+ 
+ 
+ 53 / CP 2018 ANNUAL REPORT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ in the first quarter, a recovery of $4 million ($3 million after current tax) was recorded for the Company's 2012 labour restructuring initiative due to favourable experience gains, recorded in Compensation and benefits that favourably impacted Diluted EPS by 1 cent. 
+ 
+ Reconciliation of GAAP Performance Measures to Non-GAAP Performance Measures 
+ The following tables reconcile the most directly comparable measures presented in accordance with GAAP to the Non-GAAP measures presented in ITEM 6. Selected Financial Data and discussed further in other sections of this ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations. 
+ 
+ Adjusted income is calculated as Net income reported on a GAAP basis adjusted for significant items. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the year ended December 31 
+ 
+ 
+ (in millions) 
+ 
+ 2018 
+ 
+ 2017 
+ 
+ 2016 
+ 
+ 2015 
+ 
+ 2014 
+ 
+ 
+ Net income as reported 
+ 
+ $ 
+ 
+ 1,951 
+ 
+ 
+ 
+ $ 
+ 
+ 2,405 
+ 
+ 
+ 
+ $ 
+ 
+ 1,599 
+ 
+ 
+ 
+ $ 
+ 
+ 1,352 
+ 
+ 
+ 
+ $ 
+ 
+ 1,476 
+ 
+ 
+ 
+ 
+ Less significant items (pre-tax): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Legal settlement charge 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ (25 
+ 
+ ) 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Insurance recovery of legal settlement 
+ 
+ — 
+ 
+ 
+ 
+ 10 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Charge on hedge roll and de-designation 
+ 
+ — 
+ 
+ 
+ 
+ (13 
+ 
+ ) 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Gain on sale of D&H South 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 68 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Labour restructuring 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ 
+ Management transition recovery 
+ 
+ — 
+ 
+ 
+ 
+ 51 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Impact of FX translation on U.S. dollar-denominated debt 
+ 
+ (168 
+ 
+ ) 
+ 
+ 186 
+ 
+ 
+ 
+ 79 
+ 
+ 
+ 
+ (297 
+ 
+ ) 
+ 
+ (12 
+ 
+ ) 
+ 
+ 
+ Early redemption premium on notes 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ (47 
+ 
+ ) 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Add: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Tax effect of adjustments (1) 
+ 
+ (18 
+ 
+ ) 
+ 
+ 36 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ (26 
+ 
+ ) 
+ 
+ (2 
+ 
+ ) 
+ 
+ 
+ Income tax rate changes 
+ 
+ (21 
+ 
+ ) 
+ 
+ (541 
+ 
+ ) 
+ 
+ — 
+ 
+ 
+ 
+ 23 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Adjusted income 
+ 
+ $ 
+ 
+ 2,080 
+ 
+ 
+ 
+ $ 
+ 
+ 1,666 
+ 
+ 
+ 
+ $ 
+ 
+ 1,549 
+ 
+ 
+ 
+ $ 
+ 
+ 1,625 
+ 
+ 
+ 
+ $ 
+ 
+ 1,482 
+ 
+ 
+ (1) The tax effect of adjustments was calculated as the pre-tax effect of the adjustments multiplied by the applicable tax rate for the above items of 10.64% , 15.27% , 7.17% , 9.29% and 26.31% for the years presented, respectively. The applicable tax rates reflect the taxable jurisdictions and nature, being on account of capital or income, of the significant items. 
+ Adjusted diluted earnings per share is calculated using Adjusted income, as defined above, divided by the weighted-average diluted number of Common Shares outstanding during the period as determined in accordance with GAAP. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the year ended December 31 
+ 
+ 
+ 
+ 
+ 2018 
+ 
+ 2017 
+ 
+ 2016 
+ 
+ 2015 
+ 
+ 2014 
+ 
+ 
+ Diluted earnings per share as reported 
+ 
+ $ 
+ 
+ 13.61 
+ 
+ 
+ 
+ $ 
+ 
+ 16.44 
+ 
+ 
+ 
+ $ 
+ 
+ 10.63 
+ 
+ 
+ 
+ $ 
+ 
+ 8.40 
+ 
+ 
+ 
+ $ 
+ 
+ 8.46 
+ 
+ 
+ 
+ 
+ Less significant items (pre-tax): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Legal settlement charge 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ (0.17 
+ 
+ ) 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Insurance recovery of legal settlement 
+ 
+ — 
+ 
+ 
+ 
+ 0.07 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Charge on hedge roll and de-designation 
+ 
+ — 
+ 
+ 
+ 
+ (0.09 
+ 
+ ) 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Gain on sale of D&H South 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 0.42 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Labour restructuring 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 0.02 
+ 
+ 
+ 
+ 
+ Management transition recovery 
+ 
+ — 
+ 
+ 
+ 
+ 0.35 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Impact of FX translation on U.S. dollar-denominated debt 
+ 
+ (1.17 
+ 
+ ) 
+ 
+ 1.27 
+ 
+ 
+ 
+ 0.53 
+ 
+ 
+ 
+ (1.84 
+ 
+ ) 
+ 
+ (0.07 
+ 
+ ) 
+ 
+ 
+ Early redemption premium on notes 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ (0.30 
+ 
+ ) 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Add: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Tax effect of adjustments (1) 
+ 
+ (0.12 
+ 
+ ) 
+ 
+ 0.25 
+ 
+ 
+ 
+ 0.02 
+ 
+ 
+ 
+ (0.16 
+ 
+ ) 
+ 
+ (0.01 
+ 
+ ) 
+ 
+ 
+ Income tax rate changes 
+ 
+ (0.15 
+ 
+ ) 
+ 
+ (3.70 
+ 
+ ) 
+ 
+ — 
+ 
+ 
+ 
+ 0.14 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Adjusted diluted earnings per share 
+ 
+ $ 
+ 
+ 14.51 
+ 
+ 
+ 
+ $ 
+ 
+ 11.39 
+ 
+ 
+ 
+ $ 
+ 
+ 10.29 
+ 
+ 
+ 
+ $ 
+ 
+ 10.10 
+ 
+ 
+ 
+ $ 
+ 
+ 8.50 
+ 
+ 
+ (1) The tax effect of adjustments was calculated as the pre-tax effect of the adjustments multiplied by the applicable tax rate for the above items of 10.64% , 15.27% , 7.17% , 9.29% and 26.31% for the years presented, respectively. The applicable tax rates reflect the taxable jurisdictions and nature, being on account of capital or income, of the significant items. 
+ 
+ 
+ 
+ 
+ CP 2018 ANNUAL REPORT / 54 
+ 
+ 
+ Adjusted operating income is calculated as Operating income reported on a GAAP basis less significant items. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the year ended December 31 
+ 
+ 
+ (in millions) 
+ 
+ 2018 
+ 
+ 2017 
+ 
+ 2016 
+ 
+ 2015 
+ 
+ 2014 
+ 
+ 
+ Operating income as reported (1) 
+ 
+ $ 
+ 
+ 2,831 
+ 
+ 
+ 
+ $ 
+ 
+ 2,519 
+ 
+ 
+ 
+ $ 
+ 
+ 2,411 
+ 
+ 
+ 
+ $ 
+ 
+ 2,618 
+ 
+ 
+ 
+ $ 
+ 
+ 2,202 
+ 
+ 
+ 
+ 
+ Less significant items: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Gain on sale of D&H South 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 68 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Labour restructuring 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ 
+ Management transition recovery 
+ 
+ — 
+ 
+ 
+ 
+ 51 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Adjusted operating income (1) 
+ 
+ $ 
+ 
+ 2,831 
+ 
+ 
+ 
+ $ 
+ 
+ 2,468 
+ 
+ 
+ 
+ $ 
+ 
+ 2,411 
+ 
+ 
+ 
+ $ 
+ 
+ 2,550 
+ 
+ 
+ 
+ $ 
+ 
+ 2,198 
+ 
+ 
+ ( 1) Comparative years' figures have been restated for the retrospective adoption of ASU 2017-07, and the impact on the 2017 and 2016 comparatives are discussed further in ITEM 8. Financial Statements and Supplementary Data, Note 2 Accounting changes. The restatements of 2015 and 2014 comparatives resulted in a decrease in Operating income of $70 million and $137 million for the years ended December 31, 2015 and 2014, respectively. 
+ 
+ Adjusted operating ratio excludes those significant items that are reported within Operating income. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the year ended December 31 
+ 
+ 
+ 
+ 
+ 2018 
+ 
+ 2017 
+ 
+ 2016 
+ 
+ 2015 
+ 
+ 2014 
+ 
+ 
+ Operating ratio as reported (1) 
+ 
+ 61.3 
+ 
+ % 
+ 
+ 61.6 
+ 
+ % 
+ 
+ 61.3 
+ 
+ % 
+ 
+ 61.0 
+ 
+ % 
+ 
+ 66.7 
+ 
+ % 
+ 
+ 
+ Less significant items: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Gain on sale of D&H South 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ (1.0 
+ 
+ ) 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Management transition recovery 
+ 
+ — 
+ 
+ 
+ 
+ (0.8 
+ 
+ ) 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Adjusted operating ratio (1) 
+ 
+ 61.3 
+ 
+ % 
+ 
+ 62.4 
+ 
+ % 
+ 
+ 61.3 
+ 
+ % 
+ 
+ 62.0 
+ 
+ % 
+ 
+ 66.7 
+ 
+ % 
+ ( 1) Comparative years' figures have been restated for the retrospective adoption of ASU 2017-07, and the impact on the 2017 and 2016 comparatives are discussed further in ITEM 8. Financial Statements and Supplementary Data, Note 2 Accounting changes. The restatements of 2015 and 2014 comparatives resulted in a decrease in Operating income of $70 million and $137 million for the years ended December 31, 2015 and 2014, respectively. 
+ 
+ ROIC and Adjusted ROIC 
+ ROIC is calculated as Operating income less Other expense (income) and Other components of net periodic benefit recovery, tax effected at the Company's annualized effective tax rate, divided by the sum of total Shareholders' equity, Long-term debt, Long-term debt maturing within one year and Short-term borrowing, as presented in the Company's Consolidated Financial Statements, averaged between the beginning and ending balance over a rolling twelve-month period. Adjusted ROIC excludes Other components of net periodic benefit recovery, and significant items reported in Operating income and Other expense (income) in the Company's Consolidated Financial Statements, as these significant items are not considered indicative of future financial trends either by nature or amount. Total Shareholders' equity, Long-term debt, Long-term debt maturing within one year and Short-term borrowing is similarly adjusted for the impact of periodic significant items, net of tax, on closing balances as part of this average. ROIC and Adjusted ROIC are performance measures that measure how productively the Company uses its long-term capital investments, representing critical indicators of good operating and investment decisions made by management and are important performance criteria in determining certain elements of the Company's long-term incentive plan. ROIC and Adjusted ROIC are presented in ITEM 6. Selected Financial Data and discussed further in Results of Operations of this ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations. 
+ 
+ 
+ 
+ 
+ 
+ 55 / CP 2018 ANNUAL REPORT 
+ 
+ 
+ 
+ Calculation of ROIC and Adjusted ROIC 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the year ended December 31 
+ 
+ 
+ (in millions, except for percentages) 
+ 
+ 2018 
+ 
+ 2017 
+ 
+ 2016 
+ 
+ 2015 
+ 
+ 2014 
+ 
+ 
+ Operating income (1) 
+ 
+ $ 
+ 
+ 2,831 
+ 
+ 
+ 
+ $ 
+ 
+ 2,519 
+ 
+ 
+ 
+ $ 
+ 
+ 2,411 
+ 
+ 
+ 
+ $ 
+ 
+ 2,618 
+ 
+ 
+ 
+ $ 
+ 
+ 2,202 
+ 
+ 
+ 
+ 
+ Less: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other expense (income) 
+ 
+ 174 
+ 
+ 
+ 
+ (178 
+ 
+ ) 
+ 
+ (45 
+ 
+ ) 
+ 
+ 335 
+ 
+ 
+ 
+ 19 
+ 
+ 
+ 
+ 
+ Other components of net periodic benefit recovery (1) 
+ 
+ (384 
+ 
+ ) 
+ 
+ (274 
+ 
+ ) 
+ 
+ (167 
+ 
+ ) 
+ 
+ (70 
+ 
+ ) 
+ 
+ (137 
+ 
+ ) 
+ 
+ 
+ Tax (2) 
+ 
+ 749 
+ 
+ 
+ 
+ 111 
+ 
+ 
+ 
+ 675 
+ 
+ 
+ 
+ 728 
+ 
+ 
+ 
+ 640 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 2,292 
+ 
+ 
+ 
+ $ 
+ 
+ 2,860 
+ 
+ 
+ 
+ $ 
+ 
+ 1,948 
+ 
+ 
+ 
+ $ 
+ 
+ 1,625 
+ 
+ 
+ 
+ $ 
+ 
+ 1,680 
+ 
+ 
+ 
+ 
+ Average of total shareholders' equity, long-term debt, long-term debt maturing within one year and short-term borrowing 
+ 
+ $ 
+ 
+ 14,964 
+ 
+ 
+ 
+ $ 
+ 
+ 13,961 
+ 
+ 
+ 
+ $ 
+ 
+ 13,532 
+ 
+ 
+ 
+ $ 
+ 
+ 12,561 
+ 
+ 
+ 
+ $ 
+ 
+ 11,653 
+ 
+ 
+ 
+ 
+ ROIC 
+ 
+ 15.3 
+ 
+ % 
+ 
+ 20.5 
+ 
+ % 
+ 
+ 14.4 
+ 
+ % 
+ 
+ 12.9 
+ 
+ % 
+ 
+ 14.4 
+ 
+ % 
+ ( 1) Comparative years' figures have been restated for the retrospective adoption of ASU 2017-07, and the impact on the 2017 and 2016 comparatives are discussed further in ITEM 8. Financial Statements and Supplementary Data, Note 2 Accounting changes. The restatements of 2015 and 2014 comparatives resulted in a decrease in Operating income of $70 million and $137 million for the years ended December 31, 2015 and 2014, respectively. 
+ (2) Tax was calculated at the annualized effective tax rate of 24.64% , 3.74% , 25.72% , 30.95% , and 27.59% for each of the above items for the years presented, respectively. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the year ended December 31 
+ 
+ 
+ (in millions, except for percentages) 
+ 
+ 2018 
+ 
+ 2017 
+ 
+ 2016 
+ 
+ 2015 
+ 
+ 2014 
+ 
+ 
+ Adjusted operating income (1) 
+ 
+ $ 
+ 
+ 2,831 
+ 
+ 
+ 
+ $ 
+ 
+ 2,468 
+ 
+ 
+ 
+ $ 
+ 
+ 2,411 
+ 
+ 
+ 
+ $ 
+ 
+ 2,550 
+ 
+ 
+ 
+ $ 
+ 
+ 2,198 
+ 
+ 
+ 
+ 
+ Less: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other expense (income) 
+ 
+ 174 
+ 
+ 
+ 
+ (178 
+ 
+ ) 
+ 
+ (45 
+ 
+ ) 
+ 
+ 335 
+ 
+ 
+ 
+ 19 
+ 
+ 
+ 
+ 
+ Other components of net periodic benefit recovery (1) 
+ 
+ (384 
+ 
+ ) 
+ 
+ (274 
+ 
+ ) 
+ 
+ (167 
+ 
+ ) 
+ 
+ (70 
+ 
+ ) 
+ 
+ (137 
+ 
+ ) 
+ 
+ 
+ Add significant items (pre-tax): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Legal settlement charge 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 25 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Insurance recovery of legal settlement 
+ 
+ — 
+ 
+ 
+ 
+ (10 
+ 
+ ) 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Charge on hedge roll and de-designation 
+ 
+ — 
+ 
+ 
+ 
+ 13 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Impact of FX translation on U.S. dollar-denominated debt 
+ 
+ 168 
+ 
+ 
+ 
+ (186 
+ 
+ ) 
+ 
+ (79 
+ 
+ ) 
+ 
+ 297 
+ 
+ 
+ 
+ 12 
+ 
+ 
+ 
+ 
+ Early redemption premium on notes 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 47 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Less: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Tax (2) 
+ 
+ 788 
+ 
+ 
+ 
+ 724 
+ 
+ 
+ 
+ 673 
+ 
+ 
+ 
+ 716 
+ 
+ 
+ 
+ 642 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 2,421 
+ 
+ 
+ 
+ $ 
+ 
+ 2,013 
+ 
+ 
+ 
+ $ 
+ 
+ 1,896 
+ 
+ 
+ 
+ $ 
+ 
+ 1,913 
+ 
+ 
+ 
+ $ 
+ 
+ 1,686 
+ 
+ 
+ 
+ 
+ Average of total shareholders' equity, long-term debt, long-term debt maturing within one year and short-term borrowing 
+ 
+ $ 
+ 
+ 14,964 
+ 
+ 
+ 
+ $ 
+ 
+ 13,961 
+ 
+ 
+ 
+ $ 
+ 
+ 13,532 
+ 
+ 
+ 
+ $ 
+ 
+ 12,561 
+ 
+ 
+ 
+ $ 
+ 
+ 11,653 
+ 
+ 
+ 
+ 
+ Add: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Impact of periodic significant items net of tax on the above average 
+ 
+ (11 
+ 
+ ) 
+ 
+ (289 
+ 
+ ) 
+ 
+ 9 
+ 
+ 
+ 
+ 8 
+ 
+ 
+ 
+ (2 
+ 
+ ) 
+ 
+ 
+ Adjusted average for the twelve months of total shareholders' equity, long-term debt, long-term debt maturing within one year and short-term borrowing 
+ 
+ $ 
+ 
+ 14,953 
+ 
+ 
+ 
+ $ 
+ 
+ 13,672 
+ 
+ 
+ 
+ $ 
+ 
+ 13,541 
+ 
+ 
+ 
+ $ 
+ 
+ 12,569 
+ 
+ 
+ 
+ $ 
+ 
+ 11,651 
+ 
+ 
+ 
+ 
+ Adjusted ROIC 
+ 
+ 16.2 
+ 
+ % 
+ 
+ 14.7 
+ 
+ % 
+ 
+ 14.0 
+ 
+ % 
+ 
+ 15.2 
+ 
+ % 
+ 
+ 14.5 
+ 
+ % 
+ ( 1) Comparative years' figures have been restated for the retrospective adoption of ASU 2017-07, and the impact on the 2017 and 2016 comparatives are discussed further in ITEM 8. Financial Statements and Supplementary Data, Note 2 Accounting changes. The restatements of 2015 and 2014 comparatives resulted in a decrease in Operating income of $70 million and $137 million for the years ended December 31, 2015 and 2014, respectively. 
+ (2) Tax was calculated at the adjusted annualized effective tax rate of 24.55% , 26.42% , 26.20% , 27.25% , and 27.58% for each of the above items for the years presented, respectively. 
+ 
+ 
+ 
+ 
+ 
+ CP 2018 ANNUAL REPORT / 56 
+ 
+ Free Cash 
+ Free cash is calculated as Cash provided by operating activities, less Cash used in investing activities, adjusted for changes in cash and cash equivalents balances resulting from FX fluctuations and the cash settlement of hedges settled upon issuance of debt. Free cash is a measure that management considers to be an indicator of liquidity. Free cash is useful to investors and other external users of the Consolidated Financial Statements as it assists with the evaluation of the Company's ability to generate cash from its operations without incurring additional external financing. The cash settlement of forward starting swaps that occurred in the second quarter of 2018 in conjunction with the issuance of long-term debt is not an indicator of CP's ongoing cash generating ability and therefore has been excluded from free cash. Positive Free cash indicates the amount of cash available for reinvestment in the business, or cash that can be returned to investors through dividends, stock repurchase programs, debt retirements or a combination of these. Conversely, negative Free cash indicates the amount of cash that must be raised from investors through new debt or equity issues, reduction in available cash balances or a combination of these. Free cash should be considered in addition to, rather than as a substitute for, Cash provided by operating activities. Free cash is presented in ITEM 6. Selected Financial Data and discussed further in Liquidity and Capital Resources of this ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations. 
+ 
+ Reconciliation of Cash Provided by Operating Activities to Free Cash 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the year ended December 31 
+ 
+ 
+ (in millions) 
+ 
+ 2018 
+ 
+ 2017 
+ 
+ 2016 
+ 
+ 2015 
+ 
+ 2014 
+ 
+ 
+ Cash provided by operating activities 
+ 
+ $ 
+ 
+ 2,712 
+ 
+ 
+ 
+ $ 
+ 
+ 2,182 
+ 
+ 
+ 
+ $ 
+ 
+ 2,089 
+ 
+ 
+ 
+ $ 
+ 
+ 2,459 
+ 
+ 
+ 
+ $ 
+ 
+ 2,123 
+ 
+ 
+ 
+ 
+ Cash used in investing activities 
+ 
+ (1,458 
+ 
+ ) 
+ 
+ (1,295 
+ 
+ ) 
+ 
+ (1,069 
+ 
+ ) 
+ 
+ (1,123 
+ 
+ ) 
+ 
+ (1,161 
+ 
+ ) 
+ 
+ 
+ Effect of foreign currency fluctuations on U.S. dollar-denominated cash and cash equivalents 
+ 
+ 11 
+ 
+ 
+ 
+ (13 
+ 
+ ) 
+ 
+ (13 
+ 
+ ) 
+ 
+ 45 
+ 
+ 
+ 
+ 7 
+ 
+ 
+ 
+ 
+ Settlement of forward starting swaps on debt issuance 
+ 
+ 24 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Free cash 
+ 
+ $ 
+ 
+ 1,289 
+ 
+ 
+ 
+ $ 
+ 
+ 874 
+ 
+ 
+ 
+ $ 
+ 
+ 1,007 
+ 
+ 
+ 
+ $ 
+ 
+ 1,381 
+ 
+ 
+ 
+ $ 
+ 
+ 969 
+ 
+ 
+ 
+ Foreign Exchange Adjusted % Change 
+ FX adjusted % change allows certain financial results to be viewed without the impact of fluctuations in foreign currency exchange rates, thereby facilitating period-to-period comparisons in the analysis of trends in business performance. Financial result variances at constant currency are obtained by translating the comparable period of the prior year results denominated in U.S. dollars at the foreign exchange rates of the current period. 
+ 
+ FX adjusted % change in revenues are further used in calculating FX adjusted % change in freight revenue per carload and RTM. These measures are discussed in Operating Revenues of this ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2018 vs. 2017 
+ 
+ 
+ 
+ 2017 vs. 2016 
+ 
+ 
+ (in millions) 
+ 
+ Reported 2018 
+ 
+ Reported 2017 
+ 
+ Reported 2016 
+ 
+ Variance due to 
+ FX 
+ 
+ FX Adjusted 2017 
+ 
+ FX Adj. % Change 
+ 
+ 
+ 
+ Variance due to 
+ FX 
+ 
+ FX Adjusted 2016 
+ 
+ FX Adj. % Change 
+ 
+ 
+ Freight revenues by line of business 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Grain 
+ 
+ $ 
+ 
+ 1,566 
+ 
+ 
+ 
+ $ 
+ 
+ 1,532 
+ 
+ 
+ 
+ $ 
+ 
+ 1,480 
+ 
+ 
+ 
+ $ 
+ 
+ — 
+ 
+ 
+ 
+ $ 
+ 
+ 1,532 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (19 
+ 
+ ) 
+ 
+ $ 
+ 
+ 1,461 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ 
+ Coal 
+ 
+ 673 
+ 
+ 
+ 
+ 631 
+ 
+ 
+ 
+ 606 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 631 
+ 
+ 
+ 
+ 7 
+ 
+ 
+ 
+ 
+ 
+ (2 
+ 
+ ) 
+ 
+ 604 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ 
+ Potash 
+ 
+ 486 
+ 
+ 
+ 
+ 411 
+ 
+ 
+ 
+ 338 
+ 
+ 
+ 
+ (1 
+ 
+ ) 
+ 
+ 410 
+ 
+ 
+ 
+ 19 
+ 
+ 
+ 
+ 
+ 
+ (4 
+ 
+ ) 
+ 
+ 334 
+ 
+ 
+ 
+ 23 
+ 
+ 
+ 
+ 
+ Fertilizers and sulphur 
+ 
+ 243 
+ 
+ 
+ 
+ 241 
+ 
+ 
+ 
+ 284 
+ 
+ 
+ 
+ (1 
+ 
+ ) 
+ 
+ 240 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 
+ 
+ (3 
+ 
+ ) 
+ 
+ 281 
+ 
+ 
+ 
+ (14 
+ 
+ ) 
+ 
+ 
+ Forest products 
+ 
+ 284 
+ 
+ 
+ 
+ 265 
+ 
+ 
+ 
+ 275 
+ 
+ 
+ 
+ (1 
+ 
+ ) 
+ 
+ 264 
+ 
+ 
+ 
+ 8 
+ 
+ 
+ 
+ 
+ 
+ (4 
+ 
+ ) 
+ 
+ 271 
+ 
+ 
+ 
+ (2 
+ 
+ ) 
+ 
+ 
+ Energy, chemicals and plastics 
+ 
+ 1,243 
+ 
+ 
+ 
+ 898 
+ 
+ 
+ 
+ 852 
+ 
+ 
+ 
+ (1 
+ 
+ ) 
+ 
+ 897 
+ 
+ 
+ 
+ 39 
+ 
+ 
+ 
+ 
+ 
+ (15 
+ 
+ ) 
+ 
+ 837 
+ 
+ 
+ 
+ 7 
+ 
+ 
+ 
+ 
+ Metals, minerals, and consumer products 
+ 
+ 797 
+ 
+ 
+ 
+ 739 
+ 
+ 
+ 
+ 564 
+ 
+ 
+ 
+ (1 
+ 
+ ) 
+ 
+ 738 
+ 
+ 
+ 
+ 8 
+ 
+ 
+ 
+ 
+ 
+ (9 
+ 
+ ) 
+ 
+ 555 
+ 
+ 
+ 
+ 33 
+ 
+ 
+ 
+ 
+ Automotive 
+ 
+ 322 
+ 
+ 
+ 
+ 293 
+ 
+ 
+ 
+ 350 
+ 
+ 
+ 
+ (2 
+ 
+ ) 
+ 
+ 291 
+ 
+ 
+ 
+ 11 
+ 
+ 
+ 
+ 
+ 
+ (5 
+ 
+ ) 
+ 
+ 345 
+ 
+ 
+ 
+ (15 
+ 
+ ) 
+ 
+ 
+ Intermodal 
+ 
+ 1,538 
+ 
+ 
+ 
+ 1,365 
+ 
+ 
+ 
+ 1,311 
+ 
+ 
+ 
+ (1 
+ 
+ ) 
+ 
+ 1,364 
+ 
+ 
+ 
+ 13 
+ 
+ 
+ 
+ 
+ 
+ (6 
+ 
+ ) 
+ 
+ 1,305 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ 
+ Freight revenues 
+ 
+ 7,152 
+ 
+ 
+ 
+ 6,375 
+ 
+ 
+ 
+ 6,060 
+ 
+ 
+ 
+ (8 
+ 
+ ) 
+ 
+ 6,367 
+ 
+ 
+ 
+ 12 
+ 
+ 
+ 
+ 
+ 
+ (67 
+ 
+ ) 
+ 
+ 5,993 
+ 
+ 
+ 
+ 6 
+ 
+ 
+ 
+ 
+ Non-freight revenues 
+ 
+ 164 
+ 
+ 
+ 
+ 179 
+ 
+ 
+ 
+ 172 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 179 
+ 
+ 
+ 
+ (8 
+ 
+ ) 
+ 
+ 
+ 
+ (1 
+ 
+ ) 
+ 
+ 171 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ 
+ Total revenues 
+ 
+ $ 
+ 
+ 7,316 
+ 
+ 
+ 
+ $ 
+ 
+ 6,554 
+ 
+ 
+ 
+ $ 
+ 
+ 6,232 
+ 
+ 
+ 
+ $ 
+ 
+ (8 
+ 
+ ) 
+ 
+ $ 
+ 
+ 6,546 
+ 
+ 
+ 
+ 12 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (68 
+ 
+ ) 
+ 
+ $ 
+ 
+ 6,164 
+ 
+ 
+ 
+ 6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 57 / CP 2018 ANNUAL REPORT 
+ 
+ 
+ 
+ FX adjusted % changes in operating expenses are discussed in Operating Expenses of this ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2018 vs. 2017 
+ 
+ 
+ 
+ 2017 vs. 2016 
+ 
+ 
+ (in millions) 
+ 
+ Reported 2018 
+ 
+ Reported 2017 
+ 
+ Reported 2016 
+ 
+ Variance due to FX 
+ 
+ FX Adjusted 2017 
+ 
+ FX Adj. % Change 
+ 
+ 
+ 
+ Variance due to FX 
+ 
+ FX Adjusted 2016 
+ 
+ FX Adj. % Change 
+ 
+ 
+ Compensation and benefits (1) 
+ 
+ $ 
+ 
+ 1,468 
+ 
+ 
+ 
+ $ 
+ 
+ 1,309 
+ 
+ 
+ 
+ $ 
+ 
+ 1,356 
+ 
+ 
+ 
+ $ 
+ 
+ (1 
+ 
+ ) 
+ 
+ $ 
+ 
+ 1,308 
+ 
+ 
+ 
+ 12 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (9 
+ 
+ ) 
+ 
+ $ 
+ 
+ 1,347 
+ 
+ 
+ 
+ (3 
+ 
+ ) 
+ 
+ 
+ Fuel 
+ 
+ 918 
+ 
+ 
+ 
+ 677 
+ 
+ 
+ 
+ 567 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 677 
+ 
+ 
+ 
+ 36 
+ 
+ 
+ 
+ 
+ 
+ (10 
+ 
+ ) 
+ 
+ 557 
+ 
+ 
+ 
+ 22 
+ 
+ 
+ 
+ 
+ Materials 
+ 
+ 201 
+ 
+ 
+ 
+ 190 
+ 
+ 
+ 
+ 180 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 190 
+ 
+ 
+ 
+ 6 
+ 
+ 
+ 
+ 
+ 
+ (2 
+ 
+ ) 
+ 
+ 178 
+ 
+ 
+ 
+ 7 
+ 
+ 
+ 
+ 
+ Equipment rents 
+ 
+ 130 
+ 
+ 
+ 
+ 142 
+ 
+ 
+ 
+ 173 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 142 
+ 
+ 
+ 
+ (8 
+ 
+ ) 
+ 
+ 
+ 
+ (2 
+ 
+ ) 
+ 
+ 171 
+ 
+ 
+ 
+ (17 
+ 
+ ) 
+ 
+ 
+ Depreciation and amortization 
+ 
+ 696 
+ 
+ 
+ 
+ 661 
+ 
+ 
+ 
+ 640 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 661 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ 
+ 
+ (3 
+ 
+ ) 
+ 
+ 637 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ 
+ Purchased services and other 
+ 
+ 1,072 
+ 
+ 
+ 
+ 1,056 
+ 
+ 
+ 
+ 905 
+ 
+ 
+ 
+ (3 
+ 
+ ) 
+ 
+ 1,053 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ 
+ 
+ (10 
+ 
+ ) 
+ 
+ 895 
+ 
+ 
+ 
+ 18 
+ 
+ 
+ 
+ 
+ Total operating expenses (1) 
+ 
+ $ 
+ 
+ 4,485 
+ 
+ 
+ 
+ $ 
+ 
+ 4,035 
+ 
+ 
+ 
+ $ 
+ 
+ 3,821 
+ 
+ 
+ 
+ $ 
+ 
+ (4 
+ 
+ ) 
+ 
+ $ 
+ 
+ 4,031 
+ 
+ 
+ 
+ 11 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (36 
+ 
+ ) 
+ 
+ $ 
+ 
+ 3,785 
+ 
+ 
+ 
+ 7 
+ 
+ 
+ (1) Comparative years' figures have been restated for the retrospective adoption of ASU 2017-07, discussed further in ITEM 8. Financial Statements and Supplementary Data, Note 2 Accounting changes. 
+ 
+ Reconciliation of Net Income to Earnings before interest and tax, Adjusted earnings before interest and tax and Adjusted earnings before interest, tax, depreciation and amortization 
+ EBIT is calculated as Net income before Net interest expense and Income tax expense. Adjusted EBIT excludes significant items reported in both Operating income and Other expense (income) . Adjusted EBITDA is calculated as Adjusted EBIT plus Other components of net periodic benefit recovery, operating lease expense and Depreciation and amortization. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the year ended December 31 
+ 
+ 
+ (in millions) 
+ 
+ 2018 
+ 
+ 2017 
+ 
+ 2016 
+ 
+ 2015 
+ 
+ 2014 
+ 
+ 
+ Net income as reported 
+ 
+ $ 
+ 
+ 1,951 
+ 
+ 
+ 
+ $ 
+ 
+ 2,405 
+ 
+ 
+ 
+ $ 
+ 
+ 1,599 
+ 
+ 
+ 
+ $ 
+ 
+ 1,352 
+ 
+ 
+ 
+ $ 
+ 
+ 1,476 
+ 
+ 
+ 
+ 
+ Add: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net interest expense 
+ 
+ 453 
+ 
+ 
+ 
+ 473 
+ 
+ 
+ 
+ 471 
+ 
+ 
+ 
+ 394 
+ 
+ 
+ 
+ 282 
+ 
+ 
+ 
+ 
+ Income tax expense 
+ 
+ 637 
+ 
+ 
+ 
+ 93 
+ 
+ 
+ 
+ 553 
+ 
+ 
+ 
+ 607 
+ 
+ 
+ 
+ 562 
+ 
+ 
+ 
+ 
+ EBIT 
+ 
+ 3,041 
+ 
+ 
+ 
+ 2,971 
+ 
+ 
+ 
+ 2,623 
+ 
+ 
+ 
+ 2,353 
+ 
+ 
+ 
+ 2,320 
+ 
+ 
+ 
+ 
+ Less significant items (pre-tax): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Legal settlement charge 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ (25 
+ 
+ ) 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Insurance recovery of legal settlement 
+ 
+ — 
+ 
+ 
+ 
+ 10 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Charge on hedge roll and de-designation 
+ 
+ — 
+ 
+ 
+ 
+ (13 
+ 
+ ) 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Gain on sale of D&H South 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 68 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Labour restructuring 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ 
+ Management transition recovery 
+ 
+ — 
+ 
+ 
+ 
+ 51 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Impact of FX translation on U.S. dollar-denominated debt 
+ 
+ (168 
+ 
+ ) 
+ 
+ 186 
+ 
+ 
+ 
+ 79 
+ 
+ 
+ 
+ (297 
+ 
+ ) 
+ 
+ (12 
+ 
+ ) 
+ 
+ 
+ Early redemption premium on notes 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ (47 
+ 
+ ) 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Adjusted EBIT 
+ 
+ 3,209 
+ 
+ 
+ 
+ 2,737 
+ 
+ 
+ 
+ 2,569 
+ 
+ 
+ 
+ 2,629 
+ 
+ 
+ 
+ 2,328 
+ 
+ 
+ 
+ 
+ Less: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other components of net periodic benefit recovery 
+ 
+ 384 
+ 
+ 
+ 
+ 274 
+ 
+ 
+ 
+ 167 
+ 
+ 
+ 
+ 70 
+ 
+ 
+ 
+ 137 
+ 
+ 
+ 
+ 
+ Operating lease expense 
+ 
+ (97 
+ 
+ ) 
+ 
+ (104 
+ 
+ ) 
+ 
+ (111 
+ 
+ ) 
+ 
+ (127 
+ 
+ ) 
+ 
+ (121 
+ 
+ ) 
+ 
+ 
+ Depreciation and amortization 
+ 
+ (696 
+ 
+ ) 
+ 
+ (661 
+ 
+ ) 
+ 
+ (640 
+ 
+ ) 
+ 
+ (595 
+ 
+ ) 
+ 
+ (552 
+ 
+ ) 
+ 
+ 
+ Adjusted EBITDA 
+ 
+ $ 
+ 
+ 3,618 
+ 
+ 
+ 
+ $ 
+ 
+ 3,228 
+ 
+ 
+ 
+ $ 
+ 
+ 3,153 
+ 
+ 
+ 
+ $ 
+ 
+ 3,281 
+ 
+ 
+ 
+ $ 
+ 
+ 2,864 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CP 2018 ANNUAL REPORT / 58 
+ 
+ Adjusted Net Debt to Adjusted EBITDA Ratio 
+ Adjusted net debt is defined as Long-term debt, Long-term debt maturing within one year and Short-term borrowing as reported on the Company’s Consolidated Balance Sheets adjusted for pension plans deficit, the net present value of operating leases, which is discounted by the Company’s effective interest rate for each of the years presented, and Cash and cash equivalents. Adjusted net debt to Adjusted EBITDA ratio is calculated as Adjusted net debt divided by Adjusted EBITDA. The Adjusted net debt to Adjusted EBITDA ratio is a key credit measure used to assess the Company’s financial capacity. The ratio provides information on the Company’s ability to service its debt and other long-term obligations. Adjusted net debt to Adjusted EBITDA ratio is discussed further in Liquidity and Capital Resources of this ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations. 
+ 
+ Reconciliation of Long-term Debt to Adjusted Net Debt 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (in millions) 
+ 
+ 2018 
+ 
+ 2017 
+ 
+ 2016 
+ 
+ 
+ Long-term debt including long-term debt maturing within one year as at December 31 
+ 
+ $ 
+ 
+ 8,696 
+ 
+ 
+ 
+ $ 
+ 
+ 8,159 
+ 
+ 
+ 
+ $ 
+ 
+ 8,684 
+ 
+ 
+ 
+ 
+ Less: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pension plans deficit (1) 
+ 
+ (266 
+ 
+ ) 
+ 
+ (278 
+ 
+ ) 
+ 
+ (273 
+ 
+ ) 
+ 
+ 
+ Net present value of operating leases 
+ 
+ (387 
+ 
+ ) 
+ 
+ (281 
+ 
+ ) 
+ 
+ (361 
+ 
+ ) 
+ 
+ 
+ Cash and cash equivalents 
+ 
+ 61 
+ 
+ 
+ 
+ 338 
+ 
+ 
+ 
+ 164 
+ 
+ 
+ 
+ 
+ Adjusted net debt as at December 31 
+ 
+ $ 
+ 
+ 9,288 
+ 
+ 
+ 
+ $ 
+ 
+ 8,380 
+ 
+ 
+ 
+ $ 
+ 
+ 9,154 
+ 
+ 
+ (1) Pension plans deficit is the total funded status of the Pension plans in deficit only. 
+ 
+ Calculation of Adjusted Net Debt to Adjusted EBITDA Ratio 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (in millions, except for ratios) 
+ 
+ 2018 
+ 
+ 2017 
+ 
+ 2016 
+ 
+ 
+ Adjusted net debt as at December 31 
+ 
+ $ 
+ 
+ 9,288 
+ 
+ 
+ 
+ $ 
+ 
+ 8,380 
+ 
+ 
+ 
+ $ 
+ 
+ 9,154 
+ 
+ 
+ 
+ 
+ Adjusted EBITDA for the year ended December 31 
+ 
+ 3,618 
+ 
+ 
+ 
+ 3,228 
+ 
+ 
+ 
+ 3,153 
+ 
+ 
+ 
+ 
+ Adjusted net debt to Adjusted EBITDA ratio 
+ 
+ 2.6 
+ 
+ 
+ 
+ 2.6 
+ 
+ 
+ 
+ 2.9 
+ 
+ 
+ 
+ 
+ Off-Balance Sheet Arrangements 
+ Guarantees 
+ Refer to ITEM 8. Financial Statements and Supplementary Data, Note 25 Guarantees for details. 
+ 
+ Contractual Commitments 
+ The accompanying table indicates the Company’s obligations and commitments to make future payments for contracts, such as debt, capital lease and commercial arrangements as at December 31, 2018 . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Payments due by period (in millions) 
+ 
+ Total 
+ 
+ 
+ 
+ 2019 
+ 
+ 
+ 
+ 2020 & 2021 
+ 
+ 
+ 
+ 2022 & 2023 
+ 
+ 
+ 
+ 2024 & beyond 
+ 
+ 
+ 
+ 
+ Contractual commitments 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Interest on long-term debt and capital lease 
+ 
+ $ 
+ 
+ 12,004 
+ 
+ 
+ 
+ $ 
+ 
+ 457 
+ 
+ 
+ 
+ $ 
+ 
+ 870 
+ 
+ 
+ 
+ $ 
+ 
+ 737 
+ 
+ 
+ 
+ $ 
+ 
+ 9,940 
+ 
+ 
+ 
+ 
+ Long-term debt 
+ 
+ 8,625 
+ 
+ 
+ 
+ 501 
+ 
+ 
+ 
+ 449 
+ 
+ 
+ 
+ 1,002 
+ 
+ 
+ 
+ 6,673 
+ 
+ 
+ 
+ 
+ Capital leases 
+ 
+ 159 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ 11 
+ 
+ 
+ 
+ 117 
+ 
+ 
+ 
+ 26 
+ 
+ 
+ 
+ 
+ Operating lease (1) 
+ 
+ 485 
+ 
+ 
+ 
+ 90 
+ 
+ 
+ 
+ 126 
+ 
+ 
+ 
+ 99 
+ 
+ 
+ 
+ 170 
+ 
+ 
+ 
+ 
+ Supplier purchase 
+ 
+ 1,247 
+ 
+ 
+ 
+ 658 
+ 
+ 
+ 
+ 160 
+ 
+ 
+ 
+ 133 
+ 
+ 
+ 
+ 296 
+ 
+ 
+ 
+ 
+ Other long-term liabilities (2) 
+ 
+ 498 
+ 
+ 
+ 
+ 53 
+ 
+ 
+ 
+ 103 
+ 
+ 
+ 
+ 100 
+ 
+ 
+ 
+ 242 
+ 
+ 
+ 
+ 
+ Total contractual commitments 
+ 
+ $ 
+ 
+ 23,018 
+ 
+ 
+ 
+ $ 
+ 
+ 1,764 
+ 
+ 
+ 
+ $ 
+ 
+ 1,719 
+ 
+ 
+ 
+ $ 
+ 
+ 2,188 
+ 
+ 
+ 
+ $ 
+ 
+ 17,347 
+ 
+ 
+ (1) Residual value guarantees on certain leased equipment with a maximum exposure of $2 million are not included in the minimum payments shown above, as management believes that CP will not be required to make payments under these residual guarantees. 
+ (2) Includes expected cash payments for environmental remediation, post-retirement benefits, workers’ compensation benefits, long-term disability benefits, pension benefit payments for the Company’s non-registered supplemental pension plan and certain other long-term liabilities. Projected payments for post-retirement benefits, workers’ compensation benefits and long-term disability benefits include the anticipated payments for years 2019 to 2028 . Pension contributions for the Company’s registered pension plans are not included due to the volatility in calculating them. Pension payments are discussed further in Critical Accounting Estimates of this ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations. 
+ 
+ 
+ 
+ 
+ 59 / CP 2018 ANNUAL REPORT 
+ 
+ 
+ 
+ 
+ Certain Other Financial Commitments 
+ In addition to the financial commitments mentioned previously in Off-Balance Sheet Arrangements and Contractual Commitments of this ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations, the Company is party to certain other financial commitments discussed below. 
+ 
+ Letters of Credit 
+ Letters of credit are obtained mainly to provide security to third parties under the terms of various agreements, including the supplemental pension plan. CP is liable for these contractual amounts in the case of non-performance under these agreements. Letters of credit are accommodated through a revolving credit facility and the Company’s bilateral letter of credit facilities. 
+ 
+ Capital Commitments 
+ The Company remains committed to maintaining the current high level of quality of our capital assets in pursuing sustainable growth. As part of this commitment, CP has entered into contracts with suppliers to make various capital purchases related to track programs. Payments for these commitments are due in 2019 through 2032. These expenditures are expected to be financed by cash generated from operations or by issuing new debt. 
+ 
+ The accompanying table indicates the Company’s commitments to make future payments for letters of credit and capital expenditures as at December 31, 2018 . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Payments due by period (in millions) 
+ 
+ Total 
+ 
+ 
+ 
+ 2019 
+ 
+ 
+ 
+ 2020 & 2021 
+ 
+ 
+ 
+ 2022 & 2023 
+ 
+ 
+ 
+ 2024 & beyond 
+ 
+ 
+ 
+ 
+ Certain other financial commitments 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Letters of credit 
+ 
+ $ 
+ 
+ 60 
+ 
+ 
+ 
+ $ 
+ 
+ 60 
+ 
+ 
+ 
+ $ 
+ 
+ — 
+ 
+ 
+ 
+ $ 
+ 
+ — 
+ 
+ 
+ 
+ $ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Capital commitments 
+ 
+ 586 
+ 
+ 
+ 
+ 310 
+ 
+ 
+ 
+ 92 
+ 
+ 
+ 
+ 67 
+ 
+ 
+ 
+ 117 
+ 
+ 
+ 
+ 
+ Total certain other financial commitments 
+ 
+ $ 
+ 
+ 646 
+ 
+ 
+ 
+ $ 
+ 
+ 370 
+ 
+ 
+ 
+ $ 
+ 
+ 92 
+ 
+ 
+ 
+ $ 
+ 
+ 67 
+ 
+ 
+ 
+ $ 
+ 
+ 117 
+ 
+ 
+ 
+ 
+ Critical Accounting Estimates 
+ To prepare the Consolidated Financial Statements that conform with GAAP, the Company is required to make estimates and assumptions that affect the reported amounts of assets and liabilities, the disclosure of contingent assets and liabilities at the date of the Consolidated Financial Statements and the reported amounts of revenues and expenses during the reported periods. Using the most current information available, the Company reviews estimates on an ongoing basis, including those related to environmental liabilities, pensions and other benefits, property, plant and equipment, deferred income taxes, and personal injury and other claims liabilities. 
+ 
+ The development, selection and disclosure of these estimates, and this Management's Discussion and Analysis of Financial Condition and Results of Operations, have been reviewed by the Board of Directors’ Audit Committee, which is composed entirely of independent directors. 
+ 
+ Environmental Liabilities 
+ Environmental remediation accruals cover site-specific remediation programs. CP estimates of the probable costs to be incurred in the remediation of properties contaminated by past railway use reflect the nature of contamination at individual sites according to typical activities and scale of operations conducted. The Company screens and classifies sites according to typical activities and scale of operations conducted. CP has developed remediation strategies for each property based on the nature and extent of the contamination, as well as the location of the property and surrounding areas that may be adversely affected by the presence of contaminants. CP also considers available technologies, treatment and disposal facilities and the acceptability of site-specific plans based on the local regulatory environment. Site-specific plans range from containment and risk management of the contaminants through to the removal and treatment of the contaminants and affected soils and groundwater. The details of the estimates reflect the environmental liability at each property. The Company is committed to fully meeting regulatory and legal obligations with respect to environmental matters. 
+ 
+ Some sites include remediation activities that are projected beyond the 10-year period, which CP is unable to reasonably estimate and determine. Therefore, CP's accruals of the environmental liabilities is based on an estimate of costs for a rolling 10-year period covered by the environmental program. Payments are expected to be made over 10 years to 2028. A limited portion of the environmental accruals, the stable Perpetual Care for the environmental program, are fixed and reliably determined. This portion of the environmental liabilities is discounted using a risk-free rate, adjusted by inflation and productivity improvements. 
+ 
+ Provisions for environmental remediation costs are recorded in “Other long-term liabilities” (refer to ITEM 8. Financial Statements and Supplementary Data, Note 19 Other long-term liabilities), except for the current portion which is recorded in “Accounts payable and accrued liabilities” (refer to ITEM 8. Financial Statements and Supplementary Data, Note 16 Accounts payable and accrued liabilities). The accruals for environmental remediation represent CP’s best estimate of its probable future obligations and include both asserted and unasserted claims, without reduction for anticipated recoveries from third parties. Although the recorded accruals include CP’s best estimate of all probable costs, CP’s total environmental remediation costs cannot be predicted with certainty. Accruals for environmental remediation may change from time to time as new information about previously untested sites becomes known, environmental laws and regulations evolve and advances are made in environmental remediation technology. The accruals may also vary as the courts decide legal proceedings against outside parties responsible for contamination. These potential charges, which cannot be quantified at this time, are not expected to be material to the Company’s financial position, but may materially affect income in the period in which a charge is recognized. 
+ 
+ 
+ 
+ 
+ CP 2018 ANNUAL REPORT / 60 
+ 
+ 
+ The environmental liabilities are also sensitive to the increase in cost of materials which would be reflected as increases to "Other long-term liabilities" and "Accounts payable and accrued liabilities" on the Company’s Consolidated Balance Sheets and to "Purchased services and other" within Operating expenses on the Company's Consolidated Statements of Income. CP's cash payments for environmental initiatives are estimated to be approximately $8 million in 2019 , $9 million in 2020 , $9 million in 2021 and a total of approximately $58 million over the remaining years through 2028 . All payments will be funded from general operations. 
+ 
+ Pensions and Other Benefits 
+ CP has defined benefit and defined contribution pension plans. Other benefits include post-retirement medical and life insurance for pensioners, and some post-employment workers’ compensation and long-term disability benefits in Canada. Workers’ compensation and long-term disability benefits are discussed in the Personal Injury and Other Claims Liabilities section below. Pension and post-retirement benefits liabilities are subject to various external influences and uncertainties. 
+ 
+ Information concerning the measurement of costs for pensions and other benefits is discussed in ITEM 8. Financial Statements and Supplementary Data, Note 1 Summary of significant accounting policies. 
+ 
+ Information on an Accounting Standards Update effective January 1, 2018, concerning the change in presentation of costs for pensions and other benefits is discussed in ITEM 8. Financial Statements and Supplementary Data, Note 2 Accounting changes. The amendments also restrict capitalization to the current service cost component when applicable. 
+ 
+ Net Periodic Benefit Costs 
+ The Company reports the current service cost component of net periodic benefit cost in "Compensation and benefits" for pensions and post-retirement benefits and in "Purchased services and other" for self-insured workers' compensation and long-term disability benefits on the Company's Consolidated Statements of Income. The Other components of net periodic benefit recovery are reported as a separate line ITEM outside of Operating income on the Company's Consolidated Statements of Income. Components of the net periodic benefit costs (credits) are as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2018 
+ 
+ 2017 
+ 
+ 
+ (in millions of Canadian dollars) 
+ 
+ Current service cost 
+ 
+ 
+ 
+ Other components 
+ 
+ 
+ 
+ Total 
+ 
+ 
+ 
+ Current service cost 
+ 
+ 
+ 
+ Other components 
+ 
+ 
+ 
+ Total 
+ 
+ 
+ 
+ 
+ Defined benefit pensions 
+ 
+ $ 
+ 
+ 120 
+ 
+ 
+ 
+ $ 
+ 
+ (405 
+ 
+ ) 
+ 
+ $ 
+ 
+ (285 
+ 
+ ) 
+ 
+ $ 
+ 
+ 103 
+ 
+ 
+ 
+ $ 
+ 
+ (294 
+ 
+ ) 
+ 
+ $ 
+ 
+ (191 
+ 
+ ) 
+ 
+ 
+ Defined contribution pensions 
+ 
+ 10 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 10 
+ 
+ 
+ 
+ 9 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 9 
+ 
+ 
+ 
+ 
+ Post-retirement benefits 
+ 
+ 5 
+ 
+ 
+ 
+ 18 
+ 
+ 
+ 
+ 23 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ 18 
+ 
+ 
+ 
+ 22 
+ 
+ 
+ 
+ 
+ Self-insured workers' compensation and long-term disability benefits 
+ 
+ 7 
+ 
+ 
+ 
+ 3 
+ 
+ 
+ 
+ 10 
+ 
+ 
+ 
+ 8 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ 10 
+ 
+ 
+ 
+ 
+ All plans 
+ 
+ $ 
+ 
+ 142 
+ 
+ 
+ 
+ $ 
+ 
+ (384 
+ 
+ ) 
+ 
+ $ 
+ 
+ (242 
+ 
+ ) 
+ 
+ $ 
+ 
+ 124 
+ 
+ 
+ 
+ $ 
+ 
+ (274 
+ 
+ ) 
+ 
+ $ 
+ 
+ (150 
+ 
+ ) 
+ 
+ CP estimates net periodic benefit credits for defined benefit pensions to be approximately $309 million in 2019 ($107 million in current service cost and $416 million in other components of net periodic recovery), and net periodic benefit costs for defined contribution pensions to be approximately $10 million in 2019 . Net periodic benefit costs for post-retirement benefits in 2019 are not expected to differ materially from the 2018 costs. Total net periodic benefit credits for all plans are estimated to be approximately $267 million in 2019 (2018 - $242 million), comprised of $128 million (2018 - $142 million) in current service cost and $395 million (2018 - $384 million) in other components of net periodic recovery. The expected rate of return on the market-related asset value used to compute the net periodic benefit credit in 2017 and 2018 was 7.75%. For computing the net periodic benefit credit in 2019, the Company is reducing this rate to 7.50% to reflect CP's current view of future long-term investment returns. Net periodic benefit costs and credits are discussed further in ITEM 8. Financial Statements and Supplementary Data, Note 21 Pensions and other benefits. 
+ 
+ Pension Plan Contributions 
+ The Company made contributions of $36 million , which is net of a $10 million refund of plan surplus, to the defined benefit pension plans in 2018 , compared with $46 million in 2017 . The Company’s main Canadian defined benefit pension plan accounts for nearly all of CP’s pension obligation and can produce significant volatility in pension funding requirements, given the pension fund’s size, the many factors that drive the pension plan’s funded status and Canadian statutory pension funding requirements. The Company made voluntary prepayments of $600 million in 2011, $650 million in 2010 and $500 million in 2009 to the Company’s main Canadian defined benefit pension plan. CP has applied $1,323 million of these voluntary prepayments to reduce its pension funding requirements in 2012–2018, leaving $427 million of the voluntary prepayments still available at December 31, 2018 to reduce CP’s pension funding requirements in 2019 and future years. CP continues to have significant flexibility with respect to the rate at which the remaining voluntary prepayments are applied to reduce future years’ pension contribution requirements, which allows CP to manage the volatility of future pension funding requirements. At this time, CP estimates it will apply $30 million of the remaining voluntary prepayments against its 2019 pension funding requirements. 
+ 
+ 
+ 
+ 
+ 
+ 61 / CP 2018 ANNUAL REPORT 
+ 
+ 
+ 
+ CP estimates its aggregate pension contributions, including its defined benefit and defined contribution plans, to be in the range of $50 million to $75 million in 2019 , and in the range of $30 million to $70 million per year from 2020 to 2022 . These estimates reflect the Company’s current intentions with respect to the rate at which CP will apply the remaining voluntary prepayments against contribution requirements in the next few years. 
+ 
+ Future pension contributions will be highly dependent on the Company’s actual experience with such variables as investment returns, interest rate fluctuations and demographic changes, on the rate at which previous years’ voluntary prepayments are applied against pension contribution requirements, and on any changes in the regulatory environment. CP will continue to make contributions to the pension plans that, at a minimum, meet pension legislative requirements. 
+ 
+ Pension Plan Risks 
+ Fluctuations in the liability and net periodic benefit costs for pensions result from favourable or unfavourable investment returns and changes in long-term interest rates. The impact of favourable or unfavourable investment returns is moderated by the use of a market-related asset value for the main Canadian defined benefit pension plan’s public equity securities and absolute return strategies. The impact of changes in long-term interest rates on pension obligations is partially offset by their impact on the pension funds’ investments in fixed income assets. 
+ 
+ The plans’ investment policy provides a target allocation of approximately 45% of the plans’ assets to be invested in public equity securities. As a result, stock market performance is a key driver in determining the pension funds’ asset performance. If the rate of investment return on the plans’ public equity securities in 2018 had been 10% higher (or lower) than the actual 2018 rate of investment return on such securities, 2019 net periodic benefit costs for pensions would be lower (or higher) by approximately $23 million. 
+ 
+ Changes in bond yields can result in changes to discount rates and to changes in the value of fixed income assets. If the discount rate as at December 31, 2018 had been higher (or lower) by 0.1% with no related changes in the value of the pension funds’ investment in fixed income assets, 2019 net periodic benefit costs for pensions would be lower (or higher) by approximately $11 million and 2019 current service costs for pensions would be lower (or higher) by approximately $4 million. However, a change in bond yields would also lead to a change in the value of the pension funds’ investment in fixed income assets, and this change would partially offset the impact on net periodic benefit costs noted above. 
+ 
+ The Company estimates that an increase in the discount rate of 0.1% would decrease the defined benefit pension plans’ projected benefit obligations by approximately $148 million, and estimates that a decrease in the discount rate of 0.1% would increase the defined benefit pension plans’ projected benefit obligations by approximately $150 million. Similarly, for every 0.1% the actual return on assets varies above (or below) the estimated return for the year, the value of the defined benefit pension plans’ assets would increase (or decrease) by approximately $12 million. 
+ 
+ Adverse experience with respect to these factors could eventually increase funding and pension expense significantly, while favourable experience with respect to these factors could eventually decrease funding and pension expense significantly. 
+ 
+ Fluctuations in the post-retirement benefit obligation also can result from changes in the discount rate used. A 0.1% increase (decrease) in the discount rate would decrease (increase) the obligation by approximately $5 million. 
+ 
+ CP reviews its pensioner mortality experience to ensure that the mortality assumption continues to be appropriate, or to determine what changes to the assumption are needed. 
+ 
+ 
+ 
+ 
+ 
+ CP 2018 ANNUAL REPORT / 62 
+ 
+ Property, Plant and Equipment 
+ The Company follows the group depreciation method under which a single depreciation rate is applied to the total cost in a particular class of property, despite differences in the service life or salvage value of individual properties within the same class. CP performs depreciation studies of each property asset class approximately every three years to update depreciation rates. The studies are conducted with assistance from third-party specialists and analyzed and reviewed by the Company's management. Depreciation studies for U.S. assets are reviewed and approved by the Surface Transportation Board ("STB"). Depreciation studies for Canadian assets are provided to the Canadian Transportation Agency (the "Agency"), but the Agency does not approve depreciation rates. In determining appropriate depreciation rates, management is required to make judgements and assumptions about a variety of key factors that are subject to future variability due to inherent uncertainties. These include the following: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Key Assumptions 
+ 
+ Assessments 
+ 
+ 
+ 
+ • Whole and remaining asset lives 
+ 
+ 
+ 
+ • Statistical analysis of historical retirement patterns; 
+ 
+ • Evaluation of management strategy and its impact on operations and the future use of specific property assets; 
+ 
+ • Assessment of technological advances; 
+ 
+ • Engineering estimates of changes in current operations and analysis of historic, current and projected future usage; 
+ 
+ • Additional factors considered for track assets: density of traffic and whether rail is new or has been re-laid in a subsequent position; 
+ 
+ • Assessment of policies and practices for the management of assets including maintenance; and 
+ 
+ • Comparison with industry data. 
+ 
+ 
+ 
+ 
+ 
+ • Salvage values 
+ 
+ 
+ • Analysis of historical, current and estimated future salvage values. 
+ 
+ CP depreciates the cost of properties, net of salvage, on a straight-line basis over the estimated useful life of the class of property. The estimates of economic lives are uncertain and can vary due to changes in any of the assessed factors noted in the table above for whole and remaining asset lives. Additionally, the depreciation rates are updated to reflect the change in residual values of the assets in the class. 
+ 
+ It is anticipated that there will be changes in the estimates of weighted average useful lives and net salvage for each property asset class as assets are acquired, used and retired. Substantial changes in either the useful lives of properties or the salvage assumptions could result in significant changes to depreciation expense. For example, if the estimated average life of track assets, including rail, ties, ballast and other track material, increased (or decreased) by one year, annual depreciation expense would decrease (or increase) by approximately $16 million. 
+ 
+ Due to the capital intensive nature of the railway industry, depreciation represents a significant part of operating expenses. The estimated useful lives of properties have a direct impact on the amount of depreciation recorded as a component of Properties on the Company’s Consolidated Balance Sheets. At December 31, 2018 and 2017 , accumulated depreciation was $7,964 million and $7,413 million , respectively. 
+ 
+ Deferred Income Taxes 
+ CP accounts for deferred income taxes based on the liability method. This method focuses on the Company’s balance sheet and the temporary differences otherwise calculated from the comparison of book versus tax values. The provision for deferred income taxes arises from temporary differences in the carrying values of assets and liabilities for financial statement and income tax purposes and the effect of loss carry forwards. It is assumed that such temporary differences will be settled in the deferred income tax assets and liabilities at the balance sheet date. 
+ 
+ In determining deferred income taxes, the Company makes estimates and assumptions regarding deferred tax matters, including estimating the timing of the realization and settlement of deferred income tax assets (including the benefit of tax losses) and liabilities. Deferred income taxes are calculated using enacted federal, provincial, and state future income tax rates, which may differ in future periods. 
+ 
+ As at December 31, 2018, the Company has completed the measurement of certain income tax effects of the Tax Cuts and Jobs Act in accordance with the Securities and Exchange Commission Staff Accounting Bulletin No. 118 ("SAB 118"). There was no significant change identified from the provisional amount previously reported in the prior year. 
+ 
+ Deferred income tax expense is included in "Income tax expense" on the Company's Consolidated Statements of Income. Additional disclosures are provided in ITEM 8. Financial Statements and Supplementary Data, Note 6 Income taxes. 
+ 
+ Personal Injury and Other Claims Liabilities 
+ CP estimates the potential liability arising from incidents, claims and pending litigations relating to personal injury claims by employees, third-party claims, certain occupation-related claims and property damage claims. 
+ 
+ Personal Injury 
+ In Canada, employee occupational injuries are governed by provincial workers' compensation legislation. Occupational injury claims in the provinces of Quebec, Ontario, Manitoba and B.C. are self-insured and administered through each Worker's Compensation Board ("WCB"). The future costs related to occupation- 
+ 
+ 
+ 
+ 
+ 63 / CP 2018 ANNUAL REPORT 
+ 
+ 
+ 
+ related injuries are actuarially determined based on past experience and assumptions associated with the injury, compensation, income replacement, health care and administrative costs. In the four provinces where the Company is self-insured, a discount rate is applied to the future estimated costs based on market rates for investment grade corporate bonds to determine the liability. An actuarial study is performed on an annual basis. In the provinces of Saskatchewan and Alberta, the Company is assessed an annual WCB contribution on a premium basis and this amount is not subject to estimation by management. At December 31, 2018 and 2017 , respectively, the WCB liability was $81 million and $81 million in "Pension and other benefit liabilities"; $12 million and $11 million in "Accounts payable and accrued liabilities", offset by deposits paid to WCB of $1 million and $1 million in "Other assets" on the Company's Consolidated Balance Sheets. 
+ 
+ U.S. railway employees are covered by federal law under the FELA rather than workers' compensation programs. Accruals are set for individual cases based on facts, legal opinion and statistical analysis. U.S. accruals are also set and include alleged occupational exposure or injury. 
+ 
+ Other Claims 
+ A provision for a litigation matter or other claim will be accrued according to applicable accounting standards and any such accrual will be based on an ongoing assessment of the strengths and weaknesses of the litigation or claim and its likelihood of success, together with an evaluation of the damages or other monetary relief sought. CP accrues for probable claims when the facts of an incident become known and investigation results provide a reasonable basis for estimating the liability. The lower end of the range is accrued if the facts and circumstances permit only a range of reasonable estimates and no single amount in that range is a better estimate than any other. Additionally, for administrative expediency, a general provision for lesser value injury cases is maintained. Facts and circumstances related to asserted claims can change, and a process is in place to monitor accruals for changes in accounting estimates. 
+ 
+ 
+ Forward-Looking Statements 
+ This Management's Discussion and Analysis of Financial Condition and Results of Operations and Annual Report on Form 10-K contains certain forward-looking statements within the meaning of the United States Private Securities Litigation Reform Act of 1995 and other relevant securities legislation. Forward-looking statements typically include words such as “financial expectations”, “key assumptions”, “anticipate”, “believe”, “expect”, “plan”, “will”, “outlook”, “should” or similar words suggesting future outcomes. To the extent that CP has provided guidance using Non-GAAP financial measures, the Company may not be able to provide a reconciliation to a GAAP measure, due to unknown variables and uncertainty related to future results. 
+ 
+ This Management's Discussion and Analysis of Financial Condition and Results of Operations and Annual Report on Form 10-K includes forward-looking statements relating, but not limited to statements concerning the Company’s defined benefit pension expectations for 2019 and through 2022 , our expectations for 2019 financial and operational performance, including our full-year guidance for expected RTM and adjusted diluted EPS growth, planned capital expenditures, the Canadian-to-U.S. dollar exchange rate, the effective tax rate and land sales, as well as statements concerning the Company’s operations, anticipated financial performance, business prospects and strategies, including statements concerning the anticipation that cash flow from operations and various sources of financing will be sufficient to meet debt repayments and obligations in the foreseeable future and concerning anticipated capital programs, and statements regarding future payments including income taxes and pension contributions. 
+ 
+ The forward-looking statements contained in this Management’s Discussion and Analysis of Financial Condition and Results of Operations and Annual Report on Form 10-K are based on current expectations, estimates, projections and assumptions, having regarding to the Company's experience and its perception of historical trends, and includes, but is not limited to, expectations, estimates, projections and assumptions relating to: North American and global economic growth; commodity demand growth; sustainable industrial and agricultural production; commodity prices and interest rates; foreign exchange rates (as specified herein); effective tax rates (as specified herein); performance of our assets and equipment; sufficiency of our budgeted capital expenditures in carrying out our business plan; applicable laws, regulations and government policies; the availability and cost of labour, services and infrastructure; and the satisfaction by third parties of their obligations to the Company. Although the Company believes the expectations, estimates, projections and assumptions reflected in the forward-looking statements presented herein are reasonable as of the date hereof, there can be no assurance that they will prove to be correct. Current economic conditions render assumptions, although reasonable when made, subject to greater uncertainty. 
+ 
+ Undue reliance should not be placed on forward-looking statements as actual results may differ materially from those expressed or implied by forward-looking statement. By their nature, forward-looking statements involve numerous inherent risks and uncertainties that could cause actual results to differ materially from the forward-looking statements, including but not limited to the following factors: changes in business strategies; general North American and global economic, credit and business conditions; risks associated with agricultural production such as weather conditions and insect populations; the availability and price of energy commodities; the effects of competition and pricing pressures; industry capacity; shifts in market demand; changes in commodity prices; uncertainty surrounding timing and volumes of commodities being shipped via CP; inflation; changes in laws, regulations and government policies, including regulation of rates; changes in taxes and tax rates; potential increases in maintenance and operating costs; changes in fuel prices; uncertainties of investigations, proceedings or other types of claims and litigation; labour disputes; risks and liabilities arising from derailments; transportation of dangerous goods; timing of completion of capital and maintenance projects; currency and interest rate fluctuations; effects of changes in market conditions and discount rates on the financial position of pension plans and investments; trade restrictions or other changes to international trade arrangements; climate change; and various events that could disrupt operations, including severe weather, such as droughts, floods, avalanches and earthquakes, and cybersecurity attacks, as well as security threats and governmental response to them, and technological changes. The foregoing list of factors is not exhaustive. 
+ 
+ There are more specific factors that could cause actual results to differ materially from those described in the forward-looking statements contained in this Management's Discussion and Analysis of Financial Condition and Results of Operations and Annual Report on Form 10-K. These more specific factors are 
+ 
+ 
+ 
+ 
+ CP 2018 ANNUAL REPORT / 64 
+ 
+ identified and discussed in ITEM 1A. Risk Factors. Other risks are detailed from time to time in reports filed by CP with securities regulators in Canada and the United States. 
+ 
+ The forward-looking statements contained in this Management’s Discussion and Analysis of Financial Condition and Results of Operations and Annual Report on Form 10-K are made as of the date hereof. Except as required by law, CP undertakes no obligation to update publicly or otherwise revise any forward-looking statements, or the foregoing assumptions and risks affecting such forward-looking information, whether as a result of new information, future events or otherwise. 
+ 
+ 
+ 
+ 
+ 
+ 65 / CP 2018 ANNUAL REPORT 
+ 
+ 
+ 

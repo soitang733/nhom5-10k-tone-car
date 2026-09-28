@@ -1,0 +1,9655 @@
+ ITEM 7. 
+ 
+ MAN AGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+ You should read the following discussion and analysis of our financial condition and results of our operations in conjunction with our “Selected Financial Data” and our audited consolidated financial statements and the notes to those statements included elsewhere in this report. This discussion contains forward-looking statements reflecting our current expectations that involve risks and uncertainties. Actual results and the timing of events may differ materially from those contained in these forward-looking statements due to a number of factors, including those discussed in the section entitled “Risk Factors” and elsewhere in this report. 
+ The discussion and analysis of our financial condition and results of operations has been organized to present the following: 
+  a brief overview of our company; 
+  a review of our financial presentation and accounting policies, including our critical accounting policies; 
+  a discussion of our principal trends and results of operations for the years ended December 31, 2019, 2018 and 2017; 
+  a discussion of the principal factors that influence our results of operations, financial condition and liquidity; 
+  a discussion of our liquidity and capital resources, a discussion of our capital expenditures and a description of our contractual obligations; and 
+  a discussion of the market risks that we face. 
+ 
+ For discussion on results from 2018 compared to 2017, please refer to “ITEM 7 – Management’s Discussion and Analysis of Financial Condition and Results of Operations” of our Annual Report on Form 10-K filed with the SEC for the year ended December 31, 2018. 
+ 
+ 
+ Business Overview 
+ MercadoLibre, Inc. (together with its subsidiaries “us”, “we”, “our” or the “Company”) is the largest online commerce ecosystem in Latin America. Our platform is designed to provide users with a complete portfolio of services to facilitate commercial transactions. We are a market leader in e-commerce in each of Argentina, Brazil, Chile, Colombia, Costa Rica, Ecuador, Mexico, Peru, Uruguay and Venezuela, based on number of unique visitors and page views. We also operate online commerce platforms in the Dominican Republic, Honduras, Nicaragua, Salvador, Panama, Bolivia, Guatemala and Paraguay. 
+ Through our platform, we provide buyers and sellers with a robust environment that fosters the development of a large e-commerce community in Latin America, a region with a population of over 644 million people and with one of the fastest-growing Internet penetration rates in the world. We believe that we offer technological and commercial solutions that address the distinctive cultural and geographic challenges of operating an online commerce platform in Latin America . 
+ We offer our users an ecosystem of six integrated e-commerce services: the Mercado Libre Marketplace, the Mercado Pago FinTech solution, the Mercado Envios logistics service, the Mercado Libre advertising solution, the Mercado Libre Classifieds service and the Mercado Shops online webstores solution . 
+ The Mercado Libre Marketplace, which we sometimes refer to as our marketplace, is a fully-automated, topically-arranged and user-friendly online commerce platform, which can be accessed through our website and mobile app. This platform enables both businesses and individuals to list merchandise and conduct sales and purchases online . 
+ Mercado Pago is our financial technology (FinTech) solution, designed to facilitate transactions both on and off our marketplaces by providing a mechanism that allows our users to securely, easily and promptly send and receive payments online. Outside of our marketplaces, Mercado Pago allows merchants to process transactions via their websites and mobile apps, as well as in their brick-and-mortar stores through QR codes and mobile points of sale (“MPOS”) devices. It also enables users to easily transfer money to each other. Through Mercado Fondo, our asset management product, our users are able to invest the outstanding balance on their Mercado Pago account at competitive rates and in a simple way. Mercado Credito, our lending solution, allows us to finance merchants’ working capital needs and consumers’ purchases. 
+ To further enhance our suite of e-commerce services, we launched the Mercado Envios shipping program in Brazil, Argentina, Mexico, Colombia, Chile and Uruguay. Through Mercado Envios, we offer a cost-efficient way to utilize our existing distribution chain to fulfill sales on our platform. Sellers that opt into the program are able to offer a uniform and seamlessly integrated shipping experience to their buyers at competitive prices. As of December 31, 2019, we also offer free shipping to buyers in Brazil, Argentina, Mexico, Chile and Colombia. 
+ 
+ 
+ 
+ 34 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ Through Mercado Libre Classifieds, our online classified listing service, our users can also list and purchase motor vehicles, real estate and services in the countries where we operate. Classifieds listings differ from Marketplace listings as they only charge optional placement fees and not final value fees. Our classifieds pages are also a major source of traffic to our platform, benefitting both the Enhanced Marketplace and non-Marketplace businesses . 
+ Furthermore, we developed our Mercado Libre advertising platform to enable businesses to promote their products and services on the Internet. Through this platform, MercadoLibre’s sellers and large advertisers are able to display ads on our webpages. 
+ Additionally, through Mercado Shops, our online store solution, users can set-up, manage and promote their own online stores. These stores are hosted by Mercado Libre and offer integration with the rest of the ecosystem, namely our marketplaces and payment services. Users can select between a free model and a subscription-based model for enhanced functionalities and value added services on their store. 
+ 
+ Reporting Segments and Geographic Information 
+ Our segment reporting is based on geography, which is the criterion our Management uses to evaluate our segment performance. Our geographic segments are Brazil, Argentina, Mexico and Other Countries (including Chile, Colombia, Costa Rica, Dominican Republic, Ecuador, Panama, Peru, Bolivia, Honduras, Nicaragua, El Salvador, Guatemala, Paraguay, Uruguay and the United States of America). Venezuela was one of our geographic segments until we deconsolidated our Venezuelan operations, effective as of December 1, 2017. Although we discuss long-term trends in our business, it is our policy not to provide earnings guidance in the traditional sense. We believe that uncertain conditions make the forecasting of near-term results difficult. Further, we seek to make decisions focused primarily on the long-term welfare of our company and believe focusing on short-term earnings does not best serve the interests of our stockholders. We believe that execution of key strategic initiatives as well as our expectations for long-term growth in our markets will best create stockholder value. 
+ The following table sets forth the percentage of our consolidated net revenues by segment for the years ended December 31, 2019, 2018 and 2017: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years ended December 31, 
+ 
+ 
+ (% of total consolidated net revenues) (*)(**) 
+ 
+ 
+ 
+ 2019 
+ 
+ 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 
+ Brazil 
+ 
+ 
+ 
+ 63.6 
+ 
+ % 
+ 
+ 
+ 
+ 60.2 
+ 
+ % 
+ 
+ 
+ 
+ 56.8 
+ 
+ % 
+ 
+ 
+ Argentina 
+ 
+ 
+ 
+ 19.9 
+ 
+ 
+ 
+ 
+ 
+ 26.2 
+ 
+ 
+ 
+ 
+ 
+ 29.5 
+ 
+ 
+ 
+ 
+ Mexico 
+ 
+ 
+ 
+ 12.0 
+ 
+ 
+ 
+ 
+ 
+ 7.6 
+ 
+ 
+ 
+ 
+ 
+ 4.2 
+ 
+ 
+ 
+ 
+ Venezuela (***) 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 4.5 
+ 
+ 
+ 
+ 
+ Other Countries 
+ 
+ 
+ 
+ 4.5 
+ 
+ 
+ 
+ 
+ 
+ 6.1 
+ 
+ 
+ 
+ 
+ 
+ 5.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (*) 
+ 
+ Percentages have been calculated using whole-dollar amounts rather than the rounded amounts that appear in the table. The table above may not total due to rounding. 
+ 
+ 
+ (**) 
+ 
+ The amount incurred in shipping subsidies netted from revenues, when we act as an agent, was $261.2 million, $424.8 million and $181.6 million for the year ended December 31, 2019, 2018 and 2017, respectively. 
+ 
+ 
+ (***) 
+ 
+ Venezuelan revenues have been deconsolidated since December 1, 2017. Please refer to Note 2 of our audited consolidated financial statements for additional detail 
+ 
+ The following table summarizes the changes in our net revenues by segment for the years ended December 31, 2019, 2018 and 2017: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year ended 
+ 
+ 
+ 
+ Change from 2018 
+ 
+ 
+ 
+ Year ended 
+ 
+ 
+ 
+ Change from 2017 
+ 
+ 
+ 
+ 
+ December 31, 
+ 
+ to 2019 (*)(**) 
+ 
+ 
+ 
+ December 31, 
+ 
+ to 2018 (*)(**) 
+ 
+ 
+ 
+ 
+ 2019 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ in Dollars 
+ 
+ 
+ 
+ in % 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ in Dollars 
+ 
+ 
+ 
+ in % 
+ 
+ 
+ 
+ 
+ 
+ 
+ (in millions, except percentages) 
+ 
+ 
+ 
+ 
+ 
+ (in millions, except percentages) 
+ 
+ 
+ 
+ 
+ Net Revenues: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Brazil 
+ 
+ $ 1,461.5 
+ 
+ 
+ 
+ $ 866.2 
+ 
+ 
+ 
+ $ 595.3 
+ 
+ 
+ 
+ 68.7 
+ 
+ % 
+ 
+ 
+ 
+ $ 866.2 
+ 
+ 
+ 
+ $ 690.8 
+ 
+ 
+ 
+ $ 175.4 
+ 
+ 
+ 
+ 25.4 
+ 
+ % 
+ 
+ 
+ Argentina 
+ 
+ 456.3 
+ 
+ 
+ 
+ 376.6 
+ 
+ 
+ 
+ 79.8 
+ 
+ 
+ 
+ 21.2 
+ 
+ 
+ 
+ 
+ 
+ 376.6 
+ 
+ 
+ 
+ 359.4 
+ 
+ 
+ 
+ 17.2 
+ 
+ 
+ 
+ 4.8 
+ 
+ 
+ 
+ 
+ Mexico 
+ 
+ 275.1 
+ 
+ 
+ 
+ 109.1 
+ 
+ 
+ 
+ 166.0 
+ 
+ 
+ 
+ 152.2 
+ 
+ 
+ 
+ 
+ 
+ 109.1 
+ 
+ 
+ 
+ 51.3 
+ 
+ 
+ 
+ 57.8 
+ 
+ 
+ 
+ 112.5 
+ 
+ 
+ 
+ 
+ Venezuela (***) 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 54.3 
+ 
+ 
+ 
+ (54.3) 
+ 
+ 
+ 
+ (100.0) 
+ 
+ 
+ 
+ 
+ Other Countries 
+ 
+ 103.3 
+ 
+ 
+ 
+ 87.8 
+ 
+ 
+ 
+ 15.5 
+ 
+ 
+ 
+ 17.7 
+ 
+ 
+ 
+ 
+ 
+ 87.8 
+ 
+ 
+ 
+ 60.7 
+ 
+ 
+ 
+ 27.1 
+ 
+ 
+ 
+ 44.6 
+ 
+ 
+ 
+ 
+ Total Net Revenues 
+ 
+ $ 2,296.3 
+ 
+ 
+ 
+ $ 1,439.7 
+ 
+ 
+ 
+ $ 856.7 
+ 
+ 
+ 
+ 59.5 
+ 
+ % 
+ 
+ 
+ 
+ $ 1,439.7 
+ 
+ 
+ 
+ $ 1,216.5 
+ 
+ 
+ 
+ $ 223.1 
+ 
+ 
+ 
+ 18.3 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (*) 
+ 
+ Percentages have been calculated using whole-dollar amounts rather than the rounded amounts that appear in the table. The table above may not total due to rounding. 
+ 
+ 
+ (**) 
+ 
+ The amount incurred in shipping subsidies netted from revenues, when we act as an agent, was $261.2 million, $424.8 million and $181.6 million for the year ended December 31, 2019, 2018 and 2017, respectively . 
+ 
+ 
+ (***) 
+ 
+ Venezuelan revenues have been deconsolidated since December 1, 2017. Please refer to Note 2 of our audited consolidated financial statements for additional detail. 
+ 
+ ‎ 
+ 
+ 
+ 
+ 35 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ Recent Developments ‎ ‎ Law No. 27,506 (knowledge-based economy promotional regime) interruption in Argentina. 
+ The knowledge-based economy promotional regime was suspended on January 20, 2020 through a new resolution issued by Argentina’s Ministry of Productive Development until new rules for the application of the mentioned regime are issued. The Company will analyze whether it will be eligible to benefit from the law and its related tax benefits once the new regulations are issued. Please see note 2 of our audited consolidated financial statements for additional detail. 
+ 
+ Regulation issued by Argentine Central Bank 
+ In January 2020, the Central Bank of Argentina enacted regulations relating to payments services providers that applies to the FinTech institutions that are not financial institutions but nevertheless, provide payment services in at least one of the processes of the payments system. According to this regulation, payments services providers must register by April 1, 2020, in a new registry of payments services providers created by the Central Bank of Argentina. The regulation sets forth certain specific rules related to (i) the provision of information to users; (ii) keeping users ’ funds deposited in a freely available bank account; (iii) allowing the users dispose immediately the funds accredited and (iv) providing information relating to the business of payments processing. 
+ If the regulation had been in force as of December 31, 2019, the amount to be deposited in a freely available bank account would amount to $ 126.9 million. 
+ Criminal complaint against our chief executive officer and others 
+ On February 4, 2020, an Argentine federal prosecutor submitted to an Argentine judge a complaint (denuncia) alleging that certain sales of Argentine government securities, made by a common investment fund that holds balances for Mercado Pago customers, were based on non-public information about the government’s plans to extend the maturities of the securities. The complaint names our chief executive officer, as well as others who are not specifically identified, as having committed criminal fraud against the Argentine federal government. The complaint does not provide any specific evidence or theory to support the allegations. We have been informed that a judge has appointed another prosecutor and an inquiry has been initiated, but no formal charges have been presented. 
+ 
+ Description of line items 
+ Net revenues 
+ We recognize revenues in each of our four geographical reporting segments. Within each of our segments, the services we provide generally fall into two distinct revenue streams: “Enhanced Marketplace” and “Non-Marketplace”. 
+ The following table summarizes our consolidated net revenues by revenue stream for the years ended December 31, 2019, 2018 and 2017: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years ended 
+ 
+ 
+ 
+ 
+ 
+ 
+ December 31, (*) 
+ 
+ 
+ Consolidated net revenues by revenue stream 
+ 
+ 
+ 
+ 2019 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ (in millions) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Enhanced Marketplace (**) 
+ 
+ 
+ 
+ $ 
+ 
+ 1,199.2 
+ 
+ 
+ 
+ $ 
+ 
+ 702.4 
+ 
+ 
+ 
+ $ 
+ 
+ 737.5 
+ 
+ 
+ Non-Marketplace (***) (****) 
+ 
+ 
+ 
+ 
+ 
+ 1,097.1 
+ 
+ 
+ 
+ 
+ 
+ 737.3 
+ 
+ 
+ 
+ 
+ 
+ 479.1 
+ 
+ 
+ Total 
+ 
+ 
+ 
+ $ 
+ 
+ 2,296.3 
+ 
+ 
+ 
+ $ 
+ 
+ 1,439.7 
+ 
+ 
+ 
+ $ 
+ 
+ 1,216.5 
+ 
+ 
+ 
+ (*) 
+ (**) 
+ 
+ 
+ The table above may not total due to rounding. 
+ The amount incurred in shipping subsidies netted from revenues, when we act as an agent, was $261.2 million, $424.8 million and $181.6 million for the year ended December 31, 2019, 2018 and 2017, respectively. 
+ 
+ 
+ (***) 
+ 
+ Includes, among other things, ad sales, classified fees, payment fees and other ancillary services . 
+ 
+ 
+ (****) 
+ 
+ Includes $949.9 million, $601.0 million and $356.4 million of Payment Fees for the year ended December 31, 2019, 2018 and 2017, respectively. 
+ 
+ Revenues from Enhanced Marketplace transactions are mainly generated from final value fees and shipping fees net of the third-party carrier costs. 
+ Final value fees represent a percentage of the sale value that is charged to the seller once an ITEM is successfully sold. Shipping revenues are generated when a buyer elects to receive an ITEM through our shipping service net of the third-party carrier costs. 
+ Revenues for Non-Marketplace services are generated from: 
+  payment fees; 
+  classifieds fees; 
+ 
+ 
+ 
+ 36 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+  ad sales up-front fees; and 
+  fees from other ancillary businesses. 
+ Non-Marketplace revenues also come from our Mercado Pago FinTech solution , where we generate payment fees attributable to: 
+  commissions representing a percentage of the payment volume processed that are charged to sellers in connection with off Marketplace-platform transactions; 
+  commissions from additional fees we charge when a buyer elects to pay in installments through our Mercado Pago platform, for transactions that occur either on or off our Marketplace platform; 
+  commissions from additional fees we charge when our sellers elect to withdraw cash; 
+  interest, cash advances and fees from merchant and consumer credits granted under our Mercado Credito solution; and 
+  revenues from the sale of mobile points of sale products. 
+ Through our classifieds offerings for motor vehicles, vessels, aircraft, real estate and services, we generate revenues from up-front fees for all classifieds offerings. We charge additional fees to sellers who opt to give their listings greater exposure throughout our websites. 
+ Our Advertising revenues are generated by selling either display product and/or text link ads throughout our websites. 
+ When more than one service is included in one single arrangement with the same customer, we recognize revenue according to multiple element arrangements accounting, distinguishing between each of the services provided and allocating revenues based on their respective estimated selling prices. 
+ We have a highly fragmented customer revenue base given the large numbers of sellers and buyers who use our platforms. For the years ended December 31, 2019, 2018 and 2017, no single customer accounted for more than 5.0% of our net revenues. 
+ Our Mercado Libre Marketplace is available in 18 countries (Argentina, Brazil, Chile, Colombia, Costa Rica, Dominican Republic, Ecuador, Mexico, Panama, Peru, Uruguay, Venezuela, Bolivia, Honduras, Nicaragua, El Salvador, Guatemala and Paraguay), and Mercado Pago is available in 7 countries (Argentina, Brazil, Chile, Peru, Colombia, Mexico and Uruguay). Mercado Envios is available in 6 countries (Argentina, Brazil, Mexico, Colombia, Chile and Uruguay). 
+ The functional currency for each country’s operations is the country’s local currency, except for Argentina, where the functional currency is the U.S. dollar due to Argentina’s status as a highly inflationary economy. See—“Critical accounting policies and estimates—Foreign Currency Translation” included below and Note 2 to our audited consolidated financial statements for highly inflationary economy details. Our net revenues are generated in multiple foreign currencies and then translated into U.S. dollars at the average monthly exchange rate. 
+ 
+ Cost of net revenues 
+ Cost of net revenues primarily includes bank and credit card processing charges for transactions and fees paid with credit cards and other payment methods, fraud prevention fees, certain taxes on revenues, certain taxes on revenues, cost of mobile point of sale products sold, hosting and site operation fees, compensation for customer support personnel, ISP connectivity charges, depreciation and amortization, finance costs mainly related to funding our Mercado Pago business, shipping operating costs (including warehousing costs), carrier and other operation costs . 
+ Our subsidiaries in Brazil, Argentina and Colombia are subject to certain taxes on revenues which are classified as a cost of net revenues. These taxes represented 8.2%, 9.7% and 8.8% of net revenues for the years ended December 31, 2019, 2018 and 2017, respectively. 
+ 
+ Product and technology development expenses 
+ Our product and technology development related expenses consist primarily of compensation for our engineering and web-development staff, depreciation and amortization costs related to product and technology development, telecommunications costs and payments to third-party suppliers who provide technology maintenance services to us. 
+ 
+ Sales and marketing expenses 
+ Our sales and marketing expenses consist primarily of costs related to marketing our platforms through online and offline advertising and agreements with portals and search engines, charges related to our buyer protection programs, the salaries of employees involved in these activities, chargebacks related to our Mercado Pago operations, bad debt charges, branding initiatives, marketing activities for our users and depreciation and amortization costs. 
+ We carry out the majority of our marketing efforts on the Internet. We enter into agreements with portals, search engines, social networks, ad networks and other sites in order to attract Internet users to the Mercado Libre Marketplace and convert them into registered users and active traders on our platform. 
+ 
+ 
+ 
+ 37 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ We also work intensively on attracting, developing and growing our seller community through our customer support efforts. We have dedicated professionals in most of our operations that work with sellers through trade show participation, seminars and meetings to provide them with important tools and skills to become effective sellers on our platform. 
+ 
+ General and administrative expenses 
+ Our general and administrative expenses consist primarily of salaries for management and administrative staff, compensation of outside directors, long term retention plan compensation expenses , expenses for legal, audit and other professional services, insurance expenses, office space rental expenses, travel and business expenses, as well as depreciation and amortization costs. Our general and administrative expenses include the costs of the following areas: general management, finance, administration, accounting, legal and human resources. 
+ 
+ Impairment of long-lived assets 
+ We review long-lived assets for impairments whenever events or changes in circumstances indicate that the carrying value of an asset may not be recoverable. 
+ During 2017, and as a result of the lower U.S. dollar-equivalent cash flows expected from the Venezuelan business, and long-lived assets expected use, we concluded that certain real estate investments held in Venezuela, should be impaired. As a consequence, we estimated the fair value of the impaired long-lived assets, and recorded impairment losses of $2.8 million on June 30, 2017, by using the market approach and considering prices for similar assets. 
+ 
+ Loss on deconsolidation of Venezuelan subsidiaries 
+ As further described in Note 2 to our audited consolidated financial statements, effective as of December 1, 2017, we determined that we no longer meet the accounting criteria for control of our subsidiaries in Venezuela as a result of Venezuela’s recent selective default determination, restrictive exchange controls, suspension of foreign exchange market and the worsening in Venezuela macroeconomic environment that have significantly impacted the Company’s ability to make key financial decisions with respect to our Venezuelan subsidiaries. As a result, we deconsolidated our Venezuelan subsidiaries effective as of December 1, 2017, recorded an impairment of its investments in Venezuela, including net assets, intercompany balances and intangible assets and began reporting the results under the cost method of accounting. Since December 1, 2017, and as of December 31, 2019, we no longer include the balances, results of operations and cash flows of the Venezuelan subsidiaries in our audited consolidated financial statements. 
+ 
+ Other income (expenses), net 
+ Other income (expenses) consists primarily of interest income derived from our investments and cash equivalents, interest expense related to financial liabilities and foreign currency gains or losses. 
+ 
+ Income tax 
+ We are subject to federal and state taxes in the United States, as well as foreign taxes in the multiple jurisdictions where we operate. Our tax obligations consist of current and deferred income taxes incurred in these jurisdictions. We account for income taxes following the liability method of accounting. A valuation allowance is recorded when, based on the available evidence, it is more likely than not that all or a portion of our deferred tax assets will not be realized. Therefore, our income tax expense consists of taxes currently payable, if any (given that in certain jurisdictions we still have net operating loss carry-forwards), plus the change in our deferred tax assets and liabilities during each period . 
+ The following table summarizes the composition of our income taxes for the years ended December 31, 2019, 2018 and 2017: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year ended December 31, 
+ 
+ 
+ (In millons) 
+ 
+ 
+ 
+ 2019 (*) 
+ 
+ 
+ 
+ 2018 (*) 
+ 
+ 
+ 
+ 2017 (*) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Current: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ U.S. 
+ 
+ 
+ 
+ 8.7 
+ 
+ 
+ 
+ (0.0) 
+ 
+ 
+ 
+ 0.0 
+ 
+ 
+ Non U.S. 
+ 
+ 
+ 
+ 39.6 
+ 
+ 
+ 
+ 64.0 
+ 
+ 
+ 
+ 64.8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 48.3 
+ 
+ 
+ 
+ 64.0 
+ 
+ 
+ 
+ 64.9 
+ 
+ 
+ Deferred: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ U.S. 
+ 
+ 
+ 
+ (13.6) 
+ 
+ 
+ 
+ (3.6) 
+ 
+ 
+ 
+ 1.8 
+ 
+ 
+ Non U.S. 
+ 
+ 
+ 
+ 30.0 
+ 
+ 
+ 
+ (89.3) 
+ 
+ 
+ 
+ (26.4) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 16.5 
+ 
+ 
+ 
+ (92.9) 
+ 
+ 
+ 
+ (24.6) 
+ 
+ 
+ Income tax expense/(gain) 
+ 
+ 
+ 
+ 64.8 
+ 
+ 
+ 
+ (28.9) 
+ 
+ 
+ 
+ 40.3 
+ 
+ (*) The table above may not total due to rounding. No asset tax expense was recorded for the years ended December 31, 2019, 2018 and 2017. 
+ 
+ 
+ 
+ 
+ 
+ 38 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ Seasonality 
+ The following table presents certain unaudited quarterly financial information for each of the twelve quarters set forth below: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Quarter Ended 
+ 
+ 
+ (in millions, except for share data) 
+ 
+ 
+ 
+ March 31, 
+ 
+ 
+ 
+ June 30, 
+ 
+ 
+ 
+ September 30,(*) 
+ 
+ 
+ 
+ December 31,(**) 
+ 
+ 
+ 2019 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net Revenues (***) 
+ 
+ 
+ 
+ $ 473.8 
+ 
+ 
+ 
+ $ 545.2 
+ 
+ 
+ 
+ $ 603.0 
+ 
+ 
+ 
+ $ 674.3 
+ 
+ 
+ Gross profit 
+ 
+ 
+ 
+ 237.0 
+ 
+ 
+ 
+ 272.4 
+ 
+ 
+ 
+ 284.3 
+ 
+ 
+ 
+ 308.3 
+ 
+ 
+ Net Income/(loss) 
+ 
+ 
+ 
+ 11.9 
+ 
+ 
+ 
+ 16.2 
+ 
+ 
+ 
+ (146.1) 
+ 
+ 
+ 
+ (54.0) 
+ 
+ 
+ Net Income/(loss) per share-basic 
+ 
+ 
+ 
+ 0.13 
+ 
+ 
+ 
+ 0.31 
+ 
+ 
+ 
+ (2.96) 
+ 
+ 
+ 
+ (1.11) 
+ 
+ 
+ Net Income/(loss) per share-diluted 
+ 
+ 
+ 
+ 0.13 
+ 
+ 
+ 
+ 0.31 
+ 
+ 
+ 
+ (2.96) 
+ 
+ 
+ 
+ (1.11) 
+ 
+ 
+ Weighted average shares 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Basic 
+ 
+ 
+ 
+ 45,980,255 
+ 
+ 
+ 
+ 49,318,522 
+ 
+ 
+ 
+ 49,710,723 
+ 
+ 
+ 
+ 49,709,955 
+ 
+ 
+ Diluted 
+ 
+ 
+ 
+ 45,980,255 
+ 
+ 
+ 
+ 49,318,522 
+ 
+ 
+ 
+ 49,710,723 
+ 
+ 
+ 
+ 49,709,955 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net Revenues (***) 
+ 
+ 
+ 
+ $ 321.0 
+ 
+ 
+ 
+ $ 335.4 
+ 
+ 
+ 
+ $ 355.3 
+ 
+ 
+ 
+ $ 428.0 
+ 
+ 
+ Gross profit 
+ 
+ 
+ 
+ 162.8 
+ 
+ 
+ 
+ 159.7 
+ 
+ 
+ 
+ 169.7 
+ 
+ 
+ 
+ 204.8 
+ 
+ 
+ Net loss 
+ 
+ 
+ 
+ (12.9) 
+ 
+ 
+ 
+ (11.3) 
+ 
+ 
+ 
+ (10.1) 
+ 
+ 
+ 
+ (2.3) 
+ 
+ 
+ Net Income loss per share-basic 
+ 
+ 
+ 
+ (0.29) 
+ 
+ 
+ 
+ (0.25) 
+ 
+ 
+ 
+ (0.23) 
+ 
+ 
+ 
+ (0.05) 
+ 
+ 
+ Net loss per share-diluted 
+ 
+ 
+ 
+ (0.29) 
+ 
+ 
+ 
+ (0.25) 
+ 
+ 
+ 
+ (0.23) 
+ 
+ 
+ 
+ (0.05) 
+ 
+ 
+ Weighted average shares 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Basic 
+ 
+ 
+ 
+ 44,157,364 
+ 
+ 
+ 
+ 44,157,364 
+ 
+ 
+ 
+ 44,588,704 
+ 
+ 
+ 
+ 45,202,859 
+ 
+ 
+ Diluted 
+ 
+ 
+ 
+ 44,157,364 
+ 
+ 
+ 
+ 44,157,364 
+ 
+ 
+ 
+ 44,588,704 
+ 
+ 
+ 
+ 45,202,859 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net Revenues (***) 
+ 
+ 
+ 
+ $ 269.7 
+ 
+ 
+ 
+ $ 283.9 
+ 
+ 
+ 
+ $ 304.9 
+ 
+ 
+ 
+ $ 358.1 
+ 
+ 
+ Gross profit 
+ 
+ 
+ 
+ 168.9 
+ 
+ 
+ 
+ 171.6 
+ 
+ 
+ 
+ 175.8 
+ 
+ 
+ 
+ 203.4 
+ 
+ 
+ Net Income/(loss) 
+ 
+ 
+ 
+ 48.5 
+ 
+ 
+ 
+ 5.3 
+ 
+ 
+ 
+ 27.7 
+ 
+ 
+ 
+ (67.7) 
+ 
+ 
+ Net Income/(loss) per share-basic 
+ 
+ 
+ 
+ 1.10 
+ 
+ 
+ 
+ 0.12 
+ 
+ 
+ 
+ 0.63 
+ 
+ 
+ 
+ (1.53) 
+ 
+ 
+ Net Income/(loss) per share-diluted 
+ 
+ 
+ 
+ 1.10 
+ 
+ 
+ 
+ 0.12 
+ 
+ 
+ 
+ 0.63 
+ 
+ 
+ 
+ (1.53) 
+ 
+ 
+ Weighted average shares 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Basic 
+ 
+ 
+ 
+ 44,157,364 
+ 
+ 
+ 
+ 44,157,364 
+ 
+ 
+ 
+ 44,157,364 
+ 
+ 
+ 
+ 44,157,364 
+ 
+ 
+ Diluted 
+ 
+ 
+ 
+ 44,157,364 
+ 
+ 
+ 
+ 44,157,364 
+ 
+ 
+ 
+ 44,157,364 
+ 
+ 
+ 
+ 44,157,364 
+ 
+ (*) Net Loss for the quarter ended September 30, 2019 includes tax valuation allowances charges from Mexican and Colombian segments of $98.8 million. 
+ (**) The quarter ended December 31, 2017 includes special items charges regarding the deconsolidation of our Venezuelan subsidiaries. Effective as of December 1, 2017, the Company no longer presents the results of its Venezuelan subsidiaries in its consolidated financial statements. Please refer to note 2 of our audited consolidated financial statements for additional detail. 
+ (***) The amount incurred in shipping subsidies netted from revenues, when we act as an agent, was $261.2 million, $424.8 million and $181.6 million for the year ended December 31, 2019, 2018 and 2017, respectively . 
+ 
+ Seasonal fluctuations in Internet usage and retail seasonality have affected, and are likely to continue to affect, our business. Typically, the fourth quarter of the year is the strongest in terms of revenues in every country where we operate due to the significant increase in transactions before the Christmas season. Our slowest period is typically the first quarter of the year. The months of January, February and March normally correspond to summer vacation time in Argentina, Brazil, Chile, Peru and Uruguay. Additionally, the Easter holiday falls in March or April, and Brazil celebrates Carnival for one week in February or March. This is partially mitigated by the countries located in the northern hemisphere, such as Colombia and Mexico for which the slowest months are their summer months of July, August and September. 
+ 
+ Critical Accounting Policies and Estimates 
+ The preparation of our audited consolidated financial statements and related notes require us to make judgments, estimates and assumptions that affect the reported amounts of assets, liabilities, revenues and expenses, and related disclosure of contingent assets and liabilities. We have based our estimates on historical experience and on various other assumptions that we believe to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Our Management has discussed the development, selection and disclosure of these estimates with our audit committee and our board of directors. Actual results may differ from these estimates under different assumptions or conditions. 
+ 
+ 
+ 
+ 39 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ An accounting policy is considered to be critical if it requires an accounting estimate to be made based on assumptions about matters that are highly uncertain at the time the estimate is made, and if different estimates that reasonably could have been used, or changes in the accounting estimates that are reasonably likely to occur periodically, could materially impact the consolidated financial statements. We believe that the following critical accounting policies reflect the more significant estimates and assumptions used in the preparation of our audited consolidated financial statements. You should read the following descriptions of critical accounting policies, judgments and estimates in conjunction with our audited consolidated financial statements and the notes thereto and other disclosures included in this report. 
+ For an analysis of our Critical Accounting Policies and Estimates please refer to Note 2 “ Summary of significant accounting policies” to our audited consolidated financial statements included elsewhere in this report. 
+ 
+ 
+ Impairment of long-lived assets, goodwill and intangible assets with indefinite useful life 
+ We review long-lived assets for impairments whenever events or changes in circumstances indicate that the carrying value of an asset may not be recoverable. Recoverability of assets to be held and used is measured by comparing the carrying amount of a long-lived asset to its undiscounted future net cash flows expected to be generated by such asset. If such asset is considered to be impaired on this basis, the impairment loss to be recognized is measured by the amount by which the carrying amount of the asset exceeds its fair value. 
+ If the carrying amount of the reporting unit exceeds its fair value, goodwill or indefinite useful life intangible assets are considered impaired and a second step is performed to measure the amount of impairment loss, if any. 
+ We recorded an impairment of long-lived assets of $2.8 million on June 30, 2017 relating to certain real estate investments in Venezuela . The carrying amount was adjusted to its estimated fair value by using the market approach and considering prices for similar assets. 
+ Goodwill and intangible assets with indefinite useful life are reviewed at the end of the year for impairment or more frequently, if events or changes in circumstances indicate that the carrying value may not be recoverable. Goodwill is tested for impairment at the reporting unit level (considering each of our segment as a reporting unit) by comparing the reporting unit’s carrying amount, including goodwill, to the fair value of such reporting unit. 
+ For the year ended December 31, 2019, the fair values of the reporting units were estimated using the income approach. Cash flow projections used were based on financial budgets approved by Management. We use discount rates to each reporting unit in the range of 15.4% to 20.0%. The average discount rate used for 2019 was 17.3%. That rate reflected our estimated weighted average cost of capital. Key drivers in the analysis include Average Selling Price (“ASP”), Take Rate defined as marketplace revenues as a percentage of Gross Merchadise Volume (“GMV”), Total Payment Volume Off Platform (“TPV Off”), Off Platform Take Rate defined as off platform revenues as a percentage of TPV Off, Wallet and Point TPV per Payer, Wallet Users over Total Population and Active Point devices. In addition, the analysis includes a business to e-commerce rate, which represents growth of e-commerce as a percentage of Gross Domestic Product, Internet penetration rates as well as trends in our market share. 
+ For the year ended December 31, 2019, based on quantitative assessments, we have determined that the fair value of all the reporting units and the intangible assets with indefinite useful lives, are greater than their respective carrying amounts. 
+ Except for Venezuelan impairment described above, no impairments were recognized during the reporting periods included in the financial statements set forth in ITEM 8 as Management’s assessment of each reporting unit fair value exceeds its carrying value. 
+ We believe that the accounting estimate related to impairment of long lived assets and goodwill is critical since it is highly susceptible to change from period to period because: (i) it requires Management to make assumptions about gross merchandise volume growth, total payment volume, total payment transactions, future interest rates, sales and costs; and (ii) the impact that recognizing an impairment would have on the assets reported on our balance sheet as well as our net income would be material. Management’s assumptions about future sales and future costs require significant judgment. 
+ 
+ Allowances for doubtful accounts, for chargebacks and credit losses. 
+ We are exposed to losses due to uncollectable accounts, chargebacks and credits to users. Allowances for these items represent our estimate of future losses based on our historical experience. The allowances for doubtful accounts and for chargebacks are recorded as charges to sales and marketing expenses. Historically, our actual losses have been consistent with our estimated charges. However, future adverse changes to our historical experience for doubtful accounts, loans receivable and chargebacks could have a material impact on our future consolidated statements of income and cash flows. 
+ We believe that the accounting estimate related to allowances for doubtful accounts, loans receivable and for chargebacks is a critical accounting estimate because it requires Management to make assumptions about future collections and credit analysis. 
+ 
+ 
+ 
+ 40 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ Legal contingencies 
+ In connection with certain pending litigation and other claims, we have estimated the range of probable loss and provided for such losses through charges to our consolidated statement of income. These estimates are based on our assessment of the facts and circumstances and historical information related to actions filed against the Company at each balance sheet date and are subject to change based upon new information and future events. 
+ From time to time, we are involved in disputes that arise in the ordinary course of business. We are currently involved in certain legal proceedings as discussed in “ITEM 3—Legal Proceedings,” and in Note 13 to our audited consolidated financial statements. We believe that we have meritorious defenses to the claims against us, and we will defend ourselves accordingly. However, even if successful, our defense could be costly and could divert Management’s time. If the plaintiffs were to prevail on certain claims, we might be forced to pay material damages or modify our business practices. Any of these consequences could materially harm our business and could have a material adverse impact on our financial position, results of operations or cash flows. 
+ 
+ Income taxes 
+ We are required to recognize a provision for income taxes based upon taxable income and temporary differences between the book and tax bases of our assets and liabilities for each of the tax jurisdictions in which we operate. This process requires a calculation of taxes payable under currently enacted tax laws in each jurisdiction and an analysis of temporary differences between the book and tax bases of our assets and liabilities, including various accruals, allowances, depreciation and amortization. The tax effect of these temporary differences and the estimated tax benefit from our tax net operating losses are reported as deferred tax assets and liabilities in our consolidated balance sheet. We also assess the likelihood that our net deferred tax assets will be realized from future taxable income. To the extent we believe that it is more likely than not that some portion or all of our deferred tax assets will not be realized, we establish a valuation allowance. At December 31, 2019, we had a valuation allowance on certain foreign net operating losses and foreign tax credit based on our assessment that it is more likely than not that the deferred tax asset will not be realized. To the extent we establish a valuation allowance or change the allowance in a period, we reflect the change with a corresponding increase or decrease in our “Income tax expense” line in our consolidated statement of income. Please refer to note 2 and 12 to the consolidated financial statements for additional information regarding income tax and tax reforms. 
+ 
+ 
+ Recent accounting pronouncements 
+ See ITEM 8 of Part II, “Financial Statements and Supplementary Data-Note 2-Summary of significant accounting policies-Recently Adopted Accounting Standards and Accounting Pronouncements Not Yet Adopted ”. 
+ 
+ 
+ 
+ 41 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ Results of operations 
+ The following table sets forth, for the year ended presented, certain data from our consolidated statements of income. This information should be read in conjunction with our audited consolidated financial statements and the notes to those statements included elsewhere in this report. 
+ 
+ Statement of income data 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, (**) 
+ 
+ 
+ (In millions) 
+ 
+ 
+ 
+ 2019 (*) 
+ 
+ 
+ 
+ 2018 (*) 
+ 
+ 
+ 
+ 2017 (*) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net revenues (***) 
+ 
+ 
+ 
+ $ 2,296.3 
+ 
+ 
+ 
+ $ 1,439.7 
+ 
+ 
+ 
+ $ 1,216.5 
+ 
+ 
+ Cost of net revenues 
+ 
+ 
+ 
+ (1,194.2) 
+ 
+ 
+ 
+ (742.6) 
+ 
+ 
+ 
+ (496.9) 
+ 
+ 
+ Gross profit 
+ 
+ 
+ 
+ 1,102.1 
+ 
+ 
+ 
+ 697.0 
+ 
+ 
+ 
+ 719.6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating expenses: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Product and technology development 
+ 
+ 
+ 
+ (223.8) 
+ 
+ 
+ 
+ (146.3) 
+ 
+ 
+ 
+ (127.2) 
+ 
+ 
+ Sales and marketing 
+ 
+ 
+ 
+ (834.0) 
+ 
+ 
+ 
+ (482.4) 
+ 
+ 
+ 
+ (325.4) 
+ 
+ 
+ General and administrative 
+ 
+ 
+ 
+ (197.5) 
+ 
+ 
+ 
+ (137.8) 
+ 
+ 
+ 
+ (122.2) 
+ 
+ 
+ Impairment of Long-Lived Assets 
+ 
+ 
+ 
+ - 
+ 
+ 
+ 
+ - 
+ 
+ 
+ 
+ (2.8) 
+ 
+ 
+ Loss on Deconsolidation of Venezuelan Subsidiaries 
+ 
+ 
+ 
+ - 
+ 
+ 
+ 
+ - 
+ 
+ 
+ 
+ (85.8) 
+ 
+ 
+ Total operating expenses 
+ 
+ 
+ 
+ (1,255.3) 
+ 
+ 
+ 
+ (766.5) 
+ 
+ 
+ 
+ (663.3) 
+ 
+ 
+ (Loss)/Income from operations 
+ 
+ 
+ 
+ (153.2) 
+ 
+ 
+ 
+ (69.5) 
+ 
+ 
+ 
+ 56.3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other income (expenses): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Interest income and other financial gains 
+ 
+ 
+ 
+ 113.5 
+ 
+ 
+ 
+ 42.0 
+ 
+ 
+ 
+ 45.9 
+ 
+ 
+ Interest expense and other financial charges 
+ 
+ 
+ 
+ (65.9) 
+ 
+ 
+ 
+ (56.2) 
+ 
+ 
+ 
+ (26.5) 
+ 
+ 
+ Foreign currency (loss)/gains 
+ 
+ 
+ 
+ (1.7) 
+ 
+ 
+ 
+ 18.2 
+ 
+ 
+ 
+ (21.6) 
+ 
+ 
+ Net (loss)/income before income tax expense 
+ 
+ 
+ 
+ (107.2) 
+ 
+ 
+ 
+ (65.5) 
+ 
+ 
+ 
+ 54.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Income tax (expense)/gain 
+ 
+ 
+ 
+ (64.8) 
+ 
+ 
+ 
+ 28.9 
+ 
+ 
+ 
+ (40.3) 
+ 
+ 
+ Net (loss)/income 
+ 
+ 
+ 
+ $ (172.0) 
+ 
+ 
+ 
+ $ (36.6) 
+ 
+ 
+ 
+ $ 13.8 
+ 
+ (*) The table above may not total due to rounding. 
+ (**) Venezuelan result have been deconsolidated since December 1, 2017, therefore, our 2019 and 2018 results do not include Venezuelan segment results. 
+ (***) The amount incurred in shipping subsidies netted from revenues, when we act as an agent, was $261.2 million, $424.8 million and $181.6 million for the year ended December 31, 2019, 2018 and 2017, respectively . 
+ ‎ 
+ 
+ 
+ 
+ 42 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, (**) 
+ 
+ 
+ (% of net revenues) 
+ 
+ 
+ 
+ 2019 (*) 
+ 
+ 
+ 
+ 2018 (*) 
+ 
+ 
+ 
+ 2017 (*) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net revenues 
+ 
+ 
+ 
+ 100.0 
+ 
+ 
+ 
+ 100.0 
+ 
+ 
+ 
+ 100.0 
+ 
+ 
+ Cost of net revenues 
+ 
+ 
+ 
+ (52.0) 
+ 
+ 
+ 
+ (51.6) 
+ 
+ 
+ 
+ (40.8) 
+ 
+ 
+ Gross profit 
+ 
+ 
+ 
+ 48.0 
+ 
+ 
+ 
+ 48.4 
+ 
+ 
+ 
+ 59.2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating expenses: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Product and technology development 
+ 
+ 
+ 
+ (9.7) 
+ 
+ 
+ 
+ (10.2) 
+ 
+ 
+ 
+ (10.5) 
+ 
+ 
+ Sales and marketing 
+ 
+ 
+ 
+ (36.3) 
+ 
+ 
+ 
+ (33.5) 
+ 
+ 
+ 
+ (26.7) 
+ 
+ 
+ General and administrative 
+ 
+ 
+ 
+ (8.6) 
+ 
+ 
+ 
+ (9.6) 
+ 
+ 
+ 
+ (10.0) 
+ 
+ 
+ Impairment of Long-Lived Assets 
+ 
+ 
+ 
+ - 
+ 
+ 
+ 
+ - 
+ 
+ 
+ 
+ (0.2) 
+ 
+ 
+ Loss on Deconsolidation of Venezuelan Subsidiaries 
+ 
+ 
+ 
+ - 
+ 
+ 
+ 
+ - 
+ 
+ 
+ 
+ (7.0) 
+ 
+ 
+ Total operating expenses 
+ 
+ 
+ 
+ (54.7) 
+ 
+ 
+ 
+ (53.2) 
+ 
+ 
+ 
+ (54.5) 
+ 
+ 
+ (Loss)/Income from operations 
+ 
+ 
+ 
+ (6.7) 
+ 
+ 
+ 
+ (4.8) 
+ 
+ 
+ 
+ 4.6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other income (expenses): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Interest income and other financial gains 
+ 
+ 
+ 
+ 4.9 
+ 
+ 
+ 
+ 2.9 
+ 
+ 
+ 
+ 3.8 
+ 
+ 
+ Interest expense and other financial charges 
+ 
+ 
+ 
+ (2.9) 
+ 
+ 
+ 
+ (3.9) 
+ 
+ 
+ 
+ (2.2) 
+ 
+ 
+ Foreign currency (losses)/gains 
+ 
+ 
+ 
+ (0.1) 
+ 
+ 
+ 
+ 1.3 
+ 
+ 
+ 
+ (1.8) 
+ 
+ 
+ Net (loss)/income before income tax expense 
+ 
+ 
+ 
+ (4.7) 
+ 
+ 
+ 
+ (4.5) 
+ 
+ 
+ 
+ 4.4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Income tax (expense)/gain 
+ 
+ 
+ 
+ (2.8) 
+ 
+ 
+ 
+ 2.0 
+ 
+ 
+ 
+ (3.3) 
+ 
+ 
+ Net (loss)/income 
+ 
+ 
+ 
+ (7.5) 
+ 
+ 
+ 
+ (2.5) 
+ 
+ 
+ 
+ 1.1 
+ 
+ (*) Percentages have been calculated using the whole figures instead of rounding figures. The table above may not total due to rounding. 
+ (**) Venezuelan result have been deconsolidated since December 1, 2017, therefore, our 2019 and 2018 results do not include Venezuelan segment results. 
+ 
+ Principal trends in results of operations 
+ Gross profit margins 
+ Our gross profit margins are defined by total net revenues minus total cost of net revenues, as a percentage of net revenues. 
+ Our gross profit margins remained stable at 48.0% and 48.4% for the years ended December 31, 2019 and 2018, respectively. 
+ In the future , gross profit margins could decline if we continue to offer free shipping and warehousing services and the penetration of our payment solution and our shipping service grows faster than our marketplace sales. 
+ Operating (loss)/income margins 
+ For the year ended December 31, 2019 as compared to year ended December 31, 2018, operating loss margin increased from a negative margin of 4.8% to a negative margin of 6.7%. This increase is primarily a consequence of the increase in sales and marketing expenses (mainly related to branding initiatives and bad debt expenses related to credit business in Brazil), calculated as a percentage of net revenues. 
+ As we continue to invest in product development, sales and marketing and human resources in order to promote our services and capture the long-term business opportunities, we may experience decreases in operating margins. 
+ ‎ 
+ 
+ 
+ 
+ 43 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ Net revenues 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the years ended 
+ 
+ 
+ 
+ Change from 2018 
+ 
+ 
+ 
+ For the years ended 
+ 
+ 
+ 
+ Change from 2017 
+ 
+ 
+ 
+ 
+ December 31, 
+ 
+ 
+ 
+ to 2019 (*) 
+ 
+ 
+ 
+ December 31, 
+ 
+ 
+ 
+ to 2018 (*) 
+ 
+ 
+ 
+ 
+ 2019 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ in Dollars 
+ 
+ 
+ 
+ in % 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ in Dollars 
+ 
+ 
+ 
+ in % 
+ 
+ 
+ 
+ 
+ (in millions, except percentages) 
+ 
+ (in millions, except percentages) 
+ 
+ 
+ Total Net Revenues (**) 
+ 
+ $ 2,296.3 
+ 
+ 
+ 
+ $ 1,439.7 
+ 
+ 
+ 
+ $ 856.7 
+ 
+ 
+ 
+ 59.5% 
+ 
+ 
+ 
+ $ 1,439.7 
+ 
+ 
+ 
+ $ 1,216.5 
+ 
+ 
+ 
+ $ 223.1 
+ 
+ 
+ 
+ 18.3% 
+ 
+ 
+ As a percentage of net revenues (*) 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (*) 
+ (**) 
+ 
+ 
+ Percentages have been calculated using whole-dollar amounts rather than the rounded amounts that appear in the table. The table above may not total due to rounding. 
+ The amount incurred in shipping subsidies netted from revenues, when we act as an agent, was $261.2 million, $424.8 million and $181.6 million for the year ended December 31, 2019, 2018 and 2017, respectively. 
+ Our net revenues grew 59.5% in year ended December 31, 2019 as compared to the same period in 2018. The increase in net revenues is mainly attributable to increases in the enhanced marketplace net revenues of 70.7% related to an increase in local currency gross merchandise volume in Argentina, Brazil and Mexico of 83%, 23% and 49%, respectively. In addition, the increase in net revenues was attributable to: 
+ a) a decrease of $163.6 million, or 38.5%, in shipping subsidies that are netted from revenues, during the year ended December 31, 2019 as compared to the same period in 2018; and 
+ b) an increase of $90.8 million for the year ended December 31, 2019, as compared to the same period in 2018, related to the flat fee we charge for transactions below a certain merchandise value, mainly in Brazil. 
+ Our non-marketplace revenues increased 48.8%, from $737.3 million for year ended December 31, 2018 to $1,097.1 million for the year ended December 31, 2019. This increase is mainly generated by a 53.8% increase in our total payment volume, mainly associated with off-platform transactions, financing and credits businesses for the year ended December 31, 2019 as compared to the same period in 2018. 
+ The increase in our net revenues was partially offset by an average devaluation of the Argentine Peso of approximately 41.7% for the year ended December 31, 2019 as compared to the same period in 2018. 
+ 
+ 
+ 
+ 
+ 44 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years ended 
+ 
+ 
+ 
+ Change from 2018 
+ 
+ 
+ 
+ Years ended 
+ 
+ 
+ 
+ Change from 2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ December 31, 
+ 
+ 
+ 
+ to 2019 (*) 
+ 
+ 
+ 
+ December 31, 
+ 
+ 
+ 
+ to 2018 (*) 
+ 
+ 
+ Net Revenues by segment and revenue stream 
+ 
+ 
+ 
+ 2019 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ in Dollars 
+ 
+ 
+ 
+ in % 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ in Dollars 
+ 
+ 
+ 
+ in % 
+ 
+ 
+ 
+ 
+ 
+ 
+ (in millions, except percentages) 
+ 
+ 
+ 
+ (in millions, except percentages) 
+ 
+ 
+ Brazil 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Enhanced Marketplace 
+ 
+ 
+ 
+ $ 731.2 
+ 
+ 
+ 
+ $ 393.0 
+ 
+ 
+ 
+ $ 338.2 
+ 
+ 
+ 
+ 86.1% 
+ 
+ 
+ 
+ $ 393.0 
+ 
+ 
+ 
+ $ 404.8 
+ 
+ 
+ 
+ $ (11.8) 
+ 
+ 
+ 
+ -2.9% 
+ 
+ 
+ Non-Marketplace 
+ 
+ 
+ 
+ 730.3 
+ 
+ 
+ 
+ 473.2 
+ 
+ 
+ 
+ 257.1 
+ 
+ 
+ 
+ 54.3% 
+ 
+ 
+ 
+ 473.2 
+ 
+ 
+ 
+ 286.0 
+ 
+ 
+ 
+ 187.2 
+ 
+ 
+ 
+ 65.4% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,461.5 
+ 
+ 
+ 
+ 866.2 
+ 
+ 
+ 
+ 595.3 
+ 
+ 
+ 
+ 68.7% 
+ 
+ 
+ 
+ 866.2 
+ 
+ 
+ 
+ 690.8 
+ 
+ 
+ 
+ 175.4 
+ 
+ 
+ 
+ 25.4% 
+ 
+ 
+ Argentina 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Enhanced Marketplace 
+ 
+ 
+ 
+ $ 211.7 
+ 
+ 
+ 
+ $ 195.0 
+ 
+ 
+ 
+ $ 16.7 
+ 
+ 
+ 
+ 8.6% 
+ 
+ 
+ 
+ $ 195.0 
+ 
+ 
+ 
+ $ 227.6 
+ 
+ 
+ 
+ $ (32.6) 
+ 
+ 
+ 
+ -14.3% 
+ 
+ 
+ Non-Marketplace 
+ 
+ 
+ 
+ 244.6 
+ 
+ 
+ 
+ 181.6 
+ 
+ 
+ 
+ 63.0 
+ 
+ 
+ 
+ 34.7% 
+ 
+ 
+ 
+ 181.6 
+ 
+ 
+ 
+ 131.8 
+ 
+ 
+ 
+ 49.8 
+ 
+ 
+ 
+ 37.8% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 456.3 
+ 
+ 
+ 
+ 376.6 
+ 
+ 
+ 
+ 79.8 
+ 
+ 
+ 
+ 21.2% 
+ 
+ 
+ 
+ 376.6 
+ 
+ 
+ 
+ 359.4 
+ 
+ 
+ 
+ 17.2 
+ 
+ 
+ 
+ 4.8% 
+ 
+ 
+ Mexico 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Enhanced Marketplace 
+ 
+ 
+ 
+ $ 207.5 
+ 
+ 
+ 
+ $ 73.7 
+ 
+ 
+ 
+ $ 133.8 
+ 
+ 
+ 
+ 181.4% 
+ 
+ 
+ 
+ $ 73.7 
+ 
+ 
+ 
+ $ 29.9 
+ 
+ 
+ 
+ $ 43.9 
+ 
+ 
+ 
+ 146.7% 
+ 
+ 
+ Non-Marketplace 
+ 
+ 
+ 
+ 67.6 
+ 
+ 
+ 
+ 35.3 
+ 
+ 
+ 
+ 32.3 
+ 
+ 
+ 
+ 91.2% 
+ 
+ 
+ 
+ 35.3 
+ 
+ 
+ 
+ 21.4 
+ 
+ 
+ 
+ 13.9 
+ 
+ 
+ 
+ 64.8% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 275.1 
+ 
+ 
+ 
+ 109.1 
+ 
+ 
+ 
+ 166.0 
+ 
+ 
+ 
+ 152.2% 
+ 
+ 
+ 
+ 109.1 
+ 
+ 
+ 
+ 51.3 
+ 
+ 
+ 
+ 57.8 
+ 
+ 
+ 
+ 112.5% 
+ 
+ 
+ Venezuela (**) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Enhanced Marketplace 
+ 
+ 
+ 
+ $ — 
+ 
+ 
+ 
+ $ — 
+ 
+ 
+ 
+ $ — 
+ 
+ 
+ 
+ 0.0% 
+ 
+ 
+ 
+ $ — 
+ 
+ 
+ 
+ $ 50.6 
+ 
+ 
+ 
+ $ (50.6) 
+ 
+ 
+ 
+ -100.0% 
+ 
+ 
+ Non-Marketplace 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 0.0% 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 3.7 
+ 
+ 
+ 
+ (3.7) 
+ 
+ 
+ 
+ -100.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 0.0% 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 54.3 
+ 
+ 
+ 
+ (54.3) 
+ 
+ 
+ 
+ -100.0% 
+ 
+ 
+ Other countries 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Enhanced Marketplace 
+ 
+ 
+ 
+ $ 48.7 
+ 
+ 
+ 
+ $ 40.6 
+ 
+ 
+ 
+ $ 8.1 
+ 
+ 
+ 
+ 19.8% 
+ 
+ 
+ 
+ $ 40.6 
+ 
+ 
+ 
+ $ 24.6 
+ 
+ 
+ 
+ $ 16.1 
+ 
+ 
+ 
+ 65.4% 
+ 
+ 
+ Non-Marketplace 
+ 
+ 
+ 
+ 54.6 
+ 
+ 
+ 
+ 47.2 
+ 
+ 
+ 
+ 7.5 
+ 
+ 
+ 
+ 15.8% 
+ 
+ 
+ 
+ 47.2 
+ 
+ 
+ 
+ 36.1 
+ 
+ 
+ 
+ 11.0 
+ 
+ 
+ 
+ 30.5% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 103.3 
+ 
+ 
+ 
+ 87.8 
+ 
+ 
+ 
+ 15.5 
+ 
+ 
+ 
+ 17.7% 
+ 
+ 
+ 
+ 87.8 
+ 
+ 
+ 
+ 60.7 
+ 
+ 
+ 
+ 27.1 
+ 
+ 
+ 
+ 44.6% 
+ 
+ 
+ Consolidated 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Enhanced Marketplace (***) 
+ 
+ 
+ 
+ 1,199.2 
+ 
+ 
+ 
+ 702.4 
+ 
+ 
+ 
+ 496.8 
+ 
+ 
+ 
+ 70.7% 
+ 
+ 
+ 
+ 702.4 
+ 
+ 
+ 
+ 737.5 
+ 
+ 
+ 
+ (35.1) 
+ 
+ 
+ 
+ -4.8% 
+ 
+ 
+ Non-Marketplace (****) 
+ 
+ 
+ 
+ 1,097.1 
+ 
+ 
+ 
+ 737.3 
+ 
+ 
+ 
+ 359.9 
+ 
+ 
+ 
+ 48.8% 
+ 
+ 
+ 
+ 737.3 
+ 
+ 
+ 
+ 479.1 
+ 
+ 
+ 
+ 258.2 
+ 
+ 
+ 
+ 53.9% 
+ 
+ 
+ Total 
+ 
+ 
+ 
+ $ 2,296.3 
+ 
+ 
+ 
+ $ 1,439.7 
+ 
+ 
+ 
+ $ 856.7 
+ 
+ 
+ 
+ 59.5% 
+ 
+ 
+ 
+ $ 1,439.7 
+ 
+ 
+ 
+ $ 1,216.5 
+ 
+ 
+ 
+ $ 223.1 
+ 
+ 
+ 
+ 18.3% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (*) 
+ 
+ Percentages have been calculated using whole-dollar amounts rather than the rounded amounts that appear in the table. The table above may not total due to rounding. 
+ 
+ 
+ (**) 
+ 
+ Venezuelan revenues have been deconsolidated since December 1, 2017. Please refer to Note 2 of our audited consolidated financial statements for additional detail. 
+ 
+ 
+ (***) 
+ 
+ The amount incurred in shipping subsidies netted from revenues, when we act as an agent, was $261.2 million, $424.8 million and $181.6 million for the year ended December 31, 2019, 2018 and 2017, respectively . 
+ 
+ 
+ (****) 
+ 
+ Includes, among other things, payment fees, ad sales, classified fees and other ancillary services. 
+ On a segment basis, our net revenues for the years ended December 31, 2019 and 2018, increased across all geographic segments, except for the Venezuelan segment which was deconsolidated as of December 1, 2017. 
+ Brazil 
+ Enhanced Marketplace revenue in Brazil increased 86.1% in the year ended December 31, 2019 as compared to the same period in 2018. This increase was primarily a consequence of: i) a 23% increase in local currency gross merchandise volume; ii) a 159.8 million decrease in shipping subsidies related to our free shipping initiative, which is presented netted from revenues when we act as an agent; and iii) an increase of $83.5 million as a result of the implementation of a flat fee for transactions below a certain merchandise value. Non-Marketplace revenues grew by 54.3%, a $257.1 million increase, during year ended December 31, 2019 as compared to the same period in 2018, mainly driven by a 124.7% increase in the off-platform payments volume (which is partially monetized as a strategy to expand our ecosystem), financing and credits businesses. 
+ ‎ 
+ 
+ 
+ 
+ 45 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ Argentina 
+ Enhanced Marketplace revenues in Argentina increased 8.6% in the year ended December 31, 2019 as compared to the same period in 2018. The increase was primarily a consequence of: i) a 83% increase in local currency gross merchandise volume and ii) an increase of $6.9 million as a result of the implementation of a flat fee for transactions below a certain merchandise value. This increase was partially offset by: i) a 41.7% approximately average devaluation of the local currency and ii) an increase of $7.4 million in shipping subsidies related to our free shipping initiative, which is presented netted from revenues when we act as an agent. Non-Marketplace revenues grew 34.7%, a $63.0 million increase, during year ended December 31, 2019 as compared to the same period in 2018, mainly driven by a 132.8% increase in the off-platform payments volume (which is partially monetized as a strategy to expand our ecosystem), financing and credits businesses, partially offset by the aforementioned devaluation of the local currency. 
+ Mexico 
+ Enhanced Marketplace revenues in Mexico increased 181.4% in the year ended December 31, 2019, as compared to the same period in 2018, mainly due to: i) the reduced impact on revenues of shipping costs on revenues related to certain shipping services when we started acting as principal as of November 2018 and ii) a 49% increase in local currency gross merchandise volume. Non-Marketplace revenues grew 91.2%, a $32.3 million increase, during the year ended December 31, 2019 as compared to the same period in 2018, mainly driven by increases in the volume of off-platform payments transactions, financing and credit businesses. 
+ Venezuela 
+ Venezuelan revenues have been deconsolidated since December 1, 2017. Please refer to Note 2 of our audited consolidated financial statements for additional detail. 
+ The following table sets forth our total net revenues and the sequential quarterly growth of these net revenues for the periods described below: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Quarter Ended 
+ 
+ 
+ 
+ 
+ March 31, 
+ 
+ June 30, 
+ 
+ September 30, 
+ 
+ December 31, 
+ 
+ 
+ 
+ 
+ (in millions, except percentages) 
+ 
+ 
+ 
+ 
+ (*) 
+ 
+ 
+ 2019 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net revenues (**) (***) 
+ 
+ $ 473.8 
+ 
+ $ 545.2 
+ 
+ $ 603.0 
+ 
+ $ 674.3 
+ 
+ 
+ Percent change from prior quarter 
+ 
+ 11% 
+ 
+ 15% 
+ 
+ 11% 
+ 
+ 12% 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net revenues (**) (***) 
+ 
+ $ 321.0 
+ 
+ $ 335.4 
+ 
+ $ 355.3 
+ 
+ $ 428.0 
+ 
+ 
+ Percent change from prior quarter 
+ 
+ -10% 
+ 
+ 4% 
+ 
+ 6% 
+ 
+ 20% 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net revenues (**) (***) 
+ 
+ $ 269.7 
+ 
+ $ 283.9 
+ 
+ $ 304.9 
+ 
+ $ 358.1 
+ 
+ 
+ Percent change from prior quarter 
+ 
+ 5% 
+ 
+ 5% 
+ 
+ 7% 
+ 
+ 17% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (*) 
+ 
+ Percentages have been calculated using whole-dollar amounts rather than the rounded amounts that appear in the table. 
+ 
+ 
+ (**) 
+ 
+ The amount incurred in shipping subsidies netted from revenues, when we act as an agent, was $261.2 million, $424.8 million and $181.6 million for the year ended December 31, 2019, 2018 and 2017, respectively. 
+ 
+ 
+ (***) 
+ 
+ Venezuelan revenues have been deconsolidated since December 1, 2017. Please refer to Note 2 of our audited consolidated financial statements for additional detail. 
+ ‎ 
+ 
+ 
+ 
+ 46 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ The following table set forth the growth in net revenues in local currencies for the years ended December 31, 2019 and 2018: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Changes from (*) 
+ 
+ 
+ (Revenue growth in Local Currency) (**) 
+ 
+ 
+ 
+ 2018 to 2019 
+ 
+ 
+ 
+ 2017 to 2018 
+ 
+ 
+ Brazil 
+ 
+ 
+ 
+ 81.6% 
+ 
+ 
+ 
+ 44.5% 
+ 
+ 
+ Argentina 
+ 
+ 
+ 
+ 115.6% 
+ 
+ 
+ 
+ 73.0% 
+ 
+ 
+ Mexico 
+ 
+ 
+ 
+ 149.9% 
+ 
+ 
+ 
+ 118.2% 
+ 
+ 
+ Other Countries 
+ 
+ 
+ 
+ 30.5% 
+ 
+ 
+ 
+ 47.5% 
+ 
+ 
+ Total Consolidated 
+ 
+ 
+ 
+ 92.0% 
+ 
+ 
+ 
+ 49.7% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (*) 
+ 
+ The local currency revenue growth was calculated by using the average monthly exchange rates for each month during 2018 and applying them to the corresponding months in 2019, so as to calculate what our financial results would have been had exchange rates remained stable from one year to the next. 
+ The local currency revenue growth was calculated by using the average monthly exchange rates for each month during 2017 and applying them to the corresponding months in 2018, so as to calculate what our financial results would have been had exchange rates remained stable from one year to the next. 
+ See also the “Non-GAAP Financial Measures” section for details on FX neutral measures. 
+ 
+ 
+ (**) 
+ 
+ Revenue growth in Local Currency as of December 31, 2017 has been adjusted for the adoption of the ASC 606. 
+ 
+ 
+ 
+ 
+ 
+ In Argentina, the increase in local currency growth is due to an increase in our Argentine transactions volume, our shipped items volume, increases in our off-platform transactions through Mercado Pago and a high level of inflation. 
+ In Mexico and Brazil, the increase in local currency growth is a consequence of an increase of our Marketplace transactions volumes, increases in our off-platform transactions through Mercado Pago and shipped items volumes. 
+ 
+ 
+ Cost of net revenues 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years ended 
+ 
+ 
+ 
+ Change from 2018 
+ 
+ 
+ 
+ Years ended 
+ 
+ 
+ 
+ Change from 2017 
+ 
+ 
+ 
+ 
+ December 31, 
+ 
+ 
+ 
+ to 2019 (*) 
+ 
+ 
+ 
+ December 31, 
+ 
+ 
+ 
+ to 2018 (*) 
+ 
+ 
+ 
+ 
+ 2019 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ in Dollars 
+ 
+ 
+ 
+ in % 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ in Dollars 
+ 
+ 
+ 
+ in % 
+ 
+ 
+ 
+ 
+ (in millions, except percentages) 
+ 
+ 
+ 
+ (in millions, except percentages) 
+ 
+ 
+ Total cost of net revenues 
+ 
+ $ 1,194.2 
+ 
+ 
+ 
+ $ 742.6 
+ 
+ 
+ 
+ $ 451.5 
+ 
+ 
+ 
+ 60.8% 
+ 
+ 
+ 
+ $ 742.6 
+ 
+ 
+ 
+ $ 496.9 
+ 
+ 
+ 
+ $ 245.7 
+ 
+ 
+ 
+ 49.4% 
+ 
+ 
+ As a percentage of net revenues (*) 
+ 
+ 52.0% 
+ 
+ 
+ 
+ 51.6% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 51.6% 
+ 
+ 
+ 
+ 40.8% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (*) 
+ 
+ Percentages have been calculated using whole-dollar amounts rather than the rounded amounts that appear in the table. The table above may not total due to rounding. 
+ 
+ 
+ 
+ 
+ 
+ For the year ended December 31, 2019 as compared to the year ended December 31, 2018, the increase of $451.5 million in cost of net revenues was primarily attributable to: i) a $155.5 million increase in shipping carrier and operating costs; ii) an increase in collection fees of $107.6 million, which was mainly attributable to our Argentine and Brazilian operations as a result of the higher transactions volume of Mercado Pago in those countries; iii) a $64.2 million increase in cost of products sold attributable to increased sales of our mobile point of sale devices in Brazil, Argentina and Mexico; iv) a $49.9 million increase in sales taxes, mainly related to the growth of our Argentine and Brazilian operations; v) a $30.6 million increase in finance costs mainly related to funding our Mercado Pago business; and vi) a $21.6 million increase in customer support costs mainly as a consequence of higher salaries and wages due to new hires and temporary customer support workers . 
+ 
+ Product and technology development 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years ended 
+ 
+ 
+ 
+ Change from 2018 
+ 
+ 
+ 
+ Years ended 
+ 
+ 
+ 
+ Change from 2017 
+ 
+ 
+ 
+ 
+ December 31, 
+ 
+ 
+ 
+ to 2019 (*) 
+ 
+ 
+ 
+ December 31, 
+ 
+ 
+ 
+ to 2018 (*) 
+ 
+ 
+ 
+ 
+ 2019 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ in Dollars 
+ 
+ 
+ 
+ in % 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ in Dollars 
+ 
+ in % 
+ 
+ 
+ 
+ 
+ (in millions, except percentages) 
+ 
+ 
+ 
+ (in millions, except percentages) 
+ 
+ 
+ Product and technology development 
+ 
+ $ 223.8 
+ 
+ 
+ 
+ $ 146.3 
+ 
+ 
+ 
+ $ 77.5 
+ 
+ 
+ 
+ 53.0% 
+ 
+ 
+ 
+ $ 146.3 
+ 
+ 
+ 
+ $ 127.2 
+ 
+ 
+ 
+ $ 19.1 
+ 
+ 15.0% 
+ 
+ 
+ As a percentage of net revenues (*) 
+ 
+ 9.7% 
+ 
+ 
+ 
+ 10.2% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 10.2% 
+ 
+ 
+ 
+ 10.5% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (*) 
+ 
+ Percentages have been calculated using whole-dollar amounts rather than the rounded amounts that appear in the table. The table above may not total due to rounding. 
+ For the year ended December 31, 2019 as compared to the year ended December 31, 2018, the 53.0% increase in product and technology development expenses amounted to $77.5 million and was primarily attributable to: i) a $32.0 million increase in salaries and wages; ii) a $29.2 million increase in other product and technology development expenses primarily related to office expenses and certain tax withholdings; and iii) a $9.1 million increase in depreciation and amortization expenses. 
+ 
+ 
+ 
+ 47 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ We believe product development is one of our key competitive advantages and intend to continue to invest in adding engineers to meet the increasingly sophisticated product expectations of our customer base. 
+ 
+ Sales and marketing 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years ended 
+ 
+ 
+ 
+ Change from 2018 
+ 
+ 
+ 
+ Years ended 
+ 
+ 
+ 
+ Change from 2017 
+ 
+ 
+ 
+ 
+ December 31, 
+ 
+ 
+ 
+ to 2019 (*) 
+ 
+ 
+ 
+ December 31, 
+ 
+ 
+ 
+ to 2018 (*) 
+ 
+ 
+ 
+ 
+ 2019 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ in Dollars 
+ 
+ 
+ 
+ in % 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ in Dollars 
+ 
+ in % 
+ 
+ 
+ 
+ 
+ (in millions, except percentages) 
+ 
+ 
+ 
+ (in millions, except percentages) 
+ 
+ 
+ Sales and marketing 
+ 
+ $ 834.0 
+ 
+ 
+ 
+ $ 482.4 
+ 
+ 
+ 
+ $ 351.6 
+ 
+ 
+ 
+ 72.9% 
+ 
+ 
+ 
+ $ 482.4 
+ 
+ 
+ 
+ $ 325.4 
+ 
+ 
+ 
+ $ 157.1 
+ 
+ 48.3% 
+ 
+ 
+ As a percentage of net revenues (*) 
+ 
+ 36.3% 
+ 
+ 
+ 
+ 33.5% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 33.5% 
+ 
+ 
+ 
+ 26.7% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (*) 
+ 
+ Percentages have been calculated using whole-dollar amounts rather than the rounded amounts that appear in the table. The table above may not total due to rounding . 
+ 
+ 
+ 
+ 
+ 
+ For the year ended December 31, 2019, the $351.6 million increase in sales and marketing expenses when compared to the year ended December 31, 2018 was primarily attributable to: i) an increase of $189.7 million in online and offline marketing expenses, mainly in Brazil, Mexico and Argentina, ii) an increase of $41.2 million in other sales expenses, iii) a $35.1 million increase in chargebacks from credit cards due to the increase in our Mercado Pago transactions volume, iv) a $33.9 million increase in our buyer protection program expenses, mainly in Brazil and Mexico, v) a $31.2 million increase in bad debt expenses mainly related to our credit portfolio; and vi) a $19.1 million increase in salaries and wages. 
+ 
+ General and administrative 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years ended 
+ 
+ 
+ 
+ Change from 2018 
+ 
+ 
+ 
+ Years ended 
+ 
+ 
+ 
+ Change from 2017 
+ 
+ 
+ 
+ 
+ December 31, 
+ 
+ 
+ 
+ to 2019 (*) 
+ 
+ 
+ 
+ December 31, 
+ 
+ 
+ 
+ to 2018 (*) 
+ 
+ 
+ 
+ 
+ 2019 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ in Dollars 
+ 
+ 
+ 
+ in % 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ in Dollars 
+ 
+ 
+ 
+ in % 
+ 
+ 
+ 
+ 
+ (in millions, except percentages) 
+ 
+ 
+ 
+ (in millions, except percentages) 
+ 
+ 
+ General and administrative 
+ 
+ $ 197.5 
+ 
+ 
+ 
+ $ 137.8 
+ 
+ 
+ 
+ $ 59.7 
+ 
+ 
+ 
+ 43.3% 
+ 
+ 
+ 
+ $ 137.8 
+ 
+ 
+ 
+ $ 122.2 
+ 
+ 
+ 
+ $ 15.6 
+ 
+ 
+ 
+ 12.7% 
+ 
+ 
+ As a percentage of net revenues (*) 
+ 
+ 8.6% 
+ 
+ 
+ 
+ 9.6% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 9.6% 
+ 
+ 
+ 
+ 10.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (*) 
+ 
+ Percentages have been calculated using whole-dollar amounts rather than the rounded amounts that appear in the table. The table above may not total due to rounding . 
+ 
+ 
+ 
+ 
+ 
+ For the year ended December 31, 2019 the $59.7 million increase in general and administrative expenses when compared to the same period in 2018 was primarily attributable to: i) a $29.2 million increase in salaries and wages; ii) a $14.9 million increase in legal, tax and other fees; and iii) a $13.2 million increase in other general and administrative expenses, mainly related to certain tax withholdings. 
+ 
+ Impairment of Long-Lived Assets 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years ended 
+ 
+ 
+ 
+ Change from 2018 
+ 
+ 
+ 
+ Years ended 
+ 
+ 
+ 
+ Change from 2017 
+ 
+ 
+ 
+ 
+ December 31, 
+ 
+ 
+ 
+ to 2019 (*) 
+ 
+ 
+ 
+ December 31, 
+ 
+ 
+ 
+ to 2018 (*) 
+ 
+ 
+ 
+ 
+ 2019 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ in Dollars 
+ 
+ 
+ 
+ in % 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ in Dollars 
+ 
+ 
+ 
+ in % 
+ 
+ 
+ 
+ 
+ (in millions, except percentages) 
+ 
+ 
+ 
+ (in millions, except percentages) 
+ 
+ 
+ Impairment of Long-Lived Assets 
+ 
+ $ - 
+ 
+ 
+ 
+ $ - 
+ 
+ 
+ 
+ $ - 
+ 
+ 
+ 
+ 0.0% 
+ 
+ 
+ 
+ $ - 
+ 
+ 
+ 
+ $ 2.8 
+ 
+ 
+ 
+ $ (2.8) 
+ 
+ 
+ 
+ -100.0% 
+ 
+ 
+ As a percentage of net revenues (*) 
+ 
+ 0.0% 
+ 
+ 
+ 
+ 0.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.0% 
+ 
+ 
+ 
+ 0.2% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (*) 
+ 
+ Percentages have been calculated using whole-dollar amounts rather than the rounded amounts that appear in the table. The table above may not total due to rounding . 
+ We recorded an impairment of certain real estate offices owned by our Venezuelan subsidiaries of $2.8 million during the second quarter of 2017. 
+ ‎ 
+ 
+ 
+ 
+ 48 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ Loss on deconsolidation of Venezuelan subsidiaries 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years ended 
+ 
+ 
+ 
+ Change from 2018 
+ 
+ 
+ 
+ Years ended 
+ 
+ 
+ 
+ Change from 2017 
+ 
+ 
+ 
+ 
+ December 31, 
+ 
+ 
+ 
+ to 2019 (*) 
+ 
+ 
+ 
+ December 31, 
+ 
+ 
+ 
+ to 2018 (*) 
+ 
+ 
+ 
+ 
+ 2019 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ in Dollars 
+ 
+ 
+ 
+ in % 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ in Dollars 
+ 
+ 
+ 
+ in % 
+ 
+ 
+ 
+ 
+ (in millions, except percentages) 
+ 
+ 
+ 
+ (in millions, except percentages) 
+ 
+ 
+ Loss on Deconsolidation of Venezuelan Subsidiaries 
+ 
+ $ — 
+ 
+ 
+ 
+ $ — 
+ 
+ 
+ 
+ $ — 
+ 
+ 
+ 
+ 0.0% 
+ 
+ 
+ 
+ $ — 
+ 
+ 
+ 
+ $ 85.8 
+ 
+ 
+ 
+ $ (85.8) 
+ 
+ 
+ 
+ -100.0% 
+ 
+ 
+ As a percentage of net revenues (*) 
+ 
+ 0.0% 
+ 
+ 
+ 
+ 0.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.0% 
+ 
+ 
+ 
+ 7.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (*) 
+ 
+ Percentages have been calculated using whole-dollar amounts rather than the rounded amounts that appear in the table. The table above may not total due to rounding . 
+ We deconsolidated our Venezuelan operations effective as of December 1, 2017. As a consequence, we recorded an impairment of $85.8 million, including net assets, intercompany balances, accumulated translation differences and intangible assets. Please refer to Note 2 of our audited consolidated financial statements for additional detail. 
+ 
+ Other income (expense), net 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years ended 
+ 
+ 
+ 
+ Change from 2018 
+ 
+ 
+ 
+ Years ended 
+ 
+ 
+ 
+ Change from 2017 
+ 
+ 
+ 
+ 
+ December 31, 
+ 
+ 
+ 
+ to 2019 (*) 
+ 
+ 
+ 
+ December 31, 
+ 
+ 
+ 
+ to 2018 (*) 
+ 
+ 
+ 
+ 
+ 2019 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ in Dollars 
+ 
+ 
+ 
+ in % 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ in Dollars 
+ 
+ in % 
+ 
+ 
+ 
+ 
+ (in millions, except percentages) 
+ 
+ 
+ 
+ (in millions, except percentages) 
+ 
+ 
+ Other income (expense), net 
+ 
+ $ 45.9 
+ 
+ 
+ 
+ $ 4.0 
+ 
+ 
+ 
+ $ 41.9 
+ 
+ 
+ 
+ 1039.4% 
+ 
+ 
+ 
+ $ 4.0 
+ 
+ 
+ 
+ $ (2.2) 
+ 
+ 
+ 
+ $ 6.2 
+ 
+ -282.9% 
+ 
+ 
+ As a percentage of net revenues (*) 
+ 
+ 2.0% 
+ 
+ 
+ 
+ 0.3% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.3% 
+ 
+ 
+ 
+ -0.2% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (*) 
+ 
+ Percentages have been calculated using whole-dollar amounts rather than the rounded amounts that appear in the table. The table above may not total due to rounding. 
+ For the year ended December 31, 2019, the $41.9 million increase in other income/(expenses), net compared to the same period in 2018 was primarily attributable to a $71.5 million increase in interest income from our financial investments as a result of the proceeds of the 2028 Notes and equity offering during 2019, which generated more invested volume and interest gain, and a higher float in Argentina and Mexico. This increase was partially offset by: i) a higher foreign exchange loss of $20.0 million, related to the $18.2 million gain from 2018 compared with the $1.7 million loss from 2019; and ii) an increase of $9.6 million in financial expenses, mainly attributable to interest expense related to 2028 Notes and secured financial loans and interest expenses from our trusts related to our factoring business in Argentina. 
+ 
+ Income tax 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years ended 
+ 
+ 
+ 
+ Change from 2018 
+ 
+ 
+ 
+ Years ended 
+ 
+ 
+ 
+ Change from 2017 
+ 
+ 
+ 
+ 
+ December 31, 
+ 
+ 
+ 
+ to 2019 (*) 
+ 
+ 
+ 
+ December 31, 
+ 
+ 
+ 
+ to 2018 (*) 
+ 
+ 
+ 
+ 
+ 2019 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ in Dollars 
+ 
+ 
+ 
+ in % 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ in Dollars 
+ 
+ 
+ 
+ in % 
+ 
+ 
+ 
+ 
+ (in millions, except percentages) 
+ 
+ 
+ 
+ (in millions, except percentages) 
+ 
+ 
+ Income tax (expense)/gain 
+ 
+ $ (64.8) 
+ 
+ 
+ 
+ $ 28.9 
+ 
+ 
+ 
+ $ (93.6) 
+ 
+ 
+ 
+ -324.3% 
+ 
+ 
+ 
+ $ 28.9 
+ 
+ 
+ 
+ $ (40.3) 
+ 
+ 
+ 
+ $ 69.2 
+ 
+ 
+ 
+ -171.7% 
+ 
+ 
+ As a percentage of net revenues (*) 
+ 
+ -2.8% 
+ 
+ 
+ 
+ 2.0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2.0% 
+ 
+ 
+ 
+ -3.3% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (*) 
+ 
+ Percentages have been calculated using whole-dollar amounts rather than the rounded amounts that appear in the table. The table above may not total due to rounding . 
+ 
+ 
+ 
+ 
+ 
+ During the year ended December 31, 2019 as compared to the same period in 2018, income tax (expense)/gain variation was $93.6 million, mainly as a consequence of valuation allowances accounted on certain deferred tax assets in Mexico and Colombia and higher tax deductible expenses on our Argentine business related to tax inflation adjustments, in accordance with Argentine income tax law. 
+ U.S. and Argentine Tax Reforms 
+ Please see Note 12 to our audited consolidated financial statements for additional information regarding tax reforms in each jurisdiction in which we operate. 
+ Our effective tax rate is defined as income tax (expense)/gain as a percentage of (expense)/income before income tax. 
+ 
+ 
+ 
+ 49 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ The following table summarizes the changes in our effective tax rate for the years ended December 31, 2019, 2018 and 2017: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years ended 
+ 
+ 
+ 
+ 
+ December 31, 
+ 
+ 
+ 
+ 
+ 2019 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ Effective tax rate 
+ 
+ -60.4% 
+ 
+ 
+ 
+ 44.1% 
+ 
+ 
+ 
+ 74.5% 
+ 
+ Our effective tax rate for the year ended December 31, 2019 as compared to the same period in 2018, decreased to a negative effective tax rate as compared to the same period in 2018, largely as a result of valuation allowances accounted on certain deferred tax assets in Mexico and Colombia and pre-tax losses in 2019. 
+ The following table sets forth our effective income tax rate related to our main locations for the years ended December 31, 2019, 2018 and 2017: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years ended 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ December 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2019 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ Effective tax rate by country 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Argentina 
+ 
+ 
+ 
+ 
+ 
+ 5.2% 
+ 
+ 
+ 
+ 19.8% 
+ 
+ 
+ 
+ 19.5% 
+ 
+ 
+ Brazil 
+ 
+ 
+ 
+ 
+ 
+ 16.7% 
+ 
+ 
+ 
+ 43.4% 
+ 
+ 
+ 
+ 33.4% 
+ 
+ 
+ Mexico 
+ 
+ 
+ 
+ 
+ 
+ -33.4% 
+ 
+ 
+ 
+ 28.8% 
+ 
+ 
+ 
+ 29.3% 
+ The decrease in the effective income tax rate in our Argentine subsidiaries during the year ended December 31, 2019 as compared to the same period in 2018 was mainly a consequence of higher tax deductible expenses on our Argentine business related to tax inflation adjustments, in accordance with Argentine income tax law. 
+ For information regarding the benefits granted to the Company under the software development law, please see Note 12 to our audited consolidated financial statement . 
+ The decrease in our Brazilian effective income tax rate for the year ended December 31, 2019 as compared to the same period in 2018, was mainly related to higher non-taxable pre-tax gains and higher non-deductible expenses during 2019. 
+ The decrease in our Mexican effective income tax rate for the year ended December 31, 2019 as compared to the same period in 2018 was mainly related to valuation allowances accounted on certain deferred tax assets in our Mexican business. 
+ Deferred Income Tax 
+ The following table summarizes the composition of our deferred tax assets for the years ended December 31, 2019 and 2018: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ December 31, (*) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ December 31, (*) 
+ 
+ 
+ 
+ 
+ Deferred tax assets 
+ 
+ 2019 
+ 
+ 
+ 
+ in % 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ in % 
+ 
+ 
+ 
+ 
+ (in millions, except percentages) 
+ 
+ 
+ 
+ (in millions, except percentages) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Brazilian operations 
+ 
+ $ 
+ 
+ 88.2 
+ 
+ 
+ 
+ 34.4 
+ 
+ % 
+ 
+ 
+ 
+ $ 
+ 
+ 65.0 
+ 
+ 
+ 
+ 41.4 
+ 
+ % 
+ 
+ 
+ Argentine operations 
+ 
+ 
+ 
+ 18.9 
+ 
+ 
+ 
+ 7.4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 8.2 
+ 
+ 
+ 
+ 5.2 
+ 
+ 
+ 
+ 
+ Chilean operations 
+ 
+ 
+ 
+ 3.9 
+ 
+ 
+ 
+ 1.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5.2 
+ 
+ 
+ 
+ 3.3 
+ 
+ 
+ 
+ 
+ Mexican operations 
+ 
+ 
+ 
+ 118.6 
+ 
+ 
+ 
+ 46.2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 56.9 
+ 
+ 
+ 
+ 36.2 
+ 
+ 
+ 
+ 
+ U.S. tax credits & others U.S. deferred tax assets 
+ 
+ 
+ 
+ 13.7 
+ 
+ 
+ 
+ 5.3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 13.7 
+ 
+ 
+ 
+ 8.7 
+ 
+ 
+ 
+ 
+ Operations in other countries 
+ 
+ 
+ 
+ 13.2 
+ 
+ 
+ 
+ 5.2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 8.2 
+ 
+ 
+ 
+ 5.2 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ $ 
+ 
+ 256.5 
+ 
+ 
+ 
+ 100.0 
+ 
+ % 
+ 
+ 
+ 
+ $ 
+ 
+ 157.2 
+ 
+ 
+ 
+ 100.0 
+ 
+ % 
+ 
+ 
+ 
+ (*) 
+ 
+ 
+ Percentages have been calculated using whole-dollar amounts rather than the rounded amounts that appear in the table. The table above may not total due to rounding. 
+ As of December 31, 2019 and 2018 our deferred tax assets, were comprised mainly of loss carry forwards representing 65.3% and 71.6% of our total deferred tax assets, respectively. 
+ 
+ 
+ 
+ 50 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ The following table summarizes the composition of our deferred tax assets from loss carryforwards for the years ended December 31, 2019 and 2018: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended 
+ 
+ 
+ 
+ Year Ended 
+ 
+ 
+ 
+ 
+ December 31, (*) 
+ 
+ 
+ 
+ December 31, (*) 
+ 
+ 
+ Loss carryforwards 
+ 
+ 2019 
+ 
+ 
+ 
+ in % 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ in % 
+ 
+ 
+ 
+ 
+ (in millions, except percentages) ‎ 
+ 
+ 
+ 
+ (in millions, except percentages) ‎ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Mexican operations 
+ 
+ $ 
+ 
+ 102.0 
+ 
+ 
+ 
+ 61.0 
+ 
+ % 
+ 
+ 
+ 
+ $ 
+ 
+ 52.2 
+ 
+ 
+ 
+ 46.4 
+ 
+ % 
+ 
+ 
+ Brazilian operations 
+ 
+ 
+ 
+ 52.8 
+ 
+ 
+ 
+ 31.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 51.5 
+ 
+ 
+ 
+ 45.7 
+ 
+ 
+ 
+ 
+ Colombian operations 
+ 
+ 
+ 
+ 8.2 
+ 
+ 
+ 
+ 4.9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.3 
+ 
+ 
+ 
+ 3.8 
+ 
+ 
+ 
+ 
+ Chilean operations 
+ 
+ 
+ 
+ 2.7 
+ 
+ 
+ 
+ 1.6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.2 
+ 
+ 
+ 
+ 3.7 
+ 
+ 
+ 
+ 
+ U.S. loss carry forwards 
+ 
+ 
+ 
+ 0.2 
+ 
+ 
+ 
+ 0.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.2 
+ 
+ 
+ 
+ 0.2 
+ 
+ 
+ 
+ 
+ Operations in other countries 
+ 
+ 
+ 
+ 1.5 
+ 
+ 
+ 
+ 0.9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.2 
+ 
+ 
+ 
+ 0.2 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ $ 
+ 
+ 167.4 
+ 
+ 
+ 
+ 100.0 
+ 
+ % 
+ 
+ 
+ 
+ $ 
+ 
+ 112.6 
+ 
+ 
+ 
+ 100.0 
+ 
+ % 
+ 
+ 
+ 
+ (*) 
+ 
+ 
+ Percentages have been calculated using whole-dollar amounts rather than the rounded amounts that appear in the table. The table above may not total due to rounding. 
+ We also assess the likelihood that our net deferred tax assets will be realized from future taxable income. To the extent we believe that it is more likely than not that some portion or the total deferred tax assets will not be realized, we establish a valuation allowance. 
+ At December 31, 2019 and 2018, our valuation allowance amounted to $138.9 million and $15.7 million, respectively. 
+ The following table summarizes the composition of our valuation allowance for the years ended December 31, 2019 and 2018: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended 
+ 
+ 
+ 
+ Year Ended 
+ 
+ 
+ 
+ 
+ December 31, (*) 
+ 
+ 
+ 
+ December 31, (*) 
+ 
+ 
+ Valuation Allowance 
+ 
+ 2019 
+ 
+ 
+ 
+ in % 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ in % 
+ 
+ 
+ 
+ 
+ (in millions, except percentages) 
+ 
+ 
+ 
+ (in millions, except percentages) 
+ 
+ 
+ Mexican operations 
+ 
+ $ 
+ 
+ 115.0 
+ 
+ 
+ 
+ 82.8 
+ 
+ % 
+ 
+ 
+ 
+ $ 
+ 
+ 0.0 
+ 
+ 
+ 
+ 0.1 
+ 
+ % 
+ 
+ 
+ U.S. foreign tax credits and non-deductible interest 
+ 
+ 
+ 
+ 12.8 
+ 
+ 
+ 
+ 9.2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 12.6 
+ 
+ 
+ 
+ 80.2 
+ 
+ 
+ 
+ 
+ Colombian operations 
+ 
+ 
+ 
+ 9.6 
+ 
+ 
+ 
+ 6.9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 0.0 
+ 
+ 
+ 
+ 
+ Argentine operations 
+ 
+ 
+ 
+ 1.5 
+ 
+ 
+ 
+ 1.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2.2 
+ 
+ 
+ 
+ 13.9 
+ 
+ 
+ 
+ 
+ Chilean operations 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 0.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.9 
+ 
+ 
+ 
+ 5.8 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ $ 
+ 
+ 138.9 
+ 
+ 
+ 
+ 100.0 
+ 
+ % 
+ 
+ 
+ 
+ $ 
+ 
+ 15.7 
+ 
+ 
+ 
+ 100.0 
+ 
+ % 
+ 
+ 
+ 
+ (*) 
+ 
+ 
+ Percentages have been calculated using whole-dollar amounts rather than the rounded amounts that appear in the table. The table above may not total due to rounding. 
+ Our valuation allowance is based on our assessment that it is more likely than not that the deferred tax asset will not be realized. The fluctuations in the valuation allowance will depend on the capacity of each country’s operations to generate taxable income or our execution of future tax planning strategies that allow us to use the aforementioned deferred tax assets. To the extent we establish a valuation allowance or change the allowance in a period, we reflect the change with a corresponding increase or decrease in our tax provision in our consolidated statement of income. 
+ Our future effective tax rates could be adversely affected by earnings being lower than anticipated in countries where we have lower statutory rates and higher than anticipated in countries where we have higher statutory rates, by changes in the valuations of our deferred tax assets or liabilities, or by changes or interpretations in tax laws, regulations or accounting principles. 
+ ‎ 
+ 
+ 
+ 
+ 51 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ Segment information 
+ See Note 7 to our audited consolidated financial statements for detailed description about our reporting segments. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (In millions, except for percentages) 
+ 
+ Year ended December 31, 2019 (*) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Brazil 
+ 
+ 
+ 
+ Argentina 
+ 
+ 
+ 
+ Mexico 
+ 
+ 
+ 
+ 
+ 
+ Other Countries 
+ 
+ 
+ 
+ Total 
+ 
+ 
+ Net revenues 
+ 
+ $ 1,461.5 
+ 
+ 
+ 
+ $ 456.3 
+ 
+ 
+ 
+ $ 275.1 
+ 
+ 
+ 
+ 
+ 
+ $ 103.3 
+ 
+ 
+ 
+ $ 2,296.3 
+ 
+ 
+ Direct costs 
+ 
+ (1,245.4) 
+ 
+ 
+ 
+ (347.7) 
+ 
+ 
+ 
+ (390.2) 
+ 
+ 
+ 
+ 
+ 
+ (105.0) 
+ 
+ 
+ 
+ (2,088.2) 
+ 
+ 
+ Direct contribution 
+ 
+ 216.1 
+ 
+ 
+ 
+ 108.6 
+ 
+ 
+ 
+ (115.0) 
+ 
+ 
+ 
+ 
+ 
+ (1.6) 
+ 
+ 
+ 
+ 208.1 
+ 
+ 
+ Margin 
+ 
+ 14.8% 
+ 
+ 
+ 
+ 23.8% 
+ 
+ 
+ 
+ -41.8% 
+ 
+ 
+ 
+ 
+ 
+ -1.6% 
+ 
+ 
+ 
+ 9.1% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year ended December 31, 2018 (*) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Brazil 
+ 
+ 
+ 
+ Argentina 
+ 
+ 
+ 
+ Mexico 
+ 
+ 
+ 
+ 
+ 
+ Other Countries 
+ 
+ 
+ 
+ Total 
+ 
+ 
+ Net revenues 
+ 
+ $ 866.2 
+ 
+ 
+ 
+ $ 376.6 
+ 
+ 
+ 
+ $ 109.1 
+ 
+ 
+ 
+ 
+ 
+ $ 87.8 
+ 
+ 
+ 
+ $ 1,439.7 
+ 
+ 
+ Direct costs 
+ 
+ (762.6) 
+ 
+ 
+ 
+ (254.5) 
+ 
+ 
+ 
+ (164.6) 
+ 
+ 
+ 
+ 
+ 
+ (79.6) 
+ 
+ 
+ 
+ (1,261.4) 
+ 
+ 
+ Direct contribution 
+ 
+ 103.5 
+ 
+ 
+ 
+ 122.0 
+ 
+ 
+ 
+ (55.5) 
+ 
+ 
+ 
+ 
+ 
+ 8.2 
+ 
+ 
+ 
+ 178.3 
+ 
+ 
+ Margin 
+ 
+ 12.0% 
+ 
+ 
+ 
+ 32.4% 
+ 
+ 
+ 
+ -50.9% 
+ 
+ 
+ 
+ 
+ 
+ 9.4% 
+ 
+ 
+ 
+ 12.4% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Change from the year ended December 31, 2019 to December 31, 2018 (*) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Brazil 
+ 
+ 
+ 
+ Argentina 
+ 
+ 
+ 
+ Mexico 
+ 
+ 
+ 
+ 
+ 
+ Other Countries 
+ 
+ 
+ 
+ Total 
+ 
+ 
+ Net revenues 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ in Dollars 
+ 
+ $ 595.3 
+ 
+ 
+ 
+ $ 79.8 
+ 
+ 
+ 
+ $ 166.0 
+ 
+ 
+ 
+ 
+ 
+ $ 15.5 
+ 
+ 
+ 
+ $ 856.7 
+ 
+ 
+ in % 
+ 
+ 68.7% 
+ 
+ 
+ 
+ 21.2% 
+ 
+ 
+ 
+ 152.2% 
+ 
+ 
+ 
+ 
+ 
+ 17.7% 
+ 
+ 
+ 
+ 59.5% 
+ 
+ 
+ Direct costs 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ in Dollars 
+ 
+ $ (482.7) 
+ 
+ 
+ 
+ $ (93.2) 
+ 
+ 
+ 
+ $ (225.5) 
+ 
+ 
+ 
+ 
+ 
+ $ (25.4) 
+ 
+ 
+ 
+ $ (826.9) 
+ 
+ 
+ in % 
+ 
+ 63.3% 
+ 
+ 
+ 
+ 36.6% 
+ 
+ 
+ 
+ 137.0% 
+ 
+ 
+ 
+ 
+ 
+ 31.9% 
+ 
+ 
+ 
+ 65.6% 
+ 
+ 
+ Direct contribution 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ in Dollars 
+ 
+ $ 112.6 
+ 
+ 
+ 
+ $ (13.4) 
+ 
+ 
+ 
+ $ (59.5) 
+ 
+ 
+ 
+ 
+ 
+ $ (9.9) 
+ 
+ 
+ 
+ $ 29.8 
+ 
+ 
+ in % 
+ 
+ 108.7% 
+ 
+ 
+ 
+ -11.0% 
+ 
+ 
+ 
+ 107.1% 
+ 
+ 
+ 
+ 
+ 
+ -119.8% 
+ 
+ 
+ 
+ 16.7% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (*) 
+ 
+ Percentages have been calculated using whole-dollar amounts rather than the rounded amounts that appear in the table. The table above may not total due to rounding . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (In millions, except for percentages) 
+ 
+ Year ended December 31, 2018 (*) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Brazil 
+ 
+ 
+ 
+ Argentina 
+ 
+ 
+ 
+ Mexico 
+ 
+ 
+ 
+ Venezuela (**) 
+ 
+ 
+ 
+ Other Countries 
+ 
+ 
+ 
+ Total 
+ 
+ 
+ Net revenues 
+ 
+ $ 866.2 
+ 
+ 
+ 
+ $ 376.6 
+ 
+ 
+ 
+ $ 109.1 
+ 
+ 
+ 
+ $ — 
+ 
+ 
+ 
+ $ 87.8 
+ 
+ 
+ 
+ $ 1,439.7 
+ 
+ 
+ Direct costs 
+ 
+ (762.6) 
+ 
+ 
+ 
+ (254.5) 
+ 
+ 
+ 
+ (164.6) 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ (79.6) 
+ 
+ 
+ 
+ (1,261.4) 
+ 
+ 
+ Direct contribution 
+ 
+ 103.5 
+ 
+ 
+ 
+ 122.0 
+ 
+ 
+ 
+ (55.5) 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 8.2 
+ 
+ 
+ 
+ 178.3 
+ 
+ 
+ Margin 
+ 
+ 12.0% 
+ 
+ 
+ 
+ 32.4% 
+ 
+ 
+ 
+ -50.9% 
+ 
+ 
+ 
+ 0.0% 
+ 
+ 
+ 
+ 9.4% 
+ 
+ 
+ 
+ 12.4% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year ended December 31, 2017 (*) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Brazil 
+ 
+ 
+ 
+ Argentina 
+ 
+ 
+ 
+ Mexico 
+ 
+ 
+ 
+ Venezuela (**) 
+ 
+ 
+ 
+ Other Countries 
+ 
+ 
+ 
+ Total 
+ 
+ 
+ Net revenues 
+ 
+ $ 690.8 
+ 
+ 
+ 
+ $ 359.4 
+ 
+ 
+ 
+ $ 51.3 
+ 
+ 
+ 
+ $ 54.3 
+ 
+ 
+ 
+ $ 60.7 
+ 
+ 
+ 
+ $ 1,216.5 
+ 
+ 
+ Direct costs 
+ 
+ (471.6) 
+ 
+ 
+ 
+ (215.8) 
+ 
+ 
+ 
+ (107.4) 
+ 
+ 
+ 
+ (22.1) 
+ 
+ 
+ 
+ (53.2) 
+ 
+ 
+ 
+ (870.1) 
+ 
+ 
+ Impairment of Long-lived Assets 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ (2.8) 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ (2.8) 
+ 
+ 
+ Loss on Deconsolidation of Venezuelan Subsidiaries 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ (76.6) 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ (76.6) 
+ 
+ 
+ Direct contribution 
+ 
+ 219.2 
+ 
+ 
+ 
+ 143.5 
+ 
+ 
+ 
+ (56.1) 
+ 
+ 
+ 
+ (47.2) 
+ 
+ 
+ 
+ 7.5 
+ 
+ 
+ 
+ $ 267.0 
+ 
+ 
+ Margin 
+ 
+ 31.7% 
+ 
+ 
+ 
+ 39.9% 
+ 
+ 
+ 
+ -109.2% 
+ 
+ 
+ 
+ -86.9% 
+ 
+ 
+ 
+ 12.4% 
+ 
+ 
+ 
+ 21.9% 
+ 
+ 
+ 
+ 
+ 52 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Change from the year ended December 31, 2018 to December 31, 2017 (*) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Brazil 
+ 
+ 
+ 
+ Argentina 
+ 
+ 
+ 
+ Mexico 
+ 
+ 
+ 
+ Venezuela (**) 
+ 
+ 
+ 
+ Other Countries 
+ 
+ 
+ 
+ Total 
+ 
+ 
+ Net revenues 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ in Dollars 
+ 
+ $ 175.4 
+ 
+ 
+ 
+ $ 17.2 
+ 
+ 
+ 
+ $ 57.8 
+ 
+ 
+ 
+ $ (54.3) 
+ 
+ 
+ 
+ $ 27.1 
+ 
+ 
+ 
+ $ 223.1 
+ 
+ 
+ in % 
+ 
+ 25.4% 
+ 
+ 
+ 
+ 4.8% 
+ 
+ 
+ 
+ 112.5% 
+ 
+ 
+ 
+ -100.0% 
+ 
+ 
+ 
+ 44.6% 
+ 
+ 
+ 
+ 18.3% 
+ 
+ 
+ Direct costs 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ in Dollars 
+ 
+ $ (291.0) 
+ 
+ 
+ 
+ $ (38.7) 
+ 
+ 
+ 
+ $ (57.2) 
+ 
+ 
+ 
+ $ 22.1 
+ 
+ 
+ 
+ $ (26.4) 
+ 
+ 
+ 
+ $ (391.3) 
+ 
+ 
+ in % 
+ 
+ 61.7% 
+ 
+ 
+ 
+ 17.9% 
+ 
+ 
+ 
+ 53.3% 
+ 
+ 
+ 
+ -100.0% 
+ 
+ 
+ 
+ 49.6% 
+ 
+ 
+ 
+ 45.0% 
+ 
+ 
+ Impairment of Long-Lived Assets 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ in Dollars 
+ 
+ $ — 
+ 
+ 
+ 
+ $ — 
+ 
+ 
+ 
+ $ — 
+ 
+ 
+ 
+ $ 2.8 
+ 
+ 
+ 
+ $ — 
+ 
+ 
+ 
+ $ 2.8 
+ 
+ 
+ in % 
+ 
+ 0.0% 
+ 
+ 
+ 
+ 0.0% 
+ 
+ 
+ 
+ 0.0% 
+ 
+ 
+ 
+ -100.0% 
+ 
+ 
+ 
+ 0.0% 
+ 
+ 
+ 
+ -100.0% 
+ 
+ 
+ Loss on Deconsolidation of Venezuelan Subsidiaries 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ in Dollars 
+ 
+ $ — 
+ 
+ 
+ 
+ $ — 
+ 
+ 
+ 
+ $ — 
+ 
+ 
+ 
+ $ 76.6 
+ 
+ 
+ 
+ $ — 
+ 
+ 
+ 
+ $ 76.6 
+ 
+ 
+ in % 
+ 
+ 0.0% 
+ 
+ 
+ 
+ 0.0% 
+ 
+ 
+ 
+ 0.0% 
+ 
+ 
+ 
+ -100.0% 
+ 
+ 
+ 
+ 0.0% 
+ 
+ 
+ 
+ -100.0% 
+ 
+ 
+ Direct contribution 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ in Dollars 
+ 
+ $ (115.7) 
+ 
+ 
+ 
+ $ (21.5) 
+ 
+ 
+ 
+ $ 0.5 
+ 
+ 
+ 
+ $ 47.2 
+ 
+ 
+ 
+ $ 0.7 
+ 
+ 
+ 
+ $ (88.7) 
+ 
+ 
+ in % 
+ 
+ -52.8% 
+ 
+ 
+ 
+ -15.0% 
+ 
+ 
+ 
+ -0.9% 
+ 
+ 
+ 
+ -100.0% 
+ 
+ 
+ 
+ 9.7% 
+ 
+ 
+ 
+ -33.2% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (*) 
+ 
+ Percentages have been calculated using whole-dollar amounts rather than the rounded amounts that appear in the table. The table above may not total due to rounding. 
+ 
+ 
+ (**) 
+ 
+ Venezuelan results have been deconsolidated since December 1, 2017. Please refer to Note 2 of our audited consolidated financial statements for additional detail. 
+ 
+ Net revenues 
+ Net revenues for the years ended December 31, 2019, 2018 and 2017 are described above in “ITEM 7 – Management’s Discussion and Analysis of Financial Condition and Results of Operations – Net revenues”. 
+ Direct costs, Impairment of Long-Lived Assets and Loss on Deconsolidation of Venezuelan Subsidiaries by Segment 
+ Brazil 
+ For the year ended December 31, 2019 as compared to the same period in 2018, direct costs increased by 63.3%, mainly driven by: i) a 76.3% increase in sales and marketing expenses, mainly due to an increase in online and offline marketing expenses and branding initiatives, bad debt expenses mainly related to our credit portfolio, buyer protection program expenses, chargebacks from credit cards due to the increase in our Mercado Pago transaction volume, other sales expenses mainly related to strategic initiatives and salaries and wages; ii) a 58.9% increase in cost of net revenues, mainly attributable to an increase in collection fees as a consequence of the higher transactions volume of our Mercado Pago business, shipping operating and carrier costs, sales tax, cost of products sold due to increased sales of our mobile point of sale devices and finance costs mainly related to funding our Mercado Pago business; iii) a 43.9% increase in product and technology development expenses, mainly due to an increase in other product and technology development expenses primarily related to certain tax withholdings, depreciation and amortization expenses and salaries and wages; and iv) a 44.4% increase in general and administrative expenses, mainly attributable to an increase in salaries and wages and legal fees, tax and other fees. 
+ Argentina 
+ For the year ended December 31, 2019 as compared to the same period in 2018, direct costs increased by 36.6%, mainly driven by: i) a 50.1% increase in sales and marketing expenses, mainly due to an increase in online and offline marketing expenses and branding initatives, buyer protection program expenses, chargebacks from credit cards, bad debt expenses mainly related to our credit portfolio and other sales expenses mainly related to strategic initiatives; ii) a 31.4% increase in cost of net revenues, mainly attributable to an increase in collection fees as a consequence of the higher transactions volume of our Mercado Pago business, an increase in shipping operating and carrier costs, cost of products sold due to increased sales of our mobile point of sale devices, and finance costs mainly related to funding our Mercado Pago business; iii) a 40.8% increase in product and technology development expenses, mainly due to an increase in depreciation and amortization expenses and salaries and wages; and iv) a 38.0% increase in general and administrative expenses, mainly attributable to an increase in salaries and wages and other general and administrative expenses mainly related to certain tax withholdings. This increase in direct costs are netted from the effect of inflation and devaluation in Argentina, as described previously in this document. 
+ 
+ 
+ 
+ 53 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ Mexico 
+ For the year ended December 31, 2019 as compared to the same period in 2018, direct costs increased by 137.0%, mainly driven by: i) a 206.1% increase in cost of net revenues, mainly attributable to an increase in shipping operating and carrier costs, collection fees due to higher Mercado Pago penetration, customer support costs and cost of products sold as a result of increased sales of our mobile point of sale devices; ii) a 94.4% increase in sales and marketing expenses, mainly due to increases in online and offline marketing expenses and branding initiatives, buyer protection program expenses, chargebacks from credit cards due to the increase in our Mercado Pago transaction volume and salaries and wages; iii) a 89.5% increase in product and technology development expenses, mainly attributable to depreciation and amortization expenses; and iv) a 99.4% increase in general and administrative expenses mainly due to an increase in salaries and wages and other general and administrative expenses. 
+ Venezuela 
+ We deconsolidated our Venezuelan’s operations effective as of December 1, 2017 and recorded an impairment of $85.8 million, of which $76.6 million are included as direct costs, and relates to the company’s investment in Venezuela, including net assets, intangibles accumulated translation differences and $9.1 million are related to intercompany balances. Please refer to note 2 from our audited consolidated financial statements for additional detail. 
+ 
+ Liquidity and Capital Resources 
+ Our main cash requirement historically has been working capital to fund Mercado Pago financing operations. We also require cash for capital expenditures relating to technology infrastructure, software applications, office space, business acquisitions, to fund our credit business, to build out our logistics capacity and the interest payments on our 2028 Notes. 
+ Since our inception, we have funded our operations primarily through contributions received from our stockholders during the first two years of operations, funds raised from our initial public offering, and from cash generated from our operations. W e issued the 2019 Notes and 2028 Notes for net proceeds of $321.7 million and $864.6 million, respectively. We have funded Mercado Pago mainly by discounting credit card receivables and credit lines. 
+ Additionally, we started to fund our Mercado Pago and Mercado Credito businesses through securitization of certain loans and credit cards receivable through SPEs created in Brazil, Mexico and Argentina. Please refer to Note 20 of our audited consolidated financial statements for further detail on securitization transactions. 
+ Finally, we issued common and preferred stock in the securities offerings that closed on March 15, 2019 and March 29, 2019, respectively, for net aggregate proceeds of $1,965.9 million, which are intended to be used to fund the growth of our payment initiatives, build out our logistics capacity, drive the adoption of these services and for general corporate purposes. Please see note 21 to our audited consolidated financial statements for additional information regarding our equity offerings 
+ As of December 31, 2019, our main source of liquidity, amounting to $2,459.2 million of cash and cash equivalents and short-term investments, which excludes $506.2 million investment related to the Central Bank of Brazil Mandatory Guarantee and $16.6 million investment related to financial guarantees for secured lines of credit in Argentina, and $264.0 million of long-term investments, consists of cash generated from operations, proceeds from loans, from the issuance of the 2028 Notes and proceeds from our issuances of common and preferred stock. We consider our long-term investments as part of our liquidity because long-term investments are comprised of available-for-sale securities classified as long-term as a consequence of their contractual maturities. 
+ The significant components of our working capital are cash and cash equivalents, short-term investments, credit cards receivable, loans receivable, accounts payable and accrued expenses, funds payable to customers, and short-term debt. 
+ As of December 31, 2019, cash and investments of our non-U.S. subsidiaries amounted to $1,222.5 million, representing 36.9% of our consolidated cash , restricted cash and cash equivalents and investments and our cash, restricted cash and investments of our non-U.S. subsidiaries held outside U.S. amounted to 33.0% of our consolidated cash and cash equivalent, restricted cash and cash equivalent and investments. Our non-U.S. dollar-denominated cash and cash equivalent, restricted cash and cash equivalent and investments are located primarily in Brazil, Argentina and Mexico. ‎ 
+ 
+ 
+ 
+ 54 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ The following table presents our cash flows from operating activities, investing activities and financing activities for the years ended December 31, 2019, 2018 and 2017: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years ended 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ December 31, (*) 
+ 
+ 
+ (In millions) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2019 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ Net cash provided by (used in): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating activities 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 451.1 
+ 
+ 
+ 
+ $ 230.9 
+ 
+ 
+ 
+ $ 269.0 
+ 
+ 
+ Investing activities 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1,447.8) 
+ 
+ 
+ 
+ (672.5) 
+ 
+ 
+ 
+ (22.6) 
+ 
+ 
+ Financing activities 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2,021.0 
+ 
+ 
+ 
+ 608.9 
+ 
+ 
+ 
+ (50.9) 
+ 
+ 
+ Effect of exchange rates on cash, cash equivalents, restricted cash and cash equivalents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (37.6) 
+ 
+ 
+ 
+ (90.9) 
+ 
+ 
+ 
+ (41.3) 
+ 
+ 
+ Net increase in cash, cash equivalents, restricted cash and cash equivalents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 986.7 
+ 
+ 
+ 
+ $ 76.4 
+ 
+ 
+ 
+ $ 154.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (*) 
+ 
+ Percentages have been calculated using whole-dollar amounts rather than the rounded amounts that appear in the table. 
+ 
+ Net cash provided by operating activities 
+ Cash provided by operating activities consists of net (loss)/income adjusted for certain non-cash items, and the effect of changes in working capital and other activities: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years ended 
+ 
+ 
+ 
+ Change from 
+ 
+ 
+ 
+ 
+ 
+ 
+ December 31, 
+ 
+ 
+ 
+ 2018 to 2019 (*) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2019 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ in Dollars 
+ 
+ 
+ 
+ in % 
+ 
+ 
+ 
+ 
+ 
+ 
+ (in millions, except percentages) 
+ 
+ 
+ Net Cash provided by: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating activities 
+ 
+ 
+ 
+ $ 451.1 
+ 
+ 
+ 
+ $ 230.9 
+ 
+ 
+ 
+ $ 220.2 
+ 
+ 
+ 
+ 95.4% 
+ 
+ 
+ 
+ 
+ The 
+ 
+ 
+ 
+ 
+ (*) 
+ 
+ Percentages have been calculated using whole-dollar amounts rather than the rounded amounts that appear in the table. 
+ 
+ The $220.2 million increase in net cash provided by operating activities during the year ended December 31, 2019, as compared to the same period in 2018, was primarily driven by a $97.7 million increase as a consequence of lower net loss after non-cash adjustments, a $91.9 increase in funds payable to customers, a $53.4 million increase in accounts payable and accrued expenses and $32.9 million increase on interest received from investment. This increase was partially offset by a $72.0 million decrease in credit cards receivable. 
+ 
+ Net cash used in investing activities 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years ended 
+ 
+ 
+ 
+ Change from 
+ 
+ 
+ 
+ 
+ 
+ 
+ December 31, 
+ 
+ 
+ 
+ 2018 to 2019 (*) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2019 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ in Dollars 
+ 
+ 
+ 
+ in % 
+ 
+ 
+ 
+ 
+ 
+ 
+ (in millions, except percentages) 
+ 
+ 
+ Net Cash used in: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Investing activities 
+ 
+ 
+ 
+ $ (1,447.8) 
+ 
+ 
+ 
+ $ (672.5) 
+ 
+ 
+ 
+ $ (775.3) 
+ 
+ 
+ 
+ 115.3% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (*) 
+ 
+ Percentages have been calculated using whole-dollar amounts rather than the rounded amounts that appear in the table. 
+ 
+ Net cash used in investing activities in the year ended December 31, 2019 resulted mainly from purchases of investments of $4,490.7 million, partially offset by proceeds from the sale and maturity of investments of $3,353.6 million, as part of our financial strategy. We used $173.8 million in principal loans receivable granted under our Mercado Credito solution; $136.8 million in the purchase of property and equipment (mainly in information technology and leashold improvements on our offices and fulfillment centers in Argentina, Mexico and Brazil). 
+ 
+ ‎ 
+ 
+ 
+ 
+ 55 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ Net cash provided by financing activities 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years ended 
+ 
+ 
+ 
+ Change from 
+ 
+ 
+ 
+ 
+ 
+ 
+ December 31, 
+ 
+ 
+ 
+ 2018 to 2019 (*) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2019 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ in Dollars 
+ 
+ 
+ 
+ in % 
+ 
+ 
+ 
+ 
+ 
+ 
+ (in millions, except percentages) 
+ 
+ 
+ Net Cash provided by: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Financing activities 
+ 
+ 
+ 
+ $ 2,021.0 
+ 
+ 
+ 
+ $ 608.9 
+ 
+ 
+ 
+ $ 1,412.1 
+ 
+ 
+ 
+ 231.9% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (*) 
+ 
+ Percentages have been calculated using whole-dollar amounts rather than the rounded amounts that appear in the table. 
+ 
+ For the year ended December 31, 2019, our cash provided by financing activities was primarily derived from $1,867.2 million in proceeds from the issuance of Common Stock, a $348.1 million increase in payments from the exchange of the 2019 Notes during 2018 and a $98.7 million increase in proceeds from the issuance of Preferred Stock. This increase was partially offset by a decrease of $880.0 million related to funds received from the issuance of the 2028 Notes in August 2018 and a decrease of $136.1 million related to the partial unwinding of the 2019 Notes Capped Call Transactions in 2018. 
+ In the event that we decide to pursue strategic acquisitions in the future, we may fund them with available cash, third-party debt financing, or by raising equity capital, as market conditions allow. 
+ 
+ Debt 
+ Convertible Senior Notes 
+ On June 30, 2014, we issued $330 million of 2.25% convertible senior notes due 2019 (the “2019 Notes”). The 2019 Notes were unsecured, unsubordinated obligations, which paid interest in cash semi-annually, on January 1 and July 1 of each year, at a rate of 2.25% per annum. The 2019 Notes matured on July 1, 2019. Holders of $66.0 million principal amount of the 2019 Notes elected to convert their 2019 Notes at maturity, and we issued 523,407 shares of our common stock and paid $8 thousands in cash (because of the fraction of shares) in settlement of such conversions. $17 thousands of the principal amount of the 2019 Notes was not converted and was repaid by us in cash at maturity. 
+ On August 24, 2018, we issued $800 million of 2.00% Convertible Senior Notes due 2028 and on August 31, 2018 we issued an additional $80 million of notes pursuant to the partial exercise of the initial purchasers’ option to purchase such additional notes, resulting in an aggregate principal amount of $880 million of 2.00% Convertible Senior Notes due 2028. The 2028 Notes are unsecured, unsubordinated obligations, which pay interest in cash semi-annually, on February 15 and August 15, at a rate of 2.00% per annum. The 2028 Notes will mature on August 15, 2028 unless earlier repurchased or converted in accordance with their terms prior to such date. The 2028 Notes may be converted, under specific conditions, based on an initial conversion rate of 2.2553 shares of common stock per $1,000 principal amount of the 2028 Notes (equivalent to an initial conversion price of $443.40 per share of common stock), subject to adjustment as described in the indenture governing the 2028 Notes. 
+ Also, on July 1, 2019, we received and retired 131,994 shares of our Common Stock in settlement of capped call agreements that we had previously entered into in relation to the 2019 Notes. 
+ Please refer to Notes 2 and 15 to our audited consolidated financial statements for additional information regarding the 2019 Notes, the 2028 Notes and the related capped call transactions. 
+ Mercado Pago Funding 
+ During 2019, we, through our subsidiaries, continued obtaining certain lines of credit in Argentina, Chile and Uruguay primarily to fund the Mercado Pago business. Additionally, we continue to securitize certain loans and credit card receivables through our Argentine, Mexican and Brazilian SPEs, formed to securitize loans and credit cards receivable provided by us to our users. Please refer to Note 20 to our audited consolidated financial statements for additional detail. 
+ 
+ Cash Dividends 
+ See “ITEM 5—Market for registrant’s common equity, related stockholder matters and issuer purchases of equity securities—Dividend Policy” for more information regarding our dividend distributions. 
+ Our Board of Directors suspended the payment of dividends on our common stock as of the first quarter of 2018 after reviewed our capital allocation process and concluding that we have multiple investment opportunities that should generate greater returns to shareholders through investing capital into the business as compared to paying dividends. Any future determination as to the declaration of dividends on our common stock will be made at the discretion of our Board of Directors and will depend on our earnings, operating and financial condition, capital requirements and other factors deemed relevant by our Board of Directors, including the applicable requirements of the Delaware General Corporation Law . 
+ 
+ 
+ 
+ 56 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ Capital expenditures 
+ Our capital expenditures (composed of our payments for property and equipment, intangible assets and acquired businesses) for the years ended December 31, 2019 and 2018 amounted to $141.4 million and $102.0 million, respectively. 
+ We invested $55.3 million and $55.5 million in leasehold improvements in our offices and fulfillment centers in Argentina, Mexico and Brazil during the years ended December 31, 2019 and 2018, respectively. We also invested $74.0 million and $54.7 million, respectively, in Information Technology, which was concentrated across Brazil, Argentina and Mexico. 
+ We are continually increasing our level of investment in hardware and software licenses necessary to improve and update our platform’s technology and our computer software developed internally. We anticipate continued investments in capital expenditures related to information technology in the future as we strive to maintain our position in the Latin American e-commerce market. 
+ We believe that our existing cash and cash equivalents, including the sale of credit card receivables and cash generated from operations will be sufficient to fund our operating activities, property and equipment expenditures and to pay or repay obligations going forward. 
+ 
+ Off-balance sheet arrangements 
+ As of December 31, 2019 we had no off-balance sheet arrangements that have, or are reasonably likely to have, a current or future material effect on our consolidated financial condition, results of operations, liquidity, capital expenditures or capital resources. 
+ 
+ 
+ Contractual obligations 
+ We have certain fixed contractual obligations and commitments that include future estimated payments. Changes in our business needs, cancellation provisions and other factors may result in actual payments differing materially from the estimates below. We cannot provide certainty regarding the timing and amount of payments. Contractual obligations at December 31, 2019 are as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Payment due by period 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ 
+ 
+ Less than 
+ 
+ 
+ 
+ 1 to 3 
+ 
+ 
+ 
+ 3 to 5 
+ 
+ 
+ 
+ More than 
+ 
+ 
+ (in millions) 
+ 
+ 
+ 
+ (*) 
+ 
+ 
+ 
+ 1 year (*) 
+ 
+ 
+ 
+ years (*) 
+ 
+ 
+ 
+ years (*) 
+ 
+ 
+ 
+ 5 years (*) 
+ 
+ 
+ Long-term debt obligations (1) 
+ 
+ 
+ 
+ $ 
+ 
+ 1,293.1 
+ 
+ 
+ 
+ $ 
+ 
+ 210.8 
+ 
+ 
+ 
+ $ 
+ 
+ 96.7 
+ 
+ 
+ 
+ $ 
+ 
+ 35.2 
+ 
+ 
+ 
+ $ 
+ 
+ 950.4 
+ 
+ 
+ Finance lease obligations 
+ 
+ 
+ 
+ 
+ 
+ 16.1 
+ 
+ 
+ 
+ 
+ 
+ 4.3 
+ 
+ 
+ 
+ 
+ 
+ 8.3 
+ 
+ 
+ 
+ 
+ 
+ 3.5 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ Operating lease obligations (2) 
+ 
+ 
+ 
+ 
+ 
+ 308.7 
+ 
+ 
+ 
+ 
+ 
+ 37.7 
+ 
+ 
+ 
+ 
+ 
+ 72.2 
+ 
+ 
+ 
+ 
+ 
+ 62.9 
+ 
+ 
+ 
+ 
+ 
+ 135.9 
+ 
+ 
+ Purchase obligations 
+ 
+ 
+ 
+ 
+ 
+ 176.5 
+ 
+ 
+ 
+ 
+ 
+ 65.9 
+ 
+ 
+ 
+ 
+ 
+ 98.3 
+ 
+ 
+ 
+ 
+ 
+ 12.4 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ Total 
+ 
+ 
+ 
+ $ 
+ 
+ 1,794.4 
+ 
+ 
+ 
+ $ 
+ 
+ 318.7 
+ 
+ 
+ 
+ $ 
+ 
+ 275.5 
+ 
+ 
+ 
+ $ 
+ 
+ 114.0 
+ 
+ 
+ 
+ $ 
+ 
+ 1,086.3 
+ 
+ 
+ 
+ 
+ h 
+ 
+ 
+ 
+ 
+ (*) 
+ 
+ The table above may not total due to rounding. 
+ 
+ 
+ (1) 
+ 
+ Includes principal and interest amounts. For additional details regarding our loans payable and 2028 Notes, please see Note 15; for collateralized debt securitization and finance and operating lease obligations, please see Note 20 and 22 to our audited consolidated financial statements, respectively. 
+ 
+ 
+ (2) 
+ 
+ Includes leases of office space and fulfillment centers. 
+ We have leases for office space, fulfillment centers and vehicles in certain countries in which we operate. Purchase obligation amounts include minimum purchase commitments for advertising, capital expenditures (technological equipment and software licenses) and other goods and services that were entered into in the ordinary course of business. We have developed estimates to project payment obligations based upon historical trends, when available, and our anticipated future obligations. Given the significance of performance requirements within our advertising and other arrangements, actual payments could differ significantly from these estimates. 
+ 

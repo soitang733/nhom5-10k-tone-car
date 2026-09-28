@@ -1,0 +1,4370 @@
+ ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+ 
+ 
+ Overview 
+ W. R. Berkley Corporation is an insurance holding company that is among the largest commercial lines writers in the United States and operates worldwide in two business segments of the property and casualty business: Insurance and Reinsurance. Our decentralized structure provides us with the flexibility to respond quickly and efficiently to local or specific market conditions and to pursue specialty business niches. It also allows us to be closer to our customers in order to better understand their individual needs and risk characteristics. While providing our business units with certain operating autonomy, our structure allows us to capitalize on the benefits of economies of scale through centralized capital, investment, reinsurance and enterprise risk management, and actuarial, financial and corporate legal staff support. The Company's primary sources of revenues and earnings are its insurance operations and its investments. 
+ An important part of our strategy is to form new operating units to capitalize on various business opportunities. Over the years, the Company has formed numerous new operating units that are focused on important parts of the economy in the U.S., including healthcare, cyber security, energy and agriculture, and on growing international markets, including the Asia-Pacific region, South America and Mexico. 
+ The profitability of the Company’s insurance business is affected primarily by the adequacy of premium rates. The ultimate adequacy of premium rates is not known with certainty at the time an insurance policy is issued because premiums are determined before claims are reported. The ultimate adequacy of premium rates is affected mainly by the severity and frequency of claims, which are influenced by many factors, including natural and other disasters, regulatory measures and court decisions that define and change the extent of coverage and the effects of economic inflation on the amount of compensation for injuries or losses. General insurance prices are also influenced by available insurance capacity, i.e., the level of statutory capital and surplus employed in the industry, and the industry’s willingness to deploy that capital. 
+ The Company’s profitability is also affected by its investment income and investment gains. The Company’s invested assets are invested principally in fixed maturity securities. The return on fixed maturity securities is affected primarily by general interest rates, as well as the credit quality and duration of the securities. Returns available on fixed maturity investments have been at historically low levels in recent years. 
+ The Company also invests in equity securities, merger arbitrage securities, investment funds (including energy related funds), private equity, loans and real estate related assets. The Company's investments in investment funds and its other alternative investments have experienced, and the Company expects to continue to experience, greater fluctuations in investment income. 
+ During 2017, catastrophe losses were $184 million, mainly related to hurricanes Harvey, Irma, and Maria, two earthquakes in Mexico, and wildfires in California. 
+ The Tax Cuts and Jobs Act of 2017 (the Tax Act) was enacted on December 22, 2017. The Tax Act provides for a reduction of the U.S. corporate income tax rate from 35% to 21% effective January 1, 2018. The Tax Act also provides for a mandatory repatriation of foreign earnings, which requires companies to pay a one-time tax on the unremitted accumulated earnings of their foreign subsidiaries. The Company has calculated the effects of the Tax Act as of December 31, 2017 and has included in its financial statements provisional estimates of its impact. The Company anticipates further guidance will be forthcoming and will continue to review and refine its calculations as guidance is provided and additional analysis of the Company's information is completed. 
+ In 2017, the Company reported a net tax benefit related to the Tax Act in the amount of $20.7 million . This included a tax benefit due to the reduction of the tax rate as applied to the net U.S. deferred tax liability in the amount of $30.5 million . Offsetting this tax benefit, the Company recorded a provisional charge of $9.8 million on the deemed repatriation of earnings and related impact of utilization of foreign losses. The charge may be adjusted as the applicable earnings related to the foreign subsidiaries are finalized for the purpose of the mandatory repatriation inclusion computation. 
+ Commencing with the first quarter 2017, the Company reclassified two businesses from the Insurance segment to the Reinsurance segment. Reclassifications have been made to the Company's 2016 and earlier presented financial information to conform with this presentation. 
+ 
+ 
+ 30 
+ 
+ 
+ 
+ 
+ Critical Accounting Estimates 
+ The following presents a discussion of accounting policies and estimates relating to reserves for losses and loss expenses, assumed premiums and other-than-temporary impairments of investments. Management believes these policies and estimates are the most critical to its operations and require the most difficult, subjective and complex judgments. 
+ Reserves for Losses and Loss Expenses . To recognize liabilities for unpaid losses, either known or unknown, insurers establish reserves, which is a balance sheet account representing estimates of future amounts needed to pay claims and related expenses with respect to insured events which have occurred. Estimates and assumptions relating to reserves for losses and loss expenses are based on complex and subjective judgments, often including the interplay of specific uncertainties with related accounting and actuarial measurements. Such estimates are also susceptible to change as significant periods of time may elapse between the occurrence of an insured loss, the report of the loss to the insurer, the ultimate determination of the cost of the loss and the insurer’s payment of that loss. 
+ In general, when a claim is reported, claims personnel establish a “case reserve” for the estimated amount of the ultimate payment based upon known information about the claim at that time. The estimate represents an informed judgment based on general reserving practices and reflects the experience and knowledge of the claims personnel regarding the nature and value of the specific type of claim. Reserves are also established on an aggregate basis to provide for losses incurred but not reported (“IBNR”) to the insurer, potential inadequacy of case reserves and the estimated expenses of settling claims, including legal and other fees and general expenses of administrating the claims adjustment process. Reserves are established based upon the then current legal interpretation of coverage provided. 
+ In examining reserve adequacy, several factors are considered in estimating the ultimate economic value of losses. These factors include, among other things, historical data, legal developments, changes in social attitudes and economic conditions, including the effects of inflation. The actuarial process relies on the basic assumption that past experience, adjusted judgmentally for the effects of current developments and anticipated trends, is an appropriate basis for predicting future outcomes. Reserve amounts are based on management’s informed estimates and judgments using currently available data. As additional experience and other data become available and are reviewed, these estimates and judgments may be revised. This may result in reserve increases or decreases that would be reflected in our results in periods in which such estimates and assumptions are changed. 
+ Reserves do not represent a certain calculation of liability. Rather, reserves represent an estimate of what management expects the ultimate settlement and claim administration will cost. While the methods for establishing reserves are well tested over time, the major assumptions about anticipated loss emergence patterns are subject to uncertainty. These estimates, which generally involve actuarial projections, are based on management’s assessment of facts and circumstances then known, as well as estimates of trends in claims severity and frequency, judicial theories of liability and other factors, including the actions of third parties which are beyond the Company’s control. These variables are affected by external and internal events, such as inflation and economic volatility, judicial and litigation trends, reinsurance coverage, legislative changes and claim handling and reserving practices, which make it more difficult to accurately predict claim costs. The inherent uncertainties of estimating reserves are greater for certain types of liabilities where long periods of time elapse before a definitive determination of liability is made. Because setting reserves is inherently uncertain, the Company cannot provide assurance that its current reserves will prove adequate in light of subsequent events. 
+ Loss reserves included in the Company’s financial statements represent management’s best estimates based upon an actuarially derived point estimate and other considerations. The Company uses a variety of actuarial techniques and methods to derive an actuarial point estimate for each operating unit. These methods include paid loss development, incurred loss development, paid and incurred Bornhuetter-Ferguson methods and frequency and severity methods. In circumstances where one actuarial method is considered more credible than the others, that method is used to set the point estimate. For example, the paid loss and incurred loss development methods rely on historical paid and incurred loss data. For new lines of business, where there is insufficient history of paid and incurred claims data, or in circumstances where there have been significant changes in claim practices, the paid and incurred loss development methods would be less credible than other actuarial methods. The actuarial point estimate may also be based on a judgmental weighting of estimates produced from each of the methods considered. Industry loss experience is used to supplement the Company’s own data in selecting “tail factors” and in areas where the Company’s own data is limited. The actuarial data is analyzed by line of business, coverage and accident or policy year, as appropriate, for each operating unit. 
+ The establishment of the actuarially derived loss reserve point estimate also includes consideration of qualitative factors that may affect the ultimate losses. These qualitative considerations include, among others, the impact of re-underwriting initiatives, changes in the mix of business, changes in distribution sources and changes in policy terms and conditions. Examples of changes in terms and conditions that can have a significant impact on reserve levels are the use of aggregate policy limits, the expansion of coverage exclusions, whether or not defense costs are within policy limits, and changes in deductibles and attachment points. 
+ 
+ 
+ 31 
+ 
+ 
+ 
+ The key assumptions used to arrive at the best estimate of loss reserves are the expected loss ratios, rate of loss cost inflation, and reported and paid loss emergence patterns. Expected loss ratios represent management’s expectation of losses at the time the business is priced and written, before any actual claims experience has emerged. This expectation is a significant determinant of the estimate of loss reserves for recently written business where there is little paid or incurred loss data to consider. Expected loss ratios are generally derived from historical loss ratios adjusted for the impact of rate changes, loss cost trends and known changes in the type of risks underwritten. Expected loss ratios are estimated for each key line of business within each operating unit. Expected loss cost inflation is particularly important for the long-tail lines, such as excess casualty, and claims with a high medical component, such as workers’ compensation. Reported and paid loss emergence patterns are used to project current reported or paid loss amounts to their ultimate settlement value. Loss development factors are based on the historical emergence patterns of paid and incurred losses, and are derived from the Company’s own experience and industry data. The paid loss emergence pattern is also significant to excess and assumed workers’ compensation reserves because those reserves are discounted to their estimated present value based upon such estimated payout patterns. Management believes the estimates and assumptions it makes in the reserving process provide the best estimate of the ultimate cost of settling claims and related expenses with respect to insured events which have occurred; however, different assumptions and variables could lead to significantly different reserve estimates. 
+ Loss frequency and severity are measures of loss activity that are considered in determining the key assumptions described in our discussion of loss and loss expense reserves, including expected loss ratios, rate of loss cost inflation and reported and paid loss emergence patterns. Loss frequency is a measure of the number of claims per unit of insured exposure, and loss severity is a measure of the average size of claims. Factors affecting loss frequency include the effectiveness of loss controls and safety programs and changes in economic activity or weather patterns. Factors affecting loss severity include changes in policy limits, retentions, rate of inflation and judicial interpretations. 
+ Another factor affecting estimates of loss frequency and severity is the loss reporting lag, which is the period of time between the occurrence of a loss and the date the loss is reported to the Company. The length of the loss reporting lag affects our ability to accurately predict loss frequency (loss frequencies are more predictable for lines with short reporting lags) as well as the amount of reserves needed for incurred but not reported losses (less IBNR is required for lines with short reporting lags). As a result, loss reserves for lines with short reporting lags are likely to have less variation from initial loss estimates. For lines with short reporting lags, which include commercial automobile, primary workers’ compensation, other liability (claims-made) and property business, the key assumption is the loss emergence pattern used to project ultimate loss estimates from known losses paid or reported to date. For lines of business with long reporting lags, which include other liability (occurrence), products liability, excess workers’ compensation and liability reinsurance, the key assumption is the expected loss ratio since there is often little paid or incurred loss data to consider. Historically, the Company has experienced less variation from its initial loss estimates for lines of businesses with short reporting lags than for lines of business with long reporting lags. 
+ The key assumptions used in calculating the most recent estimate of the loss reserves are reviewed each quarter and adjusted, to the extent necessary, to reflect the latest reported loss data, current trends and other factors observed. If the actual level of loss frequency and severity are higher or lower than expected, the ultimate losses will be different than management’s estimate. The following table reflects the impact of changes (which could be favorable or unfavorable) in frequency and severity, relative to our assumptions, on our loss estimate for claims occurring in 2017 : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (In thousands) 
+ 
+ Frequency (+/-) 
+ 
+ 
+ Severity (+/-) 
+ 
+ 1% 
+ 
+ 
+ 
+ 5% 
+ 
+ 
+ 
+ 10% 
+ 
+ 
+ 1% 
+ 
+ $ 
+ 
+ 79,667 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 239,794 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 439,953 
+ 
+ 
+ 
+ 
+ 5% 
+ 
+ 239,794 
+ 
+ 
+ 
+ 
+ 
+ 406,263 
+ 
+ 
+ 
+ 
+ 
+ 614,349 
+ 
+ 
+ 
+ 
+ 10% 
+ 
+ 439,953 
+ 
+ 
+ 
+ 
+ 
+ 614,349 
+ 
+ 
+ 
+ 
+ 
+ 832,344 
+ 
+ 
+ Our net reserves for losses and loss expenses of approximately $10.1 billion as of December 31, 2017 relate to multiple accident years. Therefore, the impact of changes in frequency or severity for more than one accident year could be higher or lower than the amounts reflected above. The impact of such changes would likely be manifested gradually over the course of many years, as the magnitude of the changes became evident. 
+ Approximately $1.7 billion, or 17%, of the Company’s net loss reserves as of December 31, 2017 relate to the Reinsurance segment. There is a higher degree of uncertainty and greater variability regarding estimates of assumed loss reserves because those estimates are based, in part, upon information received from ceding companies. If information received from ceding companies is not timely or correct, the Company’s estimate of ultimate losses may not be accurate. Furthermore, due to delayed reporting of claim information by ceding companies, the claim settlement tail for assumed reinsurance is extended. Management considers the impact of delayed reporting in its selection of assumed loss development factors. 
+ 
+ 
+ 32 
+ 
+ 
+ 
+ Information received from ceding companies is used to set initial expected loss ratios, to establish case reserves and to estimate reserves for incurred but not reported losses on assumed reinsurance business. This information, which is generally provided through reinsurance intermediaries, is gathered through the underwriting process and from periodic claim reports and other correspondence with ceding companies. The Company performs underwriting and claim audits of selected ceding companies to determine the accuracy and completeness of information provided to the Company. The information received from the ceding companies is supplemented by the Company’s own loss development experience with similar lines of business as well as industry loss trends and loss development benchmarks. 
+ 
+ 
+ 33 
+ 
+ 
+ 
+ Following is a summary of the Company’s reserves for losses and loss expenses by business segment as of December 31, 2017 and 2016 : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (In thousands) 
+ 
+ 2017 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ Insurance 
+ 
+ $ 
+ 
+ 8,341,622 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 7,913,074 
+ 
+ 
+ 
+ 
+ Reinsurance 
+ 
+ 1,715,292 
+ 
+ 
+ 
+ 
+ 
+ 1,677,191 
+ 
+ 
+ 
+ 
+ Net reserves for losses and loss expenses 
+ 
+ 10,056,914 
+ 
+ 
+ 
+ 
+ 
+ 9,590,265 
+ 
+ 
+ 
+ 
+ Ceded reserves for losses and loss expenses 
+ 
+ 1,613,494 
+ 
+ 
+ 
+ 
+ 
+ 1,606,930 
+ 
+ 
+ 
+ 
+ Gross reserves for losses and loss expenses 
+ 
+ $ 
+ 
+ 11,670,408 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 11,197,195 
+ 
+ 
+ Following is a summary of the Company’s net reserves for losses and loss expenses by major line of business as of December 31, 2017 and 2016 : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (In thousands) 
+ 
+ Reported Case 
+ Reserves 
+ 
+ 
+ 
+ Incurred But 
+ Not Reported 
+ 
+ 
+ 
+ Total 
+ 
+ 
+ December 31, 2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other liability 
+ 
+ $ 
+ 
+ 1,261,957 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 2,189,596 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 3,451,553 
+ 
+ 
+ 
+ 
+ Workers’ compensation (1) 
+ 
+ 1,543,379 
+ 
+ 
+ 
+ 
+ 
+ 1,242,501 
+ 
+ 
+ 
+ 
+ 
+ 2,785,880 
+ 
+ 
+ 
+ 
+ Professional liability 
+ 
+ 295,269 
+ 
+ 
+ 
+ 
+ 
+ 618,107 
+ 
+ 
+ 
+ 
+ 
+ 913,376 
+ 
+ 
+ 
+ 
+ Commercial automobile 
+ 
+ 347,669 
+ 
+ 
+ 
+ 
+ 
+ 263,411 
+ 
+ 
+ 
+ 
+ 
+ 611,080 
+ 
+ 
+ 
+ 
+ Short-tail lines (2) 
+ 
+ 315,008 
+ 
+ 
+ 
+ 
+ 
+ 264,725 
+ 
+ 
+ 
+ 
+ 
+ 579,733 
+ 
+ 
+ 
+ 
+ Total primary 
+ 
+ 3,763,282 
+ 
+ 
+ 
+ 
+ 
+ 4,578,340 
+ 
+ 
+ 
+ 
+ 
+ 8,341,622 
+ 
+ 
+ 
+ 
+ Reinsurance (1) 
+ 
+ 919,497 
+ 
+ 
+ 
+ 
+ 
+ 795,795 
+ 
+ 
+ 
+ 
+ 
+ 1,715,292 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ $ 
+ 
+ 4,682,779 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 5,374,135 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 10,056,914 
+ 
+ 
+ 
+ 
+ December 31, 2016 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other liability 
+ 
+ $ 
+ 
+ 1,159,082 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 2,061,966 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 3,221,048 
+ 
+ 
+ 
+ 
+ Workers’ compensation (1) 
+ 
+ 1,453,318 
+ 
+ 
+ 
+ 
+ 
+ 1,228,774 
+ 
+ 
+ 
+ 
+ 
+ 2,682,092 
+ 
+ 
+ 
+ 
+ Professional liability 
+ 
+ 264,188 
+ 
+ 
+ 
+ 
+ 
+ 542,539 
+ 
+ 
+ 
+ 
+ 
+ 806,727 
+ 
+ 
+ 
+ 
+ Commercial automobile 
+ 
+ 344,143 
+ 
+ 
+ 
+ 
+ 
+ 252,978 
+ 
+ 
+ 
+ 
+ 
+ 597,121 
+ 
+ 
+ 
+ 
+ Short-tail lines (2) 
+ 
+ 322,872 
+ 
+ 
+ 
+ 
+ 
+ 283,214 
+ 
+ 
+ 
+ 
+ 
+ 606,086 
+ 
+ 
+ 
+ 
+ Total primary 
+ 
+ 3,543,603 
+ 
+ 
+ 
+ 
+ 
+ 4,369,471 
+ 
+ 
+ 
+ 
+ 
+ 7,913,074 
+ 
+ 
+ 
+ 
+ Reinsurance (1) 
+ 
+ 823,516 
+ 
+ 
+ 
+ 
+ 
+ 853,675 
+ 
+ 
+ 
+ 
+ 
+ 1,677,191 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ $ 
+ 
+ 4,367,119 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 5,223,146 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 9,590,265 
+ 
+ ____________________ 
+ 
+ 
+ 
+ 
+ 
+ (1) 
+ 
+ Reserves for excess and assumed workers’ compensation business are net of an aggregate net discount of $591 million and $640 million as of December 31, 2017 and 2016 , respectively. 
+ 
+ 
+ 
+ 
+ 
+ (2) 
+ 
+ Short-tail lines include commercial multi-peril (non-liability), inland marine, accident and health, fidelity and surety, boiler and machinery and other lines. 
+ The Company evaluates reserves for losses and loss expenses on a quarterly basis. Changes in estimates of prior year losses are reported when such changes are made. The changes in prior year loss reserve estimates are generally the result of ongoing analysis of recent loss development trends. Original estimates are increased or decreased as additional information becomes known regarding individual claims and aggregate claim trends. 
+ Certain of the Company's insurance and reinsurance contracts are retrospectively rated, whereby the Company collects more or less premiums based on the level of loss activity. For those contracts, changes in loss and loss expenses for prior years may be fully or partially offset by additional or return premiums. 
+ Net prior year development (i.e, the sum of prior year reserve changes and prior year earned premiums changes) for each of the last three years ended December 31, are as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (In thousands) 
+ 
+ 2017 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ Decrease in prior year loss reserves 
+ 
+ $ 
+ 
+ 5,165 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 29,904 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 46,713 
+ 
+ 
+ 
+ 
+ Increase in prior year earned premiums 
+ 
+ 32,162 
+ 
+ 
+ 
+ 
+ 
+ 29,000 
+ 
+ 
+ 
+ 
+ 
+ 16,730 
+ 
+ 
+ 
+ 
+ Net favorable prior year development 
+ 
+ $ 
+ 
+ 37,327 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 58,904 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 63,443 
+ 
+ 
+ 
+ 
+ 34 
+ 
+ 
+ 
+ Favorable prior year development (net of additional and return premiums) was $37 million in 2017 . 
+ Insurance - Reserves for the Insurance segment developed favorably by $68 million in 2017. The favorable development was primarily attributable to workers' compensation business, and was partially offset by unfavorable development for professional liability business. 
+ For workers' compensation, the favorable development was related to both primary and excess business and was spread across many accident years, including those prior to 2008, but was most significant in accident years 2014 through 2016. The favorable workers' compensation development reflects a continuation during 2017 of the generally benign loss cost trends experienced in recent years, particularly the favorable claim frequency trends (i.e. number of reported claims per unit of exposure). Reported workers' compensation losses in 2017 continued to be below our expectations at most of our operating units, and were below the assumptions underlying our previous reserve estimates. The favorable severity trends were also impacted by our continued investment in medical case management services and the higher usage of preferred provider networks. The long term trend of declining workers' compensation frequency can be attributed to improved workplace safety. 
+ For professional liability business, adverse development was primarily related to unexpected large directors & officers ("D&O") liability losses at one of our U.S. operating units, and large professional indemnity and D&O losses in the U.K. The adverse development stemmed mainly from accident years 2013 through 2016 in the U.S. and 2011 through 2016 in the U.K. 
+ Reinsurance - Reserves for the Reinsurance segment developed unfavorably by $31 million in 2017. This adverse development was due to reserve strengthening associated with claims impacted by the change in the Ogden discount rate in the U.K., as well as adverse development on the U.S. facultative casualty excess of loss business. The Ogden rate is the discount rate used to calculate lump-sum bodily injury payouts in the U.K., and was reduced by the U.K. Ministry of Justice from +2.5% to -0.75% in 2017; the adverse development mostly related to U.K. motor bodily injury claims which we reinsured on an excess of loss basis in accident years 2012 through 2016. The adverse development on U.S. facultative casualty business was due to construction related risks in accident years 2008 and prior. 
+ Favorable prior year development (net of additional and return premiums) was $59 million in 2016 . 
+ Insurance - Reserves for the Insurance segment developed favorably by $53 million in 2016 . The favorable development was primarily related to workers' compensation business, and was partially offset by unfavorable development for medical professional liability business. 
+ For workers' compensation, the favorable development was related to both primary and excess business and to many accident years, including those prior to 2007. During 2016 , reported workers' compensation losses continued to be below our expectations at most of our operating units. Loss frequency and severity trends continued to be better than the assumptions underlying our previous reserve estimates. Loss severity trends also benefited from our continued investment in medical case management services and from our preferred provider networks. The long term trend of declining workers' compensation frequency can be attributed to improved workplace safety. 
+ For medical professional liability business, unfavorable development was primarily related to a class of business that has been discontinued. The adverse development for that business stemmed mainly from accident years 2010 through 2015. 
+ Reinsurance - Reserves for the Reinsurance segment developed favorably by $6 million in 2016 . The favorable development was primarily related to direct facultative reinsurance business and to accident years 2008 through 2014. 
+ Favorable prior year development (net of additional and return premiums) was $63 million in 2015 . 
+ Insurance - Reserves for the Insurance segment developed favorably by $52 million in 2015 . The favorable development was primarily related to workers' compensation, other liability business and commercial property, and was partially offset by unfavorable development for commercial automobile liability business and professional indemnity business. 
+ For workers' compensation, the favorable development was related to both primary and excess business and to many accident years, including those prior to 2007. In 2015 , reported workers' compensation losses were below our expectations for many of our operating units. In addition, overall loss frequency and severity trends emerged better than the assumptions underlying our previous reserve estimates. The long term trend of declining workers' compensation claim frequency continued in 2015 . The improvement is attributable to better workplace safety and to benign medical severity trends as we continue to invest in medical case management services and higher usage of preferred provider networks. 
+ For other liability business, favorable development was concentrated in accident years 2007 through 2013. The favorable development was primarily related to our excess and surplus lines casualty business that has benefited from a persistent improvement in claim frequency trends over the past several years. 
+ 
+ 
+ 35 
+ 
+ 
+ 
+ For commercial property business, favorable development was attributable to accident years 2012 through 2014 and was driven by favorable frequency and severity trends on property business written in Lloyd's. 
+ For commercial automobile business, adverse development was primarily related to large losses for long-haul trucking business and to accident years 2011 through 2014. The higher loss cost trends for the commercial automobile industry are attributable, in part, to the increase in miles driven as the economy improved and fuel prices declined over the past several years. 
+ For professional indemnity business in the U.K., adverse development was primarily for accident years 2006 through 2013. 
+ Reinsurance - Reserves for the Reinsurance segment developed favorably by $11 million in 2015 . The favorable development was primarily related to direct facultative reinsurance business and to accident years 2005 through 2013. Loss reserves developed favorably for umbrella business and for other liability coverage for contractors. 
+ Reserve Discount . The Company discounts its liabilities for certain workers’ compensation reserves. The amount of workers’ compensation reserves that were discounted was $ 1,855 million and $ 1,907 million at December 31, 2017 and December 31, 2016 , respectively. The aggregate net discount for those reserves, after reflecting the effects of ceded reinsurance, was $591 million and $640 million at December 31, 2017 and 2016, respectively. At December 31, 2017 , discount rates by year ranged from 2.0% to 6.5% , with a weighted average discount rate of 3.8% . 
+ Substantially all discounted workers’ compensation reserves ( 97% of total discounted reserves at December 31, 2017 ) are excess workers’ compensation reserves. In order to properly match loss expenses with income earned on investment securities supporting the liabilities, reserves for excess workers’ compensation business are discounted using risk-free discount rates determined by reference to the U.S. Treasury yield curve. These rates are determined annually based on the weighted average rate for the period. Once established, no adjustments are made to the discount rate for that period, and any increases or decreases in loss reserves in subsequent years are discounted at the same rate, without regard to when any such adjustments are recognized. The expected loss and loss expense payout patterns subject to discounting are derived from the Company’s loss payout experience. 
+ The Company also discounts reserves for certain other long-duration workers’ compensation reserves (representing approximately 3% of total discounted reserves at December 31, 2017 ), including reserves for quota share reinsurance and reserves related to losses regarding occupational lung disease. These reserves are discounted at statutory rates permitted by the Department of Insurance of the State of Delaware. 
+ Assumed Reinsurance Premiums . The Company estimates the amount of assumed reinsurance premiums that it will receive under treaty reinsurance agreements at the inception of the contracts. These premium estimates are revised as the actual amount of assumed premiums is reported to the Company by the ceding companies. As estimates of assumed premiums are made or revised, the related amount of earned premiums, commissions and incurred losses associated with those premiums are recorded. Estimated assumed premiums receivable were approximately $56 million and $68 million at December 31, 2017 and 2016 , respectively. The assumed premium estimates are based upon terms set forth in reinsurance agreements, information received from ceding companies during the underwriting and negotiation of agreements, reports received from ceding companies and discussions and correspondence with reinsurance intermediaries. The Company also considers its own view of market conditions, economic trends and experience with similar lines of business. These premium estimates represent management’s best estimate of the ultimate amount of premiums to be received under its assumed reinsurance agreements. 
+ Other-Than-Temporary Impairments (OTTI) of Investments . The cost of securities is adjusted where appropriate to include a provision for decline in value which is considered to be other-than-temporary. An other-than-temporary decline is considered to occur in investments where there has been a sustained reduction in fair value and where the Company does not expect the fair value to recover prior to the time of sale or maturity. Since equity securities do not have a contractual cash flow or maturity, the Company considers whether the price of an equity security is expected to recover within a reasonable period of time. 
+ The Company classifies its fixed maturity securities and preferred stocks by credit rating, primarily based on ratings assigned by credit rating agencies. For purposes of classifying securities with different ratings, the Company uses the average of the credit ratings assigned, unless in limited situations the Company's own analysis indicates an internal rating is more appropriate. Securities that are not rated by a rating agency are evaluated and classified by the Company on a case-by-case basis. 
+ 
+ 
+ 36 
+ 
+ 
+ 
+ Fixed Maturity Securities – For securities that we intend to sell or, more likely than not, would be required to sell, a decline in value below amortized cost is considered to be OTTI. The amount of OTTI is equal to the difference between amortized cost and fair value at the balance sheet date. For securities that we do not intend to sell or expect to be required to sell, a decline in value below amortized cost is considered to be an OTTI if we do not expect to recover the entire amortized cost basis of a security (i.e., the present value of cash flows expected to be collected is less than the amortized cost basis of the security). 
+ The portion of the decline in value considered to be a credit loss (i.e., the difference between the present value of cash flows expected to be collected and the amortized cost basis of the security) is recognized in earnings. The portion of the decline in value not considered to be a credit loss (i.e., the difference in the present value of cash flows expected to be collected and the fair value of the security) is recognized in other comprehensive income. 
+ Impairment assessments for structured securities, including mortgage-backed securities and asset-backed securities, collateralized debt obligations and corporate debt, are generally evaluated based on the performance of the underlying collateral under various economic and default scenarios that may involve subjective judgments and estimates by management. Modeling these securities involves various factors, such as projected default rates, the nature and realizable value of the collateral, if any, the ability of the issuer to make scheduled payments, historical performance and other relevant economic and performance factors. If an OTTI determination is made, a discounted cash flow analysis is used to ascertain the amount of the credit impairment. 
+ The following table provides a summary of fixed maturity securities in an unrealized loss position as of December 31, 2017 : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ($ in thousands) 
+ 
+ Number of 
+ Securities 
+ 
+ 
+ 
+ Aggregate 
+ Fair Value 
+ 
+ 
+ 
+ Unrealized 
+ Loss 
+ 
+ 
+ Unrealized loss less than 20% of amortized cost 
+ 
+ 789 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 4,939,452 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 60,118 
+ 
+ 
+ 
+ 
+ Unrealized loss of 20% or greater of amortized cost: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Twelve months and longer 
+ 
+ 3 
+ 
+ 
+ 
+ 
+ 
+ 177 
+ 
+ 
+ 
+ 
+ 
+ 111 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ 792 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 4,939,629 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 60,229 
+ 
+ 
+ A summary of the Company’s non-investment grade fixed maturity securities that were in an unrealized loss position at December 31, 2017 is presented in the table below. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ($ in thousands) 
+ 
+ Number of 
+ Securities 
+ 
+ 
+ 
+ Aggregate 
+ Fair Value 
+ 
+ 
+ 
+ Unrealized 
+ Loss 
+ 
+ 
+ Foreign government 
+ 
+ 11 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 96,741 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,197 
+ 
+ 
+ 
+ 
+ Corporate 
+ 
+ 7 
+ 
+ 
+ 
+ 
+ 
+ 54,590 
+ 
+ 
+ 
+ 
+ 
+ 2,725 
+ 
+ 
+ 
+ 
+ Mortgage-backed securities 
+ 
+ 6 
+ 
+ 
+ 
+ 
+ 
+ 5,368 
+ 
+ 
+ 
+ 
+ 
+ 138 
+ 
+ 
+ 
+ 
+ State and municipal 
+ 
+ 1 
+ 
+ 
+ 
+ 
+ 
+ 3,662 
+ 
+ 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 
+ Asset-backed securities 
+ 
+ 3 
+ 
+ 
+ 
+ 
+ 
+ 441 
+ 
+ 
+ 
+ 
+ 
+ 116 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ 28 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 160,802 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 4,177 
+ 
+ 
+ The Company has evaluated its fixed maturity securities in an unrealized loss position and believes the unrealized loss is due primarily to temporary market and sector-related factors rather than to issuer-specific factors. None of these securities are delinquent or in default under financial covenants. Based on its assessment of these issuers, the Company expects them to continue to meet their contractual payment obligations as they become due and does not consider any of these securities to be OTTI. For the years ended December 31, 2017 and 2016, there were no OTTI for fixed maturity securities recognized in earnings. 
+ Preferred Stocks – At December 31, 2017 , there was one preferred stock in an unrealized loss position, with an aggregate fair value of $23.1 million and a gross unrealized loss of $2.6 million . The preferred stock is rated investment grade. Management believes the unrealized loss is due primarily to market and sector related factors and does not consider it to be OTTI. For the years ended December 31, 2017 and 2016, there were no OTTI for preferred stocks. 
+ Common Stocks – At December 31, 2017 , there were three common stocks in an unrealized loss position with an aggregate fair value of $18.6 million and a gross unrealized loss of $2.0 million. Based on management's view of these securities, the Company does not consider the common stocks to be OTTI. For the year ended December 31, 2017 , there were no OTTI for common stocks. OTTI for common stocks for the year ended December 31, 2016 were $18.1 million. 
+ 
+ 
+ 37 
+ 
+ 
+ 
+ Loans Receivable – The Company monitors the performance of its loans receivable, including current market conditions for each loan and the ability to collect principal and interest. For loans where the Company determines it is probable that the contractual terms will not be met, an analysis is performed and a valuation reserve is established, if necessary, with a charge to earnings. Loans receivable are reported net of a valuation reserve of $3 million for both December 31, 2017 and 2016 . 
+ The Company monitors the performance of its loans receivable and assesses the ability of each borrower to pay principal and interest based upon loan structure, underlying property values, cash flow and related financial and operating performance of the property and market conditions. Loans receivable with a potential for default are further assessed using discounted cash flow analysis and comparable cost and sales methodologies, if appropriate. 
+ Fair Value Measurements . The Company’s fixed maturity and equity securities available for sale and its trading account securities are carried at fair value. Fair value is defined as "the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date". The Company utilizes a fair value hierarchy that prioritizes the inputs to valuation techniques used to measure fair value into three broad levels. Level 1 inputs are quoted prices (unadjusted) in active markets for identical assets or liabilities that the reporting entity has the ability to access at the measurement date. Level 2 inputs are inputs other than quoted prices included within Level 1 that are observable for similar assets in active markets. Level 3 inputs are unobservable inputs for the asset or liability. Unobservable inputs may only be used to measure fair value to the extent that observable inputs are not available. The fair value of the vast majority of the Company’s portfolio is based on observable data (other than quoted prices) and, accordingly, is classified as Level 2. 
+ In classifying particular financial securities in the fair value hierarchy, the Company uses its judgment to determine whether the market for a security is active and whether significant pricing inputs are observable. The Company determines the existence of an active market by assessing whether transactions occur with sufficient frequency and volume to provide reliable pricing information. The Company determines whether inputs are observable based on the use of such information by pricing services and external investment managers, the uninterrupted availability of such inputs, the need to make significant adjustments to such inputs and the volatility of such inputs over time. If the market for a security is determined to be inactive or if significant inputs used to price a security are determined to be unobservable, the security is categorized in Level 3 of the fair value hierarchy. 
+ Because many fixed maturity securities do not trade on a daily basis, the Company utilizes pricing models and processes which may include benchmark curves, benchmarking of like securities, sector groupings and matrix pricing. Market inputs used to evaluate securities include benchmark yields, reported trades, broker/dealer quotes, issuer spreads, two-sided markets, benchmark securities, bids, offers and reference data. Quoted prices are often unavailable for recently issued securities that are infrequently traded or securities that are only traded in private transactions. For publicly traded securities for which quoted prices are unavailable, the Company determines fair value based on independent broker quotations and other observable market data. For securities traded only in private negotiations, the Company determines fair value based primarily on the cost of such securities, which is adjusted to reflect prices of recent placements of securities of the same issuer, financial data, projections and business developments of the issuer and other relevant information. 
+ The following is a summary of pricing sources for the Company's fixed maturity securities available for sale as of December 31, 2017 : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (In thousands) 
+ 
+ Carrying 
+ Value 
+ 
+ 
+ 
+ Percent 
+ of Total 
+ 
+ 
+ Pricing source: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Independent pricing services 
+ 
+ $ 
+ 
+ 13,335,030 
+ 
+ 
+ 
+ 
+ 
+ 99.0 
+ 
+ % 
+ 
+ 
+ Syndicate manager 
+ 
+ 40,255 
+ 
+ 
+ 
+ 
+ 
+ 0.3 
+ 
+ 
+ 
+ 
+ Directly by the Company based on: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Observable data 
+ 
+ 96,461 
+ 
+ 
+ 
+ 
+ 
+ 0.7 
+ 
+ 
+ 
+ 
+ Cash flow model 
+ 
+ 172 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ $ 
+ 
+ 13,471,918 
+ 
+ 
+ 
+ 
+ 
+ 100.0 
+ 
+ % 
+ Independent pricing services - Substantially all of the Company’s fixed maturity securities available for sale were priced by independent pricing services (generally one U.S. pricing service plus additional pricing services with respect to a limited number of foreign securities held by the Company). The prices provided by the independent pricing services are generally based on observable market data in active markets (e.g., broker quotes and prices observed for comparable securities). The determination of whether markets are active or inactive is based upon the volume and level of activity for a particular asset class. The Company reviews the prices provided by pricing services for reasonableness based upon current trading levels for similar securities. If the prices appear unusual to the Company, they are re-examined and the value is either confirmed or revised. In addition, the Company periodically performs independent price tests of a sample of securities to ensure proper 
+ 
+ 
+ 38 
+ 
+ 
+ 
+ valuation and to verify our understanding of how securities are priced. As of December 31, 2017 , the Company did not make any adjustments to the prices provided by the pricing services. Based upon the Company’s review of the methodologies used by the independent pricing services, these securities were classified as Level 2. 
+ Syndicate manager – The Company has a 15% participation in a Lloyd’s syndicate, and the Company’s share of the securities owned by the syndicate is priced by the syndicate’s manager. The majority of the securities are liquid, short duration fixed maturity securities. The Company reviews the syndicate manager’s pricing methodology and audited financial statements and holds discussions with the syndicate manager as necessary to confirm its understanding and agreement with security prices. Based upon the Company’s review of the methodologies used by the syndicate manager, these securities were classified as Level 2. 
+ Observable data – If independent pricing is not available, the Company prices the securities directly. Prices are based on observable market data where available, including current trading levels for similar securities and non-binding quotations from brokers. The Company generally requests two or more quotes. If more than one quote is received, the Company sets a price within the range of quotes received based on its assessment of the credibility of the quote and its own evaluation of the security. The Company generally does not adjust quotes obtained from brokers. Since these securities were priced based on observable data, they were classified as Level 2. 
+ Cash flow model – If the above methodologies are not available, the Company prices securities using a discounted cash flow model based upon assumptions as to prevailing credit spreads, interest rates and interest rate volatility, time to maturity and subordination levels. Discount rates are adjusted to reflect illiquidity where appropriate. These securities were classified as Level 3. 
+ 
+ 
+ 
+ 
+ 39 
+ 
+ 
+ 
+ Results of Operations for the Years Ended December 31, 2017 and 2016 
+ Business Segment Results 
+ Following is a summary of gross and net premiums written, net premiums earned, loss ratios (losses and loss expenses incurred expressed as a percentage of net premiums earned), expense ratios (underwriting expenses expressed as a percentage of net premiums earned) and GAAP combined ratios (sum of loss ratio and expense ratio) for each of our business segments for the years ended December 31, 2017 and 2016 . The GAAP combined ratio represents a measure of underwriting profitability, excluding investment income. A GAAP combined ratio in excess of 100 indicates an underwriting loss; a number below 100 indicates an underwriting profit. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (In thousands) 
+ 
+ 2017 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ Insurance 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Gross premiums written 
+ 
+ $ 
+ 
+ 6,869,831 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 6,795,506 
+ 
+ 
+ 
+ 
+ Net premiums written 
+ 
+ 5,715,871 
+ 
+ 
+ 
+ 
+ 
+ 5,743,620 
+ 
+ 
+ 
+ 
+ Net premiums earned 
+ 
+ 5,706,443 
+ 
+ 
+ 
+ 
+ 
+ 5,618,842 
+ 
+ 
+ 
+ 
+ Loss ratio 
+ 
+ 61.6 
+ 
+ % 
+ 
+ 
+ 
+ 61.0 
+ 
+ % 
+ 
+ 
+ Expense ratio 
+ 
+ 32.9 
+ 
+ 
+ 
+ 
+ 
+ 32.5 
+ 
+ 
+ 
+ 
+ GAAP combined ratio 
+ 
+ 94.5 
+ 
+ 
+ 
+ 
+ 
+ 93.5 
+ 
+ 
+ 
+ 
+ Reinsurance 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Gross premiums written 
+ 
+ $ 
+ 
+ 607,132 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 748,195 
+ 
+ 
+ 
+ 
+ Net premiums written 
+ 
+ 544,637 
+ 
+ 
+ 
+ 
+ 
+ 680,293 
+ 
+ 
+ 
+ 
+ Net premiums earned 
+ 
+ 604,976 
+ 
+ 
+ 
+ 
+ 
+ 674,506 
+ 
+ 
+ 
+ 
+ Loss ratio 
+ 
+ 80.2 
+ 
+ % 
+ 
+ 
+ 
+ 61.6 
+ 
+ % 
+ 
+ 
+ Expense ratio 
+ 
+ 37.4 
+ 
+ 
+ 
+ 
+ 
+ 39.0 
+ 
+ 
+ 
+ 
+ GAAP combined ratio 
+ 
+ 117.6 
+ 
+ 
+ 
+ 
+ 
+ 100.6 
+ 
+ 
+ 
+ 
+ Consolidated 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Gross premiums written 
+ 
+ $ 
+ 
+ 7,476,963 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 7,543,701 
+ 
+ 
+ 
+ 
+ Net premiums written 
+ 
+ 6,260,508 
+ 
+ 
+ 
+ 
+ 
+ 6,423,913 
+ 
+ 
+ 
+ 
+ Net premiums earned 
+ 
+ 6,311,419 
+ 
+ 
+ 
+ 
+ 
+ 6,293,348 
+ 
+ 
+ 
+ 
+ Loss ratio 
+ 
+ 63.4 
+ 
+ % 
+ 
+ 
+ 
+ 61.1 
+ 
+ % 
+ 
+ 
+ Expense ratio 
+ 
+ 33.3 
+ 
+ 
+ 
+ 
+ 
+ 33.2 
+ 
+ 
+ 
+ 
+ GAAP combined ratio 
+ 
+ 96.7 
+ 
+ 
+ 
+ 
+ 
+ 94.3 
+ 
+ 
+ 
+ Net Income to Common Stockholders . The following table presents the Company’s net income to common stockholders and net income per diluted share for the years ended December 31, 2017 and 2016 . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (In thousands, except per share data) 
+ 
+ 2017 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ Net income to common stockholders 
+ 
+ $ 
+ 
+ 549,094 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 601,916 
+ 
+ 
+ 
+ 
+ Weighted average diluted shares 
+ 
+ 129,018 
+ 
+ 
+ 
+ 
+ 
+ 128,553 
+ 
+ 
+ 
+ 
+ Net income per diluted share 
+ 
+ $ 
+ 
+ 4.26 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 4.68 
+ 
+ 
+ The Company reported net income of $549 million in 2017 compared to $602 million in 2016 . The 9% decrease in net income was primarily due to a decrease in after-tax underwriting income of $98 million (mainly driven by increased catastrophe losses from hurricanes Harvey, Irma, and Maria, two earthquakes in Mexico, and wildfires in California), an after-tax increase of $18 million in net foreign currency losses, an after-tax decrease in income from non-insurance businesses of $9 million, an increase in after-tax interest expense of $4 million, and an increase in after-tax other expenses of $7 million, partially offset by an increase in after-tax net investment gains of $45 million, a net benefit from tax reform of $21 million, an increase in after-tax net investment income of $8 million, an after-tax increase of $3 million in service fee income and an increase in income from other various sources of $6 million. The number of weighted average diluted shares remained relatively unchanged for 2017 and 2016 . 
+ Premiums . Gross premiums written were $7,477 million in 2017 , a decrease of 1% from $7,544 million in 2016 . The decrease was due to a decrease in the Reinsurance segment of $141 million, partially offset by an increase in the Insurance segment of $74 million. Approximately 79% of policies expiring in 2017 were renewed and 77% of policies expiring in 2016 were renewed. 
+ 
+ 
+ 40 
+ 
+ 
+ 
+ Average renewal premium rates (adjusted for change in exposures) increased 0.9% in 2017 , 0.3% in 2016 and 1.2% in 2015 . However, overall loss costs are also increasing, and current market price levels for certain lines of business remain below the prices required for the Company to achieve its long-term return objectives. 
+ A summary of gross premiums written in 2017 compared with 2016 by line of business within each business segment follows: 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Insurance gross premiums increased 1% to $6,870 million in 2017 from $6,796 million in 2016 . Gross premiums increased $38 million (6%) for commercial auto, $37 million (5%) for professional liability, $6 million (less than 1%) for short-tail lines and $6 million (less than 1%) for other liability, partially offset by a decrease of $13 million (1%) for workers' compensation. 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Reinsurance gross premiums decreased 19% to $607 million in 2017 from $748 million in 2016 . Gross premiums written decreased $108 million (35%) for property lines and decreased $33 million (7%) for casualty lines. 
+ Net premiums written were $6,261 million in 2017 , a decrease of 3% from $6,424 million in 2016 . Ceded reinsurance premiums as a percentage of gross written premiums were 16% in 2017 and 15% in 2016 . 
+ Premiums earned increased less than 1% to $6,311 million in 2017 from $6,293 million in 2016 . Insurance premiums (including the impact of rate changes) are generally earned evenly over the policy term, and accordingly recent rate increases will be earned over the upcoming quarters. Premiums earned in 2017 are related to business written during both 2017 and 2016 . Audit premiums were $172 million in 2017 compared with $156 million in 2016 . 
+ Net Investment Income . Following is a summary of net investment income for the years ended December 31, 2017 and 2016 : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Amount 
+ 
+ 
+ 
+ Average Annualized 
+ Yield 
+ 
+ 
+ (In thousands) 
+ 
+ 2017 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ Fixed maturity securities, including cash and cash equivalents and loans receivable 
+ 
+ $ 
+ 
+ 473,101 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 444,247 
+ 
+ 
+ 
+ 
+ 
+ 3.3 
+ 
+ % 
+ 
+ 
+ 
+ 3.2 
+ 
+ % 
+ 
+ 
+ Investment funds 
+ 
+ 68,169 
+ 
+ 
+ 
+ 
+ 
+ 99,301 
+ 
+ 
+ 
+ 
+ 
+ 5.7 
+ 
+ 
+ 
+ 
+ 
+ 8.1 
+ 
+ 
+ 
+ 
+ Real estate 
+ 
+ 19,975 
+ 
+ 
+ 
+ 
+ 
+ 7,054 
+ 
+ 
+ 
+ 
+ 
+ 1.5 
+ 
+ 
+ 
+ 
+ 
+ 0.7 
+ 
+ 
+ 
+ 
+ Arbitrage trading account 
+ 
+ 19,145 
+ 
+ 
+ 
+ 
+ 
+ 18,693 
+ 
+ 
+ 
+ 
+ 
+ 3.6 
+ 
+ 
+ 
+ 
+ 
+ 4.8 
+ 
+ 
+ 
+ 
+ Equity securities available for sale 
+ 
+ 2,350 
+ 
+ 
+ 
+ 
+ 
+ 4,028 
+ 
+ 
+ 
+ 
+ 
+ 1.1 
+ 
+ 
+ 
+ 
+ 
+ 2.1 
+ 
+ 
+ 
+ 
+ Gross investment income 
+ 
+ 582,740 
+ 
+ 
+ 
+ 
+ 
+ 573,323 
+ 
+ 
+ 
+ 
+ 
+ 3.3 
+ 
+ 
+ 
+ 
+ 
+ 3.4 
+ 
+ 
+ 
+ 
+ Investment expenses 
+ 
+ (6,952 
+ 
+ ) 
+ 
+ 
+ 
+ (9,160 
+ 
+ ) 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ $ 
+ 
+ 575,788 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 564,163 
+ 
+ 
+ 
+ 
+ 
+ 3.3 
+ 
+ % 
+ 
+ 
+ 
+ 3.4 
+ 
+ % 
+ Net investment income increased 2% to $576 million in 2017 from $564 million in 2016 primarily due to an increase in income from fixed maturity securities of $29 million, as well as real estate of $13 million and a decrease in investment expenses of $2 million, partially offset by a decrease in investment funds of $31 million. Investment funds are reported on a one quarter lag. The average annualized yield for fixed maturity securities was 3.3% in 2017 and 3.2% in 2016 ; accordingly the increase in fixed maturity securities income was mainly the result of a larger investment portfolio. The effective duration of the fixed maturity portfolio was 3.0 years at December 31, 2017 , down from 3.1 years at December 31, 2016 . Average invested assets, at cost (including cash and cash equivalents), were $17.5 billion in 2017 and $16.7 billion in 2016 . 
+ Insurance Service Fees . The Company earns fees from an insurance distribution business, a third-party administrator, and as a servicing carrier of workers' compensation assigned risk plans for certain states. Insurance service fees were $135 million in 2017 and $139 million in 2016 . 
+ Net Realized Gains on Investment Sales . The Company buys and sells securities and other investment assets on a regular basis in order to maximize its total return on investments. Decisions to sell securities and other investment assets are based on management’s view of the underlying fundamentals of specific investments as well as management’s expectations regarding interest rates, credit spreads, currency values and general economic conditions. Net realized gains on investment sales were $336 million in 2017 compared with $285 million in 2016 . In 2017, realized gains were primarily related to the sale of an investment in an office building located in Washington, D.C. and the sale of some shares of a publicly traded common stock. In 2016, realized gains were primarily related to the sale of Aero Precision Industries and the sale of some shares of a publicly traded common stock. 
+ 
+ 
+ 41 
+ 
+ 
+ 
+ Other-Than-Temporary Impairments. The cost of securities is adjusted where appropriate to include a provision for a decline in value that is considered to be other-than-temporary. There were no other-than-temporary impairments in 2017 as compared to $18 million in 2016 primarily related to common stocks. 
+ Revenues from Non-Insurance Businesses . Revenues from non-insurance businesses were derived from businesses engaged in the distribution of promotional merchandise, world-wide textile solutions, and aviation-related businesses that provide services to aviation markets, including (i) the distribution, manufacturing, repair and overhaul of aircraft parts and components, (ii) the sale of new and used aircraft, and (iii) avionics, fuel, maintenance, storage and charter services. Revenues from non-insurance businesses decreased to $326 million in 2017 from $390 million in 2016 , primarily due to the sale of Aero Precision Industries in August 2016, partially offset by revenues from the textile business purchased in March 2017. 
+ Losses and Loss Expenses . Losses and loss expenses increased to $4,002 million in 2017 from $3,846 million in 2016 . The consolidated loss ratio was 63.4% in 2017 and 61.1% in 2016 . Catastrophe losses, net of reinsurance recoveries and reinstatement premiums, were $184 million in 2017 compared with $105 million in 2016 , an increase of 1.2 loss ratio points. Favorable prior year reserve development (net of premium offsets) was $37 million in 2017 compared with $59 million in 2016 , a difference of 0.3 loss ratio points (see "- Critical Accounting Estimates - Reserves for Losses and Loss Expenses"). The loss ratio excluding catastrophe losses and prior year reserve development increased 0.8 points to 61.1% in 2017 from 60.3% in 2016 . 
+ A summary of loss ratios in 2017 compared with 2016 by business segment follows: 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Insurance - The loss ratio of 61.6% in 2017 was 0.6 points higher than the loss ratio of 61.0% in 2016 . Catastrophe losses were $107 million in 2017 compared with $89 million in 2016 , an increase of 0.4 loss ratio points. Favorable prior year reserve development was $68 million in 2017 compared with $53 million in 2016 , a decrease of 0.3 loss ratio points. The loss ratio excluding catastrophe losses and prior year reserve development increased 0.5 points to 60.9% in 2017 from 60.4% in 2016 . 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Reinsurance - The loss ratio of 80.2% in 2017 was 18.6 points higher than the loss ratio of 61.6% in 2016 . Catastrophe losses were $77 million in 2017 compared with $16 million in 2016 , an increase of 10.3 loss ratio points. Adverse prior year reserve development was $31 million in 2017 compared with favorable prior year reserve development of $6 million in 2016 , a difference of 6.0 loss ratio points. Adverse prior year development in 2017 was largely due to the impact of the change in Ogden discount rate in the U.K. and adverse development related to the U.S. facultative excess of loss business. The loss ratio excluding catastrophe losses and prior year reserve development increased 2.3 points to 62.3% in 2017 from 60.0% in 2016 . 
+ Other Operating Costs and Expenses . Following is a summary of other operating costs and expenses: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (In thousands) 
+ 
+ 2017 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ Policy acquisition and insurance operating expenses 
+ 
+ $ 
+ 
+ 2,101,024 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 2,089,203 
+ 
+ 
+ 
+ 
+ Insurance service expenses 
+ 
+ 129,776 
+ 
+ 
+ 
+ 
+ 
+ 138,908 
+ 
+ 
+ 
+ 
+ Net foreign currency losses (gains) 
+ 
+ 15,267 
+ 
+ 
+ 
+ 
+ 
+ (11,904 
+ 
+ ) 
+ 
+ 
+ Other costs and expenses 
+ 
+ 190,865 
+ 
+ 
+ 
+ 
+ 
+ 179,412 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ $ 
+ 
+ 2,436,932 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 2,395,619 
+ 
+ 
+ Policy acquisition and insurance operating expenses are comprised of commissions paid to agents and brokers, premium taxes and other assessments and internal underwriting costs. Policy acquisition and insurance operating expenses increased less than 1% compared with the increase in net premiums earned of less than 1%. The expense ratio (policy acquisition and insurance operating expenses expressed as a percentage of premiums earned) was 33.3% in 2017 and 33.2% in 2016 . 
+ Insurance service expenses, which represent the costs associated with the fee-based businesses, decreased 7% to $130 million from $139 million in 2016. 
+ Net foreign currency (gains) losses result from transactions denominated in a currency other than an operating unit’s functional currency. Net foreign currency losses were $15 million in 2017 compared to gains of $12 million in 2016 . 
+ Other costs and expenses represent general and administrative expenses of the parent company and other expenses not allocated to business segments, including the cost of certain long-term incentive plans and new business ventures. Other costs and expenses increased to $191 million in 2017 from $179 million in 2016 primarily because of startup costs for new business ventures. 
+ 
+ 
+ 42 
+ 
+ 
+ 
+ Expenses from Non-Insurance Businesses . Expenses from non-insurance businesses represent costs associated with businesses engaged in the distribution of promotional merchandise, world-wide textile solutions, and aviation-related businesses that include (i) cost of goods sold related to aircraft and products sold and services provided, and (ii) general and administrative expenses. Expenses from non-insurance businesses were $325 million in 2017 compared to $375 million in 2016 . The decline mainly relates to the sale of Aero Precision Industries in August 2016, partially offset by expenses from the textile business purchased in March 2017. 
+ Interest Expense . Interest expense was $147 million in 2017 compared with $141 million in 2016 . During 2016, the Company repaid $83 million of debt mainly in connection with the sale of Aero Precision Industries. In February 2016, the company issued $110 million of 5.9% subordinated debentures maturing in 2056, and in May 2016, the Company issued $290 million of 5.75% subordinated debentures maturing in 2056. During 2017, one of the Company's non-insurance subsidiaries issued $7 million of debt. 
+ Income Taxes . The effective income tax rate was 28% in 2017 compared to 33% in 2016 . The lower tax rate in 2017 was due, in part, to tax reform (the Tax Cuts and Jobs Act of 2017) as well as the new requirement under U.S. GAAP in 2017 to recognize tax benefits for stock compensation in income tax expense. The effective income tax rate differs from the federal income tax rate of 35% primarily because of tax-exempt investment income and previously mentioned additional 2017 tax impacts. 
+ 
+ 
+ 
+ 43 
+ 
+ 
+ 
+ Results of Operations for the Years Ended December 31, 2016 and 2015 
+ Business Segment Results 
+ Following is a summary of gross and net premiums written, net premiums earned, loss ratios (losses and loss expenses incurred expressed as a percentage of net premiums earned), expense ratios (underwriting expenses expressed as a percentage of net premiums earned) and GAAP combined ratios (sum of loss ratio and expense ratio) for each of our business segments for the years ended December 31, 2016 and 2015. The GAAP combined ratio represents a measure of underwriting profitability, excluding investment income. A GAAP combined ratio in excess of 100 indicates an underwriting loss; a number below 100 indicates an underwriting profit. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (In thousands) 
+ 
+ 2016 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ Insurance 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Gross premiums written 
+ 
+ $ 
+ 
+ 6,795,506 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 6,565,148 
+ 
+ 
+ 
+ 
+ Net premiums written 
+ 
+ 5,743,620 
+ 
+ 
+ 
+ 
+ 
+ 5,555,437 
+ 
+ 
+ 
+ 
+ Net premiums earned 
+ 
+ 5,618,842 
+ 
+ 
+ 
+ 
+ 
+ 5,393,166 
+ 
+ 
+ 
+ 
+ Loss ratio 
+ 
+ 61.0 
+ 
+ % 
+ 
+ 
+ 
+ 60.8 
+ 
+ % 
+ 
+ 
+ Expense ratio 
+ 
+ 32.5 
+ 
+ 
+ 
+ 
+ 
+ 32.6 
+ 
+ 
+ 
+ 
+ GAAP combined ratio 
+ 
+ 93.5 
+ 
+ 
+ 
+ 
+ 
+ 93.4 
+ 
+ 
+ 
+ 
+ Reinsurance 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Gross premiums written 
+ 
+ $ 
+ 
+ 748,195 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 684,845 
+ 
+ 
+ 
+ 
+ Net premiums written 
+ 
+ 680,293 
+ 
+ 
+ 
+ 
+ 
+ 634,078 
+ 
+ 
+ 
+ 
+ Net premiums earned 
+ 
+ 674,506 
+ 
+ 
+ 
+ 
+ 
+ 647,443 
+ 
+ 
+ 
+ 
+ Loss ratio 
+ 
+ 61.6 
+ 
+ % 
+ 
+ 
+ 
+ 58.2 
+ 
+ % 
+ 
+ 
+ Expense ratio 
+ 
+ 39.0 
+ 
+ 
+ 
+ 
+ 
+ 38.4 
+ 
+ 
+ 
+ 
+ GAAP combined ratio 
+ 
+ 100.6 
+ 
+ 
+ 
+ 
+ 
+ 96.6 
+ 
+ 
+ 
+ 
+ Consolidated 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Gross premiums written 
+ 
+ $ 
+ 
+ 7,543,701 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 7,249,993 
+ 
+ 
+ 
+ 
+ Net premiums written 
+ 
+ 6,423,913 
+ 
+ 
+ 
+ 
+ 
+ 6,189,515 
+ 
+ 
+ 
+ 
+ Net premiums earned 
+ 
+ 6,293,348 
+ 
+ 
+ 
+ 
+ 
+ 6,040,609 
+ 
+ 
+ 
+ 
+ Loss ratio 
+ 
+ 61.1 
+ 
+ % 
+ 
+ 
+ 
+ 60.5 
+ 
+ % 
+ 
+ 
+ Expense ratio 
+ 
+ 33.2 
+ 
+ 
+ 
+ 
+ 
+ 33.2 
+ 
+ 
+ 
+ 
+ GAAP combined ratio 
+ 
+ 94.3 
+ 
+ 
+ 
+ 
+ 
+ 93.7 
+ 
+ 
+ 
+ Net Income to Common Stockholders . The following table presents the Company’s net income to common stockholders and net income per diluted share for the years ended December 31, 2016 and 2015. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (In thousands, except per share data) 
+ 
+ 2016 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ Net income to common stockholders 
+ 
+ $ 
+ 
+ 601,916 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 503,694 
+ 
+ 
+ 
+ 
+ Weighted average diluted shares 
+ 
+ 128,553 
+ 
+ 
+ 
+ 
+ 
+ 130,189 
+ 
+ 
+ 
+ 
+ Net income per diluted share 
+ 
+ $ 
+ 
+ 4.68 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 3.87 
+ 
+ 
+ The Company reported net income of $602 million in 2016 compared to $504 million in 2015. The 20% increase in net income was primarily due to increases in after-tax net investment gains of $114 million, after-tax net investment income of $34 million and after-tax foreign currency gains of $8 million, partially offset by a decrease in after-tax underwriting income of $13 million, an increase in after-tax interest expense of $7 million, a decrease in after-tax income from non-insurance businesses of $6 million, a decrease in after-tax service fee income of $8 million and an an increase in after-tax other expenses of $24 million. The number of weighted average diluted shares decreased as a result of the Company’s repurchases of its common stock in 2016 and 2015. 
+ Premiums . Gross premiums written were $7,544 million in 2016, an increase of 4% from $7,250 million in 2015. The growth was due to a combination of increased exposures and higher rates. Approximately 77% of policies expiring in 2016 were renewed, the same renewal retention rate as for policies expiring in 2015. 
+ Average renewal premium rates (adjusted for change in exposures) increased 3.4% in 2014, 1.2% in 2015 and 0.3% in 2016. However, overall loss costs are also increasing, and current market price levels for certain lines of business remain below the prices required for the Company to achieve its long-term return objectives. 
+ 
+ 
+ 44 
+ 
+ 
+ 
+ A summary of gross premiums written in 2016 compared with 2015 by line of business within each business segment follows: 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Insurance gross premiums increased 4% to $6,796 million in 2016 from $6,565 million in 2015. Gross premiums increased $198 million (10%) for other liability, $58 million (9%) for professional liability and $32 million (2%) for workers' compensation, partially offset by decreases of $30 million (4%) for commercial auto and $27 million (2%) for short-tail lines. 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Reinsurance gross premiums increased 9% to $748 million in 2016 from $685 million in 2015. Gross premiums written decreased $7 million (2%) for casualty lines and increased $70 million (29%) for property lines. 
+ Net premiums written were $6,424 million in 2016, an increase of 4% from $6,190 million in 2015. Ceded reinsurance premiums as a percentage of gross written premiums were 15% in both 2016 and 2015. 
+ Premiums earned increased 4% to $6,293 million in 2016 from $6,041 million in 2015. Insurance premiums (including the impact of rate changes) are generally earned evenly over the policy term, and accordingly recent rate increases will be earned over the upcoming quarters. Premiums earned in 2016 are related to business written during both 2016 and 2015. Audit premiums were $156 million in 2016 compared with $153 million in 2015. 
+ Net Investment Income . Following is a summary of net investment income for the years ended December 31, 2016 and 2015: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Amount 
+ 
+ 
+ 
+ Average Annualized 
+ Yield 
+ 
+ 
+ (In thousands) 
+ 
+ 2016 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ Fixed maturity securities, including cash and cash equivalents and loans receivable 
+ 
+ $ 
+ 
+ 444,247 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 428,325 
+ 
+ 
+ 
+ 
+ 
+ 3.2 
+ 
+ % 
+ 
+ 
+ 
+ 3.2 
+ 
+ % 
+ 
+ 
+ Investment funds 
+ 
+ 99,301 
+ 
+ 
+ 
+ 
+ 
+ 62,228 
+ 
+ 
+ 
+ 
+ 
+ 8.1 
+ 
+ 
+ 
+ 
+ 
+ 5.2 
+ 
+ 
+ 
+ 
+ Arbitrage trading account 
+ 
+ 7,054 
+ 
+ 
+ 
+ 
+ 
+ 16,891 
+ 
+ 
+ 
+ 
+ 
+ 0.7 
+ 
+ 
+ 
+ 
+ 
+ 3.3 
+ 
+ 
+ 
+ 
+ Real estate 
+ 
+ 18,693 
+ 
+ 
+ 
+ 
+ 
+ 11,294 
+ 
+ 
+ 
+ 
+ 
+ 4.8 
+ 
+ 
+ 
+ 
+ 
+ 1.4 
+ 
+ 
+ 
+ 
+ Equity securities available for sale 
+ 
+ 4,028 
+ 
+ 
+ 
+ 
+ 
+ 4,624 
+ 
+ 
+ 
+ 
+ 
+ 2.1 
+ 
+ 
+ 
+ 
+ 
+ 2.7 
+ 
+ 
+ 
+ 
+ Gross investment income 
+ 
+ 573,323 
+ 
+ 
+ 
+ 
+ 
+ 523,362 
+ 
+ 
+ 
+ 
+ 
+ 3.4 
+ 
+ 
+ 
+ 
+ 
+ 3.3 
+ 
+ 
+ 
+ 
+ Investment expenses 
+ 
+ (9,160 
+ 
+ ) 
+ 
+ 
+ 
+ (10,717 
+ 
+ ) 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ $ 
+ 
+ 564,163 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 512,645 
+ 
+ 
+ 
+ 
+ 
+ 3.4 
+ 
+ % 
+ 
+ 
+ 
+ 3.2 
+ 
+ % 
+ Net investment income increased 10% to $564 million in 2016 from $513 million in 2015 primarily due to an increase in income from investment funds of $37 million and fixed maturity securities of $16 million. Investment funds are reported on a one quarter lag. The average annualized yield for fixed maturity securities was 3.2% in both 2016 and 2015; accordingly the increase in fixed maturity securities income was mainly a result of a larger investment base. The effective duration of the fixed maturity portfolio was 3.1 years at December 31, 2016, down from 3.3 years at December 31, 2015. Average invested assets, at cost (including cash and cash equivalents), were $16.7 billion in 2016 and $16.0 billion in 2015. 
+ Insurance Service Fees . The Company earns fees from an insurance distribution business, a third party administrator, and as a servicing carrier of workers' compensation assigned risk plans for certain states. Insurance service fees were $139 million in 2016 and 2015. 
+ Net Realized Gains on Investment Sales . The Company buys and sells securities on a regular basis in order to maximize its total return on investments. Decisions to sell securities are based on management’s view of the underlying fundamentals of specific securities as well as management’s expectations regarding interest rates, credit spreads, currency values and general economic conditions. Net realized gains on investment sales were $285 million in 2016 compared with $126 million in 2015. In 2016, realized gains were primarily related to the sale of Aero Precision Industries and the sale of some shares of a publicly traded common stock. In 2015, realized gains were primarily related to sale of some shares of a publicly traded common stock held by one of the Company's investment funds. 
+ Other-Than-Temporary Impairments . The cost of securities is adjusted where appropriate to include a provision for a decline in value that is considered to be other-than-temporary. Other-than-temporary impairments of $18 million in 2016 were primarily related to common stock. In 2015, other-than-temporary impairments of $33 million were primarily related to equity securities. 
+ 
+ 
+ 45 
+ 
+ 
+ 
+ Revenues from Non-Insurance Businesses . Revenues from non-insurance businesses were derived from a business engaged in the distribution of promotional merchandise and aviation-related businesses that provide services to aviation markets, including (i) the distribution, manufacturing, repair and overhaul of aircraft parts and components, (ii) the sale of new and used aircraft, and (iii) avionics, fuel, maintenance, storage and charter services. Revenues from non-insurance businesses decreased to $390 million in 2016 from $421 million in 2015, primarily due to the sale of Aero Precision Industries in August 2016. 
+ Losses and Loss Expenses . Losses and loss expenses increased to $3,846 million in 2016 from $3,656 million in 2015. The consolidated loss ratio was 61.1% in 2016 and 60.5% in 2015. Catastrophe losses, net of reinsurance recoveries and reinstatement premiums, were $105 million in 2016 compared with $58 million in 2015, an increase of 0.7 loss ratio points. Favorable prior year reserve development (net of premium offsets) was $59 million in 2016 compared with $63 million in 2015, a difference of 0.2 loss ratio points (see "- Critical Accounting Estimates - Reserves for Losses and Loss Expenses"). The loss ratio excluding catastrophe losses and prior year reserve development decreased 0.3 points to 60.3% in 2016 from 60.6% in 2015. 
+ A summary of loss ratios in 2016 compared with 2015 by business segment follows: 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Insurance - The loss ratio of 61.0% in 2016 was 0.2 points higher than the loss ratio of 60.8% in 2015. Catastrophe losses were $89 million in 2016 compared with $55 million in 2015, an increase of 0.6 loss ratio points. Favorable prior year reserve development was $53 million in 2016 compared with $52 million in 2015, reflecting no difference of loss ratio points. The loss ratio excluding catastrophe losses and prior year reserve development decreased 0.4 points to 60.4% in 2016 from 60.8% in 2015. 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Reinsurance - The loss ratio of 61.6% in 2016 was 3.4 points higher than the loss ratio of 58.2% in 2015. Catastrophe losses were $16 million in 2016 compared with $3 million in 2015, an increase of 2.0 loss ratio points. Favorable prior year reserve development was $6 million in 2016 compared with $11 million in 2015, a difference of 0.9 loss ratio points. The loss ratio excluding catastrophe losses and prior year reserve development increased 0.5 points to 60.2% in 2016 from 59.7% in 2015. 
+ Other Operating Costs and Expenses . Following is a summary of other operating costs and expenses: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (In thousands) 
+ 
+ 2016 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ Policy acquisition and insurance operating expenses 
+ 
+ $ 
+ 
+ 2,089,203 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 2,005,498 
+ 
+ 
+ 
+ 
+ Insurance service expenses 
+ 
+ 138,908 
+ 
+ 
+ 
+ 
+ 
+ 127,365 
+ 
+ 
+ 
+ 
+ Net foreign currency (gains) losses 
+ 
+ (11,904 
+ 
+ ) 
+ 
+ 
+ 
+ 400 
+ 
+ 
+ 
+ 
+ Other costs and expenses 
+ 
+ 179,412 
+ 
+ 
+ 
+ 
+ 
+ 156,487 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ $ 
+ 
+ 2,395,619 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 2,289,750 
+ 
+ 
+ Policy acquisition and insurance operating expenses are comprised of commissions paid to agents and brokers, premium taxes and other assessments and internal underwriting costs. Policy acquisition and insurance operating expenses increased 4%, the same as the increase in net premiums earned of 4%. The expense ratio (policy acquisition and insurance operating expenses expressed as a percentage of premiums earned) was 33.2% in both 2016 and 2015. 
+ Insurance service expenses, which represent the costs associated with the fee-based businesses, increased 9% to $139 million. 
+ Net foreign currency (gains) losses result from transactions denominated in a currency other than an operating unit’s functional currency. Net foreign currency gains were $12 million in 2016 compared to losses of $400 thousand in 2015. 
+ Other costs and expenses represent general and administrative expenses of the parent company and other expenses not allocated to business segments, including the cost of certain long-term incentive plans. Other costs and expenses increased to $179 million in 2016 from $156 million in 2015 due partially to the formation of additional operating units that had not yet commenced operations. 
+ Expenses from Non-Insurance Businesses . Expenses from non-insurance businesses represent costs associated with a business engaged in the distribution of promotional merchandise and aviation-related businesses that include (i) cost of goods sold related to aircraft and products sold and services provided, and (ii) general and administrative expenses. Expenses from non-insurance businesses were $375 million in 2016 compared to $397 million in 2015, with the decrease primarily related to the sale of Aero Precision Industries in August 2016. 
+ Interest Expense . Interest expense was $141 million in 2016 compared with $131 million in 2015. During 2016, the Company repaid $87 million of debt on various issuances, mainly in connection with the sale of Aero Precision Industries. The Company repaid $200 million of 5.6% senior notes at maturity on May 15, 2015. In February 2016, the Company issued $110 million of 5.9% subordinated debentures maturing in 2056, and in May 2016, the Company issued $290 million of 5.75% subordinated debentures maturing in 2056. 
+ Income Taxes . The effective income tax rate was 33% in 2016 compared to 31% in 2015. The higher tax rate in 2016 was due, in part, to higher capital gains and state taxes. The effective income tax rate differs from the federal income tax rate of 35% primarily because of tax-exempt investment income. 
+ 
+ 
+ 46 
+ 
+ 
+ 
+ 
+ Investments 
+ As part of its investment strategy, the Company establishes a level of cash and highly liquid short-term and intermediate-term securities that, combined with expected cash flow, it believes is adequate to meet its payment obligations. Due to the near historically low fixed maturity investment returns, the Company invests in equity securities, merger arbitrage securities, investment funds, private equity, loans and real estate related assets. The Company's investments in investment funds and its other alternative investments have experienced, and the Company expects to continue to experience, greater fluctuations in investment income. 
+ The Company also attempts to maintain an appropriate relationship between the effective duration of the investment portfolio and the approximate duration of its liabilities (i.e., policy claims and debt obligations). The effective duration of the investment portfolio was 3.0 years and 3.1 years at December 31, 2017 and 2016 , respectively. The Company’s investment portfolio and investment-related assets as of December 31, 2017 were as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ($ in thousands) 
+ 
+ Carrying 
+ Value 
+ 
+ 
+ 
+ Percent 
+ of Total 
+ 
+ 
+ Fixed maturity securities: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ U.S. government and government agencies 
+ 
+ $ 
+ 
+ 377,740 
+ 
+ 
+ 
+ 
+ 
+ 2.1 
+ 
+ % 
+ 
+ 
+ State and municipal: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Special revenue 
+ 
+ 2,725,833 
+ 
+ 
+ 
+ 
+ 
+ 14.7 
+ 
+ 
+ 
+ 
+ State general obligation 
+ 
+ 490,890 
+ 
+ 
+ 
+ 
+ 
+ 2.7 
+ 
+ 
+ 
+ 
+ Pre-refunded (1) 
+ 
+ 464,802 
+ 
+ 
+ 
+ 
+ 
+ 2.5 
+ 
+ 
+ 
+ 
+ Local general obligation 
+ 
+ 444,984 
+ 
+ 
+ 
+ 
+ 
+ 2.4 
+ 
+ 
+ 
+ 
+ Corporate backed 
+ 
+ 384,467 
+ 
+ 
+ 
+ 
+ 
+ 2.1 
+ 
+ 
+ 
+ 
+ Total state and municipal 
+ 
+ 4,510,976 
+ 
+ 
+ 
+ 
+ 
+ 24.5 
+ 
+ 
+ 
+ 
+ Mortgage-backed securities: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Agency 
+ 
+ 821,815 
+ 
+ 
+ 
+ 
+ 
+ 4.5 
+ 
+ 
+ 
+ 
+ Commercial 
+ 
+ 260,545 
+ 
+ 
+ 
+ 
+ 
+ 1.4 
+ 
+ 
+ 
+ 
+ Residential-Prime 
+ 
+ 211,363 
+ 
+ 
+ 
+ 
+ 
+ 1.1 
+ 
+ 
+ 
+ 
+ Residential-Alt A 
+ 
+ 19,658 
+ 
+ 
+ 
+ 
+ 
+ 0.1 
+ 
+ 
+ 
+ 
+ Total mortgage-backed securities 
+ 
+ 1,313,381 
+ 
+ 
+ 
+ 
+ 
+ 7.1 
+ 
+ 
+ 
+ 
+ Asset-backed securities 
+ 
+ 2,111,544 
+ 
+ 
+ 
+ 
+ 
+ 11.5 
+ 
+ 
+ 
+ 
+ Corporate: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Industrial 
+ 
+ 2,618,892 
+ 
+ 
+ 
+ 
+ 
+ 14.2 
+ 
+ 
+ 
+ 
+ Financial 
+ 
+ 1,434,767 
+ 
+ 
+ 
+ 
+ 
+ 7.8 
+ 
+ 
+ 
+ 
+ Utilities 
+ 
+ 294,954 
+ 
+ 
+ 
+ 
+ 
+ 1.6 
+ 
+ 
+ 
+ 
+ Other 
+ 
+ 40,499 
+ 
+ 
+ 
+ 
+ 
+ 0.2 
+ 
+ 
+ 
+ 
+ Total corporate 
+ 
+ 4,389,112 
+ 
+ 
+ 
+ 
+ 
+ 23.8 
+ 
+ 
+ 
+ 
+ Foreign government 
+ 
+ 848,497 
+ 
+ 
+ 
+ 
+ 
+ 4.6 
+ 
+ 
+ 
+ 
+ Total fixed maturity securities 
+ 
+ 13,551,250 
+ 
+ 
+ 
+ 
+ 
+ 73.6 
+ 
+ 
+ 
+ 
+ Equity securities available for sale: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Common stocks 
+ 
+ 352,204 
+ 
+ 
+ 
+ 
+ 
+ 1.9 
+ 
+ 
+ 
+ 
+ Preferred stocks 
+ 
+ 224,443 
+ 
+ 
+ 
+ 
+ 
+ 1.2 
+ 
+ 
+ 
+ 
+ Total equity securities available for sale 
+ 
+ 576,647 
+ 
+ 
+ 
+ 
+ 
+ 3.1 
+ 
+ 
+ 
+ 
+ Real estate 
+ 
+ 1,469,601 
+ 
+ 
+ 
+ 
+ 
+ 8.0 
+ 
+ 
+ 
+ 
+ Investment funds 
+ 
+ 1,155,677 
+ 
+ 
+ 
+ 
+ 
+ 6.3 
+ 
+ 
+ 
+ 
+ Cash and cash equivalents 
+ 
+ 950,471 
+ 
+ 
+ 
+ 
+ 
+ 5.2 
+ 
+ 
+ 
+ 
+ Arbitrage trading account 
+ 
+ 617,649 
+ 
+ 
+ 
+ 
+ 
+ 3.4 
+ 
+ 
+ 
+ 
+ Loans receivable 
+ 
+ 79,684 
+ 
+ 
+ 
+ 
+ 
+ 0.4 
+ 
+ 
+ 
+ 
+ Total investments 
+ 
+ $ 
+ 
+ 18,400,979 
+ 
+ 
+ 
+ 
+ 
+ 100.0 
+ 
+ % ______________ 
+ 
+ 
+ 
+ 
+ 
+ (1) 
+ 
+ Pre-refunded securities are securities for which an escrow account has been established to fund the remaining payments of principal and interest through maturity. Such escrow accounts are funded almost exclusively with U.S. Treasury and U.S. government agency securities. 
+ 
+ 
+ 47 
+ 
+ 
+ 
+ Fixed Maturity Securities . The Company’s investment policy with respect to fixed maturity securities is generally to purchase instruments with the expectation of holding them to their maturity. However, management of the available for sale portfolio is considered necessary to maintain an approximate matching of assets and liabilities as well as to adjust the portfolio as a result of changes in financial market conditions and tax considerations. 
+ The Company’s philosophy related to holding or selling fixed maturity securities is based on its objective of maximizing total return. The key factors that management considers in its investment decisions as to whether to hold or sell fixed maturity securities are its view of the underlying fundamentals of specific securities as well as its expectations regarding interest rates, credit spreads and currency values. In a period in which management expects interest rates to rise, the Company may sell longer duration securities in order to mitigate the impact of an interest rate rise on the fair value of the portfolio. Similarly, in a period in which management expects credit spreads to widen, the Company may sell lower quality securities, and in a period in which management expects certain foreign currencies to decline in value, the Company may sell securities denominated in those foreign currencies. The sale of fixed maturity securities in order to achieve the objective of maximizing total return may result in realized gains; however, there is no reason to expect these gains to continue in future periods. 
+ At December 31, 2017 , investments in foreign government fixed maturity securities were as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (In thousands) 
+ 
+ Carrying Value 
+ 
+ 
+ Australia 
+ 
+ $ 
+ 
+ 212,821 
+ 
+ 
+ 
+ 
+ Argentina 
+ 
+ 179,581 
+ 
+ 
+ 
+ 
+ Canada 
+ 
+ 169,222 
+ 
+ 
+ 
+ 
+ United Kingdom 
+ 
+ 85,109 
+ 
+ 
+ 
+ 
+ Brazil 
+ 
+ 60,693 
+ 
+ 
+ 
+ 
+ Germany 
+ 
+ 39,520 
+ 
+ 
+ 
+ 
+ Singapore 
+ 
+ 36,450 
+ 
+ 
+ 
+ 
+ Supranational (1) 
+ 
+ 31,322 
+ 
+ 
+ 
+ 
+ Norway 
+ 
+ 9,589 
+ 
+ 
+ 
+ 
+ Mexico 
+ 
+ 9,107 
+ 
+ 
+ 
+ 
+ Colombia 
+ 
+ 7,690 
+ 
+ 
+ 
+ 
+ Uruguay 
+ 
+ 7,393 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ $ 
+ 
+ 848,497 
+ 
+ 
+ _______________ 
+ 
+ 
+ 
+ 
+ 
+ (1) 
+ 
+ Supranational represents investments in the North American Development Bank, European Investment Bank and International Bank for Reconstruction & Development. 
+ Equity Securities Available for Sale . Equity securities primarily represent investments in common and preferred stocks in companies with potential growth opportunities in different sectors, including healthcare and financial institutions. 
+ Investment Funds . At December 31, 2017 , the carrying value of investment funds was $1,156 million, including investments in real estate funds of $607 million, energy funds of $83 million, and other funds of $466 million. Investment funds are primarily reported on a one-quarter lag. 
+ Real Estate . Real estate is directly owned property held for investment. At December 31, 2017 , real estate properties in operation included a long-term ground lease in Washington D.C., a hotel in Memphis, Tennessee, an office complex in New York City and office buildings in West Palm Beach and Palm Beach, Florida. In addition, there are two properties under development: an office building in London and a mixed-use project in Washington D.C. The Company expects to fund further development costs for these projects with a combination of its own funds and external financing. 
+ Arbitrage Trading Account . The arbitrage trading account is comprised of direct investments in arbitrage securities. Merger arbitrage is the business of investing in the securities of publicly held companies that are the targets in announced tender offers and mergers. 
+ Loans Receivable . Loans receivable, which are carried at amortized cost, had an amortized cost of $80 million and an aggregate fair value of $82 million at December 31, 2017 . The amortized cost of loans receivable is net of a valuation allowance of $3 million as of December 31, 2017 . Loans receivable include real estate loans of $66 million that are secured by commercial real estate located primarily in Georgia and New York. Real estate loans receivable generally earn interest at floating LIBOR-based interest rates and have maturities (inclusive of extension options) through August 2025. Loans receivable include commercial loans of $14 million that are secured by business assets and have fixed interest rates and varying maturities not exceeding 15 years. 
+ 
+ 
+ 48 
+ 
+ 
+ 
+ 
+ Liquidity and Capital Resources 
+ Cash Flow . Cash flow provided from operating activities decreased to $711 million in 2017 from $848 million in 2016 , primarily due to the timing of loss and loss expense payments and payments to taxing authorities. 
+ The Company's insurance subsidiaries' principal sources of cash are premiums, investment income, service fees and proceeds from sales and maturities of portfolio investments. The principal uses of cash are payments for claims, taxes, operating expenses and dividends. The Company expects its insurance subsidiaries to fund the payment of losses with cash received from premiums, investment income and fees. The Company generally targets an average duration for its investment portfolio that is within one year of the average duration of its liabilities so that portions of its investment portfolio mature throughout the claim cycle and are available for the payment of claims if necessary. In the event operating cash flow and proceeds from maturities and prepayments of fixed income securities are not sufficient to fund claim payments and other cash requirements, the remainder of the Company's cash and investments is available to pay claims and other obligations as they become due. The Company's investment portfolio is highly liquid, with approximately 80% invested in cash, cash equivalents and marketable fixed maturity securities as of December 31, 2017. If the sale of fixed maturity securities were to become necessary, a realized gain or loss equal to the difference between the cost and sales price of securities sold would be recognized. 
+ Debt . At December 31, 2017 , the Company had senior notes, subordinated debentures and other debt outstanding with a carrying value of $2,497 million and a face amount of $2,530 million. The maturities of the outstanding debt are $443 million in 2019, $311 million in 2020, $426 million in 2022, $250 million in 2037, $350 million in 2044, $350 million in 2053 and $400 million in 2056. 
+ In February 2016, the Company issued $110 million aggregate principal amount of its 5.9% subordinated debentures due 2056, and in May 2016, the Company issued $290 million aggregate principal amount of its 5.75% subordinated debentures due 2056. During 2016, the Company repaid $83 million of debt on various issuances, mainly in connection with the sale of Aero Precision Industries. During 2017, one of the Company's non-insurance subsidiaries issued $7 million of debt. 
+ Equity . The Company repurchased 731,003, 2,395,892 and 4,502,025 shares of its common stock in 2017 , 2016 and 2015 , respectively. The aggregate cost of the repurchases was $48 million in 2017 , $132 million in 2016 and $224 million in 2015 . At December 31, 2017 , total common stockholders’ equity was $5.41 billion, common shares outstanding were 121,514,852 and stockholders’ equity per outstanding share was $44.53. 
+ Total Capital . Total capitalization (equity, senior notes and other debt and subordinated debentures) was $7.9 billion at December 31, 2017 . The percentage of the Company’s capital attributable to senior notes, subordinated debentures and other debt was 32% at December 31, 2017 and 33% at December 31, 2016 . 
+ 
+ Federal and Foreign Income Taxes 
+ The Company files a consolidated income tax return in the U.S. and foreign tax returns in each of the countries in which it has overseas operations. At December 31, 2017 , the Company had a gross deferred tax asset (net of valuation allowance) of $314 million (which primarily relates to loss and loss expense reserves and unearned premium reserves) and a gross deferred tax liability of $401 million (which primarily relates to deferred policy acquisition costs and unrealized investment gains). The realization of the deferred tax asset is dependent upon the Company's ability to generate sufficient taxable income in future periods. Based on historical results and the prospects for future operations, management anticipates that it is more likely than not that future taxable income will be sufficient for the realization of this asset. 
+ As result of the mandatory repatriation provision of the Tax Cuts and Jobs Act of 2017, the Company recognized a tax on the undistributed earnings of its foreign subsidiaries. The Company plans to continue its policy to permanently reinvest the undistributed earnings of its foreign subsidiaries. 
+ 
+ 
+ 49 
+ 
+ 
+ 
+ Reinsurance 
+ The Company follows customary industry practice of reinsuring a portion of its exposures in exchange for paying reinsurers a part of the premiums received on the policies it writes. Reinsurance is purchased by the Company principally to reduce its net liability on individual risks and to protect it against catastrophic losses. Although reinsurance does not legally discharge an insurer from its primary liability for the full amount of the policies, it does make the assuming reinsurer liable to the insurer to the extent of the reinsurance coverage. The Company monitors the financial condition of its reinsurers and attempts to place its coverages only with financially sound carriers. Reinsurance coverage and retentions vary depending on the line of business, location of the risk and nature of loss. The Company’s reinsurance purchases include the following: 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Property reinsurance treaties - The Company purchases property reinsurance to reduce its exposure to large individual property losses and catastrophe events. Following is a summary of significant property reinsurance treaties in effect as of January 1, 2018: The Company’s property per risk reinsurance generally covers losses between $2.5 million and $50 million. The Company’s catastrophe excess of loss reinsurance program provides protection for net losses between $30 million and $355 million for the majority of business written by its U.S. Insurance segment operating units, excluding offshore energy. The Company has separate catastrophe excess of loss reinsurance for business written through its Lloyd’s Syndicate that provides protection for losses between $8.5 million and $52.5 million for events in North America. For North American losses greater than $52.5 million, the business written through the Company's Lloyd's Syndicate is protected within the U.S. program up to $355 million. The Company’s catastrophe reinsurance agreements are subject to certain limits, exclusions and reinstatement premiums. 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Casualty reinsurance treaties - The Company purchases casualty reinsurance to reduce its exposure to large individual casualty losses, workers’ compensation catastrophe losses and casualty losses involving multiple claimants or insureds for the majority of business written by its U.S. companies. A significant casualty treaty (casualty catastrophe) in effect as of January 1, 2018 provides protection for losses between $5 million and $75 million from single events with claims involving two or more insurable interests or for systemic events involving multiple insureds and/or policy years. The treaty also covers casualty contingency losses in excess of $1 million and up to $111 million. For losses involving two or more claimants for primary workers’ compensation business, coverage is generally in place for losses between $5 million and $220 million. For excess workers’ compensation business, such coverage is generally in place for losses between $25 million and $275 million. 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Facultative reinsurance - The Company also purchases facultative reinsurance on certain individual policies or risks that are in excess of treaty reinsurance capacity. 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Other reinsurance - Depending on the operating unit, the Company purchases specific additional reinsurance to supplement the above programs. 
+ The Company places a number of its casualty treaties on a “risk attaching” basis. Under risk attaching treaties, all claims from policies incepting during the period of the reinsurance contract are covered even if they occur after the expiration date of the reinsurance contract. If the Company is unable to renew or replace its existing reinsurance coverage, protection for unexpired policies would remain in place until their expiration. In such case, the Company could revise its underwriting strategy for new business to reflect the absence of reinsurance protection. The casualty catastrophe treaty highlighted above was purchased on a claims made basis. Property catastrophe and workers’ compensation catastrophe reinsurance is generally placed on a “losses occurring basis,” whereby only claims occurring during the period are covered. If the Company is unable to renew or replace these reinsurance coverages, unexpired policies would not be protected, though we frequently have the option to purchase run-off coverage in our treaties. 
+ Following is a summary of earned premiums and loss and loss expenses ceded to reinsurers for each of the three years ended December 31, 2017: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ 
+ (In thousands) 
+ 
+ 2017 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ Earned premiums 
+ 
+ $ 
+ 
+ 1,161,936 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,099,462 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,050,840 
+ 
+ 
+ 
+ 
+ Losses and loss expenses 
+ 
+ 601,769 
+ 
+ 
+ 
+ 
+ 
+ 707,336 
+ 
+ 
+ 
+ 
+ 
+ 501,999 
+ 
+ 
+ Ceded earned premiums increased 5.7% in 2017 to $1,162 million. The ceded losses and loss expenses ratio decreased 12 points to 52% in 2017 from 64% in 2016 . 
+ 
+ 
+ 50 
+ 
+ 
+ 
+ The following table presents the credit quality of amounts due from reinsurers as of December 31, 2017 . Amounts due from reinsurers are net of reserves for uncollectible reinsurance of $1 million in the aggregate. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (In thousands) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reinsurer 
+ 
+ 
+ 
+ Rating 
+ 
+ (1) 
+ 
+ 
+ 
+ Amount 
+ 
+ 
+ Amounts due in excess of $20 million: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Munich Re 
+ 
+ 
+ 
+ AA- 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 156,368 
+ 
+ 
+ 
+ 
+ Lloyd’s of London 
+ 
+ 
+ 
+ A+ 
+ 
+ 
+ 
+ 
+ 
+ 152,934 
+ 
+ 
+ 
+ 
+ Alleghany Group 
+ 
+ 
+ 
+ A+ 
+ 
+ 
+ 
+ 
+ 
+ 152,468 
+ 
+ 
+ 
+ 
+ Swiss Re 
+ 
+ 
+ 
+ AA- 
+ 
+ 
+ 
+ 
+ 
+ 129,369 
+ 
+ 
+ 
+ 
+ Partner Re 
+ 
+ 
+ 
+ A+ 
+ 
+ 
+ 
+ 
+ 
+ 87,491 
+ 
+ 
+ 
+ 
+ Axis Capital 
+ 
+ 
+ 
+ A+ 
+ 
+ 
+ 
+ 
+ 
+ 82,803 
+ 
+ 
+ 
+ 
+ Hannover Re Group 
+ 
+ 
+ 
+ AA- 
+ 
+ 
+ 
+ 
+ 
+ 64,011 
+ 
+ 
+ 
+ 
+ Berkshire Hathaway 
+ 
+ 
+ 
+ AA+ 
+ 
+ 
+ 
+ 
+ 
+ 56,892 
+ 
+ 
+ 
+ 
+ Everest Re 
+ 
+ 
+ 
+ A+ 
+ 
+ 
+ 
+ 
+ 
+ 50,387 
+ 
+ 
+ 
+ 
+ Korean Re 
+ 
+ 
+ 
+ A 
+ 
+ 
+ 
+ 
+ 
+ 44,072 
+ 
+ 
+ 
+ 
+ Chubb Limited 
+ 
+ 
+ 
+ AA 
+ 
+ 
+ 
+ 
+ 
+ 30,977 
+ 
+ 
+ 
+ 
+ Renaissance Re 
+ 
+ 
+ 
+ AA- 
+ 
+ 
+ 
+ 
+ 
+ 27,095 
+ 
+ 
+ 
+ 
+ Liberty Mutual 
+ 
+ 
+ 
+ A 
+ 
+ 
+ 
+ 
+ 
+ 22,629 
+ 
+ 
+ 
+ 
+ Arch Capital Group 
+ 
+ 
+ 
+ A+ 
+ 
+ 
+ 
+ 
+ 
+ 21,310 
+ 
+ 
+ 
+ 
+ Other reinsurers: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Rated A- or better 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 147,193 
+ 
+ 
+ 
+ 
+ Secured (2) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 124,240 
+ 
+ 
+ 
+ 
+ All Others 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 21,701 
+ 
+ 
+ 
+ 
+ Subtotal 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,371,940 
+ 
+ 
+ 
+ 
+ Residual markets pools (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 411,260 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,783,200 
+ 
+ _________________ 
+ 
+ 
+ 
+ 
+ 
+ (1) 
+ 
+ S&P rating, or if not rated by S&P, A.M. Best rating. 
+ 
+ 
+ 
+ 
+ 
+ (2) 
+ 
+ Secured by letters of credit or other forms of collateral. 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ Many states require licensed insurers that provide workers' compensation insurance to participate in programs that provide workers' compensation to employers that cannot procure coverage from an insurer on a voluntary basis. Insurers can fulfill this residual market obligation by participating in pools where results are shared by the participating companies. The Company acts as a servicing carrier for workers' compensation pools in certain states. As a servicing carrier, the Company writes residual market business directly and then cedes 100% of this business to the respective pool. As a servicing carrier, the Company receives fee income for its services. The Company does not retain underwriting risk, and credit risk is limited as ceded balances are jointly shared by all the pool members. 
+ 
+ 
+ 
+ 51 
+ 
+ 
+ 
+ Contractual Obligations 
+ Following is a summary of the Company's contractual obligations as of December 31, 2017 : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (In thousands) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Estimated Payments By Periods 
+ 
+ 2018 
+ 
+ 
+ 
+ 2019 
+ 
+ 
+ 
+ 2020 
+ 
+ 
+ 
+ 2021 
+ 
+ 
+ 
+ 2022 
+ 
+ 
+ 
+ Thereafter 
+ 
+ 
+ Gross reserves for losses 
+ 
+ $ 
+ 
+ 3,055,152 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 2,090,745 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,541,430 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,120,935 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 820,851 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 3,654,114 
+ 
+ 
+ 
+ 
+ Operating lease obligations 
+ 
+ 50,116 
+ 
+ 
+ 
+ 
+ 
+ 41,326 
+ 
+ 
+ 
+ 
+ 
+ 38,721 
+ 
+ 
+ 
+ 
+ 
+ 34,982 
+ 
+ 
+ 
+ 
+ 
+ 29,720 
+ 
+ 
+ 
+ 
+ 
+ 92,086 
+ 
+ 
+ 
+ 
+ Purchase obligations 
+ 
+ 122,402 
+ 
+ 
+ 
+ 
+ 
+ 53,111 
+ 
+ 
+ 
+ 
+ 
+ 43,876 
+ 
+ 
+ 
+ 
+ 
+ 38,577 
+ 
+ 
+ 
+ 
+ 
+ 38,115 
+ 
+ 
+ 
+ 
+ 
+ 17,475 
+ 
+ 
+ 
+ 
+ Subordinated debentures 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 750,000 
+ 
+ 
+ 
+ 
+ Debt maturities 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 442,651 
+ 
+ 
+ 
+ 
+ 
+ 311,000 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 426,533 
+ 
+ 
+ 
+ 
+ 
+ 599,487 
+ 
+ 
+ 
+ 
+ Interest payments 
+ 
+ 144,846 
+ 
+ 
+ 
+ 
+ 
+ 144,846 
+ 
+ 
+ 
+ 
+ 
+ 114,071 
+ 
+ 
+ 
+ 
+ 
+ 97,946 
+ 
+ 
+ 
+ 
+ 
+ 94,618 
+ 
+ 
+ 
+ 
+ 
+ 1,967,186 
+ 
+ 
+ 
+ 
+ Other long-term liabilities 
+ 
+ 3,402 
+ 
+ 
+ 
+ 
+ 
+ 3,095 
+ 
+ 
+ 
+ 
+ 
+ 2,847 
+ 
+ 
+ 
+ 
+ 
+ 2,548 
+ 
+ 
+ 
+ 
+ 
+ 2,244 
+ 
+ 
+ 
+ 
+ 
+ 29,387 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ $ 
+ 
+ 3,375,918 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 2,775,774 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 2,051,945 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,294,988 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,412,081 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 7,109,735 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The estimated payments for reserves for losses and loss expenses in the above table represent the projected (undiscounted) payments for gross loss and loss expense reserves related to losses incurred as of December 31, 2017 . The estimated payments in the above table do not consider payments for losses to be incurred in future periods. These amounts include reserves for reported losses and reserves for incurred but not reported losses. Estimated amounts recoverable from reinsurers are not reflected. The estimated payments by year are based on historical loss payment patterns.The actual payments may differ from the estimated amounts due to changes in ultimate loss reserves and in the timing of the settlement of those reserves. In addition, at December 31, 2017 , the Company had commitments to invest up to $406.2 million and $359.7 million in certain investment funds and real estate construction projects, respectively. These amounts are not included in the above table. 
+ 
+ The Company utilizes letters of credit to back certain reinsurance payments and obligations. Outstanding letters of credit were $4 million as of December 31, 2017 . The Company has made certain guarantees to state regulators that the statutory capital of certain subsidiaries will be maintained above certain minimum levels. 
+ 
+ Off-Balance Sheet Arrangements 
+ An off-balance sheet arrangement is any transaction, agreement or other contractual arrangement involving an unconsolidated entity under which a company has (1) made guarantees, (2) a retained or contingent interest in transferred assets, (3) an obligation under derivative instruments classified as equity or (4) any obligation arising out of a material variable interest in an unconsolidated entity that provides financing, liquidity, market risk or credit risk support to the Company, or that engages in leasing, hedging or research and development arrangements with the Company. The Company has no arrangements of these types that management believes may have a material current or future effect on our financial condition, liquidity or results of operations. 
+ 
+ 
+ 52 
+ 
+ 
+ 
+ 
+ 

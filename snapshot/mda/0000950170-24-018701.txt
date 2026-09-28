@@ -1,0 +1,3659 @@
+ ITEM 7: Management’s Discussion and Analysis of Financial Condition and Results of Operations 
+ 
+ Overview 
+ 
+ We are a leading global supplier of automated test equipment and robotics products. We design, develop, manufacture and sell automated test systems and robotics products. Our automated test systems are used to test semiconductors, wireless products, data storage and complex electronics systems in many industries including consumer electronics, wireless, automotive, industrial, computing, communications, and aerospace and defense industries. Our Robotics products include collaborative robotic arms and autonomous mobile robots (“AMRs”) used by global manufacturing, logistics and industrial customers to improve quality, increase manufacturing and material handling efficiency and decrease manufacturing and logistics costs. Our automated test equipment and robotics products and services include: 
+ 
+ • 
+ semiconductor test (“Semiconductor Test”) systems; 
+ 
+ • 
+ storage and system level test (“Storage Test”) systems, defense/aerospace (“Defense/Aerospace”) test instrumentation and systems and circuit-board test and inspection (“Production Board Test”) systems (collectively these products represent “System Test”); 
+ 
+ • 
+ wireless test (“Wireless Test”) systems; and 
+ 
+ • 
+ robotics (“Robotics”) products. 
+ 
+ The market for our test products is concentrated with a limited number of significant customers accounting for a substantial portion of the purchases of test equipment. A few customers drive significant demand for our products both through direct sales and sales to the customer’s supply partners. We expect that sales of our test products will continue to be concentrated with a limited number of significant customers for the foreseeable future. 
+ 
+ In 2023, the demand in our Semiconductor Test business continued to be impacted by a correction cycle driven by excess semiconductor inventory, primarily in the mobility segment of the market. The depth of this slowdown and the timing of the recovery are uncertain, however, strong automotive and image sensor demand partially offset these declines. The growth of DDR5 and High Bandwidth Memory ("HBM") devices for data center applications continued to drive demand for our products in the memory market in 2023. Over the midterm, we expect the ramp of 3 nanometer and gate-all-around process technology, increasing multichip packaging, additional device complexity and unit growth will drive additional demand for Semiconductor Test. 
+ 
+ Our Robotics segment consists of Universal Robots A/S (“UR”), a leading supplier of collaborative robotic arms, and Mobile Industrial Robots A/S (“MiR”), a leading maker of AMRs for industrial automation. The market for our Robotics segment products is dependent on the adoption of new automation technologies by large manufacturers as well as small and medium enterprises (“SMEs”) throughout the world. Demand in the fourth quarter of 2023 increased, tied to introduction of new products and seasonally high demand in Robotics after market softness and the impact of our channel transformation resulted in a weaker than forecasted first half of 2023. 
+ 
+ On November 7, 2023, Teradyne and Technoprobe S.p.A, (“Technoprobe”), a leader in the design and production of probe cards, announced establishment of a strategic partnership that will seek to accelerate growth for both companies and enable higher performance semiconductor test interfaces for customers worldwide. As part of the partnership, Teradyne will make an investment of 481.0 million Euros in exchange for a 10% equity investment in Technoprobe and Technoprobe will acquire 100% of Teradyne’s Device Interface Solutions ("DIS") business in exchange for $85.0 million. The transaction is expected to close during the first half of 2024. 
+ 
+ In 2023, inflation had minimal effect on our results. While both our test and robotics businesses may continue to be influenced by supply constraints, which could impact our revenue and costs, We do not anticipate that supply chain constraints will have a material impact on our financial results in 2024. 
+ 
+ Our financial statements are denominated in U.S. dollars. While the majority of our revenues are in U.S. dollars, approximately 70 percent of our Robotics revenue is denominated in foreign currencies. There was no material impact to our 2023 results due to changes in foreign exchange rates, however, in 2022, the strengthening of the U.S. dollar was a factor in lower than forecasted revenues in our Robotics segment. Continued strengthening of the U.S. dollar would adversely affect Robotics revenue growth in 2024. 
+ 
+ Our corporate strategy continues to focus on profitably gaining market share in our test businesses through the introduction of differentiated products that target expanding segments and accelerating growth through continued investment in our Robotics businesses. We plan to continue investing in our growth while balancing capital allocations between stock repurchases and dividends and using capital for acquisitions. 
+ 
+ 
+ 25 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ Supply Chain Constraints and Inflationary Pressures 
+ 
+ The global supply shortage of electrical components, including semiconductor chips, impacted our supply chain in the first half of 2023. In the second half of 2023, we saw improvements related to supply constraints and, consequently, did not experience material increases in our lead times and costs for components. In addition, in the 2023, inflationary pressures contributed to increased costs for product components and wage inflation, which had a minimal impact on our cost of products, gross margin and profit for the year. Our supply chain team, and our suppliers, continue to manage numerous supply, production, and logistics obstacles. In an effort to mitigate these risks, in some cases, we have incurred higher costs due to investment in supply chain resiliency and to secure available inventory or have extended or placed non-cancellable purchase commitments with semiconductor suppliers, which introduces inventory risk if our forecasts and assumptions prove inaccurate. We have also sourced components from additional suppliers and multi-sourced and pre-ordered components and finished goods inventory in some cases in an effort to reduce the impact of the adverse supply chain conditions we have experienced. Though these mitigation efforts have not had a material impact on our financial results, our continuing efforts may not be successful. While our businesses could be impacted by supply constraints in the future, we do not anticipate supply chain constraints will have a material impact on our financial results in 2024. 
+ 
+ Impact of the Israel-Hamas conflict on our Business 
+ 
+ The recent Israel-Hamas conflict could have a negative impact on our future revenue and supply chain, either of which could adversely affect our business and financial results. Our customers in Israel may experience delays in product releases due to impacts to their labor force and impacts on their suppliers because of the conflict, which could materially impact demand for our products. Similarly, our suppliers in Israel may experience delays in providing us with parts due to the conflict. In addition, the global economic uncertainty following the start of the conflict could impact demand for our products. 
+ 
+ Impact of October 7, 2022 and October 17, 2023 U.S. Department of Commerce Regulations on our Business 
+ 
+ On October 7, 2022, the U.S. Department of Commerce published new regulations restricting the export to China of advanced semiconductors, supercomputer technology, equipment for the manufacturing of advanced semiconductors and components and technology for the manufacturing in China of certain semiconductor manufacturing equipment. As previously disclosed, the restrictions impacted Teradyne’s sales to certain companies in China and Teradyne’s manufacturing and development operations in China. Teradyne mitigated the impact of these restrictions on its business by obtaining licenses from the Department of Commerce. On October 17, 2023, the Department of Commerce released new rules updating the exporting controls issued on October 7, 2022. The new rules which took effect on November 17, 2023 significantly limit the impact of the October 7, 2022 restrictions on Teradyne’s business. However, the regulations may continue to have an adverse impact on certain actual or potential customers of Teradyne and on the global semiconductor industry. To the extent the regulations impact actual and potential customers or disrupt the global semiconductor industry, Teradyne’s business and revenues will be adversely impacted. 
+ 
+ See Part II—ITEM 1A, “Risk Factors,” included herein for updates to our risk factors regarding risks associated with supply chain issues, international conflicts, and legal and regulatory compliance. 
+ 
+ Critical Accounting Policies and Estimates 
+ 
+ We have identified the policies and estimates discussed below as critical to understanding our business and our results of operations and financial condition. The impact and any associated risks related to these estimates on our business operations is discussed throughout Management’s Discussion and Analysis of Financial Condition and Results of Operations where such policies affect our reported and expected financial results. For a full description of our accounting policies related to the below items refer to Note B. Accounting Policies, included in the Notes to Consolidated Financial Statements in this Annual Report. 
+ 
+ Critical accounting estimates are complex and may require significant judgment by management. Changes to the underlying assumptions may have a material impact on our financial condition and results of operations. These estimates may change, as new events occur, and additional information is obtained. Actual results could differ significantly from these estimates under different assumptions or conditions. 
+ 
+ Revenue Recognition 
+ 
+ In accordance with ASC 606, “ Revenue from Contracts with Customers” (“ASC 606”) , we recognize revenues, when or as control is transferred to a customer. Our determination of revenue requires judgment in the determination of performance obligations and allocation of the transaction price to performance obligations. We often sell bundled orders that include both product and services or multiple different products within the same order. We evaluate each of the deliverables to determine if it meets the definition of a performance obligation, which requires that it is capable of being distinct and distinct within the context of the contract. This 
+ 
+ 
+ 26 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ determination is based on an assessment of contractual rights of the contract and the ability of the performance obligation to perform on its own or with readily available resources. In bundled transactions we estimate the standalone selling price of each identified performance obligation and use that estimate to allocate the transaction price among said performance obligations. The estimated standalone selling price is determined using all information reasonably available to us, including standalone transactions, market information and other observable inputs. 
+ 
+ Inventories 
+ 
+ Inventories are stated at the lower of cost using a standard costing system which approximates cost based on a first-in, first-out basis or net realizable value. On a quarterly basis, we evaluate all inventories for net realizable value. This quarterly process identifies obsolete and excess inventory. Obsolete inventory, which represents items for which there is no demand, is fully reserved. Excess inventory, which represents inventory items that are not expected to be consumed within the forecasted demand window, is written down to estimated net realizable value. Forecasted demand information is obtained from the sales and marketing groups and incorporates factors such as backlog and future revenues. The demand forecast is based on assumptions around the product life and customer and market expectations. 
+ 
+ Retirement and Postretirement Plans 
+ 
+ We recognize net actuarial gains and losses and the change in the fair value of the plan assets in our operating results in the year in which they occur or upon any interim remeasurement of the plans. Discount rate and expected return on assets are two assumptions which are important elements of pension plan expense and asset/liability measurement. We evaluate our discount rate and expected rate of return on assets assumptions annually on a plan and country specific basis. We evaluate other assumptions related to demographic factors, such as retirement age, mortality and turnover periodically, and update them to reflect our experience and expectations for the future. 
+ 
+ In developing the expected return on U.S. Qualified Pension Plan (“U.S. Plan”) assets assumption, we evaluated input from our investment manager and pension consultants, including their forecast of asset class return expectations. We believe that 4.75% was an appropriate rate of return on assets to use for 2023. The December 31, 2023 asset allocation for our U.S. Plan was 94% invested in fixed income securities, 5% invested in equity securities, and 1% invested in other securities. Our investment manager regularly reviews the actual asset allocation and periodically rebalances the portfolio to ensure alignment with our target allocations. 
+ 
+ The discount rate that we utilized for determining future pension obligations for the U.S. Plan is based on the FTSE Pension Index adjusted for the U.S. Plan’s expected cash flows and was 4.75% at December 31, 2023, down from 4.95% at December 31, 2022. We estimate that in 2024 we will recognize approximately $0.2 million of pension expense for the U.S. Plan. The U.S. Plan pension expense estimate for 2024 is based on a 4.75% discount rate and a 4.65% return on assets. Future pension expense or income will depend on future investment performance, changes in future discount rates and various other factors related to the employee population participating in our pension plans. 
+ 
+ Goodwill, Intangible and Long-Lived Assets 
+ 
+ We assess goodwill for impairment at least annually in the fourth quarter, as of December 31, on a reporting unit basis, or more frequently, when events and circumstances occur indicating that the recorded goodwill may be impaired. We review intangible and long-lived assets for impairment whenever events or changes in business circumstances indicate that the carrying amount of the assets may not be fully recoverable or that the useful lives of these assets are no longer appropriate. Goodwill impairment will be the amount by which a reporting unit’s carrying value exceeds its fair value, not to exceed the carrying amount of goodwill. Impairment of intangible and long-lived assets would result in the asset being written down to its estimated fair value. The calculated fair value of a reporting unit or intangible or long-lived asset is dependent upon discounted cash flow (“DCF”) models, discount rates, and market multiples. DCF models rely on our forecasted mid-term plans which are subjective based on customer or market conditions and can change materially. We utilize third party specialists when determining discount rates and selected market multiples. A change in any of these key assumptions could result in a reporting unit, intangible asset, or long-lived asset being impaired in a future period. 
+ 
+ Convertible Debt 
+ 
+ We adopted Accounting Standards Update (“ASU”) ASU 2020-06 – “Debt—Debt with Conversion and Other Options and Derivatives and Hedging—Contracts in Entity’s Own Equity,” on January 1, 2022 using the modified retrospective method of adoption. As a result of adoption, we recorded an increase of $1.4 million to current debt for unsettled shares, an increase of $1.8 million to deferred tax assets, an increase of $6.6 million to long-term debt for unamortized debt discount, and an increase to retained earnings of $94.6 million for the reclassification of the equity component. Mezzanine equity representing unsettled shares value was reduced to zero and additional paid-in capital was reduced by $100.8 million. In accordance with ASU 2020-06, we account for a 
+ 
+ 
+ 27 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ convertible debt instrument as a single liability measured at its amortized cost, as long as no other features require bifurcation and recognition as derivatives. Unsettled shares are recorded in current debt, and there is no recognition of a debt discount, which was previously amortized to interest expense. Settled shares reduce the outstanding debt balance in an amount equal to the cash paid, but do not result in any gain or loss on extinguishment. We use the if-converted method in the diluted EPS calculation for convertible instruments. 
+ 
+ Income Taxes 
+ 
+ Deferred tax assets and liabilities are determined based on differences between financial reporting and tax basis of assets and liabilities and are measured using the enacted tax rates and laws that will be in effect when the differences are expected to reverse. The measurement of deferred tax assets is reduced by a valuation allowance if it is more likely than not that some or all of the deferred tax assets will not be realized. Evaluating the positive and negative evidence regarding the realization of the net deferred tax assets in accordance with ASC 740, “ Accounting for Income Taxes ” is a key judgment in the valuation of income taxes. This assessment included the evaluation of scheduled reversals of deferred tax liabilities, estimates of projected future taxable income and tax-planning strategies. Although realization is not assured, based on our assessment, we concluded that it is more likely than not that such assets, net of the existing valuation allowance, will be realized. 
+ 
+ Results of Operations 
+ 
+ Information pertaining to fiscal year 2021 results of operations, including a year-to-year comparison against fiscal year 2022, was included in our Annual Report on Form 10-K for the year ended December 31, 2022 under Part II, ITEM 7, “Management’s Discussion and Analysis of Financial Position and Results of Operations,” which was filed with the SEC on February 22, 2023. This information is incorporated by reference herein. 
+ 
+ The following table sets forth the percentage of total net revenues included in our consolidated statements of operations: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended December 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Percentage of revenues: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Revenues: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Products 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 78.3 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 82.1 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ Services 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 21.7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 17.9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total revenues 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 100.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 100.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of revenues: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of products 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 33.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 33.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of services 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 9.6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 7.8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total cost of revenues (exclusive of acquired intangible assets amortization shown separately below) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 42.6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 40.8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Gross profit 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 57.4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 59.2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating expenses: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Selling and administrative 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 21.6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 17.7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Engineering and development 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 15.6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 14.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Acquired intangible assets amortization 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Restructuring and other 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total operating expenses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 38.7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 32.8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Income from operations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 18.7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 26.4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Non-operating (income) expenses: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Interest income 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1.0 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (0.2 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ Interest expense 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other (income) expense, net 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (0.2 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ Income before income taxes 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 19.6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 26.6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Income tax provision 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2.9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net income 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 16.8 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 22.7 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 28 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ Revenues 
+ 
+ Revenues for our reportable segments were as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2022-2023 Dollar Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (in millions) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Semiconductor Test 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 1,818.6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 2,080.6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ (262.0 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ Robotics 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 375.2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 403.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (27.9 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ System Test 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 338.2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 469.3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (131.1 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ Wireless Test 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 144.3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 201.7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (57.4 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ Corporate and Eliminations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (0.3 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 2,676.3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 3,155.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ (478.7 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ The decrease in Semiconductor Test revenues of $262.0 million, or 12.6%, was driven primarily by lower tester sales for compute and mobility applications. The decrease in Robotics revenues of $27.9 million, or 6.9%, was driven primarily by softening demand due to slowing global industrial activity and macro-economic headwinds and the impact of the transformation of Universal Robots' sales channel. The decrease in System Test revenues of $131.1 million, or 27.9%, was primarily due to lower sales in Storage Test of system level and hard disk drive testers. The decrease in Wireless Test revenues of $57.4 million, or 28.5%, was primarily due to a decrease in sales of connectivity test products. 
+ 
+ Our reportable segments accounted for the following percentages of consolidated revenues: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Semiconductor Test 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 68 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 66 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ Robotics 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 14 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 13 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ System Test 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 13 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 15 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Wireless Test 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 100 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 100 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ Revenues by country as a percentage of total revenues were as follows (1): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ United States 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 16 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 15 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ Korea 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 15 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 17 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Taiwan 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 14 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 20 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ China 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 16 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Japan 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Europe 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Philippines 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Singapore 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Thailand 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Malaysia 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Rest of the World 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 100 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 100 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ (1) 
+ Revenues attributable to a country are based on the location of the customer site. 
+ 
+ The breakout of product and service revenues was as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2022-2023 Dollar Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (in millions) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Product revenues 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 2,096.3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 2,591.6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ (495.3 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ Service revenues 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 580.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 563.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 16.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 2,676.3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 3,155.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ (478.8 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 29 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ Our product revenues decreased $495.3 million, or 19.1%, primarily due to lower tester sales in Semiconductor Test for compute and mobility applications, a decrease in sales in Storage Test of system level and hard disk drive testers, and a decrease in Wireless Test sales of connectivity test products. Our service revenues increased $16.5 million, or 2.9%, primarily in Semiconductor Test and Storage Test. 
+ 
+ In 2023, revenues from Texas Instruments Inc., a customer of our Semiconductor Test segment, accounted for 10% of our consolidated revenues. In 2021, revenues from Taiwan Semiconductor Manufacturing Company Ltd., a customer of our Semiconductor Test segment, accounted for 12% of our consolidated revenues. In 2023 and 2022, our five largest direct customers in aggregate accounted for 32% and 26% of our consolidated revenues, respectively. We estimate consolidated revenues driven by Qualcomm, a customer of our Semiconductor Test, System Test and Wireless Test segments, combining direct and indirect sales, accounted for approximately 11% of our consolidated revenues in 2022. 
+ 
+ Gross Profit 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2022-2023 Dollar / Point Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (in millions) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Gross profit 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 1,536.7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 1,867.2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ (330.5 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ Percent of total revenues 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 57.4 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 59.2 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1.8 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ Gross profit as a percent of total revenues decreased by 1.8 points, primarily due to a lower volume, higher spending to strengthen our supply chain, and product mix. 
+ 
+ The breakout of product and service gross profit was as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2022-2023 Dollar / Point Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (in millions) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Product gross profit 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 1,213.4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 1,549.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ (335.6 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ Percent of product revenues 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 57.9 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 59.8 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1.9 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ Service gross profit 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 323.4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 318.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 5.3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Percent of service revenues 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 55.7 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 56.5 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (0.8 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ Product revenues gross profit percentage decreased by 1.9 points, primarily due to lower volume, higher spending to strengthen our supply chain, and product mix. 
+ 
+ We assess the carrying value of our inventory on a quarterly basis by estimating future demand and comparing that demand against on-hand and on-order inventory positions. Forecasted revenues information is obtained from the sales and marketing groups and incorporates factors such as backlog and future revenues. This quarterly process identifies obsolete and excess inventory. Obsolete inventory, which represents items for which there is no demand, is fully reserved. Excess inventory, which represents inventory items that are not expected to be consumed within the forecasted demand window, is written down to estimated net realizable value. 
+ 
+ During the year ended December 31, 2023, we recorded an inventory provision of $28.4 million included in cost of revenues, primarily due to downward revisions to previously forecasted demand levels for certain products. Of the $28.4 million of total excess and obsolete provisions, $22.5 million was related to Semiconductor Test, $2.3 million was related to Robotics, $1.9 million was related to System Test, and $1.7 million was related to Wireless Test. 
+ 
+ During the year ended December 31, 2022, we recorded an inventory provision of $31.5 million included in cost of revenues, primarily due to downward revisions to previously forecasted demand levels for certain products. Of the $31.5 million of total excess and obsolete provisions, $21.5 million was related to Semiconductor Test, $4.6 million was related to Wireless Test, $3.7 million was related to Robotics, and $1.7 million was related to System Test. 
+ 
+ 
+ 30 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ During the years ended December 31, 2023 and 2022, we scrapped $26.4 million and $8.8 million of inventory, respectively, and sold $5.2 million and $1.8 million of previously written-down or written-off inventory, respectively. As of December 31, 2023, we had inventory related reserves for amounts which had been written-down or written-off totaling $136.0 million. We have no pre-determined timeline to scrap the remaining inventory. 
+ 
+ Selling and Administrative 
+ 
+ Selling and administrative expenses were as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2022-2023 Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (in millions) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Selling and administrative 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 577.3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 558.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 19.2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Percent of total revenues 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 21.6 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 17.7 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The increase of $19.2 million in selling and administrative expenses was primarily due to the charge of $5.9 million related to the modification of Teradyne’s chief executive officer’s outstanding equity awards in connection with his retirement and higher sales and marketing spending in Robotics and Semiconductor Test. 
+ 
+ Engineering and Development 
+ 
+ Engineering and development expenses were as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2022-2023 Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (in millions) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Engineering and development 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 418.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 440.6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ (22.5 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ Percent of total revenues 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 15.6 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 14.0 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The decrease of $22.5 million in engineering and development expenses was due to lower variable compensation and lower spending in Semiconductor Test, partially offset by higher spending in Robotics. 
+ 
+ Restructuring and Other 
+ 
+ During the year ended December 31, 2023, we recorded $14.7 million of severance charges related to headcount reductions of 215 people primarily in Semiconductor Test and Robotics, which included charges related to a voluntary early retirement program for employees meeting certain conditions, $3.1 million of acquisition and divestiture expenses related to the Technoprobe transaction, a $1.5 million contract termination charge, and a charge of $1.1 million for an increase in environmental liability. 
+ 
+ During the year ended December 31, 2022, we recorded a charge of $14.7 million related to the arbitration claim filed against Teradyne and AutoGuide related to an earn-out dispute which was settled on March 25, 2022 for $26.7 million, $2.9 million of severance charges primarily in Robotics, and a charge of $2.7 million for an increase in environmental and legal liabilities, partially offset by a $3.4 million gain on sale of an asset. 
+ 
+ Interest and Other 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2022-2023 Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (in millions) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Interest income 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ (27.3 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ (6.4 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ (20.9 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ Interest expense 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other (income) expense, net 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1.0 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (5.8 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Interest income increased by $20.9 million due to higher interest rates in 2023. Other (income) expense, net decreased by $4.8 million primarily due to the change in pension actuarial gains/losses, from a $25.6 million gain in 2022 to a $2.7 million loss in 2023, partially offset by the change in unrealized gains/losses on equity securities, from a $9.7 million loss in 2022 to a $7.2 million gain in 2023, and a $7.5 million unrealized gain on our call option purchased in connection with our agreement to acquire a 10% investment in Technoprobe S.p.A. 
+ 
+ 
+ 31 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ Income (Loss) Before Income Taxes 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2022-2023 Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (in millions) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Semiconductor Test 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 453.3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 634.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ (181.2 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ System Test 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 94.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 166.9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (72.8 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ Wireless Test 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 30.6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 66.8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (36.2 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ Robotics 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (54.3 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (16.2 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (38.1 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ Corporate and Eliminations (1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1.9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (11.6 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 13.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 525.6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 840.4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ (314.8 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ (1) 
+ Included in Corporate and Eliminations are interest income, interest expense, net foreign exchange gains (losses), intercompany eliminations, employee severance, pension and postretirement plan actuarial gains (losses), legal and environmental fees, acquisition and divestiture related expenses, contract termination settlement charge, and an expense for the modification of Teradyne's former chief executive officer's outstanding equity awards. 
+ 
+ The decrease in income before income taxes in Semiconductor Test was driven primarily by lower tester sales for compute and mobility applications. The decrease in income before income taxes in System Test was primarily due to lower sales in Storage Test of system level and hard disk drive testers. The decrease in income before income taxes in Wireless Test was driven primarily by a decrease in sales of connectivity test products. The decrease in income before income taxes in Robotics was driven primarily by softening demand due to slowing global industrial activity and macro-economic headwinds and the impact of the transformation of Universal Robots sales channel. The increase in income before income taxes in Corporate and Eliminations was primarily due to legal settlement charges in 2022 related to litigation for the earn-out dispute in connection with the AutoGuide acquisition, changes in unrealized gains/losses on equity securities and higher interest income. 
+ 
+ Income Taxes 
+ 
+ Income tax expense for 2023 and 2022 totaled $76.8 million and $124.9 million, respectively. The effective tax rate for 2023 and 2022 was 14.6% and 14.9%, respectively. 
+ 
+ The decrease in the effective tax rate from 2022 to 2023 is primarily attributable to increases in benefit from tax credits and the U.S. foreign derived intangible income deduction. These decreases in expense were partially offset by a shift in the geographic distribution of income, which increased the income subject to taxation in higher tax rate jurisdictions relative to lower tax rate jurisdictions and a reduction in benefit from equity compensation. 
+ 
+ We qualify for a tax holiday in Singapore by fulfilling the requirements of an agreement with the Singapore Economic Development Board under which certain headcount and spending requirements must be met. The tax savings attributable to the Singapore tax holiday for the years ended December 31, 2023 and 2022 were $1.4 million or $0.01 per diluted share and $16.0 million or $0.09 per diluted share, respectively. In November 2020, we entered into an agreement with the Singapore Economic Development Board which extended our Singapore tax holiday under substantially similar terms to the agreement which expired on December 31, 2020. The new tax holiday is scheduled to expire on December 31, 2025. 
+ 
+ Capital Resources and Material Cash Requirements 
+ 
+ Our cash, cash equivalents and marketable securities balance decreased by $68.0 million in 2023 to $937.2 million. Cash decreased due to stock repurchases in the amount of $397.2 million, quarterly cash dividend payments in the amount of $67.9 million, and payments of convertible debt principal in the amount of $50.3 million, partially offset by cash generated by our global operations. 
+ 
+ Operating activities during 2023 provided cash of $585.2 million. Changes in operating assets and liabilities used cash of $9.6 million. This was due to a $33.2 million decrease in operating assets and a $42.8 million decrease in operating liabilities. 
+ 
+ The decrease in operating assets was due to a $71.0 million decrease in accounts receivable due to lower sales and a $5.3 million decrease in inventories, partially offset by a $43.1 million increase in prepayments and other assets due to prepayments to our contract manufacturers. 
+ 
+ 
+ 32 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ The decrease in operating liabilities was due to a $57.2 million decrease in deferred revenue and customer advance payments, a $26.9 million decrease in income taxes, a $21.2 million decrease in accrued employee compensation, and $5.5 million of retirement plan contributions, partially offset by a $45.0 million increase in accounts payable, and a $23.0 million increase in other accrued liabilities. 
+ 
+ Investing activities during 2023 used cash of $179.6 million, due to $161.9 million used for purchases of marketable securities, $159.6 million used for purchases of property, plant and equipment, and $5.0 million used for issuance of convertible loan, partially offset by $85.0 million and $61.4 million in proceeds from maturities and sales of marketable securities, respectively, and $0.5 million in proceeds from the cancellation of Teradyne owned life insurance policies related to the cash surrender value. 
+ 
+ Financing activities during 2023 used cash of $501.9 million, due to $397.2 million used for the repurchase of 3.9 million shares of common stock at an average price of $102.47 per share, $67.9 million used for dividend payments, $50.3 million used for the payments of convertible debt principal, and $20.8 million used for payments related to net settlement of employee stock compensation awards, partially offset by $34.3 million from the issuance of common stock under employee stock purchase and stock option plans. 
+ 
+ Operating activities during 2022 provided cash of $577.9 million. Changes in operating assets and liabilities used cash of $272.6 million. This was due to a $170.9 million increase in operating assets and a $101.7 million decrease in operating liabilities. 
+ 
+ The increase in operating assets was due to a $140.7 million increase in prepayments and other assets due to prepayments to our contract manufacturers, and an $80.8 million increase in inventories, partially offset by a $50.6 million decrease in accounts receivable due to lower sales. 
+ 
+ The decrease in operating liabilities was due to a $40.3 million decrease in accrued employee compensation, a $29.8 million decrease in income taxes, a $10.8 million decrease in accounts payable, a $9.3 million decrease in other accrued liabilities, a $6.2 million decrease in deferred revenue and customer advance payments, and $5.1 million of retirement plan contributions. 
+ 
+ Investing activities during 2022 provided cash of $43.8 million, due to $268.1 million and $222.9 million in proceeds from sales and maturities of marketable securities, respectively, $3.4 million due to sale of an asset, partially offset by $287.4 million used for purchases of marketable securities and $163.2 million used for purchases of property, plant and equipment. 
+ 
+ Financing activities during 2022 used cash of $893.0 million, due to $752.1 million used for the repurchase of 7.3 million shares of common stock at an average price of $103.69 per share, $69.7 million used for dividend payments, $66.8 million used for the payments of convertible debt principal, and $33.2 million used for payments related to net settlement of employee stock compensation awards, partially offset by $28.7 million from the issuance of common stock under employee stock purchase and stock option plans. 
+ 
+ In January 2023, May 2023, August 2023 and November 2023, our Board of Directors declared a quarterly cash dividend of $0.11 per share. Total dividend payments in 2023 were $67.9 million. In January 2022, May 2022, August 2022 and November 2022, our Board of Directors declared a quarterly cash dividend of $0.11 per share. Total dividend payments in 2022 were $69.7 million. 
+ 
+ In January 2023, our Board of Directors cancelled the 2021 repurchase program and approved a new repurchase program for up to $2.0 billion of common stock. In 2023, we repurchased 3.9 million shares of common stock for $397.2 million, which excludes related excise tax, at an average price of $102.47 per share. In 2022, we repurchased 7.3 million shares of common stock for $752.1 million at an average price of $103.69 per share against the 2021 repurchase program. The cumulative repurchases as of December 31, 2022, under the 2021 repurchase program, were 12.0 million shares of common stock for $1,352.1 million at an average price per share of $112.44. In 2024 we intend to repurchase up to $90.0 million. 
+ 
+ While we declared a quarterly cash dividend and authorized a share repurchase program, we may reduce or eliminate the cash dividend or share repurchase program in the future. Future cash dividends and stock repurchases are subject to the discretion of our Board of Directors, which will consider, among other things, our earnings, capital requirements and financial condition. 
+ 
+ On November 7, 2023, Teradyne announced a strategic partnership with Technoprobe S.p.A including Teradyne's agreement to acquire a 10% equity investment in Technoprobe for 481.0 million Euros. Teradyne will face a three year restriction on the transfer or disposition of the Technoprobe shares upon closing of the agreement, subject to certain early termination events. 
+ 
+ On May 1, 2020, we entered into a credit agreement providing a three-year, senior secured revolving credit facility of $400 million. On December 10, 2021, the credit agreement was amended to extend the senior secured revolving credit facility to December 10, 2026. On October 5, 2022, the credit agreement was amended to increase the amount of the credit facility to $750.0 million from $400.0 million. As of February 22, 2023, we have not borrowed any funds under the credit facility. 
+ 
+ 
+ 33 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ We expect operations to continue to be the primary source of cash to operate the business and meet material cash commitments, including any payments of convertible debt principal, our stock repurchase program, our quarterly dividends, our office lease obligations, contractual obligations related to inventory purchases and the construction of new facilities. We believe our cash, cash equivalents and marketable securities balance will be sufficient to pay our quarterly dividend and meet our working capital and expenditure needs for at least the next twelve months. Inflation has not had a significant long-term impact on earnings. 
+ 
+ At December 31, 2023, our future contractual obligations were related to debt, leases, retirement plan liabilities, deferred tax benefits, and purchase obligations. See Note J. “Debt”, Note I. “Leases”, Note P. “Retirement Plans”, and Note S. “Income Taxes” of Notes to Consolidated Financial Statements in this Annual Report for information about those obligations, which Notes are incorporated by reference into this section. Our purchase obligations were approximately $414.4 million, with $379.1 million expected to be paid within twelve months. 
+ 
+ Retirement Plans 
+ 
+ ASC 715-20, “ Compensation—Retirement Benefits—Defined Benefit Plans, ” requires an employer with defined benefit plans or other postretirement benefit plans to recognize an asset or a liability on its balance sheet for the overfunded or underfunded status of the plans as defined by ASC 715-20. The pension asset or liability represents the difference between the fair value of the pension plans’ assets and the projected benefit obligation as of December 31. For other postretirement benefit plans, the liability is the difference between the fair value of the plan’s assets and the accumulated postretirement benefit obligation as of December 31. 
+ 
+ For the year ended December 31, 2023, our pension expense, which includes the U.S. Qualified Pension Plan (“U.S. Plan”), certain qualified plans for non-U.S. subsidiaries, and a U.S. Supplemental Executive Defined Benefit Plan, was approximately $6.8 million. Pension expense is calculated based upon a number of actuarial assumptions. Discount rate and expected return on assets are two assumptions which are important elements of pension plan expense and asset/liability measurement. We evaluate our discount rate and expected rate of return on assets assumptions annually on a plan and country specific basis. We evaluate other assumptions related to demographic factors, such as retirement age, mortality and turnover periodically, and update them to reflect our experience and expectations for the future. 
+ 
+ In developing the expected return on U.S. Plan assets assumption, we evaluated input from our investment manager and pension consultants, including their forecast of asset class return expectations. We believe that 4.75% was an appropriate rate of return on assets to use for 2023. The December 31, 2023 asset allocation for our U.S. Plan was 94% invested in fixed income securities, 5% invested in equity securities, and 1% invested in other securities. Our investment manager regularly reviews the actual asset allocation and periodically rebalances the portfolio to ensure alignment with our target allocations. 
+ 
+ We recognize net actuarial gains and losses and the change in the fair value of plan assets in our operating results in the year in which they occur or upon any interim remeasurement of the plans. We calculate the expected return on plan assets using the fair value of the plan assets. Actuarial gains and losses are generally measured annually as of December 31 and, accordingly, recorded during the fourth quarter of each year or upon any interim remeasurement of the plans. 
+ 
+ The discount rate that we utilized for determining future pension obligations for the U.S. Plan is based on the FTSE Pension Index adjusted for the U.S. Plan’s expected cash flows and was 4.75% at December 31, 2023, down from 4.95% at December 31, 2022. We estimate that in 2024, we will recognize approximately $0.2 million of pension expense for the U.S. Plan. The U.S. Plan pension expense estimate for 2024 is based on a 4.75% discount rate and a 4.65% return on assets. Future pension expense or income will depend on future investment performance, changes in future discount rates and various other factors related to the employee population participating in our pension plans. 
+ 
+ As of December 31, 2023, our pension plans had no unrecognized pension prior service cost. 
+ 
+ The assets of the U.S. Plan consist substantially of fixed income securities. U.S. Plan assets have increased from $111.8 million at December 31, 2022 to $112.6 million at December 31, 2023, while the U.S. Plan’s liability increased from $100.0 million at December 31, 2022 to $101.1 million at December 31, 2023. 
+ 
+ Our funding policy is to make contributions to our pension plans in accordance with local laws and to the extent that such contributions are tax deductible. During 2023, we made contributions of $3.1 million to the U.S. supplemental executive defined benefit pension plan, and $1.0 million to certain qualified plans for non-U.S. subsidiaries. In 2024, we expect to contribute approximately $3.1 million to the U.S. supplemental executive defined benefit pension plan. Contributions to be made in 2024 to certain qualified plans for non-U.S. subsidiaries are based on local statutory requirements and are estimated at approximately $1.4 million. 
+ 
+ 
+ 34 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ Equity Compensation Plans 
+ 
+ In addition to our 1996 Employee Stock Purchase Plan discussed in Note Q: “Stock-Based Compensation” in Notes to Consolidated Financial Statements, we have a 2006 Equity and Cash Compensation Incentive Plan (the “2006 Equity Plan”) under which equity securities are authorized for issuance. The 2006 Equity Plan was initially approved by stockholders on May 25, 2006. 
+ 
+ At our annual meeting of stockholders held May 21, 2013, our stockholders approved an amendment to the 2006 Equity Plan to increase the number of shares issuable thereunder by 10.0 million, for an aggregate of 32.0 million shares issuable thereunder, and our stockholders also approved an amendment to our 1996 Employee Stock Purchase Plan to increase the number of shares issuable thereunder by 5.0 million, for an aggregate of 30.4 million shares issuable thereunder. At our annual meeting of stockholders held May 12, 2015, our stockholders approved an amendment to the 2006 Equity Plan to extend its term until May 12, 2025. At our annual meeting of stockholders held May 7, 2021, our stockholders approved an amendment to our 1996 Employee Stock Purchase Plan to increase the number of shares issuable thereunder by 3.0 million, for an aggregate of 33.4 million shares issuable thereunder. 
+ 
+ The following table presents information about these plans as of December 31, 2023 (share numbers in thousands): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Plan category 
+ 
+ 
+ 
+ 
+ 
+ Number of securities to be issued upon exercise of outstanding options, warrants and rights 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Weighted-average exercise price of outstanding options, warrants and rights 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Number of securities remaining available for future issuance under equity compensation plans (excluding securities reflected in column one) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Equity plans approved by shareholders 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,548 
+ 
+ 
+ 
+ 
+ 
+ (1) 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 94.85 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 7,863 
+ 
+ 
+ 
+ 
+ 
+ (2) 
+ 
+ 
+ 
+ 
+ 
+ (1) 
+ Includes 1,377,662 shares of restricted stock units that are not included in the calculation of the weighted average exercise price. 
+ 
+ (2) 
+ Consists of 4,352,428 securities available for issuance under the 2006 Equity Plan and 3,510,784 of securities available for issuance under the Employee Stock Purchase Plan. 
+ 
+ The purpose of the 2006 Equity Plan is to motivate employees, officers and directors by providing equity ownership and compensation opportunities in Teradyne. The aggregate number of shares available under the 2006 Equity Plan as of December 31, 2023 was 4,352,428 shares of our common stock. The 2006 Equity Plan authorizes the grant of stock-based awards in the form of (1) non-qualified and incentive stock options, (2) stock appreciation rights, (3) restricted stock awards and restricted stock unit awards, (4) phantom stock, and (5) other stock-based awards. Awards may be tied to time-based vesting schedules and/or performance-based vesting measured by reference to performance criteria chosen by the Compensation Committee of the Board of Directors, which administers the 2006 Equity Plan. Awards may be made to any employee, officer, consultant and advisor of Teradyne and our subsidiaries, as well as to our directors. The maximum number of shares of stock-based awards that may be granted to one participant during any one fiscal year is 2,000,000 shares of common stock. 
+ 
+ As of December 31, 2023, total unrecognized compensation expense related to non-vested restricted stock units and options was $73.7 million and is expected to be recognized over a weighted average period of 2.5 years. 
+ 
+ 
+ 35 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ Performance Graph 
+ 
+ The following graph compares the change in our cumulative total shareholder return in our common stock with (i) the Standard & Poor’s 500 Index and (ii) the Morningstar Global Semiconductor Equipment & Materials GR USD Industry Group. The comparison assumes $100.00 was invested on December 31, 2018 in our common stock and in each of the foregoing indices and assumes reinvestment of dividends, if any. Historic stock price performance is not necessarily indicative of future price performance. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Recently Issued Accounting Pronouncements 
+ 
+ In November 2023, the Financial Accounting Standards Board ("FASB") issued Accounting Standard Update ("ASU") No. 2023-07, "Segment Reporting (Topic 280): Improvements to Reportable Segment Disclosures" , which will require us to disclose significant segment expenses and other segment items used by the Chief Operating Decision Maker ("CODM") on an annual and interim basis as well as provide in interim periods all disclosures about a reportable segment’s profit or loss and assets that are currently required annually. Additionally, we will be required to disclose the title and position of the CODM. The new standard is effective for fiscal years beginning after December 15, 2023, and interim periods within fiscal years beginning after December 15, 2024, with early adoption permitted. This ASU will have no impact on our results of operations, cash flows or financial condition. Upon adoption, we will apply the amendments in this ASU retrospectively to all prior period disclosures presented in the financial statements. 
+ 
+ In December 2023, FASB issued ASU 2023-09 – “Income Taxes (Topic 740): Improvements to Income Tax Disclosures” , which requires expanded disclosures relating to the tax rate reconciliation, income taxes paid, income (loss) before income tax expense (benefit) and income tax expense (benefit), requiring a greater disaggregation of information for each. The provisions of ASU 2023-09 are effective for fiscal years beginning after December 15, 2024. The amendments in this update should be applied on a prospective basis, but retrospective application is permitted. We are currently evaluating the impact of this new standard. 
+ 

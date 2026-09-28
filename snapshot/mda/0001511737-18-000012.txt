@@ -1,0 +1,2384 @@
+ ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations 
+ 
+ Overview 
+ The Company develops technology platforms for high-capacity distributed Internet access, unified information technology, and next-generation consumer electronics for home and personal use. We categorize our solutions in to three main categories: high performance networking technology for service providers, enterprises and consumers. 
+ The majority of the Company’s resources consist of entrepreneurial and de-centralized research and development ("R&D"). Ubiquiti does not employ a traditional direct sales force, but instead drives brand awareness through online reviews and publications, its website, its distributors and the company’s user community where customers can interface directly with R&D, marketing, and support. Our technology platforms were designed from the ground up with a focus on delivering highly- 
+ 
+ 
+ 34 
+ 
+ Table of Contents 
+ 
+ advanced and easily deployable solutions that appeal to a global customer base in underserved and underpenetrated markets. Our differentiated business model, we believe has enabled us to break down traditional barriers such as high product and network deployment costs and offer solutions with disruptive price-performance characteristics. We strive to offer solutions that provide an ecosystem which simplifies the users experience and the deployment process of additional hardware. 
+ The Company maintains an industry leading financial profile by leveraging its unique business model. This differentiated business model, combined with our innovative, proprietary technologies, has resulted in an attractive alternative to traditional high touch, high cost providers, allowing us to advance the market adoption of our platforms for ubiquitous connectivity. As a result, our technology has enabled hundreds of millions of people throughout the world to stay connected. 
+ We offer a broad and expanding portfolio of networking products and solutions for operator-owners of wireless internet services (WISP's), enterprises and smart homes. Our operator-owner service provider -product platforms provide carrier-class network infrastructure for fixed wireless broadband, wireless backhaul systems and routing and the related software for WISP's to easily control, track and bill their customers. Our enterprise product platforms provide wireless LAN (WLAN) infrastructure, video surveillance products, switching and routing solutions, security gateways, and other complimentary WLAN products along with a unique software platform, which enables users to control their network from one simple, easy to use software interface. Our consumer products, sold under the Ubiquiti Labs brand name, are targeted to the smart home and highly connected consumers. We believe that our products are highly differentiated due to our proprietary software protocol innovation, firmware expertise, and hardware design capabilities. This differentiation allows our portfolio to meet the demanding performance requirements of video, voice and data applications at prices that are a fraction of those offered by our competitors. 
+ As a core part of our strategy, we have developed a differentiated business model for marketing and selling high volumes of carrier and enterprise-class communications platforms. Our business model is driven by a large, growing and highly engaged community of service providers, distributors, value added resellers, systems integrators and corporate IT professionals, which we refer to as the Ubiquiti Community. The Ubiquiti Community is a one element of our business strategy as it enables us to drive: 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Rapid customer and community driven product development. We have an active, loyal community built from our customers that we believe is a sustainable competitive advantage. Our solutions benefit from the active engagement between the Ubiquiti Community and our development engineers throughout the product development cycle, which eliminates long and expensive multistep internal processes and results in rapid introduction and adoption of our products. This approach significantly reduces our development costs and time to market. 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Scalable sales and marketing model. We do not maintain the traditional direct sales force as compared to some of our competitors, but instead utilize digital marketing and the Ubiquiti Community to drive market awareness and demand for our products and solutions. We believe this community-propagated viral marketing enables us to reach underserved and underpenetrated markets far more efficiently and cost-effectively than is possible through traditional sales models. Leveraging the information transparency of the Internet allows customers to research, evaluate and validate our solutions with the Ubiquiti Community and via third party web sites. This allows us to operate a scalable sales and marketing model and effectively create awareness of our brand and products. 
+ By reducing the cost of development, sales, marketing and support we are able to offer innovative solutions with disruptive price performance characteristics to our customers. 
+ 
+ Key Components of Our Results of Operations and Financial Condition 
+ Revenues 
+ 
+ We operate our business as one reportable and operating segment. Further information regarding Segments can be found in Note 12 to our Consolidated Financial Statements. Our revenues are derived principally from the sale of networking hardware and management tools. Because we have historically included it free of charge in many of our arrangements, we attribute a portion of our systems revenues to this implied post-contract customer support (“PCS”). 
+ We classify our revenues into two primary product categories: Service Provider Technology and Enterprise Technology. 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Service Provider Technology includes our airMAX, EdgeMAX, UFiber, and airFiber platforms, as well as embedded radio products and other 802.11 standard products including base stations, radios, backhaul equipment and CPE. Additionally, Service Provider Technology includes antennas and other products primarily in the 0.9 to 6.0 GHz spectrum and miscellaneous products such as mounting brackets, cables and power over Ethernet adapters. 
+ 
+ 
+ 
+ 35 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Enterprise Technology includes our UniFi and mFi platforms, including UniFi enterprise Wi-Fi, UniFi Video Products, UniFi switching and routing solutions. Enterprise Technology also includes AmpliFi products and revenues that are attributable to PCS. 
+ We sell our products and solutions globally to service providers and enterprises primarily through our extensive network of distributors, and, to a lesser extent, direct customers. Sales to distributors accounted for 99% of our revenues in the year ended June 30, 2018 . 
+ 
+ Cost of Revenues 
+ Our cost of revenues is comprised primarily of the costs of procuring finished goods from our contract manufacturers and certain key components that we consign to certain of our contract manufacturers. In addition, cost of revenues includes labor and other costs associated with engineering, including salary, benefits and stock-based compensation in addition to costs associated with tooling, testing and quality assurance, warranty fees, logistics fees and excess and obsolete inventory reserves. 
+ We operate a warehouse located in Utah and outsource other logistics warehousing and order fulfillment functions located primarily in China, and to a lesser extent, Poland. We also evaluate and utilize other vendors for various portions of our supply chain from time to time. Our operations organization consists of employees and consultants engaged in the management of our contract manufacturers, new product introduction activities, logistical support and engineering. 
+ Gross Profit 
+ Our gross profit has been, and may in the future be, influenced by several factors including changes in product mix, target end markets for our products, tariffs, pricing due to competitive pressure, production costs and global demand for electronic components. Although we procure and sell our products in U.S. dollars, our contract manufacturers incur many costs, including labor costs, in other currencies. To the extent that the exchange rates move unfavorably for our contract manufacturers, they may try to pass these additional costs on to us, which could have a material impact on our future average selling prices and unit costs. In June 2018, the Office of the United States Trade Representative announced new proposed tariffs for certain products imported into the U.S. from China. To the extent these tariffs are implemented, they may have a materially unfavorable impact on our gross margins. 
+ Operating Expenses 
+ We classify our operating expenses as research and development, sales, general and administrative expenses and expense related to the business email compromise fraud loss. 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Research and development expenses consist primarily of salary and benefit expenses, including stock-based compensation, for employees and costs for contractors engaged in research, design and development activities, as well as costs for prototypes, licensed or purchased intellectual property, facilities and travel. Over time, we expect our research and development costs to increase as we continue making significant investments in developing new products in addition to new versions of our existing products. 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Sales, general and administrative expenses include salary and benefit expenses, including stock-based compensation, for employees and costs for contractors engaged in sales, marketing and general and administrative activities, as well as the costs of legal expenses, trade shows, marketing programs, promotional materials, bad debt expense, professional services, facilities, general liability insurance and travel. As our product portfolio and targeted markets expand, we may need to employ different sales models, such as building a traditional direct sales force. These sales models would likely increase our costs. Over time, we expect our sales, general and administrative expenses to increase in absolute dollars due to continued growth in headcount, expansion of our efforts to register and defend trademarks and patents and to support our business and operations. 
+ Deferred Revenues 
+ We recognize revenues when persuasive evidence of an arrangement exists, delivery has occurred, the sales price is fixed or determinable and the collectability of the resulting receivable is reasonably assured. In cases where we lack evidence that all of these criteria have been met, we defer recognition of revenue. 
+ Included in our deferred revenues is a portion related to PCS obligations that we estimate we will fulfill in the future. As of June 30, 2018 , and 2017 , we had deferred revenues of $12.7 million and $7.9 million , respectively, related to these obligations. 
+ Provisions for Income Taxes 
+ We use the asset and liability method to account for income taxes. Significant management judgment is required in determining the provision for income taxes, deferred tax assets and liabilities and any valuation allowance recorded against net 
+ 
+ 
+ 36 
+ 
+ Table of Contents 
+ 
+ deferred tax assets. In preparing the consolidated financial statements, we are required to estimate income taxes in each of the jurisdictions in which we operate. The Company must assess such potential exposures and, where necessary, provide a reserve to cover any expected loss. To the extent that the Company establishes a reserve, its provision for income taxes would be increased. If the Company ultimately determines that payment of these amounts is unnecessary, it reverses the liability and recognizes a tax benefit during the period in which it determines that the liability is no longer necessary. The Company records an additional charge in its provision for taxes in the period in which it determines that tax liability is greater than its original estimate. The Company recognizes interest and penalties related to unrecognized tax benefits on the income tax expense line in the accompanying consolidated statement of operations. 
+ In connection with our income tax provisions for fiscal year 2018, we have considered the guidance in SAB 118, which allows for the recording of provisional estimates related to the 2017 Tax Act, under ASC 740 when the determination of such amounts are not complete in the period of enactment. To the extent the Company's accounting for certain income tax effects of the 2017 Tax Act is incomplete but the Company was able to determine a reasonable estimate of such effects, we recorded a provisional tax estimate in the financial statements. The primary impact of the 2017 Tax Act in fiscal year 2018 is a reduction of the Company’s federal statutory tax rate from 35% to 28% and taxation of the accumulated unremitted earnings of the Company’s foreign subsidiaries (“Repatriation Tax”). For fiscal year ended June 30, 2018 , our tax provisions estimates were impacted by $116.6 million of net charges related to the 2017 Tax Act. The charges comprise of $114.3 million in deemed repatriation tax and $2.3 million for the remeasurement of deferred income taxes. For a discussion of the risks associated with changes in applicable tax regulations, see “Part I-ITEM 1A. Risk Factors-Risks Related to our Business and Industry- Changes in applicable tax regulations could negatively affect our financial results.” 
+ 
+ Critical Accounting Policies 
+ We prepare our consolidated financial statements in accordance with accounting principles generally accepted in the United States of America (“GAAP”). In many cases, the accounting treatment of a particular transaction is specifically dictated by GAAP and does not require management’s judgment in its application. In other cases, management’s judgment is required in selecting among available alternative accounting standards that provide for different accounting treatment for similar transactions. The preparation of consolidated financial statements also requires us to make estimates and assumptions that affect the amounts we report as assets, liabilities, revenues, costs and expenses and affect the related disclosures. We base our estimates on historical experience and other assumptions that we believe are reasonable under the circumstances. In many instances, we could reasonably use different accounting estimates, and in some instances, changes in the accounting estimates are reasonably likely to occur from period to period. Accordingly, our actual results could differ significantly from the estimates made by our management. To the extent that there are differences between our estimates and actual results, our future financial statement presentation, financial condition, results of operations and cash flows will be affected. We believe that the accounting policies discussed below are critical to understanding our historical and future performance, as these policies relate to the more significant areas involving management’s judgments and estimates. 
+ Recognition of Revenues 
+ Revenues consist primarily of revenues from the sale of hardware and management tools, as well as the related implied PCS. We recognize revenues when persuasive evidence of an arrangement exists, delivery has occurred, the sales price is fixed or determinable and the collectability of the resulting receivable is reasonably assured. In cases where we lack evidence that collectability of the resulting receivable is reasonably assured, we defer recognition of revenue until the receipt of cash. 
+ For our sales, evidence of the arrangement consists of an order from a customer. We consider delivery to have occurred once our products have been shipped and title and risk of loss have been transferred. For our sales, these criteria are met at the time the products are transferred to the customer's shipping agent. Our arrangements with majority of our customers do not include provisions for cancellation, returns, inventory swaps or refunds that materially impact recognized revenues. 
+ We record amounts billed to distributors for shipping and handling costs as revenues. We classify shipping and handling costs incurred by us as cost of revenues. Deposit payments received from distributors in advance of recognition of revenues are included in current liabilities on our balance sheet and are recognized as revenues when all the criteria for recognition of revenues are met. 
+ Our multi-element arrangements generally include two deliverables. The first deliverable is the hardware and software essential to the functionality of the hardware device delivered at the time of sale. The second deliverable is the implied right to PCS included with the purchase of certain products. PCS is the right to receive, on a when and if available basis, future unspecified software upgrades and features relating to the product’s essential software as well as bug fixes, email and telephone support. 
+ We use a hierarchy to determine the allocation of revenues to the deliverables. The hierarchy is as follows: (i) vendor-specific objective evidence of fair value (“VSOE”), (ii) third-party evidence of selling price (“TPE”), and (iii) best estimate of the selling price (“BESP”). 
+ 
+ 
+ 
+ 37 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ (i) 
+ 
+ VSOE generally exists only when a company sells the deliverable separately and is the price actually charged by the company for that deliverable. Generally, we do not sell the deliverables separately and, as such, do not have VSOE. 
+ 
+ 
+ 
+ 
+ 
+ 
+ (ii) 
+ 
+ TPE can be substantiated by determining the price that other parties sell similar or substantially similar offerings. We do not believe that there is accessible TPE evidence for similar deliverables. 
+ 
+ 
+ 
+ 
+ 
+ 
+ (iii) 
+ 
+ BESP reflects our best estimates of what the selling prices of elements would be if they were sold regularly on a stand-alone basis. We believe that BESP is the most appropriate methodology for determining the allocation of revenues among the multiple elements. 
+ We have allocated revenues between these two deliverables using the relative selling price method which is based on the BESP for all deliverables. Revenues allocated to the delivered hardware and the related essential software are recognized at the time of sale provided the other conditions for recognition of revenues have been met. Revenues allocated to the PCS are deferred and recognized on a straight-line basis over the estimated period for which services will be delivered to support each of these devices which, currently, is two years. All costs of revenues, including estimated warranty costs, are recognized at the time of sale. Costs for research and development and sales and marketing are expensed as incurred. If the estimated life of the hardware product should change, the future rate of amortization of the revenues allocated to PCS would also change. 
+ Our process for determining BESP for deliverables involves multiple factors that may vary depending upon the unique facts and circumstances related to each deliverable. For PCS, we believe our network operators and service providers would be reluctant to pay for such services separately. This view is primarily based on the fact that unspecified upgrade rights do not obligate us to provide upgrades at a particular time or at all, and do not specify to network operators and service providers which upgrades or features will be delivered. We believe that the relatively low prices of our products and our network operators, and service providers’ price sensitivity would add to their reluctance to pay for PCS. Therefore, we have concluded that if we were to sell PCS on a stand-alone basis, the selling price would be relatively low. 
+ Key factors considered by us in developing the BESP for PCS include reviewing the activities of specific employees engaged in support and software development to determine the amount of time that is allocated to the development of the undelivered elements, determining the cost of this development effort, and then adding an appropriate level of gross profit to these costs. 
+ Inventory and Inventory Valuation 
+ The Company's inventories are primarily finished goods and, to a lesser extent, raw materials, which have been either consigned to the Company's contract manufacturers or are held by the Company. Inventories are stated at the lower of actual cost, computed using the first-in, first-out method, and Net Realizable Value (NRV). NRV is based upon an estimated average selling price reduced by the estimated costs of disposal. The determination of NRV involves numerous judgments including estimating average selling prices based upon recent sales, industry trends, existing customer orders, and seasonal factors. Should actual market conditions differ from the Company's estimates, future results of operations could be materially affected. The Company reduces the value of its inventory for estimated obsolescence or lack of marketability by the difference between the cost of the affected inventory and the estimated market value. Write-downs are not reversed until the related inventory has been subsequently sold or scrapped. 
+ The valuation of inventory also requires the Company to estimate excess and obsolete inventory. The determination of excess or obsolete inventory is estimated based on a comparison of the quantity and cost of inventory on hand to the Company's forecast of customer demand. Customer demand is dependent on many factors and requires the Company to use significant judgment in our forecasting process. The Company also makes assumptions regarding the rate at which new products will be accepted in the marketplace and at which customers will transition from older products to newer products. If actual market conditions are less favorable than those projected by management, additional inventory write-downs may be required, which would have a negative impact on the Company's gross margin. If the Company ultimately sells inventory that has been previously written down, the Company's gross margins in future periods would be positively impacted. 
+ The Company capitalizes manufacturing overhead expenditures as part of inventory costs. Capitalized costs primarily include management’s best estimate of the direct labor and materials costs incurred related to inventory acquired or produced but not sold during the respective period. Manufacturing overhead costs are capitalized to inventory and are recognized as cost of revenues in the following quarter, consistent with the Company's historical inventory turnover. 
+ Income Taxes 
+ We account for income taxes by recognizing deferred tax assets and liabilities for the expected future tax consequences of events that have been included in our financial statements or tax returns. Deferred tax assets and liabilities are determined based on the temporary differences between the financial statement carrying amounts of existing assets and liabilities and their respective tax bases. Deferred tax assets and liabilities are measured using enacted tax rates expected to apply to taxable 
+ 
+ 
+ 38 
+ 
+ Table of Contents 
+ 
+ income in the years in which those temporary differences are expected to be recovered or settled. We establish valuation allowances when necessary to reduce deferred tax assets to the amount we expect to realize. The assessment of whether or not a valuation allowance is required often requires significant judgment including current operating results, the forecast of future taxable income and ongoing prudent and feasible tax planning initiatives. 
+ In addition, our calculation of our tax liabilities involves dealing with uncertainties in the application of complex tax laws. We may be subject to income tax audits in each of the jurisdictions in which we operate and, as a result, must also assess exposures to any potential issues arising from current or future audits of current and prior years’ tax returns. Accordingly, we must assess such potential exposures and, where necessary, provide a reserve to cover any expected loss. To the extent that we establish a reserve, our provision for income taxes would be increased. We review our potential liabilities periodically and, if necessary, record an additional charge in our provision for taxes in the period in which we determine that tax liability is greater than our original estimate. If we ultimately determine that payment of these amounts is unnecessary, we reverse the liability and recognize a tax benefit during the period in which we determine that the liability is no longer necessary. 
+ 
+ Results of Operations 
+ Comparison of Years Ended June 30, 2018 and 2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended June 30, 
+ 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 
+ (In thousands, except percentages) 
+ 
+ 
+ Revenues 
+ 
+ $ 
+ 
+ 1,016,861 
+ 
+ 
+ 
+ 
+ 
+ 100 
+ 
+ % 
+ 
+ 
+ 
+ $ 
+ 
+ 865,268 
+ 
+ 
+ 
+ 
+ 
+ 100 
+ 
+ % 
+ 
+ 
+ Cost of revenues (1) 
+ 
+ 573,289 
+ 
+ 
+ 
+ 
+ 
+ 56 
+ 
+ % 
+ 
+ 
+ 
+ 469,560 
+ 
+ 
+ 
+ 
+ 
+ 54 
+ 
+ % 
+ 
+ 
+ Gross profit 
+ 
+ 443,572 
+ 
+ 
+ 
+ 
+ 
+ 44 
+ 
+ % 
+ 
+ 
+ 
+ 395,708 
+ 
+ 
+ 
+ 
+ 
+ 46 
+ 
+ % 
+ 
+ 
+ Operating expenses: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Research and development (1) 
+ 
+ 74,324 
+ 
+ 
+ 
+ 
+ 
+ 7 
+ 
+ % 
+ 
+ 
+ 
+ 69,094 
+ 
+ 
+ 
+ 
+ 
+ 8 
+ 
+ % 
+ 
+ 
+ Sales, general and administrative (1) 
+ 
+ 43,121 
+ 
+ 
+ 
+ 
+ 
+ 4 
+ 
+ % 
+ 
+ 
+ 
+ 36,853 
+ 
+ 
+ 
+ 
+ 
+ 4 
+ 
+ % 
+ 
+ 
+ Total operating expenses 
+ 
+ 117,445 
+ 
+ 
+ 
+ 
+ 
+ 11 
+ 
+ % 
+ 
+ 
+ 
+ 105,947 
+ 
+ 
+ 
+ 
+ 
+ 12 
+ 
+ % 
+ 
+ 
+ Income from operations 
+ 
+ 326,127 
+ 
+ 
+ 
+ 
+ 
+ 32 
+ 
+ % 
+ 
+ 
+ 
+ 289,761 
+ 
+ 
+ 
+ 
+ 
+ 33 
+ 
+ % 
+ 
+ 
+ Interest expense and other, net 
+ 
+ (11,985 
+ 
+ ) 
+ 
+ 
+ 
+ * 
+ 
+ 
+ 
+ 
+ 
+ (4,737 
+ 
+ ) 
+ 
+ 
+ 
+ * 
+ 
+ 
+ 
+ 
+ Income before income taxes 
+ 
+ 314,142 
+ 
+ 
+ 
+ 
+ 
+ 31 
+ 
+ % 
+ 
+ 
+ 
+ 285,024 
+ 
+ 
+ 
+ 
+ 
+ 33 
+ 
+ % 
+ 
+ 
+ Provision for income taxes (2) (3) 
+ 
+ 117,852 
+ 
+ 
+ 
+ 
+ 
+ 12 
+ 
+ % 
+ 
+ 
+ 
+ 27,518 
+ 
+ 
+ 
+ 
+ 
+ 3 
+ 
+ % 
+ 
+ 
+ Net income and comprehensive income 
+ 
+ $ 
+ 
+ 196,290 
+ 
+ 
+ 
+ 
+ 
+ 19 
+ 
+ % 
+ 
+ 
+ 
+ $ 
+ 
+ 257,506 
+ 
+ 
+ 
+ 
+ 
+ 30 
+ 
+ % 
+ 
+ 
+ * Less than 1% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) Includes stock-based compensation as follows 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of revenues 
+ 
+ $ 
+ 
+ 360 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 264 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Research and development 
+ 
+ 1,873 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,861 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sales, general and administrative 
+ 
+ 975 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 660 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total stock-based compensation 
+ 
+ $ 
+ 
+ 3,208 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 2,785 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (2) Includes the excess tax benefits resulting from the adoption of ASU 2016-09 Stock Compensation 
+ 
+ $ 
+ 
+ (29,091 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (7,939 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ (3) Includes 2017 Tax Act Transition Tax 
+ 
+ $ 
+ 
+ 116,572 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ Revenues 
+ Revenues increased $151.6 million , or 18% , from $865.3 million in fiscal 2017 to $1.0 billion in fiscal 2018 . During fiscal year ended June 30, 2018 , there were no material price changes in the Company's products sold. However, the Company continues to introduce new products which may have average selling price and margins different than our legacy products. 
+ Revenues by Product Type 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended June 30, 
+ 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 
+ (in thousands, except percentages) 
+ 
+ 
+ Service Provider Technology 
+ 
+ $ 
+ 
+ 446,600 
+ 
+ 
+ 
+ 
+ 
+ 44 
+ 
+ % 
+ 
+ 
+ 
+ $ 
+ 
+ 455,598 
+ 
+ 
+ 
+ 
+ 
+ 53 
+ 
+ % 
+ 
+ 
+ Enterprise Technology 
+ 
+ 570,261 
+ 
+ 
+ 
+ 
+ 
+ 56 
+ 
+ % 
+ 
+ 
+ 
+ 409,670 
+ 
+ 
+ 
+ 
+ 
+ 47 
+ 
+ % 
+ 
+ 
+ Total revenues 
+ 
+ $ 
+ 
+ 1,016,861 
+ 
+ 
+ 
+ 
+ 
+ 100 
+ 
+ % 
+ 
+ 
+ 
+ $ 
+ 
+ 865,268 
+ 
+ 
+ 
+ 
+ 
+ 100 
+ 
+ % 
+ 
+ 
+ 39 
+ 
+ Table of Contents 
+ 
+ Service Provider Technology revenues decreased $9.0 million , or 2.0% , from $455.6 million in fiscal 2017 , to $446.6 million in fiscal 2018 , primarily due to decreased revenue in South America, Europe, the Middle East and Africa ("EMEA") and Asia Pacific, partially offset by an increase in North America. 
+ Enterprise Technology revenues increased $160.6 million , or 39% , from $409.7 million in fiscal 2017 , to $570.3 million in fiscal 2018, primarily due to product expansion and further adoption of our UniFi technology platform across all regions. 
+ Revenues by Geography 
+ We have determined the geographical distribution of our product revenues based on our customers' ship-to destinations. A majority of our sales are to distributors who in turn sell to resellers or directly to end customers, which may be in different countries than the initial ship-to destination. The following are our revenues by geography for fiscal 2018 and fiscal 2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended June 30, 
+ 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 
+ (in thousands, except percentages) 
+ 
+ 
+ North America (1) 
+ 
+ $ 
+ 
+ 410,378 
+ 
+ 
+ 
+ 
+ 
+ 40 
+ 
+ % 
+ 
+ 
+ 
+ $ 
+ 
+ 331,435 
+ 
+ 
+ 
+ 
+ 
+ 38 
+ 
+ % 
+ 
+ 
+ South America 
+ 
+ 92,251 
+ 
+ 
+ 
+ 
+ 
+ 9 
+ 
+ % 
+ 
+ 
+ 
+ 105,511 
+ 
+ 
+ 
+ 
+ 
+ 12 
+ 
+ % 
+ 
+ 
+ Europe, the Middle East and Africa ("EMEA") 
+ 
+ 411,388 
+ 
+ 
+ 
+ 
+ 
+ 41 
+ 
+ % 
+ 
+ 
+ 
+ 334,473 
+ 
+ 
+ 
+ 
+ 
+ 39 
+ 
+ % 
+ 
+ 
+ Asia Pacific 
+ 
+ 102,844 
+ 
+ 
+ 
+ 
+ 
+ 10 
+ 
+ % 
+ 
+ 
+ 
+ 93,849 
+ 
+ 
+ 
+ 
+ 
+ 11 
+ 
+ % 
+ 
+ 
+ Total revenues 
+ 
+ $ 
+ 
+ 1,016,861 
+ 
+ 
+ 
+ 
+ 
+ 100 
+ 
+ % 
+ 
+ 
+ 
+ $ 
+ 
+ 865,268 
+ 
+ 
+ 
+ 
+ 
+ 100 
+ 
+ % 
+ (1) Revenue for the United States was $390.6 million and $315.0 million in fiscal 2018 and fiscal 2017 , respectively. 
+ North America 
+ Revenues in North America increased $78.9 million , or 24% , from $331.4 million in fiscal 2017 to $410.4 million in fiscal 2018 . The year-over-year increase was primarily due to increased revenue from both our Enterprise Technology products and Service Provider Technology products. 
+ South America 
+ Revenues in South America decreased $13.3 million , or 13% , from $105.5 million in fiscal 2017 to $92.3 million in fiscal 2018 . The year-over-year decrease was primarily due to decreased revenue from our Service Provider Technology products, partially offset by increased revenue in our Enterprise Technology products. 
+ Europe, the Middle East, and Africa ("EMEA") 
+ Revenues in EMEA increased $76.9 million , or 23% , from $334.5 million in fiscal 2017 to $411.4 million in fiscal 2018 . The year-over-year increase was primarily due to increased revenue from our Enterprise Technology products, partially offset by decreased revenue in our Service Provider Technology products. 
+ Asia Pacific 
+ Revenues in the Asia Pacific region increased $9.0 million , or 10% , from $93.8 million in fiscal 2017 to $102.8 million in fiscal 2018 . The year-over-year increase was primarily due to increased revenue from our Enterprise Technology products, partially offset by decreased revenue in our Service Provider Technology products. 
+ Cost of Revenues and Gross Profit 
+ Cost of revenues increased $103.7 million , or 22% , from $469.6 million in fiscal 2017 to $573.3 million in fiscal 2018 . The increase in fiscal 2018 was primarily due to costs increases associated with an overall increase in revenues, including an increase in indirect costs, charges related to obsolete inventory and vendor deposits and loss on purchase commitments that were primarily associated with the Company's FrontRow consumer-oriented product. Due to the lower than expected sales performance of FrontRow, the Company determined it was no longer able to fully recover this inventory and other related commitments. 
+ Gross profit margin decreased to 44% in fiscal 2018 from 46% in fiscal 2017 . The decrease was primarily due to a change in the mix of products sold, an increase in indirect costs, and charges related to provisions for obsolete inventory vendor deposits and a loss on purchase commitments recognized during fiscal 2018. 
+ Operating Expenses 
+ Research and Development 
+ Research and development expenses increased $5.2 million , or 8% , from $69.1 million in fiscal 2017 to $74.3 million in fiscal 2018 . As a percentage of revenues, research and development expenses decreased from 8% in fiscal 2017 to 7% in fiscal 2018 . 
+ 
+ 
+ 40 
+ 
+ Table of Contents 
+ 
+ The increase in R&D expense in absolute dollars, was primarily due to increases in headcount, and severance associated with terminations and development activities, partially offset by lower non-recurring engineering (NRE) expenses. We continue to increase headcount and development costs, which reflects the increased efforts to broaden our research and development activities to introduce new products and new versions of existing products. 
+ Sales, General and Administrative 
+ Sales, general and administrative expenses increased $ 6.3 million , or 17% , from $36.9 million in fiscal 2017 to $43.1 million in fiscal 2018 . As a percentage of revenues, sales, general and administrative expenses remained flat at 4% for fiscal 2018 and fiscal 2017 . 
+ The increase in sales, general and administrative expenses in absolute dollars was primarily related to professional fees and higher employer payroll taxes associated with tax withholding related to net share settlement of equity awards. 
+ Provision for Income Taxes 
+ Our provision for income taxes increased $90.3 million from $27.5 million for fiscal 2017 to $117.9 million for fiscal 2018 . Our effective tax rate increased to 37.5% in fiscal 2018 as compared to 9.7% for fiscal 2017 . The higher effective tax rate in fiscal 2018 reflects $116.6 million in net charges associated with the 2017 Tax Act. This included $114.3 million provisional estimate of the mandatory Transition Tax expense and $2.3 million of tax expense related to the remeasurement of deferred taxes at the lower tax rate during the period. These charges were partially offset by a tax benefit recognized in fiscal 2018 for $29.1 million related to excess tax benefits from stock based compensation, as compared to $7.9 million benefit recognized in fiscal 2017. 
+ Comparison of Year Ended June 30, 2017 and 2016 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended June 30, 
+ 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 
+ (In thousands, except percentages) 
+ 
+ 
+ Revenues 
+ 
+ $ 
+ 
+ 865,268 
+ 
+ 
+ 
+ 
+ 
+ 100 
+ 
+ % 
+ 
+ 
+ 
+ $ 
+ 
+ 666,395 
+ 
+ 
+ 
+ 
+ 
+ 100 
+ 
+ % 
+ 
+ 
+ Cost of revenues (1) (2) 
+ 
+ 469,560 
+ 
+ 
+ 
+ 
+ 
+ 54 
+ 
+ % 
+ 
+ 
+ 
+ 341,600 
+ 
+ 
+ 
+ 
+ 
+ 51 
+ 
+ % 
+ 
+ 
+ Gross profit 
+ 
+ 395,708 
+ 
+ 
+ 
+ 
+ 
+ 46 
+ 
+ % 
+ 
+ 
+ 
+ 324,795 
+ 
+ 
+ 
+ 
+ 
+ 49 
+ 
+ % 
+ 
+ 
+ Operating expenses: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Research and development (1) 
+ 
+ 69,094 
+ 
+ 
+ 
+ 
+ 
+ 8 
+ 
+ % 
+ 
+ 
+ 
+ 57,765 
+ 
+ 
+ 
+ 
+ 
+ 9 
+ 
+ % 
+ 
+ 
+ Sales, general and administrative (1) 
+ 
+ 36,853 
+ 
+ 
+ 
+ 
+ 
+ 4 
+ 
+ % 
+ 
+ 
+ 
+ 33,269 
+ 
+ 
+ 
+ 
+ 
+ 5 
+ 
+ % 
+ 
+ 
+ Business e-mail compromise ("BEC") fraud (recovery) 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ % 
+ 
+ 
+ 
+ (8,294 
+ 
+ ) 
+ 
+ 
+ 
+ (1 
+ 
+ )% 
+ 
+ 
+ Total operating expenses 
+ 
+ 105,947 
+ 
+ 
+ 
+ 
+ 
+ 12 
+ 
+ % 
+ 
+ 
+ 
+ 82,740 
+ 
+ 
+ 
+ 
+ 
+ 13 
+ 
+ % 
+ 
+ 
+ Income from operations 
+ 
+ 289,761 
+ 
+ 
+ 
+ 
+ 
+ 33 
+ 
+ % 
+ 
+ 
+ 
+ 242,055 
+ 
+ 
+ 
+ 
+ 
+ 36 
+ 
+ % 
+ 
+ 
+ Interest expense and other, net 
+ 
+ (4,737 
+ 
+ ) 
+ 
+ 
+ 
+ * 
+ 
+ 
+ 
+ 
+ 
+ (2,115 
+ 
+ ) 
+ 
+ 
+ 
+ * 
+ 
+ 
+ 
+ 
+ Income before income taxes 
+ 
+ 285,024 
+ 
+ 
+ 
+ 
+ 
+ 33 
+ 
+ % 
+ 
+ 
+ 
+ 239,940 
+ 
+ 
+ 
+ 
+ 
+ 36 
+ 
+ % 
+ 
+ 
+ Provision for income taxes (2) 
+ 
+ 27,518 
+ 
+ 
+ 
+ 
+ 
+ 3 
+ 
+ % 
+ 
+ 
+ 
+ 26,324 
+ 
+ 
+ 
+ 
+ 
+ 4 
+ 
+ % 
+ 
+ 
+ Net income and comprehensive income 
+ 
+ $ 
+ 
+ 257,506 
+ 
+ 
+ 
+ 
+ 
+ 30 
+ 
+ % 
+ 
+ 
+ 
+ $ 
+ 
+ 213,616 
+ 
+ 
+ 
+ 
+ 
+ 32 
+ 
+ % 
+ 
+ 
+ * Less than 1% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) Includes stock-based compensation as follows 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of revenues 
+ 
+ $ 
+ 
+ 264 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 448 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Research and development 
+ 
+ 1,861 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2,296 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sales, general and administrative 
+ 
+ 660 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 975 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total stock-based compensation 
+ 
+ $ 
+ 
+ 2,785 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 3,719 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (2) Includes the excess tax benefits resulting from the adoption of ASU 2016-09 Stock Compensation 
+ 
+ $ 
+ 
+ (7,939 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ Revenues 
+ Revenues increased $198.9 million , or 30% , from $666.4 million in fiscal 2016 to $865.3 million in fiscal 2017 . The increase in revenues during fiscal 2017 was driven by increased adoption of our Enterprise Technologies products which represented 47% of our total revenue in fiscal 2017 and increased sales of new products offered to our Service Provider community, which represented 53% of our total revenue in fiscal 2017. 
+ There were no material price changes in the Company's products sold during fiscal 2017. 
+ 
+ 
+ 41 
+ 
+ Table of Contents 
+ 
+ 
+ Revenues by Product Type 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended June 30, 
+ 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 
+ (in thousands, except percentages) 
+ 
+ 
+ Service Provider Technology 
+ 
+ $ 
+ 
+ 455,598 
+ 
+ 
+ 
+ 
+ 
+ 53 
+ 
+ % 
+ 
+ 
+ 
+ $ 
+ 
+ 418,346 
+ 
+ 
+ 
+ 
+ 
+ 63 
+ 
+ % 
+ 
+ 
+ Enterprise Technology 
+ 
+ 409,670 
+ 
+ 
+ 
+ 
+ 
+ 47 
+ 
+ % 
+ 
+ 
+ 
+ 248,049 
+ 
+ 
+ 
+ 
+ 
+ 37 
+ 
+ % 
+ 
+ 
+ Total revenues 
+ 
+ $ 
+ 
+ 865,268 
+ 
+ 
+ 
+ 
+ 
+ 100 
+ 
+ % 
+ 
+ 
+ 
+ $ 
+ 
+ 666,395 
+ 
+ 
+ 
+ 
+ 
+ 100 
+ 
+ % 
+ 
+ Service Provider Technology revenues increased $37.3 million , or 9% , during fiscal 2017 , primarily due to increased revenue for Service Provider Technology products in all regions except Europe, the Middle East, and Africa ("EMEA"). 
+ Enterprise Technology revenues increased $161.6 million , or 65% , during fiscal 2017 , primarily due to product expansion and further adoption of our UniFi technology platform across all regions. 
+ Revenues by Geography 
+ We have determined the geographical distribution of our product revenues based on our customers' ship-to destinations. A majority of our sales are to distributors who in turn sell to resellers or directly to end customers, which may be different countries than the initial ship-to destination. The following are our revenues by geography for fiscal 2017 and fiscal 2016 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended June 30, 
+ 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 
+ (in thousands, except percentages) 
+ 
+ 
+ North America (1) 
+ 
+ $ 
+ 
+ 331,435 
+ 
+ 
+ 
+ 
+ 
+ 38 
+ 
+ % 
+ 
+ 
+ 
+ $ 
+ 
+ 239,526 
+ 
+ 
+ 
+ 
+ 
+ 36 
+ 
+ % 
+ 
+ 
+ South America 
+ 
+ 105,511 
+ 
+ 
+ 
+ 
+ 
+ 12 
+ 
+ % 
+ 
+ 
+ 
+ 85,036 
+ 
+ 
+ 
+ 
+ 
+ 13 
+ 
+ % 
+ 
+ 
+ Europe, the Middle East and Africa ("EMEA") 
+ 
+ 334,473 
+ 
+ 
+ 
+ 
+ 
+ 39 
+ 
+ % 
+ 
+ 
+ 
+ 264,404 
+ 
+ 
+ 
+ 
+ 
+ 39 
+ 
+ % 
+ 
+ 
+ Asia Pacific 
+ 
+ 93,849 
+ 
+ 
+ 
+ 
+ 
+ 11 
+ 
+ % 
+ 
+ 
+ 
+ 77,429 
+ 
+ 
+ 
+ 
+ 
+ 12 
+ 
+ % 
+ 
+ 
+ Total revenues 
+ 
+ $ 
+ 
+ 865,268 
+ 
+ 
+ 
+ 
+ 
+ 100 
+ 
+ % 
+ 
+ 
+ 
+ $ 
+ 
+ 666,395 
+ 
+ 
+ 
+ 
+ 
+ 100 
+ 
+ % 
+ 
+ (1) Revenue for the United States was $315.0 million and $225.6 million in fiscal 2017 and fiscal 2016 , respectively. 
+ North America 
+ Revenues in North America increased $91.9 million , or 38% , from $239.5 million in fiscal 2016 to $331.4 million in fiscal 2017 . The year-over-year increase was due to increased adoption of both our Service Provider and Enterprise Technology products. 
+ South America 
+ Revenues in South America increased $20.5 million , or 24% , from $85.0 million in fiscal 2016 to $105.5 million in fiscal 2017 . The year-over-year increase was due to increased adoption of both our Service Provider and Enterprise Technology products. 
+ Europe, the Middle East, and Africa ("EMEA") 
+ Revenues in EMEA increased $70.1 million , or 27% , from $264.4 million in fiscal 2016 to $334.5 million in fiscal 2017 . The year-over-year increase was primarily due to increased adoption of our Enterprise Technology products, offset, in part, by a decline in Service Provider Technology products. 
+ Asia Pacific 
+ Revenues in the Asia Pacific region increased $16.4 million , or 21% , from $77.4 million in fiscal 2016 to $93.8 million in fiscal 2017 . The year-over-year increase was due to increased adoption of our Enterprise Technology products. 
+ Cost of Revenues and Gross Profit 
+ Cost of revenues increased $128.0 million , or 37% , from $341.6 million in fiscal 2016 to $469.6 million in fiscal 2017 . The increase in fiscal 2017 was primarily due to our overall increase in revenue and to a lesser extent, an increase in cost associated with fulfillment operations, warranty accruals and inventory reserves. Gross profit margin decreased to 46% in fiscal 2017 compared to 49% in fiscal 2016 , which was primarily due to change in mix of products sold, increased costs associated with fulfillment operations, increased inventory obsolescence charges and warranty accruals. 
+ 
+ 
+ 42 
+ 
+ Table of Contents 
+ 
+ Operating Expenses 
+ Research and Development 
+ Research and development expenses increased $11.3 million , or 20% , from $57.8 million in fiscal 2016 to $69.1 million in fiscal 2017 . 
+ As a percentage of revenues, research and development expenses decreased from 9% in fiscal 2016 to 8% in fiscal 
+ 2017 . The increase in R&D expense in absolute dollars, was primarily due to increase in headcount, development activities and 
+ higher non-recurring engineering (NRE) payments, which was partially offset by the $2.5 million impairment charge for 
+ capitalized software development cost recognized in fiscal 2016. The increase in headcount and development cost reflects the 
+ increased efforts to broaden our research and development activities to introduce new products and new versions of existing 
+ products. As a percentage of revenue, R&D expense decreased primarily due to our overall increase in revenue. 
+ Sales, General and Administrative 
+ Sales, general and administrative expenses increased $3.6 million , or 11% from $33.3 million in fiscal 2016 to $36.9 million in fiscal 2017 . As a percentage of revenues, sales, general and administrative expenses decreased to 4% in fiscal 2017 , compared to 5% in fiscal 2016 . The increase in sales, general and administrative expenses in absolute dollars was primarily due to an 
+ increase in headcount in the administrative function and business development organization, and the overall increases in 
+ business development initiatives, partially offset by lower cost for interim management and advisory services to remediate internal control weaknesses. As a percentage of revenue, sales, general and administrative expenses decreased primarily due to our overall increase in revenue. 
+ Business e-mail compromise fraud (recovery) loss 
+ In June 2015, we determined that we were the victim of criminal fraud known to law enforcement authorities as business e-mail compromise fraud which involved employee impersonation and fraudulent requests targeting our finance department. The fraud resulted in transfers of funds aggregating $46.7 million held by a Company subsidiary incorporated in Hong Kong to other overseas accounts held by third parties. The Company recovered $8.1 million in fiscal 2015 and recorded a charge of $39.1 million in the fourth quarter of fiscal 2015, including additional expenses consisting of professional service fees associated with the fraud loss. In fiscal 2016, the Company recorded a net recovery of an additional $8.3 million, comprised of an $8.6 million recovery less $0.3 million of professional service fees associated with the recovery. 
+ The Company is continuing to pursue the recovery of the remaining $30.0 million and is cooperating with U.S. federal and numerous overseas law enforcement authorities who are actively pursuing a multi-agency criminal investigation. However, any additional recoveries are likely remote and therefore cannot be assured. 
+ Provision for Income Taxes 
+ Our provision for income taxes increased $1.2 million from $26.3 million for fiscal 2016 to $27.5 million for fiscal 2017 . Our effective tax rate decreased to 9.7% in fiscal 2017 as compared to 11.0% for fiscal 2016 . The effective tax rate decrease in fiscal 2017 was primarily due to tax benefit recognition as a result of the adoption of ASU 2016-09 of $7.9 million. 
+ 
+ Liquidity and Capital Resources 
+ Sources and Uses of Cash 
+ Our operations primarily have been funded through cash generated by operations and the availability of additional funds, under the Facilities. In fiscal 2018 we generated $322.9 million of free cash flow and used $260.4 million for financing activities, which was primarily driven by stock repurchases. We had cash and cash equivalents of $666.7 million , $604.2 million and $551.0 million at June 30, 2018 , 2017 and 2016 , respectively. 
+ Consolidated Cash Flow Data 
+ The following table sets forth the major components of our consolidated statements of cash flows data for the periods presented: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended June 30, 
+ 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 
+ (In thousands) 
+ 
+ 
+ Net cash provided by operating activities 
+ 
+ $ 
+ 
+ 332,047 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 112,036 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 197,508 
+ 
+ 
+ 
+ 
+ Net cash (used in) investing activities 
+ 
+ (9,115 
+ 
+ ) 
+ 
+ 
+ 
+ (7,232 
+ 
+ ) 
+ 
+ 
+ 
+ (6,248 
+ 
+ ) 
+ 
+ 
+ Net cash (used in) financing activities 
+ 
+ (260,449 
+ 
+ ) 
+ 
+ 
+ 
+ (51,637 
+ 
+ ) 
+ 
+ 
+ 
+ (86,630 
+ 
+ ) 
+ 
+ 
+ Net increase in cash and cash equivalents 
+ 
+ $ 
+ 
+ 62,483 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 53,167 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 104,630 
+ 
+ 
+ 
+ 
+ 43 
+ 
+ Table of Contents 
+ 
+ Cash Flows from Operating Activities 
+ Net cash provided by operating activities in fiscal 2018 consisted primarily of net income of $196.3 million , in addition to the changes in operating assets and liabilities that resulted in net cash inflows of $105.6 million . This net change was primarily driven by inflows arising from a $103.8 million increase in taxes payable primarily due to charges associated with the recent enactment of tax legislation, a $36.0 million decrease in inventory and $4.8 million decrease in vendor deposit, offset in part by $34.0 million increase in accounts receivable due to overall higher revenues. Overall, cash inflows from operating activities were driven by our net income for the period, which included non-cash adjustments primarily due to stock-based compensation, depreciation and amortization, increases to our provision for inventory obsolescence, increases to our provision for loss on vendor deposits and purchase commitments, and decreases to our deferred taxes. The net of these non-cash adjustments resulted in an increase to our net cash provided by operating activities of $30.2 million . 
+ Net cash provided by operating activities in fiscal 2017 consisted primarily of net income of $257.5 million partially offset by net changes in operating assets and liabilities that resulted in net cash outflows of $157.1 million. These net changes consisted primarily of a $87.0 million increase in inventory and $22.7 million increase in vendor deposits, due to an increase in warehouse stock levels in order to better support customers, support new product releases and reduce lead times, a $58.2 million increase in accounts receivable, offset in part by changes in operating assets and liabilities resulting in cash inflows, including a $7.2 million increase in accounts payable and accrued liabilities due to timing of payments. Overall, cash inflow from operating activities were driven by our net income, which included non-cash adjustments due to stock-based compensation, depreciation and amortization, increases to our provision for inventory obsolescence, and a decrease to our provision for losses on deposits with our vendors. The net of these non-cash adjustments resulted in an increase of our net cash provided by operating activities of $11.7 million. 
+ Net cash provided by operating activities in fiscal 2016 consisted primarily of net income of $213.6 million partially offset by net changes in operating assets and liabilities that resulted in net cash outflows of $27.1 million. This net change was primarily driven by outflows arising from a $20.0 million increase in inventory and a $9.3 million increase in vendor deposits, a $16.7 million increase in accounts receivable, offset in part by increases in various liabilities. Overall, cash inflows from operating activities were driven by our net income, which included non-cash adjustments due to stock-based compensation, depreciation and amortization, increases to our provision for inventory obsolescence, decreases to our provision for losses on deposits with our vendors, decreases in our allowance for doubtful accounts and taxes. The net of these non-cash adjustments resulted in an increase of our net cash provided by operating activities of $11.0 million. 
+ Cash Flows from Investing Activities 
+ We used $9.1 million of cash in investing activities during fiscal 2018 . Our investing activities consist of capital expenditures and purchases of intangible assets. Capital expenditures for fiscal 2018 , fiscal 2017 and fiscal 2016 were $9.0 million , $7.1 million , and $5.9 million , respectively. 
+ Cash Flows from Financing Activities 
+ We used $260.4 million of cash in financing activities during fiscal 2018 . During fiscal 2018, we generated $230.3 million of net funds from borrowing and repayments under the Company's credit facilities throughout the year (including net borrowing and repayments under our Second Amended & Restated Credit Agreement), offset in part by financing cash outflows of $445.0 million related to the repurchase of our common stock and $40.6 million of cash outflows associated with tax withholding related to net share settlement of equity awards. 
+ We used $51.6 million of cash in financing activities during fiscal 2017 . During fiscal 2017 we paid $105.2 million for repurchase of common stock. We also made principal repayments of $11.3 million on our outstanding Term Facility and $34.0 million on our Revolving Facility. These cash outflows were offset in part by financing cash inflows of $99.0 million related to draws under our Revolving Facility. 
+ We used $86.6 million of cash in financing activities during fiscal 2016 , primarily driven by repurchasing $193.5 million of our common stock. We also made repayments of $10.0 million on our outstanding term loan debt and $14.0 million on our outstanding revolving loans under the Amended Credit Agreement during fiscal 2016. These cash outflows were offset in part by financing cash inflows, including the draws made under the Revolving Facility totaling $130.0 million . 
+ Liquidity 
+ We believe our existing cash and cash equivalents, cash provided by operations and the availability of additional funds, under the Facilities, will be sufficient to meet our working capital, future stock repurchases, dividends, and capital expenditure needs for the next twelve months. However, this estimate is based on a number of assumptions that may prove to be wrong and we could exhaust our available cash and cash equivalents earlier than presently anticipated. Our future capital requirements may vary materially from those currently planned and will depend on many factors, including our rate of revenue growth, the timing and extent of spending to support development efforts, the timing of new product introductions, market acceptance of our 
+ 
+ 
+ 44 
+ 
+ Table of Contents 
+ 
+ products and overall economic conditions. As of June 30, 2018 , we held $105.4 million of our $666.7 million of cash and cash equivalents in accounts of our subsidiaries outside of the U.S. As a result of the 2017 Tax Act passed in December 2017, we expect to have flexibility to repatriate foreign earnings without additional significant U.S. tax impact going forward beyond our existing Transition Tax liabilities. See Note 11 in our consolidated financial statements for additional information regarding our Transition Tax liabilities. For a discussion of the risks associated with changes in applicable tax regulations, see “Part I-ITEM 1A. Risk Factors-Risks Related to our Business and Industry- Changes in applicable tax regulations could negatively affect our financial results.” 
+ 
+ Contractual Obligations and Off-Balance Sheet Arrangements 
+ The following table summarizes our contractual obligations as of June 30, 2018 : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Payments Due by Period 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year 1 
+ 
+ 
+ 
+ 1-3 Years 
+ 
+ 
+ 
+ 3-5 years 
+ 
+ 
+ 
+ Over 5 years 
+ 
+ 
+ 
+ Total 
+ 
+ 
+ 
+ 
+ 
+ 
+ (In thousands) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating leases 
+ 
+ 
+ 
+ $ 
+ 
+ 7,324 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 11,150 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 3,166 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 314 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 21,954 
+ 
+ 
+ 
+ 
+ Debt payment obligations 
+ 
+ 
+ 
+ 25,000 
+ 
+ 
+ 
+ 
+ 
+ 75,000 
+ 
+ 
+ 
+ 
+ 
+ 387,500 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 487,500 
+ 
+ 
+ 
+ 
+ Interest and other payments on debt payment obligations 
+ 
+ 
+ 
+ 20,934 
+ 
+ 
+ 
+ 
+ 
+ 38,277 
+ 
+ 
+ 
+ 
+ 
+ 24,500 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 83,711 
+ 
+ 
+ 
+ 
+ Purchase obligations 
+ 
+ 
+ 
+ 27,453 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 27,453 
+ 
+ 
+ 
+ 
+ Repatriation Tax 
+ 
+ 
+ 
+ 12,617 
+ 
+ 
+ 
+ 
+ 
+ 17,687 
+ 
+ 
+ 
+ 
+ 
+ 17,687 
+ 
+ 
+ 
+ 
+ 
+ 66,327 
+ 
+ 
+ 
+ 
+ 
+ 114,318 
+ 
+ 
+ 
+ 
+ Other obligations 
+ 
+ 
+ 
+ 435 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 435 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ 
+ 
+ $ 
+ 
+ 93,763 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 142,114 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 432,853 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 66,641 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 735,371 
+ 
+ 
+ Operating Leases 
+ The Company leases its headquarters in New York, NY and other locations worldwide under non-cancelable operating leases that expire at various dates through 2023 . 
+ Debt and Interest Payment Obligations 
+ On January 17, 2018, Ubiquiti Networks, Inc., the Cayman Borrower and certain subsidiaries entered into an amended and restated credit agreement (the "Second Amended & Restated Credit Agreement") with Wells Fargo, the other financial institutions named as lenders therein, and Wells Fargo as administrative agent for the lenders, that provides for a $400 million senior secured revolving credit facility (the "Revolving Facility") and a $500 million senior secured term loan facility (the "Term Facility", together with the Revolving Facility, the "Facilities"), with an option to request increases in the amounts of such credit facilities by up to an additional $300 million in the aggregate (any such increase to be in each lender's sole discretion). The maturity date of the Facilities is January 17, 2023. 
+ The Second Amended & Restated Credit Agreement replaced the Company's existing $425 million senior secured revolving facility and $100 million senior secured term facility under the Amended Credit Agreement. 
+ The Second Amended & Restated Credit Agreement requires the Company to maintain during the term of the Facilities (i) a maximum consolidated total leverage ratio of 3.25 to 1.00 and (ii) minimum liquidity of $250.0 million , which can be satisfied with unrestricted cash and cash equivalents and up to $50.0 million of availability under the Revolving Facility. Please see Note 7 of the Notes to the Consolidated Financial Statements for more information. We have calculated estimated interest payments for our debt based on the applicable rates and payments dates. Although our interest rates on our debt obligations may vary, we have assumed the most recent available interest rates for all years presented. 
+ Purchase Obligations 
+ We subcontract with third parties to manufacture our products. During the normal course of business, our contract manufacturers procure components and manufacture product based upon orders placed by us. If we cancel all or part of the orders, we may still be liable to the contract manufacturers for the cost of the components purchased by the subcontractors to manufacture our products. We periodically review the potential liability, and recorded $3.7 million purchase obligation liability related to FrontRow. There have been no other significant liabilities for cancellations recorded for fiscal 2018. Our consolidated financial position and results of operations could be negatively impacted if we were required to compensate the contract manufacturers for any unrecorded liabilities incurred. The Company had inventory purchase obligations of $26.1 million for finished goods and $1.3 million for raw materials as of June 30, 2018 . Additionally, we may be subject to additional purchase obligations for components ordered by our contract manufacturers based on manufacturing forecasts we provide them each month. We estimate the amount of these additional purchase obligation to range from $130 million to $200 million as of June 30, 2018, depending upon the timing of orders placed for these components by our manufacturers. 
+ 
+ 
+ 45 
+ 
+ Table of Contents 
+ 
+ Transition Tax 
+ The Company also had obligations of $114.3 million as of June 30, 2018 , related to Transition Tax as further described in Note 11. These obligations are included within Income tax payable and Long-term taxes payable on our Consolidated Balance Sheets. 
+ Other Obligations 
+ We had other obligations of $0.4 million as of June 30, 2018 , which consisted primarily of commitments related to tooling, research and development projects. 
+ Unrecognized Tax Benefits 
+ As of June 30, 2018 , we had $29.1 million and an additional $3.0 million for accrued interest, classified as non-current liabilities. At this time, we are unable to make a reasonably reliable estimate of the timing of payments in individual years in connection with these tax liabilities; therefore, such amounts are not included in the above contractual obligation table. 
+ 
+ Warranties and Indemnifications 
+ Our products are generally accompanied by a twelve-month warranty from date of purchase, which covers both parts and labor. Generally, the distributor is responsible for the freight costs associated with warranty returns, and we absorb the freight costs of replacing items under warranty. In accordance with the Financial Accounting Standards Board’s (“FASB’s”), Accounting Standards Codification (“ASC”), 450-20, Loss Contingencies, we record an accrual when we believe it is reasonably estimable and probable based upon historical experience. We record a provision for estimated future warranty work in cost of goods sold upon recognition of revenues, and we review the resulting accrual regularly and periodically adjust it to reflect changes in warranty estimates. 
+ We have entered and may in the future enter into standard indemnification agreements with certain distributors as well as other business partners in the ordinary course of business. These agreements may include provisions for indemnifying the distributor, OEM or other business partner against any claim brought by a third-party to the extent any such claim alleges that a Ubiquiti product infringes a patent, copyright or trademark or violates any other proprietary rights of that third-party. The maximum amount of potential future indemnification is unlimited. The maximum potential amount of future payments we could be required to make under these indemnification agreements is not estimable. 
+ We have agreed to indemnify our directors, officers and certain other employees for certain events or occurrences, subject to certain limits, while such persons are or were serving at our request in such capacity. We may terminate the indemnification agreements with these persons upon the termination of their services with us, but termination will not affect claims for indemnification related to events occurring prior to the effective date of termination. The maximum amount of potential future indemnification is unlimited. We have a Directors and Officers insurance policy that limits our potential exposure for our indemnification obligations to our directors, officers and certain other employees. We believe the fair value of these indemnification agreements is minimal. We had not recorded any liabilities for these agreements as of June 30, 2018 or 2017 . 
+ Based upon our historical experience and information known as of the date of this report, we do not believe it is likely that we will have significant liability for the above indemnities as of June 30, 2018 . 
+ Off-Balance Sheet Arrangements 
+ As of June 30, 2018 and 2017 , we had no off-balance sheet arrangements other than those indemnification agreements described above. 
+ 
+ Recent Accounting Pronouncements 
+ For a discussion of recent accounting pronouncements, refer to Note 2 to the Consolidated Financial Statements. 
+ 

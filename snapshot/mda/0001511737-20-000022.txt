@@ -1,0 +1,1111 @@
+ ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations 
+ 
+ 
+ Overview 
+ We develop technology platforms for high-capacity distributed Internet access, unified information technology, and consumer electronics for professional, home and personal use. We categorize our solutions in to three main categories: high performance networking technology for service providers, enterprises and consumers. We target the service provider and enterprise markets through our highly engaged community of service providers, distributors, value added resellers, systems integrators and corporate IT professionals, which we refer to as the Ubiquiti Community. We target consumers through digital marketing, retail chains and, to a lesser extent, the Ubiquiti Community. 
+ The majority of our human capital resources consist of entrepreneurial and de-centralized research and development (“R&D”) personnel. We do not employ a traditional direct sales force, but instead drive brand awareness through online reviews and publications, our website, our distributors and the Company’s user community where customers can interface directly with our R&D, marketing, and support teams. Our technology platforms were designed from the ground up with a focus on delivering highly-advanced and easily deployable solutions that appeal to a global customer base market. 
+ We offer a broad and expanding portfolio of networking products and solutions for operator-owners of wireless internet services (“WISP’s”), enterprises and smart homes. Our operator-owner service provider-product platforms provide carrier-class network infrastructure for fixed wireless broadband, wireless backhaul systems and routing and the related software for WISP’s to easily control, track and bill their customers. Our enterprise product platforms provide wireless LAN (“WLAN”) infrastructure, video surveillance products, switching and routing solutions, security gateways, and other complimentary WLAN products along with a unique software platform, which enables users to control their network from one simple, easy to use software interface. Our consumer products, sold under the Ubiquiti Labs brand name, are targeted to the smart home and highly connected consumers. We believe that our products are highly differentiated due to our proprietary software, firmware expertise, and hardware design capabilities. 
+ We distribute our products through a worldwide network of over 100 distributors and on-line retailers. The Company has a very broad installed base with over 101 million devices sold in over 200 countries and territories around the world, since inception. 
+ 
+ COVID-19 Update - The 2019 novel coronavirus (COVID-19), which the World Health Organization (“WHO”) characterized as a pandemic in March 2020, continues to disrupt global economies, and has spread to the major markets in which we operate, including the United States, Asia, Europe and South America. The COVID-19 pandemic has resulted in significant governmental measures being implemented to control the spread of the virus, including, among others, restrictions on travel, stay-at-home orders or work remote or from home conditions in many of the locations where we have offices. We have taken and will continue to take precautionary measures intended to help minimize the risk of COVID-19 to our employees. While we have not yet experienced a significant disruption to the productivity of our employees as a result of the COVID-19 pandemic, if the stay-at-home orders or work remote or from home conditions in any of our facilities continue for an extended period of time, or if we have an outbreak in any of our facilities, we may, among other issues, experience delays in product development, a decreased ability to support our customers, disruptions in sales and an overall lack of productivity. We have experienced a disruption in our supply chain as a result of the COVID-19 related restrictions that have impacted our suppliers’ ability to manufacture or provide key components or services, and we have incurred, and continue to incur, additional cost to expedite deliveries of components and services. While our ability to procure components and services has improved, the disruptions in our supply chain have not been fully remediated. The extent to which the COVID-19 pandemic impacts our business going forward will depend on numerous evolving factors we cannot reliably predict, including further disruptions to our supply chain, reductions in demand due to disruptions in the operations of our customers or their end customers, disruptions in local and global economies, volatility in the global financial markets, overall reductions in demand, restrictions on the export or shipment of our products or other COVID-19-related events. This uncertainty also affects management’s accounting estimates and assumptions, which could result in greater variability in a variety of areas that 
+ 
+ 
+ 32 
+ 
+ Table of Contents 
+ depend on these estimates and assumptions. Refer to Risk Factors (Part I, ITEM 1A of this Form 10-K) for a discussion of these factors and other risks. 
+ 
+ 
+ Key Components of Our Results of Operations and Financial Condition 
+ 
+ Revenues 
+ 
+ We operate our business as one reportable and operating segment. Further information regarding Segments can be found in Note 15 to our Consolidated Financial Statements. Our revenues are derived principally from the sale of networking hardware. Because we have historically included implied post-contract customer support (“PCS”) free of charge in many of our arrangements, we attribute a portion of our systems revenues to this implied PCS. 
+ 
+ We classify our revenues into two primary product categories: Service Provider Technology and Enterprise Technology. 
+ 
+ • Service Provider Technology includes our airMAX, EdgeMAX, UFiber, and airFiber platforms, as well as embedded radio products and other 802.11 standard products including base stations, radios, backhaul equipment and CPE. Additionally, Service Provider Technology includes antennas and other products primarily in the 0.9 to 6.0 GHz spectrum and miscellaneous products such as mounting brackets, cables and power over Ethernet adapters. 
+ 
+ • Enterprise Technology includes our UniFi platforms, including UniFi enterprise Wi-Fi, UniFi Protect, UniFi switching and routing solutions and our AmpliFi platform 
+ 
+ We sell our products and solutions globally to service providers and enterprises primarily through our extensive network of distributors, and, to a lesser extent, direct customers. Sales to distributors accounted for 93% of our revenues in the year ended June 30, 2020. 
+ 
+ Cost of Revenues 
+ Our cost of revenues is comprised primarily of the costs of procuring finished goods from our contract manufacturers and certain key components that we consign to certain of our contract manufacturers. In addition, cost of revenues includes labor and other costs w hich include salary, benefits and stock-based compensation, in addition to costs associated with tooling, testing and quality assurance, warranty costs, logistics costs, tariffs and excess and obsolete inventory write-downs. 
+ We currently operate warehouses located in U.S. and the Czech Republic. In addition, we outsource other logistics warehousing and order fulfillment functions located in China and to a lesser extent in other countries. We also evaluate and utilize other vendors for various portions of our supply chain from time to time. Our operations organization consists of employees and consultants engaged in the management of our contract manufacturers, new product introduction activities, logistical support and engineering. 
+ 
+ Gross Profit 
+ 
+ Our gross profit has been, and may in the future be, influenced by several factors including changes in product mix, target end markets for our products, channel inventory levels, tariffs, pricing due to competitive pressure, production costs and global demand for electronic components. Although we procure and sell our products mostly in U.S. dollars, our contract manufacturers incur many costs, including labor costs, in other currencies. To the extent that the exchange rates move unfavorably for our contract manufacturers, they may try to pass these additional costs on to us, which could have a material impact on our future average selling prices and unit costs. In June 2018, the Office of the United States Trade Representative announced new proposed tariffs for certain products imported into the U.S. from China. The vast majority of our products that are imported into the U.S. from China are currently subject to tariffs that range between 7.5% and 25%. On January 22, 2020, the United States of Trade Representative announced it will reduce Section 301 List 4A additional tariffs from 15% to 7.5% and the List 4B tariffs would not go into effect. These tariffs have already affected our operating results and margins. For so long as such tariffs are in effect, we expect it will continue to affect our operating results and margins. As a result, our historical and current gross profit margins may not be indicative of our gross profit margins for future periods. Refer to “Part I—ITEM 1A. Risk Factors—Risks Related to Our International Operations—Our business may be negatively affected by political events and foreign policy responses” for additional information. 
+ 
+ Operating Expenses 
+ 
+ We classify our operating expenses as research and development, selling, general and administrative expenses, litigation expenses and expense related to the business email compromise fraud loss. 
+ 
+ 
+ 
+ 33 
+ 
+ Table of Contents 
+ • Research and development expenses consist primarily of salary and benefit expenses, including stock-based compensation, for employees and costs for contractors engaged in research, design and development activities, as well as costs for prototypes, licensed or purchased intellectual property, facilities and travel. Over time, we expect our research and development costs to increase as we continue making significant investments in developing new products in addition to new versions of our existing products. 
+ 
+ • Sales, general and administrative expenses include salary and benefit expenses, including stock-based compensation, for employees and costs for contractors engaged in sales, marketing and general and administrative activities, as well as the costs of legal expenses, trade shows, marketing programs, promotional materials, bad debt expense, professional services, facilities, general liability insurance and travel. As our product portfolio and targeted markets expand, we may need to employ different sales models, such as building a traditional direct sales force. These sales models would likely increase our costs. Over time, we expect our sales, general and administrative expenses to increase in absolute dollars due to continued growth in headcount, expansion of our efforts to register and defend trademarks and patents and to support our business and operations. 
+ Provisions for Income Taxes 
+ 
+ We use the asset and liability method to account for income taxes. Significant management judgment is required in determining the provision for income taxes, deferred tax assets and liabilities and any valuation allowance recorded against net deferred tax assets. In preparing the consolidated financial statements, we are required to estimate income taxes in each of the jurisdictions in which we operate. The Company must assess such potential exposures and, where necessary, provide a reserve to cover any expected loss. To the extent that the Company establishes a reserve, its provision for income taxes would be increased. If the Company ultimately determines that payment of these amounts is unnecessary, it reverses the liability and recognizes a tax benefit during the period in which it determines that the liability is no longer necessary. The Company records an additional charge in its provision for taxes in the period in which it determines that tax liability is greater than its original estimate. The Company recognizes interest and penalties related to unrecognized tax benefits on the income tax expense line in the accompanying consolidated statement of operations and comprehensive income. Refer to “Part I—ITEM 1A. Risk Factors—Risks Related to Regulatory, Legal and Tax Matters—Changes in applicable tax regulations could negatively affect our financial results” for additional information. 
+ 
+ 
+ Critical Accounting Policies 
+ 
+ We prepare our consolidated financial statements in accordance with accounting principles generally accepted in the United States of America (“GAAP”). In many cases, the accounting treatment of a particular transaction is specifically dictated by GAAP and does not require management’s judgment in its application. In other cases, management’s judgment is required in selecting among available alternative accounting standards that provide for different accounting treatment for similar transactions. The preparation of consolidated financial statements also requires us to make estimates and assumptions that affect the amounts we report as assets, liabilities, revenues, costs and expenses and affect the related disclosures. We base our estimates on historical experience and other assumptions that we believe are reasonable under the circumstances. In many instances, we could reasonably use different accounting estimates, and in some instances, changes in the accounting estimates are reasonably likely to occur from period to period. Accordingly, our actual results could differ significantly from the estimates made by our management. To the extent that there are differences between our estimates and actual results, our future financial statement presentation, financial condition, results of operations and cash flows will be affected. Additionally, as the COVID-19 pandemic continues to develop, many of our estimates could require increased judgement and carry a higher degree of variability and volatility. As events continue to evolve our estimates may change materially in future periods. We believe that the accounting policies discussed below are critical to understanding our historical and future performance, as these policies relate to the more significant areas involving management’s judgments and estimates. 
+ 
+ Recognition of Revenues 
+ 
+ Revenue consists of revenue from sales of hardware and the related essential software (“Products”) as well as related implied PCS. We recognize revenue when obligations under the terms of a contract with our customers are satisfied, generally, upon transfer of control of promised goods or services to customers, in an amount that reflects the consideration we expect to be entitled to receive in exchange for those goods or services. We apply the following five-step revenue recognition model: 
+ 
+ • Identification of the contract, or contracts with a custome r 
+ • Identification of the performance obligations in the contract 
+ • Determination of the transaction price 
+ • Allocation of the transaction price to the performance obligations in the contract 
+ • Recognition of revenue when, or as, we satisfy the performance obligation 
+ 
+ 
+ 34 
+ 
+ Table of Contents 
+ 
+ Transfer of control to the customer for products generally occurs at the point in time when products have been shipped to our customer as this represents the point in time when the customer has a present obligation to pay and physical possession including title and risk of loss have been transferred to the customer. Revenue for PCS is recognized ratably over time over the estimated period for which implied PCS services will be delivered. 
+ 
+ PCS is the right to receive, on a when-and-if available basis, future unspecified software upgrades and features relating to the product’s essential software as well as technical support and bug fixes. 
+ 
+ The Company accounts for a contract with a customer when there is an approval and commitment from both parties, the rights of the parties are identified, payment terms are identified, the contract has commercial substance and collectability of the consideration is probable. The Company’s distinct performance obligations consist mainly of transferring control of its products identified in the contracts, purchase orders or invoices and implied PCS services. 
+ 
+ Our contracts with the majority of our distribution customers do not include provisions for cancellations, returns, inventory swaps, or refunds that materially impact recognize d revenue. Internet or Web based sales include regulatory provisions which allow customers to return the goods, generally within 30 days and did not materially impact recognized revenue. 
+ 
+ We record amounts billed to distributors for shipping and handling costs as revenues. We classify shipping and handling costs incurred by us as cost of revenue. Deposits payments received from distributors in advance of recognition of revenues are included in current liabilities of our balance sheet and are recognized as revenues when all the criteria for recognition of revenues are met. 
+ 
+ Transaction price and allocation to performance obligations 
+ 
+ Transaction prices are typically based on contracted rates. Although payment terms vary, payment is generally due from customers within 60 days of the invoice date and the contracts do not have significant financing components or include extended payment terms. The Company is directly responsible for fulfilling its performance obligations in contracts with customers and does not rely on another party to fulfill its promise. We use observable list prices to determine the stand-alone selling price of our performance obligation related to our products, and we utilize a cost-plus margin approach to estimate the stand-alone selling price of our implied PCS obligation. When our contracts contain multiple performance obligation, we allocate the transaction price based on the estimated standalone selling price s of the promised products or services underlying each performance obligation. 
+ 
+ The expected costs associated with our base warranties continue to be recognized as an expense when the products are sold and is not considered a separate performance obligation. 
+ 
+ Costs for research and development and sales and marketing are expensed as incurred. If the estimated life of the 
+ hardware product should change, the future rate of amortization of the revenues allocated to PCS could also change. 
+ 
+ Key factors considered by the Company in developing the estimated cost in the cost plus margin approach for PCS includes reviewing the activities for PCS include reviewing the activities of specific employees engaged in support and software enhancements to determine the amount of time that is allocated to the development of the undelivered elements, determining the cost of this development effort, and then adding an appropriate level of gross profit to these costs. 
+ 
+ Inventory and Inventory Valuation 
+ 
+ The Company’s inventories are primarily finished goods and, to a lesser extent, raw materials. Inventories are stated at the lower of actual cost, computed using the first-in, first-out method, or Net Realizable Value (NRV). NRV is based upon an estimated average selling price reduced by the estimated costs of disposal. The determination of NRV involves numerous judgments including estimating average selling prices based upon recent sales, industry trends, existing customer orders, and seasonal factors. Should actual market conditions differ from the Company’s estimates, future results of operations could be materially affected. The Company reduces the value of its inventory for estimated obsolescence or lack of marketability by the difference between the cost of the affected inventory and the estimated market value. Write-downs are not reversed until the related inventory has been subsequently sold or scrapped. 
+ 
+ The valuation of inventory also requires the Company to estimate excess and obsolete inventory. The determination of excess or obsolete inventory is estimated based on a comparison of the quantity and cost of inventory on hand to the Company’s forecast of customer demand. Customer demand is dependent on various factors and requires the Company to use judgment in forecasting future demand for these products. The Company also considers the rate at which new products will be accepted in the marketplace and how quickly customers will transition from older products to newer products. If actual market conditions are less favorable than 
+ 
+ 
+ 35 
+ 
+ Table of Contents 
+ those projected by management, additional inventory write-downs may be required, which would have a negative impact on the Company’s gross margin. If the Company ultimately sells inventory that has been previously written down, the Company’s gross margins in future periods would be positively impacted. 
+ 
+ The Company capitalizes manufacturing overhead expenditures as part of inventory costs. Capitalized costs primarily include management’s best estimate of the direct labor, tariffs and materials costs incurred related to inventory acquired or produced but not sold during the respective period. Manufacturing overhead costs are capitalized to inventory and are recognized as cost of revenues in future periods based on the Company’s rate of inventory turnover. 
+ 
+ Income Taxes 
+ 
+ We account for income taxes by recognizing deferred tax assets and liabilities for the expected future tax consequences of events that have been included in our financial statements or tax returns. Deferred tax assets and liabilities are determined based on the temporary differences between the financial statement carrying amounts of existing assets and liabilities and their respective tax bases. Deferred tax assets and liabilities are measured using enacted tax rates expected to apply to taxable income in the years in which those temporary differences are expected to be recovered or settled. We establish valuation allowances when necessary to reduce deferred tax assets to the amount we expect to realize. The assessment of whether or not a valuation allowance is required often requires significant judgment including current operating results, the forecast of future taxable income and ongoing prudent and feasible tax planning initiatives. 
+ 
+ In addition, our calculation of our tax liabilities involves dealing with uncertainties in the application of complex tax laws. We may be subject to income tax audits in each of the jurisdictions in which we operate and, as a result, must also assess exposures to any potential issues arising from current or future audits of current and prior years’ tax returns. Accordingly, we must assess such potential exposures and, where necessary, provide a reserve to cover any expected loss. The Company recognizes tax benefits from uncertain tax positions only if it is more likely than not that the tax position will be sustained on examination by the taxing authorities, based on the technical merits of the position. The tax benefits recognized in the financial statements from such positions are then measured based on the largest benefit that has a greater than 50% likelihood of being realized upon ultimate settlement. 
+ 
+ The calculation of tax liabilities involves significant judgment in estimating the impact of uncertainties in the application of GAAP and complex tax laws. Resolution of these uncertainties in a manner inconsistent with management’s expectations could have a material impact on the Company’s financial condition and operating results. We reflect changes in recognition or measurement in the period in which our change in judgment occurs. 
+ 
+ The Company recognizes interest and penalties related to unrecognized tax benefits on the income tax expense line in the accompanying consolidated statement of operations. Accrued interest and penalties are included on the related tax liability line in the consolidated balance sheet. 
+ 
+ 
+ Results of Operations 
+ 
+ Comparison of Years Ended June 30, 2020 and 2019 
+ 
+ 
+ 
+ 36 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended June 30, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2020 
+ 
+ 
+ 
+ 2019 
+ 
+ 
+ 
+ 
+ 
+ (In thousands, except percentages) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Revenues 
+ $ 
+ 1,284,500 
+ 
+ 
+ 100 
+ % 
+ 
+ $ 
+ 1,161,733 
+ 
+ 
+ 100 
+ % 
+ 
+ 
+ 
+ Cost of revenues (1) 
+ 676,328 
+ 
+ 
+ 53 
+ % 
+ 
+ 624,129 
+ 
+ 
+ 54 
+ % 
+ 
+ 
+ Gross profit 
+ 608,172 
+ 
+ 
+ 47 
+ % 
+ 
+ 537,604 
+ 
+ 
+ 46 
+ % 
+ 
+ 
+ Operating expenses: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Research and development (1) 
+ 89,405 
+ 
+ 
+ 7 
+ % 
+ 
+ 82,070 
+ 
+ 
+ 7 
+ % 
+ 
+ 
+ 
+ Sales, general and administrative (1) 
+ 40,569 
+ 
+ 
+ 3 
+ % 
+ 
+ 43,237 
+ 
+ 
+ 4 
+ % 
+ 
+ 
+ Litigation settlement 
+ — 
+ 
+ 
+ — 
+ % 
+ 
+ 18,000 
+ 
+ 
+ 2 
+ % 
+ 
+ 
+ Total operating expenses 
+ 129,974 
+ 
+ 
+ 10 
+ % 
+ 
+ 143,307 
+ 
+ 
+ 13 
+ % 
+ 
+ 
+ Income from operations 
+ 478,198 
+ 
+ 
+ 37 
+ % 
+ 
+ 394,297 
+ 
+ 
+ 34 
+ % 
+ 
+ 
+ Interest expense and other, net 
+ (28,002) 
+ 
+ 
+ * 
+ 
+ (12,808) 
+ 
+ 
+ * 
+ 
+ 
+ Income before income taxes 
+ 450,196 
+ 
+ 
+ 35 
+ % 
+ 
+ 381,489 
+ 
+ 
+ 33 
+ % 
+ 
+ 
+ 
+ Provision for income taxes 
+ 69,899 
+ 
+ 
+ 5 
+ % 
+ 
+ 58,795 
+ 
+ 
+ 5 
+ % 
+ 
+ 
+ Net Income 
+ $ 
+ 380,297 
+ 
+ 
+ 30 
+ % 
+ 
+ $ 
+ 322,694 
+ 
+ 
+ 28 
+ % 
+ 
+ 
+ * Less than 1% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) Includes stock-based compensation as follows 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of revenues 
+ $ 
+ 121 
+ 
+ 
+ 
+ 
+ $ 
+ 347 
+ 
+ 
+ 
+ 
+ 
+ Research and development 
+ 2,022 
+ 
+ 
+ 
+ 
+ 2,045 
+ 
+ 
+ 
+ 
+ 
+ Sales, general and administrative 
+ 745 
+ 
+ 
+ 
+ 
+ 498 
+ 
+ 
+ 
+ 
+ 
+ Total stock-based compensation 
+ $ 
+ 2,888 
+ 
+ 
+ 
+ 
+ $ 
+ 2,890 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Revenues 
+ 
+ Revenues increased $122.8 million, or 11%, from $1.2 billion in fiscal 2019 to $1.3 billion in fiscal 2020. During fiscal year ended June 30, 2020, there were no material price changes in the Company’s products sold. However, the Company continues to introduce new products which may have average selling prices and margins different than our legacy products. 
+ 
+ Revenues by Product Type 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended June 30, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2020 
+ 
+ 
+ 
+ 2019 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (in thousands, except percentages) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Service Provider Technology 
+ $ 
+ 442,023 
+ 
+ 
+ 34 
+ % 
+ 
+ $ 
+ 428,490 
+ 
+ 
+ 37 
+ % 
+ 
+ 
+ 
+ 
+ 
+ Enterprise Technology 
+ 842,477 
+ 
+ 
+ 66 
+ % 
+ 
+ 733,243 
+ 
+ 
+ 63 
+ % 
+ 
+ 
+ 
+ 
+ 
+ Total revenues 
+ $ 
+ 1,284,500 
+ 
+ 
+ 100 
+ % 
+ 
+ $ 
+ 1,161,733 
+ 
+ 
+ 100 
+ % 
+ 
+ 
+ 
+ 
+ 
+ Service Provider Technology revenues increased $13.5 million, or 3.2%, from $428.5 million in fiscal 2019, to $442.0 million in fiscal 2020, primarily due to increased revenue in North America and EMEA, partially offset by a decrease in Asia Pacific and South America. 
+ 
+ Enterprise Technology revenues increased $109.2 million, or 14.9%, from $733.2 million in fiscal 2019, to $842.5 million in fiscal 2020 primarily due to product expansion and further adoption of our UniFi technology platform across all regions. 
+ 
+ Revenues by Geography 
+ 
+ We have determined the geographical distribution of our product revenues based on our customers’ ship-to destinations. A majority of our sales are to distributors who in turn sell to resellers or directly to end customers, which may be in different countries than the initial ship-to destination. The following are our revenues by geography for fiscal 2020 and fiscal 2019: 
+ 
+ 
+ 37 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended June 30, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2020 
+ 
+ 
+ 
+ 2019 
+ 
+ 
+ 
+ 
+ (in thousands, except percentages) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ North America (1) 
+ $ 
+ 571,901 
+ 
+ 
+ 45 
+ % 
+ 
+ $ 
+ 497,218 
+ 
+ 
+ 43 
+ % 
+ 
+ Europe, the Middle East and Africa 
+ 517,132 
+ 
+ 
+ 40 
+ % 
+ 
+ 477,332 
+ 
+ 
+ 41 
+ % 
+ 
+ Asia Pacific 
+ 112,121 
+ 
+ 
+ 9 
+ % 
+ 
+ 108,460 
+ 
+ 
+ 9 
+ % 
+ 
+ South America 
+ 83,346 
+ 
+ 
+ 6 
+ % 
+ 
+ 78,723 
+ 
+ 
+ 7 
+ % 
+ 
+ Total revenues 
+ $ 
+ 1,284,500 
+ 
+ 
+ 100 
+ % 
+ 
+ $ 
+ 1,161,733 
+ 
+ 
+ 100 
+ % 
+ (1) Revenue for the United States was $539.0 million and $469.8 million in fiscal 2020 and fiscal 2019, respectively. 
+ 
+ North America 
+ 
+ Revenues in North America increased $74.7 million, or 15.0%, from $497.2 million in fiscal 2019 to $571.9 million in fiscal 2020. The year-over-year increase was primarily due to increased revenues from both our Enterprise Technology and Service Provider Technology products. 
+ 
+ South America 
+ 
+ Revenues in South America increased $4.6 million, or 5.9%, from $78.7 million in fiscal 2019 to $83.3 million in fiscal 2020. The year-over-year increase was primarily due to increased revenue from our Enterprise Technology products, partially offset by decreased revenue in our Service Provider Technology products. 
+ 
+ Europe, the Middle East, and Africa (“EMEA”) 
+ 
+ Revenues in EMEA increased $39.8 million, or 8.3%, from $477.3 million in fiscal 2019 to $517.1 million in fiscal 2020. The year-over-year increase was due to increased revenues from both our Enterprise Technology products and Service Provider Technology products. 
+ 
+ Asia Pacific 
+ 
+ Revenues in the Asia Pacific region increased $3.7 million, or 3.4%, from $108.5 million in fiscal 2019 to $112.1 million in fiscal 2020. The year-over-year increase was primarily due to increased revenue from our Enterprise Technology products, partially offset by decreased revenue in our Service Provider Technology products. 
+ 
+ Cost of Revenues and Gross Profit 
+ 
+ Cost of revenues increased $52.2 million, or 8.4%, from $624.1 million in fiscal 2019 to $676.3 million in fiscal 2020. The increase in fiscal 2020 was primarily due to cost increase associated with an overall increase in revenue, higher indirect costs, higher tariffs and expedited shipping costs. 
+ 
+ Gross profit margin increased to 47.3% in fiscal 2020 from 46.3% in fiscal 2019. The increase was primarily driven by favorable changes in product mix, partially offset by higher tariffs and expedited shipping costs. 
+ 
+ Operating Expenses 
+ 
+ Research and Development 
+ 
+ Research and development (“R&D”) expenses increased $7.3 million, or 8.9%, from $82.1 million in fiscal 2019 to $89.4 million in fiscal 2020. As a percentage of revenues, research and development expenses decreased from 7.1% in fiscal 2019 to 7.0% in fiscal 2020. The increase in R&D expense in absolute dollars was primarily driven by higher-employee related expenses and general development activities. 
+ 
+ Sales, General and Administrative 
+ 
+ Sales, general and administrative (“SG&A”) expenses decreased $2.7 million, or 6.2%, from $43.2 million in fiscal 2019 to $40.6 million in fiscal 2020. As a percentage of revenues, sales, general and administrative expenses decreased from 3.7% in fiscal 2019 to 3.2% in fiscal 2020. The decrease in SG&A in absolute dollars was primarily due to lower professional fees and employee related costs offset, in part by higher marketing expenses, increased service fees and higher depreciation. 
+ 
+ 
+ 38 
+ 
+ Table of Contents 
+ 
+ Provision for Income Taxes 
+ 
+ Our provision for income taxes increased 18.9% from $58.8 million for fiscal 2019 to $69.9 million for fiscal 2020. Our effective tax rate increased to 15.5% in fiscal 2020 as compared to 15.4% for fiscal 2019. The slight increase in the effective tax rate in fiscal 2020 is primarily due to the mix of earnings earned in various jurisdictions. 
+ 
+ Comparison of Year Ended June 30, 2019 and 2018 
+ 
+ Pursuant to Regulation S-K ITEM 303, a detailed review of our fiscal 2019 performance compared to our fiscal 2018 performance is set forth in Part II, ITEM 7 of our Annual Report on Form 10-K for the fiscal year ended June 30, 2019 under the caption “ Management’s Discussion and Analysis of Financial Condition and Results of Operations” , filed with the SEC on August 21, 2019. 
+ 
+ 
+ Liquidity and Capital Resources 
+ 
+ Sources and Uses of Cash 
+ 
+ Our principal source of liquidity are cash and cash equivalents, cash generated by operations, the availability of additional funds under the Facilities and short-term and long-term investments. We had cash and cash equivalents of $142.6 million and $238.1 million at June 30, 2020 and 2019, respectively. 
+ 
+ In fiscal year 2019 the Company began investing cash in various fixed income available-for-sale securities. As of June 30, 2020 and 2019 we held $2.5 million and $103.3 million respectively, in available-for-sale securities. Our securities investment portfolio consists of high quality, investment grade securities from diverse issuers. Refer to “Part I—ITEM 1A. Risk Factors—Risks Related to Our Business and Operations—We may experience risks in our investments due to changes in the market, which could adversely affect the value or liquidity of our investments.” for additional information. 
+ 
+ Consolidated Cash Flow Data 
+ 
+ The following table sets forth the major components of our consolidated statements of cash flows data for the periods presented: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended June 30, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2020 
+ 
+ 2019 
+ 
+ 
+ 
+ 
+ (In thousands) 
+ 
+ 
+ 
+ 
+ 
+ Net cash provided by operating activities 
+ $ 
+ 460,284 
+ 
+ 
+ $ 
+ 259,258 
+ 
+ 
+ 
+ 
+ Net cash provided by (used in) investing activities 
+ 69,584 
+ 
+ 
+ (157,567) 
+ 
+ 
+ 
+ 
+ Net cash (used in) financing activities 
+ (625,398) 
+ 
+ 
+ (530,225) 
+ 
+ 
+ 
+ 
+ Net (decrease) increase in cash and cash equivalents 
+ $ 
+ (95,530) 
+ 
+ 
+ $ 
+ (428,534) 
+ 
+ 
+ 
+ 
+ Cash Flows from Operating Activities 
+ 
+ Net cash provided by operating activities in fiscal 2020 consisted primarily of net income of $380.3 million, in addition to the changes in operating assets and liabilities that resulted in net cash inflows of $52.4 million. This net change consisted primarily of $28.1 million increase in inventory, $10.8 million increase in prepaid and other assets, and a $3.5 million decrease in taxes payable due to the timing of federal tax payments, partially offset by $3.1 million decrease in vendor deposits and a $76.9 million increase in accounts payable and accrued liabilities. 
+ 
+ Net cash provided by operating activities in fiscal 2019 consisted primarily of net income of $322.7 million, partially offset by the changes in operating assets and liabilities that resulted in net cash outflow of $78.3 million. This net change was primarily driven by outflows arising from $163.7 million increase in inventory and $15.8 million increase in prepaid and other assets, partially offset by $27.7 million decrease in vendor deposits, a $16.3 million increase in taxes payable due to the timing of federal tax payments and a $29.3 million increase in accounts payable and accrued liabilities. 
+ 
+ Cash Flows from Investing Activities 
+ 
+ Net cash provided by investing activities during fiscal 2020 was $69.6 million. Our investing activities consisted primarily of cash inflows of $100.2 million net proceeds from our available-for-sale securities offset, in part by $30.6 million of capital expenditures. 
+ 
+ 
+ 39 
+ 
+ Table of Contents 
+ We used $157.6 million of cash investing during fiscal 2019. During fiscal 2019 our investing activities consisted of net purchases of available-for-sale securities of $100.9 million, $51.7 million of capital expenditures and purchase of intangible assets, and a $5.0 million purchase of a private equity investment. 
+ 
+ Cash Flows from Financing Activities 
+ We used $625.4 million of cash in financing activities during fiscal 2020. During fiscal 2020, we generated $157.5 million of net funds from borrowing and repayments under the Facilities, which were more than offset by financing cash outflows of $700.1 million related to repurchase of common stock, $78.7 million related to dividends paid on our common stock and $3.1 million of debt issuance costs related to the Third Amendment. See Note 8- Debt of the Notes to our Consolidated Financial Statements included in Part IV, ITEM 15 of this Annual Report on Form 10-K for additional information regarding the Facilities. 
+ 
+ We used $530.2 million of cash in financing activities during fiscal 2019. During fiscal 2019, we had financing cash outflow of $468.2 million related to the repurchase of our common stock, $71.4 million related to dividends paid on our common stock and $25.0 million repayment on our term loan under our credit facility. These outflows were partially offset with $35.0 million draws on our revolving facility. 
+ 
+ Liquidity 
+ 
+ We believe our existing cash and cash equivalents, cash provided by operations and the availability of additional funds under our Facilities will be sufficient to meet our working capital, future stock repurchases, dividends, and capital expenditure needs for the next twelve months. However, this estimate is based on a number of assumptions that may prove to be wrong and we could exhaust our available cash and cash equivalents earlier than presently anticipated or need to rely more heavily on our Facilities or other sources of liquidity to continue to meet our needs. Our future capital requirements may vary materially from those currently planned and will depend on many factors, including our rate of revenue growth, the timing and extent of spending to support development efforts, the timing of new product introductions, market acceptance of our products, the availability of additional funds under our Facilities and overall economic conditions. The COVID-19 pandemic and resulting global disruptions have caused significant volatility in financial markets and the domestic and global economy. This disruption can contribute to potential payment delays or defaults in our accounts receivable, affect asset valuations resulting in impairment charges, and affect the availability of financing credit as well as other segments of the credit markets. For a further discussion of the uncertainties and business risks associated with the COVID-19 pandemic, refer to “Part I-ITEM 1A. Risk Factors – Risks Related to Our Business and Industry - Our contract manufacturers, logistics centers and certain administrative and research and development operations, as well as our customers and suppliers, are located in areas likely to be subject to natural disasters and public health problems, which could adversely affect our business, results of operations and financial condition” for additional information. We expect to continue to maintain financing flexibility in the current market conditions. However, due to the rapidly evolving global situation, it is not possible to predict whether unanticipated consequences of the pandemic are reasonably likely to materially affect our liquidity and capital resources in the future. 
+ 
+ 
+ Contractual Obligations and Off-Balance Sheet Arrangements 
+ Our contractual obligations represent material expected or contractually committed future payment obligations. We believe that we will be able to fund these obligations through our existing cash and cash equivalents, cash generated from operations and the availability of additional funds under the Facilities. 
+ 
+ The following table summarizes our contractual obligations as of June 30, 2020 (in thousands): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Payments Date by Period 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year 1 
+ 
+ 1-3 Years 
+ 
+ 3-5 Years 
+ 
+ More than 5 Years 
+ 
+ Total 
+ 
+ Operating Leases 
+ 
+ 7,856 
+ 
+ 
+ 8,318 
+ 
+ 
+ 6,753 
+ 
+ 
+ 5,476 
+ 
+ 
+ 28,403 
+ 
+ 
+ Debt Payments 
+ 
+ 25,000 
+ 
+ 
+ 630,000 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ 655,000 
+ 
+ 
+ 
+ Interest and other payments on debt payment obligations (1) 
+ 
+ 13,953 
+ 
+ 
+ 20,669 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ 34,622 
+ 
+ 
+ Transition tax 
+ 
+ 9,004 
+ 
+ 
+ 18,007 
+ 
+ 
+ 39,391 
+ 
+ 
+ 28,137 
+ 
+ 
+ 94,539 
+ 
+ 
+ Other Obligations 
+ 
+ 21,077 
+ 
+ 
+ 40,000 
+ 
+ 
+ 6,667 
+ 
+ 
+ — 
+ 
+ 
+ 67,744 
+ 
+ 
+ Total 
+ 
+ $ 
+ 76,890 
+ 
+ 
+ $ 
+ 716,994 
+ 
+ 
+ $ 
+ 52,811 
+ 
+ 
+ $ 
+ 33,613 
+ 
+ 
+ $ 
+ 880,308 
+ 
+ (1) - Interest payments are calculated based on the applicable rates and payment dates as of June 30, 2020. Although our interest rates on our debt obligations may vary, we have assumed the most recent available interest rates for all periods presented. 
+ 
+ 
+ 
+ 40 
+ 
+ Table of Contents 
+ Operating Leases 
+ 
+ See Note 9 - Leases of the Notes to our Consolidated Financial Statements, included in Part IV, ITEM 15, of this Annual Report on Form 10-K for future payment commitments under leases as of June 30, 2020. 
+ 
+ Debt and Interest Payment Obligations 
+ 
+ See Note 8 - Debt of the Notes to our Consolidated Financial Statements, included in Part IV, ITEM 15, of this Annual Report on Form 10-K for future payment commitments under debt as of June 30, 2020. 
+ 
+ Purchase Obligations 
+ We subcontract with third parties to manufacture our products and have purchase commitments with key component suppliers. During the normal course of business, our contract manufacturers procure components and manufacture products based upon orders placed by us. If we cancel all or part of the orders, we may still be liable to the contract manufacturers for the cost of the components purchased by the subcontractors to manufacture our pr oducts. We periodically review the potential liability, and as of June 30, 2020, we have recorded a purchase obligation liability of $3.3 million related to component purchase commitments. There have been no other significant liabilities for cancellations recorded as of June 30, 2020 . Our consolidated financial position and results of operations could be negatively impacted if we were required to compensate the contract manufacturers for any unrecorded liabilities incurred. We may be subject to additional purchase obligations for supply agreements and components ordered by our contract manufacturers based on manufacturing forecasts we provide them each month. We estimate the amount of these additional purchase obligation to rang e from $146.3 million to $303.3 million as of June 30, 2020, depending upon the timing of orders placed for these components by our manufacturers. See Note 10 - Commitments and Contingencies of the Notes to our Consolidated Financial Statements, included in Part IV, ITEM 15, of this Annual Report on Form 10-K for future payment commitments under purchase commitments as of June 30, 2020. 
+ 
+ Transition Tax 
+ 
+ The Company has obligations of $94.5 million as of June 30, 2020, related to Transition Tax. These obligations are included within Income tax payable and Long-term taxes payable on our Consolidated Balance Sheets. 
+ 
+ Other Obligations 
+ 
+ As of June 30, 2020. the Company has other obligations of $3.9 million which consisted primarily of commitments related to raw materials and research and development projects. 
+ 
+ Unrecognized Tax Benefits 
+ 
+ As of June 30, 2020, we had $31.4 million and an additional $4.9 million for accrued interest, classified as non-current liabilities. At this time, we are unable to make a reasonably reliable estimate of the timing of payments in individual years in connection with these tax liabilities; therefore, such amounts are not included in the above contractual obligation table. 
+ 
+ 
+ Warranties and Indemnifications 
+ 
+ Our products are generally accompanied by a twelve-month warranty, from date of purchase, which covers both parts and labor. Generally, the distributor is responsible for the freight costs associated with warranty returns, and we absorb the freight costs of replacing items under warranty. In accordance with the Financial Accounting Standards Board’s (“FASB’s”), Accounting Standards Codification (“ASC”), 450-20, Loss Contingencies, we record an accrual when we believe it is reasonably estimable and probable based upon historical experience. We record a provision for estimated future warranty work in cost of goods sold upon recognition of revenues, and we review the resulting accrual regularly and periodically adjust it to reflect changes in warranty estimates. 
+ 
+ We have entered and may in the future enter into standard indemnification agreements with certain distributors as well as other business partners in the ordinary course of business. These agreements may include provisions for indemnifying the distributor, OEM or other business partner against any claim brought by a third-party to the extent any such claim alleges that a Ubiquiti product infringes a patent, copyright or trademark or violates any other proprietary rights of that third-party. The maximum amount of potential future indemnification is unlimited. The maximum potential amount of future payments we could be required to make under these indemnification agreements is not estimable. 
+ 
+ We have agreed to indemnify our directors, officers and certain other employees for certain events or occurrences, subject to certain limits, while such persons are or were serving at our request in such capacity. We may terminate the indemnification agreements 
+ 
+ 
+ 41 
+ 
+ Table of Contents 
+ with these persons upon the termination of their services with us, but termination will not affect claims for indemnification related to events occurring prior to the effective date of termination. The maximum amount of potential future indemnification is unlimited. We have a Directors and Officers insurance policy that limits our potential exposure for our indemnification obligations to our directors, officers and certain other employees. We believe the fair value of these indemnification agreements is minimal. We had not recorded any liabilities for these agreements as of June 30, 2020 or 2019. 
+ 
+ Based upon our historical experience and information known as of the date of this report, we do not believe it is likely that we will have significant liability for the above indemnities as of June 30, 2020. 
+ 
+ Off-Balance Sheet Arrangements 
+ 
+ As of June 30, 2020 and 2019, we had no off-balance sheet arrangements other than those mentioned above. 
+ 
+ 
+ Recent Accounting Pronouncements 
+ 
+ For a discussion of recent accounting pronouncements, refer to Note 2 to the Consolidated Financial Statements. 
+ 
+ 

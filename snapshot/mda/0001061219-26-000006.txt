@@ -1,0 +1,3254 @@
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS. 
+ For the Years Ended December 31, 2025, 2024 and 2023 
+ The following discussion and analysis of our financial condition, results of operations and related information for the years ended December 31, 2025 and 2024 , including applicable year-to-year comparisons, should be read in conjunction with our Consolidated Financial Statements and accompanying notes included under Part II, ITEM 8 of this annual report. Our financial statements have been prepared in accordance with generally accepted accounting principles (“GAAP”) in the United States (“U.S.”). 
+ Discussion and analysis of matters pertaining to the year ended December 31, 2023 and year-to-year comparisons between the years ended December 31, 2024 and 2023 are not included in this Form 10-K, but can be found under Part II, ITEM 7 of our annual report on Form 10-K for the year ended December 31, 2024 that was filed on February 28, 2025 . 
+ Key References Used in this Management’s Discussion and Analysis 
+ Unless the context requires otherwise, references to “we,” “us” or “our” within this annual report are intended to mean the business and operations of Enterprise Products Partners L.P. and its consolidated subsidiaries. 
+ References to the “Partnership” or “Enterprise” mean Enterprise Products Partners L.P. on a standalone basis. 
+ References to “EPO” mean Enterprise Products Operating LLC, which is an indirect wholly owned subsidiary of the Partnership, and its consolidated subsidiaries, through which the Partnership conducts its business. We are managed by our general partner, Enterprise Products Holdings LLC (“Enterprise GP”), which is a wholly owned subsidiary of Dan Duncan LLC, a privately held Texas limited liability company. 
+ The membership interests of Dan Duncan LLC are owned by a voting trust, the current trustees (“DD LLC Trustees”) of which are: (i) Randa Duncan Williams, who is also a director and Chairman of the Board of Directors of Enterprise GP (the “Board”); (ii) Richard H. Bachmann, who is also a director and Vice Chairman of the Board; and (iii) W. Randall Fowler, who is also a director and a Co-Chief Executive Officer of Enterprise GP. Ms. Duncan Williams and Messrs. Bachmann and Fowler also currently serve as managers of Dan Duncan LLC. 
+ References to “EPCO” mean Enterprise Products Company, a privately held Texas corporation, and its privately held affiliates. The outstanding voting capital stock of EPCO is owned by a voting trust, the current trustees (“EPCO Trustees”) of which are: (i) Ms. Duncan Williams, who serves as Chairman of EPCO; (ii) Mr. Bachmann, who serves as the President and Chief Executive Officer of EPCO; and (iii) Mr. Fowler, who serves as an Executive Vice President and the Chief Financial Officer of EPCO. Ms. Duncan Williams and Messrs. Bachmann and Fowler also currently serve as directors of EPCO. 
+ We, Enterprise GP, EPCO and Dan Duncan LLC are affiliates under the collective common control of the DD LLC Trustees and the EPCO Trustees. EPCO, together with its privately held affiliates, owned approximately 32.5% of the Partnership’s common units outstanding at December 31, 2025 . 
+ As generally used in the energy industry and in this annual report, the acronyms below have the following meanings: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ /d 
+ = 
+ per day 
+ MMBPD 
+ = 
+ million barrels per day 
+ 
+ BBtus 
+ = 
+ billion British thermal units 
+ MMBtus 
+ = 
+ million British thermal units 
+ 
+ Bcf 
+ = 
+ billion cubic feet 
+ MMcf 
+ = 
+ million cubic feet 
+ 
+ BPD 
+ = 
+ barrels per day 
+ MWac 
+ = 
+ megawatts, alternating current 
+ 
+ MBPD 
+ = 
+ thousand barrels per day 
+ MWdc 
+ = 
+ megawatts, direct current 
+ 
+ MMBbls 
+ = 
+ million barrels 
+ TBtus 
+ = 
+ trillion British thermal units 
+ 
+ 
+ 63 
+ 
+ Table of Contents 
+ CAUTIONARY STATEMENT REGARDING FORWARD-LOOKING INFORMATION 
+ This annual report on Form 10-K for the year ended December 31, 2025 (our “annual report”) contains various forward-looking statements and information that are based on our beliefs and those of our general partner, as well as assumptions made by us and information currently available to us. When used in this document, words such as “anticipate,” “project,” “expect,” “plan,” “seek,” “goal,” “estimate,” “forecast,” “intend,” “could,” “should,” “would,” “will,” “believe,” “may,” “scheduled,” “pending,” “potential” and similar expressions and statements regarding our plans and objectives for future operations are intended to identify forward-looking statements. Although we and our general partner believe that our expectations reflected in such forward-looking statements (including any forward-looking statements/expectations of third parties referenced in this annual report) are reasonable, neither we nor our general partner can give any assurances that such expectations will prove to be correct. 
+ Forward-looking statements are subject to a variety of risks, uncertainties and assumptions as described in more detail under Part I, ITEM 1A of this annual report. If one or more of these risks or uncertainties materialize, or if underlying assumptions prove incorrect, our actual results may vary materially from those anticipated, estimated, projected or expected. You should not put undue reliance on any forward-looking statements. The forward-looking statements in this annual report speak only as of the date hereof. Except as required by federal and state securities laws, we undertake no obligation to publicly update or revise any forward-looking statements, whether as a result of new information, future events or any other reason. 
+ 
+ Overview of Business 
+ We are a publicly traded Delaware limited partnership, the common units of which are listed on the New York Stock Exchange (“NYSE”) under the ticker symbol “EPD.” Our preferred units are not publicly traded. We were formed in April 1998 to own and operate certain natural gas liquids (“NGLs”) related businesses of EPCO and are a leading North American provider of midstream energy services to producers and consumers of natural gas, NGLs, crude oil, petrochemicals and refined products. We are owned by our limited partners (preferred and common unitholders) from an economic perspective. Enterprise GP, which owns a non-economic general partner interest in us, manages our Partnership. We conduct substantially all of our business operations through EPO and its consolidated subsidiaries. 
+ Our fully integrated, midstream energy asset network (or “value chain”) links producers of natural gas, NGLs and crude oil from some of the largest supply basins in the U.S., Canada and the Gulf of Mexico with domestic consumers and international markets. Our midstream energy operations include: 
+ • natural gas gathering, treating, processing, transportation and storage; 
+ • NGL transportation, fractionation, storage, and marine terminals (including those used to export liquefied petroleum gases (“LPG”) and ethane); 
+ • crude oil gathering, transportation, storage, and marine terminals; 
+ • propylene production facilities (including propane dehydrogenation (“PDH”) facilities), butane isomerization, octane enhancement, isobutane dehydrogenation (“iBDH”) and high purity isobutylene (“HPIB”) production facilities; 
+ • petrochemical and refined products transportation, storage, and marine terminals (including those used to export ethylene and polymer grade propylene (“PGP”)); and 
+ • a marine transportation business that operates on key U.S. inland and intracoastal waterway systems. 
+ The safe operation of our assets is a top priority. We are committed to protecting the environment and the health and safety of the public and those working on our behalf by conducting our business activities in a safe and environmentally responsible manner. For additional information, see “ Regulatory Matters - Environmental, Safety and Conservation ” within Part I, Items 1 and 2 of this annual report. 
+ Like many publicly traded partnerships, we have no employees. All of our management, administrative and operating functions are performed by employees of EPCO pursuant to an administrative services agreement (the “ASA”) or by other service providers. 
+ 
+ 
+ 64 
+ 
+ Table of Contents 
+ Each of our business segments benefits from the supporting role of our marketing activities. The main purpose of our marketing activities is to support the utilization and expansion of assets across our midstream energy asset network by increasing the volumes handled by such assets, which results in additional fee-based earnings for each business segment. In performing these support roles, our marketing activities also seek to participate in supply and demand opportunities as a supplemental source of segment gross operating margin for us. The financial results of our marketing efforts fluctuate due to changes in volumes handled and overall market conditions, which are influenced by current and forward market prices for the products bought and sold. 
+ Our financial position, results of operations and cash flows are subject to certain risks. For information regarding such risks, see “ Risk Factors ” included under Part I, ITEM 1A of this annual report. 
+ 
+ Current Outlook 
+ As noted previously, this annual report on Form 10-K, including this update to our outlook on business conditions, contains forward-looking statements that are based on our beliefs and those of Enterprise GP. In addition, it reflects assumptions made by us and information currently available to us, which includes forecast information published by third parties. See “Cautionary Statement Regarding Forward-Looking Information” within this Part II, ITEM 7 and “Risk Factors” in Part I, ITEM 1A, for additional information. The following information in this Current Outlook presents our current views on key midstream energy supply and demand fundamentals, and is qualified in all respects as forward-looking statements whether or not expressly qualified as such in particular sentences. All references to U.S. Energy Information Administration (“EIA”) forecasts and expectations are derived from its February 2026 Short-Term Energy Outlook (“February 2026 STEO”), which was published on February 10, 2026. 
+ The level of services we provide and the amount of hydrocarbons we purchase and sell continue to be driven by supply and demand fundamentals for hydrocarbon products. These dynamics affect our financial position, results of operations and cash flows. Entering 2026, global liquid hydrocarbon markets have shifted into a modest surplus as non-Organization of the Petroleum Exporting Countries (“non-OPEC”) supply growth, together with the scheduled easing of OPEC and Russia (collectively, the “OPEC+” group) production cuts, have contributed to inventory builds and placed downward pressure on liquid hydrocarbon prices relative to levels seen during 2024 and 2025. 
+ Against this backdrop, broader macroeconomic conditions remain a key determinant of hydrocarbon demand. Global economic growth, an important driver of demand, remains resilient but moderate. In its January 2026 World Economic Outlook, the International Monetary Fund (“IMF”) projects global economic growth of 3.3% in 2026 and 3.2% in 2027 as headline inflation continues to ease. The IMF notes that the U.S. remains a key contributor to near-term global growth amid ongoing technology investment, while Europe and other advanced economies are expected to experience more measured recoveries. The IMF projects China’s economy to grow by 4.5% in 2026 as ongoing government-driven fiscal support, along with relative stabilization in trade conditions, help mitigate the effects of longer-term structural challenges. Despite signs of resilience, the IMF continues to highlight risks associated with geopolitics, trade policy and uncertainty regarding productivity gains from artificial intelligence. 
+ In addition to macroeconomic factors, policy developments and security considerations remain important factors affecting global energy markets. Sanctions, political instability affecting certain crude oil‐exporting countries and security risks in key shipping corridors have contributed to ongoing uncertainty in global trade flows and may influence the availability, cost and routing of hydrocarbon supplies to global markets. 
+ The OPEC+ group, which controls over 79% of the world’s proven crude oil reserves (as reported in the OPEC Annual Statistical Bulletin 2025), continues to have significant influence on global balances. In 2024, the OPEC+ group announced that its baseline and first layer of voluntary cuts totaling 3.66 MMBPD would be extended well into 2025, and certain members agreed to extend the second layer of voluntary cuts of 2.2 MMBPD until the end of March 2025. Beginning in April 2025, the OPEC+ group began unwinding the second layer of voluntary cuts at a faster than announced pace, completing a full restoration of the 2.2 MMBPD by the fall of 2025. On February 1, 2026, eight OPEC+ group member nations agreed to maintain their pause of the ongoing restoration of the baseline cut and the first layer of voluntary cuts. The group reiterated that these volumes could still return to the market either partially or in full, but would happen only in a gradual manner depending on evolving market conditions. These OPEC+ group decisions will affect near-term balances and crude oil prices, which may influence the incentives for non-OPEC production throughout the world. 
+ 
+ 
+ 65 
+ 
+ Table of Contents 
+ While these global factors shape the broader market, U.S. supply trends continue to play an important role. U.S. producers achieved a new crude oil production record of 13.6 MMBPD in 2025, with the Permian Basin remaining the primary contributor to supply growth. The EIA projects that 2026 U.S. crude oil output will be roughly flat due to softer prices and slower drilling activity, followed by a modest decline in 2027. As of January 29, 2026, the price of West Texas Intermediate (“WTI”) crude oil (as reported by New York Mercantile Exchange (“NYMEX”)) was $65.42 per barrel, largely in line with the 2025 calendar year average of $64.83 per barrel. The EIA expects WTI crude oil to average $53.42 per barrel in 2026, reflecting production growth outpacing consumption and inventory builds that are expected to persist into 2027. 
+ The EIA expects Permian Basin crude oil production in 2026 and 2027 to remain largely unchanged from its record level of 6.6 MMBPD in 2025 as impacts from reduced rig counts are offset by increases in production efficiency out of maturing wells. Despite this forecast, we believe that natural gas and NGL production volumes will continue to grow due to rising gas-to-oil ratios (ratio of natural gas production to crude oil production) in the basin. 
+ For natural gas, the EIA forecasts U.S. dry natural gas production to increase approximately 2% in 2026 to 110 Bcf/d, with additional growth of approximately 1% expected in 2027, driven primarily by Permian Basin and Haynesville growth supported by midstream additions. The price of natural gas, as measured by the NYMEX at Henry Hub, was $3.92 per MMBtu as of January 29, 2026, approximately 8% above the 2025 calendar year average of $3.62 per MMBtu. The EIA forecasts Henry Hub to average $4.31 per MMBtu in 2026, with prices expected to increase further in 2027 as LNG exports and power sector demand outpace supply growth. U.S. LNG remains the structural growth lever for gas demand, supported by incremental capacity additions including Plaquemines LNG, Corpus Christi Stage 3 and Golden Pass. 
+ Additional data from the EIA reinforces these trends. In its February 2026 STEO, the EIA projects U.S. liquid fuels production to reach 23.7 MMBPD in 2026, an increase of approximately 0.1 MMBPD from 2025. Global production of liquid fuels is expected to average 107.9 MMBPD in 2026, up from 106.3 MMBPD in 2025. The EIA also forecasts U.S. marketed natural gas production to increase by approximately 2.5 Bcf/d in 2026 to 120.8 Bcf/d, with LNG exports growing by 1.4 Bcf/d to reach 16.4 Bcf/d for the year. On the demand side, the EIA forecasts that global liquids fuel consumption will increase from 103.6 MMBPD in 2025 to 104.8 MMBPD in 2026, driven primarily by growth from Southeast Asia and other non-Organization for Economic Cooperation and Development (“OECD”) countries. 
+ We believe the fundamentals for crude oil and natural gas remain constructive, particularly in the U.S. and more so in the Permian Basin, supported by growing supply and sufficient export capacity necessary to satisfy rising global demand. The potential for additional sanctions on crude oil exports from Russia and Iran could further strengthen global demand for U.S. crude supplies. We also expect continued growth in global electricity demand, including incremental U.S. demand associated with industrial reshoring and new data centers, which should support natural gas-fired power generation over the medium to long-term. The global petrochemical industry is expected to remain challenged in 2026 due to oversupply, driven largely by China’s continued expansion of its petrochemical production capacity as it focuses on export manufacturing amid domestic economic pressures. This oversupply has led to the rationalization of petrochemical production capacity in Europe, Japan and other regions. Even with ongoing industry headwinds, U.S. petrochemical producers are expected to maintain a competitive advantage given their access to locally produced, lower-cost feedstocks and energy relative to their global peer group. Over the longer term, growth in overall energy demand, stemming from a rise in global populations, improved living standards and technological advancements, will require continued growth in the level of hydrocarbons produced, in addition to growth in alternative forms of energy, including wind and solar generation, where it can be produced cost-effectively without permanent subsidy. 
+ We believe that these anticipated additions to hydrocarbon production and demand will create additional opportunities for us to provide midstream services to our customers while leveraging the strengths of our portfolio, which include: 
+ • Our Assets – Our employees find innovative ways to optimize our large, integrated and diversified asset base both to provide incremental services to customers and to respond to market opportunities. Additional production volumes could lead to higher demand for processing, transportation, fractionation and export terminaling services. Our storage services provide valuable flexibility for customers seeking to balance supply and demand while enabling us to capture potential contango and other marketing opportunities. U.S. energy and feedstock advantages position our assets well to compete effectively for incremental production and processing volumes. To the extent a rising operating cost environment impacts our results, there are typically offsetting benefits either inherent in our business or that result from other steps we proactively take to reduce the impact of inflation on our net operating results. These benefits include inflation-based revenue rate escalations, fuel and electricity rebills or surcharges, and increased volumetric throughput often achieved during periods of higher commodity prices. 
+ 
+ 
+ 66 
+ 
+ Table of Contents 
+ • Our Quality Customers – We have contracted with a large number of high-quality customers in order to achieve revenue diversification. In 2025, our top 200 customers represented 96.7% of our consolidated revenues, and no single customer accounted for 10% or more of our consolidated revenues. Based on their year-end 2025 debt ratings, approximately 89% of revenues from these customers were attributable to companies that were investment grade rated or backed by letters of credit. Approximately 2% of the revenues from our top 200 customers were attributable to independent producers that are non-rated or sub-investment grade. 
+ • Our Balance Sheet and Liquidity – We currently maintain investment grade credit ratings on EPO’s long-term senior unsecured debt of A-, A3 and A- by Standard and Poor’s, Moody’s and Fitch Ratings, respectively. Based on current market conditions, we believe that we have sufficient consolidated liquidity as of December 31, 2025, which was comprised of $4.2 billion of available borrowing capacity under EPO’s revolving credit facilities and $969 million of unrestricted cash on hand. As of December 31, 2025, approximately 98.3% of our debt portfolio is fixed-rate debt at a weighted-average cost of 4.7% and weighted-average maturity of 16.8 years. 
+ • Our Access to Capital Markets – In 2025, EPO successfully issued $3.65 billion in aggregate principal amount of senior notes. Based on current market conditions, we believe we will have sufficient liquidity and access to debt capital markets to fund our operations, capital investments and the remaining principal amount of senior notes maturing over the next twelve months and beyond. 
+ 
+ Recent Developments 
+ Enterprise Announces Expansion and Extension of Bahia NGL Pipeline; ExxonMobil Acquires Joint Interest 
+ In December 2025, we completed the sale of a 40% undivided interest in our Bahia NGL Pipeline to ExxonMobil, for cash proceeds of approximately $655 million. 
+ The 550-mile Bahia NGL Pipeline, which began commercial operations in December 2025, has an initial capacity to transport up to 600 MBPD of NGLs from the Midland and Delaware basins of West Texas to our Mont Belvieu area fractionation and storage complex. 
+ In addition, Enterprise and ExxonMobil plan to increase the pipeline’s capacity to 1.0 MMBPD by adding incremental pumping capacity and construct a 92-mile extension to ExxonMobil’s Cowboy natural gas processing plant in Eddy County, New Mexico (the “Cowboy Extension”). The Cowboy Extension will also connect to multiple Enterprise-owned processing facilities in the Delaware Basin. We will own a 30% undivided joint interest in the Cowboy Extension. The expansion and Cowboy Extension are expected to be completed in the fourth quarter of 2027. Enterprise will serve as operator of the combined system. 
+ Issuance of Senior Notes in June 2025 and November 2025 
+ In June 2025, EPO issued $2.0 billion aggregate principal amount of senior notes comprised of (i) $500 million principal amount of senior notes due June 2028 (“Senior Notes LLL”), (ii) $750 million principal amount of senior notes due January 2031 (“Senior Notes MMM”) and (iii) $750 million principal amount of senior notes due January 2036 (“Senior Notes NNN”). 
+ Senior Notes LLL were issued at 99.869% of their principal amount and have a fixed interest rate of 4.30% per year. Senior Notes MMM were issued at 99.816% of their principal amount and have a fixed interest rate of 4.60% per year. Senior Notes NNN were issued at 99.665% of their principal amount and have a fixed interest rate of 5.20% per year. Net proceeds from this offering were used by EPO for general company purposes, including for growth capital investments, and the repayment of amounts outstanding under our commercial paper program. 
+ 
+ 
+ 67 
+ 
+ Table of Contents 
+ In November 2025, EPO issued $1.65 billion aggregate principal amount of senior notes comprised of (i) $300 million principal amount of reopened Senior Notes LLL, (ii) $600 million principal amount of reopened Senior Notes MMM and (iii) $750 million principal amount of reopened Senior Notes NNN. The reopened Senior Notes LLL, reopened Senior Notes MMM and reopened Senior Notes NNN were issued at 100.630%, 100.693% and 101.185% of their respective principal amounts, plus accrued interest from June 20, 2025. Each of the reopened Senior Notes LLL, the reopened Senior Notes MMM and the reopened Senior Notes NNN constitutes a further issuance of, and forms a single series with, the original notes of the corresponding series issued in June 2025, and has the same terms as to interest, status, redemption or otherwise as such original notes. Net proceeds from this offering were used by EPO for general company purposes, including for growth capital investments and acquisitions, and the repayment of debt (including the repayment of all or a portion of $750 million principal amount of 5.05% Senior Notes FFF that matured in January 2026, $875 million principal amount of 3.70% Senior Notes PP that matured in February 2026 and amounts outstanding under our commercial paper program). 
+ The Partnership guaranteed the senior notes issued in June 2025 and November 2025 through an unconditional guarantee on an unsecured and unsubordinated basis. 
+ Enterprise Announces Increase to 2019 Buyback Program 
+ In October 2025, we announced that the Board approved an increase to the authorized maximum aggregate purchase price (excluding fees, commissions and other ancillary expenses) of the Partnership’s common units that may be repurchased under the 2019 Buyback Program from $2.0 billion to $5.0 billion. After giving effect to this increase, the remaining available capacity under the 2019 Buyback Program is $3.6 billion. 
+ Enterprise Acquires Oxy Affiliate, Enters into Service Agreements, and Expands Midland Basin Processing Capacity 
+ In July 2025, an affiliate of Enterprise agreed to acquire an affiliate of Occidental Petroleum Corporation (“Oxy”), which owns approximately 200 miles of natural gas gathering pipelines in the Midland Basin, in a debt-free transaction for $581 million in cash consideration. In addition, an affiliate of Enterprise agreed to provide Oxy with natural gas gathering and processing services, supported by a long-term dedication of approximately 73,000 acres across four counties in the Midland Basin. This transaction closed on August 22, 2025. 
+ In order to accommodate this production growth in the Midland Basin, we also announced plans to expand our natural gas gathering and processing capabilities in the Midland Basin with the construction of a ninth natural gas processing train (“Athena”) and further expansion of our Midland Basin gathering system. This natural gas processing train, which will have the capacity to process approximately 300 MMcf/d of natural gas and extract up to 40 MBPD of NGLs, is expected to begin service in the fourth quarter of 2026. 
+ Enterprise Begins Initial Service at Neches River Ethane / Propane Export Facility 
+ In July 2025, we placed into service the first phase of our new ethane / propane export facility located on the Neches River in Orange County, Texas (“Neches River Ethane / Propane Export Facility”). This phase included the completion of a loading dock and an ethane refrigeration train with a nameplate capacity of 120 MBPD. The second phase of the project, which will add a second refrigeration train capable of loading up to 180 MBPD of ethane, 360 MBPD of propane, or a combination thereof, is expected to begin service in the first half of 2026. 
+ Enterprise Begins Service at Mentone West 1 and Orion 
+ In July 2025, we placed our first natural gas processing train at our Mentone West location in the Delaware Basin (“Mentone West 1”) and our eighth Midland Basin natural gas processing train (“Orion”) into commercial service. Both Mentone West 1 and Orion are capable of processing over 300 MMcf/d of natural gas and extracting more than 40 MBPD of NGLs and are supported by long-term acreage dedication agreements and minimum volume commitments. 
+ 
+ 
+ 68 
+ 
+ 
+ Table of Contents 
+ Selected Energy Commodity Price Data 
+ The following table presents selected average index prices for natural gas and selected NGL and petrochemical products for the periods indicated: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Natural Gas, $/MMBtu 
+ Ethane, $/gallon 
+ Propane, $/gallon 
+ Normal Butane, $/gallon 
+ Isobutane, $/gallon 
+ Natural Gasoline, $/gallon 
+ Polymer Grade Propylene, $/pound 
+ Refinery Grade Propylene, $/pound 
+ Indicative Gas Processing Gross Spread $/gallon 
+ 
+ 
+ (1) 
+ (2) 
+ (2) 
+ (2) 
+ (2) 
+ (2) 
+ (3) 
+ (3) 
+ (4) 
+ 
+ 2024 by quarter: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1st Quarter 
+ $2.25 
+ 
+ $0.19 
+ 
+ $0.84 
+ 
+ $1.03 
+ 
+ $1.14 
+ 
+ $1.54 
+ 
+ $0.55 
+ 
+ $0.18 
+ 
+ $0.43 
+ 
+ 
+ 2nd Quarter 
+ $1.89 
+ 
+ $0.19 
+ 
+ $0.75 
+ 
+ $0.90 
+ 
+ $1.26 
+ 
+ $1.55 
+ 
+ $0.47 
+ 
+ $0.21 
+ 
+ $0.43 
+ 
+ 
+ 3rd Quarter 
+ $2.15 
+ 
+ $0.16 
+ 
+ $0.73 
+ 
+ $0.97 
+ 
+ $1.08 
+ 
+ $1.48 
+ 
+ $0.53 
+ 
+ $0.28 
+ 
+ $0.39 
+ 
+ 
+ 4th Quarter 
+ $2.79 
+ 
+ $0.22 
+ 
+ $0.78 
+ 
+ $1.13 
+ 
+ $1.12 
+ 
+ $1.50 
+ 
+ $0.42 
+ 
+ $0.24 
+ 
+ $0.39 
+ 
+ 
+ 2024 Averages 
+ $2.27 
+ 
+ $0.19 
+ 
+ $0.78 
+ 
+ $1.01 
+ 
+ $1.15 
+ 
+ $1.52 
+ 
+ $0.49 
+ 
+ $0.23 
+ 
+ $0.41 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2025 by quarter: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1st Quarter 
+ $3.65 
+ 
+ $0.27 
+ 
+ $0.90 
+ 
+ $1.06 
+ 
+ $1.07 
+ 
+ $1.53 
+ 
+ $0.45 
+ 
+ $0.33 
+ 
+ $0.37 
+ 
+ 
+ 2nd Quarter 
+ $3.44 
+ 
+ $0.24 
+ 
+ $0.78 
+ 
+ $0.88 
+ 
+ $0.93 
+ 
+ $1.32 
+ 
+ $0.38 
+ 
+ $0.30 
+ 
+ $0.30 
+ 
+ 
+ 
+ 3rd Quarter 
+ $3.07 
+ 
+ $0.23 
+ 
+ $0.69 
+ 
+ $0.86 
+ 
+ $0.92 
+ 
+ $1.30 
+ 
+ $0.36 
+ 
+ $0.28 
+ 
+ $0.30 
+ 
+ 
+ 4th Quarter 
+ $3.55 
+ 
+ $0.27 
+ 
+ $0.62 
+ 
+ $0.84 
+ 
+ $0.88 
+ 
+ $1.24 
+ 
+ $0.31 
+ 
+ $0.22 
+ 
+ $0.24 
+ 
+ 
+ 
+ 2025 Averages 
+ $3.43 
+ 
+ $0.25 
+ 
+ $0.75 
+ 
+ $0.91 
+ 
+ $0.95 
+ 
+ $1.35 
+ 
+ $0.38 
+ 
+ $0.28 
+ 
+ $0.30 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) Natural gas prices are based on Henry-Hub Inside FERC commercial index prices as reported by Platts, which is a division of S&P Global, Inc. 
+ (2) NGL prices for ethane, propane, normal butane, isobutane and natural gasoline are based on Mont Belvieu, Texas Non-TET commercial index prices as reported by Oil Price Information Service, which is a division of Dow Jones. 
+ (3) Polymer grade propylene prices represent average contract pricing for such product as reported by IHS Markit (“IHS”), which is a division of S&P Global, Inc. Refinery grade propylene (“RGP”) prices represent weighted-average spot prices for such product as reported by IHS. 
+ (4) The “Indicative Gas Processing Gross Spread” represents our generic estimate of the gross economic benefit from extracting NGLs from natural gas production based on certain pricing assumptions. Specifically, it is the amount by which the assumed economic value of a composite gallon of NGLs in Chambers County, Texas exceeds the value of the equivalent amount of energy in natural gas at Henry Hub, Louisiana. Our estimate of the indicative spread does not consider the operating costs incurred by a natural gas processing facility to extract the NGLs nor the transportation and fractionation costs to deliver the NGLs to market. In addition, the actual gas processing spread earned at each plant is further influenced by regional pricing and extraction dynamics. 
+ The weighted-average indicative market price for NGLs was $0.59 per gallon in 2025 compared to $0.60 per gallon in 2024 . 
+ 
+ 
+ 69 
+ 
+ Table of Contents 
+ The following table presents selected average index prices for crude oil for the periods indicated: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WTI Crude Oil, $/barrel 
+ Midland Crude Oil, $/barrel 
+ Houston Crude Oil, $/barrel 
+ 
+ 
+ (1) 
+ (2) 
+ (2) 
+ 
+ 2024 by quarter: 
+ 
+ 
+ 
+ 
+ 1st Quarter 
+ $76.96 
+ 
+ $78.55 
+ 
+ $78.85 
+ 
+ 
+ 2nd Quarter 
+ $80.57 
+ 
+ $81.73 
+ 
+ $82.33 
+ 
+ 
+ 3rd Quarter 
+ $75.10 
+ 
+ $75.96 
+ 
+ $76.51 
+ 
+ 
+ 4th Quarter 
+ $70.27 
+ 
+ $71.19 
+ 
+ $71.72 
+ 
+ 
+ 2024 Averages 
+ $75.73 
+ 
+ $76.86 
+ 
+ $77.35 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2025 by quarter: 
+ 
+ 
+ 
+ 
+ 1st Quarter 
+ $71.42 
+ 
+ $72.52 
+ 
+ $72.81 
+ 
+ 
+ 2nd Quarter 
+ $63.87 
+ 
+ $64.42 
+ 
+ $64.65 
+ 
+ 
+ 3rd Quarter 
+ $64.93 
+ 
+ $65.76 
+ 
+ $66.09 
+ 
+ 
+ 4th Quarter 
+ $59.14 
+ 
+ $59.77 
+ 
+ $60.05 
+ 
+ 
+ 2025 Averages 
+ $64.84 
+ 
+ $65.62 
+ 
+ $65.90 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) WTI prices are based on commercial index prices at Cushing, Oklahoma as measured by the NYMEX. 
+ (2) Midland and Houston crude oil prices are based on commercial index prices as reported by Argus. 
+ Fluctuations in our consolidated revenues and cost of sales amounts are explained in large part by changes in energy commodity prices. An increase in our consolidated marketing revenues due to higher energy commodity sales prices may not result in an increase in gross operating margin or cash available for distribution, since our consolidated cost of sales amounts would also be expected to increase due to comparable increases in the purchase prices of the underlying energy commodities. The same type of relationship would be true in the case of lower energy commodity sales prices and purchase costs. 
+ We attempt to mitigate commodity price exposure through our hedging activities and the use of fee-based arrangements. See Note 14 of the Notes to Consolidated Financial Statements included under Part II, ITEM 8 of this annual report and “ Quantitative and Qualitative Disclosures About Market Risk ” under Part II, ITEM 7A of this annual report for information regarding our commodity hedging activities. 
+ Impact of Inflation 
+ Inflation rates in the U.S., which are generally influenced by a variety of macroeconomic and policy-related factors, have moderated from prior levels, but remain a relevant consideration for the overall cost environment. In addition, there is uncertainty of what effect, if any, trade tariffs and other policy actions may have on inflation in future periods. However, to the extent that a rising cost environment impacts our results, there are typically offsetting benefits either inherent in our business or that result from other steps we take proactively to reduce the impact of inflation on our net operating results. These benefits include: (1) provisions included in our long-term fee-based revenue contracts that offset cost increases in the form of rate escalations based on positive changes in the U.S. Consumer Price Index, Producer Price Index for Finished Goods or other factors; (2) provisions in other revenue contracts that enable us to pass through higher energy costs to customers in the form of gas, electricity and fuel rebills or surcharges; and (3) higher commodity prices, which generally enhance our results in the form of increased volumetric throughput and demand for our services. Additionally, we take measures to mitigate the impact of cost increases in certain commodities, including a portion of our electricity needs, using fixed-price, term purchase agreements, or financial derivatives. For these reasons, the increased cost environment, caused in part by inflation, has not had a material impact on our historical results of operations for the periods presented in this report. However, a significant or prolonged period of high inflation could adversely impact our results if costs were to increase at a rate greater than the increase in the revenues we receive. 
+ See “ Capital Investments ” within this Part II, ITEM 7 for a discussion of the impact of inflation on our capital investment decisions. Additionally, see Part I, ITEM 1A “ Risk Factors -Changes in price levels could negatively impact our revenue, our expenses, or both, which could adversely affect our business. ” 
+ 
+ 
+ 70 
+ 
+ 
+ Table of Contents 
+ Income Statement Highlights 
+ The following table summarizes the key components of our consolidated results of operations for the years indicated (dollars in millions): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Year Ended December 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 2024 
+ 
+ Revenues 
+ 
+ 
+ 
+ 
+ $ 
+ 52,596 
+ 
+ 
+ $ 
+ 56,219 
+ 
+ 
+ Costs and expenses: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating costs and expenses: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of sales 
+ 
+ 
+ 
+ 
+ 38,566 
+ 
+ 
+ 42,580 
+ 
+ 
+ Other operating costs and expenses 
+ 
+ 
+ 
+ 
+ 4,287 
+ 
+ 
+ 4,004 
+ 
+ 
+ Depreciation, amortization and accretion expenses 
+ 
+ 
+ 
+ 
+ 2,551 
+ 
+ 
+ 2,402 
+ 
+ 
+ Asset impairment charges 
+ 
+ 
+ 
+ 
+ 50 
+ 
+ 
+ 57 
+ 
+ 
+ Net losses (gains) attributable to asset sales and related matters 
+ 
+ 
+ 
+ 
+ (14) 
+ 
+ 
+ 2 
+ 
+ 
+ Total operating costs and expenses 
+ 
+ 
+ 
+ 
+ 45,440 
+ 
+ 
+ 49,045 
+ 
+ 
+ General and administrative costs 
+ 
+ 
+ 
+ 
+ 251 
+ 
+ 
+ 244 
+ 
+ 
+ Total costs and expenses 
+ 
+ 
+ 
+ 
+ 45,691 
+ 
+ 
+ 49,289 
+ 
+ 
+ Equity in income of unconsolidated affiliates 
+ 
+ 
+ 
+ 
+ 361 
+ 
+ 
+ 408 
+ 
+ 
+ Operating income 
+ 
+ 
+ 
+ 
+ 7,266 
+ 
+ 
+ 7,338 
+ 
+ 
+ Other income (expense): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Interest expense 
+ 
+ 
+ 
+ 
+ (1,401) 
+ 
+ 
+ (1,352) 
+ 
+ 
+ Other, net 
+ 
+ 
+ 
+ 
+ 34 
+ 
+ 
+ 49 
+ 
+ 
+ Total other expense, net 
+ 
+ 
+ 
+ 
+ (1,367) 
+ 
+ 
+ (1,303) 
+ 
+ 
+ Income before income taxes 
+ 
+ 
+ 
+ 
+ 5,899 
+ 
+ 
+ 6,035 
+ 
+ 
+ Provision for income taxes 
+ 
+ 
+ 
+ 
+ (23) 
+ 
+ 
+ (65) 
+ 
+ 
+ Net income 
+ 
+ 
+ 
+ 
+ 5,876 
+ 
+ 
+ 5,970 
+ 
+ 
+ Net income attributable to noncontrolling interests 
+ 
+ 
+ 
+ 
+ (62) 
+ 
+ 
+ (69) 
+ 
+ 
+ Net income attributable to preferred units 
+ 
+ 
+ 
+ 
+ (4) 
+ 
+ 
+ (4) 
+ 
+ 
+ Net income attributable to common unitholders 
+ 
+ 
+ 
+ 
+ $ 
+ 5,810 
+ 
+ 
+ $ 
+ 5,897 
+ 
+ Revenues 
+ The following table presents each business segment’s contribution to consolidated revenues for the years indicated (dollars in millions): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Year Ended December 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 2024 
+ 
+ NGL Pipelines & Services: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sales of NGLs and related products 
+ 
+ 
+ 
+ 
+ $ 
+ 14,415 
+ 
+ 
+ $ 
+ 17,397 
+ 
+ 
+ Midstream services 
+ 
+ 
+ 
+ 
+ 2,901 
+ 
+ 
+ 2,879 
+ 
+ 
+ Total 
+ 
+ 
+ 
+ 
+ 17,316 
+ 
+ 
+ 20,276 
+ 
+ 
+ Crude Oil Pipelines & Services: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sales of crude oil 
+ 
+ 
+ 
+ 
+ 19,560 
+ 
+ 
+ 20,389 
+ 
+ 
+ Midstream services 
+ 
+ 
+ 
+ 
+ 1,201 
+ 
+ 
+ 1,191 
+ 
+ 
+ Total 
+ 
+ 
+ 
+ 
+ 20,761 
+ 
+ 
+ 21,580 
+ 
+ 
+ Natural Gas Pipelines & Services: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sales of natural gas 
+ 
+ 
+ 
+ 
+ 2,355 
+ 
+ 
+ 1,458 
+ 
+ 
+ Midstream services 
+ 
+ 
+ 
+ 
+ 1,812 
+ 
+ 
+ 1,546 
+ 
+ 
+ Total 
+ 
+ 
+ 
+ 
+ 4,167 
+ 
+ 
+ 3,004 
+ 
+ 
+ Petrochemical & Refined Products Services: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sales of petrochemicals and refined products 
+ 
+ 
+ 
+ 
+ 9,010 
+ 
+ 
+ 10,013 
+ 
+ 
+ Midstream services 
+ 
+ 
+ 
+ 
+ 1,342 
+ 
+ 
+ 1,346 
+ 
+ 
+ Total 
+ 
+ 
+ 
+ 
+ 10,352 
+ 
+ 
+ 11,359 
+ 
+ 
+ Total consolidated revenues 
+ 
+ 
+ 
+ 
+ $ 
+ 52,596 
+ 
+ 
+ $ 
+ 56,219 
+ 
+ 
+ 
+ 71 
+ 
+ Table of Contents 
+ Total revenues for 2025 decreased a net $3.6 billion when compared to 2024 primarily due to lower marketing revenues. 
+ Revenues from the marketing of NGLs, crude oil and petrochemicals and refined products decreased a combined net $4.8 billion year-to-year primarily due to lower average sales prices, which accounted for a $7.9 billion decrease, partially offset by higher sales volumes, which accounted for a $3.1 billion increase. Revenues from the marketing of natural gas increased $897 million year-to-year primarily due to higher average sales prices. 
+ Revenues from midstream services for 2025 increased a net $294 million when compared to 2024 . Revenues from our NGL and natural gas transportation assets increased a combined $408 million year-to-year primarily due to higher demand for transportation services. R evenues from our natural gas processing facilities decreased $97 million year-to-year primarily due to lower market values for the equity NGL-equivalent production volumes we receive as non-cash consideration for processing services. Lastly, revenues from our octane enhancement and related plant operations decreased $32 million year-to-year primarily due to lower deficiency fee revenues. 
+ For additional information regarding our revenues, see Note 9 of the Notes to Consolidated Financial Statements included under Part II, ITEM 8 of this annual report. 
+ Operating costs and expenses 
+ Total operating costs and expenses for 2025 decreased a net $3.6 billion when compared to 2024 . 
+ Cost of sales 
+ Cost of sales for 2025 decreased a net $4.0 billion when compared to 2024 . The cost of sales associated with the marketing of NGLs and crude oil decreased a combined net $3.4 billion year-to-year primarily due to lower average purchase prices, which accounted for a $6.0 billion decrease, partially offset by higher volumes, which accounted for a $2.6 billion increase. The cost of sales associated with the marketing of petrochemicals and refined products decreased $985 million year-to-year primarily due to lower volumes, which accounted for a $691 million decrease, and lower average purchase prices, which accounted for an additional $294 million decrease. The cost of sales associated with the marketing of natural gas increased $346 million year-to-year primarily due to higher average purchase prices. 
+ Other operating costs and expenses 
+ Other operating costs and expenses increased $283 million year-to-year primarily due to higher employee compensation, utility, and rental costs. 
+ Depreciation, amortization and accretion expenses 
+ Depreciation, amortization and accretion expense increased a combined $149 million year-to-year primarily due to higher depreciation expense on assets placed into full or limited service since the first quarter of 2024 (e.g., two natural gas processing trains and related gathering system expansions in the Permian Basin, the natural gas gathering system and treating facilities acquired in October 2024 through our acquisition of Pinon Midstream, LLC (“Pinon Midstream”) and the Neches River Terminal). 
+ General and administrative costs 
+ General and administrative costs for 2025 increased $7 million when compared to 2024 primarily due to higher employee compensation costs. 
+ Equity in income of unconsolidated affiliates 
+ Equity income from our unconsolidated affiliates for 2025 decreased $47 million when compared to 2024 primarily due to lower earnings from investments in crude oil and NGL pipelines. 
+ Operating income 
+ Operating income for 2025 decreased $72 million when compared to 2024 due to the previously described year-to-year changes in revenues, operating costs and expenses, general and administrative costs and equity in income of unconsolidated affiliates. 
+ 
+ 
+ 72 
+ 
+ Table of Contents 
+ Interest expense 
+ The following table presents the components of our consolidated interest expense for the years indicated (dollars in millions): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Year Ended December 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 2024 
+ 
+ Interest charged on debt principal outstanding (1) 
+ 
+ 
+ 
+ 
+ $ 
+ 1,557 
+ 
+ 
+ $ 
+ 1,451 
+ 
+ 
+ Impact of interest rate hedging program, including related amortization 
+ 
+ 
+ 
+ 
+ (7) 
+ 
+ 
+ (6) 
+ 
+ 
+ Interest costs capitalized in connection with construction projects (2) 
+ 
+ 
+ 
+ 
+ (182) 
+ 
+ 
+ (121) 
+ 
+ 
+ Other 
+ 
+ 
+ 
+ 
+ 33 
+ 
+ 
+ 28 
+ 
+ 
+ Total 
+ 
+ 
+ 
+ 
+ $ 
+ 1,401 
+ 
+ 
+ $ 
+ 1,352 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) The weighted-average interest rates on debt principal outstanding were 4.65% and 4.54% during the years ended December 31, 2025 and 2024, respectively. 
+ (2) We capitalize interest costs incurred on funds used to construct property, plant and equipment while the asset is in its construction phase. Capitalized interest amounts become part of the historical cost of an asset and are charged to earnings (as a component of depreciation expense) on a straight-line basis over the estimated useful life of the asset once the asset enters its intended service. When capitalized interest is recorded, it reduces interest expense from what it would be otherwise. Capitalized interest amounts fluctuate based on the timing of when projects are placed into service, our capital investment levels and the interest rates charged on borrowings. 
+ Interest charged on debt principal outstanding, which is a key driver of interest expense, increased a net $106 million year-to-year. This increase was primarily due to the issuance of $2.5 billion, $2.0 billion and $1.65 billion of fixed-rate senior notes in August 2024, June 2025 and November 2025, respectively, which accounted for a combined $142 million increase, partially offset by the retirement of $1.15 billion of fixed-rate senior notes in February 2025, which accounted for a $38 million decrease. 
+ For information regarding our debt obligations, see Note 7 of the Notes to Consolidated Financial Statements included under Part II, ITEM 8 of this annual report. 
+ Income taxes 
+ Our income taxes are primarily comprised of our state tax obligations under the Revised Texas Franchise Tax (“Texas Margin Tax”). Our provision for income taxes for 2025 decreased $42 million when compared to 2024. 
+ For information regarding our income taxes, see Note 16 of the Notes to Consolidated Financial Statements included under Part II, ITEM 8 of this annual report. 
+ 
+ 
+ 
+ 
+ 73 
+ 
+ Table of Contents 
+ Business Segment Highlights 
+ Our operations are reported under four business segments: (i) NGL Pipelines & Services, (ii) Crude Oil Pipelines & Services, (iii) Natural Gas Pipelines & Services and (iv) Petrochemical & Refined Products Services. Our business segments are generally organized and managed according to the types of services rendered (or technologies employed) and products produced and/or sold. 
+ The following information summarizes the assets and operations of each business segment: 
+ • Our NGL Pipelines & Services business segment includes our natural gas processing and related NGL marketing activities, NGL pipelines, NGL fractionation facilities, NGL and related product storage facilities, and NGL marine terminals. 
+ • Our Crude Oil Pipelines & Services business segment includes our crude oil pipelines, crude oil storage and marine terminals, and related crude oil marketing activities. 
+ • Our Natural Gas Pipelines & Services business segment includes our natural gas pipeline systems that provide for the gathering, treating and transportation of natural gas. This segment also includes our natural gas marketing activities. 
+ • Our Petrochemical & Refined Products Services business segment includes our (i) propylene production facilities, which include propylene fractionation units and PDH facilities, and related pipelines and marketing activities, (ii) butane isomerization complex and related DIB operations, (iii) octane enhancement, iBDH and HPIB production facilities, (iv) refined products pipelines, terminals and related marketing activities, (v) an ethylene export terminal and related operations; and (vi) marine transportation business. 
+ We evaluate segment performance based on our financial measure of gross operating margin. Gross operating margin is an important performance measure of the core profitability of our operations and forms the basis of our internal financial reporting. We believe that investors benefit from having access to the same financial measures that our management uses in evaluating segment results. 
+ The following table presents gross operating margin by segment and total gross operating margin, a non-generally accepted accounting principle (“non-GAAP”) financial measure, for the years indicated (dollars in millions): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Year Ended December 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 2024 
+ 
+ Gross operating margin by segment: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ NGL Pipelines & Services 
+ 
+ 
+ 
+ 
+ $ 
+ 5,559 
+ 
+ 
+ $ 
+ 5,548 
+ 
+ 
+ Crude Oil Pipelines & Services 
+ 
+ 
+ 
+ 
+ 1,501 
+ 
+ 
+ 1,646 
+ 
+ 
+ Natural Gas Pipelines & Services 
+ 
+ 
+ 
+ 
+ 1,558 
+ 
+ 
+ 1,277 
+ 
+ 
+ Petrochemical & Refined Products Services 
+ 
+ 
+ 
+ 
+ 1,436 
+ 
+ 
+ 1,547 
+ 
+ 
+ Total segment gross operating margin (1) 
+ 
+ 
+ 
+ 
+ 10,054 
+ 
+ 
+ 10,018 
+ 
+ 
+ Net adjustment for shipper make-up rights 
+ 
+ 
+ 
+ 
+ (24) 
+ 
+ 
+ (34) 
+ 
+ 
+ Total gross operating margin (non-GAAP) 
+ 
+ 
+ 
+ 
+ $ 
+ 10,030 
+ 
+ 
+ $ 
+ 9,984 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) Within the context of this table, total segment gross operating margin represents a subtotal and corresponds to measures similarly titled within our business segment disclosures found under Note 10 of the Notes to Consolidated Financial Statements included under Part II, ITEM 8 of this annual report. 
+ Gross operating margin includes equity in the earnings of unconsolidated affiliates, but is exclusive of other income and expense transactions, income taxes, the cumulative effect of changes in accounting principles and extraordinary charges. Gross operating margin is presented on a 100% basis before any allocation of earnings to noncontrolling interests. Our calculation of gross operating margin may or may not be comparable to similarly titled measures used by other companies. Segment gross operating margin for NGL Pipelines & Services and Crude Oil Pipelines & Services reflect adjustments for shipper make-up rights that are included in management’s evaluation of segment results. However, these adjustments are excluded from non-GAAP total gross operating margin. 
+ 
+ 
+ 74 
+ 
+ Table of Contents 
+ The GAAP financial measure most directly comparable to total gross operating margin is operating income. For a discussion of operating income and its components, see the previous section titled “ Income Statement Highlights ” within this Part II, ITEM 7. The following table presents a reconciliation of operating income to total gross operating margin for the years indicated (dollars in millions): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Year Ended December 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 2024 
+ 
+ Operating income 
+ 
+ 
+ 
+ 
+ $ 
+ 7,266 
+ 
+ 
+ $ 
+ 7,338 
+ 
+ 
+ 
+ Adjustments to reconcile operating income to total gross operating margin (addition or subtraction indicated by sign): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Depreciation, amortization and accretion expense in operating costs and expenses (1) 
+ 
+ 
+ 
+ 
+ 2,477 
+ 
+ 
+ 2,343 
+ 
+ 
+ Asset impairment charges in operating costs and expenses 
+ 
+ 
+ 
+ 
+ 50 
+ 
+ 
+ 57 
+ 
+ 
+ Net losses (gains) attributable to asset sales and related matters in operating costs and expenses 
+ 
+ 
+ 
+ 
+ (14) 
+ 
+ 
+ 2 
+ 
+ 
+ General and administrative costs 
+ 
+ 
+ 
+ 
+ 251 
+ 
+ 
+ 244 
+ 
+ 
+ Total gross operating margin (non-GAAP) 
+ 
+ 
+ 
+ 
+ $ 
+ 10,030 
+ 
+ 
+ $ 
+ 9,984 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) Excludes amortization of major maintenance costs for reaction-based plants and amortization of finance lease right-of-use assets, which are components of gross operating margin. 
+ Each of our business segments benefits from the supporting role of our marketing activities. The main purpose of our marketing activities is to support the utilization and expansion of assets across our midstream energy asset network by increasing the volumes handled by such assets, which results in additional fee-based earnings for each business segment. In performing these support roles, our marketing activities also seek to participate in supply and demand opportunities as a supplemental source of gross operating margin for us. The financial results of our marketing efforts fluctuate due to changes in volumes handled and overall market conditions, which are influenced by current and forward market prices for the products bought and sold. 
+ NGL Pipelines & Services 
+ The following table presents segment gross operating margin and selected volumetric data for the NGL Pipelines & Services segment for the years indicated (dollars in millions, volumes as noted): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Year Ended December 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 2024 
+ 
+ Segment gross operating margin: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Natural gas processing and related NGL marketing activities 
+ 
+ 
+ 
+ 
+ $ 
+ 1,507 
+ 
+ 
+ $ 
+ 1,598 
+ 
+ 
+ NGL pipelines, storage and terminals 
+ 
+ 
+ 
+ 
+ 3,169 
+ 
+ 
+ 2,988 
+ 
+ 
+ NGL fractionation 
+ 
+ 
+ 
+ 
+ 883 
+ 
+ 
+ 962 
+ 
+ 
+ Total 
+ 
+ 
+ 
+ 
+ $ 
+ 5,559 
+ 
+ 
+ $ 
+ 5,548 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Selected volumetric data: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ NGL pipeline transportation volumes (MBPD) 
+ 
+ 
+ 
+ 
+ 4,646 
+ 
+ 
+ 4,426 
+ 
+ NGL marine terminal volumes (MBPD) 
+ 
+ 
+ 
+ 
+ 970 
+ 
+ 
+ 915 
+ 
+ NGL fractionation volumes (MBPD) 
+ 
+ 
+ 
+ 
+ 1,706 
+ 
+ 
+ 1,667 
+ 
+ Equity NGL-equivalent production volumes (MBPD) (1) 
+ 
+ 
+ 
+ 
+ 223 
+ 
+ 
+ 203 
+ 
+ Fee-based natural gas processing volumes (MMcf/d) (2,3) 
+ 
+ 
+ 
+ 
+ 7,311 
+ 
+ 
+ 6,733 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) Primarily represents the NGL and condensate volumes we earn and take title to in connection with our processing activities. The total equity NGL-equivalent production volumes also include residue natural gas volumes from our natural gas processing business. 
+ (2) Volumes reported correspond to the revenue streams earned by our natural gas processing plants. 
+ (3) Fee-based natural gas processing volumes are measured at either the wellhead or plant inlet in MMcf/d. 
+ Natural gas processing and related NGL marketing activities 
+ Gross operating margin from natural gas processing and related NGL marketing activities for the year ended December 31, 2025 decreased $91 million when compared to the year ended December 31, 2024 . 
+ 
+ 
+ 
+ 75 
+ 
+ Table of Contents 
+ Gross operating margin from our NGL marketing activities decreased a net $94 million year-to-year primarily due to lower average sales margins, which accounted for a $167 million decrease, partially offset by higher sales volumes, which accounted for a $65 million increase, and higher mark-to-market earnings, which accounted for an additional $10 million increase. 
+ Gross operating margin from our Rockies natural gas processing facilities (Meeker, Pioneer and Chaco) decreased a combined $22 million year-to-year primarily due to lower average processing margins (including the impact of hedging activities). On a combined basis, fee-based natural gas processing volumes and equity NGL-equivalent production volumes decreased 40 MMcf/d and increased 2 MBPD, respectively, year-to-year. 
+ Gross operating margin from our Midland Basin natural gas processing facilities increased a net $17 million year-to-year primarily due to higher fee-based natural gas processing volumes, which accounted for a $32 million increase, and a 5 MBPD increase in equity NGL-equivalent production volumes, which accounted for an additional $9 million increase, partially offset by higher operating costs, which accounted for a $24 million decrease. Fee-based natural gas processing volumes at our Midland Basin natural gas processing facilities increased 270 MMcf/d year-to-year primarily due to contributions from our Leonidas and Orion natural gas processing trains, which were placed into service in late first quarter of 2024 and the third quarter of 2025, respectively. 
+ Gross operating margin from our Delaware Basin natural gas processing facilities increased a net $15 million year-to-year primarily due to higher fee-based natural gas processing volumes, which accounted for a $44 million increase, and a 5 MBPD increase in equity NGL-equivalent production volumes, which accounted for an additional $26 million increase, partially offset by lower average processing margins (including the impact of hedging activities), which accounted for a $41 million decrease, and higher operating costs, which accounted for an additional $14 million decrease. Fee-based natural gas processing volumes at our Delaware Basin natural gas processing facilities increased 282 MMcf/d year-to-year, primarily due to contributions from our Mentone 3 and Mentone West 1 natural gas processing trains, which were placed into service in late first quarter of 2024 and the third quarter of 2025, respectively. 
+ NGL pipelines, storage and terminals 
+ Gross operating margin from our NGL pipelines, storage and terminal assets for the year ended December 31, 2025 increased $181 million when compared to the year ended December 31, 2024 . 
+ A number of our pipelines, including the Mid-America Pipeline System, Seminole NGL Pipeline, Chaparral Pipeline, Shin Oak NGL Pipeline, and Bahia NGL Pipeline, serve Permian Basin and/or Rocky Mountain producers. On a combined basis, gross operating margin from these pipelines increased $85 million year-to-year primarily due to a 51 MBPD increase in transportation volumes, which accounted for a $55 million increase, and higher other revenues, which accounted for an additional $28 million increase. 
+ Gross operating margin for our Eastern ethane pipelines, which include our ATEX and Aegis pipelines, increased a combined $76 million year-to-year primarily due to a 65 MBPD increase in transportation volumes, which accounted for a $49 million increase, and higher average transportation fees, which accounted for an additional $31 million increase. 
+ Gross operating margin from LPG-related activities at EHT decreased $135 million year-to-year primarily due to lower average loading fees, which accounted for a $123 million decrease, and higher operating costs, which accounted for an additional $11 million decrease. Gross operating margin at our Morgan’s Point and Neches River Export Terminals increased a combined $60 million year-to-year primarily due to higher ethane export volumes. The combined 60 MBPD year-to-year increase in ethane export volumes at these terminals included contributions from the first phase of our Neches River export facility, which was placed into service in July 2025. Gross operating margin from our related Houston Ship Channel Pipeline System increased $11 million year-to-year primarily due to a 54 MBPD increase in transportation volumes. 
+ Gross operating margin from our Dixie Pipeline and related terminals increased $27 million year-to-year primarily due to higher average transportation fees, which accounted for a $13 million increase, and higher loading and other fee revenues, which accounted for an additional $14 million increase. Transportation volumes on our Dixie Pipeline increased 7 MBPD year-to-year . 
+ 
+ 
+ 76 
+ 
+ Table of Contents 
+ Gross operating margin from our Tri-States NGL Pipeline increased $24 million year-to-year primarily due to a 9 MBPD increase in transportation volumes, which accounted for a $12 million increase, and higher average transportation fees, which accounted for an additional $7 million increase. 
+ Gross operating margin from our Mont Belvieu area storage complex increased a net $19 million year-to-year primarily due to higher storage revenues, which accounted for a $32 million increase, partially offset by higher operating costs, which accounted for a $13 million decrease. 
+ Gross operating margin from our South Texas NGL Pipeline System increased $14 million year-to-year primarily due to higher capacity reservation revenues, which accounted for an $8 million increase, and lower operating costs, which accounted for an additional $3 million increase. Transportation volumes on this system increased 16 MBPD year-to-year . 
+ NGL fractionation 
+ Gross operating margin from NGL fractionation during the year ended December 31, 2025 decreased $79 million when compared to the year ended December 31, 2024 . 
+ Gross operating margin from our Mont Belvieu area NGL fractionation complex decreased a net $52 million year-to-year primarily due to higher operating costs, which accounted for a $51 million decrease, and lower ancillary service revenues, which accounted for an additional $37 million decrease, partially offset by higher fractionation volumes, which accounted for a $29 million increase, and higher average fractionation fees, which accounted for an additional $7 million increase. NGL fractionation volumes at our Mont Belvieu area NGL fractionation complex increased 38 MBPD primarily due to contributions fro m Frac 14, which was placed into service during the fourth quarter of 2025. 
+ On a combined basis, gross operating margin from NGL fractionators other than our Mont Belvieu area complex decreased a net $24 million year-to-year primarily due to lower ancillary service revenues, which accounted for a $21 million decrease, and higher operating costs, which accounted for an additional $11 million decrease, partially offset by higher average fractionation fees, which accounted for an $8 million increase. NGL fractionation volumes from these NGL fractionators increased a combined 1 MBPD (net to our interest) year-to-year. 
+ Crude Oil Pipelines & Services 
+ The following table presents segment gross operating margin and selected volumetric data for the Crude Oil Pipelines & Services segment for the years indicated (dollars in millions, volumes as noted): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Year Ended December 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 2024 
+ 
+ Segment gross operating margin 
+ 
+ 
+ 
+ 
+ $ 
+ 1,501 
+ 
+ 
+ $ 
+ 1,646 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Selected volumetric data: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Crude oil pipeline transportation volumes (MBPD) 
+ 
+ 
+ 
+ 
+ 2,578 
+ 
+ 2,528 
+ 
+ Crude oil marine terminal volumes (MBPD) 
+ 
+ 
+ 
+ 
+ 763 
+ 
+ 955 
+ Gross operating margin from our Crude Oil Pipelines & Services segment for the year ended December 31, 2025 decreased $145 million when compared to the year ended December 31, 2024 . 
+ Gross operating margin from our Texas crude oil pipelines, related terminals and marketing activities (excluding the Seaway Pipeline) decreased a combined net $170 million year-to-year primarily due to lower average sales margins from marketing activities, which accounted for a $147 million decrease, lower mark-to-market earnings, which accounted for a $25 million decrease, lower transportation-related revenues, which accounted for a $21 million decrease, and higher operating costs, which accounted for an additional $17 million decrease, partially offset by a combined 59 MBPD (net to our interest) increase in crude oil transportation volumes, which accounted for a $48 million increase. 
+ Gross operating margin from crude oil activities at EHT increased $29 million year-to-year primarily due to higher loading revenues, which accounted for a $15 million increase, and lower operating costs, which accounted for an additional $13 million increase. Crude oil marine terminal volumes at EHT decreased 168 MBPD year-to-year. 
+ 
+ 
+ 77 
+ 
+ Table of Contents 
+ Natural Gas Pipelines & Services 
+ The following table presents segment gross operating margin and selected volumetric data for the Natural Gas Pipelines & Services segment for the years indicated (dollars in millions, volumes as noted): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Year Ended December 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 2024 
+ 
+ Segment gross operating margin 
+ 
+ 
+ 
+ 
+ $ 
+ 1,558 
+ 
+ 
+ $ 
+ 1,277 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Selected volumetric data: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Natural gas pipeline transportation volumes (BBtus/d) 
+ 
+ 
+ 
+ 
+ 20,704 
+ 
+ 19,276 
+ Gross operating margin from our Natural Gas Pipelines & Services segment for the year ended December 31, 2025 increased $281 million when compared to the year ended December 31, 2024 . 
+ Gross operating margin from our Delaware Basin Gathering System, which includes the natural gas gathering system acquired in October 2024 through our acquisition of Pinon Midstream, increased a net $86 million year-to-year primarily due to higher treating and other revenues, which accounted for a $71 million increase, a 603 BBtus/d increase in natural gas gathering volumes, which accounted for a $47 million increase, and higher average gathering fees, which accounted for an additional $17 million increase, partially offset by higher operating costs, which accounted for a $49 million decrease. 
+ Gross operating margin from our Texas Intrastate System increased a net $76 million year-to-year primarily due to higher capacity reservation fees and other revenues, which accounted for a $74 million increase, and a 255 BBtus/d increase in transportation volumes, which accounted for an additional $12 million increase, partially offset by lower average transportation fees, which accounted for a $9 million decrease. 
+ Gross operating margin from our natural gas marketing activities increased a net $65 million year-to-year primarily due to higher average sales margins, which accounted for a $68 million increase, and higher sales volumes, which accounted for an additional $12 million increase, partially offset by lower mark-to-market earnings, which accounted for a $15 million decrease. 
+ Gross operating margin from our Midland Basin Gathering System increased a net $31 million year-to-year primarily due to a 364 BBtus/d increase in natural gas gathering volumes, which accounted for a $51 million increase, and higher other revenues, which accounted for an additional $8 million increase, partially offset by higher operating costs, which accounted for a $28 million decrease. 
+ Gross operating margin from our Acadian Gas System increased $18 million year-to-year primarily due to a 231 BBtus/d increase in transportation volumes. 
+ 
+ 
+ 78 
+ 
+ Table of Contents 
+ Petrochemical & Refined Products Services 
+ The following table presents segment gross operating margin and selected volumetric data for the Petrochemical & Refined Products Services segment for the years indicated (dollars in millions, volumes as noted): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Year Ended December 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 2024 
+ 
+ Segment gross operating margin: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Propylene production and related activities 
+ 
+ 
+ 
+ 
+ $ 
+ 458 
+ 
+ 
+ $ 
+ 507 
+ 
+ 
+ Butane isomerization and related operations 
+ 
+ 
+ 
+ 
+ 120 
+ 
+ 
+ 126 
+ 
+ 
+ Octane enhancement and related plant operations 
+ 
+ 
+ 
+ 
+ 273 
+ 
+ 
+ 415 
+ 
+ 
+ Refined products pipelines and related activities 
+ 
+ 
+ 
+ 
+ 385 
+ 
+ 
+ 287 
+ 
+ 
+ Ethylene exports and related activities 
+ 
+ 
+ 
+ 
+ 122 
+ 
+ 
+ 142 
+ 
+ 
+ Marine transportation and other services 
+ 
+ 
+ 
+ 
+ 78 
+ 
+ 
+ 70 
+ 
+ 
+ Total 
+ 
+ 
+ 
+ 
+ $ 
+ 1,436 
+ 
+ 
+ $ 
+ 1,547 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Selected volumetric data: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Propylene production volumes (MBPD) 
+ 
+ 
+ 
+ 
+ 116 
+ 
+ 
+ 112 
+ 
+ Butane isomerization volumes (MBPD) 
+ 
+ 
+ 
+ 
+ 121 
+ 
+ 
+ 118 
+ 
+ Standalone deisobutanizer (“DIB”) processing volumes (MBPD) 
+ 
+ 
+ 
+ 
+ 194 
+ 
+ 
+ 198 
+ 
+ Octane enhancement and related plant sales volumes (MBPD) (1) 
+ 
+ 
+ 
+ 
+ 40 
+ 
+ 
+ 37 
+ 
+ Pipeline transportation volumes, primarily refined products and petrochemicals (MBPD) 
+ 
+ 
+ 
+ 
+ 1,040 
+ 
+ 
+ 947 
+ 
+ Marine terminal volumes, primarily refined products and petrochemicals (MBPD) 
+ 
+ 
+ 
+ 
+ 330 
+ 
+ 
+ 326 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) Reflects aggregate sales volumes for our octane enhancement and iBDH facilities located at our Mont Belvieu area complex and our HPIB facility located adjacent to the Houston Ship Channel. 
+ Propylene production and related activities 
+ Gross operating margin from propylene production and related activities for the year ended December 31, 2025 decreased $49 million when compared to the year ended December 31, 2024 . 
+ On a combined basis, gross operating margin from our Mont Belvieu area propylene production facilities decreased a net $30 million year-to-year primarily due to higher operating costs, which accounted for a $76 million decrease, and lower average propylene sales margins, which accounted for an additional $32 million decrease, partially offset by higher propylene sales volumes, which accounted for a $61 million increase, and higher other revenues, which accounted for an additional $18 million increase. Propylene and associated by-product production volumes at these facilities increased a combined 3 MBPD . 
+ Gross operating margin from our propylene pipeline systems decreased a combined $13 million year-to-year primarily due to a 10 MBPD decrease in transportation volumes, which accounted for a $4 million decrease, lower other revenues, which accounted for a $4 million decrease and lower average transportation fees, which accounted for an additional $3 million decrease. 
+ Butane isomerization and related operations 
+ Gross operating margin from butane isomerization and related operations decreased a net $6 million year-to-year primarily due to higher operating costs, which accounted for an $11 million decrease, partially offset by higher ancillary service revenues, which accounted for a $7 million increase. 
+ Octane enhancement and related plant operations 
+ Gross operating margin from our octane enhancement and related plant operations decreased a net $142 million year-to-year primarily due to lower average sales margins, which accounted for a $126 million decrease, lower deficiency revenues, which accounted for a $30 million decrease, and higher operating costs, which accounted for an additional $5 million decrease, partially offset by higher sales volumes, which accounted for a $21 million increase. 
+ Refined products pipelines and related activities 
+ Gross operating margin from refined products pipelines and related activities for the year ended December 31, 2025 increased $98 million when compared to the year ended December 31, 2024 . 
+ 
+ 
+ 79 
+ 
+ Table of Contents 
+ Gross operating margin from our TE Products Pipeline System increased a net $61 million year-to-year primarily due to a 70 MBPD increase in transportation volumes, which accounted for a $56 million increase, higher other revenues, which accounted for a $19 million increase, and higher average transportation fees, which accounted for an additional $16 million increase, partially offset by higher operating costs, which accounted for a $30 million decrease. 
+ Gross operating margin from o ur TW Products System increased $44 million year-to-year primarily due to the full start-up of the system, which was placed into service in stages during 2024 and was fully operational in October 2024. 
+ Gross operating margin from our refined products marketing activities decreased $15 million year-to-year primarily due to lower average sales margins. 
+ Ethylene exports and related activities 
+ Gross operating margin from ethylene exports and related activities for the year ended December 31, 2025 decreased a net $20 million when compared to the year ended December 31, 2024 primarily due to lower deficiency fee revenues from our ethylene pipelines and ethylene export terminal, which accounted for a $21 million decrease, and higher operating costs, which accounted for an additional $14 million decrease, partially offset by a 4 MBPD increase in ethylene export volumes, which accounted for an $8 million increase, and higher storage and other revenues, which accounted for an additional $6 million increase. 
+ Marine transportation and other services 
+ Gross operating margin from marine transportation and other services increased a net $8 million year-to-year primarily due to higher average fees, which accounted for a $12 million increase, partially offset by higher operating costs, which accounted for a $5 million decrease. 
+ 
+ Liquidity and Capital Resources 
+ Based on current market conditions (as of the filing date of this annual report), we believe that the Partnership and its consolidated businesses will have sufficient liquidity, cash flow from operations and access to capital markets to fund their capital investments and working capital needs for the reasonably foreseeable future. At December 31, 2025 , we had $5.2 billion of consolidated liquidity. This amount was comprised of $4.2 billion of available borrowing capacity under EPO’s revolving credit facilities and $969 million of unrestricted cash on hand. 
+ We may issue debt and equity securities to assist us in meeting our future funding and liquidity requirements, including those related to capital investments. We have a universal shelf registration statement on file with the SEC that allows the Partnership and EPO to issue an unlimited amount of equity and debt securities, respectively. In addition, we have a registration statement on file with the SEC covering the issuance of up to $2.5 billion of the Partnership’s common units in amounts, at prices and on terms based on market conditions and other factors at the time of such offerings (referred to as the Partnership’s at-the-market (“ATM”) program). 
+ 
+ 
+ 80 
+ 
+ Table of Contents 
+ Cash Flow Statement Highlights 
+ The following table summarizes our consolidated cash flows from operating, investing and financing activities for the years indicated (dollars in millions). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Year Ended December 31, 
+ 
+ 
+ 2025 
+ 
+ 2024 
+ 
+ Net cash flow provided by operating activities 
+ $ 
+ 8,585 
+ 
+ 
+ $ 
+ 8,115 
+ 
+ 
+ Net cash flow used in investing activities 
+ 5,491 
+ 
+ 
+ 5,433 
+ 
+ 
+ Net cash flow used in financing activities 
+ 2,687 
+ 
+ 
+ 2,164 
+ 
+ Net cash flow provided by operating activities are largely dependent on earnings from our consolidated business activities. Changes in energy commodity prices may impact the demand for natural gas, NGLs, crude oil, petrochemicals and refined products, which could impact sales of our products and the demand for our midstream services. Changes in demand for our products and services may be caused by other factors, including prevailing economic conditions, reduced demand by consumers for the end products made with hydrocarbon products, increased competition, public health emergencies, adverse weather conditions and government regulations affecting prices and production levels. We may also incur credit and price risk to the extent customers do not fulfill their contractual obligations to us in connection with our marketing activities and long-term take-or-pay and dedication agreements. For a more complete discussion of these and other risk factors pertinent to our business, see Part I, ITEM 1A of this annual report. 
+ For additional information regarding our cash flow amounts, please refer to the Statements of Consolidated Cash Flows included under Part II, ITEM 8 of this annual report. 
+ The following information highlights significant year-to-year fluctuations in our consolidated cash flow amounts: 
+ Operating activities 
+ Net cash flow provided by operating activities for the year ended December 31, 2025 increased $470 million when compared to the year ended December 31, 2024 primarily due to changes in operating accounts primarily due to the use of working capital employed in our marketing activities, which includes the impact of (i) fluctuations in commodity prices, (ii) timing of our inventory purchase and sale strategies, and (iii) changes in margin deposit requirements associated with our commodity derivative instruments. 
+ For information regarding significant year-to-year changes in our consolidated net income and underlying segment results, see “ Income Statement Highlights ” and “ Business Segment Highlights ” within this Part II, ITEM 7. 
+ Investing activities 
+ Net cash flow used in investing activities for the year ended December 31, 2025 increased a net $58 million when compared to the year ended December 31, 2024 primarily due to: 
+ • a $1.1 billion year-to-year increase in investments for property, plant and equipment (see “ Capital Investments ” within this Part II, ITEM 7 for additional information); partially offset by 
+ • a net $949 million cash outflow in October 2024 in connection with the acquisition of Pinon Midstream; and 
+ • a $68 million increase in proceeds from asset sales and other matters primarily attributable to the $60 million first installment payment received in December 2025 related to our sale of a 40% undivided joint interest in the Bahia NGL Pipeline. 
+ 
+ 
+ 81 
+ 
+ Table of Contents 
+ Financing activities 
+ Net cash flow used in financing activities for the year ended December 31, 2025 increased a net $523 million when compared to the year ended December 31, 2024 primarily due to: 
+ • a net cash inflow of $2.5 billion related to debt transactions that occurred during the year ended December 31, 2025 compared to a net cash inflow of $3.1 billion related to debt transactions that occurred during the year ended December 31, 2024 . In 2025 , we issued $3.65 billion aggregate principal amount of senior notes, partially offset by the repayment of $1.15 billion principal amount of senior notes. In 2024 we issued $4.5 billion aggregate principal amount of senior notes, partially offset by the repayment of $850 million principal amount of senior notes and net repayments of $450 million under EPO’s commercial paper program; 
+ • a $166 million year-to-year increase in cash distributions paid to common unitholders primarily attributable to increases in the quarterly cash distribution rate per unit; 
+ • an $81 million year-to-year increase in the repurchase of common units under the 2019 Buyback Program; partially offset by 
+ • a $400 million cash outflow during the first quarter of 2024 in connection with the acquisition of noncontrolling interests from affiliates of Western Midstream Partners, LP. 
+ Non-GAAP Cash Flow Measures 
+ Distributable Cash Flow and Operational Distributable Cash Flow 
+ Our partnership agreement requires us to make quarterly distributions to our common unitholders of all available cash, after any cash reserves established by Enterprise GP in its sole discretion. Cash reserves include those for the proper conduct of our business, including those for capital investments, debt service, working capital, operating expenses, common unit repurchases, commitments and contingencies and other amounts. The retention of cash allows us to reinvest in our growth and reduce our future reliance on the equity and debt capital markets. 
+ We measure available cash by reference to distributable cash flow (“DCF”), which is a non-GAAP cash flow measure. DCF is an important financial measure for our common unitholders since it serves as an indicator of our success in providing a cash return on investment. Specifically, this financial measure indicates to investors whether or not we are generating cash flows at a level that can sustain our declared quarterly cash distributions. DCF is also a quantitative standard used by the investment community with respect to publicly traded partnerships since the value of a partnership unit is, in part, measured by its yield, which is based on the amount of cash distributions a partnership can pay to a unitholder. Our management compares the DCF we generate to the cash distributions we expect to pay our common unitholders. Using this metric, management computes our distribution coverage ratio. Our calculation of DCF may or may not be comparable to similarly titled measures used by other companies. 
+ Based on the level of available cash each quarter, management proposes a quarterly cash distribution rate to the Board, which has sole authority in approving such matters. Enterprise GP has a non-economic ownership interest in the Partnership and is not entitled to receive any cash distributions from it based on incentive distribution rights or other equity interests. 
+ Operational distributable cash flow (“Operational DCF”), which is defined as DCF excluding the impact of proceeds from asset sales and other matters and monetization of interest rate derivative instruments, is a supplemental non-GAAP liquidity measure that quantifies the portion of cash available for distribution to common unitholders that was generated from our normal operations. We believe that it is important to consider this non-GAAP measure as it provides an enhanced perspective of our assets’ ability to generate cash flows without regard for certain items that do not reflect our core operations. 
+ Our use of DCF and Operational DCF for the limited purposes described above and in this report is not a substitute for net cash flow provided by operating activities, which is the most comparable GAAP measure to DCF and Operational DCF. For a discussion of net cash flow provided by operating activities, see “ Cash Flow Statement Highlights ” within this Part II, ITEM 7. 
+ 
+ 
+ 82 
+ 
+ Table of Contents 
+ The following table summarizes our calculation of DCF and Operational DCF for the years indicated (dollars in millions): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Year Ended December 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 2024 
+ 
+ Net income attributable to common unitholders (GAAP) (1) 
+ 
+ 
+ 
+ 
+ $ 
+ 5,810 
+ 
+ 
+ $ 
+ 5,897 
+ 
+ 
+ Adjustments to net income attributable to common unitholders to derive DCF and Operational DCF (addition or subtraction indicated by sign): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Depreciation, amortization and accretion expenses 
+ 
+ 
+ 
+ 
+ 2,623 
+ 
+ 
+ 2,473 
+ 
+ 
+ Cash distributions received from unconsolidated affiliates (2) 
+ 
+ 
+ 
+ 
+ 438 
+ 
+ 
+ 483 
+ 
+ 
+ Equity in income of unconsolidated affiliates 
+ 
+ 
+ 
+ 
+ (361) 
+ 
+ 
+ (408) 
+ 
+ 
+ Asset impairment charges 
+ 
+ 
+ 
+ 
+ 50 
+ 
+ 
+ 57 
+ 
+ 
+ Change in fair market value of derivative instruments 
+ 
+ 
+ 
+ 
+ 16 
+ 
+ 
+ (20) 
+ 
+ 
+ Deferred income tax expense 
+ 
+ 
+ 
+ 
+ 46 
+ 
+ 
+ 45 
+ 
+ 
+ Sustaining capital expenditures (3) 
+ 
+ 
+ 
+ 
+ (620) 
+ 
+ 
+ (667) 
+ 
+ 
+ Other, net 
+ 
+ 
+ 
+ 
+ (98) 
+ 
+ 
+ (2) 
+ 
+ 
+ Operational DCF (non-GAAP) 
+ 
+ 
+ 
+ 
+ $ 
+ 7,904 
+ 
+ 
+ $ 
+ 7,858 
+ 
+ 
+ Proceeds from asset sales and other matters 
+ 
+ 
+ 
+ 
+ 82 
+ 
+ 
+ 14 
+ 
+ 
+ Monetization of interest rate derivative instruments accounted for as cash flow hedges 
+ 
+ 
+ 
+ 
+ 14 
+ 
+ 
+ (33) 
+ 
+ 
+ DCF (non-GAAP) 
+ 
+ 
+ 
+ 
+ $ 
+ 8,000 
+ 
+ 
+ $ 
+ 7,839 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cash distributions paid to common unitholders with respect to period, including distribution equivalent rights on phantom unit awards 
+ 
+ 
+ 
+ 
+ $ 
+ 4,752 
+ 
+ 
+ $ 
+ 4,598 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cash distribution per common unit declared by Enterprise GP with respect to period (4) 
+ 
+ 
+ 
+ 
+ $ 
+ 2.1750 
+ 
+ 
+ $ 
+ 2.1000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total DCF retained by the Partnership with respect to period (5) 
+ 
+ 
+ 
+ 
+ $ 
+ 3,248 
+ 
+ 
+ $ 
+ 3,241 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Distribution coverage ratio (6) 
+ 
+ 
+ 
+ 
+ 1.7 
+ x 
+ 
+ 1.7 
+ x 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) For a discussion of the primary drivers of changes in our comparative income statement amounts, see “ Income Statement Highlights ” within this Part II, ITEM 7. 
+ (2) Reflects aggregate distributions received from unconsolidated affiliates attributable to both earnings and the return of capital. 
+ (3) Sustaining capital expenditures include cash payments and accruals applicable to the period. 
+ (4) See Note 8 of the Notes to Consolidated Financial Statements included under Part II, ITEM 8 of this annual report for information regarding our quarterly cash distributions declared with respect to the years indicated. 
+ (5) Cash retained by the Partnership may be used for capital investments, debt service, working capital, operating expenses, common unit repurchases, commitments and contingencies and other amounts. The retention of cash reduces our reliance on the capital markets. 
+ (6) Distribution coverage ratio is determined by dividing DCF by total cash distributions paid to common unitholders and in connection with distribution equivalent rights with respect to the period. 
+ The following table presents a reconciliation of net cash flow provided by operating activities to DCF and Operational DCF for the years indicated (dollars in millions): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Year Ended December 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 2024 
+ 
+ Net cash flow provided by operating activities (GAAP) 
+ 
+ 
+ 
+ 
+ $ 
+ 8,585 
+ 
+ 
+ $ 
+ 8,115 
+ 
+ 
+ Adjustments to reconcile net cash flow provided by operating activities to DCF and Operational DCF (addition or subtraction indicated by sign): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net effect of changes in operating accounts 
+ 
+ 
+ 
+ 
+ 124 
+ 
+ 
+ 506 
+ 
+ 
+ Sustaining capital expenditures 
+ 
+ 
+ 
+ 
+ (620) 
+ 
+ 
+ (667) 
+ 
+ 
+ Distributions received from unconsolidated affiliates attributable to the return of capital 
+ 
+ 
+ 
+ 
+ 74 
+ 
+ 
+ 77 
+ 
+ 
+ Net income attributable to noncontrolling interests 
+ 
+ 
+ 
+ 
+ (62) 
+ 
+ 
+ (69) 
+ 
+ 
+ Other, net 
+ 
+ 
+ 
+ 
+ (197) 
+ 
+ 
+ (104) 
+ 
+ 
+ Operational DCF (non-GAAP) 
+ 
+ 
+ 
+ 
+ $ 
+ 7,904 
+ 
+ 
+ $ 
+ 7,858 
+ 
+ 
+ Proceeds from asset sales and other matters 
+ 
+ 
+ 
+ 
+ 82 
+ 
+ 
+ 14 
+ 
+ 
+ Monetization of interest rate derivative instruments accounted for as cash flow hedges 
+ 
+ 
+ 
+ 
+ 14 
+ 
+ 
+ (33) 
+ 
+ 
+ DCF (non-GAAP) 
+ 
+ 
+ 
+ 
+ $ 
+ 8,000 
+ 
+ 
+ $ 
+ 7,839 
+ 
+ 
+ 
+ 83 
+ 
+ 
+ Table of Contents 
+ Capital Investments 
+ Since the beginning of 2025, we have placed into service two natural gas processing trains in the Permian Basin, the first phase of our Neches River Ethane / Propane Export Facility, an NGL fractionator (“Frac 14”) and associated DIB unit at our Mont Belvieu area NGL fractionation complex, the Bahia NGL Pipeline and the second phase of enhancements at our Morgan’s Point terminal. We have approximately $4.8 billion of growth capital projects scheduled to be completed by the end of 2027, including the following projects (including their respective scheduled completion dates): 
+ • natural gas gathering, compression and treating expansion projects in the Delaware and Midland Basins (2026 and 2027); 
+ • our second natural gas processing train at our Mentone West location in the Delaware Basin (first quarter of 2026); 
+ • the second phase of our Neches River Ethane / Propane Export Facility located in Orange County, Texas (first half of 2026); 
+ • the expansion of our LPG export capacity at EHT, including Ref 4 (fourth quarter of 2026); 
+ • a ninth natural gas processing train (“Athena”) in the Midland Basin (fourth quarter of 2026); and 
+ • the expansion and extension of the Bahia NGL Pipeline (fourth quarter of 2027). 
+ Based on information currently available, we expect our total organic capital investments for 2026 , net of contributions from noncontrolling interests, to approximate $3.1 billion to $3.5 billion, which reflects organic growth capital investments of $2.5 billion to $2.9 billion and sustaining capital expenditures of $580 million. In addition, we expect approximately $600 million in cash proceeds from asset sales and other matters during 2026, primarily from the second installment payment received in January 2026 related to the sale of a 40% undivided joint interest in our Bahia NGL Pipeline, which may be used to offset a portion of our forecasted organic growth capital investments. 
+ Our forecast of capital investments is dependent upon our ability to generate the required funds from either operating cash flows or other means, including borrowings under debt agreements, the issuance of additional equity and debt securities, and potential divestitures. We may revise our forecast of capital investments due to factors beyond our control, such as adverse economic conditions, weather-related issues and changes in supplier prices resulting from raw material or labor shortages, supply chain disruptions or inflation. Furthermore, our forecast of capital investments may change over time based on future decisions by management, which may include changing the scope or timing of projects or cancelling projects altogether. Our success in raising capital, having the ability to increase revenues commensurate with cost increases and our ability to partner with other companies to share project costs and risks continue to be significant factors in determining how much capital we can invest. We believe our access to capital resources is sufficient to meet the demands of our current and future growth needs, and although we currently expect to make the forecast capital investments noted above, we may revise our plans in response to changes in economic and capital market conditions. 
+ 
+ 
+ 84 
+ 
+ Table of Contents 
+ The following table summarizes our capital investments for the years indicated (dollars in millions): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Year Ended December 31, 
+ 
+ 
+ 2025 
+ 
+ 2024 
+ 
+ Capital investments: (1) 
+ 
+ 
+ 
+ 
+ Growth capital projects (2) 
+ $ 
+ 4,393 
+ 
+ 
+ $ 
+ 3,890 
+ 
+ 
+ Sustaining capital projects (3) 
+ 595 
+ 
+ 
+ 654 
+ 
+ 
+ 
+ Asset acquisitions (4) 
+ 632 
+ 
+ 
+ – 
+ 
+ 
+ Total 
+ $ 
+ 5,620 
+ 
+ 
+ $ 
+ 4,544 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cash used for business combinations, net of cash received (5) 
+ $ 
+ – 
+ 
+ 
+ $ 
+ 949 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) Growth and sustaining capital amounts presented in the table above are presented on a cash basis. In total, these amounts represent “Capital expenditures” as presented on our Statements of Consolidated Cash Flows. 
+ (2) Growth capital projects either (a) result in new sources of cash flow due to enhancements of or additions to existing assets (e.g., additional revenue streams, cost savings resulting from debottlenecking of a facility, etc.) or (b) expand our asset base through construction of new facilities that will generate additional revenue streams and cash flows. 
+ (3) Sustaining capital projects are capital expenditures (as defined by GAAP) resulting from improvements to existing assets. Such expenditures serve to maintain existing operations but do not generate additional revenues or result in significant cost savings. Sustaining capital expenditures include the costs of major maintenance activities at our reaction-based plants, which are accounted for using the deferral method. 
+ (4) Amount for the year ended December 31, 2025 primarily represents the total cost of the acquisition of the Oxy natural gas gathering affiliate, which closed in August 2025. For additional information, see Note 12 of the Notes to Consolidated Financial Statements included under Part II, ITEM 8 of this annual report. 
+ (5) Amount for the year ended December 31, 2024 represents net cash used for the acquisition of Pinon Midstream, which closed in October 2024. For additional information, see Note 12 of the Notes to Consolidated Financial Statements included under Part II, ITEM 8 of this annual report. 
+ Comparison of Year Ended December 31, 2025 with Year Ended December 31, 2024 
+ In total, investments in growth capital projects increased a net $503 million year-to-year primarily due to the following: 
+ • higher investments in our Bahia NGL Pipeline (placed into service in December 2025), which accounted for a $393 million increase; 
+ • higher investments in the construction of natural gas processing trains and related gathering system expansions in the Delaware and Midland Basins, which accounted for an additional $343 million increase; partially offset by 
+ • lower investments in our TW Products System (placed into service in phases during 2024), which accounted for a $158 million decrease. 
+ Investments attributable to sustaining capital projects decreased $59 million year-to-year primarily due to lower major maintenance activities performed at certain of our reaction-based plants (e.g., our PDH 1 and iBDH facilities) and fluctuations in timing and costs of pipeline integrity and similar projects. 
+ Consolidated Debt 
+ At December 31, 2025 , the average maturity of EPO’s consolidated debt obligations was approximately 16.8 years. The following table presents the scheduled maturities of principal amounts of EPO’s consolidated debt obligations and associated estimated cash payments for interest at December 31, 2025 for the years indicated (dollars in millions): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ 
+ 2026 
+ 
+ 2027 
+ 
+ 2028 
+ 
+ 2029 
+ 
+ 2030 
+ 
+ Thereafter 
+ 
+ Principal amount of debt obligations 
+ $ 
+ 34,707 
+ 
+ 
+ $ 
+ 1,625 
+ 
+ 
+ $ 
+ 1,575 
+ 
+ 
+ $ 
+ 1,800 
+ 
+ 
+ $ 
+ 1,250 
+ 
+ 
+ $ 
+ 1,250 
+ 
+ 
+ $ 
+ 27,207 
+ 
+ 
+ Estimated cash payments for interest (1) 
+ $ 
+ 28,309 
+ 
+ 
+ $ 
+ 1,578 
+ 
+ 
+ $ 
+ 1,509 
+ 
+ 
+ $ 
+ 1,477 
+ 
+ 
+ $ 
+ 1,409 
+ 
+ 
+ $ 
+ 1,354 
+ 
+ 
+ $ 
+ 20,982 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) Estimated cash payments for interest are based on the principal amount of our consolidated debt obligations outstanding at December 31, 2025, the contractually scheduled maturities of such balances, and the applicable interest rates. Our estimated cash payments for interest are influenced by the long-term maturities of our $2.3 billion in junior subordinated notes (due June 2067 through February 2078). The estimated cash payments assume that (i) the junior subordinated notes are not repaid prior to their respective maturity dates and (ii) the amount of interest paid on the junior subordinated notes is based on either (a) the current fixed interest rate charged or (b) the weighted-average variable rate paid in 2025, as applicable, for each note through the respective maturity date. 
+ 
+ 
+ 85 
+ 
+ Table of Contents 
+ In March 2025, EPO entered into a new 364-Day Revolving Credit Agreement (the “March 2025 $1.5 Billion 364-Day Revolving Credit Agreement”) that replaced its prior 364-day revolving credit agreement. The March 2025 $1.5 Billion 364-Day Revolving Credit Agreement matures in March 2026. EPO expects to renew this credit agreement during the first quarter of 2026. As of December 31, 2025 , there are no principal amounts outstanding under this new revolving credit agreement. 
+ Also in March 2025, EPO amended its Multi-Year Revolving Credit Agreement (the “March 2023 $2.7 Billion Multi-Year Revolving Credit Agreement”) to extend its maturity date from March 2028 to March 2030. The remaining material terms of the March 2023 $2.7 Billion Multi-Year Revolving Credit Agreement, as amended, remain unchanged. As of December 31, 2025 , there are no principal amounts outstanding under this revolving credit agreement. 
+ In June 2025, EPO issued $2.0 billion aggregate principal amount of senior notes comprised of (i) $500 million principal amount of senior notes due June 2028 (“Senior Notes LLL”), (ii) $750 million principal amount of senior notes due January 2031 (“Senior Notes MMM”) and (iii) $750 million principal amount of senior notes due January 2036 (“Senior Notes NNN”). Senior Notes LLL were issued at 99.869% of their principal amount and have a fixed interest rate of 4.30% per year. Senior Notes MMM were issued at 99.816% of their principal amount and have a fixed interest rate of 4.60% per year. Senior Notes NNN were issued at 99.665% of their principal amount and have a fixed interest rate of 5.20% per year. Net proceeds from this offering were used by EPO for general company purposes, including for growth capital investments, and the repayment of amounts outstanding under our commercial paper program. 
+ In November 2025, EPO issued $1.65 billion aggregate principal amount of senior notes comprised of (i) $300 million principal amount of reopened Senior Notes LLL, (ii) $600 million principal amount of reopened Senior Notes MMM and (iii) $750 million principal amount of reopened Senior Notes NNN. The reopened Senior Notes LLL, reopened Senior Notes MMM and reopened Senior Notes NNN were issued at 100.630%, 100.693% and 101.185% of their respective principal amounts, plus accrued interest from June 20, 2025. Each of the reopened Senior Notes LLL, the reopened Senior Notes MMM and the reopened Senior Notes NNN constitutes a further issuance of, and forms a single series with, the original notes of the corresponding series issued in June 2025, trades under the same CUSIP number as the applicable original notes, and has the same terms as to interest, status, redemption or otherwise as such original notes. Net proceeds from this offering were used by EPO for general company purposes, including for growth capital investments and acquisitions, and the repayment of debt (including the repayment of all or a portion of $750 million principal amount of 5.05% Senior Notes FFF that matured in January 2026, $875 million principal amount of 3.70% Senior Notes PP that matured in February 2026 and amounts outstanding under our commercial paper program). 
+ For additional information regarding our consolidated debt obligations, see Note 7 of the Notes to Consolidated Financial Statements included under Part II, ITEM 8 of this annual report. 
+ Credit Ratings 
+ As of February 27, 2026 , the investment-grade credit ratings of EPO’s long-term senior unsecured debt securities were A- from Standard and Poor’s, A3 from Moody’s and A- from Fitch Ratings. In addition, the credit ratings of EPO’s short-term senior unsecured debt securities were A-2 from Standard and Poor’s, P-2 from Moody’s and F-2 from Fitch Ratings. EPO’s credit ratings reflect only the view of a rating agency and should not be interpreted as a recommendation to buy, sell or hold any of our securities. A credit rating can be revised upward or downward or withdrawn at any time by a rating agency, if it determines that circumstances warrant such a change. A credit rating from one rating agency should be evaluated independently of credit ratings from other rating agencies. 
+ Product Purchase Commitments 
+ The following table presents our unconditional product purchase commitments at December 31, 2025 for the years indicated (dollars in millions): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ 
+ 2026 
+ 
+ 2027 
+ 
+ 2028 
+ 
+ 2029 
+ 
+ 2030 
+ 
+ Thereafter 
+ 
+ Product purchase commitments 
+ $ 
+ 7,175 
+ 
+ 
+ $ 
+ 2,419 
+ 
+ 
+ $ 
+ 2,420 
+ 
+ 
+ $ 
+ 1,143 
+ 
+ 
+ $ 
+ 761 
+ 
+ 
+ $ 
+ 395 
+ 
+ 
+ $ 
+ 37 
+ 
+ 
+ 
+ 86 
+ 
+ Table of Contents 
+ We have unconditional, long-term product purchase commitments for NGLs and crude oil with third party suppliers. The prices that we are obligated to pay under these contracts approximate market prices at the time we take delivery of the volumes. The preceding table presents our estimated future payment obligations under these contracts based on the contractual price in each agreement at December 31, 2025 applied to all future volume commitments. Actual future payment obligations may vary depending on prices at the time of delivery. 
+ For additional information regarding our product purchase commitments, see Note 17 of the Notes to Consolidated Financial Statements included under Part II, ITEM 8 of this annual report. 
+ Enterprise Declares Cash Distribution for Fourth Quarter of 2025 
+ On January 8, 2026 , we announced that the Board declared a quarterly cash distribution of $0.55 per common unit, or $2.20 per common unit on an annualized basis, to be paid to the Partnership’s common unitholders with respect to the fourth quarter of 2025 . The quarterly distribution was paid on February 13, 2026 to unitholders of record as of the close of business on January 30, 2026 . The total amount paid was $1.2 billion , which includes $11 million for distribution equivalent rights on phantom unit awards. 
+ The payment of quarterly cash distributions is subject to management’s evaluation of our financial condition, results of operations and cash flows in connection with such payments and Board approval. Management will evaluate any future increases in cash distributions on a quarterly basis. 
+ Common Unit Repurchases Under 2019 Buyback Program 
+ In January 2019, we announced that the Board had approved a $2.0 billion multi-year unit buyback program (the “2019 Buyback Program”), which provides the Partnership with an additional method to return capital to investors. In October 2025, we announced that the Board approved an increase to the authorized maximum aggregate purchase price (excluding fees, commissions and other ancillary expenses) of the Partnership’s common units that may be repurchased under the 2019 Buyback Program from $2.0 billion to $5.0 billion. The 2019 Buyback Program authorizes the Partnership to repurchase its common units from time to time, including through open market purchases and negotiated transactions. The timing and pace of buy backs under the program will be determined by a number of factors including (i) our financial performance and flexibility, (ii) organic growth and acquisition opportunities with higher potential returns on investment, (iii) the market price of the Partnership’s common units and implied cash flow yield and (iv) maintaining targeted financial leverage, which is currently a debt-to-normalized adjusted EBITDA (earnings before interest, taxes, depreciation and amortization) ratio in the range of 2.75 to 3.25 times. No time limit has been set for completion of the 2019 Buyback Program, and it may be suspended or discontinued at any time. 
+ The Partnership repurchased an aggregate 9,496,536 common units under the 2019 Buyback Program during the year ended December 31, 2025 . The total cost of these repurchases, including commissions and fees, was $300 million . Common units repurchased under the 2019 Buyback Program are immediately cancelled upon acquisition. As of December 31, 2025 , the remaining available capacity under the 2019 Buyback Program was $3.6 billion. 
+ 
+ Critical Accounting Policies and Estimates 
+ In our financial reporting processes, we employ methods, estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities as of the date of our financial statements. These methods, estimates and assumptions also affect the reported amounts of revenues and expenses for each reporting period. Investors should be aware that actual results could differ from these estimates if the underlying assumptions prove to be incorrect. The following sections discuss the use of estimates within our critical accounting policies: 
+ 
+ 
+ 87 
+ 
+ Table of Contents 
+ Depreciation Methods and Estimated Useful Lives of Property, Plant and Equipment 
+ In general, depreciation is the systematic and rational allocation of an asset’s cost, less its residual value (if any), to the periods it benefits. The majority of our property, plant and equipment is depreciated using the straight-line method, which results in depreciation expense being incurred evenly over the life of an asset. Depreciation expense incorporates management estimates regarding the useful economic lives and residual values of our assets. At the time we place our assets into service, we believe such assumptions are reasonable; however, circumstances may develop that cause us to change these assumptions, which would change our depreciation amounts prospectively. Examples of such circumstances include (i) changes in laws and regulations that limit the estimated economic life of an asset, (ii) changes in technology that render an asset obsolete, (iii) changes in expected salvage values or (iv) significant changes in our forecast of the remaining life for the associated resource basins, if applicable. 
+ At December 31, 2025 and 2024 , the net carrying value of our property, plant and equipment was $51.4 billion and $49.1 billion , respectively. We recorded $2.1 billion and $2.0 billion of depreciation expense during the years ended December 31, 2025 and 2024 , respectively. For information regarding our property, plant and equipment, see Note 4 of the Notes to Consolidated Financial Statements included under Part II, ITEM 8 of this annual report. 
+ Measuring Recoverability of Long-Lived Assets and Fair Value of Equity Method Investments 
+ Long-lived assets, which consist of intangible assets with finite useful lives and property, plant and equipment, are reviewed for impairment whenever events or changes in circumstances indicate that the carrying amount of such assets may not be recoverable. Examples of such events or changes might be production declines that are not replaced by new discoveries or long-term decreases in the demand for or price of natural gas, NGLs, crude oil, petrochemicals or refined products. 
+ The carrying value of a long-lived asset is deemed not recoverable if it exceeds the sum of undiscounted estimated cash flows expected to result from the use and eventual disposition of the asset. Estimates of undiscounted cash flows are based on a number of assumptions including anticipated operating margins and volumes; estimated useful life of the asset or asset group; and estimated residual values. If the carrying value of a long-lived asset is not recoverable, an impairment charge would be recorded for the excess of the asset’s carrying value over its estimated fair value, which is derived from an analysis of the asset’s estimated future discounted cash flows, the market value of similar assets and replacement cost of the asset less any applicable depreciation or amortization. In addition, fair value estimates also include the usage of probabilities when there is a range of possible outcomes. 
+ We evaluate our equity method investments for impairment when there are events or changes in circumstances that indicate there is a potential loss in value of the investment attributable to an other-than-temporary decline. Examples of such events or changes in circumstances include continuing operating losses of the entity and/or long-term negative changes in the entity’s industry. In the event we determine that the value of an investment is not recoverable due to an other-than-temporary decline, we record a non-cash impairment charge to adjust the carrying value of the investment to its estimated fair value. We assess the fair value of our equity method investments using commonly accepted techniques, and may use more than one method, including, but not limited to, recent third party sales and discounted estimated cash flow models. Estimates of discounted cash flows are based on a number of assumptions including discount rates; probabilities assigned to different cash flow scenarios; anticipated margins and volumes and estimated useful lives of the investment’s underlying assets. 
+ A significant change in the assumptions we use to measure recoverability of long-lived assets and the fair value of equity method investments could result in our recording a non-cash impairment charge. Any write-down of the carrying values of such assets would increase operating costs and expenses at that time. 
+ In 2025 and 2024 , we recognized non-cash asset impairment charges attributable to assets other than goodwill totaling $50 million and $57 million , respectively. For information regarding impairment charges involving property, plant and equipment see Note 4 of the Notes to Consolidated Financial Statements included under Part II, ITEM 8 of this annual report. We did not recognize any impairment charges in connection with our equity-method investments during the years ended December 31, 2025 and December 31, 2024 . 
+ 
+ 
+ 88 
+ 
+ Table of Contents 
+ Amortization Methods of Customer Relationships and Contract-Based Intangible Assets 
+ The specific, identifiable intangible assets of an acquired business depend largely upon the nature of its operations and include items such as customer relationships and contracts. 
+ Customer relationship intangible assets represent the estimated economic value assigned to commercial relationships acquired in connection with business combinations. In certain instances, the acquisition of these intangible assets provides us with access to customers in a defined resource basin and is analogous to having a franchise in a particular area. Efficient operation of the acquired assets (e.g., a natural gas gathering system) helps to support the commercial relationships with existing producers and provides us with opportunities to establish new ones within our existing asset footprint. The duration of this type of customer relationship is limited by the estimated economic life of the associated resource basin that supports the customer group. When estimating the economic life of a resource basin, we consider a number of factors, including reserve estimates and the economic viability of production and exploration activities. 
+ In other situations, the acquisition of a customer relationship intangible asset provides us with access to customers whose hydrocarbon volumes are not attributable to specific resource basins. As with basin-specific customer relationships, efficient operation of the associated assets (e.g., a marine terminal that handles volumes originating from multiple sources) helps to support the commercial relationships with existing customers and provides us with opportunities to establish new ones. The duration of this type of customer relationship is typically limited to the term of the underlying service contracts, including assumed renewals. 
+ The value we assign to customer relationships is amortized to earnings using methods that closely resemble the pattern in which the estimated economic benefits will be consumed (i.e., the manner in which the intangible asset is expected to contribute directly or indirectly to our cash flows). For example, the amortization period for a basin-specific customer relationship asset is limited by the estimated finite economic life of the associated hydrocarbon resource basin. 
+ Contract-based intangible assets represent specific commercial rights we own arising from discrete contractual agreements. A contract-based intangible asset with a finite life is amortized over its estimated economic life, which is the period over which the contract is expected to contribute directly or indirectly to our cash flows. Our estimates of the economic life of contract-based intangible assets are based on a number of factors, including (i) the expected useful life of the related tangible assets (e.g., a marine terminal, pipeline or other asset), (ii) any legal or regulatory developments that would impact such contractual rights and (iii) any contractual provisions that enable us to renew or extend such arrangements. 
+ If our assumptions regarding the estimated economic life of an intangible asset were to change, then the amortization period for such asset would be adjusted accordingly. Changes in the estimated useful life of an intangible asset would impact operating costs and expenses prospectively from the date of change. 
+ At December 31, 2025 and 2024 , the carrying value of our customer relationship and contract-based intangible asset portfolio was $4.2 billion and $4.0 billion , respectively. We recorded $216 million and $207 million of amortization expense attributable to intangible assets during the years ended December 31, 2025 and 2024 , respectively. For information regarding our intangible assets, see Note 6 of the Notes to Consolidated Financial Statements included under Part II, ITEM 8 of this annual report. 
+ Methods We Employ to Measure the Fair Value of Goodwill and Related Assets 
+ Our goodwill balance was $5.7 billion at December 31, 2025 and 2024 . Goodwill, which represents the cost of an acquired business in excess of the fair value of its net assets at the acquisition date, is subject to annual impairment testing in the fourth quarter of each year or when events or changes in circumstances indicate that the carrying amount of the goodwill may not be recoverable. Goodwill impairment charges represent the amount by which a reporting unit’s carrying value (including its respective goodwill) exceeds its fair value, not to exceed the carrying amount of the reporting unit’s goodwill. 
+ 
+ 
+ 89 
+ 
+ Table of Contents 
+ We determine the fair value of each reporting unit using accepted valuation techniques, primarily through the use of discounted cash flows (i.e., an income approach to fair value) supplemented by market-based assessments, if available. The estimated fair values of our reporting units incorporate assumptions regarding the future economic prospects of the assets and operations that comprise each reporting unit including: (i) discrete financial forecasts for the assets comprising the reporting unit, which, in turn, rely on management’s estimates of long-term operating margins, throughput volumes, capital investments and similar factors; (ii) long-term growth rates for the reporting unit’s cash flows beyond the discrete forecast period; and (iii) appropriate discount rates. The fair value estimates are based on Level 3 inputs of the fair value hierarchy. We believe that the assumptions we use in estimating reporting unit fair values are consistent with those that market participants would use in their fair value estimation process. However, due to uncertainties in the estimation process and volatility in the supply and demand for hydrocarbons and similar risk factors, actual results could differ significantly from our estimates. 
+ We did not record any goodwill impairment charges during the year ended December 31, 2025 . Based on our most recent goodwill impairment test at December 31, 2025 , the estimated fair value of each of our reporting units was substantially in excess of its carrying value (i.e., by at least 10%). 
+ For information regarding our goodwill, see Note 6 of the Notes to Consolidated Financial Statements included under Part II, ITEM 8 of this annual report. 
+ Use of Estimates for Revenues and Expenses 
+ As noted previously, preparing our consolidated financial statements in conformity with GAAP requires us to make estimates that affect amounts presented in the financial statements. Due to the time required to compile actual billing information and receive third party data needed to record transactions, we routinely employ estimates in connection with revenue and expense amounts in order to meet our accelerated financial reporting deadlines. 
+ Our most significant routine estimates involve revenues and costs of certain natural gas processing facilities, pipeline transportation revenues, fractionation revenues, marketing revenues and related purchases, and power and utility costs. These types of transactions must be estimated since the actual amounts are generally unavailable at the time we complete our accounting close process. The estimates subsequently reverse in the next accounting period when the corresponding actual customer billing or vendor-invoiced amounts are recorded. 
+ Changes in facts and circumstances may result in revised estimates, which could affect our reported financial statements and accompanying disclosures. Prior to issuing our financial statements, we review our revenue and expense estimates based on currently available information to determine if adjustments are required. 
+ 
+ Other Matters 
+ Parent-Subsidiary Guarantor Relationship 
+ The Partnership (the “Parent Guarantor”) has guaranteed the payment of principal and interest on the consolidated debt obligations of EPO (the “Subsidiary Issuer”) (collectively, the “Guaranteed Debt”). If EPO were to default on any of its Guaranteed Debt, the Partnership would be responsible for full and unconditional repayment of such obligations. At December 31, 2025 , the total amount of Guaranteed Debt was $35.3 billion , which was comprised of $32.4 billion of EPO’s senior notes, $2.3 billion of EPO’s junior subordinated notes and $566 million of related accrued interest. 
+ The Partnership’s guarantees of EPO’s senior note obligations, commercial paper notes and borrowings under bank credit facilities represent unsecured and unsubordinated obligations of the Partnership that rank equal in right of payment to all other existing or future unsecured and unsubordinated indebtedness of the Partnership. In addition, these guarantees effectively rank junior in right of payment to any existing or future indebtedness of the Partnership that is secured and unsubordinated, to the extent of the assets securing such indebtedness. 
+ The Partnership’s guarantees of EPO’s junior subordinated notes represent unsecured and subordinated obligations of the Partnership that rank equal in right of payment to all other existing or future subordinated indebtedness of the Partnership and senior in right of payment to all existing or future equity securities of the Partnership. The Partnership’s guarantees of EPO’s junior subordinated notes effectively rank junior in right of payment to (i) any existing or future indebtedness of the Partnership that is secured, to the extent of the assets securing such indebtedness and (ii) all other existing or future unsecured and unsubordinated indebtedness of the Partnership. 
+ 
+ 
+ 90 
+ 
+ Table of Contents 
+ The Partnership may be released from its guarantee obligations only in connection with EPO’s exercise of its legal or covenant defeasance options as described in the underlying agreements. 
+ Selected Financial Information of Obligor Group 
+ The following tables present summarized financial information of the Partnership (as Parent Guarantor) and EPO (as Subsidiary Issuer) on a combined basis (collectively, the “Obligor Group”), after the elimination of intercompany balances and transactions among the Obligor Group. 
+ In accordance with Rule 13.01 of Regulation S-X, the summarized financial information of the Obligor Group excludes the Obligor Group’s equity in income and investments in the consolidated subsidiaries of EPO that are not party to the guarantee obligations (the “Non-Obligor Subsidiaries”). The total carrying value of the Obligor Group’s investments in the Non-Obligor Subsidiaries was $54.9 billion at December 31, 2025 . The Obligor Group’s equity in the earnings of the Non-Obligor Subsidiaries for the year ended December 31, 2025 was $6.9 billion . Although the net assets and earnings of the Non-Obligor Subsidiaries are not directly available to the holders of the Guaranteed Debt to satisfy the repayment of such obligations, there are no significant restrictions on the ability of the Non-Obligor Subsidiaries to pay distributions or make loans to EPO or the Partnership. EPO exercises control over the Non-Obligor Subsidiaries. We continue to believe that the consolidated financial statements of the Partnership presented under ITEM 8 of this annual report provide a more appropriate view of our credit standing. Our investment grade credit ratings are based on the Partnership’s consolidated financial statements and not the Obligor Group’s financial information presented below. 
+ The following table presents summarized balance sheet information for the combined Obligor Group at December 31, 2025 (dollars in millions): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Selected asset information: 
+ 
+ 
+ 
+ 
+ Current receivables from Non-Obligor Subsidiaries 
+ $ 
+ 487 
+ 
+ 
+ 
+ 
+ Other current assets 
+ 7,035 
+ 
+ 
+ 
+ 
+ Long-term receivables from Non-Obligor Subsidiaries 
+ 187 
+ 
+ 
+ 
+ 
+ 
+ Other noncurrent assets, excluding investments in Non-Obligor Subsidiaries of $54.9 billion 
+ 9,519 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Selected liability information: 
+ 
+ 
+ 
+ 
+ 
+ Current portion of Guaranteed Debt, including interest of $566 million 
+ $ 
+ 2,190 
+ 
+ 
+ 
+ 
+ Current payables to Non-Obligor Subsidiaries 
+ 1,344 
+ 
+ 
+ 
+ 
+ Other current liabilities 
+ 4,416 
+ 
+ 
+ 
+ 
+ Noncurrent portion of Guaranteed Debt, principal only 
+ 33,082 
+ 
+ 
+ 
+ 
+ Noncurrent payables to Non-Obligor Subsidiaries 
+ 54 
+ 
+ 
+ 
+ 
+ Other noncurrent liabilities 
+ 205 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Mezzanine equity of Obligor Group: 
+ 
+ 
+ 
+ 
+ Preferred units 
+ $ 
+ 44 
+ 
+ 
+ 
+ The following table presents summarized income statement information for the combined Obligor Group for the year ended December 31, 2025 (dollars in millions): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Revenues from Non-Obligor Subsidiaries 
+ $ 
+ 16,128 
+ 
+ 
+ 
+ 
+ Revenues from other sources 
+ 17,795 
+ 
+ 
+ 
+ 
+ Operating income of Obligor Group 
+ 359 
+ 
+ 
+ 
+ 
+ 
+ Net loss of Obligor Group excluding equity in earnings of Non-Obligor Subsidiaries of $6.9 billion 
+ (1,082) 
+ 
+ 
+ 
+ Related Party Transactions 
+ For information regarding our related party transactions, see Note 15 of the Notes to Consolidated Financial Statements included under Part II, ITEM 8 of this annual report as well as Part III, ITEM 13 of this annual report. 
+ 
+ 
+ 91 
+ 
+ Table of Contents 
+ Income Taxes 
+ During 2021, 2022 and 2024, the Internal Revenue Service (“IRS”) issued a Notice of Selection for Examination to EPO and the Partnership, respectively, stating that the IRS selected their 2019, 2020 and 2021 partnership tax returns for examination. These are routine compliance examinations of various items of income, gain, deductions, losses and credits of EPO and the Partnership during the years under examination. 
+ Insurance 
+ For information regarding insurance matters, see Note 18 of the Notes to Consolidated Financial Statements included under Part II, ITEM 8 of this annual report. 
+ 

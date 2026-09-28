@@ -1,0 +1,3477 @@
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+ The following discussion should be read in conjunction with our consolidated financial statements and the notes thereto. This discussion summarizes the significant factors affecting our results of operations and the financial condition of our business. Except as otherwise indicated or unless the context otherwise requires, “Xylem,” “we,” “us,” “our” and “the Company” refer to Xylem Inc. and its subsidiaries. 
+ This section of this Form 10-K generally discusses 2025 and 2024 items and year-to-year comparisons between 2025 and 2024. 
+ Overview 
+ Xylem is a leading global water technology company. We design, manufacture and service highly engineered products and solutions ranging across a wide variety of critical applications in utility, industrial, residential and commercial building services settings. Our broad portfolio of solutions addresses customer needs across the water cycle, from the delivery, measurement and use of drinking water to the collection, test, treatment and analysis of wastewater, to the return of water to the environment. Our product and service offerings are organized into four reportable segments that are aligned around the critical market applications they provide: Water Infrastructure, Applied Water, Measurement and Control Solutions and Water Solutions and Services. 
+ • Water Infrastructure serves the water infrastructure sector with pump systems that transport water from aquifers, lakes, rivers and seas; with filtration, ultraviolet and ozone systems that provide treatment, making the water fit to use; and pumping solutions that move the wastewater and storm water to treatment facilities where our mixers, biological treatment, monitoring and control systems provide the primary functions in the treatment process. Additionally, our offerings use monitoring and control, smart and connected technologies to allow for remote monitoring of performance and enable products to self-optimize pump operations maximizing energy efficiency and minimizing unplanned downtime and maintenance for our customers. The Water Infrastructure segment also provides a range of highly differentiated and scalable products and technologies with product offerings in the filtration and separation, disinfection, and wastewater solutions, for municipal and industrial applications. In the Water Infrastructure segment we reach customers indirectly, through channel partners and distributors, directly and through our service capabilities. 
+ • Applied Water serves the water usage applications sector with water pressure boosting systems for heating, ventilation and air conditioning, and for fire protection systems to the residential and commercial building solutions markets. In addition, our pumps, heat exchangers and controls provide cooling to power plants and manufacturing facilities, circulation for food and beverage processing, and boosting systems for agricultural irrigation. In the Applied Water segment, we provide the majority of our sales through long-standing relationships with many of the leading independent distributors in the markets we serve, with the remainder going directly to customers. 
+ • Measurement and Control Solutions primarily serves the utility infrastructure solutions and services sector by delivering communications, smart metering, measurement and control capabilities and critical infrastructure technologies that allow customers to more effectively use their distribution networks for the delivery, monitoring and control of critical resources such as water, electricity and natural gas. We also provide analytical instrumentation used to measure and analyze water quality, flow and level in clean water, wastewater and outdoor water environments. Additionally, we offer software and services which have been further enhanced by our Xylem Vue platform to enable a holistic view of the water cycle for our customers through cloud-based analytics, remote monitoring and data management with the purpose of optimizing their operating efficiency. In the Measurement and Control Solutions segment, we generate our sales through a combination of long-standing relationships with leading distributors and dedicated channel partners, as well as direct sales depending on the regional availability of distribution channels and the type of product. 
+ • Water Solutions and Services provides tailored services and solutions, in collaboration with customers, including on‐demand water, outsourced water, recycle/reuse, pipeline assessment services, specialty dewatering and emergency response service alternatives to improve operational reliability, performance and environmental compliance. Key offerings within this segment also include equipment systems for industrial needs (influent water, boiler feed water, ultrahigh purity, process water, wastewater treatment, and recycle/reuse), full-scale outsourcing of operations and maintenance, and municipal services, including odor and corrosion control services, as well as leak detection, condition assessment and asset management and pressure monitoring solutions. In the Water Solutions and Services segment, we leverage our internal and 
+ 
+ 
+ 34 
+ 
+ 
+ external partners, and extensive service branch networks across the globe, including a rental fleet of transfer and treatment assets to serve our customers. 
+ Key Performance Indicators and Non-GAAP Measures 
+ Management reviews key performance indicators including revenue, gross margins, segment operating income and operating income margins, orders growth, working capital and backlog, among others. In addition, we consider certain non-GAAP (or "adjusted") measures to be useful to management and investors evaluating our operating performance for the periods presented, and to provide a tool for evaluating our ongoing operations, liquidity and management of assets. This information can assist investors in assessing our financial performance and measures our ability to generate capital for deployment among competing strategic alternatives and initiatives, including, but not limited to, dividends, acquisitions, share repurchases and debt repayment. Excluding revenue, Xylem provides guidance only on a non-GAAP basis due to the inherent difficulty in forecasting certain amounts that would be included in GAAP earnings, such as discrete tax items, without unreasonable effort. These adjusted metrics are consistent with how management views our business and are used to make financial, operating and planning decisions. These metrics, however, are not measures of financial performance under GAAP and should not be considered a substitute for revenue, operating income, net income, earnings per share (basic and diluted) or net cash from operating activities as determined in accordance with GAAP. We consider the following non-GAAP measures to be key performance indicators, as well as the related reconciling items to the most directly comparable measure calculated and presented in accordance with GAAP. The non-GAAP measures may not be comparable to similarly titled measures reported by other companies. 
+ • "organic revenue" and "organic orders" defined as revenue and orders, respectively, excluding the impact of fluctuations in foreign currency translation and contributions from acquisitions and divestitures. Divestitures include sales or discontinuance of insignificant portions of our business that did not meet the criteria for classification as a discontinued operation. The period-over-period change resulting from foreign currency translation impacts is determined by translating current period and prior period activity using the prior period currency conversion rate. 
+ • "constant currency" defined as financial results adjusted for foreign currency translation impacts by translating current period and prior period activity using the same currency conversion rate. This approach is used for countries whose functional currency is not the U.S. dollar. 
+ • "adjusted net income" and "adjusted earnings per share" defined as net income attributable to Xylem and corresponding earnings per share, respectively, adjusted to exclude restructuring and realignment costs, amortization of acquired intangible assets, gain or loss from sale of businesses, special charges and tax-related special items, as applicable. A reconciliation of adjusted net income and adjusted earnings per share is provided below. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (in millions, except per share data) 
+ 
+ 2025 
+ 
+ 2024 
+ 
+ Net income attributable to Xylem & Earnings per share 
+ 
+ $ 
+ 957 
+ 
+ 
+ $ 
+ 3.92 
+ 
+ 
+ $ 
+ 890 
+ 
+ 
+ $ 
+ 3.65 
+ 
+ 
+ Restructuring and realignment 
+ 
+ 133 
+ 
+ 
+ 0.54 
+ 
+ 
+ 91 
+ 
+ 
+ 0.37 
+ 
+ 
+ Acquired intangible amortization 
+ 
+ 220 
+ 
+ 
+ 0.90 
+ 
+ 
+ 216 
+ 
+ 
+ 0.89 
+ 
+ 
+ Special charges (a) 
+ 
+ 36 
+ 
+ 
+ 0.15 
+ 
+ 
+ 57 
+ 
+ 
+ 0.23 
+ 
+ 
+ Gain on remeasurement of previously held equity interest 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ (152) 
+ 
+ 
+ (0.62) 
+ 
+ 
+ Tax-related special items (b) 
+ 
+ (52) 
+ 
+ 
+ (0.21) 
+ 
+ 
+ (19) 
+ 
+ 
+ (0.08) 
+ 
+ 
+ 
+ Loss from sale of businesses 
+ 
+ 31 
+ 
+ 
+ 0.13 
+ 
+ 
+ 46 
+ 
+ 
+ 0.19 
+ 
+ 
+ Tax effects of adjustments (c) 
+ 
+ (85) 
+ 
+ 
+ (0.35) 
+ 
+ 
+ (88) 
+ 
+ 
+ (0.36) 
+ 
+ 
+ Adjusted net income & Adjusted earnings per share 
+ 
+ $ 
+ 1,240 
+ 
+ 
+ $ 
+ 5.08 
+ 
+ 
+ $ 
+ 1,041 
+ 
+ 
+ $ 
+ 4.27 
+ 
+ 
+ Weighted average number of shares - diluted 
+ 
+ 244.0 
+ 
+ 
+ 
+ 243.5 
+ 
+ 
+ (a) The special charges in the years end December 31, 2025 and 2024 primarily relate to $28 million and $50 million, respectively, of acquisition, divestiture and integration related costs. 
+ (b) The tax-related special items primarily relate to one-time deferred tax benefits from internal reorganizations. 
+ (c) The tax effects of adjustments are calculated using the statutory tax rate, taking into consideration the nature of the ITEM and the relevant taxing jurisdiction. 
+ ▪ "adjusted operating expenses" defined as operating expenses adjusted to exclude amortization of acquired intangible assets, restructuring and realignment costs and special charges, as applicable. 
+ 
+ 
+ 35 
+ 
+ 
+ ▪ "adjusted operating income" defined as operating income, adjusted to exclude restructuring and realignment costs, amortization of acquired intangible assets, gain or loss from sale of businesses, gain on remeasurement of previously held equity interest, special charges and tax-related special items, as applicable, and "adjusted operating margin" defined as adjusted operating income divided by total revenue. 
+ ▪ “EBITDA” defined as earnings before interest, taxes, depreciation and amortization expense, "EBITDA margin" defined as EBITDA divided by total revenue, "adjusted EBITDA" reflects the adjustment to EBITDA to exclude share-based compensation charges, restructuring and realignment costs, gain or loss from sale of businesses, gain on remeasurement of previously held equity interest and special charges, and "adjusted EBITDA margin" defined as adjusted EBITDA divided by total revenue. 
+ ▪ “realignment costs” defined as costs not included in restructuring costs that are incurred as part of actions taken to reposition our business, including items such as professional fees, severance, relocation, travel, facility set-up and other costs. 
+ ▪ “special charges" defined as non-recurring costs incurred by the Company, such as those related to acquisitions and integrations, divestitures and non-cash impairment charges. 
+ ▪ "tax-related special items" defined as tax items, such as tax return versus tax provision adjustments, tax exam impacts, tax law change impacts, excess tax benefits/losses and other discrete tax adjustments. 
+ ▪ "free cash flow" defined as net cash from operating activities, as reported in the Statement of Cash Flows, less capital expenditures. Our definition of "free cash flow" does not consider certain non-discretionary cash payments, such as debt. The following table provides a reconciliation of free cash flow. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (in millions) 
+ 
+ 2025 
+ 
+ 2024 
+ 
+ 
+ 
+ Net cash provided by operating activities 
+ 
+ $ 
+ 1,241 
+ 
+ 
+ $ 
+ 1,263 
+ 
+ 
+ 
+ 
+ Capital expenditures 
+ 
+ (331) 
+ 
+ 
+ (321) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Free cash flow 
+ 
+ $ 
+ 910 
+ 
+ 
+ $ 
+ 942 
+ 
+ 
+ 
+ 
+ Net cash used in investing activities 
+ 
+ $ 
+ (471) 
+ 
+ 
+ $ 
+ (482) 
+ 
+ 
+ 
+ 
+ Net cash used in financing activities 
+ 
+ $ 
+ (501) 
+ 
+ 
+ $ 
+ (615) 
+ 
+ 
+ 
+ Executive Summary 
+ Xylem reported revenue of $9,035 million for 2025, an increase of $473 million, or 5.5%, from $8,562 million reported in 2024. The increase consists of organic growth of $419 million and favorable foreign currency impacts of $71 million, partially offset by net revenue declines from acquisitions and divestitures of $17 million, reflecting organic growth across all segments and most major geographic regions, with organic growth in the U.S. and western Europe more than offsetting organic declines in the emerging markets. 
+ Operating income for 2025 was $1,223 million, reflecting an increase of $214 million, or 21.2%, compared to $1,009 million in 2024. Operating margin was 13.5% in 2025, up 170 basis points from 11.8% in 2024. The operating margin increase included negative impacts from increases in restructuring and realignment costs of $42 million and purchased intangible amortization of $4 million, partially offset by a decrease in special charges of $21 million. Excluding the impact of these items, adjusted operating income was $1,612 million, with an adjusted operating margin of 17.8% in 2025 as compared to adjusted operating income of $1,373 million with an adjusted operating margin of 16.0% in 2024, an increase of 180 basis points. 
+ Additional financial highlights for 2025 include the following: 
+ • Net income attributable to Xylem of $957 million, or $3.92 per diluted share, up 7.4% ($1,240 million or $5.08 per diluted share on an adjusted basis, up 19.0% from 2024) 
+ • Net cash provided by operating activities of $1,241 million, down 2% from 2024, and free cash flow of $910 million, down 3% from 2024 
+ • Orders of $8,904 million, up 2.0% from $8,730 million in 2024 (up 1.6% on an organic basis) 
+ • Dividends per share paid to shareholders increased 11% in 2025. 
+ 
+ 
+ 36 
+ 
+ 
+ 
+ Results of Operations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (in millions) 
+ 
+ 2025 
+ 
+ 2024 
+ 
+ 
+ 
+ 2025 v. 2024 
+ 
+ 
+ 
+ Revenue 
+ 
+ $ 
+ 9,035 
+ 
+ 
+ $ 
+ 8,562 
+ 
+ 
+ 
+ 
+ 5.5 
+ % 
+ 
+ 
+ 
+ Gross profit 
+ 
+ 3,475 
+ 
+ 
+ 3,212 
+ 
+ 
+ 
+ 
+ 8.2 
+ % 
+ 
+ 
+ 
+ Gross margin 
+ 
+ 38.5 
+ % 
+ 
+ 37.5 
+ % 
+ 
+ 
+ 
+ 100 
+ bp 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total operating expenses 
+ 
+ 2,252 
+ 
+ 
+ 2,203 
+ 
+ 
+ 
+ 
+ 2.2 
+ % 
+ 
+ 
+ 
+ Expense to revenue ratio 
+ 
+ 25.0 
+ % 
+ 
+ 25.7 
+ % 
+ 
+ 
+ 
+ (70) 
+ bp 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating income 
+ 
+ 1,223 
+ 
+ 
+ 1,009 
+ 
+ 
+ 
+ 
+ 21.2 
+ % 
+ 
+ 
+ 
+ Operating margin 
+ 
+ 13.5 
+ % 
+ 
+ 11.8 
+ % 
+ 
+ 
+ 
+ 170 
+ bp 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Interest and other non-operating expense, net 
+ 
+ (11) 
+ 
+ 
+ (28) 
+ 
+ 
+ 
+ 
+ (60.7) 
+ % 
+ 
+ 
+ 
+ Gain on remeasurement of previously held equity interest 
+ 
+ — 
+ 
+ 
+ 152 
+ 
+ 
+ 
+ 
+ (100.0) 
+ % 
+ 
+ 
+ 
+ Loss on sale of businesses 
+ 
+ (31) 
+ 
+ 
+ (46) 
+ 
+ 
+ 
+ 
+ (32.6) 
+ % 
+ 
+ 
+ 
+ Income tax expense 
+ 
+ (231) 
+ 
+ 
+ (197) 
+ 
+ 
+ 
+ 
+ 17.3 
+ % 
+ 
+ 
+ 
+ Tax rate 
+ 
+ 19.5 
+ % 
+ 
+ 18.1 
+ % 
+ 
+ 
+ 
+ 140 
+ bp 
+ 
+ 
+ 
+ Net income 
+ 
+ 950 
+ 
+ 
+ 890 
+ 
+ 
+ 
+ 
+ 6.7 
+ % 
+ 
+ 
+ 
+ Net loss attributable to non-controlling interest 
+ 
+ 7 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ NM 
+ 
+ 
+ 
+ Net income attributable to Xylem 
+ 
+ $ 
+ 957 
+ 
+ 
+ $ 
+ 890 
+ 
+ 
+ 
+ 
+ 7.5 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ NM Not Meaningful 
+ 
+ 2025 versus 2024 
+ Revenue 
+ Revenue generated for 2025 was $9,035 million, an increase of $473 million, or 5.5%, compared to $8,562 million in 2024. The increase consists of organic growth of $419 million and favorable foreign currency impacts of $71 million, partially offset by net revenue declines from acquisitions and divestitures of $17 million, reflecting organic growth across all segments and most major geographic regions, with organic growth in the U.S. and western Europe more than offsetting organic declines in the emerging markets. 
+ The following table illustrates the impact from organic growth, recent acquisitions and divestitures, and foreign currency translation in relation to revenue during 2025: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Water Infrastructure 
+ 
+ Applied Water 
+ 
+ Measurement and Control Solutions 
+ 
+ Water Solutions and Services 
+ 
+ Total Xylem 
+ 
+ (in millions) 
+ $ Change 
+ % Change 
+ 
+ $ Change 
+ % Change 
+ 
+ $ Change 
+ % Change 
+ 
+ $ Change 
+ % Change 
+ 
+ $ Change 
+ % Change 
+ 
+ 2024 Revenue 
+ $ 
+ 2,555 
+ 
+ 
+ 
+ $ 
+ 1,793 
+ 
+ 
+ 
+ $ 
+ 1,871 
+ 
+ 
+ 
+ $ 
+ 2,343 
+ 
+ 
+ 
+ $ 
+ 8,562 
+ 
+ 
+ 
+ Organic Growth 
+ 88 
+ 
+ 3.4 
+ % 
+ 
+ 42 
+ 
+ 2.3 
+ % 
+ 
+ 172 
+ 
+ 9.2 
+ % 
+ 
+ 117 
+ 
+ 5.0 
+ % 
+ 
+ 419 
+ 
+ 4.9 
+ % 
+ 
+ Acquisitions/(Divestitures) 
+ (48) 
+ 
+ (1.8) 
+ % 
+ 
+ — 
+ 
+ — 
+ % 
+ 
+ 30 
+ 
+ 1.6 
+ % 
+ 
+ 1 
+ 
+ 0.1 
+ % 
+ 
+ (17) 
+ 
+ (0.2) 
+ % 
+ 
+ Constant Currency 
+ 40 
+ 
+ 1.6 
+ % 
+ 
+ 42 
+ 
+ 2.3 
+ % 
+ 
+ 202 
+ 
+ 10.8 
+ % 
+ 
+ 118 
+ 
+ 5.1 
+ % 
+ 
+ 402 
+ 
+ 4.7 
+ % 
+ 
+ Foreign currency translation (a) 
+ 41 
+ 
+ 1.6 
+ % 
+ 
+ 14 
+ 
+ 0.8 
+ % 
+ 
+ 13 
+ 
+ 0.7 
+ % 
+ 
+ 3 
+ 
+ 0.1 
+ % 
+ 
+ 71 
+ 
+ 0.8 
+ % 
+ 
+ Total change in revenue 
+ 81 
+ 
+ 3.2 
+ % 
+ 
+ 56 
+ 
+ 3.1 
+ % 
+ 
+ 215 
+ 
+ 11.5 
+ % 
+ 
+ 121 
+ 
+ 5.2 
+ % 
+ 
+ 473 
+ 
+ 5.5 
+ % 
+ 
+ 2025 Revenue 
+ $ 
+ 2,636 
+ 
+ 
+ 
+ $ 
+ 1,849 
+ 
+ 
+ 
+ $ 
+ 2,086 
+ 
+ 
+ 
+ $ 
+ 2,464 
+ 
+ 
+ 
+ $ 
+ 9,035 
+ 
+ 
+ (a) Foreign currency translation impact for the year primarily due to the strengthening in value of various currencies against the U.S. Dollar, the largest being the Euro, British Pound and the Swedish Krona, offset by the weakening in the Canadian Dollar. 
+ 
+ 
+ 37 
+ 
+ 
+ Water Infrastructure 
+ Water Infrastructure revenue increased $81 million, or 3.2%, to $2,636 million in 2025 compared to 2024. Revenue growth consisted of organic growth of $88 million, or 3.4%, $41 million of favorable foreign currency translation impacts and $48 million of negative impacts from net divestiture and acquisition activity. Organic revenue growth was led by the treatment application, with growth of $52 million being driven by strength in the U.S. and emerging markets due to strong price realization and backlog execution. This was partially offset by treatment declines in western Europe due to lower demand and reduced capital project work. Organic revenue for the transport applications grew by $36 million, led by strong price realization in the U.S., which was partially offset by reduced volume and reduced backlog execution due to softness in the emerging markets. 
+ Applied Water 
+ Applied Water revenue increased $56 million, or 3.1%, to $1,849 million in 2025 compared to 2024. Revenue growth included organic growth of $42 million and $14 million of favorable foreign currency translation. Organic growth included $35 million from building solutions, primarily in the commercial end markets, driven by strong price realization and higher demand in the U.S., partially offset by order softness in the emerging markets. The industrial applications grew by $7 million organically, driven by strong price realization and backlog execution in the U.S. and Canada, partially offset by order softness in the emerging markets. 
+ Measurement and Control Solutions 
+ Measurement and Control Solutions revenue increased $215 million, or 11.5%, to $2,086 million in 2025 compared to 2024. Revenue growth included organic revenue growth of $172 million, $30 million of revenue growth from acquisitions and favorable foreign currency translation of $13 million. Smart metering and other applications had $171 million of organic growth, led by energy growth in North America due to strong volume and price realization as well as water growth from project revenue in western Europe. This growth was partially offset by declines in water in North America due to lower demand following strong prior year backlog execution. Analytics grew $1 million organically, driven by increased volume and price realization in western Europe, partially offset by lower sales volume due to market softness in the emerging markets. 
+ Water Solutions and Services 
+ Water Solutions and Services revenue increased $121 million, or 5.2% to $2,464 million in 2025 compared to 2024. Revenue growth was driven by organic revenue growth of $117 million, favorable foreign currency translation of $3 million and revenue contributed by acquisitions of $1 million. Organic revenue growth was led by service growth of $62 million, due to favorable rental price realization in North America. Organic revenue growth from the capital and other applications of $55 million was driven by increased project revenue in North America. 
+ Orders/Backlog 
+ An order represents a legally enforceable, written document that includes the scope of work or services to be performed or equipment to be supplied to a customer, the corresponding price and the expected delivery date for the applicable products or services to be provided. An order often takes the form of a customer purchase order or a signed quote from a Xylem business. 
+ 
+ 
+ 38 
+ 
+ 
+ The following table illustrates the impact from organic growth, recent acquisitions and divestitures, and foreign currency translation in relation to orders during 2025: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Water Infrastructure 
+ 
+ Applied Water 
+ 
+ Measurement and Control Solutions 
+ 
+ Water Solutions and Services 
+ 
+ Total Xylem 
+ 
+ (in millions) 
+ $ Change 
+ % Change 
+ 
+ $ Change 
+ % Change 
+ 
+ $ Change 
+ % Change 
+ 
+ $ Change 
+ % Change 
+ 
+ $ Change 
+ % Change 
+ 
+ 2024 Orders 
+ $ 
+ 2,727 
+ 
+ 
+ 
+ $ 
+ 1,824 
+ 
+ 
+ 
+ $ 
+ 1,672 
+ 
+ 
+ 
+ $ 
+ 2,507 
+ 
+ 
+ 
+ $ 
+ 8,730 
+ 
+ 
+ 
+ Organic Impact 
+ (30) 
+ 
+ (1.1) 
+ % 
+ 
+ 54 
+ 
+ 3.0 
+ % 
+ 
+ 157 
+ 
+ 9.4 
+ % 
+ 
+ (42) 
+ 
+ (1.7) 
+ % 
+ 
+ 139 
+ 
+ 1.6 
+ % 
+ 
+ Acquisitions/(Divestitures) 
+ (60) 
+ 
+ (2.2) 
+ % 
+ 
+ — 
+ 
+ — 
+ % 
+ 
+ 30 
+ 
+ 1.8 
+ % 
+ 
+ — 
+ 
+ — 
+ % 
+ 
+ (30) 
+ 
+ (0.3) 
+ % 
+ 
+ Constant Currency 
+ (90) 
+ 
+ (3.3) 
+ % 
+ 
+ 54 
+ 
+ 3.0 
+ % 
+ 
+ 187 
+ 
+ 11.2 
+ % 
+ 
+ (42) 
+ 
+ (1.7) 
+ % 
+ 
+ 109 
+ 
+ 1.3 
+ % 
+ 
+ Foreign currency translation (a) 
+ 35 
+ 
+ 1.3 
+ % 
+ 
+ 15 
+ 
+ 0.8 
+ % 
+ 
+ 14 
+ 
+ 0.8 
+ % 
+ 
+ 1 
+ 
+ 0.1 
+ % 
+ 
+ 65 
+ 
+ 0.7 
+ % 
+ 
+ Total change in orders 
+ (55) 
+ 
+ (2.0) 
+ % 
+ 
+ 69 
+ 
+ 3.8 
+ % 
+ 
+ 201 
+ 
+ 12.0 
+ % 
+ 
+ (41) 
+ 
+ (1.6) 
+ % 
+ 
+ 174 
+ 
+ 2.0 
+ % 
+ 
+ 2025 Orders 
+ $ 
+ 2,672 
+ 
+ 
+ 
+ $ 
+ 1,893 
+ 
+ 
+ 
+ $ 
+ 1,873 
+ 
+ 
+ 
+ $ 
+ 2,466 
+ 
+ 
+ 
+ $ 
+ 8,904 
+ 
+ 
+ (a) Foreign currency translation impact for the year primarily due to the strengthening in value of various currencies against the U.S. Dollar, the largest being the Euro, British Pound and the Swedish Krona, offset by the weakening in the Canadian Dollar. 
+ Backlog 
+ Backlog includes orders on hand as well as contractual customer agreements at the end of the period. Delivery schedules vary from customer to customer based on their requirements. Annual or multi-year contracts are subject to rescheduling and cancellation by customers due to the long-term nature of the contracts. As such, beginning total backlog, plus orders, minus revenues, will not equal ending total backlog due to contract adjustments, foreign currency fluctuations, and other factors. Typically, large projects require longer lead production cycles and deployment schedules and delays occur from time to time. Total backlog was $4,615 million at December 31, 2025 and $5,070 million at December 31, 2024, a decrease of 9.0%. We anticipate that more than 60% of our total backlog at December 31, 2025 will be recognized as revenue during 2026. 
+ Gross Margin 
+ Gross margin as a percentage of consolidated revenue increased 100 basis points to 38.5% in 2025 as compared to 37.5% in 2024. The gross margin increase for the year included favorable operational impacts of 370 basis points, consisting of 230 basis points of productivity savings and 140 basis points of price realization. These impacts were partially offset by 290 basis points of unfavorable operating impacts, driven by 190 basis points of inflation and 60 basis points of unfavorable mix. The gross margin increase also included 20 basis points of favorable impacts from a net decrease in acquired intangible asset amortization, special charges, and realignment costs as compared to the prior year. 
+ 
+ 
+ 39 
+ 
+ 
+ Operating Expenses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (in millions) 
+ 2025 
+ 
+ 2024 
+ 
+ Change 
+ 
+ Selling, general and administrative expenses 
+ $ 
+ 1,923 
+ 
+ 
+ $ 
+ 1,911 
+ 
+ 
+ 0.6 
+ % 
+ 
+ SG&A as a % of revenue 
+ 21.3 
+ % 
+ 
+ 22.3 
+ % 
+ 
+ (100) 
+ bp 
+ 
+ Research and development expenses 
+ 226 
+ 
+ 
+ 230 
+ 
+ 
+ (1.7) 
+ % 
+ 
+ R&D as a % of revenue 
+ 2.5 
+ % 
+ 
+ 2.7 
+ % 
+ 
+ (20) 
+ bp 
+ 
+ Restructuring and asset impairment charges 
+ 103 
+ 
+ 
+ 62 
+ 
+ 
+ 66.1 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating expenses 
+ $ 
+ 2,252 
+ 
+ 
+ $ 
+ 2,203 
+ 
+ 
+ 2.2 
+ % 
+ 
+ Expense to revenue ratio 
+ 25.0 
+ % 
+ 
+ 25.7 
+ % 
+ 
+ (70) 
+ bp 
+ Selling, General and Administrative ("SG&A") Expenses 
+ SG&A expenses increased by $12 million, or 0.6% in 2025, representing a decrease to 21.3% of revenue in 2025, as compared to 22.3% of revenue in 2024. Cost increases were driven by inflation, spending on strategic investments and currency impacts, largely offset by productivity savings. 
+ Research and Development ("R&D") Expenses 
+ R&D expense was $226 million, or 2.5% of revenue in 2025, consistent with the 2024 expense of $230 million, or 2.7% of revenue. 
+ Restructuring and Asset Impairment Charges 
+ Restructuring 
+ From time to time, the Company will incur costs related to restructuring actions in order to optimize our cost base and more strategically position itself. Restructuring charges were $95 million in 2025 as compared to $55 million in 2024. 
+ For the years ended December 31, 2025, the charges incurred primarily related to simplification actions, informed by 80/20 principles, to streamline the organization and better serve our customers. The charges incurred were across all of our segments, with the majority of the charges impacting the Water Infrastructure and Applied Water segments. 
+ For the year ended December 31, 2024, the charges incurred primarily related to actions taken to further streamline our organization in order to strengthen our competitive positioning and ability to better serve our customers. The charges incurred were across all of our segments, with the majority of the charges impacting the Water Solutions and Services and Water Infrastructure segments. 
+ Refer to Note 5, "Restructuring and Asset Impairment Charges" for more information. 
+ The following is a roll-forward of employee position eliminations associated with restructuring activities for the years ended December 31, 2025 and 2024: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 2024 
+ 
+ Planned reductions - January 1 
+ 
+ 382 
+ 
+ 
+ 113 
+ 
+ 
+ Additional planned reductions 
+ 
+ 1,605 
+ 
+ 
+ 749 
+ 
+ 
+ Actual reductions and reversals 
+ 
+ (1,463) 
+ 
+ 
+ (480) 
+ 
+ 
+ Planned reductions - December 31 
+ 
+ 524 
+ 
+ 
+ 382 
+ 
+ As a result of the actions initiated in 2025, we achieved savings of approximately $29 million in 2025 and estimate annual future net savings beginning in 2026 of approximately $80 million to $120 million, the majority of which is expected to be realized in 2026. 
+ Asset Impairment 
+ Refer to Note 12, "Goodwill and Other Intangible Assets," for more information on intangible asset impairment charges incurred during the years ended December 31, 2025 and 2024. 
+ 
+ 
+ 40 
+ 
+ 
+ Operating Income, Net Income, and Adjusted EBITDA 
+ Operating income was $1,223 million (operating margin of 13.5%) during 2025, an increase of $214 million, or 21.2%, when compared to operating income of $1,009 million (operating margin of 11.8%) during the prior year. Operating margin expansion included unfavorable impacts of 10 basis points from a net increase in restructuring and realignment costs, acquired intangible asset amortization, and special charges as compared to the prior year. Additionally, operating margin included 540 basis points of expansion from favorable operating impacts, driven by a 330 basis point increase from productivity savings and 190 basis points from price realization. Margin expansion was offset by 360 basis points of unfavorable impacts driven by 240 basis points of inflation and 50 basis points of unfavorable mix. Excluding restructuring and realignment costs, acquired intangible asset amortization, and special charges, adjusted operating income was $1,612 million (adjusted operating margin of 17.8%) for 2025 as compared to adjusted operating income of $1,373 million (adjusted operating margin of 16.0%) during the prior year. 
+ Net income attributable to Xylem was $957 (net income margin of 10.6%) during 2025, an increase of $67 million as compared to net income attributable to Xylem in the prior year of $890 million (net income margin of 10.4%). The increase in net income attributable to Xylem was driven by increased operating income of $214 million as well as decreased interest and other non-operating expense of $17 million and $15 million less loss from sale of businesses as compared to the prior year. These increases were partially offset by the absence of a $152 million gain on joint venture remeasurement that did not recur in 2025, as well as increased income tax expense of $34 million. In addition to these fluctuations, net income attributable to Xylem excludes an increase of $7 million of net loss attributable to non-controlling interests. Adjusted EBITDA was $2,009 million (adjusted EBITDA margin of 22.2%) for 2025, an increase of $246 million, or 14.0%, when compared to adjusted EBITDA of $1,763 million (adjusted EBITDA margin of 20.6%) for the prior year. The increase in adjusted EBITDA margin was primarily due to the same factors impacting adjusted operating margin noted above. 
+ 
+ 
+ 41 
+ 
+ 
+ The table below provides a reconciliation of total and each segment's operating income to adjusted operating income, and a calculation of the corresponding adjusted operating margin: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (In millions) 
+ 2025 
+ 
+ 2024 
+ 
+ Change 
+ 
+ Water Infrastructure 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating income 
+ $ 
+ 462 
+ 
+ 
+ $ 
+ 356 
+ 
+ 
+ 29.8 
+ 
+ % 
+ 
+ Operating margin 
+ 17.5 
+ % 
+ 
+ 13.9 
+ % 
+ 
+ 360 
+ 
+ bp 
+ 
+ Restructuring and realignment costs 
+ 75 
+ 
+ 
+ 30 
+ 
+ 
+ 150.0 
+ 
+ % 
+ 
+ Purchase accounting intangible amortization 
+ 42 
+ 
+ 
+ 59 
+ 
+ 
+ (28.8) 
+ 
+ % 
+ 
+ Special charges 
+ 4 
+ 
+ 
+ 10 
+ 
+ 
+ (60.0) 
+ 
+ % 
+ 
+ Adjusted operating income 
+ $ 
+ 583 
+ 
+ 
+ $ 
+ 455 
+ 
+ 
+ 28.1 
+ 
+ % 
+ 
+ Adjusted operating margin 
+ 22.1 
+ % 
+ 
+ 17.8 
+ % 
+ 
+ 430 
+ 
+ bp 
+ 
+ Applied Water 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating income 
+ $ 
+ 312 
+ 
+ 
+ $ 
+ 271 
+ 
+ 
+ 15.1 
+ 
+ % 
+ 
+ Operating margin 
+ 16.9 
+ % 
+ 
+ 15.1 
+ % 
+ 
+ 180 
+ 
+ bp 
+ 
+ Restructuring and realignment costs 
+ 28 
+ 
+ 
+ 15 
+ 
+ 
+ 86.7 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Adjusted operating income 
+ $ 
+ 340 
+ 
+ 
+ $ 
+ 286 
+ 
+ 
+ 18.9 
+ 
+ % 
+ 
+ Adjusted operating margin 
+ 18.4 
+ % 
+ 
+ 16.0 
+ % 
+ 
+ 240 
+ 
+ bp 
+ 
+ Measurement and Control Solutions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating income 
+ $ 
+ 244 
+ 
+ 
+ $ 
+ 247 
+ 
+ 
+ (1.2) 
+ 
+ % 
+ 
+ Operating margin 
+ 11.7 
+ % 
+ 
+ 13.2 
+ % 
+ 
+ (150) 
+ 
+ bp 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Restructuring and realignment costs 
+ 16 
+ 
+ 
+ 10 
+ 
+ 
+ 60.0 
+ 
+ % 
+ 
+ Purchase accounting intangible amortization 
+ 77 
+ 
+ 
+ 58 
+ 
+ 
+ 32.8 
+ 
+ % 
+ 
+ Special charges 
+ 16 
+ 
+ 
+ 12 
+ 
+ 
+ 33.3 
+ 
+ % 
+ 
+ Adjusted operating income 
+ $ 
+ 353 
+ 
+ 
+ $ 
+ 327 
+ 
+ 
+ 8.0 
+ 
+ % 
+ 
+ Adjusted operating margin 
+ 16.9 
+ % 
+ 
+ 17.5 
+ % 
+ 
+ (60) 
+ 
+ bp 
+ 
+ Water Solutions and Services 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating income 
+ $ 
+ 302 
+ 
+ 
+ $ 
+ 219 
+ 
+ 
+ 37.9 
+ 
+ % 
+ 
+ Operating margin 
+ 12.3 
+ % 
+ 
+ 9.3 
+ % 
+ 
+ 300 
+ 
+ bp 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Restructuring and realignment costs 
+ 14 
+ 
+ 
+ 35 
+ 
+ 
+ (60.0) 
+ 
+ % 
+ 
+ Purchase accounting intangible amortization 
+ 100 
+ 
+ 
+ 99 
+ 
+ 
+ 1.0 
+ 
+ % 
+ 
+ Special charges 
+ 6 
+ 
+ 
+ 15 
+ 
+ 
+ (60.0) 
+ 
+ % 
+ 
+ Adjusted operating income 
+ $ 
+ 422 
+ 
+ 
+ $ 
+ 368 
+ 
+ 
+ 14.7 
+ 
+ % 
+ 
+ Adjusted operating margin 
+ 17.1 
+ % 
+ 
+ 15.7 
+ % 
+ 
+ 140 
+ 
+ bp 
+ 
+ Corporate and other 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating loss 
+ $ 
+ (97) 
+ 
+ 
+ $ 
+ (84) 
+ 
+ 
+ 15.5 
+ 
+ % 
+ 
+ Restructuring and realignment costs 
+ — 
+ 
+ 
+ 1 
+ 
+ 
+ (100.0) 
+ 
+ % 
+ 
+ Purchase accounting intangible amortization 
+ 1 
+ 
+ 
+ — 
+ 
+ 
+ NM 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Special charges 
+ 10 
+ 
+ 
+ 20 
+ 
+ 
+ (50.0) 
+ 
+ % 
+ 
+ Adjusted operating loss 
+ $ 
+ (86) 
+ 
+ 
+ $ 
+ (63) 
+ 
+ 
+ 36.5 
+ 
+ % 
+ 
+ Total Xylem 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating income 
+ $ 
+ 1,223 
+ 
+ 
+ $ 
+ 1,009 
+ 
+ 
+ 21.2 
+ 
+ % 
+ 
+ Operating margin 
+ 13.5 
+ % 
+ 
+ 11.8 
+ % 
+ 
+ 170 
+ 
+ bp 
+ 
+ Restructuring and realignment costs 
+ 133 
+ 
+ 
+ 91 
+ 
+ 
+ 46.2 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Purchase accounting intangible amortization 
+ 220 
+ 
+ 
+ 216 
+ 
+ 
+ 1.9 
+ 
+ % 
+ 
+ Special charges 
+ 36 
+ 
+ 
+ 57 
+ 
+ 
+ (36.8) 
+ 
+ % 
+ 
+ Adjusted operating income 
+ $ 
+ 1,612 
+ 
+ 
+ $ 
+ 1,373 
+ 
+ 
+ 17.4 
+ 
+ % 
+ 
+ Adjusted operating margin 
+ 17.8 
+ % 
+ 
+ 16.0 
+ % 
+ 
+ 180 
+ 
+ bp 
+ NM Not Meaningful 
+ 
+ 
+ 
+ 42 
+ 
+ 
+ The table below provides a reconciliation of net income attributable to Xylem to consolidated EBITDA and adjusted EBITDA: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (in millions) 
+ Year Ended December 31, 
+ 
+ 
+ 2025 
+ 
+ 2024 
+ 
+ Change 
+ 
+ Net Income attributable to Xylem 
+ $ 
+ 957 
+ 
+ 
+ $ 
+ 890 
+ 
+ 
+ 8 
+ 
+ % 
+ 
+ Net Income margin 
+ 10.6 
+ % 
+ 
+ 10.4 
+ % 
+ 
+ 20 
+ 
+ bp 
+ 
+ Depreciation 
+ 267 
+ 
+ 
+ 258 
+ 
+ 
+ 3 
+ 
+ % 
+ 
+ Amortization 
+ 308 
+ 
+ 
+ 304 
+ 
+ 
+ 1 
+ 
+ % 
+ 
+ Interest expense, net 
+ 2 
+ 
+ 
+ 16 
+ 
+ 
+ (88) 
+ 
+ % 
+ 
+ Income tax expense 
+ 231 
+ 
+ 
+ 197 
+ 
+ 
+ 17 
+ 
+ % 
+ 
+ EBITDA 
+ $ 
+ 1,765 
+ 
+ 
+ $ 
+ 1,665 
+ 
+ 
+ 6 
+ 
+ % 
+ 
+ Share-based compensation 
+ 53 
+ 
+ 
+ 56 
+ 
+ 
+ (5) 
+ 
+ % 
+ 
+ Restructuring and realignment 
+ 131 
+ 
+ 
+ 91 
+ 
+ 
+ 44 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Special charges 
+ 36 
+ 
+ 
+ 57 
+ 
+ 
+ (37) 
+ 
+ % 
+ 
+ Gain on remeasurement of previously held equity interest 
+ — 
+ 
+ 
+ (152) 
+ 
+ 
+ (100) 
+ 
+ % 
+ 
+ Loss from sale of businesses 
+ 31 
+ 
+ 
+ 46 
+ 
+ 
+ (33) 
+ 
+ % 
+ 
+ Loss attributable to non-controlling interest 
+ (7) 
+ 
+ 
+ — 
+ 
+ 
+ NM 
+ 
+ 
+ Adjusted EBITDA 
+ $ 
+ 2,009 
+ 
+ 
+ $ 
+ 1,763 
+ 
+ 
+ 14 
+ 
+ % 
+ 
+ Adjusted EBITDA margin 
+ 22.2 
+ % 
+ 
+ 20.6 
+ % 
+ 
+ 160 
+ 
+ bp 
+ NM Not Meaningful 
+ The tables below provide a reconciliation of each segment's operating income (loss) to EBITDA and adjusted EBITDA: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 2025 
+ 
+ (in millions) 
+ 
+ Water Infrastructure 
+ 
+ Applied Water Systems 
+ 
+ Measurement and Control Solutions 
+ 
+ Water Solutions and Services 
+ 
+ Operating Income 
+ 
+ $ 
+ 462 
+ 
+ 
+ $ 
+ 312 
+ 
+ 
+ $ 
+ 244 
+ 
+ 
+ $ 
+ 302 
+ 
+ 
+ Operating margin 
+ 
+ 17.5 
+ % 
+ 
+ 16.9 
+ % 
+ 
+ 11.7 
+ % 
+ 
+ 12.3 
+ % 
+ 
+ Loss (gain) attributable to non-controlling interests 
+ 
+ — 
+ 
+ 
+ (1) 
+ 
+ 
+ 9 
+ 
+ 
+ (1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Loss from sale of businesses 
+ 
+ (7) 
+ 
+ 
+ — 
+ 
+ 
+ (24) 
+ 
+ 
+ — 
+ 
+ 
+ Depreciation 
+ 
+ 44 
+ 
+ 
+ 29 
+ 
+ 
+ 33 
+ 
+ 
+ 159 
+ 
+ 
+ Amortization 
+ 
+ 54 
+ 
+ 
+ 4 
+ 
+ 
+ 135 
+ 
+ 
+ 108 
+ 
+ 
+ Other non-operating expense, excluding interest 
+ 
+ (6) 
+ 
+ 
+ — 
+ 
+ 
+ (2) 
+ 
+ 
+ (1) 
+ 
+ 
+ EBITDA 
+ 
+ $ 
+ 547 
+ 
+ 
+ $ 
+ 344 
+ 
+ 
+ $ 
+ 395 
+ 
+ 
+ $ 
+ 567 
+ 
+ 
+ Share-based compensation 
+ 
+ 10 
+ 
+ 
+ 5 
+ 
+ 
+ 8 
+ 
+ 
+ 7 
+ 
+ 
+ Restructuring and realignment 
+ 
+ 73 
+ 
+ 
+ 28 
+ 
+ 
+ 16 
+ 
+ 
+ 14 
+ 
+ 
+ Special charges 
+ 
+ 4 
+ 
+ 
+ — 
+ 
+ 
+ 16 
+ 
+ 
+ 6 
+ 
+ 
+ Loss from sale of businesses 
+ 
+ 7 
+ 
+ 
+ — 
+ 
+ 
+ 24 
+ 
+ 
+ — 
+ 
+ 
+ (Loss) gain attributable to non-controlling interests 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ 1 
+ 
+ 
+ $ 
+ (9) 
+ 
+ 
+ $ 
+ 1 
+ 
+ 
+ Adjusted EBITDA 
+ 
+ $ 
+ 641 
+ 
+ 
+ $ 
+ 378 
+ 
+ 
+ $ 
+ 450 
+ 
+ 
+ $ 
+ 595 
+ 
+ 
+ Adjusted EBITDA margin 
+ 
+ 24.3 
+ % 
+ 
+ 20.4 
+ % 
+ 
+ 21.6 
+ % 
+ 
+ 24.1 
+ % 
+ 
+ 
+ 43 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 2024 
+ 
+ 
+ 
+ (in millions) 
+ 
+ Water Infrastructure 
+ 
+ Applied Water Systems 
+ 
+ Measurement and Control Solutions 
+ 
+ Water Solutions Services 
+ 
+ Operating Income 
+ 
+ $ 
+ 356 
+ 
+ 
+ $ 
+ 271 
+ 
+ 
+ $ 
+ 247 
+ 
+ 
+ $ 
+ 219 
+ 
+ 
+ Operating margin 
+ 
+ 13.9 
+ % 
+ 
+ 15.1 
+ % 
+ 
+ 13.2 
+ % 
+ 
+ 9.3 
+ % 
+ 
+ Gain on remeasurement of previously held equity interest 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ 152 
+ 
+ 
+ — 
+ 
+ 
+ Loss from sale of businesses 
+ 
+ (40) 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ (6) 
+ 
+ 
+ Depreciation 
+ 
+ 46 
+ 
+ 
+ 25 
+ 
+ 
+ 26 
+ 
+ 
+ 159 
+ 
+ 
+ Amortization 
+ 
+ 76 
+ 
+ 
+ 3 
+ 
+ 
+ 106 
+ 
+ 
+ 108 
+ 
+ 
+ Other non-operating (expense) income, excluding interest 
+ 
+ (1) 
+ 
+ 
+ (3) 
+ 
+ 
+ (10) 
+ 
+ 
+ 1 
+ 
+ 
+ EBITDA 
+ 
+ $ 
+ 437 
+ 
+ 
+ $ 
+ 296 
+ 
+ 
+ $ 
+ 521 
+ 
+ 
+ $ 
+ 481 
+ 
+ 
+ Share-based compensation 
+ 
+ 12 
+ 
+ 
+ 6 
+ 
+ 
+ 4 
+ 
+ 
+ 11 
+ 
+ 
+ Restructuring and realignment 
+ 
+ 30 
+ 
+ 
+ 15 
+ 
+ 
+ 10 
+ 
+ 
+ 35 
+ 
+ 
+ Special charges 
+ 
+ 10 
+ 
+ 
+ — 
+ 
+ 
+ 12 
+ 
+ 
+ 15 
+ 
+ 
+ Loss from sale of businesses 
+ 
+ 40 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ 6 
+ 
+ 
+ Gain on remeasurement of previously held equity interest 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ (152) 
+ 
+ 
+ — 
+ 
+ 
+ Adjusted EBITDA 
+ 
+ $ 
+ 529 
+ 
+ 
+ $ 
+ 317 
+ 
+ 
+ $ 
+ 395 
+ 
+ 
+ $ 
+ 548 
+ 
+ 
+ Adjusted EBITDA margin 
+ 
+ 20.7 
+ % 
+ 
+ 17.7 
+ % 
+ 
+ 21.1 
+ % 
+ 
+ 23.4 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2025 versus 2024 
+ 
+ 
+ 
+ (in millions) 
+ 
+ Water Infrastructure 
+ 
+ Applied Water Systems 
+ 
+ Measurement and Control Solutions 
+ 
+ Water Solutions and Services 
+ 
+ Operating Income (Loss) 
+ 
+ $ 
+ 106 
+ 
+ 
+ $ 
+ 41 
+ 
+ 
+ $ 
+ (3) 
+ 
+ 
+ $ 
+ 83 
+ 
+ 
+ Operating margin 
+ 
+ 360 
+ bp 
+ 
+ 180 
+ bp 
+ 
+ (150) 
+ bp 
+ 
+ 300 
+ bp 
+ 
+ Loss (gain) attributable to non-controlling interests 
+ 
+ — 
+ 
+ 
+ (1) 
+ 
+ 
+ 9 
+ 
+ 
+ (1) 
+ 
+ 
+ Gain on remeasurement of previously held equity interest 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ (152) 
+ 
+ 
+ — 
+ 
+ 
+ 
+ Loss from sale of businesses 
+ 
+ 33 
+ 
+ 
+ — 
+ 
+ 
+ (24) 
+ 
+ 
+ 6 
+ 
+ 
+ Depreciation 
+ 
+ (2) 
+ 
+ 
+ 4 
+ 
+ 
+ 7 
+ 
+ 
+ — 
+ 
+ 
+ Amortization 
+ 
+ (22) 
+ 
+ 
+ 1 
+ 
+ 
+ 29 
+ 
+ 
+ — 
+ 
+ 
+ Other non-operating expense (income), excluding interest 
+ 
+ (5) 
+ 
+ 
+ 3 
+ 
+ 
+ 8 
+ 
+ 
+ (2) 
+ 
+ 
+ EBITDA 
+ 
+ $ 
+ 110 
+ 
+ 
+ $ 
+ 48 
+ 
+ 
+ $ 
+ (126) 
+ 
+ 
+ $ 
+ 86 
+ 
+ 
+ Share-based compensation 
+ 
+ (2) 
+ 
+ 
+ (1) 
+ 
+ 
+ 4 
+ 
+ 
+ (4) 
+ 
+ 
+ Restructuring and realignment 
+ 
+ 43 
+ 
+ 
+ 13 
+ 
+ 
+ 6 
+ 
+ 
+ (21) 
+ 
+ 
+ Special charges 
+ 
+ (6) 
+ 
+ 
+ — 
+ 
+ 
+ 4 
+ 
+ 
+ (9) 
+ 
+ 
+ 
+ Loss from sale of businesses 
+ 
+ (33) 
+ 
+ 
+ — 
+ 
+ 
+ 24 
+ 
+ 
+ (6) 
+ 
+ 
+ Gain on remeasurement of previously held equity interest 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ 152 
+ 
+ 
+ — 
+ 
+ 
+ (Loss) gain attributable to non-controlling interests 
+ 
+ — 
+ 
+ 
+ 1 
+ 
+ 
+ (9) 
+ 
+ 
+ 1 
+ 
+ 
+ Adjusted EBITDA 
+ 
+ $ 
+ 112 
+ 
+ 
+ $ 
+ 61 
+ 
+ 
+ $ 
+ 55 
+ 
+ 
+ $ 
+ 47 
+ 
+ 
+ Adjusted EBITDA margin 
+ 
+ 360 
+ bp 
+ 
+ 270 
+ bp 
+ 
+ 50 
+ bp 
+ 
+ 70 
+ bp 
+ 
+ 
+ 44 
+ 
+ 
+ Water Infrastructure 
+ Operating income was $462 million for our Water Infrastructure segment (operating margin of 17.5%) during 2025, an increase of $106 million, or 29.8%, when compared to operating income of $356 million (operating margin of 13.9%) during the prior year, or a total increase of 360 basis points of operating margin. Operating margin expansion included unfavorable impacts of 70 basis points from an increase in restructuring and realignment costs, offset by decreases in acquired intangible asset amortization and special charges as compared to the prior year. Additionally, operating margin increases included 830 basis points from favorable operating impacts, driven by 460 basis points from productivity savings, 230 basis points of price realization, and 70 basis points of favorable mix. Operating margin growth was partially offset by negative operating impacts of 400 basis points including 230 basis points of inflation and 90 basis points of unfavorable volume. Excluding restructuring and realignment costs, acquired intangible asset amortization, and special charges, adjusted operating income was $583 million (adjusted operating margin of 22.1%) during 2025 as compared to adjusted operating income of $455 million (adjusted operating margin of 17.8%) during the prior year. 
+ Adjusted EBITDA was $641 million (adjusted EBITDA margin of 24.3%) during 2025, an increase of $112 million, or 21.2%, when compared to adjusted EBITDA of $529 million (adjusted EBITDA margin of 20.7%) during the prior year. The increase in adjusted EBITDA margin was primarily due to the same factors impacting the increase in adjusted operating margin; however, adjusted EBITDA did not benefit from decreased depreciation and software amortization expense. 
+ Applied Water 
+ Operating income was $312 million for our Applied Water segment (operating margin of 16.9%) during 2025, an increase of $41 million, or 15.1%, when compared to operating income of $271 million (operating margin of 15.1%) during the prior year, or a total increase of 180 basis points of operating margin. The increase in operating margin included unfavorable impacts of 60 basis points from increased restructuring and realignment costs as compared to the prior year. Operating margin also included favorable operating impacts of 690 basis points, driven by 540 basis points of productivity savings and 100 basis points of price realization. Operating margin expansion was partially offset by 450 basis points of unfavorable operating impacts, including of 290 basis points of inflation and 70 basis points of increased spending on strategic investments. Excluding restructuring and realignment costs, adjusted operating income was $340 million (adjusted operating margin of 18.4%) during 2025 as compared to adjusted operating income of $286 million (adjusted operating margin of 16.0%) during the prior year. 
+ Adjusted EBITDA was $378 million (adjusted EBITDA margin of 20.4%) during 2025, an increase of $61 million, or 19.2%, when compared to adjusted EBITDA of $317 million (adjusted EBITDA margin of 17.7%) during the prior year. The increase in adjusted EBITDA margin was primarily due to the same factors impacting the increase in adjusted operating margin. 
+ Measurement and Control Solutions 
+ Operating income was $244 million for our Measurement and Control Solutions segment (operating margin of 11.7%) during 2025, a decrease of $3 million, or 1.2%, when compared to operating income of $247 million (operating margin of 13.2%) during the prior year, or a total decrease of 150 basis points of operating margin. The decrease in operating margin included unfavorable impacts of 90 basis points from increased acquired intangible asset amortization, restructuring and realignment costs, and special charges as compared to the prior year. Additionally, the operating margin decrease included 660 basis points from unfavorable operating impacts driven by 270 basis points unfavorable mix and 260 basis points of inflation. The decrease in operating margin was partially offset by 600 basis points of favorable impacts consisting of 330 basis points of productivity savings, 150 basis points of price realization and 120 basis points of increased volume. Excluding acquired intangible asset amortization, restructuring and realignment costs, and special charges, adjusted operating income was $353 million (adjusted operating margin of 16.9%) during 2025 as compared to adjusted operating income of $327 million (adjusted operating margin of 17.5%) during the prior year. 
+ Adjusted EBITDA was $450 million (adjusted EBITDA margin of 21.6%) during 2025, an increase of $55 million, or 13.9%, when compared to adjusted EBITDA of $395 million (adjusted EBITDA margin of 21.1%) during the prior year. The increase in adjusted EBITDA margin was due to the same factors as those impacting the decrease in adjusted operating margin; however, adjusted EBITDA margin benefitted from a decrease non-operating expenses and was not negatively impacted by the relative impact of increases in depreciation and software amortization expense. 
+ 
+ 
+ 45 
+ 
+ 
+ Water Solutions and Services 
+ Operating income was $302 million for our Water Solutions and Services segment (operating margin of 12.3%) during 2025 an increase of $83 million, or 37.9%, when compared to operating income of $219 million (operating margin of 9.3%) during the prior year, or a total increase of 300 basis points of operating margin. The increase in operating margin included favorable impacts of 160 basis points from a net decrease in restructuring and realignment costs, special charges and acquired intangible asset amortization, as compared to the prior year. Additionally, the operating margin increase included 470 basis points from favorable operating impacts driven by 210 basis points of price realization, 100 basis points of productivity savings, 90 basis points of favorable volume, and 50 basis points of decreased spending on investments. Operating margin expansion was partially offset by 330 basis points of unfavorable operating impacts driven by 190 basis points of inflation and 70 basis points of unfavorable mix. Excluding restructuring and realignment costs, special charges, and acquired intangible asset amortization, adjusted operating income was $422 million (adjusted operating margin of 17.1%) during 2025 as compared to adjusted operating income of $368 million (adjusted operating margin of 15.7%) during the prior year. 
+ Adjusted EBITDA was $595 million (adjusted EBITDA margin of 24.1%) during 2025, an increase of $47 million, or 8.6%, when compared to adjusted EBITDA of $548 million (adjusted EBITDA margin of 23.4%) during the prior year. The increase in adjusted EBITDA margin was due to the same factors as those impacting the increase in adjusted operating margin; however, adjusted EBITDA did not benefit from the impact of flat depreciation and software amortization expense relative to increased revenue. 
+ Corporate and other 
+ Operating loss was $97 million for corporate and other during 2025, an increase of $13 million, or 15.5% when comparing to operating loss of $84 million during the prior year. The increase in operating loss for the year was partially offset by lower special charges as compared to the prior year. Excluding special charges, restructuring and realignment costs, and acquired intangible asset amortization, adjusted operating loss increased $23 million during 2025 or 36.5%, compared to the prior year. The increase in adjusted operating loss is primarily driven by increased spending on strategic investments and sustainability goals, as well as inflation. 
+ Interest Expense 
+ Interest expense was $29 million and $44 million for 2025 and 2024, respectively. The decrease in interest expense was primarily driven by increased income generated on cross currency swaps offsetting interest expense, and lower debt due to the repayment of the term loan entered into in May 2023 for use in funding the acquisition of Evoqua, which was repaid on April 19, 2024. See Note 15, "Credit Facilities and Debt", of our consolidated financial statements for a description of our credit facilities and long-term debt and related interest. 
+ Income Tax Expense 
+ The income tax provision for 2025 was $231 million at an effective tax rate of 19.5% as compared to $197 million at an effective tax rate of 18.1% in 2024. The 2025 effective tax rate differs from that of 2024 primarily due to the tax effects of the gain on remeasurement of equity interest in the prior period, partially offset by one-time deferred tax benefits from internal reorganizations. See Note 7, "Income Taxes", of our consolidated financial statements for additional details on our tax attributes and related tax expense. 
+ 
+ Liquidity and Capital Resources 
+ The following table summarizes our sources and uses of cash: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ (in millions) 
+ 2025 
+ 
+ 2024 
+ 
+ Change 
+ 
+ Operating activities 
+ $ 
+ 1,241 
+ 
+ 
+ $ 
+ 1,263 
+ 
+ 
+ $ 
+ (22) 
+ 
+ 
+ Investing activities 
+ (471) 
+ 
+ 
+ (482) 
+ 
+ 
+ 11 
+ 
+ 
+ Financing activities 
+ (501) 
+ 
+ 
+ (615) 
+ 
+ 
+ 114 
+ 
+ 
+ Foreign exchange (a) 
+ 90 
+ 
+ 
+ (53) 
+ 
+ 
+ 143 
+ 
+ 
+ Total 
+ $ 
+ 359 
+ 
+ 
+ $ 
+ 113 
+ 
+ 
+ $ 
+ 246 
+ 
+ (a) The impact of foreign exchange is primarily due to strengthening of the Euro, Canadian Dollar, Chinese Yuan and the Chilean Peso. 
+ 
+ 
+ 46 
+ 
+ 
+ Sources and Uses of Liquidity 
+ Operating Activities 
+ During 2025, net cash provided by operating activities was $1,241 million, compared to $1,263 million in 2024. The $22 million year-over-year decrease was primarily driven by an increase spending on long-term outsourced water projects, the liquidation of customer advances and deferred revenue, increased payments for strategic investments, and higher restructuring payments. These items were partially offset by higher cash earnings and decreased investment in net working capital, driven by lower growth in accounts receivables and inventory management initiatives. 
+ Investing Activities 
+ Cash used in investing activities was $471 million in 2025, compared to $482 million in 2024. The year-over-year decrease in cash used of $11 million reflects increased proceeds from the sale of businesses, including the sale of the former Evoqua Magneto business, less cash used for acquisitions, and higher proceeds from the sale of assets. These items were partially offset by spending on an asset acquisition, increased cash paid for investments, and higher capital expenditures. 
+ Financing Activities 
+ Cash used in financing activities was $501 million in 2025, compared to $615 million in 2024. The year-over-year decrease in cash used reflects the repayment of a term loan in 2024, partially offset by increased repayments of equipment financing debt, lower proceeds from employee stock options, and higher dividend payments. 
+ Funding and Liquidity Strategy 
+ Our ability to fund our capital needs depends on our ongoing ability to generate cash from operations and access to bank financing and the capital markets. We continually evaluate aspects of our spending, including capital expenditures, strategic investments and dividends. Historically, we have generated operating cash flow sufficient to fund our primary cash needs . 
+ If our cash flows from operations are less than we expect, we may need to incur debt or issue equity. From time to time, we may need to access the long-term and short-term capital markets to obtain financing. Our access to, and the availability of, financing on acceptable terms and conditions in the future will be impacted by many factors, including: (i) our credit ratings or absence of a credit rating, (ii) the liquidity of the overall capital markets and (iii) the current state of the economy. There can be no assurance that such financing will be available to us on acceptable terms or that such financing will be available at all. Our securities are rated investment grade. A significant change in credit rating could impact our ability to borrow at favorable rates. Refer to Note 15, "Credit Facilities and Debt", of our consolidated financial statements for a description of limitations on obtaining additional funding. 
+ We monitor our global funding requirements and seek to meet our liquidity needs on a cost-effective basis. In addition, our existing committed credit facilities and access to the public debt markets would provide further liquidity, if required. 
+ Based on our current global cash positions, cash flows from operations, and access to the capital markets, we believe there is sufficient liquidity to meet our funding requirements and service debt and other obligations in both the U.S. and outside of the U.S. over the next twelve months. Currently, we have available liquidity of approximately $2.5 billion, consisting of $1.5 billion of cash and $1 billion of available credit facilities as disclosed in Note 15, "Credit Facilities and Debt", of our consolidated financial statements. 
+ Contractual Obligations 
+ Material contractual obligations arising in the normal course of business primarily consist of debt obligations and related interest payments, lease obligations and unconditional purchase obligations. 
+ The Company has future unconditional purchase commitments that are legally binding and specify all significant terms including price and/or quantity, which are not reflected within the liabilities on our Consolidated Balance Sheets. Total future commitments within the next twelve months for these obligations is $775 million, excluding contracts that can be canceled without penalty. 
+ See Note 15, "Credit Facilities and Debt," and Note 11, "Leases" of our consolidated financial statements for additional information on our contractual commitments. 
+ 
+ 
+ 47 
+ 
+ 
+ Non-U.S. Operations 
+ As we continue to grow our operations in the emerging markets and elsewhere outside of the U.S., we expect to continue to generate significant revenue from non-U.S. operations and expect that a substantial portion of our cash will be held by our foreign subsidiaries. We expect to manage our worldwide cash requirements considering available funds among the many subsidiaries through which we conduct business and the cost effectiveness with which those funds can be accessed. We may transfer cash from certain international subsidiaries to the U.S. and other international subsidiaries when we believe it is cost effective to do so. We continually review our domestic and foreign cash profile, expected future cash generation, and investment opportunities and reassess whether there is a need to repatriate funds held internationally to support our U.S. operations. 
+ Off-Balance Sheet Arrangements 
+ We are a party to certain off-balance sheet arrangements including certain guarantees. For discussion of these arrangements, see Note 20, “Commitments and Contingencies” of our consolidated financial statements. 
+ Critical Accounting Estimates 
+ The preparation of financial statements in conformity with GAAP requires management to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenue and expenses and the disclosure of contingent liabilities. Management bases its estimates on historical experience and on various other assumptions that it believes to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. 
+ Significant accounting policies used in the preparation of the consolidated financial statements are discussed in Note 1, “Summary of Significant Accounting Policies,” of our consolidated financial statements. Accounting estimates and assumptions discussed in this section are those that we consider most critical to an understanding of our financial statements because they are inherently uncertain, involve significant judgments and include areas where different estimates reasonably could have been used, and because changes in such estimates that are reasonably possible could materially impact the financial statements. Management believes that the accounting estimates employed and the resulting balances are reasonable; however, actual results in these areas could differ from management’s estimates under different assumptions or conditions. 
+ Revenue Recognition. Xylem recognizes revenue in a manner that depicts the transfer of promised goods and services to customers in an amount that reflects the consideration to which it expects to be entitled for providing those goods and services. For each arrangement with a customer, we identify the contract and the associated performance obligations within the contract, determine the transaction price of that contract, allocate the transaction price to each performance obligation and recognize revenue as each performance obligation is satisfied. 
+ The satisfaction of performance obligations in a contract is based upon when the customer obtains control over the asset. Depending on the nature of the performance obligation, control transfers either at a particular point in time, or over time, which determines the pattern of revenue recognition. 
+ For product sales, other than long-term construction-type contracts, we recognize revenue once control has passed at a point in time, which is generally when products are shipped. In instances where contractual terms include a provision for customer acceptance, revenue is recognized when either (i) we have previously demonstrated that the product meets the specified criteria based on either seller or customer-specified objective criteria, or (ii) upon formal acceptance received from the customer where the product has not been previously demonstrated to meet customer-specified objective criteria. We recognize revenue on product sales to channel partners, including resellers, distributors or value-added solution providers, at the point in time when control is transferred, which is determined based on when the risks and rewards, possession and title have transferred to the customer, which usually occurs at the point of delivery. 
+ Service revenue is primarily related to outsourced water services, maintenance, repair, preventive and inspection services, software as a service ("SaaS") subscriptions, and spare parts sales related to these service offerings. Revenue from performance obligations related to services is primarily recognized over time, as the performance obligations are satisfied. In these instances, the customer consumes the benefit of the service as Xylem performs. 
+ Certain businesses also enter into long-term construction-type sales contracts where revenue is recognized over time. In these instances, revenue is recognized using a measure of progress that applies an input method based on costs incurred in relation to total estimated costs. We also recognize revenue for certain of these arrangements using the output method and measure progress based on shipments of product where control has transferred to the customer. 
+ 
+ 
+ 48 
+ 
+ 
+ If shipping and handling activities are performed after a customer obtains control of a good, we account for the shipping and handling activities as activities to fulfill a promise to transfer a good. Shipping and handling related costs are accrued as revenue is recognized. 
+ For all contracts with customers, we determine the transaction price in the arrangement and allocate the transaction price to each performance obligation identified in the contract. Judgment is required to determine the appropriate unit of account, and we separate the performance obligations if they are capable of being distinct and are distinct within the context of the contract. We base our allocation of the transaction price to the performance obligations on the relative stand-alone selling prices for the goods or services contained in a particular performance obligation. The stand-alone selling prices are determined first by reference to observable prices. In the event observable prices are not available, we estimate the stand-alone selling price by maximizing observable inputs and applying an adjusted market assessment approach, expected cost plus margin approach, or a residual approach in limited situations. Revenue in these instances is recognized on individual performance obligations within the same contract as they are satisfied. 
+ The transaction price is adjusted for our estimate of variable consideration which may include a right of return, discounts, rebates, penalties, retainage, and warranties. To estimate variable consideration, we apply the expected value or the most likely amount method, based on whichever method most appropriately predicts the amount of consideration we expect to receive. The method applied is typically based on historical experience and known trends. We limit the amounts of variable consideration that are included in the transaction price, to the extent that it is probable that a significant reversal in the amount of cumulative revenue recognized will not occur or when uncertainties around the variable consideration are resolved. 
+ We exclude from the measurement of the transaction price all taxes assessed by a governmental authority that are both imposed on and concurrent with a specific revenue-producing transaction and collected from a customer, for example sales, use, value added and some excise taxes. 
+ For all contracts with customers, payment received for our products and services may not necessarily follow the same pattern of revenue recognition to which it relates and are dictated by the terms and conditions of our contracts with customers. Payments received for product sales typically occur following delivery and the satisfaction of the performance obligations based upon the terms outlined in the contracts. Payments received for services typically occur following the services being rendered. For long-term construction-type projects, payments are typically made throughout the contract as progress is made. 
+ In limited situations, contracts with customers include financing components where payment terms exceed one year; however, we believe that the financing effects are not significant to Xylem. In addition, we apply a practical expedient and do not adjust the promised amount of consideration in a contract for the effects of significant financing components when we expect payment terms to be one year or less from the time the goods or services are transferred until ultimate payment. 
+ We offer standard warranties for our products to enable compliance with agreed-upon specifications in our contracts. Standard warranties do not give rise to performance obligations and represent assurance-type warranties. In certain instances, product warranty terms are adjusted to account for the specific nature of the contract. In these instances, we assess the warranties to determine whether they represent service-type warranties, and should be accounted for as a separate performance obligation in the contract. 
+ Costs to obtain a contract include incremental costs that the Company has incurred that it expects to recover. Incremental costs only include costs that the Company would not have incurred had the contract not been obtained. Costs that would have been incurred regardless of whether or not the contract was obtained are expensed as incurred, unless they are explicitly chargeable to the customer whether or not the contract is obtained. 
+ Costs to obtain contracts are capitalized when incurred, and are then amortized in a manner that is consistent with the pattern of transfer of the related goods or services provided in the contract. The Company elects to apply the practical expedient to expense costs to obtain contracts when the associated amortization period of those costs would be one year or less. 
+ Income Taxes. Deferred tax assets and liabilities are determined based on temporary differences between the financial reporting and tax bases of assets and liabilities, applying enacted tax rates in effect for the year in which we expect the differences will reverse. Based on the evaluation of available evidence, we recognize future tax benefits, such as net operating loss carryforwards, to the extent that we believe it is more likely than not we will realize these benefits. We periodically assess the likelihood that we will be able to recover our deferred tax assets and reflect any changes to our estimate of the amount we are more likely than not to realize in the valuation allowance, with a corresponding adjustment to earnings or other comprehensive income, as appropriate. 
+ 
+ 
+ 49 
+ 
+ 
+ In assessing the need for a valuation allowance, we look to the future reversal of existing taxable temporary differences, taxable income in carryback years and the feasibility of tax planning strategies and estimated future taxable income. The valuation allowance can be affected by changes to tax laws, changes to statutory tax rates and changes to future taxable income estimates. 
+ We have recorded net foreign withholding taxes and state income taxes on earnings that are expected to be repatriated to the U.S. parent. We have not recorded any deferred taxes on the amounts that the Company currently does not intend to repatriate. The determination of deferred taxes on this amount is not practicable. 
+ The calculation of our tax liabilities involves dealing with uncertainties in the application of complex tax laws in a multitude of jurisdictions across our global operations. We recognize potential liabilities and record tax liabilities for anticipated tax audit issues in the U.S. and other tax jurisdictions based on our estimate of whether, and the extent to which, additional taxes will be due. Furthermore, we recognize the tax benefit from an uncertain tax position only if based on the technical merits of the position it is more likely than not that the tax position will be sustained on examination by the taxing authorities or upon completion of the litigation process. The tax benefits recognized in the financial statements from such a position are measured based on the largest benefit that has a greater than 50% likelihood of being realized upon ultimate resolution. 
+ We adjust our liability for uncertain tax positions in light of changing facts and circumstances; however, due to the complexity of some of these uncertainties, the ultimate resolution may result in a payment that is materially different from our current estimate of the tax liabilities. If our estimate of tax liabilities proves to be less than the ultimate assessment, an additional tax expense would result. If a payment of these amounts ultimately proves to be less than the recorded amounts, the reversal of the liabilities would result in tax benefits being recognized in the period when we determine the liabilities are no longer necessary. 
+ Business Combinations. We record acquisitions using the acquisition method of accounting. Under this method, we recognize the identifiable assets acquired, liabilities assumed, contractual contingencies, and any contingent consideration at their estimated fair values as of the acquisition date. The excess of the consideration transferred over the fair value of the identifiable net assets acquired is recorded as goodwill. 
+ The determination of the fair value of acquired assets and assumed liabilities requires the use of significant estimates and assumptions. These include judgments about the selection of valuation methodologies, the determination of appropriate discount rates and market‐participant assumptions, estimates of future cash flows attributable to the acquired assets, and expected cost synergies or other benefits arising from the acquisition. For certain assets such as technology‐based intangibles, customer‐related intangibles, and trade names, valuation techniques may require assumptions about replacement cost, expected economic obsolescence, projected revenue growth, customer attrition, and the weighted‐average cost of capital. 
+ We develop these fair value estimates using historical experience, information obtained from the management of the acquired business, and, when appropriate, the assistance of independent third‐party valuation specialists. These estimates are inherently uncertain, rely on judgment, and may be affected by unanticipated events or changes in economic conditions. As a result, actual results may differ materially from the estimates used in acquisition accounting. 
+ Goodwill and Intangible Assets. We review goodwill and indefinite-lived intangible assets for impairment annually and whenever events or changes in circumstances indicate the carrying value of an asset may not be recoverable. We also review the carrying value of our finite-lived intangible assets for potential impairment when impairment indicators arise. We conduct our annual impairment test as of the first day of the fourth quarter. For goodwill, the estimated fair value of each reporting unit is compared to the carrying value of the net assets assigned to that reporting unit. If the estimated fair value of the reporting unit exceeds its carrying value, goodwill is not impaired. If the carrying value of the reporting unit exceeds its estimated fair value, then an impairment charge is recognized for that excess up to the amount of recorded goodwill. We estimate the fair value of our reporting units using both the income approach and market approach. Weighting is equally attributed to both the market and income approaches in arriving at the fair value of the reporting units. To determine the reasonableness of the calculated fair values, we review the assumptions to ensure that neither the income approach nor the market approach yielded significantly different valuations. Our projected cash flows are discounted using weighted costs of capital and are derived using revenue growth rates and operating margin estimates, taking into consideration industry and market conditions. In instances where we have completed an acquisition shortly before our annual impairment assessment we perform a qualitative assessment to determine if a quantitative assessment is necessary. We estimate the fair value of our intangible assets with indefinite lives using either the income approach or the market approach. Under the income approach, we calculate fair value based on the present value of estimated future cash flows. Under the market approach, we calculate fair value based on recent sales and selling prices of similar assets. 
+ 
+ 
+ 50 
+ 
+ 
+ Determining the fair value of a reporting unit or an indefinite-lived intangible asset is judgmental in nature and involves the use of significant estimates and assumptions, particularly related to future operating results and cash flows. These estimates and assumptions include, but are not limited to, revenue growth rates and operating margins used to calculate projected future cash flows, risk-adjusted discount rates, assumed royalty rates, future economic and market conditions and identification of appropriate market comparable data. In addition, the identification of reporting units and the allocation of assets and liabilities to the reporting units when determining the carrying value of each reporting unit also require judgment. Goodwill is tested for impairment at either the operating segment level identified in Note 21, “Segment and Geographic Data,” of the consolidated financial statements, or one level below. The fair values of our reporting units and indefinite-lived intangible assets are based on estimates and assumptions that are believed to be reasonable. Significant changes to these estimates and assumptions could adversely impact our conclusions. Actual future results may differ from those estimates. 
+ The risks around impairment of our assets are included in our risk factor disclosures referenced under “ITEM 1A. Risk Factors". 
+ During the fourth quarter of 2025, we performed our annual impairment assessment and determined that the estimated fair values of our goodwill reporting units and indefinite-lived intangible assets exceeded their respective carrying values. As a result, no impairments were recognized. However, future goodwill or indefinite-lived intangible asset impairment tests could result in a charge to earnings. We will continue to evaluate goodwill and indefinite-lived intangible assets on an annual basis as of the beginning of our fourth quarter and whenever events and changes in circumstances require us to do so. 
+ Post-retirement Benefit Plans. Company employees around the world participate in numerous defined benefit plans. The determination of projected benefit obligations and the recognition of expenses related to these plans are dependent on various assumptions. These assumptions primarily relate to discount rates, expected long-term rates of return on plan assets, rate of future compensation increases, mortality, years of service and other factors. Actual results that differ from our assumptions are accumulated and amortized on a straight-line basis only to the extent they exceed 10% of the higher of the market-related value or projected benefit obligation, over the average remaining service period of active plan participants, or for plans with all or substantially all inactive participants, over the average remaining life expectancy. 
+ Significant Assumptions 
+ Management develops each assumption using relevant Company experience, in conjunction with market-related data for each individual country in which such plans exist. All assumptions are reviewed annually with third-party consultants and are adjusted as necessary. The table below provides the weighted average assumptions used to estimate our defined benefit pension obligations and costs as of and for the years ended 2025 and 2024. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 2024 
+ 
+ 
+ U.S. 
+ 
+ Int’l 
+ 
+ U.S. 
+ 
+ Int’l 
+ 
+ Benefit Obligation Assumptions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Discount rate 
+ 5.42 
+ % 
+ 
+ 3.95 
+ % 
+ 
+ 5.65 
+ % 
+ 
+ 3.62 
+ % 
+ 
+ Rate of future compensation increase 
+ NM 
+ 
+ 2.87 
+ % 
+ 
+ NM 
+ 
+ 2.85 
+ % 
+ 
+ Net Periodic Benefit Cost Assumptions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Discount rate 
+ 5.65 
+ % 
+ 
+ 3.62 
+ % 
+ 
+ 5.00 
+ % 
+ 
+ 3.55 
+ % 
+ 
+ Expected long-term return on plan assets 
+ 6.00 
+ % 
+ 
+ 5.58 
+ % 
+ 
+ 6.00 
+ % 
+ 
+ 5.78 
+ % 
+ 
+ Rate of future compensation increase 
+ NM 
+ 
+ 2.85 
+ % 
+ 
+ NM 
+ 
+ 2.87 
+ % 
+ NM Not meaningful. The pension benefits for future service for all the U.S. pension plans are based on years of service and not impacted by future compensation increases. 
+ We determine the expected long-term rate of return on plan assets by evaluating both historical returns and estimates of future returns. Specifically, the Company analyzes the estimated future returns based on independent estimates of asset class returns and evaluates historical broad market returns over long-term timeframes based on the strategic asset allocation, which is detailed in Note 16, “Post-retirement Benefit Plans” of the consolidated financial statements. 
+ For the recognition of net periodic pension cost, the calculation of the expected return on plan assets is generally derived by applying the expected long-term rate of return to the market-related value of plan assets. The market-related value of plan assets is based on average asset values at the measurement date over the last five years. The use of fair value, rather than a calculated value, could materially affect net periodic pension cost. The weighted average expected long-term rate of return for all of our plan assets to be used in determining net periodic benefit 
+ 
+ 
+ 51 
+ 
+ 
+ costs for 2026 is estimated at 5.55%. We estimate that every 25 basis point change in the expected return on plan assets impacts the expense by less than $1 million. 
+ The discount rate reflects our expectation of the present value of expected future cash payments for benefits at the measurement date. A decrease in the discount rate increases the present value of benefit obligations and increases pension expense. We base the discount rate assumption on current investment yields of high-quality fixed income investments during the retirement benefits maturity period. The pension discount rate was determined by considering an interest rate yield curve comprising AAA/AA bonds, with maturities between zero and 30 years, developed by the plan’s actuaries. Annual benefit payments are then discounted to present value using this yield curve to develop a single-point discount rate matching the plan’s characteristics. Our weighted average discount rate for all pension plans effective January 1, 2026, is 4.19%. We estimate that every 25 basis point change in the discount rate impacts the expense by less than $1 million. 
+ The rate of future compensation increase assumption reflects our long-term actual experience and future and near-term outlook. Effective January 1, 2026, our expected rate of future compensation increase is 2.98% for all pension plans. The estimated impact of a 25 basis point change in the expected rate of future compensation is less than $1 million. 
+ We currently anticipate making contributions to our pension and post-retirement benefit plans in the range of $19 million to $25 million during 2026. Approximately $6 million of contributions are expected to be made in the first quarter. 
+ Funded Status 
+ Funded status is derived by subtracting the respective year-end values of the projected benefit obligations from the fair value of plan assets. We estimate that every 25 basis point change in the discount rate impacts the funded status by approximately $12 million. 
+ Fair Value of Plan Assets 
+ The plan assets of our pension plans comprise a broad range of investments, including domestic and foreign equity securities, interests in hedge funds, fixed income investments, insurance contracts, and cash and cash equivalents. 
+ A portion of our pension benefit plan assets portfolio comprises investments in hedge funds that are generally measured at net asset value. However, in certain instances, the values reported by the asset managers were not current at the measurement date. Accordingly, we made estimate adjustments to the last reported value where necessary to measure the assets at fair value at the measurement date. These adjustments consider information received from the asset managers, as well as general market information. The adjustment recorded at December 31, 2025 and 2024 for these assets represented less than 1% of total plan assets in each respective year. Asset values for other positions were generally measured using market observable prices. We estimate that a 5.00% change in asset values will impact funded status by approximately $12 million. 
+ New Accounting Pronouncements 
+ See Note 2, “Recently Issued Accounting Pronouncements,” of the consolidated financial statements for a complete discussion of recent accounting pronouncements. 
+ 2026 Business Outlook 
+ We anticipate total revenue growth of 1% to 3% in 2026, with organic revenue growth anticipated to be in the range of 2% to 4%. Our outlook reflects our current visibility and expectations based on the current market environment and other factors. Our ability to meet our expectations is subject to a number of risks, including, but not limited to, those described in "ITEM 1A. Risk Factors." 
+ 
+ 
+ 52 
+ 
+ 
+ 

@@ -1,0 +1,1559 @@
+ ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of Operations 
+ Overview 
+ Our Business 
+ We are a leading developer, publisher, and marketer of interactive entertainment for consumers around the globe. We develop, operate, and publish products principally through Rockstar Games, 2K, and Zynga. Our products are currently designed for console gaming systems, mobile, including smartphones and tablets, and PC. We deliver our products through physical retail, digital download, online platforms, and cloud streaming services. Refer to ITEM 1 - Business for additional discussion. 
+ Impairments 
+ During the fiscal year ended March 31, 2025, we recognized Goodwill impairment charges of $3,545.2, representing a partial impairment related to one of our reporting units, and we recognized impairment charges of $137.0 for acquisition-related Developed Game Technology intangible assets within Cost of revenue and $39.3 for acquisition-related Branding and Trade Names intangible assets within Depreciation and amortization. The impairment charges are a result of a reduction in the forecasted performance of certain games due to industry conditions and changes in our strategies in response to those conditions. Key assumptions and estimates used in deriving the fair values of these assets are forecasted revenue, EBITDA margins, long-term decay rate, and discount rate (refer to Note 9 - Goodwill and Intangible Assets, Net ). Future changes in those key assumptions and estimates could result in additional impairments. 
+ During the fiscal year ended March 31, 2025, we also recognized impairment charges related to our Software development costs and licenses of $77.5, of which $35.1 related to title cancellations as part of our cost reduction program (refer to Note 7 - Software Development Costs and Licenses and Note 21 - Business Reorganization) . 
+ Trends and Factors Affecting our Business 
+ Product Release Schedule. Our financial results are affected by the timing of our product releases and the commercial success of our titles. Generally, a significant portion of our revenue has been derived from a few popular franchises, particularly around new releases within those franchises, some of which have annual or biennial releases. Additionally, our Grand Theft Auto products in particular have historically accounted for a significant portion of our revenue. Sales of Grand Theft Auto products generated 12.6% of our net revenue for the fiscal year ended March 31, 2025. The timing of our Grand Theft Auto product releases may affect our financial performance on a quarterly and annual basis. 
+ Economic Environment and Retailer Performance. We continue to monitor various macroeconomic and geopolitical factors, such as global tariff policy, that may affect our business in several areas, including consumer demand, inflation, pricing pressure on our products, credit quality of our receivables, and foreign currency exchange rates. Actions we have taken to date and other potential actions we may take in the future in response to these factors could result in negative impacts in future periods. 
+ The economic environment has affected our customers in the past and may do so in the future. There has been increased consolidation in our industry, as larger, better capitalized competitors will be in a stronger position to withstand prolonged periods of economic downturn and sustain their business through the financial volatility. Also, bankruptcies or consolidations of our large retail customers could seriously hurt our business, due to uncollectible accounts receivable and the concentration of purchasing power among the remaining large retailers. 
+ Hardware Platforms. We derive a substantial portion of our revenue from the sale of products made for video game consoles manufactured by third parties. Such console revenue comprised 37.3% of our net revenue by product platform for the fiscal year ended March 31, 2025. The success of our business is dependent upon consumer acceptance of these platforms and 
+ 
+ 
+ 39 
+ 
+ 
+ the continued growth in the installed base of these platforms, which could be impacted by global economic factors, including global tariff policy. When new hardware platforms are introduced, demand for interactive entertainment developed for older platforms typically declines, which may negatively affect our business during the market transition to the new consoles. The latest Sony and Microsoft consoles provide "backwards compatibility" (i.e., the ability to play games for the previous generation of consoles). The inclusion of such features on new consoles could mitigate the risk of such a decline. However, we cannot be certain how backwards compatibility will affect demand for our products. Further, events beyond our control may impact the availability of these new consoles, which may also affect demand. We manage our product delivery on each current and future platform in a manner we believe to be most effective to maximize our revenue opportunities and achieve the desired return on our investments in product development. Accordingly, our strategy for these platforms is to focus our development efforts on a select number of the highest quality titles. 
+ Online Content and Digital Distribution. We provide a variety of online delivered products, including direct digital downloads of our titles, and access to additional offerings through virtual currency, add-on content, in-game purchases, and in-game advertising, which drive ongoing engagement and incremental revenue from recurrent consumer spending on our titles. Net revenue from digital online channels comprised 96.4% of our net revenue for the fiscal year ended March 31, 2025. We expect online delivery of games and game offerings to continue to be the primary part of our business over the long term. 
+ A significant portion of our mobile titles are distributed, marketed, and promoted through third parties, primarily Apple’s App Store and the Google Play Store. Virtual items for our mobile games are purchased principally through the payment processing systems of these platform providers, as well as our direct-to-consumer commerce platform. We generate a significant portion of our net revenue through the Apple and Google platforms and expect to continue to do so for the foreseeable future. Apple and Google generally have the discretion to set the amounts of their platform fees and change their platforms’ terms of service and other policies with respect to us or other developers at their sole discretion, and those changes may be unfavorable to us. These platform fees are recorded as cost of revenue as incurred. Further, as a result of the platform fees associated with online game sales, our mobile net revenue generally generates a lower gross margin percentage than our Console or PC revenue. Accordingly, the overall product mix between mobile and other game sales may affect our gross margin percentage. We are also continuing to expand our direct-to-consumer efforts more meaningfully across our mobile portfolio to enhance profitability. 
+ Player acquisition costs. Principally for our mobile titles, we use advertising and other forms of player acquisition and retention to grow and retain our player audience. These expenditures, which are recorded within Sales and marketing in our Consolidated Statements of Operations, generally relate to the promotion of new game launches and ongoing performance-based programs to drive new player acquisition and lapsed player reactivation. Over time, the effectiveness or cost of these acquisition and retention-related programs may change, affecting our operating results. 
+ Content Release Highlights 
+ During fiscal year 2025, 2K released NBA 2K25 , TopSpin 2K25 , Sid Meier's Civilization VII , PGA TOUR 2K25 , and WWE 2K25 , and Zynga released Game of Thrones: Legends . Rockstar plans to release Grand Theft Auto VI on May 26, 2026. 
+ Fiscal 2025 Financial Summary 
+ Our net revenue for the fiscal year ended March 31, 2025 was led by a variety of our top franchises, primarily NBA 2K, Grand Theft Auto , Red Dead Redemption , WWE 2K , and Sid Meier's Civilization, as well as top contributors Toon Blast , our hyper-casual mobile portfolio, Empires & Puzzles , Match Factory! , and Words With Friends. Our net revenue for the fiscal year ended March 31, 2025 was $5,633.6, an increase of $284.0 or 5.3% compared to the fiscal year ended March 31, 2024. 
+ Our operating loss for the fiscal year ended March 31, 2025 was $4,391.1 compared to operating loss of $3,590.6 for fiscal year ended March 31, 2024, primarily due to an increase in Goodwill impairment charges of $1,203.1 related to an additional partial impairment related to one of our reporting units. For the fiscal year ended March 31, 2025, our net loss was $4,478.9, as compared to net loss of $3,744.2 in the prior year. Diluted loss per share for the fiscal year ended March 31, 2025 was $25.58, as compared to Diluted loss per share of $22.01 for the fiscal year ended March 31, 2024. 
+ At March 31, 2025, we had $1,559.2 of Cash, cash equivalents, and restricted cash and cash equivalents, compared to $1,102.0 at March 31, 2024. The increase was primarily due to Net cash provided by financing activities, primarily related to proceeds from the issuance of our 2029 Notes and 2034 Notes (refer to Note 11 - Debt ) and the issuance of common stock. This increase was partially offset by (i) Net cash used in investing activities, which was primarily due to the purchase of fixed assets and (ii) Net cash used in operating activities, which was primarily due to investments in software development and licenses, partially offset by sales of our products. 
+ 
+ 
+ 40 
+ 
+ 
+ On June 11, 2024, we completed the purchase of 100% of the issued and outstanding capital stock of The Gearbox Entertainment Company, Inc. ("Gearbox"), from Embracer Group AB, for an initial consideration of 2.8 shares of our common stock (refer to Note 20 - Acquisitions ). 
+ Critical Accounting Policies and Estimates 
+ Our most critical accounting policies, which are those that require significant judgment, include revenue recognition, capitalization and recognition of software development costs and licenses, fair value estimates including valuation of goodwill and intangible assets, valuation and recognition of stock-based compensation, and income taxes. See Note 1 - Basis of Presentation and Significant Accounting Policies in the Notes to our Consolidated Financial Statements in this Annual Report on Form 10-K. 
+ Recently Adopted and Recently Issued Accounting Pronouncements 
+ See Note 1 - Basis of Presentation and Significant Accounting Policies . 
+ Operating Metric 
+ Net Bookings 
+ We monitor Net Bookings as a key operating metric in evaluating the performance of our business. Net Bookings is defined as the net amount of products and services sold digitally or sold-in physically during the period and includes licensing fees, merchandise, in-game advertising, strategy guides, and publisher incentives. Net Bookings were as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fiscal Year Ended March 31, 
+ 
+ 
+ 2025 
+ 
+ 2024 
+ 
+ Increase/(decrease) 
+ 
+ Increase/(decrease) % 
+ 
+ Net Bookings 
+ $ 
+ 5,648.0 
+ 
+ 
+ $ 
+ 5,333.0 
+ 
+ 
+ $ 
+ 315.0 
+ 
+ 
+ 5.9 
+ % 
+ For the fiscal year ended March 31, 2025, Net Bookings increased by $315.0 as compared to the prior year. The increase was primarily due to an increase in Net Bookings from Match Factory! ; our Sid Meier's Civilization franchise, the latest installment of which, Civilization VII , released in February 2025; Toon Blast ; our NBA 2K franchise; and TopSpin 2K25 , which released in April 2024. These increases were partially offset by a decrease in Net Bookings from Empires & Puzzles, our Grand Theft Auto franchise, our hyper- and hybrid-casual mobile portfolio, and LEGO 2K Drive , which released in May 2023. 
+ Results of Operations 
+ In this section, we discuss the results of our operations for the fiscal year ended March 31, 2025 compared to the fiscal year ended March 31, 2024. For the comparison of fiscal year 2024 to fiscal year 2023, refer to Part II, ITEM 7 “Management’s Discussion and Analysis of Financial Condition and Results of Operations” of our Annual Report on Form 10-K for the year ended March 31, 2024. 
+ 
+ 
+ 
+ 41 
+ 
+ 
+ The following table sets forth, for the periods indicated, our statements of operations, net revenue by content type, net revenue by platform, and net revenue by distribution channel: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fiscal Year Ended March 31, 
+ 
+ 
+ 
+ 2025 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ Total net revenue 
+ 
+ $ 
+ 5,633.6 
+ 
+ 
+ 100.0 
+ % 
+ 
+ $ 
+ 5,349.6 
+ 
+ 
+ 100.0 
+ % 
+ 
+ $ 
+ 5,349.9 
+ 
+ 
+ 100.0 
+ % 
+ 
+ Cost of revenue 
+ 
+ 2,571.4 
+ 
+ 
+ 45.7 
+ % 
+ 
+ 3,107.8 
+ 
+ 
+ 58.1 
+ % 
+ 
+ 3,064.6 
+ 
+ 
+ 57.3 
+ % 
+ 
+ Gross profit 
+ 
+ 3,062.2 
+ 
+ 
+ 54.3 
+ % 
+ 
+ 2,241.8 
+ 
+ 
+ 41.9 
+ % 
+ 
+ 2,285.3 
+ 
+ 
+ 42.7 
+ % 
+ 
+ Selling and marketing 
+ 
+ 1,683.7 
+ 
+ 
+ 29.9 
+ % 
+ 
+ 1,550.2 
+ 
+ 
+ 29.0 
+ % 
+ 
+ 1,586.5 
+ 
+ 
+ 29.7 
+ % 
+ 
+ Research and development 
+ 
+ 1,005.2 
+ 
+ 
+ 17.8 
+ % 
+ 
+ 948.2 
+ 
+ 
+ 17.7 
+ % 
+ 
+ 887.6 
+ 
+ 
+ 16.6 
+ % 
+ 
+ General and administrative 
+ 
+ 883.3 
+ 
+ 
+ 15.7 
+ % 
+ 
+ 716.1 
+ 
+ 
+ 13.4 
+ % 
+ 
+ 839.5 
+ 
+ 
+ 15.7 
+ % 
+ 
+ Depreciation and amortization 
+ 
+ 229.4 
+ 
+ 
+ 4.1 
+ % 
+ 
+ 171.2 
+ 
+ 
+ 3.2 
+ % 
+ 
+ 122.3 
+ 
+ 
+ 2.3 
+ % 
+ 
+ Goodwill impairment 
+ 
+ 3,545.2 
+ 
+ 
+ 62.9 
+ % 
+ 
+ 2,342.1 
+ 
+ 
+ 43.8 
+ % 
+ 
+ — 
+ 
+ 
+ — 
+ % 
+ 
+ Business reorganization 
+ 
+ 106.5 
+ 
+ 
+ 1.9 
+ % 
+ 
+ 104.6 
+ 
+ 
+ 1.9 
+ % 
+ 
+ 14.6 
+ 
+ 
+ 0.3 
+ % 
+ 
+ Total operating expenses 
+ 
+ 7,453.3 
+ 
+ 
+ 132.3 
+ % 
+ 
+ 5,832.4 
+ 
+ 
+ 109.0 
+ % 
+ 
+ 3,450.5 
+ 
+ 
+ 64.5 
+ % 
+ 
+ Loss from operations 
+ 
+ (4,391.1) 
+ 
+ 
+ (78.0) 
+ % 
+ 
+ (3,590.6) 
+ 
+ 
+ (67.1) 
+ % 
+ 
+ (1,165.2) 
+ 
+ 
+ (21.8) 
+ % 
+ 
+ Interest and other, net 
+ 
+ (93.3) 
+ 
+ 
+ (1.7) 
+ % 
+ 
+ (103.6) 
+ 
+ 
+ (1.9) 
+ % 
+ 
+ (141.9) 
+ 
+ 
+ (2.7) 
+ % 
+ 
+ Loss on fair value adjustments, net 
+ 
+ (6.9) 
+ 
+ 
+ (0.1) 
+ % 
+ 
+ (8.6) 
+ 
+ 
+ (0.2) 
+ % 
+ 
+ (31.0) 
+ 
+ 
+ (0.6) 
+ % 
+ 
+ Loss before income taxes 
+ 
+ (4,491.3) 
+ 
+ 
+ (79.8) 
+ % 
+ 
+ (3,702.8) 
+ 
+ 
+ (69.2) 
+ % 
+ 
+ (1,338.1) 
+ 
+ 
+ (25.0) 
+ % 
+ 
+ (Benefit from) provision for income taxes 
+ 
+ (12.4) 
+ 
+ 
+ (0.2) 
+ % 
+ 
+ 41.4 
+ 
+ 
+ 0.8 
+ % 
+ 
+ (213.4) 
+ 
+ 
+ (4.0) 
+ % 
+ 
+ Net loss 
+ 
+ $ 
+ (4,478.9) 
+ 
+ 
+ (80.0) 
+ % 
+ 
+ $ 
+ (3,744.2) 
+ 
+ 
+ (70.0) 
+ % 
+ 
+ $ 
+ (1,124.7) 
+ 
+ 
+ (21.0) 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fiscal Year Ended March 31, 
+ 
+ 
+ 
+ 2025 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ Net revenue by content: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Recurrent consumer spending 
+ 
+ $ 
+ 4,474.6 
+ 
+ 
+ 79.4 
+ % 
+ 
+ $ 
+ 4,213.5 
+ 
+ 
+ 78.8 
+ % 
+ 
+ $ 
+ 4,180.4 
+ 
+ 
+ 78.1 
+ % 
+ 
+ Full game and other 
+ 
+ 1,159.0 
+ 
+ 
+ 20.6 
+ % 
+ 
+ 1,136.1 
+ 
+ 
+ 21.2 
+ % 
+ 
+ 1,169.5 
+ 
+ 
+ 21.9 
+ % 
+ 
+ Net revenue by platform: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Mobile 
+ 
+ $ 
+ 2,942.0 
+ 
+ 
+ 52.2 
+ % 
+ 
+ $ 
+ 2,748.0 
+ 
+ 
+ 51.4 
+ % 
+ 
+ $ 
+ 2,538.6 
+ 
+ 
+ 47.5 
+ % 
+ 
+ Console 
+ 
+ 2,099.1 
+ 
+ 
+ 37.3 
+ % 
+ 
+ 2,167.3 
+ 
+ 
+ 40.5 
+ % 
+ 
+ 2,303.8 
+ 
+ 
+ 43.0 
+ % 
+ 
+ PC and other 
+ 
+ 592.5 
+ 
+ 
+ 10.5 
+ % 
+ 
+ 434.3 
+ 
+ 
+ 8.1 
+ % 
+ 
+ 507.5 
+ 
+ 
+ 9.5 
+ % 
+ 
+ Net revenue by distribution channel: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Digital online 
+ 
+ $ 
+ 5,431.8 
+ 
+ 
+ 96.4 
+ % 
+ 
+ $ 
+ 5,112.2 
+ 
+ 
+ 95.6 
+ % 
+ 
+ $ 
+ 5,085.7 
+ 
+ 
+ 95.1 
+ % 
+ 
+ Physical retail and other 
+ 
+ 201.8 
+ 
+ 
+ 3.6 
+ % 
+ 
+ 237.4 
+ 
+ 
+ 4.4 
+ % 
+ 
+ 264.2 
+ 
+ 
+ 4.9 
+ % 
+ Fiscal Years ended March 31, 2025 and 2024 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ % of net revenue 
+ 
+ 2024 
+ 
+ % of net revenue 
+ 
+ Increase/(decrease) 
+ 
+ % Increase/(decrease) 
+ 
+ Total net revenue 
+ 
+ $ 
+ 5,633.6 
+ 
+ 
+ 100.0 
+ % 
+ 
+ $ 
+ 5,349.6 
+ 
+ 
+ 100.0 
+ % 
+ 
+ $ 
+ 284.0 
+ 
+ 
+ 5.3 
+ % 
+ 
+ Product costs 
+ 
+ 821.1 
+ 
+ 
+ 14.6 
+ % 
+ 
+ 756.6 
+ 
+ 
+ 14.1 
+ % 
+ 
+ 64.5 
+ 
+ 
+ 8.5 
+ % 
+ 
+ Game intangibles 
+ 
+ 811.0 
+ 
+ 
+ 14.4 
+ % 
+ 
+ 1,301.1 
+ 
+ 
+ 24.3 
+ % 
+ 
+ (490.1) 
+ 
+ 
+ (37.7) 
+ % 
+ 
+ Internal royalties 
+ 
+ 405.4 
+ 
+ 
+ 7.2 
+ % 
+ 
+ 397.6 
+ 
+ 
+ 7.4 
+ % 
+ 
+ 7.8 
+ 
+ 
+ 2.0 
+ % 
+ 
+ Licenses 
+ 
+ 365.8 
+ 
+ 
+ 6.5 
+ % 
+ 
+ 305.8 
+ 
+ 
+ 5.8 
+ % 
+ 
+ 60.0 
+ 
+ 
+ 19.6 
+ % 
+ 
+ 
+ Software development costs and royalties (1) 
+ 
+ 168.1 
+ 
+ 
+ 3.0 
+ % 
+ 
+ 346.7 
+ 
+ 
+ 6.5 
+ % 
+ 
+ (178.6) 
+ 
+ 
+ (51.5) 
+ % 
+ 
+ Cost of revenue 
+ 
+ 2,571.4 
+ 
+ 
+ 45.7 
+ % 
+ 
+ 3,107.8 
+ 
+ 
+ 58.1 
+ % 
+ 
+ (536.4) 
+ 
+ 
+ (17.3) 
+ % 
+ 
+ Gross profit 
+ 
+ $ 
+ 3,062.2 
+ 
+ 
+ 54.3 
+ % 
+ 
+ $ 
+ 2,241.8 
+ 
+ 
+ 41.9 
+ % 
+ 
+ $ 
+ 820.4 
+ 
+ 
+ 36.6 
+ % 
+ (1) Includes $9.4 and $24.4 of stock-based compensation expense in fiscal year 2025 and 2024, respectively. 
+ For the fiscal year ended March 31, 2025, net revenue increased by $284.0, as compared to the prior year. The increase was primarily due to an increase in net revenue of $237.1 from Match Factory! , which released in November 2023; $127.2 from our Sid Meier's Civilization franchise, the latest installment of which, Civilization VII , released in February 2025; and $84.2 from Toon Blast . These increases were partially offset by a decrease in net revenue of $73.3 from our Grand Theft Auto franchise. 
+ 
+ 
+ 42 
+ 
+ 
+ Recurrent consumer spending ("RCS") is generated from ongoing consumer engagement and includes revenue from virtual currency, add-on content, in-game purchases, and in-game advertising. Net revenue from recurrent consumer spending increased by $261.1 and accounted for 79.4% of net revenue for the fiscal year ended March 31, 2025, as compared to 78.8% for the prior year. The increase was primarily due to an increase in net revenue from Match Factory! and Toon Blast . These increases were partially offset by a decrease in net revenue from our Grand Theft Auto franchise. Net revenue from full game and other increased by $22.9 and accounted for 20.6% of net revenue for the fiscal year ended March 31, 2025, as compared to 21.2% for the prior year. The increase was primarily due to an increase in net revenue from our Sid Meier's Civilization franchise and TopSpin 2K25 . These increases were partially offset by a decrease in net revenue from our NBA 2K franchise , a decrease as a result of a divestiture in our business, and a decrease in our Grand Theft Auto franchise. 
+ Net revenue from mobile increased by $194.0 and accounted for 52.2% of our total net revenue in the fiscal year ended March 31, 2025, as compared to 51.4% in the prior year. The increase was primarily due to an increase in net revenue from Match Factory! and Toon Blast. These increases were partially offset by a decrease in our Grand Theft Auto franchise, Merge Dragons!, and as a result of a divestiture. Net revenue from console games decreased by $68.2 and accounted for 37.3% of our total net revenue in the fiscal year ended March 31, 2025, as compared to 40.5% in the prior year. The decrease was primarily due to a decrease in net revenue from our Grand Theft Auto and NBA 2K franchises, and LEGO 2K Drive , which released in May 2023 . These decreases were partially offset by an increase in net revenue from TopSpin 2K25 , which released in April 2024, and our Sid Meier's Civilization franchise. Net revenue from PC and other increased by $158.2 and accounted for 10.5% of our total net revenue in the fiscal year ended March 31, 2025, as compared to 8.1% in the prior year. The increase was primarily due to an increase in net revenue from our Sid Meier's Civilization franchise ; our Risk of Rain franchise , which was acquired in connection with our acquisition of Gearbox in June 2024 (refer to Note 20 - Acquisitions ); and our Grand Theft Auto and NBA 2K franchises. 
+ Net revenue from digital online channels increased by $319.6 and accounted for 96.4% of our total net revenue for the fiscal year ended March 31, 2025, as compared to 95.6% in the prior year. The increase was primarily due to an increase in net revenue from Match Factory! , our Sid Meier's Civilization franchise, and Toon Blast. These increases were partially offset by a decrease in net revenue from our Grand Theft Auto franchise . Net revenue from physical retail and other channels decreased by $35.6 and accounted for 3.6% of our total net revenue for the fiscal year ended March 31, 2025, as compared to 4.4% for the prior year. The decrease was primarily due to a decrease in net revenue from our NBA 2K and Red Dead Redemption franchises, and LEGO 2K Drive . 
+ Gross profit as a percentage of net revenue for the fiscal year ended March 31, 2025 was 54.3%, as compared to 41.9% in the prior year. The increase was primarily due to lower impairment charges related to intangible assets related to our Zynga acquisition (refer to Note 9 - Goodwill and Intangible Assets, net ). 
+ Changes in foreign currency exchange rates decreased net revenue by $2.5 and increased gross profit by $0.2, respectively, in the fiscal year ended March 31, 2025 as compared to the prior year. 
+ Operating Expenses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ % of net revenue 
+ 
+ 2024 
+ 
+ % of net revenue 
+ 
+ Increase/(decrease) 
+ 
+ % Increase/(decrease) 
+ 
+ Selling and marketing 
+ 
+ $ 
+ 1,683.7 
+ 
+ 
+ 29.9 
+ % 
+ 
+ $ 
+ 1,550.2 
+ 
+ 
+ 29.0 
+ % 
+ 
+ $ 
+ 133.5 
+ 
+ 
+ 8.6 
+ % 
+ 
+ Research and development 
+ 
+ 1,005.2 
+ 
+ 
+ 17.8 
+ % 
+ 
+ 948.2 
+ 
+ 
+ 17.7 
+ % 
+ 
+ 57.0 
+ 
+ 
+ 6.0 
+ % 
+ 
+ General and administrative 
+ 
+ 883.3 
+ 
+ 
+ 15.7 
+ % 
+ 
+ 716.1 
+ 
+ 
+ 13.4 
+ % 
+ 
+ 167.2 
+ 
+ 
+ 23.3 
+ % 
+ 
+ Depreciation and amortization 
+ 
+ 229.4 
+ 
+ 
+ 4.1 
+ % 
+ 
+ 171.2 
+ 
+ 
+ 3.2 
+ % 
+ 
+ 58.2 
+ 
+ 
+ 34.0 
+ % 
+ 
+ Goodwill impairment 
+ 
+ 3,545.2 
+ 
+ 
+ 62.9 
+ % 
+ 
+ 2,342.1 
+ 
+ 
+ 43.8 
+ % 
+ 
+ 1,203.1 
+ 
+ 
+ 51.4 
+ % 
+ 
+ Business reorganization 
+ 
+ 106.5 
+ 
+ 
+ 1.9 
+ % 
+ 
+ $ 
+ 104.6 
+ 
+ 
+ 1.9 
+ % 
+ 
+ 1.9 
+ 
+ 
+ 1.8 
+ % 
+ 
+ Total operating expenses 
+ 
+ $ 
+ 7,453.3 
+ 
+ 
+ 132.3 
+ % 
+ 
+ $ 
+ 5,832.4 
+ 
+ 
+ 109.0 
+ % 
+ 
+ $ 
+ 1,620.9 
+ 
+ 
+ 27.8 
+ % 
+ Includes stock-based compensation expense, which was allocated as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 2024 
+ 
+ Selling and marketing 
+ 
+ $ 
+ 92.4 
+ 
+ 
+ $ 
+ 95.3 
+ 
+ 
+ Research and development 
+ 
+ 99.0 
+ 
+ 
+ 104.4 
+ 
+ 
+ General and administrative 
+ 
+ 123.2 
+ 
+ 
+ 111.5 
+ 
+ Foreign currency exchange rates decreased total operating expenses by $6.8 for the fiscal year ended March 31, 2025 as compared to the prior year. 
+ 
+ 
+ 43 
+ 
+ 
+ Selling and marketing 
+ Selling and marketing expenses increased by $133.5 for the fiscal year ended March 31, 2025 as compared to the prior year period, primarily due to (i) higher overall marketing expenses for Match Factory! , Game of Thrones: Legends , and our Sid Meier's Civilization franchise, partially offset by lower marketing expenses for our hyper-casual mobile portfolio, and (ii) lower amortization related to our intangible assets. 
+ Research and development 
+ Research and development expenses increased by $57.0 for the fiscal year ended March 31, 2025, as compared to the prior year period, primarily due to increases in (i) personnel expenses due to increased headcount and (ii) production and development expenses for titles that are not technologically feasible, partially offset by the timing of tax related credits for certain titles. 
+ General and administrative 
+ General and administrative expenses increased by $167.2 for the fiscal year ended March 31, 2025, as compared to the prior year period, primarily due to increases in (i) transaction costs related to our acquisition of Gearbox (refer to Note 2 0 - Acquisitions ), (ii) personnel expenses due to increased headcount, (iii) legal fees and contingencies related to the IBM case against Zynga, (iv) IT-related expenses for cloud-based services and IT infrastructure, as well as, (v) a reduction of expense in the prior year related to updating the fair value of contingent earn-out liability for our acquisition of Popcore with no corresponding reduction in the current year. 
+ General and administrative expenses for the fiscal years ended March 31, 2025 and 2024 include occupancy expense (primarily rent, utilities and office expenses) of $73.9 and $69.9, respectively, related to our development studios. 
+ Depreciation and amortization 
+ Depreciation and amortization expenses increased by $58.2 for the fiscal year ended March 31, 2025, as compared to the prior year period, primarily due to increases in (i) impairment expense related to our intangible assets (refer to Note 9 - Goodwill and Intangible Assets, Net ), (ii) IT infrastructure expense, and (iii) leasehold improvements for office buildouts. 
+ Goodwill impairment 
+ Goodwill impairment expense for the fiscal years ended March 31, 2025 and 2024, were $3,545.2 and $2,342.1, respectively, due to partial impairments recognized related to one of our reporting units (refer to Note 9 - Goodwill and Intangible Assets, Net ). 
+ Business reorganization 
+ Business reorganization expense increased by $1.9 for the fiscal year ended March 31, 2025, as compared to the prior year period, primarily due to an increase in employee-related costs and losses on our divestitures, partially offset by a decrease in expense due to cancellations of our titles (refer to Note 21 - Business Reorganization ). 
+ Interest and other, net 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ % of net revenue 
+ 
+ 2024 
+ 
+ % of net revenue 
+ 
+ Increase/(decrease) 
+ 
+ % Increase/(decrease) 
+ 
+ Interest income 
+ 
+ $ 
+ 98.6 
+ 
+ 
+ 1.8 
+ % 
+ 
+ $ 
+ 62.3 
+ 
+ 
+ 1.2 
+ % 
+ 
+ $ 
+ 36.3 
+ 
+ 
+ 58.3 
+ % 
+ 
+ Interest expense 
+ 
+ (167.3) 
+ 
+ 
+ (3.0) 
+ % 
+ 
+ (140.6) 
+ 
+ 
+ (2.6) 
+ % 
+ 
+ (26.7) 
+ 
+ 
+ 19.0 
+ % 
+ 
+ Foreign currency exchange gain (loss) 
+ 
+ (22.6) 
+ 
+ 
+ (0.4) 
+ % 
+ 
+ (28.6) 
+ 
+ 
+ (0.5) 
+ % 
+ 
+ 6.0 
+ 
+ 
+ (21.0) 
+ % 
+ 
+ Other 
+ 
+ (2.0) 
+ 
+ 
+ — 
+ % 
+ 
+ 3.3 
+ 
+ 
+ 0.1 
+ % 
+ 
+ (5.3) 
+ 
+ 
+ (160.6) 
+ % 
+ 
+ Interest and other, net 
+ 
+ $ 
+ (93.3) 
+ 
+ 
+ (1.7) 
+ % 
+ 
+ $ 
+ (103.6) 
+ 
+ 
+ (1.9) 
+ % 
+ 
+ $ 
+ 10.3 
+ 
+ 
+ (9.9) 
+ % 
+ Interest and other, net was expense of $93.3 for the fiscal year ended March 31, 2025, as compared to $103.6 for the fiscal year ended March 31, 2024. The net decrease in expense was primarily due to an increase in interest income primarily due to increases in interest rates and cash balances and a gain on the sale of an investment. These decreases in net expense were partially offset by increases in foreign currency losses, interest expense related to our debt transactions (refer to Note 11 - Debt ) and a gain on debt extinguishment recognized in the prior year on the partial repayment of our 2024 Notes. 
+ 
+ 
+ 44 
+ 
+ 
+ Loss on fair value adjustments, net 
+ Loss on fair value adjustments, net for the fiscal year ended March 31, 2025 was a loss of $6.9 compared to a loss of $8.6 in the prior year period. The change was primarily due to changes in fair value based on observable price changes of our long-term investments and an increase in fair value of our Convertible Notes. 
+ Benefit from income taxes 
+ Our income tax benefit was $12.4 for the fiscal year ended March 31, 2025 as compared to a provision for income taxes of $41.4 for the fiscal year ended March 31, 2024. 
+ When compared to the statutory rate of 21%, the effective tax rate of 0.3% for the fiscal year ended March 31, 2025 was primarily due to an expense of $718.0 from nondeductible goodwill impairments, $222.7 from an increase in the U.S. valuation allowance expense, $25.5 from an increase in the foreign valuation allowance expense, $41.4 from our geographic mix and foreign earnings partially offset by a $54.5 benefit from tax credits anticipated to be utilized. 
+ When compared to the statutory rate of 21%, the effective tax rate of (1.1)% for the fiscal year ended March 31, 2024 was primarily due to an expense of $474.7 from nondeductible goodwill impairments, $337.2 from an increase in the U.S. valuation allowance expense, $41.6 from an increase in the foreign valuation allowance expense, $39.0 from our geographic mix and foreign earnings, and $29.2 from a decrease in the net deferred tax asset relating to the Swiss cantonal basis step-up (as noted below) partially offset by a $63.3 benefit from tax credits anticipated to be utilized and $32.7 benefit from changes in reserves due to statute lapses. 
+ The effective tax rate in the current year was higher compared to the prior year primarily due to increased expense from nondeductible goodwill impairments, decreased benefits from tax credits, decreased expense related to an increase in our valuation allowance, and the impact of geographic mix and foreign earnings. 
+ The accounting for share-based compensation will increase or decrease our effective tax rate based upon the difference between our share-based compensation expense and the deductions taken on our tax return, which depends on the stock price at the time of the employee award vesting. 
+ We anticipate that additional excess tax benefits or shortfalls from employee stock compensation, tax credits, changes in valuation allowance, and changes in our geographic mix of earnings could have a significant impact on our effective tax rate in the future. In addition, we are regularly examined by domestic and foreign taxing authorities. Examinations may result in tax assessments in excess of amounts claimed and the payment of additional taxes. We believe our tax positions comply with applicable tax law, and that we have adequately provided for reasonably foreseeable tax assessments. It is possible that settlement of audits or the expiration of the statute of limitations could have an impact on our effective tax rate in future periods. 
+ The ARPA, among other things, includes provisions to expand the IRC Section 162(m) disallowance for deduction of certain compensation paid by publicly held corporations. Effective for tax years starting after December 31, 2026 (April 1, 2027 for the Company), ARPA expands the limitation to cover the next five most highly compensated employees. ARPA did not have a material impact on our Consolidated Financial Statements for the fiscal year ended March 31, 2025. We continue to evaluate the potential impact ARPA may have on our operations and Consolidated Financial Statements in future periods. 
+ The Inflation Reduction Act includes a new CAMT of 15% on the AFSI of corporations with an average AFSI exceeding $1.0 billion over a consecutive three-year period. The CAMT is effective for taxable year ending March 31, 2024. It is possible that the CAMT could result in an additional tax liability over the regular federal corporate tax liability in a particular year based on differences between book and taxable income. We do not estimate any tax liability relating to CAMT for the current fiscal year. We will continue to evaluate the potential impact the Inflation Reduction Act may have on our operations and Consolidated Financial Statements in future periods. 
+ The OECD has proposed a global minimum tax of 15% of reported profits, referred to as Pillar Two. Many countries have already implemented or are taking steps to implement Pillar Two. Although the model rules provide a framework for applying the minimum tax, countries may enact Pillar Two slightly differently than the model rules and on different timelines. Many aspects of Pillar Two are effective for the fiscal year ending March 31, 2025. Pillar Two could result in additional tax liability over the regular corporate tax liability in a particular jurisdiction to the extent tax expense is less than a 15% minimum rate. The impact of Pillar Two was not material to the tax provision for the fiscal year ended March 31, 2025. 
+ Switzerland's Federal Act on Tax Reform and AVH Financing ("TRAF") abolished preferential tax regimes for holding companies, domicile companies, and mixed companies at the cantonal level. The TRAF allows the cantons to establish transition rules, the implementation of which may be subject to a ruling from the canton. For the fiscal year ended March 31, 
+ 
+ 
+ 45 
+ 
+ 
+ 2024, we recorded a net tax expense of $29.2 due to an increase in the valuation of allowance of $81.3 offset by an increase in the deferred tax asset of $52.1 relating to the Swiss cantonal basis step-up, as it is more-likely-than-not that such deferred tax assets would not be realized. 
+ As of March 31, 2025, we had gross unrecognized tax benefits, including interest and penalties, of $267.1, of which $109.5 would affect our effective tax rate if realized. For the fiscal year ended March 31, 2025, gross unrecognized tax benefits decreased by $9.3. 
+ We are no longer subject to audit for U.S. federal income tax returns for periods prior to our fiscal year ended March 31, 2022 and state income tax returns for periods prior to the fiscal year ended March 31, 2020. With few exceptions, we are no longer subject to income tax examinations in non-U.S. jurisdictions for years prior to fiscal year ended March 31, 2018. Certain U.S. federal, state and foreign taxing authorities are currently examining our income tax returns for the fiscal years ended March 31, 2016 through March 31, 2023. 
+ Net loss and loss per share 
+ For the fiscal year ended March 31, 2025, net loss was $4,478.9, as compared to a net loss of $3,744.2 in the prior year. Basic and diluted loss per share for the fiscal year ended March 31, 2025 was $25.58, as compared to basic and diluted loss per share of $22.01 for the fiscal year ended March 31, 2024. Basic weighted average shares of 175.1 were 5.0 higher as compared to the prior year period basic weighted average shares, primarily due to stock issued as consideration for the acquisition of Gearbox, as well as normal stock compensation activity, including vests as well as grants and forfeitures in the prior year being fully outstanding in the current year. See Note 12 - Loss Per Share to our Consolidated Financial Statements for additional information. 
+ Liquidity and Capital Resources 
+ Our primary cash requirements are to fund (i) the development, manufacturing and marketing of our published products, (ii) working capital, (iii) capital expenditures, (iv) debt and interest payments, (v) tax payments, and (vi) acquisitions. We expect to rely on cash and cash equivalents as well as on short-term investments, funds provided by our operating activities, and our 2022 Credit Agreement to satisfy our working capital needs. Refer to Note 11 - Debt for additional discussion of our outstanding debt obligations. 
+ Short-term Investments 
+ As of March 31, 2025, we had $9.4 of short-term investments, which primarily consisted of bank time deposits with maturities greater than 90 days. From time to time, we may place additional short-term investments depending on future market conditions and liquidity needs. 
+ Senior Notes 
+ As of March 31, 2025, we had $3,650.0 of Senior Notes outstanding. 
+ On April 14, 2025, we repaid our 2025 Notes with a principal amount of $600.0. 
+ Credit Agreement 
+ As of March 31, 2025, there were no borrowings under the 2022 Credit Agreement, and we had approximately $747.8 available for additional borrowings. 
+ Convertible Notes 
+ The 2026 Convertible Notes mature on December 15, 2026, unless earlier converted, redeemed, or repurchased in accordance with their terms, prior to the maturity date. The 2026 Convertible Notes do not bear regular interest, and the principal amount does not accrete. An aggregate principal amount of $29.4 of the 2026 Convertible Notes remained outstanding at March 31, 2025. 
+ Financial Condition 
+ We are subject to credit risks, particularly if any of our receivables represent a limited number of customers or are concentrated in foreign markets. If we are unable to collect our accounts receivable as they become due, it could adversely affect our liquidity and working capital position. 
+ 
+ 
+ 46 
+ 
+ 
+ Generally, we have been able to collect our accounts receivable in the ordinary course of business. We do not hold any collateral to secure payment from customers. We have trade credit insurance on the majority of our customers to mitigate accounts receivable risk. 
+ A majority of our trade receivables are derived from sales to major retailers, including digital storefronts and platform partners, and distributors. Our five largest customers accounted for 81.0%, 79.8% and 79.6% of net revenue during the fiscal years ended March 31, 2025, 2024 and 2023, respectively. As of March 31, 2025, and 2024, five customers comprised 72.1% and 69.9% of our gross accounts receivable, respectively, with our significant customers (those that individually comprised more than 10% of our gross accounts receivable balance) accounting for 61.0% and 57.7% of such balance at March 31, 2025, and 2024, respectively. We had three customers who accounted for 24.0%, 21.3%, and 15.7% of our gross accounts receivable as of March 31, 2025, and three customers who accounted for 21.8%, 18.1%, and 16.9% of our gross accounts receivable as of March 31, 2024. We did not have any additional customers that exceeded 10% of our gross accounts receivable as of March 31, 2025, and 2024. Based upon performing ongoing credit evaluations, maintaining trade credit insurance on a majority of our customers who sell our physical products, and our past collection experience, we believe that the receivable balances from these largest customers do not represent a significant credit risk, although we actively monitor each customer's creditworthiness and economic conditions that may affect our customers' business and access to capital. We are monitoring the current global economic conditions, including credit markets and other factors as it relates to our customers in order to manage the risk of uncollectible accounts receivable. 
+ We believe that our current cash and cash equivalents, short-term investments, and projected cash flow from operations, along with availability under our 2022 Credit Agreement will provide us with sufficient liquidity to satisfy our cash requirements for working capital, capital expenditures, and commitments on both a short-term and long-term basis. 
+ As of March 31, 2025, the amount of cash and cash equivalents held outside of the U.S. by our foreign subsidiaries was $791.3. These balances are dispersed across various locations around the world. We believe that such dispersion meets the business and liquidity needs of our foreign affiliates. In addition, we expect to have the ability to generate sufficient cash domestically to support ongoing operations for the foreseeable future. 
+ Our Board has authorized the repurchase of up to 21.7 shares of our common stock. Under this program, we may purchase shares from time to time through a variety of methods, including in the open market or through privately negotiated transactions, in accordance with applicable securities laws. Repurchases are subject to the availability of stock, prevailing market conditions, the trading price of the stock, our financial performance and other conditions. The program does not require us to repurchase shares and may be suspended or discontinued at any time for any reason. 
+ During the fiscal years ended March 31, 2025, 2024, and 2023, we did not repurchase shares of our common stock. As of March 31, 2025, we had repurchased a total of 11.7 shares of our common stock under the program, and 10.0 shares of our common stock remained available for repurchase under the share repurchase program. 
+ Our changes in cash flows were as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fiscal Year Ended March 31, 
+ 
+ 
+ 
+ 2025 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ Net cash (used in) provided by operating activities 
+ 
+ $ 
+ (45.2) 
+ 
+ 
+ $ 
+ (16.1) 
+ 
+ 
+ $ 
+ 1.1 
+ 
+ 
+ Net cash (used in) provided by investing activities 
+ 
+ (151.5) 
+ 
+ 
+ (28.2) 
+ 
+ 
+ (2,876.3) 
+ 
+ 
+ Net cash provided by (used in) financing activities 
+ 
+ 650.5 
+ 
+ 
+ (91.4) 
+ 
+ 
+ 1,930.3 
+ 
+ 
+ Effects of foreign currency exchange rates on cash, cash equivalents, and restricted cash and cash equivalents 
+ 
+ 3.4 
+ 
+ 
+ 3.1 
+ 
+ 
+ (15.9) 
+ 
+ 
+ Net change in cash, cash equivalents, and restricted cash and cash equivalents 
+ 
+ $ 
+ 457.2 
+ 
+ 
+ $ 
+ (132.6) 
+ 
+ 
+ $ 
+ (960.8) 
+ 
+ At March 31, 2025, we had $1,559.2 of Cash, cash equivalents, and restricted cash and cash equivalents, compared to $1,102.0 at March 31, 2024. The increase was primarily due to Net cash provided by financing activities, primarily related to proceeds from the issuance of our 2029 Notes and 2034 Notes (refer to Note 11 - Debt ) and the issuance of common stock. This increase was partially offset by (i) Net cash used in investing activities which was primarily due to the purchase of fixed assets and (i) Net cash used in operating activities, which was primarily due to investments in software development and licenses, partially offset by sales of our products. 
+ 
+ 
+ 47 
+ 
+ 
+ Commitments 
+ Refer to Note 14 - Commitments and Contingencies to our Consolidated Financial Statements for disclosures regarding our commitments. 
+ Capital Expenditures 
+ In fiscal year 2026, we anticipate capital expenditures to be $145. 
+ Off-Balance Sheet Arrangements 
+ As of March 31, 2025 and 2024, we did not have any material relationships with unconsolidated entities or financial parties, such as entities often referred to as structured finance or variable interest entities, which would have been established for the purpose of facilitating off-balance sheet arrangements or other contractually narrow or limited purposes. As such, we are not exposed to any financing, liquidity, market or credit risk that could arise if we had engaged in such relationships. 
+ International Operations 
+ Net revenue earned outside of the U.S. is principally generated by our operations in Europe, Asia, Australia, Canada and Latin America. For the fiscal years ended March 31, 2025, 2024, and 2023, 39.5%, 38.7%, and 37.2%, respectively, of our net revenue was earned outside the U.S. We are subject to risks inherent in foreign trade, including increased credit risks, tariffs and duties, fluctuations in foreign currency exchange rates, shipping delays and international political, regulatory and economic developments, all of which can have a significant effect on our operating results. 
+ Fluctuations in Quarterly Operating Results and Seasonality 
+ We have experienced fluctuations in quarterly and annual operating results as a result of the timing of the introduction of new titles, variations in sales of titles developed for particular platforms, market acceptance of our titles, development and promotional expenses relating to the introduction of new titles, sequels or enhancements of existing titles, projected and actual changes in platforms, the timing and success of title introductions by our competitors, product returns, changes in pricing policies by us and our competitors, the accuracy of retailers' forecasts of consumer demand, the size and timing of acquisitions, the timing of orders from major customers, and order cancellations and delays in product shipment. Sales of our full game products are also seasonal, with peak demand typically occurring in the fourth calendar quarter during the holiday season. For certain of our software products with multiple performance obligations, we defer the recognition of our net revenue over an estimated service period which generally ranges from six to fifteen months. As a result, the quarter in which we generate the highest Net Bookings may be different from the quarter in which we recognize the highest amount of Net revenue. Quarterly comparisons of operating results are not necessarily indicative of future operating results. 
+ 

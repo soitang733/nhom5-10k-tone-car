@@ -1,0 +1,2042 @@
+ ITEM 7 Management’s Discussion and Analysis of Financial Condition and Results of Operations 
+ 
+ 
+ The following discussion should be read in conjunction with the consolidated financial statements and accompanying notes included in Part II, ITEM 8 of this Annual Report on Form 10-K. This section of this Form 10-K generally discusses 2023 and 2022 items and year-to-year comparisons between 2023 and 2022. Discussions of 2021 items and year-to-year comparisons between 2022 and 2021 are not included in this Form 10-K and can be found in "Management's Discussion and Analysis of Financial Condition and Results of Operations" in Part II, ITEM 7 of the Company's Annual Report on Form-10-K for the fiscal year ended December 31, 2022, filed with the Securities and Exchange Commission on February 9, 2023. 
+ 
+ Executive Overview of the Business 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Hubbell is a global manufacturer of quality electrical products and utility solutions for a broad range of customer and end market applications. We provide utility and electrical solutions that enable our customers to operate critical infrastructure reliably and efficiently, and we empower and energize communities through innovative solutions supporting energy infrastructure In Front of the Meter, on The Edge, and Behind the Meter. In Front of the Meter is where utilities transmit and distribute energy to their customers. The Edge connects utilities with owner/operators and allows energy and data to be distributed back and forth. Behind the Meter is where owners and operators of buildings, industrial facilities and other critical infrastructure consume energy. Products are either sourced complete, manufactured or assembled by subsidiaries in the United States, Canada, Puerto Rico, Mexico, China, the UK, Brazil, Australia, Spain, Ireland, and the Republic of the Philippines. The Company also participates in joint ventures in Hong Kong and the Republic of the Philippines, and maintains offices in Singapore, Italy, China, India, Mexico, South Korea, Chile, and countries in the Middle East. The Company employed approximately 18,300 individuals worldwide as of December 31, 2023. 
+ 
+ Our reporting segments consist of the Utility Solutions segment, that has a leading position in Front of the Meter and at The Edge and the Electrical Solutions segment that is positioned Behind the Meter. Our long-term strategy is to: Serve our customers with reliable and innovative electrical and related infrastructure solutions with desired brands and high-quality service, delivered through a competitive cost structure; complement organic revenue growth with acquisitions that enhance our product offerings; and allocate capital effectively to create shareholder value. 
+ 
+ 
+ 
+ 
+ 
+ Our strategy to complement organic revenue growth with acquisitions is focused on acquiring assets that extend our capabilities, expand our product offerings, and present opportunities to compete in core, adjacent or complementary markets. Our acquisition strategy also provides the opportunity to advance our revenue growth objectives during periods of weakness or inconsistency in our end-markets. Pursuant to that strategy, we made three acquisitions in 2023 for an aggregate purchase price, net of cash, of approximately $1.2 billion, including our mid-December acquisition of Northern Star Holdings, Inc. (commercially known as Systems Control) for approximately $1.1 billion, net of cash. For additional information regarding our acquisition, see Note 4 - Business Acquisitions and Dispositions, in the accompanying Consolidated Financial Statements, which note is incorporated herein by reference. 
+ 
+ Our strategy to deliver products through a competitive cost structure has resulted in past and ongoing restructuring and related activities. Our restructuring and related efforts include the consolidation of manufacturing and distribution facilities, and workforce actions, as well as streamlining and consolidating our back-office functions. The primary objectives of our restructuring and related activities are to optimize our manufacturing footprint, cost structure and effectiveness, as well as the efficiency of our workforce. 
+ 
+ Productivity improvement also continues to be a key area of focus for the Company and efforts to drive productivity complement our restructuring and related activities to minimize the impact of rising material costs and other administrative cost inflation. Because material costs are approximately two thirds of our cost of goods sold, volatility in this area can significantly impact profitability. Our goal is to have pricing and productivity programs that offset material and other inflationary cost increases as well as pay for investments in key growth areas. 
+ 
+ Productivity programs affect virtually all functional areas within the Company by reducing or eliminating waste and improving processes. We continue to expand our efforts related to global product and component sourcing and supplier cost reduction programs. Value engineering efforts, product transfers and the use of lean process improvement techniques are expected to continue to increase manufacturing efficiency. In addition, we continue to build upon the benefits of our enterprise resource planning system across all functions. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ HUBBELL INCORPORATED - Form 10-K 
+ 
+ 21 
+ 
+ 
+ Our sales are also subject to market conditions that may cause customer demand for our products to be volatile and unpredictable, particularly in our Electrical Solutions segment. Product demand can be affected by fluctuations in domestic and international economic conditions, as well as currency fluctuations, commodity costs, and a variety of other factors. Since early 2021, we have experienced significant inflationary pressure across much of our business. As a result, we have taken various pricing actions to cover the higher costs and to protect our profitability. Although there has been some mitigation in the rate of inflation in recent months, we expect inflation to remain a factor for the foreseeable future and we expect to continue to take these pricing actions subject to demand and market conditions. Accordingly, there can be no assurance that we will be able to maintain our margins in response to further changes in inflationary pressures. In addition, macroeconomic effects such as increases in interest rates and other measures taken by central banks and other policy makers could have a negative effect on overall economic activity which could reduce our customers’ demand for our products. 
+ 
+ Discontinued Operations 
+ 
+ On February 1, 2022, the Company completed the sale of the Commercial and Industrial Lighting business (the "C&I Lighting business") to GE Current, a Daintree Company. The disposal of the C&I Lighting business met the criteria set forth in ASC 205-20 to be presented as a discontinued operation. The C&I Lighting businesses' results of operations and the related cash flows have been reclassified to income from discontinued operations in the Consolidated Statements of Income and cash flows from discontinued operations in the Consolidated Statement of Cash Flows, respectively, for all periods presented. For additional information regarding this transaction and its effect on our financial reporting, see Note 2 – Discontinued Operations, in the accompanying Consolidated Financial Statements, which note is incorporated herein by reference. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 22 
+ 
+ HUBBELL INCORPORATED - Form 10-K 
+ 
+ 
+ 
+ Results of Operations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Our operations are classified into two reportable segments: Utility Solutions and Electrical Solutions. For a complete description of the Company’s segments, see Part I, ITEM 1 of this Annual Report on Form 10-K. Within these segments, Hubbell serves customers in five primary end markets: utility T&D components, utility communications and controls, non-residential, residential, and industrial. Unless specified otherwise, all comparisons of 2023 results are with 2022 results. 
+ 
+ In 2023, Net sales increased by 8.6% or $425 million and organic Net sales (1) increased by 6.6% or $325 million on favorable price realization partially offset by modestly lower volumes, as further discussed in segment results below. Operating margin increased in 2023, by 500 basis points and adjusted operating margin (1) also increased by 510 basis points, driven by favorable price realization, improved operational productivity and lower material costs. Those increases were partially offset by continued non-material cost inflation, increased investments in capacity, innovation and productivity and lower unit volumes. Net income from continuing operations attributable to Hubbell increased by 48.6% in 2023 compared to the prior year and diluted earnings per share from continuing operations increased by 49.0%. Adjusted net income from continuing operations attributable to Hubbell (1) increased by 44.1% in 2023 compared to the prior year and adjusted diluted earnings per share from continuing operations (1) increased by 44.4% in 2023. 
+ 
+ Operating cash flow was higher in 2023 at $880.8 million as compared to $636.2 million in prior year. Free cash flow (2) was higher in 2023 at $715.1 million as compared to $506.9 million in the prior year. In 2023 we paid $245.5 million in shareholder dividends, an increase of 6.9% as compared to the prior year. We also invested $165.7 million in capacity for our customers as well as in innovation and productivity initiatives, and repurchased $30.0 million of shares in 2023. 
+ 
+ (1) Organic Net sales, adjusted operating margin, adjusted net income from continuing operations attributable to Hubbell and adjusted diluted earnings per share from continuing operations are non-GAAP financial measures. See "Adjusted Operating Measures" below for a reconciliation to the comparable GAAP financial measures. 
+ (2) Free cash flow is a non-GAAP financial measure. See "Adjusted Operating Measures" and "Financial Condition, Liquidity and Capital Resources - Cash Flow" below for a reconciliation to the comparable GAAP financial measure. 
+ 
+ SUMMARY OF CONSOLIDATED RESULTS (IN MILLIONS, EXCEPT PER SHARE DATA) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Year Ending December 31, 
+ 
+ 
+ 
+ 
+ 
+ 2023 
+ % of Net sales 
+ 2022 
+ % of Net sales 
+ 
+ 
+ 
+ 
+ Net sales 
+ $ 
+ 5,372.9 
+ 
+ 
+ $ 
+ 4,947.9 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of goods sold 
+ 3,484.8 
+ 
+ 64.9 
+ % 
+ 3,476.3 
+ 
+ 70.3 
+ % 
+ 
+ 
+ 
+ 
+ Gross profit 
+ 1,888.1 
+ 
+ 35.1 
+ % 
+ 1,471.6 
+ 
+ 29.7 
+ % 
+ 
+ 
+ 
+ 
+ Selling & administrative expenses 
+ 849.6 
+ 
+ 15.8 
+ % 
+ 762.5 
+ 
+ 15.4 
+ % 
+ 
+ 
+ 
+ 
+ Operating income 
+ 1,038.5 
+ 
+ 19.3 
+ % 
+ 709.1 
+ 
+ 14.3 
+ % 
+ 
+ 
+ 
+ 
+ Net income from continuing operations 
+ 766.0 
+ 
+ 14.2 
+ % 
+ 516.8 
+ 
+ 10.4 
+ % 
+ 
+ 
+ 
+ 
+ Less: Net income from continuing operations attributable to noncontrolling interest 
+ (6.2) 
+ 
+ (0.1) 
+ % 
+ (5.5) 
+ 
+ (0.1) 
+ % 
+ 
+ 
+ 
+ 
+ Net Income From Continuing Operations Attributable to Hubbell Incorporated 
+ 759.8 
+ 
+ 14.1 
+ % 
+ 511.3 
+ 
+ 10.3 
+ % 
+ 
+ 
+ 
+ 
+ Income from discontinued operations, net of tax 
+ — 
+ 
+ — 
+ % 
+ 34.6 
+ 
+ 0.7 
+ % 
+ 
+ 
+ 
+ 
+ Net income attributable to Hubbell Incorporated 
+ 759.8 
+ 
+ 14.1 
+ % 
+ 545.9 
+ 
+ 11.0 
+ % 
+ 
+ 
+ 
+ 
+ Less: Earnings allocated to participating securities 
+ (1.8) 
+ 
+ 
+ (1.4) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net income available to common shareholders 
+ $ 
+ 758.0 
+ 
+ 
+ $ 
+ 544.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ Average number of diluted shares outstanding 
+ 54.0 
+ 
+ 
+ 54.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ DILUTED EARNINGS PER SHARE - CONTINUING OPERATIONS 
+ $ 
+ 14.05 
+ 
+ 
+ $ 
+ 9.43 
+ 
+ 
+ 
+ 
+ 
+ 
+ DILUTED EARNINGS PER SHARE - DISCONTINUED OPERATIONS 
+ $ 
+ — 
+ 
+ 
+ $ 
+ 0.64 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ HUBBELL INCORPORATED - Form 10-K 
+ 
+ 23 
+ 
+ 
+ Adjusted Operating Measures 
+ 
+ In the following discussion of results of operations, we refer to "adjusted" operating measures. We believe those adjusted measures, which exclude the impact of certain costs, gains and losses, may provide investors with useful information regarding our underlying performance from period to period and allow investors to understand our results of operations without regard to items that, in management's judgment, significantly affect the comparability of operating results, or we do not consider a component of our core operating performance. 
+ 
+ Significant items impacting comparability: 
+ 
+ Transaction, integration and separation costs 
+ 
+ The effects that acquisitions and divestitures may have on our results fluctuate significantly based on the timing, size and number of transactions, and therefore result in significant volatility in the costs to complete transactions and integrate or separate the businesses. 
+ 
+ The size of acquisition and divestiture actions taken by the Company in the fourth quarter of 2023 has resulted in a significant increase in these costs. As a result, we believe excluding costs relating to these fourth quarter transactions provides useful and more comparable information to investors to better assess our operating performance. 
+ 
+ Transaction costs are primarily professional services and other fees incurred to complete the transactions. Integration and separation costs are the internal and external incremental costs directly relating to these activities for the acquired or divested business. 
+ 
+ Pension charge 
+ 
+ In 2022, we incurred pension settlement charges of $7.0 million that did not repeat in 2023. 
+ 
+ Amortization of intangible assets 
+ 
+ Adjusted operating measures also exclude non-cash amortization of all intangible assets associated with our business acquisitions, including inventory step-up amortization associated with those acquisitions. The intangible assets associated with our business acquisitions arise from the allocation of the purchase price using the acquisition method of accounting in accordance with Accounting Standards Codification 805, “Business Combinations.” These assets consist primarily of customer relationships, developed technology, trademarks and tradenames, and patents, as reported in Note 7 – Goodwill and Other Intangible Assets, under the heading “Total Definite-Lived Intangibles" within the Notes to Consolidated Financial Statements. 
+ 
+ The Company believes that the exclusion of these non-cash expenses (i) enhances management’s and investors’ ability to analyze underlying business performance, (ii) facilitates comparisons of our financial results over multiple periods, and (iii) provides more relevant comparisons of our results with the results of other companies as the amortization expense associated with these assets may fluctuate significantly from period to period based on the timing, size, nature, and number of acquisitions. Although we exclude amortization of these acquired intangible assets and inventory step-up from our non-GAAP results, we believe that it is important for investors to understand that revenue generated, in part, from such intangibles is included within revenue in determining adjusted net income from continuing operations. 
+ 
+ Adjusted results also excluded the income tax effects of the above adjustments which are calculated using the statutory tax rate, taking into consideration the nature of the ITEM and the relevant taxing jurisdiction, unless otherwise noted. 
+ The Company excludes these non-core items because we believe it enhances management's and investors' ability to analyze underlying business performance and facilitates comparisons of our financial results over multiple periods. Refer to the reconciliation of non-GAAP measures presented below, Note 4 – Business Acquisitions and Dispositions, and Note 12 – Retirement Benefits, for additional information. 
+ 
+ Organic Net sales, a non-GAAP measure, represents Net sales according to U.S. GAAP, less Net sales from acquisitions and divestitures during the first twelve months of ownership or divestiture, respectively, less the effect of fluctuations in Net sales from foreign currency exchange. The period-over-period effect of fluctuations in Net sales from foreign currency exchange is calculated as the difference between local currency Net sales of the prior period translated at the current period exchange rate as compared to the same local currency Net sales translated at the prior period exchange rate. We believe this measure provides management and investors with a more complete understanding of the underlying operating results and trends of established, ongoing operations by excluding the effect of acquisitions, dispositions and foreign currency as these activities can obscure underlying trends. When comparing Net sales growth between periods excluding the effects of acquisitions, business dispositions and currency exchange rates, those effects are different when comparing results for different periods. For example, because Net sales from acquisitions are considered inorganic from the date we complete an acquisition through the end of the first year following the acquisition, Net sales from such acquisition are reflected as organic Net sales thereafter. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 24 
+ 
+ HUBBELL INCORPORATED - Form 10-K 
+ 
+ 
+ There are limitations to the use of non-GAAP measures. Non-GAAP measures do not present complete financial results. We compensate for this limitation by providing a reconciliation between our non-GAAP financial measures and the respective most directly comparable financial measure calculated and presented in accordance with GAAP. Because non-GAAP financial measures are not standardized, it may not be possible to compare these financial measures with other companies’ non-GAAP financial measures having the same or similar names. These financial measures should not be considered in isolation from, as substitutes for, or alternative measures of, reported GAAP financial results, and should be viewed in conjunction with the most comparable GAAP financial measures and the provided reconciliations thereto. We believe, however, that these non-GAAP financial measures, when viewed together with our GAAP results and related reconciliations, provide a more complete understanding of our business. We strongly encourage investors to review our consolidated financial statements and publicly filed reports in their entirety and not rely on any single financial measure. 
+ 
+ The following table reconciles Adjusted operating income, a non-GAAP measure, to Operating income, the directly comparable GAAP financial measure (in millions): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Year Ended December 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2023 
+ % of Net sales 
+ 2022 
+ % of Net sales 
+ 
+ 
+ 
+ 
+ 
+ Operating income (GAAP measure) 
+ $ 
+ 1,038.5 
+ 19.3 
+ % 
+ $ 
+ 709.1 
+ 14.3 
+ % 
+ 
+ 
+ 
+ 
+ 
+ Amortization of acquisition-related intangible assets 
+ 76.8 
+ 1.4 
+ % 
+ 78.6 
+ 1.6 
+ % 
+ 
+ 
+ 
+ 
+ 
+ Transaction, integration & separation costs 
+ 13.5 
+ 0.3 
+ % 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ Adjusted operating income (non-GAAP measure) 
+ $ 
+ 1,128.8 
+ 21.0 
+ % 
+ $ 
+ 787.7 
+ 
+ 15.9 
+ % 
+ 
+ 
+ 
+ 
+ 
+ The following table reconciles Adjusted net income from continuing operations attributable to Hubbell Incorporated, Adjusted net income from continuing operations available to common shareholders, and the diluted per share amounts thereof, each a non-GAAP measure, to the directly comparable GAAP financial measures (in millions, except per share data). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Year Ended December 31, 
+ 
+ 
+ 
+ 
+ 
+ 2023 
+ Diluted Per Share 
+ 2022 
+ Diluted Per Share 
+ 
+ 
+ 
+ 
+ Net income from continuing operations attributable to Hubbell Incorporated (GAAP measure) 
+ $ 
+ 759.8 
+ 
+ $ 
+ 14.08 
+ 
+ $ 
+ 511.3 
+ 
+ $ 
+ 9.46 
+ 
+ 
+ 
+ 
+ 
+ Amortization of acquisition-related intangible assets 
+ 76.8 
+ 
+ 1.42 
+ 
+ 78.6 
+ 
+ 1.45 
+ 
+ 
+ 
+ 
+ 
+ Transaction, integration & separation costs 
+ 13.5 
+ 
+ 0.25 
+ 
+ — 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ Pension charge 
+ — 
+ 
+ — 
+ 
+ 7.0 
+ 
+ 0.13 
+ 
+ 
+ 
+ 
+ 
+ Subtotal 
+ $ 
+ 850.1 
+ 
+ $ 
+ 15.75 
+ 
+ $ 
+ 596.9 
+ 
+ $ 
+ 11.04 
+ 
+ 
+ 
+ 
+ 
+ 
+ Income tax effects (1) 
+ 20.7 
+ 
+ 0.38 
+ 
+ 21.4 
+ 
+ 0.39 
+ 
+ 
+ 
+ 
+ 
+ Adjusted net income from continuing operations attributable to Hubbell Incorporated (non-GAAP measure) 
+ $ 
+ 829.4 
+ 
+ $ 
+ 15.37 
+ 
+ $ 
+ 575.5 
+ 
+ $ 
+ 10.65 
+ 
+ 
+ 
+ 
+ 
+ Less: Earnings allocated to participating securities 
+ (1.9) 
+ 
+ (0.04) 
+ 
+ (1.5) 
+ 
+ (0.03) 
+ 
+ 
+ 
+ 
+ 
+ Adjusted net income from continuing operations available to common shareholders (non-GAAP measure) 
+ $ 
+ 827.5 
+ 
+ $ 
+ 15.33 
+ 
+ $ 
+ 574.0 
+ 
+ $ 
+ 10.62 
+ 
+ 
+ 
+ 
+ 
+ Average number of diluted shares outstanding 
+ 54.0 
+ 
+ 54.1 
+ 
+ 
+ 
+ 
+ 
+ Adjusted diluted earnings per share from continuing operations 
+ $ 
+ 15.33 
+ 
+ $ 
+ 10.62 
+ 
+ 
+ 
+ 
+ 
+ (1) The income tax effects are calculated using the statutory tax rate, taking into consideration the nature of the ITEM and the relevant taxing jurisdiction, unless otherwise noted. 
+ 
+ 
+ The following table reconciles our Organic Net sales growth to the directly comparable GAAP financial measure (in millions and percentage change): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Year Ended December 31, 
+ 
+ 
+ 2023 
+ Inc/(Dec) % 
+ 2022 
+ Inc/(Dec) % 
+ 
+ Net sales growth (GAAP measure) 
+ $ 
+ 425.0 
+ 
+ 8.6 
+ 
+ $ 
+ 753.8 
+ 
+ 18.0 
+ 
+ 
+ Impact of acquisitions 
+ 96.6 
+ 
+ 1.9 
+ 
+ 41.8 
+ 
+ 1.0 
+ 
+ 
+ Impact of divestitures 
+ — 
+ 
+ — 
+ 
+ (4.0) 
+ 
+ (0.1) 
+ 
+ 
+ Foreign currency exchange 
+ 3.1 
+ 
+ 0.1 
+ 
+ (16.3) 
+ 
+ (0.4) 
+ 
+ 
+ Organic Net sales growth (non-GAAP measure) 
+ $ 
+ 325.3 
+ 
+ 6.6 
+ 
+ $ 
+ 732.3 
+ 
+ 17.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ HUBBELL INCORPORATED - Form 10-K 
+ 
+ 25 
+ 
+ 
+ 
+ 2023 Compared to 2022 
+ 
+ Net Sales 
+ 
+ Net sales of $5,372.9 million in 2023 increased by $425.0 million, or 8.6%, compared to 2022. Organic net sales increased by 6.6%, which was composed of a high single digit percentage increase in price realization, partially offset by a low single digit percentage decrease in volumes. Net sales also increased by 1.9% from acquisitions and by 0.1% from foreign exchange. 
+ 
+ Cost of Goods Sold and Gross Profit 
+ 
+ As a percentage of Net sales, cost of goods sold decreased by 540 basis points to 64.9% in 2023 as compared to 70.3% in 2022, resulting in a related 540 basis point increase in Gross profit margin in 2023, which increased to 35.1% as compared to 29.7% in 2022. The increase in the Gross profit margin primarily reflects approximately nine percentage points of margin expansion driven by favorable price realization, improved operational productivity and lower material costs. Operational productivity was driven by improving supply chain conditions and reduced rates of absenteeism as compared to the prior year. Those increases were offset by approximately four percentage points of margin headwind driven by continued non-material cost inflation, increased investment in capacity, innovation and productivity, as well as lower unit volumes. 
+ 
+ Selling & Administrative Expenses 
+ 
+ S&A expense in 2023 was $849.6 million and increased by $87.1 million compared to the prior year. S&A expense as a percentage of Net sales increased by 40 basis points to 15.8% in 2023. The increase in S&A expense as a percentage of Net sales is primarily due to the impact of higher personnel cost and other cost inflation that was partially offset by a benefit from the increase in Net sales. 
+ 
+ Total Other Expense 
+ 
+ Total other expense increased by $3.1 million in 2023 to $55.2 million compared to the prior year, primarily due to a $13.3 million reduction of income related to the C&I Lighting business disposition in 2022 that did not recur in 2023 and higher non-service pension cost recognized in 2023 as compared to 2022. Those items were partially offset by a pension settlement charge of $7.0 million recorded in 2022 that did not recur in 2023 and lower net interest expense recorded in 2023 compared to 2022. 
+ 
+ Income Taxes 
+ 
+ The effective tax rate was 22.1% in 2023 as compared to 21.3% in 2022. The increase in the effective tax rate is primarily due to a favorable tax impact in 2022 from the completion of a tax audit and increased 2023 income in higher tax jurisdictions, partially offset by a higher stock based compensation tax benefit in 2023. 
+ 
+ Net Income From Continuing Operations Attributable to Hubbell and Earnings Per Diluted Share From Continuing Operations 
+ 
+ Net income from continuing operations attributable to Hubbell was $759.8 million in 2023 and increased 48.6% as compared to 2022 . Adjusted net income from continuing operations attributable to Hubbell was $829.4 million in 2023 and increased 44.1% as compared to 2022. The increase in net income from continuing operations and adjusted net income from continuing operations is primarily the result of higher operating income, driven by higher Net sales, and operation margin expansion, partially offset by an increase in the effective tax rate, all as discussed above. As a result, earnings per diluted share from continuing operations in 2023 increased 49.0% compared to 2022. Adjusted earnings per diluted share from continuing operations in 2023 increased 44.4% as compared to 2022. 
+ 
+ Income From Discontinued Operations, Net of Tax 
+ 
+ There was no income or loss from discontinued operations in 2023. Income from discontinued operations, net of tax was $34.6 million in 2022. Income from discontinued operations, net of taxes for the year ended December 31, 2022 includes pre-tax transaction and separation costs of $8.8 million. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 26 
+ 
+ HUBBELL INCORPORATED - Form 10-K 
+ 
+ 
+ Segment Results 
+ 
+ Utility Solutions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Year Ended December 31, 
+ 
+ 
+ 
+ (in millions) 
+ 2023 
+ 2022 
+ 
+ 
+ 
+ Net sales 
+ $ 
+ 3,261.7 
+ 
+ $ 
+ 2,871.1 
+ 
+ 
+ 
+ 
+ Operating income 
+ $ 
+ 706.6 
+ 
+ $ 
+ 438.2 
+ 
+ 
+ 
+ 
+ Amortization of acquisition-related intangible assets 
+ 58.3 
+ 
+ 56.3 
+ 
+ 
+ 
+ 
+ Transaction, integration & separation costs 
+ 13.2 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Adjusted operating income 
+ $ 
+ 778.1 
+ 
+ $ 
+ 494.5 
+ 
+ 
+ 
+ 
+ Operating margin (GAAP measure) 
+ 21.7 
+ % 
+ 15.3 
+ % 
+ 
+ 
+ 
+ Adjusted operating margin 
+ 23.9 
+ % 
+ 17.2 
+ % 
+ 
+ 
+ 
+ The following table reconciles our Utility Solutions segment Organic Net sales growth to the directly comparable GAAP financial measure (in millions and percentage change): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Year Ended December 31, 
+ 
+ 
+ 
+ 
+ Utility Solutions 
+ 2023 
+ Inc/(Dec) % 
+ 2022 
+ Inc/(Dec) % 
+ 
+ 
+ 
+ 
+ Net sales growth (GAAP measure) 
+ $ 
+ 390.6 
+ 
+ 13.6 
+ 
+ $ 
+ 536.7 
+ 
+ 23.0 
+ 
+ 
+ 
+ 
+ 
+ Impact of acquisitions 
+ 52.7 
+ 
+ 1.8 
+ 
+ 10.0 
+ 
+ 0.4 
+ 
+ 
+ 
+ 
+ 
+ Impact of divestitures 
+ — 
+ 
+ — 
+ 
+ (4.0) 
+ 
+ (0.2) 
+ 
+ 
+ 
+ 
+ 
+ Foreign currency exchange 
+ 1.6 
+ 
+ 0.1 
+ 
+ (3.6) 
+ 
+ (0.1) 
+ 
+ 
+ 
+ 
+ 
+ Organic Net sales growth (non-GAAP measure) 
+ $ 
+ 336.3 
+ 
+ 11.7 
+ 
+ $ 
+ 534.3 
+ 
+ 22.9 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net sales in the Utility Solutions segment in 2023 were approximately $3.3 billion, an increase of 13.6% as compared to 2022. This increase was due to a 11.7% increase in organic net sales driven by a high single digit percentage increase in price realization and a low single digit percentage increase in unit volumes. Acquisitions contributed 1.8% to Net sales growth in 2023 and foreign exchange contributed 0.1%. Volume increases were primarily driven by Communications and Controls due to improved availability of semiconductors, along with strength in utility transmission markets, partially offset by channel inventory management in distribution markets. Favorable price realization was driven by actions to offset inflation, as well as by our service levels. 
+ 
+ Operating income in the Utility Solutions segment in 2023 increased by 61.3% to $706.6 million as compared to 2022. Operating margin in 2023 increased to 21.7% as compared to 15.3% in 2022. Excluding amortization of acquisition-related intangibles and transaction, integration & separation costs, adjusted operating margin in 2023 increased by 670 basis points to 23.9% as compared to the prior year. The year-over-year increase in operating margin and adjusted operating margin were primarily driven by approximately 10 percentage points of margin expansion from favorable price realization, improved operational productivity and lower material costs. That year-over-year margin expansion includes an increase of approximately 60 basis points from a commercial resolution with a customer in the fourth quarter of 2022 that did not repeat in 2023. Those increases were partially offset by three percentage points of margin headwind due to increases in non-material cost inflation and investments in capacity, innovation and productivity. 
+ 
+ Electrical Solutions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Year Ended December 31, 
+ 
+ 
+ 
+ 
+ (in millions) 
+ 2023 
+ 2022 
+ 
+ 
+ 
+ 
+ Net sales 
+ $ 
+ 2,111.2 
+ 
+ $ 
+ 2,076.8 
+ 
+ 
+ 
+ 
+ 
+ Operating income (GAAP measure) 
+ $ 
+ 331.9 
+ 
+ $ 
+ 270.9 
+ 
+ 
+ 
+ 
+ 
+ Amortization of acquisition-related intangible assets 
+ 18.5 
+ 
+ 22.3 
+ 
+ 
+ 
+ 
+ 
+ Transaction, integration & separation costs 
+ 0.3 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ Adjusted operating income 
+ $ 
+ 350.7 
+ 
+ $ 
+ 293.2 
+ 
+ 
+ 
+ 
+ 
+ Operating margin (GAAP measure) 
+ 15.7 
+ % 
+ 13.0 
+ % 
+ 
+ 
+ 
+ 
+ Adjusted operating margin 
+ 16.6 
+ % 
+ 14.1 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ HUBBELL INCORPORATED - Form 10-K 
+ 
+ 27 
+ 
+ 
+ 
+ The following table reconciles our Organic Net sales growth to the directly comparable GAAP financial measure (in millions and percentage change): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Year Ended December 31, 
+ 
+ Electrical Solutions 
+ 2023 
+ Inc/(Dec) % 
+ 2022 
+ Inc/(Dec) % 
+ 
+ Net sales growth (GAAP measure) 
+ $ 
+ 34.4 
+ 
+ 1.7 
+ 
+ $ 
+ 217.1 
+ 
+ 11.7 
+ 
+ 
+ Impact of acquisitions 
+ 43.9 
+ 
+ 2.1 
+ 
+ 31.8 
+ 
+ 1.7 
+ 
+ 
+ Impact of divestitures 
+ — 
+ 
+ — 
+ 
+ — 
+ 
+ — 
+ 
+ 
+ Foreign currency exchange 
+ 1.5 
+ 
+ 0.1 
+ 
+ (12.7) 
+ 
+ (0.6) 
+ 
+ 
+ Organic Net sales growth (non-GAAP measure) 
+ $ 
+ (11.0) 
+ 
+ (0.5) 
+ 
+ $ 
+ 198.0 
+ 
+ 10.6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net sales of the Electrical Solutions segment in 2023 were $2.1 billion, an increase of $34.4 million, or 1.7% as compared to 2022. Acquisitions contributed 2.1% to the increase, partially offset by a 0.5% decrease in organic net sales in 2023 compared to the prior year, primarily driven by a mid-single digit percentage decrease in unit volumes mostly offset by a mid-single digit percentage increase in price realization. Markets for the Electrical Solutions segment were mixed, with weakness in residential markets and channel inventory management in commercial markets driving the decline in unit volumes. Industrial end markets were solid and renewables and datacenter verticals were also notably strong in 2023. Favorable price realization was driven primarily by actions to recover inflationary costs. 
+ 
+ Operating income of the Electrical Solutions segment in 2023 was $331.9 million and increased approximately 22.5% compared to 2022, while operating margin in 2023 increased by 270 basis points as compared to the prior year to 15.7%. Excluding amortization of acquisition-related intangibles and transaction, integration & separation costs, adjusted operating margin was 16.6% in 2023, which increased 250 basis points as compared to 2022. The increase in the operating margin and adjusted operating margin in 2023 was primarily due to approximately seven percentage points of margin expansion from favorable price realization, improved operational productivity and lower material and freight costs. Those increases were partially offset by approximately four percentage points of margin headwind driven by increases in non-material cost inflation, lower volumes and investments in capacity, innovation and productivity. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 28 
+ 
+ HUBBELL INCORPORATED - Form 10-K 
+ 
+ 
+ 
+ Financial Condition, Liquidity and Capital Resources 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The current and prior period results presented below represent the results of our continuing operations and exclude the results of the C&I Lighting business which are presented within cash provided by discontinued operations. See Note 2 - Discontinued Operations, in the Notes to the Consolidated Financial Statements for further details. 
+ 
+ Cash Flow 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Year Ended December 31, 
+ 
+ (in millions) 
+ 2023 
+ 2022 
+ 
+ Net cash provided by (used in): 
+ 
+ 
+ 
+ Operating activities from continuing operations 
+ $ 
+ 880.8 
+ 
+ $ 
+ 636.2 
+ 
+ 
+ Investing activities from continuing operations 
+ (1,380.2) 
+ 
+ 18.1 
+ 
+ 
+ Financing activities from continuing operations 
+ 388.5 
+ 
+ (437.1) 
+ 
+ 
+ Cash used in discontinued operations 
+ — 
+ 
+ (54.7) 
+ 
+ 
+ Effect of foreign currency exchange rate changes on cash and cash equivalents 
+ 6.9 
+ 
+ (8.8) 
+ 
+ 
+ NET CHANGE IN CASH AND CASH EQUIVALENTS 
+ $ 
+ (104.0) 
+ 
+ $ 
+ 153.7 
+ 
+ 
+ The following table reconciles our cash flows from operating activities to free cash flows for 2023 and 2022: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Year Ended December 31, 
+ 
+ (in millions) 
+ 2023 
+ 2022 
+ 
+ Net cash provided by operating activities - Continuing Operations (GAAP measure) 
+ $ 
+ 880.8 
+ 
+ $ 
+ 636.2 
+ 
+ 
+ Less: Capital expenditures - Continuing Operations 
+ (165.7) 
+ 
+ (129.3) 
+ 
+ 
+ Free cash flow - Continuing Operations 
+ $ 
+ 715.1 
+ 
+ $ 
+ 506.9 
+ 
+ 
+ Free cash flow as a percent of net income - continuing operations attributable to Hubbell 
+ 94.1 
+ % 
+ 99.2 
+ % 
+ 
+ Free cash flow is a non-GAAP measure that we define as cash flow from operations less capital expenditures. Management believes that free cash flow provides useful information regarding Hubbell’s ability to generate cash without reliance on external financing. In addition, management uses free cash flow to evaluate the resources available for investments in the business, strategic acquisitions and further strengthening the balance sheet. 
+ 
+ 2023 Compared to 2022 
+ 
+ Cash provided by operating activities from continuing operations was $880.8 million in 2023 compared to $636.2 million in 2022. The increase was primarily due to higher net income in 2023 compared to 2022, partially offset by the timing of advance payments from customers, and an increase in employee and customer incentive payments in 2023. 
+ 
+ Cash used in investing activities was $1,380.2 million in 2023 compared to cash provided of $18.1 million in 2022. That change was driven by an increase in cash used for acquisitions of $1,034.6 million, net proceeds of $332.8 million in 2022 from the disposition of C&I Lighting business, and a $36.4 million increase in capital expenditures in 2023 for capital investments to expand capacity, optimize footprint, and implement automation and productivity initiatives. 
+ 
+ Cash provided by financing activities was $388.5 million in 2023 as compared to cash used of $437.1 million in 2022. The change in cash flows from financing activities primarily reflects an increase in net borrowing of $702.6 million, primarily due to $600 million of indebtedness under the Term Loan Agreement (as defined below) and a $100 million increase in commercial paper borrowing in 2023 to finance the acquisition of Systems Control. The increase in cash provided also reflects lower share repurchases in 2023 compared to 2022. 
+ 
+ The favorable impact of foreign currency exchange rates on cash was $6.9 million in 2023 as compared to an unfavorable effect of $8.8 million in 2022. The favorable impact in 2023 was primarily related to a stronger Mexican Peso, British Pound and Canadian Dollar compared to the U.S. Dollar. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ HUBBELL INCORPORATED - Form 10-K 
+ 
+ 29 
+ 
+ 
+ 
+ Investments in the Business 
+ 
+ Investments in our business include cash outlays for the acquisitions of businesses as well as expenditures to maintain the operation of our equipment and facilities and invest in restructuring activities. 
+ 
+ In December 2023, the Company acquired Northern Star Holdings, Inc., ("Systems Control") for approximately $1.1 billion, net of cash acquired, subject to customary purchase price adjustments. Systems Control is a manufacturer of substation control and relay panels, as well as turnkey substation control building solutions. This business is reported in the Utility Solutions segment and enhances Hubbell Utility Solutions' industry-leading franchise across utility components, communications and controls. 
+ 
+ In October 2023, the Company acquired all of the issued and outstanding membership interests of Indústria Eletromecânica Balestro Ltda. ("Balestro") for a cash purchase price of approximately $88 million, net of cash acquired, subject to customary purchase price adjustments. Balestro is a company headquartered in Mogi Mirim, São Paulo, Brazil, and is recognized for designing, manufacturing, and delivering top quality products for the electrical utility industry in Brazil and other countries in Latin America, as well as other parts of the world. This business is reported in the Utility Solutions segment. 
+ 
+ In May 2023, the Company acquired all of the issued and outstanding membership interests of El Electronics LLC ("EIG") for a cash purchase price of approximately $60 million, net of cash acquired, subject to customary purchase price adjustments. EIG offers fully integrated energy management and power quality monitoring solutions for the electric utility and commercial and industrial markets. This business is reported in the Utility Solutions segment. 
+ 
+ For more information, refer to Note 4 - Business Acquisition in the Notes to Consolidated Financial Statements, which is incorporated herein by reference. 
+ 
+ During 2023, we invested $165.7 million in capital expenditures, an increase of $36.4 million as compared to 2022, as we increased capital investments to expand capacity, optimize footprint and implement automation and productivity initiatives. 
+ 
+ We continue to invest in restructuring and related programs to maintain a competitive cost structure, to drive operational efficiencies and to mitigate the impact of rising material costs and administrative cost inflation. We expect our investment in restructuring and related activities to continue in 2024 as we continue to invest in previously initiated actions and initiate further footprint consolidation and other cost reduction initiatives. 
+ 
+ In connection with our restructuring and related actions, we have incurred restructuring costs as defined by U.S. GAAP, which are primarily severance and employee benefits, asset impairments, and accelerated depreciation, as well as facility closure, contract termination and certain pension costs that are directly related to restructuring actions. We also incurred restructuring-related costs, which are costs associated with our business transformation initiatives, including the consolidation of back-office functions and streamlining of our processes, and certain other costs and gains associated with restructuring actions. We refer to these costs on a combined basis as "restructuring and related costs", which is a non-GAAP measure. We believe this non-GAAP measure provides investors with useful information regarding our underlying performance from period to period. Restructuring costs are predominantly settled in cash from our operating activities and are generally settled within one year, with the exception of asset impairments, which are non-cash. 
+ 
+ The table below presents the restructuring and related costs incurred in 2023, additional expected costs, and the expected completion date of restructuring actions that had been initiated as of December 31, 2023 and in prior years (in millions): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Costs Incurred in 2023 
+ Additional Expected Costs 
+ Expected Completion Date 
+ 
+ 2023 Restructuring Actions 
+ $ 
+ 1.2 
+ 
+ $ 
+ 4.9 
+ 
+ 2025 
+ 
+ 2022 and Prior Restructuring Actions 
+ 4.2 
+ 
+ 4.0 
+ 
+ 2024 
+ 
+ Restructuring cost (GAAP measure) 
+ $ 
+ 5.4 
+ 
+ $ 
+ 8.9 
+ 
+ 
+ 
+ Restructuring-related costs 
+ 6.3 
+ 
+ 2.8 
+ 
+ 
+ 
+ Restructuring and related costs (Non-GAAP measure) 
+ $ 
+ 11.7 
+ 
+ $ 
+ 11.7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 30 
+ 
+ HUBBELL INCORPORATED - Form 10-K 
+ 
+ 
+ Stock Repurchase Program 
+ 
+ We currently have total authorization to repurchase up to $300 million of shares of our common stock. On October 21, 2022, the Board of Directors approved a new share repurchase program (the "October 2022 program") that authorized the repurchase of up to $300 million of common stock, which expires in October 2025. On October 23, 2020, the Board of Directors approved a share repurchase program (the "October 2020 program") that authorized the repurchase of up to $300 million of common stock, which expired in October 2023. There have been no repurchases under the October 2022 program. At December 31, 2023, our remaining share repurchase authorization under the October 2022 program was $300 million. The Company repurchased $30.0 million and $182.0 million of shares of Common Stock in 2023 and 2022, respectively, under the October 2020 program. Subject to numerous factors, including market conditions and alternative uses of cash, we may conduct discretionary repurchases through open market or privately negotiated transactions, which may include repurchases under plans complying with Rules 10b5-1 and 10b-18 under the Securities Exchange Act of 1934, as amended. 
+ 
+ Debt to Capital 
+ 
+ At December 31, 2023 and 2022, the Company had $2,023.2 million and $1,437.9 million, respectively, of long-term debt outstanding, net of unamortized discount and the unamortized balance of capitalized debt issuance costs, with the increase resulting primarily from the financing, described below, for the Systems Control acquisition. At December 31, 2023 the Company had $15.0 million of maturities due within the next 12 months related to the Term Loan Agreement, which were classified within short term debt in the Consolidated Balance Sheet. At December 31, 2022, the Company had no long-term debt with maturities due within the next 12 months. 
+ 
+ Term Loan Agreement 
+ In December 2023, the Company entered into a new Term Loan Agreement (the "Term Loan Agreement") with a syndicate of lenders under which the Company borrowed $600 million on an unsecured basis to partially finance the Systems Control Acquisition, which was completed on December 12, 2023. Borrowings under the Term Loan Agreement bear interest generally at either the adjusted term SOFR rate plus an applicable margin (determined by a ratings based grid) or the alternative base rate. Currently, the loans bear interest based on the adjusted term SOFR rate. The principal amount of borrowings under the Term Loan Agreement amortize in equal quarterly installments of 2.5% in year one, 2.5% in year two, 5% in year three, with the remaining borrowings under the Term Loan Agreement due and payable in full at maturity in December 2026. The Company may make principal payments in excess of the amortization schedule at its discretion. The sole financial covenant in the Term Loan Agreement requires that total debt not exceed 65% of total capitalization as of the last day of each fiscal quarter of the Company. The Company was in compliance with this covenant as of December 31, 2023. 
+ 
+ Borrowings under Revolving Credit Facility 
+ The Company, as borrower, and its subsidiaries Hubbell Power Holdings S.à r.l. and Harvey Hubbell Holdings S.à r.l., each as a subsidiary borrower (collectively, the “Subsidiary Borrowers”) are parties to a five-year credit agreement with a syndicate of lenders and JPMorgan Chase Bank, N.A., as administrative agent, that provides a $750 million committed revolving credit facility (the “2021 Credit Facility"), which matures on March 12, 2026. Commitments under the 2021 Credit Facility may be increased to an aggregate amount not to exceed $1.25 billion. The 2021 Credit Facility includes a $50 million sub-limit for the issuance of letters of credit. The sum of the dollar amount of loans and letters of credit to the Subsidiary Borrowers under the 2021 Credit Facility may not exceed $75 million. There were no borrowings outstanding under the 2021 Credit Facility at December 31, 2023 or December 31, 2022. 
+ 
+ The interest rate applicable to borrowings under the 2021 Credit Facility is (i) either the alternate base rate (as defined in the 2021 Credit Facility) or (ii) the adjusted SOFR rate plus an applicable margin (determined by a ratings based grid). 
+ 
+ The 2021 Credit Facility contains a sole financial covenant requiring that, as of the last day of each fiscal quarter, the ratio of total indebtedness to total capitalization shall not be greater than 65%. The Company was in compliance with this covenant as of December 31, 2023. 
+ 
+ Unsecured Senior Notes 
+ 
+ At each of December 31, 2023 and 2022, the Company had outstanding unsecured, senior notes in principal amounts of $400 million due in 2026, $300 million due in 2027, $450 million due in 2028 and $300 million due in 2031 (the "Notes"). In the first quarter of 2021, net proceeds from the senior notes due 2031 were used, along with cash on hand, to redeem in full all $300 million outstanding principal amount of the Company's outstanding senior notes due in 2022 (the "2022 Notes"). The redemption of the 2022 Notes resulted in a $16.8 million loss on extinguishment that was recognized in the second quarter of 2021. 
+ 
+ The carrying value of the Notes, net of unamortized discount and the unamortized balance of capitalized debt issuance costs, was $1,440.3 million and $1,437.9 million at December 31, 2023 and December 31, 2022, respectively. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ HUBBELL INCORPORATED - Form 10-K 
+ 
+ 31 
+ 
+ 
+ The Notes are callable at any time at specified prices and are only subject to accelerated payment prior to maturity upon customary events of default, or upon a change in control triggering event as defined in the indenture governing the Notes, as supplemented. The Company was in compliance with all covenants (none of which is financial) as of December 31, 2023. 
+ 
+ Short-term Debt 
+ 
+ At December 31, 2023 and 2022, the Company had $117.4 million and $4.7 million, respectively, of short-term debt outstanding composed of: 
+ 
+ ◦ There was $100.0 million of commercial paper borrowings outstanding at December 31, 2023, which were used to partially fund the Systems Control Acquisition. There was no commercial paper outstanding as of December 31, 2022. 
+ 
+ ◦ $15 million of long-term debt was classified as short-term within current liabilities in the Consolidated Balance Sheet, reflecting maturities within the next 12 months relating to borrowing under the Term Loan Agreement at December 31, 2023. 
+ 
+ ◦ The Company had $2.4 million and $4.7 million short-term debt outstanding at December 31, 2023 and December 31, 2022, respectively, which consisted of borrowings to support our international operations in China and amounts outstanding under our commercial card program. 
+ 
+ Net debt, defined as total debt less cash and investments, is a non-GAAP measure that may not be comparable to definitions used by other companies. We consider net debt to be a useful measure of our financial leverage for evaluating the Company’s ability to meet its funding needs. 
+ 
+ The following table sets forth the reconciliation of net debt at December 31, 2023 and 2022: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ December 31, 
+ 
+ (in millions) 
+ 2023 
+ 2022 
+ 
+ Total Debt (GAAP measure) 
+ $ 
+ 2,140.6 
+ 
+ $ 
+ 1,442.6 
+ 
+ 
+ Total Hubbell Incorporated Shareholders’ Equity 
+ 2,877.0 
+ 
+ 2,360.9 
+ 
+ 
+ TOTAL CAPITAL (GAAP measure) 
+ $ 
+ 5,017.6 
+ 
+ $ 
+ 3,803.5 
+ 
+ 
+ Total Debt to Total Capital (GAAP measure) 
+ 43 
+ % 
+ 38 
+ % 
+ 
+ Cash and Investments 
+ $ 
+ 424.5 
+ 
+ $ 
+ 520.7 
+ 
+ 
+ NET DEBT (non-GAAP measure) 
+ $ 
+ 1,716.1 
+ 
+ $ 
+ 921.9 
+ 
+ 
+ Net Debt to Total Capital (non-GAAP measure) 
+ 34 
+ % 
+ 24 
+ % 
+ 
+ 
+ Liquidity 
+ 
+ We measure liquidity on the basis of our ability to meet short-term and long-term operational funding needs, to fund additional investments, including acquisitions, and to make dividend payments to shareholders. Significant factors affecting the management of liquidity are cash flows from operating activities, capital expenditures, cash dividend payments, stock repurchases, access to bank lines of credit and our ability to attract long-term capital with satisfactory terms. 
+ 
+ In 2023, we returned capital to our shareholders through dividends and share repurchases. These activities were funded primarily with cash flows from operations. 
+ 
+ ◦ In 2023, cash used for share repurchases was $30.0 million. 
+ 
+ ◦ Dividends paid on our Common Stock in 2023 were $245.5 million. 
+ 
+ We also require cash outlays to fund our operations, capital expenditures, and working capital requirements to accommodate anticipated levels of business activity, as well as our rate of cash dividends and potential future acquisitions. We have contractual obligations for long-term debt, operating leases, purchase obligations, and certain other long-term liabilities, including defined benefit retirement obligations and other benefits. Refer to Note 13 - Debt and Note 24 - Leases in the Notes to the Consolidated Financial Statements for further details on anticipated cash outflows. As a result of the Tax Cuts and Jobs Act ("TCJA"), we also have an obligation to fund, by annual installments through 2025, the Company's liability for the transition tax on the deemed repatriation of foreign earnings. Contractual purchase obligations are approximately $490 million i n 2024. Contractual purchase obligations beyond 2024 are not significant. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 32 
+ 
+ HUBBELL INCORPORATED - Form 10-K 
+ 
+ 
+ Our purchase obligations include amounts committed under legally enforceable contracts or purchase orders for goods and services with defined terms as to price, quantity, delivery and termination liability. These obligations primarily consist of inventory purchases made in the normal course of business to meet operational requirements and commitments for equipment purchases. As of December 31, 2023, we have $47.0 million of uncertain tax positions reflected in our Consolidated Balance Sheet. We are unable to make a reasonable estimate regarding the timing of settlement of these uncertain tax positions and, as a result, they have been excluded from the disclosure. See Note 14 — Income Taxes in the Notes to Consolidated Financial Statements. 
+ 
+ Our sources of funds and available resources to meet these funding needs are as follows: 
+ 
+ ◦ Cash flows from operating activities and existing cash resources: In addition to our cash flows from operating activities, we also had $336.1 million of cash and cash equivalents at December 31, 2023, of which approximately 16% was held inside the United States and the remainder held internationally. 
+ 
+ ◦ Our 2021 Credit Facility provides a $750.0 million committed revolving credit facility and commitments under the 2021 Credit Facility may be increased (subject to certain conditions) to an aggregate amount not to exceed $1.250 billion. Annual commitment fees to support availability under the 2021 Credit Facility are not material. Although not the principal source of liquidity, we believe our 2021 Credit Facility is capable of providing significant financing flexibility at reasonable rates of interest and is an attractive alternative source of funding in the event that commercial paper markets experience disruption. However, an increase in usage of the 2021 Credit Facility related to growth or a significant deterioration in the results of our operations or cash flows could cause our borrowing costs to increase and/or our ability to borrow could be restricted. We have not entered into any guarantees that could give rise to material unexpected cash requirements. The full $750.0 million of borrowing capacity under the 2021 Credit Facility was available to the Company at December 31, 2023. 
+ 
+ ◦ In addition to our commercial paper program and existing revolving credit facility, we also have the ability to obtain additional financing through the issuance of long-term debt. Considering our current credit rating, historical earnings performance, and financial position, we believe that we would be able to obtain additional long-term debt financing on attractive terms. 
+ 
+ ◦ The Company also maintains other lines of credit that are primarily used to support the issuance of letters of credit. Interest rates and other terms of borrowing under these lines of credit vary from country to country, depending on local market conditions. At December 31, 2023 and 2022, total availability under these lines was $55.9 million and $55.8 million, respectively, of which $23.4 million and $31.7 million was utilized to support letters of credit and the remaining amount was unused. The annual commitment fees associated with these lines of credit are not material. 
+ 
+ Pension Funding Status 
+ 
+ We have a number of funded and unfunded non-contributory U.S. and foreign defined benefit pension plans. Benefits under these plans are generally provided based on either years of service and final average pay or a specified dollar amount per year of service. The funded status of our qualified, defined benefit pension plans is dependent upon many factors including future returns on invested pension assets, the level of market interest rates, employee earnings and employee demographics. 
+ 
+ In 2022, the Company recognized a settlement loss within continuing operations relating to retirees that elected to receive lump-sum distributions from the Company's defined benefit pension plans of $7.0 million. This charge was the result of lump-sum payments which exceeded the threshold for settlement accounting under U.S. GAAP in such year . 
+ 
+ Changes in the value of the defined benefit plan assets and liabilities will affect the amount of pension expense ultimately recognized. Although differences between actuarial assumptions and actual results are no longer deferred for balance sheet purposes, deferral is still permitted for pension expense purposes. Unrecognized gains and losses in excess of an annual calculated minimum amount (the greater of 10% of the projected benefit obligation or 10% of the market value of assets) have been amortized and recognized in net periodic pension cost. Effective January 1, 2020, the amortization of unrecognized gains and losses of all of the Company's qualified defined benefit pension plans is recognized over the remaining life expectancy of participants, as all participants are considered inactive as a result of plan amendments. During 2023 and 2022, we recorded $10.4 million and $10.8 million, respectively, of pension expense related to the amortization of these unrecognized losses. 
+ 
+ In 2023 and 2022, we contributed $20.0 million and $12.5 million, respectively, to our qualified foreign and domestic defined benefit pension plans. These contributions have improved the funded status of those plans. Although not required by ERISA and the Internal Revenue Code, the Company may elect to make a voluntary contribution to its qualified domestic defined benefit pension plan in 2024. The anticipated level of pension funding in 2024 is not expected to have a significant impact on our overall liquidity. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ HUBBELL INCORPORATED - Form 10-K 
+ 
+ 33 
+ 
+ 
+ Assumptions 
+ 
+ The following assumptions were used to determine projected pension and other benefit obligations at the measurement date and the net periodic benefit costs for the year: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pension Benefits 
+ 
+ Other Benefits 
+ 
+ 
+ 2023 
+ 2022 
+ 
+ 2023 
+ 2022 
+ 
+ Weighted-average assumptions used to determine benefit obligations at December 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ Discount rate 
+ 5.16 
+ % 
+ 5.46 
+ % 
+ 
+ 5.20 
+ % 
+ 5.50 
+ % 
+ 
+ Rate of compensation increase 
+ 0.08 
+ % 
+ 0.08 
+ % 
+ 
+ 5.00 
+ % 
+ 3.93 
+ % 
+ 
+ Weighted-average assumptions used to determine net periodic benefit cost for years ended December 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ Discount rate 
+ 5.46 
+ % 
+ 2.79 
+ % 
+ 
+ 5.50 
+ % 
+ 2.90 
+ % 
+ 
+ Expected return on plan assets 
+ 5.68 
+ % 
+ 4.59 
+ % 
+ 
+ N/A 
+ N/A 
+ 
+ Rate of compensation increase 
+ 0.08 
+ % 
+ 0.08 
+ % 
+ 
+ 3.93 
+ % 
+ 3.87 
+ % 
+ 
+ At the end of each year, we estimate the expected long-term rate of return on pension plan assets based on the strategic asset allocation for our plans. In making this determination, we utilize expected rates of return for each asset class based upon current market conditions and expected risk premiums for each asset cla ss. A one percentage point change in the expected long-term rate of return on pension fund assets would have an impact of approximately $4.4 million on 2024 pretax pension expense . The expected long-term rate of return is applied to the fair market value of pension fund assets to produce the expected return on fund assets that is included in pension expense. 
+ 
+ The difference between this expected return and the actual return on plan assets was recognized at December 31, 2023 for balance sheet purposes, but continues to be deferred for expense purposes. The net deferral of past asset gains (losses) ultimately affects future pension expense through the amortization of gains (losses) with an offsetting adjustment to Hubbell shareholders’ equity through Accumulated other comprehensive loss. 
+ 
+ At the end of each year, we determine the discount rate to be used to calculate the present value of our pension plan liabilities. For our U.S. and Canadian pension plans, this discount rate is determined by matching the expected cash flows associated with our benefit obligations to the expected cash flows of a hypothetical portfolio of high quality, fixed income debt instruments with maturities that closely match the expected funding period of our pension liabilities. As of December 31, 2023, we used a discount rate of 5.20% for our U.S. pension plans compared to a discount rate of 5.50% used in 2022. For our Canadian pension plan, we used a discount rate of 4.61% in 2023, compared to a 5.01% discount rate used in 2022. 
+ 
+ For our UK pension plan the discount rate was derived using a full yield curve and uses plan specific cash flows. The derived discount rate is the single discount rate equivalent to discounting these liability cash flows at the term-dependent spot rates of AA corporate bonds. This methodology resulted in a December 31, 2023 discount rate for the UK pension plan of 4.80% as compared to a discount rate of 5.00% used in 2022. 
+ 
+ A decrease of one percentage point in the discount rate would increase our 2024 pretax pension expense by approximately $0.2 million. A discount rate increase of one percentage point would decrease our 2024 pretax pension expense by $0.4 million. 
+ 
+ In 2022 and 2023 we used the Pri-2012 mortality table and adopted the MP-2021 projection scale to calculate the present value of our pension plan liabilities. The Pri-2012 mortality table with adjustment for collar as appropriate and generational projection from 2012 using Scale MP-2021 was chosen as the best estimate based on the observed and anticipated experience of the plans after considering alternative tables. 
+ 
+ Other Post-Employment Benefits (“OPEB”) 
+ 
+ The Company also has a number of health care and life insurance benefit plans covering eligible employees who reached retirement age while working for the Company. These benefits have been discontinued for substantially all future retirees. These plans are not funded and, therefore, no assumed rate of return on assets is required. We use a similar methodology to derive the discount rate for our post employment benefit plan obligations that we use for our pension plans. As of December 31, 2023, the Company used a discount rate of 5.20% to determine the projected benefit obligation compared to a discount rate of 5.50% used in 2022. 
+ 
+ In accordance with the accounting guidance for retirement benefits, we recorded to Accumulated other comprehensive loss, within Hubbell shareholders’ equity, a benefit, net of tax, of $4.7 million in 2023 and $5.5 million in 2022, respectively, related to the annual remeasurement of the OPEB plans and the amortization of prior service credits and net actuarial gains. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 34 
+ 
+ HUBBELL INCORPORATED - Form 10-K 
+ 
+ 
+ Off-Balance Sheet Arrangements 
+ 
+ Off-balance sheet arrangements are defined as any transaction, agreement or other contractual arrangement to which an entity that is not included in our consolidated results is a party, under which we, whether or not a party to the arrangement, have, or in the future may have: (1) an obligation under a direct or indirect guarantee or similar arrangement, (2) a retained or contingent interest in assets transferred to an unconsolidated entity or similar arrangement that serves as credit, liquidity or market risk support to such entity for such assets, (3) an obligation or liability, including a contingent obligation or liability, under a contract that would be accounted for as a derivative instrument, except that it is excluded from the scope of FASB ASC Topic 815, or (4) an obligation, including a contingent obligation, arising out of a variable interest in an unconsolidated entity that is held by, and material to, the Company, where such entity provides financing, liquidity, market risk or credit risk support to, or engages in leasing, hedging or research and development services with, the Company. 
+ 
+ We do not have any off-balance sheet arrangements as defined above which have or are likely to have a current or future material effect on our financial condition, results of operations, liquidity, capital expenditures, capital resources or cash flows. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ HUBBELL INCORPORATED - Form 10-K 
+ 
+ 35 
+ 
+ 
+ Critical Accounting Estimates 
+ 
+ Note 1 — Significant Accounting Policies in the Notes to Consolidated Financial Statements describes the significant accounting policies used in the preparation of our financial statements. 
+ 
+ Use of Estimates 
+ 
+ We are required to make assumptions and estimates and apply judgments in the preparation of our financial statements that affect the reported amounts of assets and liabilities, revenues and expenses and related disclosures. We base our assumptions, estimates and judgments on historical experience, current trends and other factors deemed relevant by management, such as projections of future performance. We continually review these estimates and their underlying assumptions to ensure they are appropriate for the circumstances. Changes in estimates and assumptions used by us could have a material impact on our financial results, and actual results could differ significantly from those estimates. We believe that the following estimates are among the most critical in fully understanding and evaluating our reported financial results. These items utilize assumptions and estimates about the effect of future events that are inherently uncertain and are based on our judgment. 
+ 
+ Revenue Recognition 
+ 
+ The Company recognizes revenue when performance obligations identified under the terms of contracts with its customers are satisfied, which generally occurs, for products, upon the transfer of control in accordance with the contractual terms and conditions of the sale. The majority of the Company’s revenue associated with products is recognized at a point in time when the product is shipped to the customer, with a relatively small amount of transactions in the Utility Solutions segment recognized upon delivery of the product at the contractually specified destination. 
+ The Company also has performance obligations, primarily within the Utility Solutions segment, that are recognized over time due to the customized nature of the product and the Company's enforceable right to receive payment for work performed to date in the event of a cancellation. The Company uses an input measure to determine the extent of progress towards completion of the performance obligation, which the Company believes best depicts the transfer of control to the customer. Under this method, revenue recognition is based upon the ratio of costs incurred to date compared with estimated total costs to complete. 
+ Revenue from service contracts and post-shipment performance obligations is approximately two percent of total annual consolidated net revenue and those service contracts and post-shipment obligations are primarily within the Utility Solutions segment. Revenue from service contracts and post-shipment performance obligations is recognized when or as those obligations are satisfied. The Company primarily offers assurance-type standard warranties that do not represent separate performance obligations and on occasion will separately offer and price extended warranties that are separate performance obligations for which the associated revenue is recognized over-time based on the extended warranty period. The Company records amounts billed to customers for reimbursement of shipping and handling costs within revenue. Shipping and handling costs associated with outbound freight after control over a product has transferred to a customer are accounted for as fulfillment costs and are included in cost of goods sold. Sales taxes and other usage-based taxes are excluded from revenue. 
+ Within the Electrical Solutions segment, certain businesses require a portion of the transaction price to be paid in advance of transfer of control. Advance payments are not considered a significant financing component as they are received less than one year before the related performance obligations are satisfied. In addition, in the Utility Solutions segment, certain businesses offer annual maintenance service contracts that require payment at the beginning of the contract period. These payments are treated as a contract liability and are classified in Other accrued liabilities in the Consolidated Balance Sheet. Once control transfers to the customer and the Company meets the revenue recognition criteria, the deferred revenue is recognized in the Consolidated Statement of Income. The deferred revenue relating to the annual maintenance service contracts is recognized in the Consolidated Statement of Income on a straight line basis over the expected term of the contract. 
+ The Company has certain arrangements that require us to estimate at the time of sale the amounts of variable consideration that should not be recorded as revenue as certain amounts are not expected to be collected from customers, as well as an estimate of the value of the product to be returned. The Company principally relies on historical experience, specific customer agreements and anticipated future trends to estimate these amounts at the time of shipment and to reduce the transaction price. These arrangements include sales discounts and allowances based on sales volumes, specific programs and special pricing allowances, and returned goods, as are customary in the electrical products industry. Customer returns have historically been approximately one percent of gross sales. 
+ 
+ Inventory Valuation 
+ 
+ Inventories are stated at the lower of cost or market value. Approximately 45% of total net inventory value is determined utilizing the last-in, first-out (LIFO) method of inventory accounting. The cost of foreign inventories and certain domestic inventories is determined utilizing average cost or first-in, first-out (FIFO) methods of inventory accounting. We routinely evaluate the carrying value of our inventories to ensure they are carried at the lower of LIFO or FIFO cost or market value. Such evaluation is based on our judgment and use of estimates, including sales forecasts, gross margins for particular product groupings, planned dispositions of product lines, technological events and overall industry trends. In addition, the evaluation is based on changes in inventory management practices which may influence the timing of exiting products and method of disposing of excess inventory. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 36 
+ 
+ HUBBELL INCORPORATED - Form 10-K 
+ 
+ 
+ 
+ Excess inventory is generally identified by comparing future expected inventory usage to actual on-hand quantities. Inventory values are reduced for on-hand inventory in excess of pre-defined usage forecasts. Forecast usage is primarily determined by projecting historical (actual) sales and inventory usage levels forward to future periods. Changes in these estimates may necessitate future adjustments to inventory values. 
+ 
+ Employee Benefits Costs and Funding 
+ 
+ We sponsor domestic and foreign defined benefit pension, defined contribution and other postretirement plans. Significant assumptions used in the accounting for these employee benefit plans include the discount rate, expected return on the pension fund assets, rate of increase in employee compensation levels and health care cost increase projections. These assumptions are determined based on Company data and appropriate market indicators, and are evaluated each year as of the plans’ measurement dates. Further discussion o f the assumptions used in 2023 and 2022 are included above under “Pension Funding Status” and in Note 12 — Retirement Benefits in the Notes to Consolidated Financial Statements. 
+ 
+ Taxes 
+ 
+ We account for income taxes in accordance with the applicable accounting guidance which requires that deferred tax assets and liabilities be recognized using enacted tax rates for the effect of temporary differences between the book and tax basis of recorded assets and liabilities. Additionally, deferred tax assets are required to be reduced by a valuation allowance if it is more-likely-than-not that some portion or all of a deferred tax asset will not be realized. The factors used to assess the likelihood of realization of deferred tax assets are the forecast of future taxable income, available tax planning strategies that could be implemented to realize the net deferred tax assets, and future reversals of deferred tax liabilities. Failure to achieve forecasted taxable income can affect the ultimate realization of net deferred tax assets. 
+ 
+ We operate within multiple taxing jurisdictions and are subject to audit in these jurisdictions. The Internal Revenue Service (“IRS”) and other tax authorities routinely review our tax returns. These audits can involve complex issues, which may require an extended period of time to resolve. The Company records uncertain tax positions when it has determined that it is more-likely-than-not that a tax position will not be sustained upon examination by taxing authorities based on the technical merits of the position. The Company uses the criteria established in the accounting guidance to determine whether an ITEM meets the definition of more-likely-than-not. The Company’s policy is to recognize these uncertain tax positions when the more-likely-than-not threshold is met, when the statute of limitations has expired or upon settlement. In management’s opinion, adequate provision has been made for potential adjustments arising from any examinations. See Note 14 — Income Taxes in the Notes to Consolidated Financial Statements. 
+ 
+ Valuation of Long-Lived Assets, Goodwill, and Indefinite-Lived Intangible Assets 
+ 
+ Our long-lived assets include land, buildings, equipment, molds and dies, software, goodwill and other intangible assets. Long-lived assets, other than land, goodwill and indefinite-lived intangibles, are depreciated over their estimated useful lives. The assets and liabilities of acquired businesses are recorded under the acquisition method of accounting at their estimated fair values at the dates of acquisition. Goodwill represents purchase price in excess of fair values assigned to the underlying identifiable net assets of acquired businesses. Intangible assets primarily consist of patents, tradenames, developed technology and customer related intangibles. 
+ 
+ Goodwill and indefinite-lived intangible assets are reviewed annually for impairment unless circumstances dictate the need for more frequent assessment. We perform our annual goodwill impairment testing as of April 1 st of each year. The accounting guidance provides entities an option of performing a qualitative assessment (the "Step-zero" test) before performing a quantitative analysis. If the entity determines, on the basis of certain qualitative factors, that it is more-likely-than-not that the goodwill is not impaired, the entity would not need to proceed to the quantitative goodwill impairment testing process as prescribed in the guidance. If the Company does not elect to complete the qualitative assessment, the Company completes the quantitative assessment whereby the estimated fair value of each reporting unit is compared to its carrying value. 
+ 
+ The Company completed its annual goodwill impairment test as of April 1, 2023. For each of the Company's four reporting units, the Company elected to utilize the quantitative goodwill impairment testing process, as permitted in the accounting guidance, by comparing the estimated fair value of the reporting units to their carrying values. As of April 1, 2023, the impairment testing resulted in implied fair values for each reporting unit that exceeded such reporting unit’s carrying value, by at least 47%, including goodwill. The Company did not have any reporting units with zero or negative carrying amounts. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ HUBBELL INCORPORATED - Form 10-K 
+ 
+ 37 
+ 
+ 
+ The goodwill impa irment test requires judgment, including the identification of reporting u nits, assigning assets and liabilities to reporting units, and determining the fair value of each reporting unit. Significant judgments required to estimate the fair value of reporting units include estimating future cash flows, determining appropriate discount rates and other assumptions, including assumptions about secular economic and market conditions. The Company uses internal discounted cash flow models to estimate fair value. These cash flow estimates are derived from historical experience, third-party end market data, and future long-term business plans and include assumptions of future sales growth, gross margin, operating margin, terminal growth rate, and the application of an appropriate discount rate. Significant changes in these estimates and assumptions could materially affect the determination of fair value and/or goodwill impairment for each reporting unit. We corroborate the values determined from our discounted cash flow models by reconciling the sum of the estimated fair values of each reporting unit to our market capitalization at the testing date, including consideration of a control premium. We have not recorded any goodwill impairments since the initial adoption of the accounting guidance in 2002. 
+ 
+ The identification and measurement of impairment of indefinite-lived intangible assets involves either an assessment of qualitative factors to determine whether events or circumstances indicate that it is more-likely-than-not that an indefinite-lived intangible asset is impaired or a quantitative assessment whereby the estimated fair value of each indefinite-lived intangible asset is compared to its carrying value. If it is more-likely-than-not that the asset is impaired, the estimated fair value of the indefinite-lived intangibles will be determined using discounted cash flow estimates. If the carrying value of these assets exceeds the estimated fair value, the carrying value will be reduced to the estimated fair value. For the Company’s annual impairment test as of April 1, 2023, the Company elected to utilize the quantitative impairment testing process as permitted in the accounting guidance. The estimated fair value was determined utilizing an income approach (relief from royalty method). Significant judgment is required to estimate the fair value of the indefinite-lived intangible assets including assumptions for future revenues, discount rates, royalty rates, and other assumptions, including assumptions about secular economic and market conditions. Significant changes in these estimates and assumptions could affect the determination of fair value and/or impairment for each indefinite-lived intangible asset. As of April 1, 2023, the impairment testing resulted in estimated fair values for each indefinite-lived intangible asset that significantly exceeded the carrying values and there were no indefinite-lived intangible assets at risk of failing the quantitative impairment test. We did not record any impairments related to indefinite-lived intangible assets in 2023, 2022, or 2021. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 38 
+ 
+ HUBBELL INCORPORATED - Form 10-K 
+ 
+ 
+ Forward-Looking Statements 
+ 
+ Some of the information included in this Management’s Discussion and Analysis of Financial Condition and Results of Operations, and elsewhere in this Form 10-K, contain “forward-looking statements” as defined by the Private Securities Litigation Reform Act of 1995. These include statements about our expectations regarding our financial results, condition and outlook, anticipated end markets, expected capital resources, liquidity, financial performance, pension funding, and results of operations and are based on our reasonable current expectations. In addition, all statements regarding the expected financial impact of the integration of acquisitions and completion of certain divestitures, including any pro-forma projections related thereto, as well as other statements that are not strictly historic in nature are forward looking. In addition, all statements regarding anticipated growth, changes in operating results, market conditions and economic conditions, adoption of updated accounting standards and any expected effects of such adoption, restructuring plans and expected associated costs and benefits, intent to continue repurchasing shares of common stock, changes in operating results, and anticipated market conditions and productivity initiatives are also forward looking. Forward-looking statements may be identified by the use of words, such as “believe”, “expect”, “anticipate”, “intend”, “depend”, “should”, “plan”, “estimated”, “predict”, “could”, “may”, “subject to”, “continues”, “growing”, “prospective”, “forecast”, “projected”, “purport”, “might”, “if”, “contemplate”, “potential”, “pending,” “target”, “goals”, “scheduled”, "will", “will likely be”, and similar words and phrases. Discussions of strategies, plans or intentions often contain forward-looking statements. Important factors, among others, that could cause our actual results and future actions to differ materially from those described in forward-looking statements include, but are not limited to: 
+ • The general impact of inflation on our business, including the impact on raw materials costs, elevated interest rates and increased energy costs and our ability to implement and maintain pricing actions that we have taken to cover higher costs and protect our margin profile. 
+ • Economic and business conditions in particular industries, markets or geographic regions, as well the potential for continued inflation, a significant economic slowdown, stagflation or recession. 
+ • Effects of unfavorable foreign currency exchange rates and the potential use of hedging instruments to hedge the exposure to fluctuating rates of foreign currency exchange on inventory purchases. 
+ • Supply chain disruptions and availability, costs and quantity of raw materials, purchased components, energy and freight. 
+ • Changes in demand for our products, market conditions, product quality, or product availability adversely affecting sales levels. 
+ • Ability to effectively develop and introduce new products. 
+ • Changes in markets or competition adversely affecting realization of price increases. 
+ • Continued softness in the residential market. 
+ • Failure to achieve projected levels of efficiencies, and maintain cost savings and cost reduction measures, including those expected as a result of our lean initiatives and strategic sourcing plans. 
+ • Impacts of trade tariffs, import quotas or other trade restrictions or measures taken by the United States, United Kingdom and other countries, including the recent and potential changes in U.S. trade policies. 
+ • Failure to comply with import and export laws. 
+ • Changes relating to impairment of our goodwill and other intangible assets. 
+ • Inability to access capital markets or failure to maintain our credit ratings. 
+ • Changes in expected or future levels of operating cash flow, indebtedness and capital spending. 
+ • Regulatory issues, changes in tax laws including multijurisdictional implementation of the OECD's comprehensive base erosion and profit shifting plan, or changes in geographic profit mix affecting tax rates and availability of tax incentives. 
+ • A major disruption in one or more of our manufacturing or distribution facilities or headquarters, including the impact of plant consolidations and relocations. 
+ • Changes in our relationships with, or the financial condition or performance of, key distributors and other customers, agents or business partners which could adversely affect our results of operations. 
+ • Impact of productivity improvements on lead times, quality and delivery of product. 
+ • Anticipated future contributions and assumptions including increases in interest rates and changes in plan assets with respect to pensions and other retirement benefits, as well as pension withdrawal liabilities. 
+ • Adjustments to product warranty accruals in response to claims incurred, historical experiences and known costs. 
+ • Unexpected costs or charges, certain of which might be outside of our control. 
+ • Changes in strategy due to economic conditions or other conditions outside of our control affecting anticipated future global product sourcing levels. 
+ • Ability to carry out future acquisitions and strategic investments in our core businesses as well as the acquisition related costs. 
+ • Ability to successfully manage and integrate key acquisitions, mergers, and other transactions, such as the recent acquisitions of El Electronics LLC, Indústria Electromecânica Balestro Ltda., and the Systems Control business, as well as the failure to realize expected synergies and benefits anticipated when we make an acquisition due to potential adverse reactions or changes to business or employee relationships resulting from completion of the transaction, competitive responses to the transaction, the possibility that the anticipated benefits of the transaction are not realized when expected or at all, including as a result of the impact of, or problems arising from, the integration of the company, diversion of management's attention from ongoing business operations and opportunities, and litigation relating to the transaction. 
+ • The impact of certain divestitures, including the benefits and costs of the proposed sale of our residential lighting business. 
+ • The ability to effectively implement Enterprise Resource Planning systems without disrupting operational and financial processes. 
+ • The ability of government customers to meet their financial obligations. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ HUBBELL INCORPORATED - Form 10-K 
+ 
+ 39 
+ 
+ 
+ • Political unrest and military actions in foreign countries, including the wars in Ukraine and Israel and trade tensions with China, as well as the impact on world markets and energy supplies and prices resulting therefrom. 
+ • The impact of potential natural disasters or additional public health emergencies on our financial condition and results of operations. 
+ • Failure of information technology systems, cybersecurity breaches, cyber threats, malware, phishing attacks, break-ins and similar events resulting in unauthorized disclosure of confidential information or disruptions or damage to information technology systems that could cause interruptions to our operations or adversely affect our internal control over financial reporting. 
+ • Incurring significant and/or unexpected costs to avoid manage, defend and litigate intellectual property matters. 
+ • Future repurchases of common stock under our common stock repurchase program. 
+ • Changes in accounting principles, interpretations, or estimates. 
+ • Failure to comply with any laws and regulations, including those related to data privacy and information security, environmental and conflict-free minerals. 
+ • The outcome of environmental, legal and tax contingencies or costs compared to amounts provided for such contingencies, including contingencies or costs with respect to pension withdrawal liabilities. 
+ • Improper conduct by any of our employees, agents or business partners that damages our reputation or subjects us to civil or criminal liability. 
+ • Our ability to hire, retain and develop qualified personnel. 
+ • Adverse changes in foreign currency exchange rates and the potential use of hedging instruments to hedge the exposure to fluctuating rates of foreign currency exchange on inventory purchases. 
+ • Other factors described in our Securities and Exchange Commission filings, including the “Business”, “Risk Factors”, "Management's Discussion and Analysis of Financial Condition and Results of Operations," and “Quantitative and Qualitative Disclosures about Market Risk” sections in this Annual Report on Form 10-K for the year ended December 31, 2023. 
+ 
+ Any such forward-looking statements are not guarantees of future performances and actual results, developments and business decisions may differ from those contemplated by such forward-looking statements. The Company disclaims any duty to update any forward-looking statement, all of which are expressly qualified by the foregoing, other than as required by law. 
+ 
+ 
+ 

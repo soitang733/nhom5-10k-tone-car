@@ -1,0 +1,2464 @@
+ ITEM 7 - MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+ 
+ 
+ Safe Harbor Statement 
+ 
+ This Annual Report on Form 10-K contains various forward-looking statements and includes assumptions concerning Emerson's operations, future results and prospects, including the planned separation of the network power systems business and the power generation, motors and drives businesses and other strategic repositioning actions. These forward-looking statements are based on current expectations and are subject to risks and uncertainties. Emerson undertakes no obligation to update any such statements to reflect later developments. In connection with the “safe harbor” provisions of the Private Securities Litigation Reform Act of 1995, Emerson provides the cautionary statements set forth under ITEM 1A - "Risk Factors," which are hereby incorporated by reference and identify important economic, political and technological factors, among others, changes in which could cause the actual results or events to differ materially from those set forth in or implied by the forward-looking statements and related assumptions. 
+ 
+ 
+ Non-GAAP Financial Measures 
+ 
+ To supplement the Company’s financial information presented in accordance with U.S. generally accepted accounting principles (U.S. GAAP), management periodically uses certain “non-GAAP financial measures,” as such term is defined in Regulation G under SEC rules, to clarify and enhance understanding of past performance and prospects for the future. Generally, a non-GAAP financial measure is a numerical measure of a company’s operating performance, financial position or cash flows that excludes or includes amounts that are included in or excluded from the most directly comparable measure calculated and presented in accordance with U.S. GAAP. For example, non-GAAP measures may exclude the impact of certain items such as our strategic repositioning actions, other acquisitions or divestitures, changes in reporting segments, gains, losses and impairments, or items outside of management’s control, such as foreign currency exchange rate fluctuations. Management believes that the following non-GAAP financial measures provide investors and analysts useful insight into the Company’s financial position and operating performance. Any non-GAAP measure provided should be viewed in addition to, and not as an alternative to, the most directly comparable measure determined in accordance with U.S. GAAP, as identified in italics below. Further, the calculation of these non-GAAP financial measures may differ from the calculation of similarly titled financial measures presented by other companies and therefore may not be comparable among companies. 
+ 
+ Underlying sales, which exclude the impact of acquisitions, divestitures and fluctuations in foreign currency exchange rates during the periods presented, are provided to facilitate relevant period-to-period comparisons of sales growth by excluding those items that impact overall comparability (U.S. GAAP measure: net sales ). 
+ 
+ Operating profit (defined as net sales less cost of sales and selling, general and administrative expenses) and operating profit margin (defined as operating profit divided by net sales) are indicative of short-term operational performance and ongoing profitability. Management closely monitors operating profit and operating profit margin of each business to evaluate past performance and actions required to improve profitability. EBIT (defined as earnings before deductions for interest expense, net and income taxes) and total segment EBIT, and EBIT margin (defined as EBIT divided by net sales) and total segment EBIT margin, are commonly used financial measures that exclude the impact of financing on the capital structure and income taxes. All these measures are utilized by management to evaluate performance (U.S. GAAP measures: pretax earnings or pretax profit margin ). 
+ 
+ Earnings, earnings per share, return on common stockholders’ equity and return on total capital excluding certain gains and losses, impairments, costs associated with the strategic portfolio repositioning actions, or other items provide additional insight into the underlying, ongoing operating performance of the Company and facilitate period-to-period comparisons by excluding the earnings impact of these items. Management believes that presenting earnings, earnings per share, return on common stockholders' equity and return on total capital excluding these items is more representative of the Company’s operational performance and may be more useful for investors (U.S. GAAP measures: earnings, earnings per share, return on common stockholders’ equity, return on total capital ). 
+ 
+ Free cash flow (operating cash flow less capital expenditures) is an indicator of the Company’s cash generating capabilities after considering investments in capital assets which are necessary to maintain and enhance existing operations. The determination of operating cash flow adds back noncash depreciation expense to earnings and thereby does not reflect a charge for necessary capital expenditures. Management believes that free cash flow is 
+ 
+ 
+ 15 
+ 
+ 
+ 
+ useful to both management and investors as a measure of the Company’s ability to generate cash (U.S. GAAP measure: operating cash flow ). 
+ 
+ 
+ FINANCIAL REVIEW 
+ Report of Management 
+ The Company's management is responsible for the integrity and accuracy of the financial statements. Management believes that the financial statements for the three years ended September 30, 2016 have been prepared in conformity with U.S. generally accepted accounting principles appropriate in the circumstances. In preparing the financial statements, management makes informed judgments and estimates where necessary to reflect the expected effects of events and transactions that have not been completed. The Company's disclosure controls and procedures ensure that material information required to be disclosed is recorded, processed, summarized and communicated to management and reported within the required time periods. 
+ In meeting its responsibility for the reliability of the financial statements, management relies on a system of internal accounting control. This system is designed to provide reasonable assurance that assets are safeguarded and transactions are executed in accordance with management's authorization and recorded properly to permit the preparation of financial statements in accordance with U.S. generally accepted accounting principles. The design of this system recognizes that errors or irregularities may occur and that estimates and judgments are required to assess the relative cost and expected benefits of the controls. Management believes that the Company's internal accounting controls provide reasonable assurance that errors or irregularities that could be material to the financial statements are prevented or would be detected within a timely period. 
+ The Audit Committee of the Board of Directors, which is composed solely of independent directors, is responsible for overseeing the Company's financial reporting process. The Audit Committee meets with management and the Company's internal auditors periodically to review the work of each and to monitor the discharge by each of its responsibilities. The Audit Committee also meets periodically with the independent auditors, who have free access to the Audit Committee and the Board of Directors, to discuss the quality and acceptability of the Company's financial reporting and internal controls, as well as nonaudit-related services. 
+ The independent auditors are engaged to express an opinion on the Company's consolidated financial statements and on the Company's internal control over financial reporting. Their opinions are based on procedures that they believe to be sufficient to provide reasonable assurance that the financial statements contain no material errors and that the Company's internal controls are effective. 
+ Management's Report on Internal Control Over Financial Reporting 
+ The Company's management is responsible for establishing and maintaining adequate internal control over financial reporting for the Company. With the participation of the Chief Executive Officer and the Chief Financial Officer, management conducted an evaluation of the effectiveness of internal control over financial reporting based on the framework and the criteria established in Internal Control - Integrated Framework (2013), issued by the Committee of Sponsoring Organizations of the Treadway Commission. Based on this evaluation, management has concluded that internal control over financial reporting was effective as of September 30, 2016 . 
+ The Company's auditor, KPMG LLP, an independent registered public accounting firm, has issued an audit report on the effectiveness of the Company's internal control over financial reporting. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ /s/ David N. Farr 
+ 
+ 
+ 
+ /s/ Frank J. Dellaquila 
+ 
+ 
+ 
+ 
+ David N. Farr 
+ 
+ 
+ 
+ Frank J. Dellaquila 
+ 
+ 
+ 
+ 
+ Chairman of the Board 
+ 
+ 
+ 
+ Senior Executive Vice President 
+ 
+ 
+ 
+ 
+ and Chief Executive Officer 
+ 
+ 
+ 
+ and Chief Financial Officer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 16 
+ 
+ 
+ 
+ Results of Operations 
+ Years ended September 30 
+ (Dollars in millions, except per share amounts) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2014 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 
+ 14 vs. 15 
+ 
+ 
+ 
+ 
+ 15 vs. 16 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net sales 
+ 
+ $ 
+ 
+ 17,733 
+ 
+ 
+ 
+ 
+ 
+ 16,249 
+ 
+ 
+ 
+ 
+ 
+ 14,522 
+ 
+ 
+ 
+ 
+ 
+ (8 
+ 
+ )% 
+ 
+ 
+ 
+ (11 
+ 
+ )% 
+ 
+ 
+ Gross profit 
+ 
+ $ 
+ 
+ 7,762 
+ 
+ 
+ 
+ 
+ 
+ 7,008 
+ 
+ 
+ 
+ 
+ 
+ 6,262 
+ 
+ 
+ 
+ 
+ 
+ (10 
+ 
+ )% 
+ 
+ 
+ 
+ (11 
+ 
+ )% 
+ 
+ 
+ Percent of sales 
+ 
+ 43.8 
+ 
+ % 
+ 
+ 
+ 
+ 43.1 
+ 
+ % 
+ 
+ 
+ 
+ 43.1 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SG&A 
+ 
+ $ 
+ 
+ 4,164 
+ 
+ 
+ 
+ 
+ 
+ 3,735 
+ 
+ 
+ 
+ 
+ 
+ 3,464 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Percent of sales 
+ 
+ 23.5 
+ 
+ % 
+ 
+ 
+ 
+ 23.0 
+ 
+ % 
+ 
+ 
+ 
+ 23.8 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Gains on divestitures of businesses 
+ 
+ $ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 1,039 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other deductions, net 
+ 
+ $ 
+ 
+ 211 
+ 
+ 
+ 
+ 
+ 
+ 330 
+ 
+ 
+ 
+ 
+ 
+ 294 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Interest expense, net 
+ 
+ $ 
+ 
+ 196 
+ 
+ 
+ 
+ 
+ 
+ 175 
+ 
+ 
+ 
+ 
+ 
+ 188 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Earnings from continuing operations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ before income taxes 
+ 
+ $ 
+ 
+ 3,191 
+ 
+ 
+ 
+ 
+ 
+ 3,807 
+ 
+ 
+ 
+ 
+ 
+ 2,316 
+ 
+ 
+ 
+ 
+ 
+ 19 
+ 
+ % 
+ 
+ 
+ 
+ (39 
+ 
+ )% 
+ 
+ 
+ Percent of sales 
+ 
+ 18.0 
+ 
+ % 
+ 
+ 
+ 
+ 23.4 
+ 
+ % 
+ 
+ 
+ 
+ 16.0 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Earnings from continuing operations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ common stockholders 
+ 
+ $ 
+ 
+ 2,201 
+ 
+ 
+ 
+ 
+ 
+ 2,517 
+ 
+ 
+ 
+ 
+ 
+ 1,590 
+ 
+ 
+ 
+ 
+ 
+ 14 
+ 
+ % 
+ 
+ 
+ 
+ (37 
+ 
+ )% 
+ 
+ 
+ Net earnings common stockholders 
+ 
+ $ 
+ 
+ 2,147 
+ 
+ 
+ 
+ 
+ 
+ 2,710 
+ 
+ 
+ 
+ 
+ 
+ 1,635 
+ 
+ 
+ 
+ 
+ 
+ 26 
+ 
+ % 
+ 
+ 
+ 
+ (40 
+ 
+ )% 
+ 
+ 
+ Percent of sales 
+ 
+ 12.1 
+ 
+ % 
+ 
+ 
+ 
+ 16.7 
+ 
+ % 
+ 
+ 
+ 
+ 11.3 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Diluted EPS – Earnings from continuing operations 
+ 
+ $ 
+ 
+ 3.11 
+ 
+ 
+ 
+ 
+ 
+ 3.71 
+ 
+ 
+ 
+ 
+ 
+ 2.45 
+ 
+ 
+ 
+ 
+ 
+ 19 
+ 
+ % 
+ 
+ 
+ 
+ (34 
+ 
+ )% 
+ 
+ 
+ Diluted EPS – Net earnings 
+ 
+ $ 
+ 
+ 3.03 
+ 
+ 
+ 
+ 
+ 
+ 3.99 
+ 
+ 
+ 
+ 
+ 
+ 2.52 
+ 
+ 
+ 
+ 
+ 
+ 32 
+ 
+ % 
+ 
+ 
+ 
+ (37 
+ 
+ )% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Return on common stockholders' equity 
+ 
+ 20.7 
+ 
+ % 
+ 
+ 
+ 
+ 29.8 
+ 
+ % 
+ 
+ 
+ 
+ 20.9 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Return on total capital 
+ 
+ 17.5 
+ 
+ % 
+ 
+ 
+ 
+ 22.8 
+ 
+ % 
+ 
+ 
+ 
+ 15.5 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OVERVIEW 
+ The Company previously announced strategic actions to streamline its portfolio, drive growth and accelerate value creation for shareholders. These portfolio repositioning actions resulted in agreements to sell the network power systems business and the power generation, motors and drives businesses. These businesses have been reported within discontinued operations for all years presented. 
+ 
+ Emerson's sales from continuing operations for 2016 were $14.5 billion , a decrease of $1,727 million , or 11 percent . Underlying sales were down 7 percent compared with the prior year reflecting the negative impact of low oil and gas prices, weak industrial and emerging market business spending, and global economic uncertainty. Foreign currency translation subtracted 2 percent and divestitures, net of acquisitions reduced sales by 2 percent . Net sales related to discontinued operations were $5.7 billion for 2016 compared with $6.1 billion in 2015. 
+ 
+ Earnings from continuing operations common stockholders were $1,590 million in 2016 , down 37 percent compared with prior year earnings of $2,517 million . Diluted earnings per share from continuing operations were $2.45 , down 34 percent versus $3.71 per share in 2015 . Excluding divestiture gains in 2015, earnings from continuing operations were down 17 percent compared with $1,906 million in 2015 , while diluted earnings per share from continuing operations were down 13 percent versus $2.81 in the prior year. Gains from the prior year divestitures of the power transmission solutions and commercial storage businesses were $611 million in total, or $0.90 per share, which negatively impacted earnings and earnings per share comparisons by 20 and 21 percentage points, respectively. 
+ 
+ Earnings from discontinued operations for 2016 were $45 million ($0.07 per share), which includes earnings from the operations of the network power systems, and power generation, motors and drives businesses of $344 million ($0.53 per share), and other items which reduced earnings by $299 million ($0.46 per share). See discussion below. 
+ 
+ 
+ 
+ 17 
+ 
+ 
+ 
+ Net earnings common stockholders were $1,635 million in 2016, down 40 percent compared with prior year earnings of $2,710 million . Diluted earnings per share were $2.52 , down 37 percent versus $3.99 per share in 2015. Excluding items, net earnings were $1,934 million , down 10 percent compared with $2,151 million in 2015, while diluted earnings per share were $2.98 , down 6 percent versus $3.17 in 2015. 
+ Excluded items in 2016 include separation costs of $220 million ($0.34 per share), a loss of $103 million ($0.16 per share) to write down the power generation, motors and drives businesses to the sales price less costs to sell, and lower expense of $24 million ($0.04 per share benefit) due to ceasing depreciation and amortization for the discontinued businesses held-for-sale. Excluded items in 2015 include the divestiture gains of $611 million ($0.90 per share benefit) and separation costs of $52 million ($0.08 per share). In total, these items negatively impacted net earnings and earnings per share comparisons 30 and 31 percentage points, respectively. 
+ Sales decreased in all segments. Process Management sales decreased 12 percent and Industrial Automation sales were down 15 percent ( 7 percent due to the power transmission solutions divestiture in 2015) as global oil and gas customers curtailed spending levels in a difficult environment and weakness in industrial spending persisted. Climate Technologies sales decreased 2 percent , while Commercial & Residential Solutions sales decreased 16 percent ( 15 percent due to the commercial storage divestiture in 2015). 
+ 
+ The Company generated operating cash flow of $2.9 billion , of which $2.5 billion related to continuing operations. Operating cash flow from continuing operations increased $459 million in 2016 as comparisons benefited from income taxes of $424 million paid in the prior year on the divestiture gains. 
+ 
+ NET SALES 
+ Net sales for 2016 were $14.5 billion , a decrease of $1,727 million , or 11 percent compared with 2015 . Underlying sales, which exclude foreign currency translation, acquisitions and divestitures, decreased 7 percent ( $1,046 million ) on 6 percent lower volume and 1 percent lower price. Foreign currency translation subtracted 2 percent ( $266 million ) and divestitures, net of acquisitions subtracted 2 percent ( $415 million ). Underlying sales decreased 5 percent in the U.S. and 8 percent internationally. Sales in Process Management decreased $1,032 million , Industrial Automation decreased $376 million ( $189 million due to the power transmission solutions divestiture in 2015), Climate Technologies decreased $62 million and Commercial & Residential Solutions decreased $302 million ( $288 million due to the commercial storage divestiture in 2015). 
+ 
+ Net sales for 2015 were $16.2 billion , a decrease of $1,484 million , or 8 percent compared with 2014 . Underlying sales decreased 1 percent ($169 million) on volume declines. Foreign currency translation subtracted 4 percent ($717 million) and divestitures, net of acquisitions subtracted 3 percent ($598 million). Underlying sales were flat in the U.S. and decreased 2 percent internationally. Sales in Process Management decreased $673 million, Industrial Automation decreased $556 million and Climate Technologies decreased $98 million, while sales in Commercial & Residential Solutions increased slightly. 
+ 
+ INTERNATIONAL SALES 
+ Emerson is a global business with international sales representing 52 percent of total sales, including U.S. exports. Although economic conditions are currently soft worldwide, the Company generally expects faster economic growth in emerging markets in Asia, Latin America, Eastern Europe and Middle East/Africa in the future. 
+ 
+ International destination sales, including U.S. exports, decreased 12 percent, to $7.6 billion in 2016, reflecting decreases in all segments, partially due to divestitures. U.S. exports of $888 million were down 25 percent compared with 2015, reflecting reduced spending by global oil and gas customers, weakness in industrial spending and the stronger U.S. dollar. Underlying international destination sales declined 8 percent, as foreign currency translation and divestitures had a 3 percent and a 1 percent unfavorable impact, respectively, on the comparison. Underlying sales were up 2 percent in Europe and decreased 10 percent in both Asia and Latin America. Sales decreased 21 percent in Canada and 15 percent in Middle East/Africa. Continued weakness in energy-related and industrial end markets and global economic uncertainty has continued to challenge growth in these areas. Origin sales by international subsidiaries, including shipments to the U.S., totaled $6.8 billion in 2016, down 10 percent compared with 2015, reflecting the weakness in industrial capital spending, unfavorable foreign currency translation and divestitures. 
+ 
+ 
+ 
+ 18 
+ 
+ 
+ 
+ International destination sales, including U.S. exports, decreased 12 percent, to $8.6 billion in 2015, primarily reflecting decreases in Process Management and Industrial Automation, partially due to the power transmission solutions divestiture. These decreases were partially offset by growth in Climate Technologies and Commercial & Residential Solutions. U.S. exports of $1.2 billion were down 8 percent compared with 2014. Underlying international destination sales declined 2 percent on lower volume, as foreign currency translation and divestitures had an 8 and 2 percent unfavorable impact, respectively, on the comparison. Underlying sales were flat in Europe, decreased 4 percent in Asia (China down 9 percent) and 10 percent in Latin America, and were flat in Canada. Sales in Middle East/Africa increased 5 percent. The slowdown in industrial capital spending, particularly in oil and gas, hampered growth in these areas. Origin sales by international subsidiaries, including shipments to the U.S., totaled $7.5 billion in 2015, down 12 percent compared with 2014, reflecting the slowdown in industrial capital spending, unfavorable foreign currency translation and divestitures. 
+ 
+ ACQUISITIONS AND DIVESTITURES 
+ See information under “Discontinued Operations” for a discussion of the Company’s divestitures related to its portfolio repositioning actions. 
+ 
+ In the fourth quarter of 2016, the Company entered into an agreement to purchase Pentair's Valves & Controls business for $3.15 billion, subject to certain post-closing adjustments. This business, with sales of approximately $1.6 billion, is a manufacturer of controls, isolation and pressure relief valves and actuators, and will complement the Process Management segment's final control business. The transaction is expected to close by the end of calendar year 2016 or shortly thereafter, subject to customary closing conditions and various regulatory approvals. The Company acquired six businesses in 2016, four in Process Management's final control and measurement devices businesses and two in Climate Technologies. Total cash paid for these businesses was $132 million, net of cash acquired. Annualized sales for these businesses were approximately $51 million in 2016. These acquisitions complement the existing segment portfolios and create incremental growth opportunities. See Note 3 and ITEM 1A - "Risk Factors." 
+ 
+ The Company completed eight acquisitions in 2015, seven in Process Management and one in Commercial & Residential Solutions, which had combined annualized sales of approximately $115 million . Total cash paid for all businesses was $324 million , net of cash acquired. 
+ 
+ In January 2015, the Company completed the sale of its mechanical power transmission solutions business to Regal Beloit Corporation for $1.4 billion , and recognized a pretax gain from the transaction of $939 million ( $532 million after-tax, $0.78 per share). Proceeds from the divestiture were used for share repurchase. This business was previously reported in the Industrial Automation segment, and had partial year sales of $189 million in 2015 and related pretax earnings of $21 million . Power transmission solutions designs and manufactures market-leading couplings, bearings, conveying components and gearing and drive components, and provides supporting services and solutions. 
+ 
+ On September 30, 2015, the Company sold its InterMetro commercial storage business to Ali Group of Italy for $411 million in cash and recognized a pretax gain from the transaction of $100 million ( $79 million after-tax, $0.12 per share). This business had annual sales of $288 million and pretax earnings of $42 million in 2015, and was included in the Commercial & Residential Solutions segment. InterMetro is a leading manufacturer and supplier of storage and transport products in the food service, commercial products and health care industries. 
+ 
+ In 2014, the Company acquired Virgo Valves and Enardo Holdings, manufacturers of engineered valves and automation systems, and tank and terminal safety equipment, respectively. Both businesses are reported in Process Management and complement the existing portfolio. The Company also acquired four other smaller businesses in 2014, in Process Management and Network Power. Combined annualized sales for all businesses acquired in 2014 were approximately $376 million. The Company also acquired the remaining 44.5 percent noncontrolling interest in the Appleton Group electrical distribution business, in the Industrial Automation segment, in 2014. Sales for this business were $542 million in 2014. Full ownership of Appleton provides growth opportunities in oil and gas and chemicals end markets. 
+ 
+ Early in 2014, the Company completed the divestiture of a 51 percent controlling interest in Artesyn and received net proceeds of $264 million. The Company used the sale proceeds and cash repatriated from the business to purchase common stock. Late in 2014, the Company sold its connectivity solutions business for $99 million in cash. 
+ 
+ 
+ 
+ 19 
+ 
+ 
+ 
+ COST OF SALES 
+ Cost of sales for 2016 were $8.3 billion , a decrease of $981 million compared with $9.2 billion in 2015 , primarily due to reduced sales volume, the impact of foreign currency translation ($186 million) and prior year divestitures ($273 million). Gross profit was $6.3 billion in 2016 compared to $7.0 billion in 2015 . Gross margin of 43.1 percent was flat compared with 2015 , as savings from cost reduction and containment actions were offset by deleverage on lower volume and unfavorable mix. 
+ 
+ Cost of sales for 2015 were $9.2 billion , a decrease of $730 million compared with $10.0 billion in 2014, primarily due to the impact of foreign currency translation ($459 million), divestitures ($425 million), lower sales volume and the benefit of cost reduction efforts. Gross profit was $7.0 billion in 2015 compared with $7.8 billion in 2014. Gross margin of 43.1 percent decreased 0.7 percentage points versus 43.8 percent in 2014 due to deleverage on the lower volume, unfavorable mix and the impact of the stronger dollar on product costs, partially offset by savings from restructuring actions. Divestitures had a 0.4 percentage point favorable impact on margin. 
+ 
+ SELLING, GENERAL AND ADMINISTRATIVE EXPENSES 
+ Selling, general and administrative (SG&A) expenses of $3.5 billion in 2016 decreased $271 million compared with 2015. The decrease reflects savings from cost reduction actions, reduced costs from lower sales volume, and prior year divestitures ($137 million), partially offset by higher incentive stock compensation of $121 million . SG&A as a percent of sales of 23.8 percent increased 0.8 percent in 2016, reflecting deleverage on lower sales volume and higher incentive stock compensation, primarily due to changes in the stock price and overlap of awards, partially offset by savings from restructuring actions. 
+ 
+ SG&A expenses of $3.7 billion in 2015 decreased $429 million compared with 2014. The decrease primarily reflects the impact of foreign currency translation ($155 million), divestitures ($131 million), reduced costs from lower sales volume, and lower incentive stock compensation of $99 million . SG&A as a percent of sales was 23.0 percent in 2015, a 0.5 percentage point decrease compared with 23.5 percent in 2014, as deleverage on the lower volume was more than offset by savings from restructuring actions and lower incentive stock compensation expense. 
+ 
+ GAINS ON DIVESTITURES OF BUSINESSES 
+ In 2015, the Company sold its power transmission solutions and commercial storage businesses and recorded pretax gains of $939 million ( $532 million after-tax, $0.78 per share) and $100 million ( $79 million after-tax, $0.12 per share), respectively. See Note 3. 
+ 
+ OTHER DEDUCTIONS, NET 
+ Other deductions, net were $294 million in 2016 , a $36 million decrease from 2015 primarily due to lower restructuring costs of $42 million , decreased litigation costs of $30 million and a $21 million gain on payments received related to dumping duties. The decrease in other deductions was partially offset by unfavorable foreign currency transactions of $67 million . See Note 5. 
+ 
+ Other deductions, net were $330 million in 2015, a $119 million increase from 2014 primarily due to an increase in restructuring costs of $99 million , higher litigation costs of $29 million and unfavorable foreign currency transactions of $15 million, partially offset by a favorable comparative effect from a $34 million equity investment loss in the prior year. The Company accelerated restructuring activity in 2015 to address the global slowdown in capital spending and position itself for future growth. 
+ 
+ INTEREST EXPENSE, NET 
+ Interest expense, net was $188 million , $175 million and $196 million in 2016 , 2015 and 2014 , respectively. The decrease of $21 million in 2015 primarily resulted from the maturity of long-term debt with relatively higher interest rates. 
+ 
+ INCOME TAXES 
+ Income taxes were $697 million , $1,267 million and $953 million for 2016 , 2015 and 2014 , respectively, resulting in effective tax rates of 30 percent , 33 percent and 30 percent in 2016 , 2015 and 2014 , respectively. The 3 percentage point higher rate in 2015 was due to taxes on the gains from the divestitures of the power transmission solutions and commercial storage businesses. 
+ 
+ 
+ 20 
+ 
+ 
+ 
+ EARNINGS FROM CONTINUING OPERATIONS 
+ Earnings from continuing operations attributable to common stockholders in 2016 were $1,590 million , down 37 percent compared with 2015, and diluted earnings per share were $2.45 in 2016 , down 34 percent . Divestiture gains in the prior year negatively impacted earnings from continuing operations and earnings per share comparisons 20 and 21 percentage points, respectively. Segment earnings in 2016 decreased $362 million in Process Management, $51 million in Industrial Automation, partially due to the power transmission solutions divestiture and $19 million in Commercial & Residential Solutions due to the commercial storage divestiture. Earnings increased $71 million in Climate Technologies. See the Business Segments discussion that follows and Note 18. 
+ 
+ Earnings from continuing operations attributable to common stockholders in 2015 were $2,517 million , up 14 percent compared with 2014, and diluted earnings per share were $3.71 , up 19 percent. Gains from divestitures in 2015 benefited earnings from continuing operations and earnings per share growth by 27 and 29 percentage points, respectively. Segment earnings in 2015 decreased $425 million in Process Management, $131 million in Industrial Automation, partially due to the power transmission solutions divestiture, $39 million in Climate Technologies and $18 million in Commercial & Residential Solutions. 
+ 
+ DISCONTINUED OPERATIONS 
+ As of July 29, 2016, the Company entered into an agreement to sell its network power systems business for $4.0 billion in cash, subject to certain post-closing adjustments, and will retain a subordinated interest in distributions, contingent upon the equity holders first receiving a threshold return on their initial investment. This business comprised the former Network Power segment and provides mission-critical infrastructure products and solutions and life cycle management services for vital applications in data centers, communication networks, and commercial/industrial environments. Also, on July 30, 2016, the Company entered into an agreement to sell its power generation, motors and drives businesses for a value of $1.2 billion , representing cash plus assumption of certain postretirement liabilities by the buyer, subject to post-closing adjustments. These businesses were previously reported in the Industrial Automation segment, and provide low, medium and high voltage alternators and other power generation equipment and commercial and industrial motors and drives, which are used in a wide variety of manufacturing and industrial applications. Both transactions are expected to close by the end of calendar year 2016 subject to customary closing conditions and regulatory approvals, and will result in a smaller and more focused Company, with leadership positions in higher-growth end markets that provide significant opportunities for enhanced growth and improved profitability. The results of operations for these businesses have been reclassified into discontinued operations and the assets and liabilities are reflected as held-for-sale for all periods presented. See Note 4 and ITEM 1A - "Risk Factors." 
+ 
+ The businesses included in discontinued operations had combined annual sales of $5,746 million , $6,094 million and $6,842 million and net earnings (loss) of $45 million, $193 million and $(54) million for 2016, 2015 and 2014, respectively. Net earnings of $45 million ($0.07 per share) in 2016 include earnings from the operations of the network power systems, and power generation, motors and drives businesses of $344 million ($0.53 per share), and other items which reduced earnings by $299 million ($0.46 per share). Other items for 2016 include separation costs to execute the portfolio repositioning of $220 million ($0.34 per share), comprised of income tax expense of $143 million for repatriation of cash from these businesses, reorganization of their legal structures prior to sale, and basis differences for book and tax, as well as costs for legal, consulting, investment banking and other expenses of $77 million. In addition, net earnings for 2016 include a loss of $103 million ($0.16 per share) to write down the power generation, motors and drives businesses to the sales price less costs to sell, and lower expense of $24 million ($0.04 per share benefit) due to ceasing depreciation and amortization for the discontinued businesses held-for-sale. Earnings for 2015 include separation costs of $52 million, comprised of income taxes of $42 million and fees of $10 million, and earnings for 2014 include a noncash goodwill impairment charge of $508 million related to the network power systems business in Europe. Operating cash flow from discontinued operations was $382 million (reduced by payments of $179 million for separation costs), $489 million and $693 million and capital expenditures were $76 million , $97 million and $116 million for 2016, 2015 and 2014, respectively. 
+ 
+ Upon completion of the transactions, the Company preliminarily expects to recognize a pretax gain of approximately $500 million and to break even after-tax, subject to finalization of several matters including separation costs to complete the transactions. In addition, the Company may incur U.S. tax costs of approximately $200 million for repatriation of estimated sales proceeds of $1.5 billion expected to be received offshore in connection with the transactions. The Company's decision whether to repatriate these proceeds will be determined in connection with funding needs for the acquisition of Pentair's Valves & Controls non-U.S. operations. 
+ 
+ 
+ 
+ 21 
+ 
+ 
+ 
+ NET EARNINGS AND EARNINGS PER SHARE; RETURNS ON EQUITY AND TOTAL CAPITAL 
+ Net earnings attributable to common stockholders in 2016 were $1,635 million , down 40 percent compared with 2015, and diluted earnings per share were $2.52 , down 37 percent . Separation costs and other items negatively impacted earnings $299 million ($0.46 per share) in 2016, while divestiture gains and other items benefited earnings $559 million ($0.82 per share) in 2015. Combined, these items negatively impacted net earnings and earnings per share comparisons 30 and 31 percentage points, respectively. 
+ 
+ Other items in 2016 include separation costs of $220 million ($0.34 per share), a loss of $103 million ($0.16 per share) to write down the power generation, motors and drives businesses to the sales price less costs to sell, and lower expense of $24 million ($0.04 per share benefit) due to ceasing depreciation and amortization for the discontinued businesses held-for-sale. Items in 2015 include the divestiture gains of $611 million ($0.90 per share benefit) and separation costs of $52 million ($0.08 per share). 
+ Net earnings attributable to common stockholders in 2015 were $2,710 million, up 26 percent compared with 2014, and diluted earnings per share were $3.99, up 32 percent. Combined, the gains from divestitures and separation costs in 2015, and the goodwill impairment charge in 2014, benefited net earnings and earnings per share comparisons 45 and 47 percentage points, respectively. 
+ 
+ Return on common stockholders' equity (net earnings attributable to common stockholders divided by average common stockholders' equity) was 20.9 percent in 2016 compared with 29.8 percent in 2015 and 20.7 percent in 2014 . Return on total capital was 15.5 percent in 2016 compared with 22.8 percent in 2015 and 17.5 percent in 2014 (computed as net earnings attributable to common stockholders excluding after-tax net interest expense, divided by average common stockholders' equity plus short- and long-term debt less cash and short-term investments). Combined, the separation costs related to the portfolio repositioning actions, the loss related to the sale of the power generation, motors and drives businesses, and the lower depreciation and amortization expense for the discontinued businesses held-for-sale reduced the 2016 returns on common stockholders' equity and total capital approximately 3 percentage points. For 2015, the combined impact of divestitures and the separation costs increased the returns on common stockholders' equity and total capital approximately 6 and 5 percentage points, respectively. The goodwill impairment charge in 2014 reduced the returns on common stockholders' equity and total capital approximately 3 percentage points. 
+ 
+ 
+ Business Segments 
+ Following is an analysis of segment results for 2016 compared with 2015 , and 2015 compared with 2014 . 
+ The Company defines segment earnings as earnings before interest and income taxes. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PROCESS MANAGEMENT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (dollars in millions) 
+ 
+ 2014 
+ 
+ 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 
+ 
+ 14 vs. 15 
+ 
+ 
+ 
+ 
+ 
+ 15 vs. 16 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sales 
+ 
+ $ 
+ 
+ 9,189 
+ 
+ 
+ 
+ 
+ 
+ 8,516 
+ 
+ 
+ 
+ 
+ 
+ 7,484 
+ 
+ 
+ 
+ 
+ 
+ (7 
+ 
+ )% 
+ 
+ 
+ 
+ (12 
+ 
+ )% 
+ 
+ 
+ Earnings 
+ 
+ $ 
+ 
+ 1,918 
+ 
+ 
+ 
+ 
+ 
+ 1,493 
+ 
+ 
+ 
+ 
+ 
+ 1,131 
+ 
+ 
+ 
+ 
+ 
+ (22 
+ 
+ )% 
+ 
+ 
+ 
+ (24 
+ 
+ )% 
+ 
+ 
+ Margin 
+ 
+ 20.9 
+ 
+ % 
+ 
+ 
+ 
+ 17.5 
+ 
+ % 
+ 
+ 
+ 
+ 15.1 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2016 vs. 2015 - Process Management reported sales of $7.5 billion in 2016 , a decrease of $1,032 million or 12 percent . Underlying sales decreased 11 percent ( $911 million ) on 10 percent lower volume and 1 percent lower price as global oil and gas customers continued to curtail spending levels in a difficult environment. Foreign currency translation had a 2 percent ( $178 million ) unfavorable impact while acquisitions added 1 percent ( $57 million ). The measurement devices, final control and systems and solutions businesses were all down. Underlying sales decreased 10 percent in the U.S., were up 2 percent in Europe and decreased 14 percent in Asia (China down 18 percent ). Latin America decreased 14 percent , Canada decreased 29 percent and Middle East/Africa was down 19 percent . Earnings decreased $362 million and margin was down 2.4 percentage points due to sharply lower volume, deleverage and unfavorable mix, partially offset by savings from cost reduction actions and lower restructuring costs of $15 million . Materials cost containment offset lower pricing. Results also reflect unfavorable foreign currency transactions of $69 million, partially offset by a favorable comparison from litigation costs of $20 million in 2015. Results will remain under pressure through the majority of fiscal 2017 on continuing weakness in key served markets, particularly upstream oil and gas. Activity in life sciences and power had positive sales growth in 2016 and is expected to have continued growth in 2017. 
+ 
+ 
+ 22 
+ 
+ 
+ 
+ 
+ 2015 vs. 2014 - Process Management reported sales of $8.5 billion in 2015, a decrease of $673 million or 7 percent. Underlying sales decreased 2 percent ($221 million) as persistent low oil and gas prices reduced capital and operating spending, especially in upstream markets. Foreign currency translation had an additional 5 percent ($481 million) unfavorable impact while acquisitions ($29 million) provided a slight benefit. The measurement devices, final control and systems and solutions businesses all declined. Underlying sales were flat in the U.S., up 1 percent in Europe and decreased 6 percent in Asia (China down 9 percent). Latin America decreased 14 percent and Canada decreased 1 percent, while Middle East/Africa was up 2 percent. Earnings decreased $425 million and margin was down 3.4 percentage points due to lower volume and deleverage, unfavorable mix and the impact of a stronger dollar on operations. Increased restructuring costs of $72 million, higher costs related to growth investments initiated in the prior year and other items were offset by savings from cost reduction actions. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ INDUSTRIAL AUTOMATION 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (dollars in millions) 
+ 
+ 2014 
+ 
+ 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 
+ 
+ 14 vs. 15 
+ 
+ 
+ 
+ 
+ 
+ 15 vs. 16 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sales 
+ 
+ $ 
+ 
+ 3,004 
+ 
+ 
+ 
+ 
+ 
+ 2,448 
+ 
+ 
+ 
+ 
+ 
+ 2,072 
+ 
+ 
+ 
+ 
+ 
+ (19 
+ 
+ )% 
+ 
+ 
+ 
+ (15 
+ 
+ )% 
+ 
+ 
+ Earnings 
+ 
+ $ 
+ 
+ 640 
+ 
+ 
+ 
+ 
+ 
+ 509 
+ 
+ 
+ 
+ 
+ 
+ 458 
+ 
+ 
+ 
+ 
+ 
+ (20 
+ 
+ )% 
+ 
+ 
+ 
+ (10 
+ 
+ )% 
+ 
+ 
+ Margin 
+ 
+ 21.3 
+ 
+ % 
+ 
+ 
+ 
+ 20.8 
+ 
+ % 
+ 
+ 
+ 
+ 22.1 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2016 vs. 2015 - Industrial Automation sales were $2.1 billion in 2016 , a decrease of $376 million or 15 percent . Underlying sales decreased 7 percent ( $159 million ) on 5 percent lower volume and 2 percent lower price, reflecting weakness in industrial spending and upstream oil and gas markets. Additionally, the power transmission solutions divestiture deducted 7 percent ( $189 million ) and foreign currency translation subtracted 1 percent ( $28 million ). The sales decrease was led by the electrical distribution, fluid automation and hermetic motors businesses. Underlying sales decreased 9 percent in the U.S., were up 1 percent in Europe and decreased 7 percent in Asia. Sales decreased 10 percent in Latin America, 7 percent in Canada and 4 percent in Middle East/Africa. Earnings of $458 million were down $51 million , or 10 percent, due to the power transmission solutions divestiture, which negatively impacted the earnings comparison $19 million, and lower volume, partially offset by savings from restructuring actions. Materials cost containment offset lower pricing. Margin increased 1.3 percentage points reflecting cost reduction actions and the impact of the divestiture, partially offset by deleverage on the lower volume. Conditions in served markets are expected to remain challenging in 2017, with the best opportunity for orders growth in the second half of the fiscal year. 
+ 
+ 2015 vs. 2014 - Industrial Automation sales were $2.4 billion in 2015, a decrease of $556 million or 19 percent. Underlying sales decreased 2 percent ($43 million) on lower volume, reflecting reduced industrial spending, particularly in energy-related and commodity markets. The power transmission solutions divestiture deducted 13 percent ($418 million) and foreign currency translation subtracted 4 percent ($95 million). Sales decreased in the electrical distribution and fluid automation businesses. Hermetic motors decreased moderately while the materials joining business was flat. Underlying sales decreased 4 percent in the U.S., while sales were up 1 percent in Europe and 5 percent in Asia. Sales decreased 2 percent in Latin America, 4 percent in Canada and 17 percent in Middle East/Africa. Earnings of $509 million were down $131 million and margin decreased 0.5 percentage points, due to the power transmission solutions divestiture, which negatively impacted the earnings comparison $67 million, unfavorable mix and higher restructuring costs of $9 million , partially offset by cost containment actions. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CLIMATE TECHNOLOGIES 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (dollars in millions) 
+ 
+ 2014 
+ 
+ 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 
+ 
+ 14 vs. 15 
+ 
+ 
+ 
+ 
+ 
+ 15 vs. 16 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sales 
+ 
+ $ 
+ 
+ 4,109 
+ 
+ 
+ 
+ 
+ 
+ 4,011 
+ 
+ 
+ 
+ 
+ 
+ 3,949 
+ 
+ 
+ 
+ 
+ 
+ (2 
+ 
+ )% 
+ 
+ 
+ 
+ (2 
+ 
+ )% 
+ 
+ 
+ Earnings 
+ 
+ $ 
+ 
+ 737 
+ 
+ 
+ 
+ 
+ 
+ 698 
+ 
+ 
+ 
+ 
+ 
+ 769 
+ 
+ 
+ 
+ 
+ 
+ (5 
+ 
+ )% 
+ 
+ 
+ 
+ 10 
+ 
+ % 
+ 
+ 
+ Margin 
+ 
+ 17.9 
+ 
+ % 
+ 
+ 
+ 
+ 17.4 
+ 
+ % 
+ 
+ 
+ 
+ 19.5 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2016 vs. 2015 - Sales for Climate Technologies were $3.9 billion in 2016 , a decrease of $62 million , or nearly 2 percent . Underlying sales decreased less than 1 percent ( $18 million ) on lower price, offset by slightly higher volume. Foreign currency translation deducted 1 percent ( $49 million ), while acquisitions added $5 million . Global 
+ 
+ 
+ 23 
+ 
+ 
+ 
+ air conditioning sales were down while global refrigeration sales were up modestly, as the U.S. exhibited growth and Europe and China were down, with more significant declines in air conditioning. Sales of temperature controls, sensors and solutions decreased. Overall, underlying sales were up 1 percent in the U.S. and 2 percent in Europe, while Asia was down 5 percent . Latin America was down 1 percent and Middle East/Africa and Canada were both down 2 percent . Earnings of $769 million increased $71 million and margin increased 2.1 percentage points primarily due to savings from restructuring actions and materials cost containment, partially offset by lower price and higher customer accommodation costs. Sales growth in the low single-digits is expected for fiscal 2017, supported by a favorable outlook for global demand in air conditioning and refrigeration. 
+ 
+ 2015 vs. 2014 - Sales for Climate Technologies were $4.0 billion in 2015, a decrease of $98 million, or over 2 percent due to unfavorable foreign currency translation ($112 million). Underlying sales were up slightly ($14 million) as an increase in the global refrigeration business was essentially offset by a decrease in air conditioning. The temperature controls and sensors businesses were flat. Air conditioning sales in the U.S., Europe and China decreased while the rest of the world had strong growth. Global refrigeration was up modestly with growth in the U.S. and Asia and weakness in Europe. Overall, underlying sales were flat in the U.S., down 2 percent in Asia (China down 12 percent) and decreased 1 percent in Europe. Latin America was down 4 percent, Middle East/Africa was up 26 percent and Canada increased 13 percent. Earnings of $698 million decreased $39 million and margin declined 0.5 percentage points primarily due to unfavorable mix. Growth investments, and higher restructuring costs and unfavorable foreign currency transactions of $6 million each, were more than offset by cost reduction savings. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ COMMERCIAL & RESIDENTIAL SOLUTIONS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (dollars in millions) 
+ 
+ 2014 
+ 
+ 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 
+ 
+ 14 vs. 15 
+ 
+ 
+ 
+ 
+ 
+ 15 vs. 16 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sales 
+ 
+ $ 
+ 
+ 1,891 
+ 
+ 
+ 
+ 
+ 
+ 1,913 
+ 
+ 
+ 
+ 
+ 
+ 1,611 
+ 
+ 
+ 
+ 
+ 
+ 1 
+ 
+ % 
+ 
+ 
+ 
+ (16 
+ 
+ )% 
+ 
+ 
+ Earnings 
+ 
+ $ 
+ 
+ 421 
+ 
+ 
+ 
+ 
+ 
+ 403 
+ 
+ 
+ 
+ 
+ 
+ 384 
+ 
+ 
+ 
+ 
+ 
+ (4 
+ 
+ )% 
+ 
+ 
+ 
+ (5 
+ 
+ )% 
+ 
+ 
+ Margin 
+ 
+ 22.3 
+ 
+ % 
+ 
+ 
+ 
+ 21.1 
+ 
+ % 
+ 
+ 
+ 
+ 23.8 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2016 vs. 2015 - Commercial & Residential Solutions sales were $1.6 billion in 2016 , a decrease of $302 million or 16 percent . Underlying sales were essentially flat (down $3 million ), foreign currency translation deducted 1 percent ( $11 million ) and the commercial storage divestiture deducted 15 percent ( $288 million ). Food waste disposers had solid sales growth and the wet/dry vacuums business was up modestly, while sales decreased moderately in the professional tools and storage businesses. Underlying sales were flat in both the U.S. and internationally. Earnings of $384 million were down $19 million as the divestiture subtracted $39 million. Cost reduction actions, materials cost containment and lower restructuring costs of $9 million partially offset the decrease. Margin improved 2.7 percentage points due to the divestiture and cost containment actions. The expectation for favorable U.S. construction markets supports the outlook for low single-digit growth in fiscal 2017. 
+ 
+ 2015 vs. 2014 - Commercial & Residential Solutions sales were $1.9 billion in 2015, an increase of $22 million or 1 percent. Underlying sales increased 2 percent ($50 million) on higher volume from favorable U.S. construction markets, while foreign currency translation deducted 1 percent ($28 million). The sales increase was led by strong growth in wet/dry vacuums and modest growth in food waste disposers. The professional tools and commercial storage businesses decreased. Underlying sales were up 3 percent in the U.S. and 1 percent internationally. Earnings of $403 million were down $18 million and margin declined 1.2 percentage points as higher volume and resulting leverage was more than offset by unfavorable mix, higher restructuring costs of $9 million , and investments in growth programs. 
+ 
+ 
+ 
+ 
+ 
+ 24 
+ 
+ 
+ 
+ Financial Position, Capital Resources and Liquidity 
+ The Company continues to generate substantial cash from operations and has the resources available to reinvest for growth in existing businesses, pursue strategic acquisitions and manage its capital structure on a short- and long-term basis. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CASH FLOW FROM CONTINUING OPERATIONS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (dollars in millions) 
+ 
+ 2014 
+ 
+ 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating Cash Flow 
+ 
+ $ 
+ 
+ 2,999 
+ 
+ 
+ 
+ 
+ 
+ 2,040 
+ 
+ 
+ 
+ 
+ 
+ 2,499 
+ 
+ 
+ 
+ 
+ Percent of sales 
+ 
+ 16.9 
+ 
+ % 
+ 
+ 
+ 
+ 12.6 
+ 
+ % 
+ 
+ 
+ 
+ 17.2 
+ 
+ % 
+ 
+ 
+ Capital Expenditures 
+ 
+ $ 
+ 
+ 651 
+ 
+ 
+ 
+ 
+ 
+ 588 
+ 
+ 
+ 
+ 
+ 
+ 447 
+ 
+ 
+ 
+ 
+ Percent of sales 
+ 
+ 3.7 
+ 
+ % 
+ 
+ 
+ 
+ 3.6 
+ 
+ % 
+ 
+ 
+ 
+ 3.1 
+ 
+ % 
+ 
+ 
+ Free Cash Flow (Operating Cash Flow less Capital Expenditures) 
+ 
+ $ 
+ 
+ 2,348 
+ 
+ 
+ 
+ 
+ 
+ 1,452 
+ 
+ 
+ 
+ 
+ 
+ 2,052 
+ 
+ 
+ 
+ 
+ Percent of sales 
+ 
+ 13.2 
+ 
+ % 
+ 
+ 
+ 
+ 8.9 
+ 
+ % 
+ 
+ 
+ 
+ 14.1 
+ 
+ % 
+ 
+ 
+ Operating Working Capital 
+ 
+ $ 
+ 
+ 1,046 
+ 
+ 
+ 
+ 
+ 
+ 1,177 
+ 
+ 
+ 
+ 
+ 
+ 755 
+ 
+ 
+ 
+ 
+ Percent of sales 
+ 
+ 5.9 
+ 
+ % 
+ 
+ 
+ 
+ 7.2 
+ 
+ % 
+ 
+ 
+ 
+ 5.2 
+ 
+ % 
+ 
+ The Company generated total operating cash flow of $2.9 billion in 2016, which was reduced by payments of $179 million for separation costs related to the portfolio repositioning. Operating cash flow from continuing operations for 2016 was $2.5 billion , a $459 million , or 23 percent increase compared with 2015 as comparisons benefited from income taxes of $424 million paid in the prior year on the divestiture gains. Operating cash flow from continuing operations of $2.0 billion in 2015 was a 32 percent decrease compared to $3.0 billion in 2014 due to income taxes paid on the gains from divestitures in 2015, an increase in operating working capital, and lower earnings (excluding the divestiture gains). At September 30, 2016 , operating working capital as a percent of sales improved to 5.2 percent , compared with 7.2 percent and 5.9 percent in 2015 and 2014 , respectively. Total operating cash flow of $2.9 billion funded capital expenditures of $523 million including discontinued operations, repayments of long-term debt of $254 million , acquisitions of $132 million , dividends of $1,227 million and common stock purchases of $601 million in 2016. Contributions to pension plans were $66 million in 2016 , $53 million in 2015 and $130 million in 2014 . 
+ 
+ Capital expenditures related to continuing operations were $447 million , $588 million and $651 million in 2016 , 2015 and 2014 , respectively. Free cash flow from continuing operations (operating cash flow less capital expenditures) was $2.1 billion in 2016 , up 41 percent , reflecting higher operating cash flow and lower capital expenditures. Free cash flow was $1.5 billion in 2015 , compared with $2.3 billion in 2014 , reflecting higher operating cash flow in 2014. The Company is targeting capital spending of approximately $500 million in 2017 . Net cash paid in connection with acquisitions was $132 million , $324 million and $610 million in 2016 , 2015 and 2014 , respectively. In 2014, the Company also purchased the noncontrolling interest in Appleton Group for $574 million. Proceeds from divestitures were $1,812 million and $363 million in 2015 and 2014 , respectively. 
+ 
+ Dividends were $1,227 million ( $1.90 per share) in 2016 , compared with $1,269 million ( $1.88 per share) in 2015 and $1,210 million ( $1.72 per share) in 2014 . In November 2016, the Board of Directors voted to increase the quarterly cash dividend 1 percent, to an annualized rate of $1.92 per share. 
+ 
+ Purchases of Emerson common stock totaled $601 million , $2,487 million and $971 million in 2016 , 2015 and 2014 , respectively, at average per share prices of $48.11, $57.68 and $65.54. The Board of Directors authorized the purchase of up to 70 million common shares in November 2015, and 63.5 million shares remain available for purchase under this authorization. The Company purchased 12.5 million shares in 2016 under a combination of the November 2015 authorization and the remainder of the May 2013 authorization. A total of 43.1 million shares were purchased in 2015 and 14.8 million shares were purchased in 2014, both under the May 2013 authorization. 
+ 
+ The sale of the network power systems business and power generation, motors and drives businesses will provide over $4 billion of cash, after tax, which the Company expects to use to fund the acquisition of Pentair's Valves & Controls business and potential future acquisitions. 
+ 
+ 
+ 25 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LEVERAGE/CAPITALIZATION 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (dollars in millions) 
+ 
+ 2014 
+ 
+ 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Assets 
+ 
+ $ 
+ 
+ 24,177 
+ 
+ 
+ 
+ 
+ 
+ 22,088 
+ 
+ 
+ 
+ 
+ 
+ 21,743 
+ 
+ 
+ 
+ 
+ Long-term Debt 
+ 
+ $ 
+ 
+ 3,559 
+ 
+ 
+ 
+ 
+ 
+ 4,289 
+ 
+ 
+ 
+ 
+ 
+ 4,062 
+ 
+ 
+ 
+ 
+ Common Stockholders' Equity 
+ 
+ $ 
+ 
+ 10,119 
+ 
+ 
+ 
+ 
+ 
+ 8,081 
+ 
+ 
+ 
+ 
+ 
+ 7,568 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Debt-to-Total Capital Ratio 
+ 
+ 37.3 
+ 
+ % 
+ 
+ 
+ 
+ 45.8 
+ 
+ % 
+ 
+ 
+ 
+ 46.8 
+ 
+ % 
+ 
+ 
+ Net Debt-to-Net Capital Ratio 
+ 
+ 22.1 
+ 
+ % 
+ 
+ 
+ 
+ 31.3 
+ 
+ % 
+ 
+ 
+ 
+ 31.4 
+ 
+ % 
+ 
+ 
+ Operating Cash Flow-to-Debt Ratio 
+ 
+ 49.8 
+ 
+ % 
+ 
+ 
+ 
+ 29.8 
+ 
+ % 
+ 
+ 
+ 
+ 37.6 
+ 
+ % 
+ 
+ 
+ Interest Coverage Ratio 
+ 
+ 15.9X 
+ 
+ 
+ 
+ 
+ 
+ 20.2X 
+ 
+ 
+ 
+ 
+ 
+ 11.8X 
+ 
+ 
+ 
+ Total debt, which includes long-term debt, current maturities of long-term debt, commercial paper and other short-term borrowings, was $6.6 billion , $6.8 billion and $6.0 billion for 2016 , 2015 and 2014 , respectively. During the year, the Company repaid $250 million of 4.75% notes that matured in October 2015. In 2015, the Company issued $500 million of 2.625% notes due December 2021 and $500 million of 3.150% notes due June 2025, and repaid $250 million of 5.0% notes that matured in December 2014 and $250 million of 4.125% notes that matured in April 2015. In 2014, the Company repaid $250 million of 5.625% notes that matured in November 2013. 
+ 
+ The total debt-to-capital ratio and the net debt-to-net capital ratio (less cash and short-term investments) increased in 2016 due to lower common stockholders' equity from share repurchases and changes in other comprehensive income. The total debt-to-capital ratio and the net debt-to-net capital ratio increased in 2015 primarily due to higher total debt from the issuance of long-term debt and lower common stockholders' equity. The operating cash flow from continuing operations-to-debt ratio increased in 2016 primarily due to taxes paid in the prior year on the divestiture gains and lower debt in the current year. The interest coverage ratio is computed as earnings from continuing operations before income taxes plus interest expense, divided by interest expense. The decrease in interest coverage in 2016 reflects lower pretax earnings, largely due to the divestiture gains of $1,039 million in 2015, and slightly higher interest expense. The increase in interest coverage in 2015 reflects higher pretax earnings (including the divestiture gains) and lower interest expense. 
+ 
+ In April 2014, the Company entered into a $3.5 billion five-year revolving backup credit facility with various banks, which replaced the December 2010 $2.75 billion facility. The credit facility is maintained to support general corporate purposes, including commercial paper borrowing. The Company has not incurred any borrowings under this or previous facilities. The credit facility contains no financial covenants and is not subject to termination based on a change of credit rating or material adverse changes. The facility is unsecured and may be accessed under various interest rate and currency denomination alternatives at the Company's option. Fees to maintain the facility are immaterial. The Company also maintains a universal shelf registration statement on file with the SEC under which it can issue debt securities, preferred stock, common stock, warrants, share purchase contracts or share purchase units without a predetermined limit. Securities can be sold in one or more separate offerings with the size, price and terms to be determined at the time of sale. 
+ 
+ Emerson's financial structure provides the flexibility necessary to achieve its strategic objectives. The Company has been successful in efficiently deploying cash where needed worldwide to fund operations, complete acquisitions and sustain long-term growth. At September 30, 2016 , $2.9 billion of the Company's cash was held outside the U.S., primarily in Europe and Asia, and was generally available for repatriation to the U.S. Under current tax law, repatriated cash may be subject to U.S. federal income taxes, net of available foreign tax credits. The Company routinely repatriates a portion of its non-U.S. cash from earnings each year, or otherwise when it can be accomplished tax efficiently, and provides for U.S. income taxes as appropriate. The Company has been able to readily meet all its funding requirements and currently believes that sufficient funds will be available to meet the Company's needs in the foreseeable future through operating cash flow, existing resources, short- and long-term debt capacity or backup credit lines. 
+ 
+ 
+ 
+ 26 
+ 
+ 
+ 
+ CONTRACTUAL OBLIGATIONS 
+ At September 30, 2016 , the Company's contractual obligations, including estimated payments, are as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Amounts Due By Period 
+ 
+ 
+ (dollars in millions) 
+ 
+ Total 
+ 
+ 
+ 
+ 
+ 
+ Less Than 1 Year 
+ 
+ 
+ 
+ 
+ 
+ 1 - 3 
+ Years 
+ 
+ 
+ 
+ 
+ 
+ 3 - 5 
+ Years 
+ 
+ 
+ 
+ 
+ 
+ More Than 
+ 5 Years 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Long-term Debt (including Interest) 
+ 
+ $ 
+ 
+ 5,785 
+ 
+ 
+ 
+ 
+ 
+ 442 
+ 
+ 
+ 
+ 
+ 
+ 1,253 
+ 
+ 
+ 
+ 
+ 
+ 994 
+ 
+ 
+ 
+ 
+ 
+ 3,096 
+ 
+ 
+ 
+ 
+ Operating Leases 
+ 
+ 600 
+ 
+ 
+ 
+ 
+ 
+ 183 
+ 
+ 
+ 
+ 
+ 
+ 224 
+ 
+ 
+ 
+ 
+ 
+ 93 
+ 
+ 
+ 
+ 
+ 
+ 100 
+ 
+ 
+ 
+ 
+ Purchase Obligations 
+ 
+ 681 
+ 
+ 
+ 
+ 
+ 
+ 548 
+ 
+ 
+ 
+ 
+ 
+ 98 
+ 
+ 
+ 
+ 
+ 
+ 17 
+ 
+ 
+ 
+ 
+ 
+ 18 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ $ 
+ 
+ 7,066 
+ 
+ 
+ 
+ 
+ 
+ 1,173 
+ 
+ 
+ 
+ 
+ 
+ 1,575 
+ 
+ 
+ 
+ 
+ 
+ 1,104 
+ 
+ 
+ 
+ 
+ 
+ 3,214 
+ 
+ 
+ 
+ Purchase obligations consist primarily of inventory purchases made in the normal course of business to meet operational requirements. Total purchase and operating lease obligations related to discontinued operations, which are not included in the table above, were $251 million and $193 million, respectively, at September 30, 2016. These obligations will be transferred to the buyers at closing. The table above does not include $1.7 billion of other noncurrent liabilities recorded in the balance sheet and summarized in Note 19, which consist primarily of pension and postretirement plan liabilities and deferred income taxes (including unrecognized tax benefits), because it is not certain when these amounts will become due. See Notes 11 and 12 for estimated future benefit payments and Note 14 for additional information on deferred income taxes. 
+ 
+ FINANCIAL INSTRUMENTS 
+ The Company is exposed to market risk related to changes in interest rates, commodity prices and foreign currency exchange rates, and selectively uses derivative financial instruments, including forwards, swaps and purchased options to manage these risks. The Company does not hold derivatives for trading purposes. The value of derivatives and other financial instruments is subject to change as a result of market movements in rates and prices. Sensitivity analysis is one technique used to forecast the impact of these movements. Based on a hypothetical 10 percent increase in interest rates, a 10 percent decrease in commodity prices or a 10 percent weakening in the U.S. dollar across all currencies, the potential losses in future earnings, fair value or cash flows are not material. Sensitivity analysis has limitations; for example, a weaker U.S. dollar would benefit future earnings through favorable translation of non-U.S. operating results, and lower commodity prices would benefit future earnings through lower cost of sales. See Notes 1, and 8 through 10. 
+ 
+ 
+ Critical Accounting Policies 
+ Preparation of the Company's financial statements requires management to make judgments, assumptions and estimates regarding uncertainties that could affect reported revenue, expenses, assets, liabilities and equity. Note 1 describes the significant accounting policies used in preparation of the consolidated financial statements. The most significant areas where management judgments and estimates impact the primary financial statements are described below. Actual results in these areas could differ materially from management's estimates under different assumptions or conditions. 
+ 
+ REVENUE RECOGNITION 
+ The Company recognizes nearly all revenue through the sale of manufactured products and records the sale when products are shipped or delivered, title and risk of loss pass to the customer, and collection is reasonably assured. In certain limited circumstances, revenue is recognized using the percentage-of-completion method, as performance occurs, or in accordance with ASC 985-605 related to software. Sales arrangements sometimes involve delivering multiple elements, which requires management judgment that affects the amount and timing of revenue recognized. In these instances, the revenue assigned to each element is based on vendor-specific objective evidence, third-party evidence or a management estimate of the relative selling price. Revenue is recognized for delivered elements if they have value to the customer on a stand-alone basis and performance related to the undelivered items is probable and substantially in the Company's control, or the undelivered elements are inconsequential or perfunctory and there are no unsatisfied contingencies related to payment. The vast majority of deliverables are tangible products, with a smaller portion attributable to installation, service or maintenance. Management believes that all relevant criteria and conditions are considered when recognizing revenue. 
+ 
+ 
+ 
+ 
+ 
+ 27 
+ 
+ 
+ 
+ INVENTORIES 
+ Inventories are stated at the lower of cost or market. The majority of inventory values are based on standard costs, which approximate average costs, while the remainder are principally valued on a first-in, first-out basis. Cost standards are revised at the beginning of each year. The annual effect of resetting standards plus any operating variances incurred during each period are allocated to inventories and recognized in cost of sales as product is sold. The Company's businesses review inventory for obsolescence, make appropriate provisions and dispose of obsolete inventory on a regular basis. Various factors are considered in these reviews, including sales history and recent trends, industry conditions and general economic conditions. If actual circumstances indicate a decline in any of these factors, particularly an abrupt change in economic conditions, the Company could incur higher levels of obsolescence expense. 
+ 
+ LONG-LIVED ASSETS 
+ Long-lived assets, which include property, plant and equipment, goodwill and identifiable intangible assets, are reviewed for impairment whenever events or changes in business circumstances indicate impairment may exist. If the Company determines that the carrying value of a long-lived asset may not be recoverable, a permanent impairment charge is recorded for the amount by which the carrying value of the long-lived asset exceeds its estimated fair value. Reporting units are also reviewed for possible goodwill impairment at least annually, in the fourth quarter. If an initial assessment indicates it is more likely than not an impairment may exist, it is evaluated by comparing the unit's estimated fair value to its carrying value. Fair value is generally estimated using an income approach that discounts estimated future cash flows using discount rates judged by management to be commensurate with the applicable risk. Estimates of future sales, operating results, cash flows and discount rates are subject to changes in the economic environment, including such factors as the general level of market interest rates, expected equity market returns and the volatility of markets served, particularly when recessionary economic circumstances continue for an extended period of time. Management believes the estimates of future cash flows and fair values are reasonable; however, changes in estimates due to variance from assumptions could materially affect the evaluations. 
+ 
+ RETIREMENT PLANS 
+ The Company maintains a prudent long-term investment strategy for its pension assets, consistent with the duration of its pension obligations. The determination of defined benefit plan expense and liabilities is dependent on various assumptions, including the expected annual rate of return on plan assets, the discount rate and the rate of annual compensation increases. Management believes that the assumptions used are appropriate; however, actual experience may differ. In accordance with U.S. generally accepted accounting principles, actual results that differ from the Company's assumptions are accumulated as deferred actuarial gains or losses and amortized to expense in future periods. The Company transitioned from defined benefit to defined contribution retirement plans in 2016. The principal U.S. defined benefit plan closed to employees hired after January 1, 2016 while shorter-tenured current employees ceased accruing benefits effective October 1, 2016. Affected employees transitioned to an enhanced defined contribution plan. See Notes 11 and 12. 
+ 
+ As of September 30, 2016 , the Company's U.S. pension plans were underfunded by $586 million and non-U.S. plans were underfunded by $411 million . The U.S. funded status includes unfunded plans totaling $216 million and the non-U.S. status includes unfunded plans totaling $237 million . The Company contributed a total of $66 million to defined benefit plans in 2016 and expects to contribute $40 million in 2017 . At year-end 2016 , the discount rate for U.S. plans was 3.50 percent , and was 4.35 percent in 2015 . The assumed investment return on plan assets was 7.50 percent in 2016 , 2015 and 2014 , and is expected to be 7.25 percent for 2017. Deferred actuarial losses to be amortized to expense in future years were $1,916 million ($1,248 million after-tax) as of September 30, 2016 . 
+ 
+ INCOME TAXES 
+ Income tax expense and tax assets and liabilities reflect management's assessment of taxes paid or expected to be paid (received) on items included in the financial statements. Deferred tax assets and liabilities arise from temporary differences between the consolidated financial statement carrying amounts of existing assets and liabilities and their respective tax bases, and consideration of operating loss and tax credit carryforwards. Deferred income taxes are measured using enacted tax rates in effect for the year in which the temporary differences are expected to be recovered or settled. The impact on deferred tax assets and liabilities of a change in tax rates is recognized in the period that includes the enactment date. Valuation allowances are provided to reduce deferred tax assets to the amount that will more likely than not be realized. This requires management to make judgments and estimates regarding the amount and timing of the reversal of taxable temporary differences, expected future taxable income, and the impact of tax planning strategies. 
+ 
+ 
+ 
+ 28 
+ 
+ 
+ 
+ Uncertainty exists regarding tax positions taken in previously filed tax returns which remain subject to examination, along with positions expected to be taken in future returns. The Company provides for unrecognized tax benefits, based on the technical merits, when it is more likely than not that an uncertain tax position will not be sustained upon examination. Adjustments are made to the uncertain tax positions when facts and circumstances change, such as the closing of a tax audit; changes in applicable tax laws, including tax case rulings and legislative guidance; or expiration of the applicable statute of limitations. 
+ 
+ The Company also pays U.S. federal income taxes, net of available foreign tax credits, on cash repatriated from non-U.S. locations. No provision is made for U.S. income taxes on the undistributed earnings of non-U.S. subsidiaries where these earnings are considered permanently invested or otherwise indefinitely retained for continuing international operations. Determination of the amount of taxes that might be paid on these undistributed earnings if eventually remitted is not practicable. See Notes 1 and 14. 
+ 
+ Other Items 
+ 
+ LEGAL MATTERS 
+ At September 30, 2016 , there were no known contingent liabilities (including guarantees, pending litigation, taxes and other claims) that management believes will be material in relation to the Company's financial statements, nor were there any material commitments outside the normal course of business. 
+ 
+ NEW ACCOUNTING PRONOUNCEMENTS 
+ In May 2014, the FASB amended ASC 606, Revenue from Contracts with Customers , to update and consolidate revenue recognition guidance from multiple sources into a single, comprehensive standard to be applied for all contracts with customers. The fundamental principle of the revised standard is to recognize revenue based on the transfer of goods and services to customers at an amount that the Company expects to be entitled to in exchange for those goods and services. Also required are additional disclosures regarding the nature, extent, timing and uncertainty of revenues and associated cash flows. The new standard is effective for the Company in the first quarter of fiscal 2019, with early adoption permitted in the first quarter of fiscal 2018. The new rules may be adopted on either a prospective or retrospective basis. The Company is in the process of evaluating the impact of the revised standard on its financial statements and determining its method of adoption. The Company has completed its initial evaluation and currently does not expect that the updates will materially impact its financial statements. 
+ 
+ In February 2016, the FASB amended ASC 842, Leases , to require recognition on the balance sheet of assets and liabilities related to the rights and obligations associated with all lease arrangements. Currently, obligations classified as operating leases are not recorded on the balance sheet but must be disclosed. The new standard is effective for the Company in the first quarter of fiscal 2020. The Company is in the process of evaluating the impact of the revised standard on its financial statements. The Company expects the revised standard to have a material impact on its balance sheet due to the addition of right-of-use assets and lease liabilities related to operating leases, but does not expect it will materially impact its results of operations. 
+ 
+ In November 2015, the FASB issued updates to ASC 740, Income Taxes , requiring noncurrent presentation of all deferred tax assets and liabilities on the balance sheet. These updates are effective for the Company in the first quarter of fiscal 2018, with early adoption permitted, and may be adopted on either a prospective or retrospective basis. The Company is in the process of evaluating the impact of the revised standard on its financial statements. 
+ 
+ In March 2016, the FASB amended ASC 718, Compensation - Stock Compensation , requiring all excess tax benefits and deficiencies related to share-based payments to be recognized in income tax expense rather than through additional paid-in-capital, and to be presented as operating cash flows instead of financing. These updates are effective in the first quarter of fiscal 2018, with early adoption permitted, and are not expected to materially impact the Company's financial statements. 
+ 
+ In May 2015, the FASB issued updates to ASC 820, Fair Value Measurement , requiring investments measured using the net asset value per share practical expedient to be removed from the fair value hierarchy and separately reported when making disclosures. The updates have no impact on operations and do not change the determination of fair value for any investments. These updates are effective for the Company in fiscal 2017 and must be adopted on a retrospective basis. Adoption will affect disclosure only; there will be no impact on the Company’s financial results. 
+ 
+ 
+ 
+ 29 
+ 
+ 
+ 
+ FISCAL 2017 OUTLOOK 
+ 
+ Fiscal 2017 will remain difficult, particularly for the automation businesses. Low growth economic conditions coupled with political uncertainty will continue to dampen both operational and capital spending across multiple end markets. Considering these factors, the Company expects net and underlying sales in the Automation Solutions business to be down 4 to 7 percent. The Commercial & Residential Solutions business is expected to have support from more favorable global HVAC and U.S. construction markets resulting in net and underlying sales growth of 2 to 4 percent. Consolidated net and underlying sales for 2017 are expected to decline 1 to 3 percent. Reported earnings per share from continuing operations are expected to be $2.35 to $2.50, compared with $2.45 in 2016. This outlook excludes the impact of the pending acquisition of Pentair’s Valves & Controls business. See ITEM 1 - “Business” for a description of the Company’s planned business realignment for fiscal 2017. 
+ 

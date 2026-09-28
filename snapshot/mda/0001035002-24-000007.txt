@@ -1,0 +1,4371 @@
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+ 
+ The following discussion and analysis is management’s perspective of our current financial condition and results of operations, and should be read in conjunction with “ITEM 1A. RISK FACTORS” and “ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA” included in this report. This discussion and analysis includes the years ended December 31, 2023 and 2022 and comparison between such years. The discussion for the year ended December 31, 2021 and comparison between the years ended December 31, 2022 and 2021 have been omitted from this annual report on Form 10-K for the year ended December 31, 2023, as such information can be found in “ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS” in our annual report on Form 10-K for the year ended December 31, 2022, which was filed on February 23, 2023. 
+ 
+ 
+ CAUTIONARY STATEMENT FOR THE PURPOSE OF SAFE HARBOR PROVISIONS OF THE PRIVATE SECURITIES LITIGATION REFORM ACT OF 1995 
+ 
+ This report, including without limitation our disclosures below under “OVERVIEW AND OUTLOOK,” includes forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934. You can identify our forward-looking statements by the words “anticipate,” “believe,” “expect,” “plan,” “intend,” “scheduled,” “estimate,” “project,” “projection,” “predict,” “budget,” “forecast,” “goal,” “guidance,” “target,” “ambition,” “could,” “would,” “should,” “may,” “strive,” “seek,” “potential,” “opportunity,” “aimed,” “considering,” “continue,” and similar expressions. 
+ 
+ These forward-looking statements include, among other things, statements regarding: 
+ 
+ • the effect, impact, potential duration or timing, or other implications of global geopolitical and other conflicts and tensions; 
+ • future Refining segment margins, including gasoline and distillate margins, and discounts; 
+ • future Renewable Diesel segment margins; 
+ • future Ethanol segment margins; 
+ • expectations regarding feedstock costs, including crude oil differentials, product prices for each of our segments, transportation costs, and operating expenses; 
+ • anticipated levels of crude oil and liquid transportation fuel inventories and storage capacity; 
+ • expectations regarding the levels of, costs and timing with respect to, the production and operations at our existing refineries and plants, projects under evaluation, construction, or development, and former projects; 
+ • our anticipated level of capital investments, including deferred turnaround and catalyst cost expenditures, our expected allocation between, and/or within, growth capital expenditures and sustaining capital expenditures, capital expenditures for environmental and other purposes, and joint venture investments, the expected costs and timing applicable to such capital investments and any related projects, and the effect of those capital investments on our business, financial condition, results of operations, and liquidity; 
+ • our anticipated level of cash distributions or contributions, such as our dividend payment rate and contributions to our pension plans and other postretirement benefit plans; 
+ 
+ 
+ 
+ 39 
+ 
+ 
+ Table of Contents 
+ • our ability to meet future cash and credit requirements, whether from funds generated from our operations or our ability to access financial markets effectively, and expectations regarding our liquidity; 
+ • our evaluation of, and expectations regarding, any future activity under our share purchase program or transactions involving our debt securities; 
+ • anticipated trends in the supply of, and demand for, crude oil and other feedstocks and refined petroleum products, renewable diesel, and ethanol and corn related co-products in the regions where we operate, as well as globally; 
+ • expectations regarding environmental, tax, and other regulatory matters, including SBx 1-2 and the matters discussed under “ITEM 3. LEGAL PROCEEDINGS” above, the anticipated amounts and timing of payment with respect to our deferred tax liabilities, unrecognized tax benefits, matters impacting our ability to repatriate cash held by our foreign subsidiaries, and the anticipated effect thereof on our business, financial condition, results of operations, and liquidity; 
+ • the effect of general economic and other conditions, including inflation and economic activity levels, on refining, renewable diesel, and ethanol industry fundamentals; 
+ • expectations regarding our risk management activities, including the anticipated effects of our hedge transactions; 
+ • expectations regarding our counterparties, including our ability to pass on increased compliance costs and timely collect receivables, and the credit risk within our accounts receivable or accounts payable; 
+ • expectations regarding adoptions of new, or changes to existing Renewable and Low-Carbon Fuel Programs, blending and tax credits, or efficiency standards that impact demand for renewable fuels; and 
+ • expectations regarding our low-carbon fuels strategy, publicly announced GHG emissions reduction/displacement targets and ambitions, and our current, former, and any future low-carbon projects. 
+ 
+ We based our forward-looking statements on our current expectations, estimates, and projections about ourselves, our industry, and the global economy and financial markets generally. We caution that these statements are not guarantees of future performance or results and involve known and unknown risks and uncertainties, the ultimate outcomes of which we cannot predict with certainty. In addition, we based many of these forward-looking statements on assumptions about future events, the ultimate outcomes of which we cannot predict with certainty and which may prove to be inaccurate. Accordingly, actual performance or results may differ materially from the future performance or results that we have expressed, suggested, or forecast in the forward-looking statements. Differences between actual performance or results and any future performance or results expressed, suggested, or forecast in these forward-looking statements could result from a variety of factors, including the following: 
+ 
+ • the effects arising out of global geopolitical and other conflicts and tensions, including with respect to changes in trade flows and impacts to crude oil and other markets; 
+ • demand for, and supplies of, refined petroleum products (such as gasoline, diesel, jet fuel, and petrochemicals), renewable diesel, and ethanol and corn related co-products; 
+ • demand for, and supplies of, crude oil and other feedstocks; 
+ • the effects of public health threats, pandemics, and epidemics, such as the COVID-19 pandemic and variants of the virus, governmental and societal responses thereto, and the adverse impacts of the foregoing on our business, financial condition, results of operations, and liquidity, and the global economy and financial markets generally; 
+ 
+ 
+ 
+ 40 
+ 
+ 
+ Table of Contents 
+ • acts of terrorism aimed at either our refineries and plants or third-party facilities that could impair our ability to produce or transport refined petroleum products, renewable diesel, ethanol, or corn related co-products, to receive feedstocks, or otherwise operate efficiently; 
+ • the effects of war or hostilities, and political and economic conditions, in countries that produce crude oil or other feedstocks or consume refined petroleum products, renewable diesel, ethanol or corn related co-products; 
+ • the ability of the members of OPEC, and other petroleum-producing nations that collectively make up OPEC+ , to agree on and to maintain crude oil price and production controls; 
+ • the level of consumer demand, consumption, and overall economic activity, including the effects from seasonal fluctuations and market prices; 
+ • refinery, renewable diesel plant, or ethanol plant overcapacity or undercapacity; 
+ • the risk that any transactions may not provide the anticipated benefits or may result in unforeseen detriments; 
+ • the actions taken by competitors, including both pricing and adjustments to refining capacity or renewable fuels production in response to market conditions; 
+ • the level of competitors’ imports into markets that we supply; 
+ • accidents, unscheduled shutdowns, weather events, civil unrest, expropriation of assets, and other economic, diplomatic, legislative, societal, or political events or developments, terrorism, cyberattacks, or other catastrophes or disruptions affecting our operations, production facilities, machinery, pipelines and other logistics assets, equipment, or information systems, or any of the foregoing of our suppliers, customers, or third-party service providers; 
+ • changes in the cost or availability of transportation or storage capacity for feedstocks and our products; 
+ • pressure and influence of environmental groups and other stakeholders upon policies and decisions related to the production, transportation, storage, refining, processing, marketing, and sales of crude oil or other feedstocks, refined petroleum products, renewable diesel, ethanol, or corn related co-products; 
+ • the price, availability, technology related to, and acceptance of alternative fuels and alternative-fuel vehicles, as well as sentiment and perceptions with respect to low-carbon projects and GHG emissions more generally; 
+ • the levels of government subsidies for, and executive orders, mandates, or other policies with respect to, alternative fuels, alternative-fuel vehicles, and other low-carbon technologies or initiatives, including those related to carbon capture, carbon sequestration, and low-carbon fuels, or affecting the price of natural gas and/or electricity; 
+ • the volatility in the market price of compliance credits (primarily RINs needed to comply with the RFS) under the Renewable and Low-Carbon Fuel Programs and emission credits needed under other environmental emissions programs; 
+ • delay of, cancellation of, or failure to implement planned capital or other strategic projects and realize the various assumptions and benefits projected for such projects or cost overruns in constructing such planned projects; 
+ • earthquakes, hurricanes, tornadoes, winter storms, droughts, floods, wildfires, and other weather events, which can unforeseeably affect the price or availability of electricity, natural gas, crude oil, waste and renewable feedstocks, corn, and other feedstocks, critical supplies, refined petroleum products, renewable diesel, and ethanol; 
+ • rulings, judgments, or settlements in litigation or other legal or regulatory matters, such as unexpected environmental remediation or enforcement costs, including those in excess of any reserves or insurance coverage; 
+ • legislative or regulatory action, including the introduction or enactment of legislation or rulemakings by government authorities, environmental regulations, changes to income tax rates, 
+ 
+ 
+ 
+ 41 
+ 
+ 
+ Table of Contents 
+ introduction of a global minimum tax, windfall taxes or penalties, tax changes or restrictions impacting the foreign repatriation of cash, actions implemented under SBx 1-2, actions implemented under the Renewable and Low-Carbon Fuel Programs and other environmental emissions programs, including changes to volume requirements or other obligations or exemptions under the RFS, and actions arising from the EPA’s or other government agencies’ regulations, policies, or initiatives concerning GHGs, including mandates for or bans of specific technology, which may adversely affect our business or operations; 
+ • changing economic, regulatory, and political environments and related events in the various countries in which we operate or otherwise do business, including trade restrictions, expropriation or impoundment of assets, failure of foreign governments and state-owned entities to honor their contracts, property disputes, economic instability, restrictions on the transfer of funds, duties and tariffs, transportation delays, import and export controls, labor unrest, security issues involving key personnel, and decisions, investigations, regulations, issuances or revocations of permits and other authorizations, and other actions, policies, and initiatives by the states, counties, cities, and other jurisdictions in the countries in which we operate or otherwise do business; 
+ • changes in the credit ratings assigned to our debt securities and trade credit; 
+ • the operating, financing, and distribution decisions of our joint ventures or other joint venture members that we do not control; 
+ • changes in currency exchange rates, including the value of the Canadian dollar, the pound sterling, the euro, the Mexican peso, and the Peruvian sol relative to the U.S. dollar; 
+ • the adequacy of capital resources and liquidity, including availability, timing, and amounts of cash flow or our ability to borrow or access financial markets; 
+ • the costs, disruption, and diversion of resources associated with lawsuits, demands, or investigations, or campaigns and negative publicity commenced by government authorities, investors, stakeholders, or other interested parties; 
+ • overall economic conditions, including the stability and liquidity of financial markets, and the effect thereof on consumer demand; and 
+ • other factors generally described in the “RISK FACTORS” section included in “ITEM 1A. RISK FACTORS” in this report. 
+ 
+ Any one of these factors, or a combination of these factors, could materially affect our future results of operations and whether any forward-looking statements ultimately prove to be accurate. Our forward-looking statements are not guarantees of future performance, and actual results and future performance may differ materially from those expressed, suggested, or forecast in any forward-looking statements. Such forward-looking statements speak only as of the date of this annual report on Form 10-K and we do not intend to update these statements unless we are required by applicable securities laws to do so. 
+ 
+ All subsequent written and oral forward-looking statements attributable to us or persons acting on our behalf are expressly qualified in their entirety by the foregoing, as it may be updated or modified by our future filings with the SEC. We undertake no obligation to publicly release any revisions to any such forward-looking statements that may be made to reflect events or circumstances after the date of this report or to reflect the occurrence of unanticipated events unless we are required by applicable securities laws to do so. 
+ 
+ 
+ 
+ 
+ 42 
+ 
+ 
+ 
+ Table of Contents 
+ NON-GAAP FINANCIAL MEASURES 
+ 
+ The discussions in “OVERVIEW AND OUTLOOK,” “RESULTS OF OPERATIONS,” and “LIQUIDITY AND CAPITAL RESOURCES” below include references to financial measures that are not defined under U.S. generally accepted accounting principles (GAAP). These non-GAAP financial measures include adjusted operating income (including adjusted operating income for each of our reportable segments, as applicable); Refining, Renewable Diesel, and Ethanol segment margin; and capital investments attributable to Valero. We have included these non-GAAP financial measures to help facilitate the comparison of operating results between years, to help assess our cash flows, and because we believe they provide useful information as discussed further below. See the tables in note (h) beginning on page 54 for reconciliations of adjusted operating income (including adjusted operating income for each of our reportable segments, as applicable) and Refining, Renewable Diesel, and Ethanol segment margin to their most directly comparable GAAP financial measures. Also in note (h), we disclose the reasons why we believe our use of such non-GAAP financial measures provides useful information. See the table on page 61 for a reconciliation of capital investments attributable to Valero to its most directly comparable GAAP financial measure. Also on page 61 , we disclose the reasons why we believe our use of this non-GAAP financial measure provides useful information. 
+ 
+ 
+ OVERVIEW AND OUTLOOK 
+ 
+ 
+ Overview 
+ Business Operations Update 
+ Our results for the year ended December 31, 2023 were favorably impacted by the continued strong worldwide demand for petroleum-based transportation fuels, while the worldwide supply of those products remained constrained. This global supply and demand imbalance contributed to strong refining margins for 2023. 
+ 
+ The strong demand for our products and continued strength in refining margins were the primary contributors to us reporting $8.8 billion of net income attributable to Valero stockholders for the year ended December 31, 2023. Our operating results for 2023, including operating results by segment, are described in the summary on the following page, and detailed descriptions can be found below under “RESULTS OF OPERATIONS” beginning on page 46 . 
+ 
+ Our operations generated $9.2 billion of cash in 2023. This cash was used to make $1.9 billion of capital investments in our business and return $6.6 billion to our stockholders through purchases of common stock for treasury and dividend payments. In addition, we reduced our outstanding debt through the purchase of $199 million of our public debt in 2023. As a result of this and other activity, our cash and cash equivalents increased by $562 million during 2023 to $5.4 billion as of December 31, 2023. We had $10.5 billion in liquidity as of December 31, 2023. The components of our liquidity and descriptions of our cash flows, capital investments, and other matters impacting our liquidity and capital resources can be found below under “LIQUIDITY AND CAPITAL RESOURCES” beginning on page 57 . 
+ 
+ 
+ 
+ 
+ 43 
+ 
+ 
+ Table of Contents 
+ Results for the Year Ended December 31, 2023 
+ For 2023, we reported net income attributable to Valero stockholders of $8.8 billion compared to $11.5 billion for 2022. The decrease of $2.7 billion was primarily due to a decrease in operating income of $3.8 billion, partially offset by an increase in “other income, net” of $323 million and a decrease in income tax expense of $809 million. The details of our operating income and adjusted operating income by segment, where applicable, and in total are reflected in the following table (in millions). Adjusted operating income excludes the adjustments reflected in the tables in note (h) beginning on page 54 . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ Change 
+ 
+ Refining segment: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating income 
+ 
+ $ 
+ 11,511 
+ 
+ 
+ $ 
+ 15,803 
+ 
+ 
+ $ 
+ (4,292) 
+ 
+ 
+ 
+ Adjusted operating income 
+ 
+ 11,528 
+ 
+ 
+ 15,762 
+ 
+ 
+ (4,234) 
+ 
+ 
+ Renewable Diesel segment: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating income 
+ 
+ 852 
+ 
+ 
+ 774 
+ 
+ 
+ 78 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ethanol segment: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating income 
+ 
+ 553 
+ 
+ 
+ 110 
+ 
+ 
+ 443 
+ 
+ 
+ 
+ Adjusted operating income 
+ 
+ 569 
+ 
+ 
+ 151 
+ 
+ 
+ 418 
+ 
+ 
+ Total company: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating income 
+ 
+ 11,858 
+ 
+ 
+ 15,690 
+ 
+ 
+ (3,832) 
+ 
+ 
+ 
+ Adjusted operating income 
+ 
+ 11,891 
+ 
+ 
+ 15,710 
+ 
+ 
+ (3,819) 
+ 
+ 
+ While our operating income decreased by $3.8 billion in 2023 compared to 2022, adjusted operating income also decreased by $3.8 billion primarily due to the following: 
+ 
+ • Refining segment. Refining segment adjusted operating income decreased by $4.2 billion primarily due to lower gasoline and distillate (primarily diesel) margins, partially offset by higher discounts on crude oils and other feedstocks and lower operating expenses (excluding depreciation and amortization expense). 
+ 
+ • Renewable Diesel segment. Renewable Diesel segment operating income increased by $78 million primarily due to lower feedstock costs and higher sales volumes, partially offset by lower product prices (primarily renewable diesel), higher operating expenses (excluding depreciation and amortization expense), and higher depreciation and amortization expense. 
+ • Ethanol segment. Ethanol segment adjusted operating income increased by $418 million primarily due to lower corn prices, higher production volumes, and lower operating expenses (excluding depreciation and amortization expense), partially offset by lower ethanol and corn related co-product prices. 
+ 
+ 
+ 
+ 44 
+ 
+ 
+ 
+ Table of Contents 
+ Outlook 
+ Many uncertainties remain with respect to the supply and demand imbalance in the petroleum-based products market worldwide. While it is difficult to predict future worldwide economic activity and its impact on product supply and demand, as well as any effect that the uncertainty described in Note 2 of Notes to Consolidated Financial Statements or other political or regulatory developments may have on us, we have noted several factors below that have impacted or may impact our results of operations during the first quarter of 2024. 
+ 
+ • Gasoline and diesel demand have returned to pre-pandemic levels and are expected to follow typical seasonal patterns. Jet fuel demand continues to improve and is approaching pre-pandemic levels in the U.S. 
+ 
+ • Combined light product (gasoline, diesel, and jet fuel) inventories in the U.S. and Europe remain below historical levels reflecting tight global petroleum product balances, which should support continued high utilization of refining capacity. 
+ 
+ • Crude oil discounts have widened, consistent with typical seasonal patterns and expected industry-wide refinery maintenance activity in the first quarter of 2024; however, continued sour crude oil production cuts by OPEC+ suppliers and the pending start-up of the Trans Mountain Pipeline expansion may dampen some of the seasonal effect. In addition, conflict in the Middle East, including impacts on shipping routes and freight costs, could result in increased volatility in the crude oil market and potentially impact crude oil discounts. 
+ 
+ • Renewable diesel demand is expected to remain consistent with current levels. 
+ 
+ • Ethanol demand is expected to follow typical seasonal patterns. 
+ 
+ 
+ 
+ 45 
+ 
+ 
+ 
+ Table of Contents 
+ RESULTS OF OPERATIONS 
+ 
+ The following tables, including the reconciliations of non-GAAP financial measures to their most directly comparable GAAP financial measures in note (h) beginning on page 54 , highlight our results of operations, our operating performance, and market reference prices that directly impact our operations. Note references in this section can be found on pages 53 through 56 . 
+ 
+ Financial Highlights by Segment and Total Company 
+ (millions of dollars) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 2023 
+ 
+ 
+ 
+ Refining 
+ 
+ Renewable Diesel 
+ 
+ Ethanol 
+ 
+ Corporate and Eliminations 
+ 
+ Total 
+ 
+ Revenues: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Revenues from external customers 
+ 
+ $ 
+ 136,470 
+ 
+ 
+ $ 
+ 3,823 
+ 
+ 
+ $ 
+ 4,473 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ 144,766 
+ 
+ 
+ Intersegment revenues 
+ 
+ 18 
+ 
+ 
+ 3,168 
+ 
+ 
+ 1,086 
+ 
+ 
+ (4,272) 
+ 
+ 
+ — 
+ 
+ 
+ Total revenues 
+ 
+ 136,488 
+ 
+ 
+ 6,991 
+ 
+ 
+ 5,559 
+ 
+ 
+ (4,272) 
+ 
+ 
+ 144,766 
+ 
+ 
+ Cost of sales: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of materials and other 
+ 
+ 117,401 
+ 
+ 
+ 5,550 
+ 
+ 
+ 4,395 
+ 
+ 
+ (4,259) 
+ 
+ 
+ 123,087 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating expenses (excluding depreciation and 
+ amortization expense reflected below) 
+ 
+ 5,208 
+ 
+ 
+ 358 
+ 
+ 
+ 515 
+ 
+ 
+ 8 
+ 
+ 
+ 6,089 
+ 
+ 
+ Depreciation and amortization expense 
+ 
+ 2,351 
+ 
+ 
+ 231 
+ 
+ 
+ 80 
+ 
+ 
+ (4) 
+ 
+ 
+ 2,658 
+ 
+ 
+ Total cost of sales 
+ 
+ 124,960 
+ 
+ 
+ 6,139 
+ 
+ 
+ 4,990 
+ 
+ 
+ (4,255) 
+ 
+ 
+ 131,834 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other operating expenses 
+ 
+ 17 
+ 
+ 
+ — 
+ 
+ 
+ 16 
+ 
+ 
+ — 
+ 
+ 
+ 33 
+ 
+ 
+ 
+ General and administrative expenses (excluding 
+ depreciation and amortization expense reflected 
+ below) 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ 998 
+ 
+ 
+ 998 
+ 
+ 
+ Depreciation and amortization expense 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ 43 
+ 
+ 
+ 43 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating income by segment 
+ 
+ $ 
+ 11,511 
+ 
+ 
+ $ 
+ 852 
+ 
+ 
+ $ 
+ 553 
+ 
+ 
+ $ 
+ (1,058) 
+ 
+ 
+ 11,858 
+ 
+ 
+ 
+ Other income, net (e) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 502 
+ 
+ 
+ 
+ Interest and debt expense, net of capitalized 
+ interest 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (592) 
+ 
+ 
+ 
+ Income before income tax expense 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 11,768 
+ 
+ 
+ 
+ Income tax expense 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2,619 
+ 
+ 
+ 
+ Net income 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 9,149 
+ 
+ 
+ 
+ Less: Net income attributable to noncontrolling 
+ interests 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 314 
+ 
+ 
+ 
+ Net income attributable to 
+ Valero Energy Corporation stockholders 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 8,835 
+ 
+ 
+ 
+ 
+ 
+ 46 
+ 
+ 
+ Table of Contents 
+ Financial Highlights by Segment and Total Company (continued) 
+ (millions of dollars) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 2022 
+ 
+ 
+ 
+ Refining 
+ 
+ Renewable Diesel 
+ 
+ Ethanol 
+ 
+ Corporate and Eliminations 
+ 
+ Total 
+ 
+ Revenues: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Revenues from external customers 
+ 
+ $ 
+ 168,154 
+ 
+ 
+ $ 
+ 3,483 
+ 
+ 
+ $ 
+ 4,746 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ 176,383 
+ 
+ 
+ 
+ Intersegment revenues 
+ 
+ 56 
+ 
+ 
+ 2,018 
+ 
+ 
+ 740 
+ 
+ 
+ (2,814) 
+ 
+ 
+ — 
+ 
+ 
+ 
+ Total revenues 
+ 
+ 168,210 
+ 
+ 
+ 5,501 
+ 
+ 
+ 5,486 
+ 
+ 
+ (2,814) 
+ 
+ 
+ 176,383 
+ 
+ 
+ Cost of sales: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of materials and other (a) 
+ 
+ 144,588 
+ 
+ 
+ 4,350 
+ 
+ 
+ 4,628 
+ 
+ 
+ (2,796) 
+ 
+ 
+ 150,770 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating expenses (excluding depreciation and 
+ amortization expense reflected below) 
+ 
+ 5,509 
+ 
+ 
+ 255 
+ 
+ 
+ 625 
+ 
+ 
+ — 
+ 
+ 
+ 6,389 
+ 
+ 
+ Depreciation and amortization expense (b) 
+ 
+ 2,247 
+ 
+ 
+ 122 
+ 
+ 
+ 59 
+ 
+ 
+ — 
+ 
+ 
+ 2,428 
+ 
+ 
+ 
+ Total cost of sales 
+ 
+ 152,344 
+ 
+ 
+ 4,727 
+ 
+ 
+ 5,312 
+ 
+ 
+ (2,796) 
+ 
+ 
+ 159,587 
+ 
+ 
+ Asset impairment loss (c) 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ 61 
+ 
+ 
+ — 
+ 
+ 
+ 61 
+ 
+ 
+ Other operating expenses 
+ 
+ 63 
+ 
+ 
+ — 
+ 
+ 
+ 3 
+ 
+ 
+ — 
+ 
+ 
+ 66 
+ 
+ 
+ 
+ General and administrative expenses (excluding 
+ depreciation and amortization expense reflected 
+ below) (d) 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ 934 
+ 
+ 
+ 934 
+ 
+ 
+ Depreciation and amortization expense 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ 45 
+ 
+ 
+ 45 
+ 
+ 
+ 
+ Operating income by segment 
+ 
+ $ 
+ 15,803 
+ 
+ 
+ $ 
+ 774 
+ 
+ 
+ $ 
+ 110 
+ 
+ 
+ $ 
+ (997) 
+ 
+ 
+ 15,690 
+ 
+ 
+ 
+ Other income, net (e) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 179 
+ 
+ 
+ 
+ Interest and debt expense, net of capitalized 
+ interest 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (562) 
+ 
+ 
+ 
+ Income before income tax expense 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 15,307 
+ 
+ 
+ 
+ Income tax expense (f) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3,428 
+ 
+ 
+ 
+ Net income 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 11,879 
+ 
+ 
+ 
+ Less: Net income attributable to noncontrolling 
+ interests 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 351 
+ 
+ 
+ 
+ Net income attributable to 
+ Valero Energy Corporation stockholders 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 11,528 
+ 
+ 
+ 
+ 
+ 
+ 47 
+ 
+ 
+ Table of Contents 
+ Average Market Reference Prices and Differentials 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ 
+ 
+ 
+ Refining 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Feedstocks (dollars per barrel) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Brent crude oil 
+ $ 
+ 82.27 
+ 
+ 
+ $ 
+ 98.86 
+ 
+ 
+ 
+ 
+ 
+ Brent less West Texas Intermediate (WTI) crude oil 
+ 4.60 
+ 
+ 
+ 4.43 
+ 
+ 
+ 
+ 
+ 
+ Brent less WTI Houston crude oil 
+ 3.15 
+ 
+ 
+ 2.82 
+ 
+ 
+ 
+ 
+ 
+ Brent less Dated Brent crude oil 
+ (0.44) 
+ 
+ 
+ (2.22) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Brent less Argus Sour Crude Index crude oil 
+ 5.34 
+ 
+ 
+ 7.42 
+ 
+ 
+ 
+ 
+ 
+ Brent less Maya crude oil 
+ 13.33 
+ 
+ 
+ 11.68 
+ 
+ 
+ 
+ 
+ 
+ Brent less Western Canadian Select Houston crude oil 
+ 12.15 
+ 
+ 
+ 15.55 
+ 
+ 
+ 
+ 
+ 
+ WTI crude oil 
+ 77.67 
+ 
+ 
+ 94.43 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Natural gas (dollars per million British thermal units) 
+ 2.23 
+ 
+ 
+ 5.83 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ RVO (dollars per barrel) (g) 
+ 7.02 
+ 
+ 
+ 7.72 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Product margins (RVO adjusted unless otherwise noted) 
+ (dollars per barrel) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ U.S. Gulf Coast: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CBOB gasoline less Brent 
+ 8.83 
+ 
+ 
+ 9.54 
+ 
+ 
+ 
+ 
+ 
+ Ultra-low-sulfur (ULS) diesel less Brent 
+ 25.06 
+ 
+ 
+ 38.73 
+ 
+ 
+ 
+ 
+ 
+ Propylene less Brent (not RVO adjusted) 
+ (47.47) 
+ 
+ 
+ (42.73) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ U.S. Mid-Continent: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CBOB gasoline less WTI 
+ 17.70 
+ 
+ 
+ 15.88 
+ 
+ 
+ 
+ 
+ 
+ ULS diesel less WTI 
+ 32.37 
+ 
+ 
+ 44.11 
+ 
+ 
+ 
+ 
+ 
+ North Atlantic: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CBOB gasoline less Brent 
+ 15.61 
+ 
+ 
+ 19.24 
+ 
+ 
+ 
+ 
+ 
+ ULS diesel less Brent 
+ 29.47 
+ 
+ 
+ 49.29 
+ 
+ 
+ 
+ 
+ 
+ U.S. West Coast: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CARBOB 87 gasoline less Brent 
+ 28.45 
+ 
+ 
+ 31.32 
+ 
+ 
+ 
+ 
+ 
+ CARB diesel less Brent 
+ 32.79 
+ 
+ 
+ 40.97 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 48 
+ 
+ 
+ Table of Contents 
+ Average Market Reference Prices and Differentials (continued) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ 
+ 
+ Renewable Diesel 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ New York Mercantile Exchange ULS diesel 
+ (dollars per gallon) 
+ $ 
+ 2.81 
+ 
+ 
+ $ 
+ 3.54 
+ 
+ 
+ 
+ 
+ Biodiesel RIN (dollars per RIN) 
+ 1.35 
+ 
+ 
+ 1.67 
+ 
+ 
+ 
+ 
+ California LCFS (dollars per metric ton) 
+ 72.42 
+ 
+ 
+ 98.73 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ U.S. Gulf Coast (USGC) used cooking oil (dollars per pound) 
+ 0.58 
+ 
+ 
+ 0.77 
+ 
+ 
+ 
+ 
+ USGC distillers corn oil (dollars per pound) 
+ 0.63 
+ 
+ 
+ 0.77 
+ 
+ 
+ 
+ 
+ USGC fancy bleachable tallow (dollars per pound) 
+ 0.59 
+ 
+ 
+ 0.75 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ethanol 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Chicago Board of Trade corn (dollars per bushel) 
+ 5.65 
+ 
+ 
+ 6.94 
+ 
+ 
+ 
+ 
+ New York Harbor ethanol (dollars per gallon) 
+ 2.34 
+ 
+ 
+ 2.57 
+ 
+ 
+ 
+ 
+ 
+ 2023 Compared to 2022 
+ Total Company, Corporate, and Other 
+ The following table includes selected financial data for the total company, corporate, and other for 2023 and 2022. The selected financial data is derived from the Financial Highlights by Segment and Total Company tables, unless otherwise noted. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ Change 
+ 
+ Revenues 
+ 
+ $ 
+ 144,766 
+ 
+ 
+ $ 
+ 176,383 
+ 
+ 
+ $ 
+ (31,617) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of sales (see notes (a) and (b)) 
+ 
+ 131,834 
+ 
+ 
+ 159,587 
+ 
+ 
+ (27,753) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating income 
+ 
+ 11,858 
+ 
+ 
+ 15,690 
+ 
+ 
+ (3,832) 
+ 
+ 
+ 
+ Adjusted operating income (see note (h)) 
+ 
+ 11,891 
+ 
+ 
+ 15,710 
+ 
+ 
+ (3,819) 
+ 
+ 
+ 
+ Other income, net (see note (e)) 
+ 
+ 502 
+ 
+ 
+ 179 
+ 
+ 
+ 323 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Income tax expense (see note (f)) 
+ 
+ 2,619 
+ 
+ 
+ 3,428 
+ 
+ 
+ (809) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Revenues decreased by $31.6 billion in 2023 compared to 2022 primarily due to decreases in product prices for the petroleum-based transportation fuels associated with sales made by our Refining segment. This decrease in revenues was partially offset by a decrease in cost of sales of $27.8 billion primarily due to decreases in crude oil and other feedstock costs. These changes resulted in a $3.8 billion decrease in operating income, from $15.7 billion in 2022 to $11.9 billion in 2023. 
+ 
+ Adjusted operating income also decreased by $3.8 billion, from $15.7 billion in 2022 to $11.9 billion in 2023. The components of this $3.8 billion decrease in adjusted operating income are discussed by segment in the segment analyses that follow. 
+ 
+ 
+ 
+ 
+ 49 
+ 
+ 
+ Table of Contents 
+ “Other income, net” increased by $323 million in 2023 compared to 2022 due to the items noted in the following table (in millions): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Interest income on cash 
+ 
+ $ 
+ 293 
+ 
+ 
+ $ 
+ 105 
+ 
+ 
+ $ 
+ 188 
+ 
+ 
+ Net gain from early retirement of debt (see note (e)) 
+ 
+ 11 
+ 
+ 
+ 14 
+ 
+ 
+ (3) 
+ 
+ 
+ Pension settlement charge (see note (e)) 
+ 
+ — 
+ 
+ 
+ (58) 
+ 
+ 
+ 58 
+ 
+ 
+ Equity income on joint ventures and other 
+ 
+ 198 
+ 
+ 
+ 118 
+ 
+ 
+ 80 
+ 
+ 
+ 
+ Other income, net 
+ 
+ $ 
+ 502 
+ 
+ 
+ $ 
+ 179 
+ 
+ 
+ $ 
+ 323 
+ 
+ 
+ Income tax expense decreased by $809 million in 2023 compared to 2022 primarily as a result of a decrease in income before income tax expense. 
+ 
+ Refining Segment Results 
+ The following table includes selected financial and operating data of our Refining segment for 2023 and 2022. The selected financial data is derived from the Financial Highlights by Segment and Total Company tables, unless otherwise noted. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ Change 
+ 
+ 
+ Operating income 
+ 
+ $ 
+ 11,511 
+ 
+ 
+ $ 
+ 15,803 
+ 
+ 
+ $ 
+ (4,292) 
+ 
+ 
+ 
+ Adjusted operating income (see note (h)) 
+ 
+ 11,528 
+ 
+ 
+ 15,762 
+ 
+ 
+ (4,234) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Refining margin (see note (h)) 
+ 
+ 19,087 
+ 
+ 
+ 23,518 
+ 
+ 
+ (4,431) 
+ 
+ 
+ 
+ Operating expenses (excluding depreciation and amortization 
+ expense reflected below) 
+ 
+ 5,208 
+ 
+ 
+ 5,509 
+ 
+ 
+ (301) 
+ 
+ 
+ Depreciation and amortization expense 
+ 
+ 2,351 
+ 
+ 
+ 2,247 
+ 
+ 
+ 104 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Throughput volumes (thousand BPD) (see note (i)) 
+ 
+ 2,979 
+ 
+ 
+ 2,953 
+ 
+ 
+ 26 
+ 
+ 
+ Refining segment operating income decreased by $4.3 billion in 2023 compared to 2022; however, Refining segment adjusted operating income, which excludes the adjustments in the table in note (h), decreased by $4.2 billion in 2023 compared to 2022. The components of this decrease in the adjusted results, along with the reasons for the changes in those components, are outlined below. 
+ 
+ • Refining segment margin decreased by $4.4 billion in 2023 compared to 2022. 
+ 
+ Refining segment margin is primarily affected by the prices for the petroleum-based transportation fuels that we sell and the cost of crude oil and other feedstocks that we process. The table on page 48 reflects market reference prices and differentials that we believe impacted our Refining segment margin in 2023 compared to 2022. 
+ The decrease in Refining segment margin was primarily due to the following: 
+ 
+ ◦ A decrease in distillate (primarily diesel) margins had an unfavorable impact of approximately $5.6 billion. 
+ 
+ 
+ 
+ 50 
+ 
+ 
+ Table of Contents 
+ ◦ A decrease in gasoline margins had an unfavorable impact of approximately $529 million. 
+ 
+ ◦ Higher discounts on crude oils had a favorable impact of approximately $1.1 billion. 
+ 
+ ◦ Higher discounts on other feedstocks had a favorable impact of approximately $438 million. 
+ 
+ • Refining segment operating expenses (excluding depreciation and amortization expense) decreased by $301 million primarily due to lower natural gas costs of $438 million, partially offset by increases in chemicals and catalyst costs of $96 million and certain employee compensation expenses of $39 million. 
+ 
+ Renewable Diesel Segment Results 
+ The following table includes selected financial and operating data of our Renewable Diesel segment for 2023 and 2022. The selected financial data is derived from the Financial Highlights by Segment and Total Company tables, unless otherwise noted. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ Change 
+ 
+ 
+ Operating income 
+ 
+ $ 
+ 852 
+ 
+ 
+ $ 
+ 774 
+ 
+ 
+ $ 
+ 78 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Renewable Diesel margin (see note (h)) 
+ 
+ 1,441 
+ 
+ 
+ 1,151 
+ 
+ 
+ 290 
+ 
+ 
+ 
+ Operating expenses (excluding depreciation and amortization 
+ expense reflected below) 
+ 
+ 358 
+ 
+ 
+ 255 
+ 
+ 
+ 103 
+ 
+ 
+ Depreciation and amortization expense 
+ 
+ 231 
+ 
+ 
+ 122 
+ 
+ 
+ 109 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sales volumes (thousand gallons per day) (see note (i)) 
+ 
+ 3,539 
+ 
+ 
+ 2,175 
+ 
+ 
+ 1,364 
+ 
+ 
+ Renewable Diesel segment operating income increased by $78 million in 2023 compared to 2022. The components of this increase, along with the reasons for the changes in those components, are outlined below. 
+ 
+ • Renewable Diesel segment margin increased by $290 million in 2023 compared to 2022. 
+ 
+ Renewable Diesel segment margin is primarily affected by the price for the renewable diesel that we sell and the cost of the feedstocks that we process. The table on page 49 reflects market reference prices that we believe impacted our Renewable Diesel segment margin in 2023 compared to 2022. 
+ The increase in Renewable Diesel segment margin was primarily due to the following: 
+ 
+ ◦ A decrease in the cost of the feedstocks that we process had a favorable impact of approximately $1.9 billion. 
+ 
+ ◦ An increase in sales volumes of 1.4 million gallons per day had a favorable impact of approximately $724 million. The increase in sales volumes was primarily due to 
+ 
+ 
+ 
+ 51 
+ 
+ 
+ Table of Contents 
+ additional production resulting from the completion of the new DGD Port Arthur Plant that commenced operations in the fourth quarter of 2022. 
+ ◦ A decrease in product prices, primarily renewable diesel, had an unfavorable impact of approximately $2.3 billion. 
+ 
+ • Renewable Diesel segment operating expenses (excluding depreciation and amortization expense) increased by $103 million primarily due to increased costs resulting from the new DGD Port Arthur Plant that commenced operations in the fourth quarter of 2022. 
+ 
+ • Renewable Diesel segment depreciation and amortization expense increased by $109 million primarily due to depreciation expense associated with the new DGD Port Arthur Plant that commenced operations in the fourth quarter of 2022. 
+ 
+ Ethanol Segment Results 
+ The following table includes selected financial and operating data of our Ethanol segment for 2023 and 2022. The selected financial data is derived from the Financial Highlights by Segment and Total Company tables, unless otherwise noted. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ Change 
+ 
+ 
+ Operating income 
+ 
+ $ 
+ 553 
+ 
+ 
+ $ 
+ 110 
+ 
+ 
+ $ 
+ 443 
+ 
+ 
+ 
+ Adjusted operating income (see note (h)) 
+ 
+ 569 
+ 
+ 
+ 151 
+ 
+ 
+ 418 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ethanol margin (see note (h)) 
+ 
+ 1,164 
+ 
+ 
+ 858 
+ 
+ 
+ 306 
+ 
+ 
+ 
+ Operating expenses (excluding depreciation and amortization 
+ expense reflected below) 
+ 
+ 515 
+ 
+ 
+ 625 
+ 
+ 
+ (110) 
+ 
+ 
+ 
+ Depreciation and amortization expense (see note (b)) 
+ 
+ 80 
+ 
+ 
+ 59 
+ 
+ 
+ 21 
+ 
+ 
+ 
+ Asset impairment loss (see note (c)) 
+ 
+ — 
+ 
+ 
+ 61 
+ 
+ 
+ (61) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Production volumes (thousand gallons per day) (see note (i)) 
+ 
+ 4,367 
+ 
+ 
+ 3,866 
+ 
+ 
+ 501 
+ 
+ 
+ Ethanol segment operating income increased by $443 million in 2023 compared to 2022; however, Ethanol segment adjusted operating income, which excludes the adjustments in the table in note (h), increased by $418 million in 2023 compared to 2022. The components of this increase in the adjusted results, along with the reasons for the changes in these components, are outlined below. 
+ 
+ • Ethanol segment margin increased by $306 million in 2023 compared to 2022. 
+ 
+ Ethanol segment margin is primarily affected by prices for the ethanol and corn related co-products that we sell and the cost of corn that we process. The table on page 49 reflects market reference prices that we believe impacted our Ethanol segment margin in 2023 compared to 2022. 
+ 
+ The increase in Ethanol segment margin was primarily due to the following: 
+ 
+ ◦ Lower corn prices had a favorable impact of approximately $618 million. 
+ 
+ 
+ 
+ 
+ 52 
+ 
+ 
+ Table of Contents 
+ ◦ An increase in production volumes of 501,000 gallons per day had a favorable impact of approximately $150 million. 
+ ◦ Lower ethanol prices had an unfavorable impact of approximately $337 million. 
+ 
+ ◦ Lower prices for the corn related co-products that we produce, primarily DDGs and inedible distillers corn oils, had an unfavorable impact of approximately $129 million. 
+ 
+ • Ethanol segment operating expenses (excluding depreciation and amortization expense) decreased by $110 million primarily due to lower natural gas costs. 
+ 
+ 
+ ________________________ 
+ The following notes relate to references on pages 46 through 52 . 
+ 
+ (a) Under the RFS program, the EPA is required to set annual quotas for the volume of renewable fuels that obligated parties, such as us, must blend into petroleum-based transportation fuels consumed in the U.S. The quotas are used to determine an obligated party’s RVO. The EPA released a final rule on June 3, 2022 that, among other things, modified the volume standards for 2020 and, for the first time, established volume standards for 2021 and 2022. 
+ 
+ In 2020, we recognized the cost of the RVO using the 2020 quotas set by the EPA at that time, and in 2021 and the three months ended March 31, 2022, we recognized the cost of the RVO using our estimates of the quotas. As a result of the final rule released by the EPA as noted above, we recognized a benefit of $104 million in the year ended December 31, 2022 primarily related to the modification of the 2020 quotas. 
+ 
+ (b) Depreciation and amortization expense for the year ended December 31, 2022 includes a gain of $23 million on the sale of our ethanol plant located in Jefferson, Wisconsin (Jefferson ethanol plant). 
+ 
+ (c) Our ethanol plant located in Lakota, Iowa (Lakota ethanol plant) was previously configured to produce USP-grade ethanol, a higher grade ethanol suitable for hand sanitizer blending that has a higher market value than fuel-grade ethanol. During 2022, demand for USP-grade ethanol declined and had a negative impact on the profitability of the plant. As a result, we tested the recoverability of the carrying value of the Lakota ethanol plant and concluded that it was impaired. Therefore, we reduced the carrying value of the plant to its estimated fair value and recognized an asset impairment loss of $61 million in the year ended December 31, 2022. 
+ (d) General and administrative expenses (excluding depreciation and amortization expense) for the year ended December 31, 2022 includes a charge of $20 million for an environmental reserve adjustment associated with a non-operating site. 
+ 
+ (e) “Other income, net” includes the following: 
+ 
+ ◦ a net gain of $11 million in the year ended December 31, 2023 related to the early retirement of $199 million aggregate principal amount of various series of our senior notes; 
+ 
+ ◦ a net gain of $14 million in the year ended December 31, 2022 related to the early retirement of approximately $3.1 billion aggregate principal amount of various series of our senior notes; and 
+ 
+ ◦ a pension settlement charge of $58 million in the year ended December 31, 2022 resulting from a greater number of employees that retired in 2022 who elected lump sum benefit payments from our defined benefit pension plans than estimated. 
+ 
+ (f) Income tax expense for the year ended December 31, 2022 includes deferred income tax expense of $51 million associated with the recognition of a deferred tax liability for foreign withholding tax on the repatriation of cash 
+ 
+ 
+ 
+ 53 
+ 
+ 
+ Table of Contents 
+ held by one of our international subsidiaries that we considered no longer permanently reinvested in our operations in that country. 
+ 
+ (g) The RVO cost represents the average market cost on a per barrel basis to comply with the RFS program. The RVO cost is calculated by multiplying (i) the average market price during the applicable period for the RINs associated with each class of renewable fuel (i.e., biomass-based diesel, cellulosic biofuel, advanced biofuel, and total renewable fuel) by (ii) the quotas for the volume of each class of renewable fuel that must be blended into petroleum-based transportation fuels consumed in the U.S., as set or proposed by the EPA, on a percentage basis for each class of renewable fuel and adding together the results of each calculation. 
+ 
+ (h) We use certain financial measures (as noted below) that are not defined under GAAP and are considered to be non-GAAP financial measures. 
+ 
+ We have defined these non-GAAP measures and believe they are useful to the external users of our financial statements, including industry analysts, investors, lenders, and rating agencies. We believe these measures are useful to assess our ongoing financial performance because, when reconciled to their most comparable GAAP measures, they provide improved comparability between periods after adjusting for certain items that we believe are not indicative of our core operating performance and that may obscure our underlying business results and trends. These non-GAAP measures should not be considered as alternatives to their most comparable GAAP measures nor should they be considered in isolation or as a substitute for an analysis of our results of operations as reported under GAAP. In addition, these non-GAAP measures may not be comparable to similarly titled measures used by other companies because we may define them differently, which diminishes their utility. 
+ 
+ Non-GAAP financial measures are as follows (in millions): 
+ 
+ • Refining margin is defined as Refining segment operating income excluding the modification of RVO adjustment, operating expenses (excluding depreciation and amortization expense), depreciation and amortization expense, and other operating expenses, as reflected in the table below. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ 
+ 
+ 
+ 
+ 2023 
+ 
+ 
+ 
+ 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reconciliation of Refining operating income 
+ to Refining margin 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Refining operating income 
+ 
+ $ 
+ 11,511 
+ 
+ 
+ 
+ 
+ $ 
+ 15,803 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Adjustments: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Modification of RVO (see note (a)) 
+ 
+ — 
+ 
+ 
+ 
+ 
+ (104) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating expenses (excluding depreciation and 
+ amortization expense) 
+ 
+ 5,208 
+ 
+ 
+ 
+ 
+ 5,509 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Depreciation and amortization expense 
+ 
+ 2,351 
+ 
+ 
+ 
+ 
+ 2,247 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other operating expenses 
+ 
+ 17 
+ 
+ 
+ 
+ 
+ 63 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Refining margin 
+ 
+ $ 
+ 19,087 
+ 
+ 
+ 
+ 
+ $ 
+ 23,518 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 54 
+ 
+ 
+ Table of Contents 
+ • Renewable Diesel margin is defined as Renewable Diesel segment operating income excluding operating expenses (excluding depreciation and amortization expense) and depreciation and amortization expense, as reflected in the table below. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ 
+ 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ 
+ Reconciliation of Renewable Diesel operating income 
+ to Renewable Diesel margin 
+ 
+ 
+ 
+ 
+ 
+ 
+ Renewable Diesel operating income 
+ 
+ $ 
+ 852 
+ 
+ 
+ $ 
+ 774 
+ 
+ 
+ Adjustments: 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating expenses (excluding depreciation and 
+ amortization expense) 
+ 
+ 358 
+ 
+ 
+ 255 
+ 
+ 
+ Depreciation and amortization expense 
+ 
+ 231 
+ 
+ 
+ 122 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Renewable Diesel margin 
+ 
+ $ 
+ 1,441 
+ 
+ 
+ $ 
+ 1,151 
+ 
+ 
+ • Ethanol margin is defined as Ethanol segment operating income excluding operating expenses (excluding depreciation and amortization expense), depreciation and amortization expense, the asset impairment loss, and other operating expenses, as reflected in the table below. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ 
+ 
+ 
+ 
+ 2023 
+ 
+ 
+ 
+ 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reconciliation of Ethanol operating income 
+ to Ethanol margin 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ethanol operating income 
+ 
+ $ 
+ 553 
+ 
+ 
+ 
+ 
+ $ 
+ 110 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Adjustments: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating expenses (excluding depreciation and 
+ amortization expense) 
+ 
+ 515 
+ 
+ 
+ 
+ 
+ 625 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Depreciation and amortization expense (see note (b)) 
+ 
+ 80 
+ 
+ 
+ 
+ 
+ 59 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Asset impairment loss (see note (c)) 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 61 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other operating expenses 
+ 
+ 16 
+ 
+ 
+ 
+ 
+ 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ethanol margin 
+ 
+ $ 
+ 1,164 
+ 
+ 
+ 
+ 
+ $ 
+ 858 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ • Adjusted Refining operating income is defined as Refining segment operating income excluding the modification of RVO adjustment and other operating expenses, as reflected in the table below. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ 
+ Reconciliation of Refining operating income 
+ to adjusted Refining operating income 
+ 
+ 
+ 
+ 
+ 
+ 
+ Refining operating income 
+ 
+ $ 
+ 11,511 
+ 
+ 
+ $ 
+ 15,803 
+ 
+ 
+ Adjustments: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Modification of RVO (see note (a)) 
+ 
+ — 
+ 
+ 
+ (104) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other operating expenses 
+ 
+ 17 
+ 
+ 
+ 63 
+ 
+ 
+ 
+ Adjusted Refining operating income 
+ 
+ $ 
+ 11,528 
+ 
+ 
+ $ 
+ 15,762 
+ 
+ 
+ 
+ 
+ 
+ 55 
+ 
+ 
+ Table of Contents 
+ • Adjusted Ethanol operating income is defined as Ethanol segment operating income excluding the gain on sale of ethanol plant, the asset impairment loss, and other operating expenses, as reflected in the table below. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ 
+ Reconciliation of Ethanol operating income 
+ to adjusted Ethanol operating income 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ethanol operating income 
+ 
+ $ 
+ 553 
+ 
+ 
+ $ 
+ 110 
+ 
+ 
+ Adjustments: 
+ 
+ 
+ 
+ 
+ 
+ 
+ Gain on sale of ethanol plant (see note (b)) 
+ 
+ — 
+ 
+ 
+ (23) 
+ 
+ 
+ 
+ Asset impairment loss (see note (c)) 
+ 
+ — 
+ 
+ 
+ 61 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other operating expenses 
+ 
+ 16 
+ 
+ 
+ 3 
+ 
+ 
+ 
+ Adjusted Ethanol operating income 
+ 
+ $ 
+ 569 
+ 
+ 
+ $ 
+ 151 
+ 
+ 
+ • Adjusted operating income is defined as total company operating income excluding the modification of RVO adjustment, the gain on sale of ethanol plant, the asset impairment loss, the environmental reserve adjustment, and other operating expenses, as reflected in the table below. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ 
+ Reconciliation of total company operating income 
+ to adjusted operating income 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total company operating income 
+ 
+ $ 
+ 11,858 
+ 
+ 
+ $ 
+ 15,690 
+ 
+ 
+ Adjustments: 
+ 
+ 
+ 
+ 
+ 
+ 
+ Modification of RVO (see note (a)) 
+ 
+ — 
+ 
+ 
+ (104) 
+ 
+ 
+ 
+ Gain on sale of ethanol plant (see note (b)) 
+ 
+ — 
+ 
+ 
+ (23) 
+ 
+ 
+ 
+ Asset impairment loss (see note (c)) 
+ 
+ — 
+ 
+ 
+ 61 
+ 
+ 
+ 
+ Environmental reserve adjustment (see note (d)) 
+ 
+ — 
+ 
+ 
+ 20 
+ 
+ 
+ Other operating expenses 
+ 
+ 33 
+ 
+ 
+ 66 
+ 
+ 
+ 
+ Adjusted operating income 
+ 
+ $ 
+ 11,891 
+ 
+ 
+ $ 
+ 15,710 
+ 
+ 
+ (i) We use throughput volumes, sales volumes, and production volumes for the Refining segment, Renewable Diesel segment, and Ethanol segment, respectively, due to their general use by others who operate facilities similar to those included in our segments. 
+ 
+ 
+ 
+ 
+ 56 
+ 
+ 
+ 
+ Table of Contents 
+ LIQUIDITY AND CAPITAL RESOURCES 
+ 
+ Our Liquidity 
+ Our liquidity consisted of the following as of December 31, 2023 (in millions): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Available capacity from our committed facilities (a): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Valero Revolver 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 3,996 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Accounts receivable sales facility 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,300 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total available capacity 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5,296 
+ 
+ 
+ Cash and cash equivalents (b) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5,164 
+ 
+ 
+ 
+ Total liquidity 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 10,460 
+ 
+ _______________________ 
+ (a) Excludes the committed facilities of the consolidated VIEs. 
+ (b) Excludes $260 million of cash and cash equivalents related to the consolidated VIEs that is for their use only. 
+ 
+ Information about our outstanding borrowings, letters of credit issued, and availability under our credit facilities is reflected in Note 9 of Notes to Consolidated Financial Statements. 
+ 
+ Our debt and financing agreements do not have rating agency triggers that would automatically require us to post additional collateral. However, in the event of certain downgrades of our senior unsecured debt by the ratings agencies, the cost of borrowings under some of our bank credit facilities and other arrangements may increase. As of December 31, 2023, all of our ratings on our senior unsecured debt, including debt guaranteed by us, were at or above investment grade level as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Rating Agency 
+ 
+ Rating 
+ 
+ Moody’s Investors Service 
+ 
+ Baa2 (stable outlook) 
+ 
+ Standard & Poor’s Ratings Services 
+ 
+ BBB (stable outlook) 
+ 
+ Fitch Ratings 
+ 
+ BBB (stable outlook) 
+ 
+ We cannot provide assurance that these ratings will remain in effect for any given period of time or that one or more of these ratings will not be lowered or withdrawn entirely by a rating agency. We note that these credit ratings are not recommendations to buy, sell, or hold our securities. Each rating should be evaluated independently of any other rating. Any future reduction below investment grade or withdrawal of one or more of our credit ratings could have a material adverse impact on our ability to obtain short- and long-term financing and the cost of such financings. 
+ 
+ We believe we have sufficient funds from operations and from available capacity under our credit facilities to fund our ongoing operating requirements and other commitments over the next 12 months and thereafter for the foreseeable future. We expect that, to the extent necessary, we can raise additional cash through equity or debt financings in the public and private capital markets or the arrangement of additional credit facilities. However, there can be no assurances regarding the availability of any future financings or additional credit facilities or whether such financings or additional credit facilities can be made available on terms that are acceptable to us. 
+ 
+ 
+ 
+ 
+ 57 
+ 
+ 
+ Table of Contents 
+ Cash Flows 
+ Components of our cash flows are set forth below (in millions): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ 
+ 
+ Cash flows provided by (used in): 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating activities 
+ $ 
+ 9,229 
+ 
+ 
+ $ 
+ 12,574 
+ 
+ 
+ 
+ 
+ Investing activities 
+ (1,865) 
+ 
+ 
+ (2,805) 
+ 
+ 
+ 
+ 
+ Financing activities: 
+ 
+ 
+ 
+ 
+ 
+ 
+ Debt issuance and borrowings 
+ 2,420 
+ 
+ 
+ 3,153 
+ 
+ 
+ 
+ 
+ 
+ Repayments of debt and finance lease obligations 
+ (including premiums paid on early retirement of debt) 
+ (2,687) 
+ 
+ 
+ (6,019) 
+ 
+ 
+ 
+ 
+ Return to stockholders: 
+ 
+ 
+ 
+ 
+ 
+ 
+ Purchases of common stock for treasury 
+ (5,136) 
+ 
+ 
+ (4,577) 
+ 
+ 
+ 
+ 
+ Common stock dividend payments 
+ (1,452) 
+ 
+ 
+ (1,562) 
+ 
+ 
+ 
+ 
+ Return to stockholders 
+ (6,588) 
+ 
+ 
+ (6,139) 
+ 
+ 
+ 
+ 
+ Other financing activities 
+ (86) 
+ 
+ 
+ 156 
+ 
+ 
+ 
+ 
+ Financing activities 
+ (6,941) 
+ 
+ 
+ (8,849) 
+ 
+ 
+ 
+ 
+ Effect of foreign exchange rate changes on cash 
+ 139 
+ 
+ 
+ (180) 
+ 
+ 
+ 
+ 
+ Net increase in cash and cash equivalents 
+ $ 
+ 562 
+ 
+ 
+ $ 
+ 740 
+ 
+ 
+ 
+ 
+ Cash Flows for the Year Ended December 31, 2023 
+ In 2023, we used the $9.2 billion of cash generated by our operations and the $2.4 billion in debt borrowings to make $1.9 billion of investments in our business, repay $2.7 billion of debt and finance lease obligations (including premiums paid on the early retirement of debt), return $6.6 billion to our stockholders through purchases of our common stock for treasury and dividend payments, and increase our available cash on hand by $562 million. The debt borrowings and repayments are described in Note 9 of Notes to Consolidated Financial Statements. 
+ 
+ As previously noted, our operations generated $9.2 billion of cash in 2023, driven primarily by net income of $9.1 billion and noncash charges to income of $2.4 billion, partially offset by an unfavorable change in working capital of $2.3 billion. Noncash charges primarily included $2.7 billion of depreciation and amortization expense and $103 million of deferred income tax expense. Details regarding the components of the change in working capital, along with the reasons for the changes in those components, are described in Note 18 of Notes to Consolidated Financial Statements. In addition, see “RESULTS OF OPERATIONS” for an analysis of the significant components of our net income. 
+ 
+ Our investing activities primarily consisted of $1.9 billion in capital investments, as defined below under “Capital Investments,” of which $294 million related to capital investments made by DGD. 
+ 
+ Cash Flows for the Year Ended December 31, 2022 
+ In 2022, we used the $12.6 billion of cash generated by our operations and the $3.2 billion from the debt issuance and borrowings to make $2.8 billion of investments in our business, repay $6.0 billion of debt and finance lease obligations (including premiums paid on the early retirement of debt), return $6.1 billion to our stockholders through purchases of our common stock for treasury and dividend payments, and increase our available cash on hand by $740 million. The debt issuance, borrowings, and repayments are described in Note 9 of Notes to Consolidated Financial Statements. 
+ 
+ 
+ 
+ 58 
+ 
+ 
+ Table of Contents 
+ As previously noted, our operations generated $12.6 billion of cash in 2022, driven primarily by net income of $11.9 billion and noncash charges to income of $2.3 billion, partially offset by an unfavorable change in working capital of $1.6 billion. Noncash charges primarily included $2.5 billion of depreciation and amortization expense, $50 million of deferred income tax expense, and a $61 million asset impairment loss associated with our Lakota ethanol plant, as described in Note 6 of Notes to Consolidated Financial Statements. Details regarding the components of the change in working capital, along with the reasons for the changes in those components, are described in Note 18 of Notes to Consolidated Financial Statements. In addition, see “RESULTS OF OPERATIONS” for an analysis of the significant components of our net income. 
+ 
+ Our investing activities of $2.8 billion primarily consisted of $2.7 billion in capital investments, of which $879 million related to capital investments made by DGD. 
+ 
+ Our Capital Resources 
+ Our material cash requirements as of December 31, 2023 primarily consist of working capital requirements, capital investments, contractual obligations, and other matters, as described below. Our operations have historically generated positive cash flows to fulfill our working capital requirements and other uses of cash as discussed below. 
+ 
+ Capital Investments 
+ Capital investments are comprised of our capital expenditures, deferred turnaround and catalyst cost expenditures, and investments in nonconsolidated joint ventures, as reflected in our statements of cash flows as shown on page 76 . Capital investments exclude acquisitions, if any. 
+ 
+ We also identify our capital investments by the nature of the project with which the expenditure is associated as follows: 
+ 
+ • Sustaining capital investments are generally associated with projects that are expected to extend the lives of our property assets, sustain their operating capabilities and safety (including deferred turnaround and catalyst cost expenditures), or comply with regulatory requirements. Regulatory compliance capital investments are generally associated with projects that are incurred to comply with government regulatory requirements, such as requirements to reduce emissions and prohibited elements from our products. 
+ 
+ • Growth capital investments , including low-carbon growth capital investments that support the development and growth of our low-carbon renewable diesel and ethanol businesses, are generally associated with projects for the construction of new property assets that are expected to enhance our profitability and cash-generating capabilities, including investments in nonconsolidated joint ventures. 
+ 
+ We have developed an extensive multi-year capital investment program, which we update and revise based on changing internal and external factors. The following table reflects our expected capital investments for the year ending December 31, 2024 by nature of the project and reportable segment, along with historical amounts for the years ended December 31, 2023 and 2022 (in millions). The following table also reflects capital investments attributable to Valero, which is a non-GAAP measure 
+ 
+ 
+ 
+ 59 
+ 
+ 
+ Table of Contents 
+ that we define and reconcile to capital investments below under “Capital Investments Attributable to Valero.” 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ending December 31, 2024 (a) 
+ 
+ Year Ended December 31, 
+ 
+ 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ Capital investments by nature of the project (b): 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sustaining capital investments 
+ $ 
+ 1,620 
+ 
+ 
+ $ 
+ 1,486 
+ 
+ 
+ $ 
+ 1,368 
+ 
+ 
+ Growth capital investments: 
+ 
+ 
+ 
+ 
+ 
+ 
+ Low-carbon growth capital investments 
+ 345 
+ 
+ 
+ 237 
+ 
+ 
+ 836 
+ 
+ 
+ Other growth capital investments 
+ 200 
+ 
+ 
+ 193 
+ 
+ 
+ 534 
+ 
+ 
+ Total growth capital investments 
+ 545 
+ 
+ 
+ 430 
+ 
+ 
+ 1,370 
+ 
+ 
+ Total capital investments 
+ $ 
+ 2,165 
+ 
+ 
+ $ 
+ 1,916 
+ 
+ 
+ $ 
+ 2,738 
+ 
+ 
+ Capital investments by segment: 
+ 
+ 
+ 
+ 
+ 
+ 
+ Refining 
+ $ 
+ 1,605 
+ 
+ 
+ $ 
+ 1,488 
+ 
+ 
+ $ 
+ 1,764 
+ 
+ 
+ Renewable Diesel 
+ 430 
+ 
+ 
+ 294 
+ 
+ 
+ 879 
+ 
+ 
+ Ethanol 
+ 60 
+ 
+ 
+ 43 
+ 
+ 
+ 22 
+ 
+ 
+ Corporate 
+ 70 
+ 
+ 
+ 91 
+ 
+ 
+ 73 
+ 
+ 
+ Total capital investments 
+ 2,165 
+ 
+ 
+ 1,916 
+ 
+ 
+ 2,738 
+ 
+ 
+ Adjustments: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Renewable Diesel capital investments attributable 
+ to the other joint venture member in DGD 
+ (215) 
+ 
+ 
+ (147) 
+ 
+ 
+ (439) 
+ 
+ 
+ Capital expenditures of other VIEs 
+ — 
+ 
+ 
+ (11) 
+ 
+ 
+ (40) 
+ 
+ 
+ Capital investments attributable to Valero 
+ $ 
+ 1,950 
+ 
+ 
+ $ 
+ 1,758 
+ 
+ 
+ $ 
+ 2,259 
+ 
+ ________________________ 
+ (a) All expected amounts for the year ending December 31, 2024 exclude capital expenditures that the consolidated VIEs (other than DGD) may incur because we do not operate those VIEs. 
+ (b) Capital investments attributable to Valero by nature of the project are as follows (in millions): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ending December 31, 2024 
+ 
+ Year Ended December 31, 
+ 
+ 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ Sustaining capital investments 
+ $ 
+ 1,565 
+ 
+ 
+ $ 
+ 1,449 
+ 
+ 
+ $ 
+ 1,340 
+ 
+ 
+ Growth capital investments: 
+ 
+ 
+ 
+ 
+ 
+ 
+ Low-carbon growth capital investments 
+ 185 
+ 
+ 
+ 126 
+ 
+ 
+ 422 
+ 
+ 
+ Other growth capital investments 
+ 200 
+ 
+ 
+ 183 
+ 
+ 
+ 497 
+ 
+ 
+ Total growth capital investments 
+ 385 
+ 
+ 
+ 309 
+ 
+ 
+ 919 
+ 
+ 
+ Capital investments attributable to Valero 
+ $ 
+ 1,950 
+ 
+ 
+ $ 
+ 1,758 
+ 
+ 
+ $ 
+ 2,259 
+ 
+ 
+ We have publicly announced GHG emissions reduction/displacement targets and a long-term ambition. We believe that our allocation of growth capital into low-carbon projects to date has been consistent with such targets and ambition. Certain low-carbon projects have been completed or are already in execution and the associated capital investments are included in our expected capital investments for 2024. Our capital investments in future years to achieve these targets and ambition are expected to include investments associated with certain low-carbon projects currently at various stages of progress, evaluation, or approval. See “ITEMS 1. and 2. BUSINESS AND PROPERTIES—OUR COMPREHENSIVE LIQUID FUELS STRATEGY— Our Low-Carbon Projects ” for a description of our low-carbon projects. 
+ 
+ 
+ 
+ 60 
+ 
+ 
+ Table of Contents 
+ Capital Investments Attributable to Valero 
+ Capital investments attributable to Valero is a non-GAAP financial measure that reflects our net share of capital investments and is defined as all capital expenditures, deferred turnaround and catalyst cost expenditures, and investments in nonconsolidated joint ventures, excluding the portion of DGD’s capital investments attributable to the other joint venture member and all of the capital expenditures of other consolidated VIEs. 
+ 
+ We are a 50 percent joint venture member in DGD and consolidate its financial statements, and DGD’s operations compose our Renewable Diesel segment. As a result, all of DGD’s net cash provided by operating activities (or operating cash flow) is included in our consolidated net cash provided by operating activities. DGD’s members use DGD’s operating cash flow (excluding changes in its current assets and current liabilities) to fund its capital investments rather than distribute all of that cash to themselves. Because DGD’s operating cash flow is effectively attributable to each member, only 50 percent of DGD’s capital investments should be attributed to our net share of capital investments. We also exclude all of the capital expenditures of other VIEs that we consolidate because we do not operate those VIEs. See Note 12 of Notes to Consolidated Financial Statements for more information about the VIEs that we consolidate. We believe capital investments attributable to Valero is an important measure because it more accurately reflects our capital investments. 
+ 
+ Capital investments attributable to Valero should not be considered as an alternative to capital investments, which is the most comparable GAAP measure, nor should it be considered in isolation or as a substitute for an analysis of our cash flows as reported under GAAP. In addition, this non-GAAP measure may not be comparable to similarly titled measures used by other companies because we may define it differently, which may diminish its utility. 
+ 
+ The following table (in millions) reconciles our capital investments to capital investments attributable to Valero for the years ended December 31, 2023 and 2022. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ 
+ 
+ 
+ 
+ Reconciliation of capital investments 
+ to capital investments attributable to Valero 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Capital expenditures (excluding VIEs) 
+ $ 
+ 665 
+ 
+ 
+ $ 
+ 788 
+ 
+ 
+ 
+ 
+ 
+ Capital expenditures of VIEs: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DGD 
+ 235 
+ 
+ 
+ 853 
+ 
+ 
+ 
+ 
+ 
+ Other VIEs 
+ 11 
+ 
+ 
+ 40 
+ 
+ 
+ 
+ 
+ 
+ 
+ Deferred turnaround and catalyst cost expenditures 
+ (excluding VIEs) 
+ 946 
+ 
+ 
+ 1,030 
+ 
+ 
+ 
+ 
+ 
+ 
+ Deferred turnaround and catalyst cost expenditures 
+ of DGD 
+ 59 
+ 
+ 
+ 26 
+ 
+ 
+ 
+ 
+ 
+ Investments in nonconsolidated joint ventures 
+ — 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 
+ 
+ Capital investments 
+ 1,916 
+ 
+ 
+ 2,738 
+ 
+ 
+ 
+ 
+ 
+ Adjustments: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DGD’s capital investments attributable to our joint 
+ venture member 
+ (147) 
+ 
+ 
+ (439) 
+ 
+ 
+ 
+ 
+ 
+ Capital expenditures of other VIEs 
+ (11) 
+ 
+ 
+ (40) 
+ 
+ 
+ 
+ 
+ 
+ Capital investments attributable to Valero 
+ $ 
+ 1,758 
+ 
+ 
+ $ 
+ 2,259 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 61 
+ 
+ 
+ Table of Contents 
+ Contractual Obligations 
+ Below is a summary of our contractual obligations (in millions) as of December 31, 2023 that are expected to be paid within the next year and thereafter. These obligations are reflected in our balance sheets, except (i) the interest payments related to debt obligations, operating lease liabilities, and finance lease obligations and (ii) purchase obligations. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Payments Due by Period 
+ 
+ 
+ 
+ 
+ Short-Term 
+ 
+ Long-Term 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ Debt obligations (a) 
+ $ 
+ 1,197 
+ 
+ 
+ $ 
+ 8,098 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 9,295 
+ 
+ 
+ Interest payments related to debt obligations (b) 
+ 478 
+ 
+ 
+ 4,873 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5,351 
+ 
+ 
+ Operating lease liabilities (c) 
+ 398 
+ 
+ 
+ 1,002 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,400 
+ 
+ 
+ Finance lease obligations (c) 
+ 312 
+ 
+ 
+ 3,026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3,338 
+ 
+ 
+ Other long-term liabilities (d) 
+ — 
+ 
+ 
+ 1,510 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,510 
+ 
+ 
+ Purchase obligations (e) 
+ 17,852 
+ 
+ 
+ 9,554 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 27,406 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ________________________ 
+ (a) Debt obligations and a maturity analysis of our debt are described in Note 9 of Notes to Consolidated Financial Statements. Debt obligations exclude amounts related to net unamortized debt issuance costs and other. 
+ (b) Interest payments related to debt obligations are the expected payments based on information available as of December 31, 2023. 
+ (c) Operating lease liabilities, finance lease obligations, and maturity analyses of remaining minimum lease payments are described in Note 5 of Notes to Consolidated Financial Statements. Operating lease liabilities and finance lease obligations reflected in this table include related interest expense. 
+ (d) Other long-term liabilities are described in Note 8 of Notes to Consolidated Financial Statements. Other long-term liabilities exclude amounts related to the long-term portion of operating lease liabilities that are separately presented above. 
+ (e) Purchase obligations are described in Note 10 of Notes to Consolidated Financial Statements. Purchase obligations are based on (i) fixed or minimum quantities to be purchased and (ii) fixed or estimated prices to be paid based on current market conditions. 
+ 
+ The amount outstanding associated with the IEnova Revolver, as defined and described in Note 9 of Notes to Consolidated Financial Statements, is reflected in current portion of debt and finance lease obligations in our balance sheet as of December 31, 2023, and also included in the table above in debt obligations – short-term. The IEnova Revolver is subject to repayment on demand; however, we do not expect the lender to demand repayment during the next 12 months. Thus, the final cash flows for this instrument cannot be predicted with certainty at this time. 
+ 
+ In 2023, we used cash on hand to purchase and retire $199 million of our public debt. We will continue to evaluate further deleveraging opportunities. 
+ We previously announced our participation in Navigator’s proposed large-scale carbon capture and sequestration pipeline system in the Mid-Continent region of the U.S. In October 2023, Navigator announced that it decided to cancel this project. Under the terms of agreements associated with the project, we may have some rights from and obligations to Navigator, including a portion of the aggregate project costs to date, but we do not expect such obligation will be material. 
+ We have not entered into any transactions, agreements, or other contractual arrangements that would result in off-balance sheet liabilities. 
+ 
+ 
+ 
+ 
+ 62 
+ 
+ 
+ Table of Contents 
+ Other Matters Impacting Liquidity and Capital Resources 
+ Stock Purchase Programs 
+ During the year ended December 31, 2023, we purchased for treasury 39,717,265 of our shares for a total cost of $5.2 billion. As of December 31, 2023, we had $2.2 billion remaining available for purchase under the September 2023 Program. On February 22, 2024, our Board authorized us to purchase shares of our outstanding common stock for a total cost of up to $2.5 billion with no expiration date, which is in addition to the amount remaining under the September 2023 Program. We will continue to evaluate the timing of purchases when appropriate. We have no obligation to make purchases under these programs. 
+ 
+ Pension Plan Funding 
+ We plan to contribute $113 million to our pension plans and $22 million to our other postretirement benefit plans during 2024. See Note 13 of Notes to Consolidated Financial Statements for a discussion of our employee benefit plans. 
+ 
+ Cash Held by Our Foreign Subsidiaries 
+ As of December 31, 2023, $4.3 billion of our cash and cash equivalents was held by our foreign subsidiaries. Cash held by our foreign subsidiaries can be repatriated to us through dividends without any U.S. federal income tax consequences, but certain other taxes may apply, including, but not limited to, withholding taxes imposed by certain foreign jurisdictions, U.S. state income taxes, and U.S. federal income tax on foreign exchange gains. Therefore, there is a cost to repatriate cash held by certain of our foreign subsidiaries to us. 
+ 
+ Environmental Matters 
+ Our operations are subject to extensive environmental regulations by government authorities relating to, among other matters, the discharge of materials into the environment, climate, waste management, pollution prevention measures, GHG and other emissions, our facilities and operations, and characteristics and composition of many of our products. Because environmental laws and regulations are becoming more complex and stringent and new environmental laws and regulations are continuously being enacted or proposed, the level of future costs and expenditures required for environmental matters could increase. See Note 8 of Notes to Consolidated Financial Statements for disclosure of our environmental liabilities. In addition, see Note 1 of Notes to Consolidated Financial Statements regarding our accounting for these liabilities under “Environmental Matters.” See also “ITEMS 1. and 2. BUSINESS AND PROPERTIES—GOVERNMENT REGULATIONS” and the items incorporated by reference therein. 
+ 
+ Concentration of Customers 
+ Our operations have a concentration of customers in the refining industry and customers who are refined petroleum product wholesalers and retailers. These concentrations of customers may impact our overall exposure to credit risk, either positively or negatively, in that these customers may be similarly affected by changes in economic or other conditions, including the uncertainties concerning worldwide events causing volatility in the global crude oil markets. However, we believe that our portfolio of accounts receivable is sufficiently diversified to the extent necessary to minimize potential credit risk. Historically, we have not had any significant problems collecting our accounts receivable. See also “ITEM 1A. RISK FACTORS—Legal, Government, and Regulatory Risks— We are subject to risks arising from legal, political, and regulatory developments regarding climate, GHG emissions, and the environment.” 
+ 
+ 
+ 
+ 
+ 63 
+ 
+ 
+ 
+ Table of Contents 
+ CRITICAL ACCOUNTING ESTIMATES 
+ 
+ The preparation of financial statements in accordance with GAAP requires us to make estimates and assumptions that affect the amounts reported in the financial statements and accompanying notes. Actual results could differ from those estimates. The following summary provides further information about our critical accounting policies that involve critical accounting estimates, and should be read in conjunction with Note 1 of Notes to Consolidated Financial Statements, which summarizes our significant accounting policies. The following accounting policies involve estimates that are considered critical due to the level of subjectivity and judgment involved, as well as the impact on our financial position and results of operations. We believe that all of our estimates are reasonable. Unless otherwise noted, estimates of the sensitivity to earnings that would result from changes in the assumptions used in determining our estimates is not practicable due to the number of assumptions and contingencies involved, and the wide range of possible outcomes. 
+ 
+ Unrecognized Tax Benefits 
+ We take tax positions in our tax returns from time to time that ultimately may not be allowed by the relevant taxing authorities. When we take such positions, we evaluate the likelihood of sustaining those positions and determine the amount of tax benefit arising from such positions, if any, that should be recognized in our financial statements. Tax benefits not recognized by us are recorded as a liability for unrecognized tax benefits, which represents our potential future obligation to various taxing authorities if the tax positions are not sustained. 
+ 
+ The evaluation of tax positions and the determination of the benefit arising from such positions that are recognized in our financial statements requires us to make significant judgments and estimates based on an analysis of complex tax laws and regulations and related interpretations. These judgments and estimates are subject to change due to many factors, including the progress of ongoing tax audits, case law, and changes in legislation. 
+ 
+ Details of our changes in unrecognized tax benefits, along with other information about our unrecognized tax benefits, are included in Note 15 of Notes to Consolidated Financial Statements. 
+ 
+ Impairment of Long-Lived Assets 
+ Long-lived assets (primarily property, plant, and equipment) are tested for recoverability whenever events or changes in circumstances indicate that the carrying amount of the asset may not be recoverable. A long-lived asset is not recoverable if its carrying amount exceeds the sum of the undiscounted cash flows expected to result from its use and eventual disposition. If a long-lived asset is not recoverable, an impairment loss is recognized for the amount by which the carrying amount of the long-lived asset exceeds its fair value, with fair value determined based on discounted estimated net cash flows or other appropriate methods. 
+ 
+ In order to test for recoverability, we must make estimates of projected cash flows related to the asset being evaluated. Such estimates include, but are not limited to, assumptions about future sales volumes, commodity prices, operating costs, margins, the use or disposition of the asset, the asset’s estimated remaining useful life, and future expenditures necessary to maintain the asset’s existing service potential in light of existing and expected regulations. Due to the significant subjectivity of the assumptions used to test for recoverability, changes in market conditions could result in significant impairment charges in the future, thus affecting our earnings. 
+ 
+ 
+ 
+ 
+ 64 
+ 
+ 
+ Table of Contents 
+ New environmental and tax laws and regulations, as well as changes to existing laws and regulations, are continuously being enacted or proposed. The implementation of future legislative and regulatory initiatives (such as those discussed in ITEM 1A. RISK FACTORS) that may adversely affect our operations could indicate that the carrying value of an asset may not be recoverable and result in an impairment loss that could be material. If the circumstances that trigger an impairment also result in a reduction in the estimated useful life of the asset, then we may also be required to recognize an asset retirement obligation for that asset. 
+ 
+ 

@@ -1,0 +1,2416 @@
+ ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations 
+ 
+ Overview 
+ Ubiquiti Networks develops high performance networking technology for service providers and enterprises. Our technology platforms focus on delivering highly-advanced and easily deployable solutions that appeal to a global customer base in underserved and underpenetrated markets. Our differentiated business model has enabled us to break down traditional barriers such as high product and network deployment costs and offer solutions with disruptive price-performance characteristics. This differentiated business model, combined with our innovative proprietary technologies, has resulted in an attractive alternative 
+ 
+ 
+ 32 
+ 
+ Table of Contents 
+ 
+ to traditional high touch, high cost providers, allowing us to advance the market adoption of our platforms for ubiquitous connectivity. 
+ We offer a broad and expanding portfolio of networking products and solutions for service providers and enterprises. Our service provider product platforms provide carrier-class network infrastructure for fixed wireless broadband, wireless backhaul systems and routing. Our enterprise product platforms provide wireless LAN infrastructure, video surveillance products, switching and routing solutions and machine-to-machine communication components. We believe that our products are highly differentiated due to our proprietary software protocol innovation, firmware expertise, and hardware design capabilities. This differentiation allows our portfolio to meet the demanding performance requirements of video, voice and data applications at prices that are a fraction of those offered by our competitors. 
+ As a core part of our strategy, we have developed a differentiated business model for marketing and selling high volumes of carrier and enterprise-class communications platforms. Our business model is driven by a large, growing and highly engaged community of service providers, distributors, value added resellers, systems integrators and corporate IT professionals, which we refer to as the Ubiquiti Community. The Ubiquiti Community is a critical element of our business strategy as it enables us to drive: 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Rapid customer and community driven product development. We have an active, loyal community built from our customers that we believe is a sustainable competitive advantage. Our solutions benefit from the active engagement between the Ubiquiti Community and our development engineers throughout the product development cycle, which eliminates long and expensive multistep internal processes and results in rapid introduction and adoption of our products. This approach significantly reduces our development costs and time to market. 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Scalable sales and marketing model. We do not currently have, nor do we plan to hire, a direct sales force, but instead utilize the Ubiquiti Community to drive market awareness and demand for our products and solutions. This community-propagated viral marketing enables us to reach underserved and underpenetrated markets far more efficiently and cost-effectively than is possible through traditional sales models. Leveraging the information transparency of the Internet allows customers to research, evaluate and validate our solutions with the Ubiquiti Community and via third party web sites. This allows us to operate a scalable sales and marketing model and effectively create awareness of our brand and products. Word of mouth referrals from the Ubiquiti Community generate high quality leads for our distributors at relatively little cost. 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Self-sustaining product support. The engaged members of the Ubiquiti Community have enabled us to foster a large, cost efficient, highly-scalable and, we believe, self-sustaining mechanism for rapid product support and dissemination of information. 
+ By reducing the cost of development, sales, marketing and support we are able to eliminate traditional business model inefficiencies and offer innovative solutions with disruptive price performance characteristics to our customers. 
+ 
+ Key Components of Our Results of Operations and Financial Condition 
+ Revenues 
+ Our revenues are derived principally from the sale of networking hardware and management tools. In addition, while we do not sell maintenance and support separately, because we have historically included it free of charge in many of our arrangements, we attribute a portion of our systems revenues to this implied post-contract customer support (“PCS”). 
+ We classify our revenues into two primary product categories, Service Provider Technology and Enterprise Technology. 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Service Provider Technology includes our airMAX, EdgeMAX and airFiber platforms, as well as embedded radio products and other 802.11 standard products including base stations, radios, backhaul equipment and Customer Premise Equipment (“CPE”). Additionally, Service Provider Technology includes antennas and other products in the 0.9 to 6.0GHz spectrum and miscellaneous products such as mounting brackets, cables and power over Ethernet adapters. Service Provider Technology also includes solar products (sales of which have not been material to date) and revenues that are attributable to PCS. 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Enterprise Technology includes our UniFi and mFi platforms, including UniFi enterprise Wi-Fi products, Unifi Video products, and Unifi switching and routing solutions. Enterprise Technology also includes revenues that are attributable to PCS. 
+ 
+ 
+ 33 
+ 
+ Table of Contents 
+ 
+ We sell our products and solutions globally to service providers and enterprises primarily through our extensive network of distributors, and, to a lesser extent, direct customers. Sales to distributors accounted for 99% of our revenues in the year ended June 30, 2016 . Other channel partners, such as resellers, largely accounted for the balance of our revenues. 
+ Cost of Revenues 
+ Our cost of revenues is comprised primarily of the costs of procuring finished goods from our contract manufacturers and chipsets that we consign to certain of our contract manufacturers. In addition, cost of revenues includes tooling, labor and other costs associated with engineering, testing and quality assurance, warranty costs, stock-based compensation, logistics related fees and excess and obsolete inventory. 
+ In addition to utilizing contract manufacturers, we outsource most of our logistics warehousing and order fulfillment functions, which are located primarily in China, and to a lesser extent, Taiwan and United States. We also evaluate and utilize other vendors for various portions of our supply chain from time to time. Our operations organization consists of employees and consultants engaged in the management of our contract manufacturers, new product introduction activities, logistical support and engineering. 
+ Gross Profit 
+ Our gross profit has been, and may in the future be, influenced by several factors including changes in product mix, target end markets for our products, pricing due to competitive pressure, production costs and global demand for electronic components. Although we procure and sell our products in U.S. dollars, our contract manufacturers incur many costs, including labor costs, in other currencies. To the extent that the exchange rates move unfavorably for our contract manufacturers, they may try to pass these additional costs on to us, which could have a material impact on our future average selling prices and unit costs. 
+ Operating Expenses 
+ We classify our operating expenses as research and development, sales, general and administrative expenses and expense related to the business email compromise fraud loss. 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Research and development expenses consist primarily of salary and benefit expenses, including stock-based compensation, for employees and costs for contractors engaged in research, design and development activities, as well as costs for prototypes, licensed or purchased intellectual property, facilities and travel. Over time, we expect our research and development costs to increase as we continue making significant investments in developing new products in addition to new versions of our existing products. 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Sales, general and administrative expenses include salary and benefit expenses, including stock-based compensation, for employees and costs for contractors engaged in sales, marketing and general and administrative activities, as well as the costs of legal expenses, trade shows, marketing programs, promotional materials, bad debt expense, professional services, facilities, general liability insurance and travel. As our product portfolio and targeted markets expand, we may need to employ different sales models, such as building a direct sales force. These sales models would likely increase our costs. Over time, we expect our sales, general and administrative expenses to increase in absolute dollars due to continued growth in headcount, expansion of our efforts to register and defend trademarks and patents and to support our business and operations. 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Business e-mail compromise fraud (recovery)loss - In June 2015, we determined that we were the victim of criminal fraud known to law enforcement authorities as business e-mail compromise fraud which involved employee impersonation and fraudulent requests targeting our finance department. The fraud resulted in transfers of funds aggregating $46.7 million held by a Company subsidiary incorporated in Hong Kong to other overseas accounts held by third parties, of which we recovered $8.1 million in fiscal 2015. As a result, we recorded a charge of $39.1 million in the fourth quarter of 2015, including additional expenses consisting of professional service fees associated with the fraud loss. In fiscal 2016 , the Company recorded a net recovery of an additional $8.3 million, comprised of an $8.6 million recovery less $0.3 million of professional service fees associated with the recovery. The Company is continuing to pursue the recovery of the remaining $30.0 million and is cooperating with U.S. federal and numerous overseas law enforcement authorities who are actively pursuing a multi-agency criminal investigation. However, any additional recoveries are likely remote and, therefore, cannot be assured. 
+ 
+ 
+ 34 
+ 
+ Table of Contents 
+ 
+ Deferred Revenues 
+ We recognize revenues when persuasive evidence of an arrangement exists, delivery has occurred, the sales price is fixed or determinable and the collectability of the resulting receivable is reasonably assured. In cases where we lack evidence that all of these criteria have been met, we defer recognition of revenue. Included in our deferred revenues is a portion related to PCS obligations that we estimate we will perform in the future. As of June 30, 2016 and 2015 , we had deferred revenues of $4.2 million and $3.5 million , respectively, related to these obligations. 
+ 
+ Critical Accounting Policies 
+ We prepare our consolidated financial statements in accordance with accounting principles generally accepted in the United States of America (“GAAP”). In many cases, the accounting treatment of a particular transaction is specifically dictated by GAAP and does not require management’s judgment in its application. In other cases, management’s judgment is required in selecting among available alternative accounting standards that provide for different accounting treatment for similar transactions. The preparation of consolidated financial statements also requires us to make estimates and assumptions that affect the amounts we report as assets, liabilities, revenues, costs and expenses and affect the related disclosures. We base our estimates on historical experience and other assumptions that we believe are reasonable under the circumstances. In many instances, we could reasonably use different accounting estimates, and in some instances changes in the accounting estimates are reasonably likely to occur from period to period. Accordingly, our actual results could differ significantly from the estimates made by our management. To the extent that there are differences between our estimates and actual results, our future financial statement presentation, financial condition, results of operations and cash flows will be affected. We believe that the accounting policies discussed below are critical to understanding our historical and future performance, as these policies relate to the more significant areas involving management’s judgments and estimates. 
+ Recognition of Revenues 
+ Revenues consist primarily of revenues from the sale of hardware and management tools, as well as the related implied PCS. We recognize revenues when persuasive evidence of an arrangement exists, delivery has occurred, the sales price is fixed or determinable and the collectability of the resulting receivable is reasonably assured. In cases where we lack evidence that collectability of the resulting receivable is reasonably assured, we defer recognition of revenue until the receipt of cash. 
+ For our sales, evidence of the arrangement consists of an order from a customer. We consider delivery to have occurred once our products have been shipped and title and risk of loss have been transferred. For our sales, these criteria are met at the time the products are transferred to the customer's shipping agent. Our arrangements with customers do not include provisions for cancellation, returns, inventory swaps or refunds that materially impact recognized revenues. 
+ We record amounts billed to distributors for shipping and handling costs as revenues. We classify shipping and handling costs incurred by us as cost of revenues. Deposit payments received from distributors in advance of recognition of revenues are included in current liabilities on our balance sheet and are recognized as revenues when all the criteria for recognition of revenues are met. 
+ Our multi-element arrangements generally include two deliverables. The first deliverable is the hardware and software essential to the functionality of the hardware device delivered at the time of sale. The second deliverable is the implied right to PCS included with the purchase of certain products. PCS is the right to receive, on a when and if available basis, future unspecified software upgrades and features relating to the product’s essential software as well as bug fixes, email and telephone support. 
+ We use a hierarchy to determine the allocation of revenues to the deliverables. The hierarchy is as follows: (i) vendor-specific objective evidence of fair value (“VSOE”), (ii) third-party evidence of selling price (“TPE”), and (iii) best estimate of the selling price (“BESP”). 
+ 
+ 
+ 
+ 
+ 
+ 
+ (i) 
+ 
+ VSOE generally exists only when a company sells the deliverable separately and is the price actually charged by the company for that deliverable. Generally we do not sell the deliverables separately and, as such, do not have VSOE. 
+ 
+ 
+ 
+ 
+ 
+ 
+ (ii) 
+ 
+ TPE can be substantiated by determining the price that other parties sell similar or substantially similar offerings. We do not believe that there is accessible TPE evidence for similar deliverables. 
+ 
+ 
+ 
+ 
+ 
+ 
+ (iii) 
+ 
+ BESP reflects our best estimates of what the selling prices of elements would be if they were sold regularly on a stand-alone basis. We believe that BESP is the most appropriate methodology for determining the allocation of revenues among the multiple elements. 
+ We have allocated revenues between these two deliverables using the relative selling price method which is based on the BESP for all deliverables. Revenues allocated to the delivered hardware and the related essential software are recognized at the time of sale provided the other conditions for recognition of revenues have been met. Revenues allocated to the PCS are deferred 
+ 
+ 
+ 35 
+ 
+ Table of Contents 
+ 
+ and recognized on a straight-line basis over the estimated period for which services will be delivered to support each of these devices which, currently, is two years. All costs of revenues, including estimated warranty costs, are recognized at the time of sale. Costs for research and development and sales and marketing are expensed as incurred. If the estimated life of the hardware product should change, the future rate of amortization of the revenues allocated to PCS would also change. 
+ Our process for determining BESP for deliverables involves multiple factors that may vary depending upon the unique facts and circumstances related to each deliverable. For PCS, we believe our network operators and service providers would be reluctant to pay for such services separately. This view is primarily based on the fact that unspecified upgrade rights do not obligate us to provide upgrades at a particular time or at all, and do not specify to network operators and service providers which upgrades or features will be delivered. We believe that the relatively low prices of our products and our network operators, and service providers’ price sensitivity would add to their reluctance to pay for PCS. Therefore, we have concluded that if we were to sell PCS on a stand-alone basis, the selling price would be relatively low. 
+ Key factors considered by us in developing the BESP for PCS include reviewing the activities of specific employees engaged in support and software development to determine the amount of time that is allocated to the development of the undelivered elements, determining the cost of this development effort, and then adding an appropriate level of gross profit to these costs. 
+ Inventory and Inventory Valuation 
+ Our inventories are primarily finished goods and, to a lesser extent, raw materials. Our inventories are stated at the lower of actual cost (computed on a first-in, first-out basis), or market value. Market value is based upon an estimated average selling price reduced by the estimated costs of disposal. The determination of market value involves numerous judgments including estimating average selling prices based upon recent sales, industry trends, existing customer orders, and seasonal factors. Should actual market conditions differ from our estimates, our future results of operations could be materially affected. We reduce the value of our inventory for estimated obsolescence or lack of marketability by the difference between the cost of the affected inventory and the estimated market value. Write-downs are not reversed until the related inventory has been subsequently sold or scrapped. 
+ The valuation of inventory also requires us to estimate excess and obsolete inventory. The determination of excess or obsolete inventory is estimated based on a comparison of the quantity and cost of inventory on hand to our forecast of customer demand. Customer demand is dependent on many factors and requires us to use significant judgment in our forecasting process. We also make assumptions regarding the rate at which new products will be accepted in the marketplace and at which customers will transition from older products to newer products. If actual market conditions are less favorable than those projected by management, additional inventory write-downs may be required, which would have a negative impact on our gross margin. If we ultimately sell inventory that we have previously written down, our gross margins in future periods will be positively impacted. 
+ 
+ Product Warranties 
+ We offer warranties on certain products and record a liability for the estimated future costs associated with potential warranty claims. These warranty costs are reflected in our consolidated statement of operations and comprehensive income within cost of revenues. Our warranties are in effect for 12 months from the date of purchase. Our estimates of future warranty costs are largely based on historical experience of product failure rates, material usage and service delivery costs incurred in correcting product failures. Our operating results could be materially and adversely affected if future warranty claims exceed historical experiences and we are not able to recover costs from our contract manufacturers. In the future, we may introduce certain products with longer warranty periods. 
+ Allowance for Doubtful Accounts 
+ We record an allowance for doubtful accounts for estimated probable losses on uncollectible accounts receivable. In estimating the allowance, management considers, among other factors, the aging of the accounts receivable, our historical write offs, the credit worthiness of each distributor based on payment history and general economic conditions. 
+ Income Taxes 
+ We account for income taxes by recognizing deferred tax assets and liabilities for the expected future tax consequences of events that have been included in our financial statements or tax returns. Deferred tax assets and liabilities are determined based on the temporary difference between the financial statement carrying amounts of existing assets and liabilities and their respective tax bases. Deferred tax assets and liabilities are measured using enacted tax rates expected to apply to taxable income in the years in which those temporary differences are expected to be recovered or settled. We establish valuation 
+ 
+ 
+ 36 
+ 
+ Table of Contents 
+ 
+ allowances when necessary to reduce deferred tax assets to the amount we expect to realize. The assessment of whether or not a valuation allowance is required often requires significant judgment including current operating results, the forecast of future taxable income and ongoing prudent and feasible tax planning initiatives. 
+ In addition, our calculation of our tax liabilities involves dealing with uncertainties in the application of complex tax regulations. We may be subject to income tax audits in each of the jurisdictions in which we operate and, as a result, must also assess exposures to any potential issues arising from current or future audits of current and prior years’ tax returns. Accordingly, we must assess such potential exposures and, where necessary, provide a reserve to cover any expected loss. To the extent that we establish a reserve, our provision for income taxes would be increased. We review our potential liabilities periodically and, if necessary, record an additional charge in our provision for taxes in the period in which we determine that tax liability is greater than our original estimate. If we ultimately determine that payment of these amounts is unnecessary, we reverse the liability and recognize a tax benefit during the period in which we determine that the liability is no longer necessary. 
+ Stock-based Compensation 
+ We record stock-based awards at fair value as of the grant date and recognize expense, net of forfeitures, ratably on a straight-line basis over the requisite service period, which is generally the vesting term of the awards. We estimate the fair value of stock option awards on the grant date using the Black-Scholes option pricing model. The determination of the fair value of a stock-based award on the date of grant using the Black-Scholes option-pricing model is affected by our stock price on the date of grant as well as assumptions regarding a number of complex and subjective variables. These variables include our expected stock price volatility over the expected term of the award, actual and projected employee stock option exercise behaviors, the risk-free interest rate for the expected term of the award and expected dividends. Restricted stock units are valued based on the fair value of our common stock on the date of grant. Since our initial public offering on October 14, 2011, the fair value of our common stock is determined using the closing market price of our common stock as of the date of grant. 
+ 
+ Results of Operations 
+ Comparison of Years Ended June 30, 2016 and 2015 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended June 30, 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 
+ (In thousands, except percentages) 
+ 
+ 
+ Revenues 
+ 
+ $ 
+ 
+ 666,395 
+ 
+ 
+ 
+ 
+ 
+ 100 
+ 
+ % 
+ 
+ 
+ 
+ $ 
+ 
+ 595,947 
+ 
+ 
+ 
+ 
+ 
+ 100 
+ 
+ % 
+ 
+ 
+ Cost of revenues (1)(2) 
+ 
+ 341,600 
+ 
+ 
+ 
+ 
+ 
+ 51 
+ 
+ % 
+ 
+ 
+ 
+ 333,760 
+ 
+ 
+ 
+ 
+ 
+ 56 
+ 
+ % 
+ 
+ 
+ Gross profit 
+ 
+ 324,795 
+ 
+ 
+ 
+ 
+ 
+ 49 
+ 
+ % 
+ 
+ 
+ 
+ 262,187 
+ 
+ 
+ 
+ 
+ 
+ 44 
+ 
+ % 
+ 
+ 
+ Operating expenses: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Research and development (1) 
+ 
+ 57,765 
+ 
+ 
+ 
+ 
+ 
+ 9 
+ 
+ % 
+ 
+ 
+ 
+ 54,565 
+ 
+ 
+ 
+ 
+ 
+ 9 
+ 
+ % 
+ 
+ 
+ Sales, general and administrative (1) 
+ 
+ 33,269 
+ 
+ 
+ 
+ 
+ 
+ 5 
+ 
+ % 
+ 
+ 
+ 
+ 21,607 
+ 
+ 
+ 
+ 
+ 
+ 4 
+ 
+ % 
+ 
+ 
+ Business e-mail compromise ("BEC") fraud (recovery) loss 
+ 
+ (8,294 
+ 
+ ) 
+ 
+ 
+ 
+ (1 
+ 
+ )% 
+ 
+ 
+ 
+ 39,137 
+ 
+ 
+ 
+ 
+ 
+ 6 
+ 
+ % 
+ 
+ 
+ Total operating expenses 
+ 
+ 82,740 
+ 
+ 
+ 
+ 
+ 
+ 13 
+ 
+ % 
+ 
+ 
+ 
+ 115,309 
+ 
+ 
+ 
+ 
+ 
+ 19 
+ 
+ % 
+ 
+ 
+ Income from operations 
+ 
+ 242,055 
+ 
+ 
+ 
+ 
+ 
+ 36 
+ 
+ % 
+ 
+ 
+ 
+ 146,878 
+ 
+ 
+ 
+ 
+ 
+ 25 
+ 
+ % 
+ 
+ 
+ Interest expense and other, net 
+ 
+ (2,115 
+ 
+ ) 
+ 
+ 
+ 
+ * 
+ 
+ 
+ 
+ 
+ 
+ (1,130 
+ 
+ ) 
+ 
+ 
+ 
+ * 
+ 
+ 
+ 
+ 
+ Income before provision for income taxes 
+ 
+ 239,940 
+ 
+ 
+ 
+ 
+ 
+ 36 
+ 
+ % 
+ 
+ 
+ 
+ 145,748 
+ 
+ 
+ 
+ 
+ 
+ 24 
+ 
+ % 
+ 
+ 
+ Provision for income taxes 
+ 
+ 26,324 
+ 
+ 
+ 
+ 
+ 
+ 4 
+ 
+ % 
+ 
+ 
+ 
+ 16,085 
+ 
+ 
+ 
+ 
+ 
+ 3 
+ 
+ % 
+ 
+ 
+ Net income and comprehensive income 
+ 
+ $ 
+ 
+ 213,616 
+ 
+ 
+ 
+ 
+ 
+ 32 
+ 
+ % 
+ 
+ 
+ 
+ $ 
+ 
+ 129,663 
+ 
+ 
+ 
+ 
+ 
+ 21 
+ 
+ % 
+ 
+ 
+ * Less than 1% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) Includes stock-based compensation as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of revenues 
+ 
+ $ 
+ 
+ 448 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 601 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Research and development 
+ 
+ 2,296 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2,854 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sales, general and administrative 
+ 
+ 975 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,537 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total stock-based compensation 
+ 
+ $ 
+ 
+ 3,719 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 4,992 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (2) Includes purchase commitment termination fee 
+ 
+ $ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 5,500 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 37 
+ 
+ Table of Contents 
+ 
+ Revenues 
+ Revenues increased $70.4 million , or 12% , from $595.9 million in fiscal 2015 to $666.4 million in fiscal 2016 . The increase in revenues during fiscal 2016 was driven by increased adoption of our enterprise technologies products which represented 37% of our total revenue in fiscal 2016 . Service provider products revenue were flat year over year and represented 63% of our total revenue in fiscal 2016 . 
+ 
+ No distributor or customer represented more than 10% of our revenues in fiscal 2016 or fiscal 2015 . 
+ 
+ Revenues by Product Type 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended June 30, 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 
+ (in thousands, except percentages) 
+ 
+ 
+ Service Provider Technology 
+ 
+ $ 
+ 
+ 418,346 
+ 
+ 
+ 
+ 
+ 
+ 63 
+ 
+ % 
+ 
+ 
+ 
+ $ 
+ 
+ 418,021 
+ 
+ 
+ 
+ 
+ 
+ 70 
+ 
+ % 
+ 
+ 
+ Enterprise Technology 
+ 
+ 248,049 
+ 
+ 
+ 
+ 
+ 
+ 37 
+ 
+ % 
+ 
+ 
+ 
+ 177,926 
+ 
+ 
+ 
+ 
+ 
+ 30 
+ 
+ % 
+ 
+ 
+ Total revenues 
+ 
+ $ 
+ 
+ 666,395 
+ 
+ 
+ 
+ 
+ 
+ 100 
+ 
+ % 
+ 
+ 
+ 
+ $ 
+ 
+ 595,947 
+ 
+ 
+ 
+ 
+ 
+ 100 
+ 
+ % 
+ 
+ Service Provider Technology revenues remained flat in fiscal 2016 , as the increase in sales in North America, Europe, the Middle East, and Africa ("EMEA") and Asia Pacific were largely offset by the decrease in sales in South America. 
+ Enterprise Technology revenues increased $70.1 million , or 39% , during fiscal 2016 , primarily due to product expansion and further adoption of our UniFi technology platform. 
+ Revenues by Geography 
+ We have determined the geographical distribution of our product revenues based on our customers' ship-to destinations. A majority of our sales are to distributors who in turn sell to resellers or directly to end customers, which may be in different countries than the initial ship-to destination. The following are our revenues by geography for fiscal 2016 and fiscal 2015 (in thousands, except percentages): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended June 30, 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ North America(1) 
+ 
+ $ 
+ 
+ 239,526 
+ 
+ 
+ 
+ 
+ 
+ 36 
+ 
+ % 
+ 
+ 
+ 
+ $ 
+ 
+ 197,693 
+ 
+ 
+ 
+ 
+ 
+ 33 
+ 
+ % 
+ 
+ 
+ South America 
+ 
+ 85,036 
+ 
+ 
+ 
+ 
+ 
+ 13 
+ 
+ % 
+ 
+ 
+ 
+ 97,118 
+ 
+ 
+ 
+ 
+ 
+ 16 
+ 
+ % 
+ 
+ 
+ Europe, the Middle East and Africa 
+ 
+ 264,404 
+ 
+ 
+ 
+ 
+ 
+ 39 
+ 
+ % 
+ 
+ 
+ 
+ 234,383 
+ 
+ 
+ 
+ 
+ 
+ 40 
+ 
+ % 
+ 
+ 
+ Asia Pacific 
+ 
+ 77,429 
+ 
+ 
+ 
+ 
+ 
+ 12 
+ 
+ % 
+ 
+ 
+ 
+ 66,753 
+ 
+ 
+ 
+ 
+ 
+ 11 
+ 
+ % 
+ 
+ 
+ Total revenues 
+ 
+ $ 
+ 
+ 666,395 
+ 
+ 
+ 
+ 
+ 
+ 100 
+ 
+ % 
+ 
+ 
+ 
+ $ 
+ 
+ 595,947 
+ 
+ 
+ 
+ 
+ 
+ 100 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) 
+ 
+ Revenue for the United States was $225.6 million and $187.3 million in fiscal 2016 and fiscal 2015 , respectively. 
+ North America 
+ Revenues in North America increased $41.8 million , or 21% , from $197.7 million in fiscal 2015 to $239.5 million in fiscal 2016 . The increase in revenues in North America in fiscal 2016 compared to fiscal 2015 was due to increased adoption of our Service Provider and Enterprise Technologies. 
+ South America 
+ Revenues in South America decreased $12.1 million , or 12% , from $97.1 million in fiscal 2015 to $85.0 million in fiscal 2016 . We believe the decrease in revenues in South America in fiscal 2016 compared to fiscal 2015 was primarily due to decreased demand for our Service Provider Technologies due in part to economic instability and partially as a result of a strong U.S. Dollar. 
+ Europe, the Middle East, and Africa ("EMEA") 
+ Revenues in EMEA increased $30.0 million , or 13% , from $234.4 million in fiscal 2015 to $264.4 million in fiscal 2016 . The increase in revenues in EMEA in fiscal 2016 compared to fiscal 2015 was due to increased adoption of our Service Provider and Enterprise Technologies. 
+ 
+ 
+ 38 
+ 
+ Table of Contents 
+ 
+ Asia Pacific 
+ Revenues in the Asia Pacific region increased $10.7 million , or 16% , from $66.8 million in fiscal 2015 to $77.4 million in fiscal 2016 . The increase in revenues in the Asia Pacific region in fiscal 2016 compared to fiscal 2015 was primarily due to increased adoption of our Service Provider Technologies and Enterprise Technologies. 
+ Cost of Revenues and Gross Profit 
+ Cost of revenues increased $7.8 million , or 2% , from $333.8 million in fiscal 2015 to $341.6 million in fiscal 2016 . The increase in cost of revenues in fiscal 2016 was primarily due to increased volume and to a lesser extent, changes in product mix. Gross profit as a percentage of revenue increased to 49% in fiscal 2016 compared to 44% in fiscal 2015 .The improvement in gross profit percentage in fiscal 2016 was in large part due to product mix, benefit of higher sales volume and coverage of fixed overhead cost, and less inventory related obsolescence and purchase commitment charges. 
+ Operating Expenses 
+ Research and Development 
+ Research and development expenses increased $3.2 million , or 6% , from $54.6 million in fiscal 2015 to $57.8 million in fiscal 2016 . As a percentage of revenues, research and development expenses remained flat at 9% in both fiscal 2016 and fiscal 2015 . This increase in absolute dollar expenditures is primarily driven by a $2.5 million impairment charge for capitalized software and software in development costs recognized in the second quarter of fiscal 2016 due to the cancellation of the commercial launch of certain software in development. Over time, we expect our research and development costs to continue to increase in absolute dollars as we continue making investments in developing new products in addition to new versions of our existing products. 
+ Sales, General and Administrative 
+ Sales, general and administrative expenses increased $ 11.7 million , or 54% , from $21.6 million in fiscal 2015 to $33.3 million in fiscal 2016 . As a percentage of revenues, sales, general and administrative expenses increased to 5% in fiscal 2016 , compared to 4% in fiscal 2015 . The increase in sales, general and administrative expenses in absolute dollars and as a percentage of revenues was due to higher consulting fees incurred to support the finance team and to assist with material weakness remediation, higher legal costs, and an increase in headcount in the business development organization. During fiscal 2017, we expect our sales, general and administrative expenses to stabilize as we anticipate lower consulting related fees. However, as the business grows, additional costs will be necessary to support this business, to register and defend trademarks and patents and to support our business and operations. 
+ Business e-mail compromise fraud (recovery) loss 
+ In June 2015, we determined that we were the victim of criminal fraud known to law enforcement authorities as business e-mail compromise fraud which involved employee impersonation and fraudulent requests targeting our finance department. The fraud resulted in transfers of funds aggregating $46.7 million held by a Company subsidiary incorporated in Hong Kong to other overseas accounts held by third parties. The Company recovered $8.1 million in fiscal 2015 and recorded a charge of $39.1 million in the fourth quarter of fiscal 2015, including additional expenses consisting of professional service fees associated with the fraud loss. In fiscal 2016 , the Company recorded a net recovery of an additional $8.3 million, comprised of an $8.6 million recovery less $0.3 million of professional service fees associated with the recovery. 
+ 
+ The Company is continuing to pursue the recovery of the remaining $30.0 million and is cooperating with U.S. federal and numerous overseas law enforcement authorities who are actively pursuing a multi-agency criminal investigation. However, any additional recoveries are likely remote and therefore cannot be assured. 
+ Provision for Income Taxes 
+ Our provision for income taxes increased $10.2 million from $16.1 million for fiscal 2015 to $26.3 million for fiscal 2016 . Our effective tax rate remained flat at 11% in both fiscal 2016 and fiscal 2015 because the Company's ratio of domestic and foreign income remained relatively constant for fiscal 2015 and fiscal 2016 . Overall, the rate benefit is due to income in foreign jurisdictions that have lower tax rates than the U.S. 
+ 
+ 
+ 
+ 39 
+ 
+ Table of Contents 
+ 
+ Comparison of Years Ended June 30, 2015 and 2014 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended June 30, 
+ 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 2014 
+ 
+ 
+ 
+ 
+ (In thousands, except percentages) 
+ 
+ 
+ Revenues 
+ 
+ $ 
+ 
+ 595,947 
+ 
+ 
+ 
+ 
+ 
+ 100 
+ 
+ % 
+ 
+ 
+ 
+ $ 
+ 
+ 572,464 
+ 
+ 
+ 
+ 
+ 
+ 100 
+ 
+ % 
+ 
+ 
+ Cost of revenues (1)(2) 
+ 
+ 333,760 
+ 
+ 
+ 
+ 
+ 
+ 56 
+ 
+ % 
+ 
+ 
+ 
+ 318,997 
+ 
+ 
+ 
+ 
+ 
+ 56 
+ 
+ % 
+ 
+ 
+ Gross profit 
+ 
+ 262,187 
+ 
+ 
+ 
+ 
+ 
+ 44 
+ 
+ % 
+ 
+ 
+ 
+ 253,467 
+ 
+ 
+ 
+ 
+ 
+ 44 
+ 
+ % 
+ 
+ 
+ Operating expenses: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Research and development (1) 
+ 
+ 54,565 
+ 
+ 
+ 
+ 
+ 
+ 9 
+ 
+ % 
+ 
+ 
+ 
+ 33,962 
+ 
+ 
+ 
+ 
+ 
+ 6 
+ 
+ % 
+ 
+ 
+ Sales, general and administrative (1)(3) 
+ 
+ 21,607 
+ 
+ 
+ 
+ 
+ 
+ 4 
+ 
+ % 
+ 
+ 
+ 
+ 23,560 
+ 
+ 
+ 
+ 
+ 
+ 4 
+ 
+ % 
+ 
+ 
+ Business e-mail compromise ("BEC") fraud (recovery) loss 
+ 
+ 39,137 
+ 
+ 
+ 
+ 
+ 
+ 6 
+ 
+ % 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ % 
+ 
+ 
+ Total operating expenses 
+ 
+ 115,309 
+ 
+ 
+ 
+ 
+ 
+ 19 
+ 
+ % 
+ 
+ 
+ 
+ 57,522 
+ 
+ 
+ 
+ 
+ 
+ 10 
+ 
+ % 
+ 
+ 
+ Income from operations 
+ 
+ 146,878 
+ 
+ 
+ 
+ 
+ 
+ 25 
+ 
+ % 
+ 
+ 
+ 
+ 195,945 
+ 
+ 
+ 
+ 
+ 
+ 34 
+ 
+ % 
+ 
+ 
+ Interest expense and other, net 
+ 
+ (1,130 
+ 
+ ) 
+ 
+ 
+ 
+ * 
+ 
+ 
+ 
+ 
+ 
+ (1,334 
+ 
+ ) 
+ 
+ 
+ 
+ * 
+ 
+ 
+ 
+ 
+ Income before provision for income taxes 
+ 
+ 145,748 
+ 
+ 
+ 
+ 
+ 
+ 24 
+ 
+ % 
+ 
+ 
+ 
+ 194,611 
+ 
+ 
+ 
+ 
+ 
+ 34 
+ 
+ % 
+ 
+ 
+ Provision for income taxes 
+ 
+ 16,085 
+ 
+ 
+ 
+ 
+ 
+ 3 
+ 
+ % 
+ 
+ 
+ 
+ 17,674 
+ 
+ 
+ 
+ 
+ 
+ 3 
+ 
+ % 
+ 
+ 
+ Net income and comprehensive income 
+ 
+ $ 
+ 
+ 129,663 
+ 
+ 
+ 
+ 
+ 
+ 21 
+ 
+ % 
+ 
+ 
+ 
+ $ 
+ 
+ 176,937 
+ 
+ 
+ 
+ 
+ 
+ 31 
+ 
+ % 
+ 
+ 
+ * Less than 1% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) Includes stock-based compensation as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of revenues 
+ 
+ $ 
+ 
+ 601 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 590 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Research and development 
+ 
+ 2,854 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2,423 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sales, general and administrative 
+ 
+ 1,537 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,893 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total stock-based compensation 
+ 
+ $ 
+ 
+ 4,992 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 4,906 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (2) Includes purchase commitment termination fee 
+ 
+ $ 
+ 
+ 5,500 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (3) Includes gain on reversal of charge for an export compliance matter 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (1,121 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ Revenues 
+ Revenues increased $23.5 million , or 4% , from $572.5 million in fiscal 2014 to $595.9 million in fiscal 2015 . We believe the overall increase in revenues during fiscal 2015 was driven by increased adoption of our enterprise technologies, partially offset by a decrease in sales of our Service Provider Technologies due to lower demand from our service provider customers outside of North America, including as a result of political and economic instability in some of those regions. 
+ In fiscal 2014 , Flytec Computers Inc. represented 13% of our revenues. No other distributor or customer represented more than 10% of our revenues in fiscal 2015 or fiscal 2014 . 
+ 
+ Revenues by Product Type 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended June 30, 
+ 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 2014 
+ 
+ 
+ 
+ 
+ (in thousands, except percentages) 
+ 
+ 
+ Service provider technology 
+ 
+ $ 
+ 
+ 418,021 
+ 
+ 
+ 
+ 
+ 
+ 70 
+ 
+ % 
+ 
+ 
+ 
+ $ 
+ 
+ 450,663 
+ 
+ 
+ 
+ 
+ 
+ 79 
+ 
+ % 
+ 
+ 
+ Enterprise technology 
+ 
+ 177,926 
+ 
+ 
+ 
+ 
+ 
+ 30 
+ 
+ % 
+ 
+ 
+ 
+ 121,801 
+ 
+ 
+ 
+ 
+ 
+ 21 
+ 
+ % 
+ 
+ 
+ Total revenues 
+ 
+ $ 
+ 
+ 595,947 
+ 
+ 
+ 
+ 
+ 
+ 100 
+ 
+ % 
+ 
+ 
+ 
+ $ 
+ 
+ 572,464 
+ 
+ 
+ 
+ 
+ 
+ 100 
+ 
+ % 
+ 
+ Service Provider Technology revenues decreased $32.6 million, or 7%, during fiscal 2015. The decline in revenues from Service Provider Technologies was primarily due to lower demand from our service provider customers outside of North America, including as a result of political and economic instability in some of those regions and the strength of the US Dollar during the fiscal year compared to some of the currencies in these regions. 
+ Enterprise Technology revenues increased $56.1 million, or 46%, during fiscal 2015, primarily due to product expansion and further adoption of our UniFi technology platform. 
+ 
+ 
+ 40 
+ 
+ Table of Contents 
+ 
+ Revenues by Geography 
+ We have determined the geographical distribution of our product revenues based on our customers' ship-to destinations. A majority of our sales are to distributors who in turn sell to resellers or directly to end customers, which may be different countries than the initial ship-to destination. The following are our revenues by geography for fiscal 2015 and fiscal 2014 (in thousands, except percentages): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended June 30, 
+ 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 2014 
+ 
+ 
+ North America(1) 
+ 
+ $ 
+ 
+ 197,693 
+ 
+ 
+ 
+ 
+ 
+ 33 
+ 
+ % 
+ 
+ 
+ 
+ $ 
+ 
+ 142,438 
+ 
+ 
+ 
+ 
+ 
+ 25 
+ 
+ % 
+ 
+ 
+ South America 
+ 
+ 97,118 
+ 
+ 
+ 
+ 
+ 
+ 16 
+ 
+ % 
+ 
+ 
+ 
+ 109,584 
+ 
+ 
+ 
+ 
+ 
+ 19 
+ 
+ % 
+ 
+ 
+ Europe, the Middle East and Africa 
+ 
+ 234,383 
+ 
+ 
+ 
+ 
+ 
+ 40 
+ 
+ % 
+ 
+ 
+ 
+ 247,009 
+ 
+ 
+ 
+ 
+ 
+ 43 
+ 
+ % 
+ 
+ 
+ Asia Pacific 
+ 
+ 66,753 
+ 
+ 
+ 
+ 
+ 
+ 11 
+ 
+ % 
+ 
+ 
+ 
+ 73,433 
+ 
+ 
+ 
+ 
+ 
+ 13 
+ 
+ % 
+ 
+ 
+ Total revenues 
+ 
+ $ 
+ 
+ 595,947 
+ 
+ 
+ 
+ 
+ 
+ 100 
+ 
+ % 
+ 
+ 
+ 
+ $ 
+ 
+ 572,464 
+ 
+ 
+ 
+ 
+ 
+ 100 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) 
+ 
+ Revenue for the United States was $187.3 million and $136.6 million in fiscal 2015 and fiscal 2014, respectively. 
+ North America 
+ Revenues in North America increased $55.3 million, or 39%, from $142.4 million in fiscal 2014 to $197.7 million in fiscal 2015. The increase in revenues in North America in fiscal 2015 compared to fiscal 2014 was due to increased adoption of our Service Provider Technologies and Enterprise Technologies. 
+ South America 
+ Revenues in South America decreased $12.5 million, or 11%, from $109.6 million in fiscal 2014 to $97.1 million in fiscal 2015. We believe the decrease in revenues in South America in fiscal 2015 compared to fiscal 2014 was primarily due to decreased demand for our Service Provider Technologies due in part to economic instability and partially as a result of a strong U.S. Dollar. 
+ EMEA 
+ Revenues in EMEA decreased $12.6 million, or 5%, from $247.0 million in fiscal 2014 to $234.4 million in fiscal 2015. The decrease in revenues in EMEA in fiscal 2015 compared to fiscal 2014 was primarily due to decreased demand for our Service Provider Technologies, due in part to economic instability in this region and partially as a result of a strong U.S. Dollar. The decrease was partially offset by increased adoption of our Enterprise Technology platforms. 
+ Asia Pacific 
+ Revenues in the Asia Pacific region decreased $6.7 million, or 9%, from $73.4 million in fiscal 2014 to $66.8 million in fiscal 2015. The decrease in revenues in the Asia Pacific region in fiscal 2015 compared to fiscal 2014 was primarily due to decreased demand for our Service Provider Technologies, partially offset by increased adoption of our Enterprise Technology platforms. 
+ Cost of Revenues and Gross Profit 
+ Cost of revenues increased $14.8 million, or 5%, from $319.0 million in fiscal 2014 to $333.8 million in fiscal 2015. The increase in cost of revenues in fiscal 2015 was primarily due to increased revenues and to a lesser extent, changes in product mix. Gross profit as a percentage of revenue remained flat at 44% in both fiscal 2015 and fiscal 2014. 
+ Operating Expenses 
+ Research and Development 
+ Research and development expenses increased $20.6 million, or 61%, from $34.0 million in fiscal 2014 to $54.6 million in fiscal 2015. As a percentage of revenues, research and development expenses increased to 9% in fiscal 2015, compared to 6% in fiscal 2014. The increase in research and development expenses in absolute dollars and as a percentage of revenue was due to increases in headcount to support our strategy as we broadened our research and development activities to new product areas and certain one-time costs incurred for intellectual property licensed or purchased for use in our products. 
+ Sales, General and Administrative 
+ 
+ 
+ 41 
+ 
+ Table of Contents 
+ 
+ Sales, general and administrative expenses decreased slightly, from $23.6 million in fiscal 2014 to $21.6 million in fiscal 2015. As a percentage of revenues, sales, general and administrative expenses remained flat at 4% in both fiscal 2014 and fiscal 2015. 
+ Business e-mail compromise fraud (recovery) loss 
+ In June 2015, we determined that we were the victim of criminal fraud known to law enforcement authorities as business e-mail compromise fraud which involved employee impersonation and fraudulent requests targeting our finance department. The fraud resulted in transfers of funds aggregating $46.7 million held by a Company subsidiary incorporated in Hong Kong to other overseas accounts held by third parties, of which we recovered $8.1 million in fiscal 2015. As a result, we recorded a charge of $39.1 million in the fourth quarter of 2015, including additional expenses consisting of professional service fees associated with the fraud loss. 
+ Provision for Income Taxes 
+ Our provision for income taxes decreased $1.6 million, or 9%, from $17.7 million for fiscal 2014 to $16.1 million for fiscal 2015. Our effective tax rate increased to 11% for fiscal 2015 as compared to 9% fiscal 2014. The higher effective tax rate in fiscal 2015 was primarily due to increased sales in the United States and the decreased profit before taxes of Hong Kong due to the $39.1 million BEC Fraud loss, which decreased the tax benefit from foreign tax rate differential. 
+ 
+ 
+ Liquidity and Capital Resources 
+ Sources and Uses of Cash 
+ Since inception, our operations primarily have been funded through cash generated by operations. We had cash and cash equivalents of $551.0 million , $446.4 million and $347.1 million at June 30, 2016 , 2015 and 2014 , respectively. 
+ 
+ Consolidated Cash Flow Data 
+ The following table sets forth the major components of our consolidated statements of cash flows data for the periods presented: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended June 30, 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 2014 
+ 
+ 
+ 
+ 
+ (In thousands) 
+ 
+ 
+ Net cash provided by operating activities 
+ 
+ $ 
+ 
+ 197,508 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 134,547 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 121,327 
+ 
+ 
+ 
+ 
+ Net cash used in investing activities 
+ 
+ (6,248 
+ 
+ ) 
+ 
+ 
+ 
+ (12,724 
+ 
+ ) 
+ 
+ 
+ 
+ (4,045 
+ 
+ ) 
+ 
+ 
+ Net cash (used in) provided by financing activities 
+ 
+ (86,630 
+ 
+ ) 
+ 
+ 
+ 
+ (22,519 
+ 
+ ) 
+ 
+ 
+ 
+ 1,989 
+ 
+ 
+ 
+ 
+ Net increase in cash and cash equivalents 
+ 
+ $ 
+ 
+ 104,630 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 99,304 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 119,271 
+ 
+ 
+ Cash Flows from Operating Activities 
+ Net cash provided by operating activities in fiscal 2016 consisted primarily of net income of $213.6 million partially offset by net changes in operating assets and liabilities that resulted in net cash outflows of $27.1 million . This net change was primarily driven by outflows arising from a $20.0 million increase in inventory, and a $9.3 million increase in vendor deposits due to our strategic efforts to reduce lead times and maximize order fulfillments, a $16.7 million increase in accounts receivable due to our overall increase in revenue. These outflows were offset by changes in operating assets and liabilities resulting in cash inflows, including a $11.0 million increase in accounts payable and accrued liabilities due to the timing of payments with our vendors, a $7.0 million net increase in taxes payable and decrease in prepaid income taxes due the timing of federal tax payments, a $0.7 million increase in deferred revenue due to additional PCS revenue deferrals during the year and a $0.2 million decrease in prepaid expenses and other current assets due to timing of deposit payments with our suppliers. Overall, cash inflows from operating activities were driven by our net income, which included non-cash adjustments due to stock-based compensation, depreciation and amortization, increases to our provision for inventory obsolescence, decreases to our provision for losses on deposits with our vendors, decreases in our allowance for doubtful accounts and taxes. The net of these non-cash adjustments resulted in an increase of our net cash provided by operating activities of $11.0 million . 
+ 
+ Net cash provided by operating activities in the fiscal 2015 consisted primarily of net income of $129.7 million partially offset by net changes in operating assets and liabilities that resulted in net cash outflows of $11.7 million . These changes consisted primarily of a $22.0 million increase in prepaid expenses and other current assets due to timing of deposit payments with our suppliers, an $11.3 million increase in accounts receivable due to our overall increase in revenue, a $9.1 million increase in accounts payable and accrued liabilities due to the timing of payments with our vendors, a $7.0 million decrease in inventory 
+ 
+ 
+ 42 
+ 
+ Table of Contents 
+ 
+ due to our efforts to optimize our inventory levels and a $5.8 million net increase in taxes payable and prepaid income taxes due the timing of federal tax payments. Additionally, our net income included non-cash adjustments due to stock-based compensation, depreciation and amortization, increases to our provision for inventory obsolescence, increases to 
+ our provision for losses on deposits with our vendors, decreases in our allowance for doubtful accounts and taxes. The net of these non-cash adjustments resulted in an increase of our net cash provided by operating activities of $16.6 million . 
+ 
+ Net cash provided by operating activities in the fiscal 2014 consisted primarily of net income of $176.9 million partially offset by net changes in operating assets and liabilities that resulted in net cash outflows of $62.9 million. These changes consisted primarily of a $33.8 million increase in inventory due to our efforts to build warehouse stock levels and ultimately decrease lead times, an $18.3 million increase in accounts receivable due to our overall increase in revenue, a $9.6 million increase in prepaid expenses and other current assets due to timing of deposit payments with our suppliers, a $6.9 million decrease in accounts payable and accrued liabilities due to the timing of payments with our vendors, a $3.9 million net increase in taxes payable and prepaid income taxes due the timing of federal tax payments, and a $1.9 million increase in deferred revenues and related costs. Additionally, our net income included non-cash adjustments due to stock-based compensation, depreciation and amortization, increases to our provision for doubtful accounts and write-downs for inventory obsolescence and an excess tax benefit from stock-based awards. The net of these non-cash adjustments resulted in an increase of our net cash provided by operating activities of $7.3 million. 
+ Cash Flows from Investing Activities 
+ We used $6.2 million of cash in investing activities during fiscal 2016 . Our investing activities consist of capital expenditures and purchases of intangible assets. Capital expenditures for fiscal 2016 , fiscal 2015 and fiscal 2014 were $5.9 million , $12.7 million and $3.8 million , respectively. Additionally, we had cash outflows related to intangible assets of $306,000 , $46,000 and $219,000 during fiscal 2016 , fiscal 2015 and fiscal 2014 , respectively, consisting primarily of legal costs associated with trademark applications and acquisition of domain names. 
+ Cash Flows from Financing Activities 
+ We used $86.6 million of cash in financing activities during fiscal 2016 , primarily driven by repurchasing $193.5 million of our common stock. We also made repayments of $10.0 million on our outstanding term loan debt and $14.0 million revolver loan under the Amended Credit Agreement. These cash outflows were offset by financing cash inflows, including the draws made under the revolver facility of our Amended Credit Agreement totaling $130.0 million . Additionally, cash inflows from financing activities included $1.1 million of cash proceeds received from the exercise of stock options in addition to $1.0 million of excess tax benefit from employee stock-based awards, partially offset by tax withholdings related to net share settlements of restricted stock units totaling $1.2 million . 
+ 
+ We had $22.5 million of cash provided by financing activities during fiscal 2015, primarily from cash received from our term loan with Wells Fargo Bank of $100.0 million, offset by repayments of our prior Original Credit Agreement with Wells Fargo Bank of $74.8 million. Additionally, during fiscal 2015 we paid $15.0 million for dividends on our common stock, paid $34.7 million for repurchases of our common stock and had tax withholdings related to net share settlements of restricted stock units of $1.8 million. Other cash inflows from financing activities included cash received for stock option exercises of $1.7 million and an excess tax benefit from employee stock-based awards of $2.1 million. 
+ 
+ We had $2.0 million of cash provided by financing activities during fiscal 2014, consisting of cash received from our Original Credit Agreement with Wells Fargo Bank of $72.3 million, offset by repayments on our Loan and Security Agreement with EastWest Bank of $76.3 million. Additionally, during fiscal 2014 we had cash inflows from an excess tax benefit from employee stock-based awards of $5.9 million and cash received for stock option exercises of $2.1 million, and cash outflows from tax withholdings related to net share settlements of restricted stock units of $2.0 million. 
+ Liquidity 
+ We believe our existing cash and cash equivalents, cash provided by operations and the availability of additional funds under our loan agreements will be sufficient to meet our working capital and capital expenditure needs for at least the next twelve months. However, this estimate is based on a number of assumptions that may prove to be wrong and we could exhaust our available cash and cash equivalents earlier than presently anticipated. Our future capital requirements may vary materially from those currently planned and will depend on many factors, including our rate of revenue growth, the timing and extent of spending to support development efforts, the timing of new product introductions, market acceptance of our products and overall economic conditions. As of June 30, 2016 , we held $524.3 million of our $551.0 million of cash and cash equivalents in 
+ 
+ 
+ 43 
+ 
+ Table of Contents 
+ 
+ accounts of our subsidiaries outside of the United States and we will incur significant tax liabilities if we decide to repatriate those amounts. 
+ We believe that the combination of our existing United States cash and cash equivalent balances and future United States operating cash flows are sufficient to meet our ongoing United States operating expenses and debt repayment obligations for at least the next twelve months. 
+ We earn a significant amount of our operating income outside the United States, which is deemed to be indefinitely reinvested in foreign jurisdictions. As a result, a significant portion of our cash and short-term investments are held by foreign subsidiaries. We currently do not intend nor foresee a need to repatriate these funds. We expect existing domestic cash and short-term investments and cash flows from operations to continue to be sufficient to fund our domestic operating activities and cash commitments for investing and financing activities, such as regular quarterly dividends, debt repayment, and capital expenditures, for at least the next 12 months and thereafter for the foreseeable future. 
+ If we should require more capital in the United States than is generated by our domestic operations, for example to fund significant discretionary activities such as business acquisitions and share repurchases, we could elect to repatriate future earnings from foreign jurisdictions or raise capital in the United States through debt or equity issuances. These alternatives could result in higher effective tax rates, increased interest expense, or dilution of our earnings. We could also elect to borrow funds domestically, which we have done in the past and continue to believe we have the ability to do so at reasonable interest rates. 
+ 
+ Contractual Obligations and Off-Balance Sheet Arrangements 
+ The following table summarizes our contractual obligations as of June 30, 2016 : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Payments Due by Period 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year 1 
+ 
+ 
+ 
+ 1-3 Years 
+ 
+ 
+ 
+ 3-5 years 
+ 
+ 
+ 
+ Over 5 years 
+ 
+ 
+ 
+ Total 
+ 
+ 
+ 
+ 
+ 
+ 
+ (In thousands) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating leases 
+ 
+ 
+ 
+ $ 
+ 
+ 4,883 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 7,746 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,460 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 14,089 
+ 
+ 
+ 
+ 
+ Debt payment obligations 
+ 
+ 
+ 
+ 11,250 
+ 
+ 
+ 
+ 
+ 
+ 192,250 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 203,500 
+ 
+ 
+ 
+ 
+ Interest payments on debt payment obligations 
+ 
+ 
+ 
+ 4,802 
+ 
+ 
+ 
+ 
+ 
+ 11,510 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 16,312 
+ 
+ 
+ 
+ 
+ Purchase obligations and vendor deposits 
+ 
+ 
+ 
+ 27,402 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 27,402 
+ 
+ 
+ 
+ 
+ Other obligations 
+ 
+ 
+ 
+ 8,512 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 8,512 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ 
+ 
+ $ 
+ 
+ 56,849 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 211,506 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,460 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 269,815 
+ 
+ 
+ 
+ Operating Leases 
+ We lease our headquarters in San Jose, California and other locations worldwide under non-cancelable operating leases that expire at various dates through 2022 . 
+ Debt and Interest Payment Obligations 
+ On March 3, 2015, we entered into the Amended Credit Agreement, that provides for a $200.0 million senior secured revolving credit facility and a $100.0 million senior secured term loan facility, with an option to request increases in the amounts of such credit facilities by up to an additional $50.0 million in the aggregate (any such increase to be in each lender's sole discretion). Please see Note 7 of the Notes to the Consolidated Financial Statements for more information. We have calculated estimated interest payments for our debt based on the applicable rates and payment dates. Although our interest rates on our debt obligations may vary, we have assumed the most recent available interest rates for all years presented. Also included are estimated bank fees to be paid for unused portions of our revolving credit facility. 
+ Purchase Obligations 
+ We subcontract with other companies to manufacture our products. During the normal course of business, our contract manufacturers procure components based upon orders placed by us. If we cancel all or part of the orders, we may still be liable to the contract manufacturers for the cost of the components purchased by the subcontractors to manufacture our products. We periodically review the potential liability, and to date, no significant liabilities for cancellations have been recorded. Our consolidated financial position and results of operations could be negatively impacted if we were required to compensate the contract manufacturers for any unrecorded liabilities incurred. We had inventory purchase obligations of $27.4 million as of June 30, 2016 . 
+ 
+ 
+ 44 
+ 
+ Table of Contents 
+ 
+ Other Obligations 
+ We had other obligations of 8.5 million as of June 30, 2016 , which consisted primarily of commitments related to research and development projects. 
+ Unrecognized Tax Benefits 
+ As of June 30, 2016 , we had $21.5 million and an additional $1.7 million for gross interest classified as non-current liabilities. At this time, we are unable to make a reasonably reliable estimate of the timing of payments in individual years in connection with these tax liabilities; therefore, such amounts are not included in the above contractual obligation table. 
+ 
+ Commitments and Contingencies 
+ In May 2011, we filed a self-disclosure statement with the U.S. Commerce Department, Bureau of Industry and Security’s (“BIS”) Office of Export Enforcement (“OEE”) relating a review conducted by us regarding certain export transactions from 2008 through March 2011 in which products may have been later resold into Iran by third parties. In June 2011, we also filed a self-disclosure statement with the U.S. Department of the Treasury’s Office of Foreign Asset Control (“OFAC”) regarding these compliance issues. In August 2011, we received a warning letter from OEE stating that OEE had not referred the findings of our review for criminal or administrative prosecution and closed the investigation of us without penalty. Based upon its review of the matter, OFAC identified certain apparent violations (“Apparent Violations”) of the Iranian Transactions and Sanctions Regulations by us during the period of in or about March 2008 through in or about February 2011. On March 4, 2014, we entered into a settlement agreement with OFAC resolving this administrative matter. Pursuant to the terms of the settlement agreement, we agreed to make a one-time payment to the U.S. Department of the Treasury in the amount of $504,000 in consideration of OFAC agreeing to release and forever discharge us from any and all civil liability in connection with the Apparent Violations. We previously accrued a reserve of $1.6 million relating to this matter in fiscal 2010 and, accordingly, reversed the excess of the accrual of $1.1 million as of the effective date of the settlement agreement. 
+ 
+ Warranties and Indemnifications 
+ Our products are generally accompanied by a 12 month warranty, which covers both parts and labor. Generally the distributor is responsible for the freight costs associated with warranty returns, and we absorb the freight costs of replacing items under warranty. In accordance with the Financial Accounting Standards Board’s (“FASB’s”), Accounting Standards Codification (“ASC”), 450-20, Loss Contingencies, we record an accrual when we believe it is estimable and probable based upon historical experience. We record a provision for estimated future warranty work in cost of goods sold upon recognition of revenues and we review the resulting accrual regularly and periodically adjust it to reflect changes in warranty estimates. 
+ We have entered and may in the future enter into standard indemnification agreements with certain distributors as well as other business partners in the ordinary course of business. These agreements may include provisions for indemnifying the distributor, OEM or other business partner against any claim brought by a third party to the extent any such claim alleges that a Ubiquiti product infringes a patent, copyright or trademark or violates any other proprietary rights of that third party. The maximum amount of potential future indemnification is unlimited. The maximum potential amount of future payments we could be required to make under these indemnification agreements is not estimable. 
+ We have agreed to indemnify our directors, officers and certain other employees for certain events or occurrences, subject to certain limits, while such persons are or were serving at our request in such capacity. We may terminate the indemnification agreements with these persons upon the termination of their services with us but termination will not affect claims for indemnification related to events occurring prior to the effective date of termination. The maximum amount of potential future indemnification is unlimited. We have a Directors and Officers insurance policy that limits our potential exposure. We believe the fair value of these indemnification agreements is minimal. We had not recorded any liabilities for these agreements as of June 30, 2016 or 2015 . 
+ Based upon our historical experience and information known as of the date of this report, we do not believe it is likely that we will have significant liability for the above indemnities as of June 30, 2016 . 
+ Off-Balance Sheet Arrangements 
+ As of June 30, 2016 and 2015 , we had no off-balance sheet arrangements other than those indemnification agreements described above. 
+ 
+ Recent Accounting Pronouncements 
+ For a discussion of recent accounting pronouncements, refer to Note 2 to the Consolidated Financial Statements. 
+ 
+ 
+ 45 
+ 
+ 
+ Table of Contents 
+ 

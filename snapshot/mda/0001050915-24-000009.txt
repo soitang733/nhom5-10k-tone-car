@@ -1,0 +1,1684 @@
+ ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations 
+ General 
+ The following discussion and analysis of the financial condition and results of operations of Quanta Services, Inc. (together with its subsidiaries, Quanta, we, us or our) should be read in conjunction with our consolidated financial statements and related notes in ITEM 8. Financial Statements and Supplementary Data in Part II of this Annual Report. The discussion below contains forward-looking statements that are based upon our current expectations and are subject to uncertainty and changes in circumstances. Actual results may differ materially from these expectations due to inaccurate assumptions and known or unknown risks and uncertainties, including those identified in Cautionary Statement About Forward-Looking Statements and Information above and in ITEM 1A. Risk Factors in Part I of this Annual Report. 
+ The discussion summarizing the significant factors which affected the results of operations and financial condition for the year ended December 31, 2022, including the changes in results of operations between the years ended December 31, 2022 and 2021, can be found in Part II, ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations of our Annual Report on Form 10-K for the year ended December 31, 2022, which was filed with the SEC on February 23, 2023. 
+ 
+ Overview 
+ Our 2023 results reflect increased demand for our services, as revenue and operating income increased in all of our segments as compared to 2022. 
+ With respect to our Electric Power Infrastructure Solutions (Electric Power) segment, utilities are continuing to invest significant capital in their electric power delivery systems through multi-year grid modernization and reliability programs, as well as system upgrades and hardening programs in response to recurring severe weather events. We have also experienced high demand for new and expanded transmission, substation and distribution infrastructure needed to reliably transport power. 
+ 
+ With respect to our Renewable Energy Infrastructure Solutions (Renewable Energy) segment, the transition to a reduced-carbon economy is continuing to drive demand for renewable generation and related infrastructure (e.g., high-voltage electric transmission and substation infrastructure), as well as interconnection services necessary to connect and transmit renewable-generated electricity to existing electric power delivery systems. Despite these positive longer-term trends, during 2022 and into 2023, the timing of certain projects within this segment were negatively impacted by supply chain challenges that resulted in delays and shortages of, and increased costs for, materials necessary for certain projects, particularly sourcing restrictions related to solar panels necessary for the utility-scale solar industry and delays in availability of power transformers impacting the electric power and renewable energy industries. While certain challenges associated with solar panel sourcing improved during 2023, there could be other potential supply chain challenges for renewable infrastructure project components. 
+ With respect to our Underground Utility and Infrastructure Solutions (Underground and Infrastructure) segment, during 2022 and 2023 we experienced strong demand for our services focused on utility spending, in particular our gas distribution services to natural gas utilities that are implementing modernization programs, and our downstream industrial services, as these customers continued to move forward with certain maintenance and capital spending that was deferred during the course of the COVID-19 pandemic. Additionally, although revenues associated with large pipeline projects in Canada increased in 2022 and 2023, as compared to prior years, we anticipate that revenues associated with these projects will continue to fluctuate. 
+ During 2023, increased revenues and operating income across all our segments contributed to $1.58 billion of net cash provided by operating activities, a 39.4% increase relative to 2022, which allowed us to execute our business plan, including the strategic acquisition of several businesses, for which we utilized $651.6 million of cash, net of cash acquired, and the payment of $47.8 million in dividends associated with our common stock. Additionally, as of December 31, 2023, available commitments under our senior credit facility, combined with our cash and cash equivalents, totaled $2.81 billion. 
+ We expect the strong demand for our services will continue. Our remaining performance obligations and backlog were $13.89 billion and $30.11 billion as of December 31, 2023, representing increases of 57.9%, and 25.0% relative to December 31, 2022. For a reconciliation of backlog to remaining performance obligations, the most comparable financial measure prepared in conformity with generally accepted accounting principles in the United States (GAAP), see Non-GAAP Financial Measures below. 
+ For additional information regarding our overall business environment, see Overview in Part I, ITEM 1. Business of this Annual Report. 
+ Significant Factors Impacting Results 
+ Our revenues, profit, margins and other results of operations can be influenced by a variety of factors in any given period, including those described in ITEM 1. Business and ITEM 1A. Risk Factors in Part I of this Annual Report, and those factors have 
+ 
+ 
+ 43 
+ 
+ 
+ caused fluctuations in our results in the past and are expected to cause fluctuations in our results in the future. Additional information with respect to certain of those factors is provided below. 
+ Seasonality. Typically, our revenues are lowest in the first quarter of the year because cold, snowy or wet conditions can create challenging working environments that are more costly for our customers or cause delays on projects. In addition, infrastructure projects often do not begin in a meaningful way until our customers finalize their capital budgets, which typically occurs during the first quarter. Second quarter revenues are typically higher than those in the first quarter, as some projects begin, but continued cold and wet weather can often impact productivity. Third quarter revenues are typically the highest of the year, as a greater number of projects are underway and operating conditions, including weather, are normally more accommodating. Generally, revenues during the fourth quarter are lower than the third quarter but higher than the second quarter, as many projects are completed and customers often seek to spend their capital budgets before year end. However, the holiday season and inclement weather can sometimes cause delays during the fourth quarter, reducing revenues and increasing costs. These seasonal impacts are typical for our U.S. operations, but seasonality for our international operations may differ. For example, revenues for certain projects in Canada are typically higher in the first quarter because projects are often accelerated in order to complete work while the ground is frozen and prior to the break up, or seasonal thaw, as productivity is adversely affected by wet ground conditions during warmer months. 
+ Weather, natural disasters and emergencies. The results of our business in a given period can be impacted by adverse weather conditions, severe weather events, natural disasters or other emergencies, which include, among other things, heavy or prolonged snowfall or rainfall, hurricanes, tropical storms, tornadoes, floods, blizzards, extreme temperatures, wildfires, post-wildfire floods and debris flows, pandemics and earthquakes. Climate change has the potential to increase the frequency and extremity of severe weather events.These conditions and events can negatively impact our financial results due to, among other things, the termination, deferral or delay of projects, reduced productivity and exposure to significant liabilities due to failure of electrical power or other infrastructure on which we have performed services. However, severe weather events can also increase our emergency restoration services, which typically yield higher margins due in part to higher equipment utilization and absorption of fixed costs. 
+ Demand for services . We perform the majority of our services under existing contracts, including MSAs and similar agreements pursuant to which our customers are not committed to specific volumes of our services. Therefore our volume of business can be positively or negatively affected by fluctuations in the amount of work our customers assign us in a given period, which may vary by geographic region. Examples of items that may cause demand for our services to fluctuate materially from quarter to quarter include: the financial condition of our customers, their capital spending and their access to and cost of capital; acceleration of any projects or programs by customers (e.g., modernization or hardening programs); economic and political conditions on a regional, national or global scale, including availability of renewable energy tax credits; interest rates; governmental regulations affecting the sourcing and costs of materials and equipment; other changes in U.S. and global trade relationships; and project deferrals and cancellations. 
+ Revenue mix and impact on margins. The mix of revenues based on the types of services we provide in a given period will impact margins, as certain industries and services provide higher-margin opportunities. Our larger or more complex projects typically include, among others, transmission projects with higher voltage capacities; pipeline projects with larger-diameter throughput capacities; large-scale renewable generation projects; and projects with increased engineering, design or construction complexities, more difficult terrain or geographical requirements, or longer distance requirements. These projects typically yield opportunities for higher margins than our recurring services under MSAs described above, as we assume a greater degree of performance risk and there is greater utilization of our resources for longer construction timeframes. However, larger projects are subject to additional risk of regulatory delay and cyclicality. Project schedules also fluctuate, particularly in connection with larger, more complex or longer-term projects, which can affect the amount of work performed in a given period. Furthermore, smaller or less complex projects typically have a greater number of companies competing for them, and competitors at times may more aggressively pursue available work. A greater percentage of smaller scale or less complex work also could negatively impact margins due to the inefficiency of transitioning between a greater number of smaller projects versus continuous production on fewer larger projects. As a result, at times we may choose to maintain a portion of our workforce and equipment in an underutilized capacity to ensure we are strategically positioned to deliver on larger projects when they move forward. 
+ Project variability and performance. Margins for a single project may fluctuate period to period due to changes in the volume or type of work performed, the pricing structure under the project contract or job productivity. Additionally, our productivity and performance on a project can vary period to period based on a number of factors, including unexpected project difficulties or site conditions (including in connection with difficult geographic characteristics); project location, including locations with challenging operating conditions; whether the work is on an open or encumbered right of way; inclement weather or severe weather events; environmental restrictions or regulatory delays; protests, public activism, other political activity or legal challenges related to a project; and the performance of third parties. Moreover, we currently generate a significant portion of our revenues under fixed price contracts, and fixed price contracts are more common in connection with our larger and more 
+ 
+ 
+ 44 
+ 
+ 
+ complex projects that typically involve greater performance risk. Under these contracts, we assume risks related to project estimates and execution, and project revenues can vary, sometimes substantially, from our original projections due to a variety of factors, including the additional complexity, timing uncertainty or extended bidding, regulatory and permitting processes associated with these projects. These variations can result in a reduction in expected profit, the incurrence of losses on a project or the issuance of change orders and/or assertion of contract claims against customers. See Contract Estimates and Changes in Estimates in Note 4 of the Notes to Consolidated Financial Statements in ITEM 8. Financial Statements and Supplementary Data in Part II of this Annual Report. 
+ Subcontract work and provision of materials. Work that is subcontracted to other service providers generally yields lower margins, and therefore an increase in subcontract work in a given period can decrease operating margins. In recent years, we have subcontracted approximately 20% of our work to other service providers. Our customers are usually responsible for supplying the materials for their projects. However, under some contracts, we agree to procure all or part of the required materials. While we attempt to structure our agreements with customers and suppliers to account for the impact of increased materials procurement requirements or fluctuations in the cost of materials we procure, our margins may be lower on projects where we furnish a significant amount of materials, as our markup on materials is generally lower than our markup on labor costs, and in a given period an increase in the percentage of work with greater materials procurement requirements may decrease our overall margins, including in some cases our assuming price risk. Furthermore, fluctuations in the price or availability of materials, equipment and consumables that we or our customers utilize could impact costs to complete projects. 
+ 
+ 
+ Results of Operations 
+ Consolidated Results 
+ The following table sets forth selected statements of operations data, such data as a percentage of revenues for the years indicated, as well as the dollar and percentage change from the prior year (dollars in thousands). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ Change 
+ 
+ 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ $ 
+ 
+ % 
+ 
+ Revenues 
+ 
+ $ 
+ 20,882,206 
+ 
+ 
+ 100.0 
+ % 
+ 
+ $ 
+ 17,073,903 
+ 
+ 
+ 100.0 
+ % 
+ 
+ $ 
+ 3,808,303 
+ 
+ 
+ 22.3 
+ % 
+ 
+ Cost of services 
+ 
+ 17,945,120 
+ 
+ 
+ 85.9 
+ 
+ 
+ 14,544,748 
+ 
+ 
+ 85.2 
+ 
+ 
+ 3,400,372 
+ 
+ 
+ 23.4 
+ % 
+ 
+ Gross profit 
+ 
+ 2,937,086 
+ 
+ 
+ 14.1 
+ 
+ 
+ 2,529,155 
+ 
+ 
+ 14.8 
+ 
+ 
+ 407,931 
+ 
+ 
+ 16.1 
+ % 
+ 
+ Equity in earnings of integral unconsolidated affiliates 
+ 
+ 41,609 
+ 
+ 
+ 0.2 
+ 
+ 
+ 52,466 
+ 
+ 
+ 0.3 
+ 
+ 
+ (10,857) 
+ 
+ 
+ (20.7) 
+ % 
+ 
+ Selling, general and administrative expenses 
+ 
+ (1,555,137) 
+ 
+ 
+ (7.4) 
+ 
+ 
+ (1,336,711) 
+ 
+ 
+ (7.8) 
+ 
+ 
+ (218,426) 
+ 
+ 
+ 16.3 
+ % 
+ 
+ Amortization of intangible assets 
+ 
+ (289,014) 
+ 
+ 
+ (1.5) 
+ 
+ 
+ (353,973) 
+ 
+ 
+ (2.1) 
+ 
+ 
+ 64,959 
+ 
+ 
+ (18.4) 
+ % 
+ 
+ Asset impairment charges 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ (14,457) 
+ 
+ 
+ (0.1) 
+ 
+ 
+ 14,457 
+ 
+ 
+ (100.0) 
+ % 
+ 
+ Change in fair value of contingent consideration liabilities 
+ 
+ (6,568) 
+ 
+ 
+ — 
+ 
+ 
+ (4,422) 
+ 
+ 
+ — 
+ 
+ 
+ (2,146) 
+ 
+ 
+ 48.5 
+ % 
+ 
+ Operating income 
+ 
+ 1,127,976 
+ 
+ 
+ 5.4 
+ 
+ 
+ 872,058 
+ 
+ 
+ 5.1 
+ 
+ 
+ 255,918 
+ 
+ 
+ 29.3 
+ % 
+ 
+ Interest and other financing expenses 
+ 
+ (186,913) 
+ 
+ 
+ (1.0) 
+ 
+ 
+ (124,363) 
+ 
+ 
+ (0.7) 
+ 
+ 
+ (62,550) 
+ 
+ 
+ 50.3 
+ % 
+ 
+ Interest income 
+ 
+ 10,830 
+ 
+ 
+ 0.1 
+ 
+ 
+ 2,606 
+ 
+ 
+ — 
+ 
+ 
+ 8,224 
+ 
+ 
+ 315.6 
+ % 
+ 
+ Other income (expense), net 
+ 
+ 18,063 
+ 
+ 
+ 0.1 
+ 
+ 
+ (46,415) 
+ 
+ 
+ (0.3) 
+ 
+ 
+ 64,478 
+ 
+ 
+ * 
+ 
+ Income before income taxes 
+ 
+ 969,956 
+ 
+ 
+ 4.6 
+ 
+ 
+ 703,886 
+ 
+ 
+ 4.1 
+ 
+ 
+ 266,070 
+ 
+ 
+ 37.8 
+ % 
+ 
+ Provision for income taxes 
+ 
+ 219,267 
+ 
+ 
+ 1.0 
+ 
+ 
+ 192,243 
+ 
+ 
+ 1.1 
+ 
+ 
+ 27,024 
+ 
+ 
+ 14.1 
+ % 
+ 
+ Net income 
+ 
+ 750,689 
+ 
+ 
+ 3.6 
+ 
+ 
+ 511,643 
+ 
+ 
+ 3.0 
+ 
+ 
+ 239,046 
+ 
+ 
+ 46.7 
+ % 
+ 
+ Less: Net income attributable to non-controlling interests 
+ 
+ 6,000 
+ 
+ 
+ — 
+ 
+ 
+ 20,454 
+ 
+ 
+ 0.1 
+ 
+ 
+ (14,454) 
+ 
+ 
+ (70.7) 
+ % 
+ 
+ Net income attributable to common stock 
+ 
+ $ 
+ 744,689 
+ 
+ 
+ 3.6 
+ % 
+ 
+ $ 
+ 491,189 
+ 
+ 
+ 2.9 
+ % 
+ 
+ $ 
+ 253,500 
+ 
+ 
+ 51.6 
+ % 
+ * The percentage change is not meaningful. 
+ 
+ 
+ Revenues. Revenues increased due to a $2.39 billion increase in revenues from our Renewable Energy segment, a $756.6 million increase in revenues from our Electric Power segment, and a $659.9 million increase in revenues from our Underground and Infrastructure segment. See Segment Results below for additional information and discussion related to segment revenues. 
+ 
+ 
+ 45 
+ 
+ 
+ Cost of services. Costs of services primarily includes wages, benefits, subcontractor costs, materials, equipment, and other direct and indirect costs, including related depreciation. The increase in cost of services generally correlates to the increase in revenues. 
+ Equity in earnings of integral unconsolidated affiliat es. The decrease in equity in earnings was primarily driven by lower emergency restoration services in one of our integral affiliates. 
+ Selling, general and administrative expenses. The increase was partially attributable to an aggregate $113.1 million increase in the following items to support business growth: compensation expense, largely associated with increased salaries and stock compensation expense due primarily to an increase in employees; bonus expense due to increased profitability; and travel and related expenses. Also contributing to the increase was a $30.7 million increase related to recently acquired businesses, including acquisition and integration costs, and a $26.5 million increase in expense related to deferred compensation liabilities. The fair market value changes in deferred compensation liabilities were largely offset by changes in the fair value of corporate-owned life insurance (COLI) assets associated with the deferred compensation plan, which are included in “Other income (expense), net” as discussed below. This increase was also attributable to an aggregate $40.7 million increase in legal and other consulting services expense, depreciation expense primarily related to our new corporate headquarters and information technology expenses. 
+ Amortization of intangible assets. The decrease was primarily related to a $88.8 million reduction of amortization of intangible assets associated with backlog for Blattner Holding Company (Blattner), which was fully amortized by the third quarter of 2022. 
+ Asset impairment charges. The asset impairment charges during the year ended December 31, 2022 were primarily associated with an $11.7 million charge related to a software implementation project at an acquired company, which commenced prior to our acquisition and was discontinued in the fourth quarter of 2022. 
+ Operating income. Operating income was positively impacted by a $172.9 million increase in operating income for our Renewable Energy segment, a $54.6 million increase in operating income for our Electric Power segment and a $60.4 million increase in operating income for our Underground and Infrastructure segment, partially offset by a $32.0 million increase in corporate and non-allocated costs, which includes amortization expense. Results for each of our business segments and corporate and non-allocated costs are discussed in Segment Results below. 
+ Interest and other financing expenses. The increase primarily resulted from the impact of higher interest rates on our outstanding variable rate debt during the year ended December 31, 2023 as compared to the year ended December 31, 2022. 
+ Other income (expense), net . The net other expense for the year ended December 31, 2022 includes a loss of $91.5 million that resulted from the remeasurement of the fair value of our investment in Starry Group Holdings, Inc. (Starry) and a $13.8 million decrease in the mark-to-market valuation adjustment of the COLI assets associated with our deferred compensation plan, partially offset by a $25.9 million gain on the sale of an investment in a non-integral unconsolidated affiliate and $18.5 million of equity in earnings related to this non-integral unconsolidated affiliate. Other income for the year ended December 31, 2023 was favorably impacted by a $11.6 million increase in the mark-to-market valuation adjustment of the COLI assets associated with our deferred compensation plan. 
+ Provision for income taxes . The effective income tax rates were 22.6% and 27.3% for the years ending December 31, 2023 and 2022. The decrease in our effective income tax rate in 2023 was primarily due to changes in the valuation allowance on deferred tax assets, predominantly from the realization of the loss on our investment in Starry, as well as changes in the fair market value of our company-owned life insurance investments and a tax benefit related to the vesting of equity incentive awards at a higher fair market value than their grant date fair market value. These decreases in the effective tax rate were partly offset by higher non-deductible per diem expenses related to the expiration, as of December 31, 2022, of a temporary provision that allowed for the full deduction of certain meal and entertainment costs. The components of our provision for income taxes including changes in our valuation allowance are quantified and described in more detail in Note 12 of the Notes to Consolidated Financial Statements in ITEM 8. Financial Statements and Supplementary Data in Part II of this Annual Report. 
+ Net income attributable to non-controlling interests. The decrease in net income attributable to non-controlling interests is primarily related to the $10.4 million gain on sale of the investment in a non-integral equity unconsolidated affiliate recorded during the year ended December 31, 2022 as further described in Note 8 of the Notes to Consolidated Financial Statements in ITEM 8. Financial Statements and Supplementary Data in Part II of this Annual Report. 
+ Comprehensive income. See Statements of Comprehensive Income in ITEM 8. Financial Statements and Supplementary Data in Part II of this Annual Report. Comprehensive income increased by $354.2 million in 2023 as compared to 2022, primarily due to a $239.0 million increase in net income and a $99.3 million increase related to foreign currency translation adjustments. The predominant functional currencies for our operations outside the U.S. are Canadian and Australian dollars. Foreign currency translation adjustment income in the year ended December 31, 2023 primarily resulted from the strengthening 
+ 
+ 
+ 46 
+ 
+ 
+ of the Canadian dollar against the U.S. dollar as of December 31, 2023 when compared to December 31, 2022. Foreign currency translation loss in the year ended December 31, 2022 primarily resulted from the strengthening of the U.S. dollar against both the Australian and Canadian dollars as of December 31, 2022 when compared to December 31, 2021. 
+ EBITDA and adjusted EBITDA . See Non-GAAP Financial Measures below for a reconciliation of EBITDA and adjusted EBITDA to net income attributable to common stock, the most comparable GAAP financial measure. EBITDA increased 21.2%, or $309.7 million, to $1.77 billion as compared to $1.46 billion for the year ended December 31, 2022, and adjusted EBITDA increased 15.6%, or $262.2 million, to $1.95 billion as compared to $1.68 billion for the year ended December 31, 2022. 
+ 
+ 
+ Segment Results 
+ We report our results under three reportable segments: Electric Power, Renewable Energy and Underground and Infrastructure. Reportable segment information, including revenues and operating income by type of work, is gathered from each of our operating companies. Classification of our operating company revenues by type of work for segment reporting purposes can at times require judgment on the part of management. Our operating companies may perform joint projects for customers in multiple industries, deliver multiple types of services under a single customer contract or provide service offerings to various industries. For example, we perform joint trenching projects to install distribution lines for electric power and natural gas customers. Integrated operations and common administrative support for operating companies require that certain allocations be made to determine segment profitability, including allocations of corporate shared and indirect operating costs, as well as general and administrative costs. Certain corporate costs are not allocated, including corporate facility costs; non-allocated corporate salaries, benefits and incentive compensation; acquisition and integration costs; non-cash stock-based compensation; amortization related to intangible assets; asset impairments related to goodwill and intangible assets; and change in fair value of contingent consideration liabilities. 
+ The following table sets forth segment revenues, segment operating income (loss) and operating margins for the periods indicated, as well as the dollar and percentage change from the prior period (dollars in thousands): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ Change 
+ 
+ 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ $ 
+ 
+ % 
+ 
+ 
+ Revenues : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Electric Power 
+ 
+ $ 
+ 9,696,897 
+ 
+ 
+ 46.5 
+ % 
+ 
+ $ 
+ 8,940,276 
+ 
+ 
+ 52.4 
+ % 
+ 
+ $ 
+ 756,621 
+ 
+ 
+ 8.5 
+ % 
+ 
+ Renewable Energy 
+ 
+ 6,170,301 
+ 
+ 
+ 29.5 
+ 
+ 
+ 3,778,560 
+ 
+ 
+ 22.1 
+ 
+ 
+ 2,391,741 
+ 
+ 
+ 63.3 
+ % 
+ 
+ Underground and Infrastructure 
+ 
+ 5,015,008 
+ 
+ 
+ 24.0 
+ 
+ 
+ 4,355,067 
+ 
+ 
+ 25.5 
+ 
+ 
+ 659,941 
+ 
+ 
+ 15.2 
+ % 
+ 
+ Consolidated revenues 
+ 
+ $ 
+ 20,882,206 
+ 
+ 
+ 100.0 
+ % 
+ 
+ $ 
+ 17,073,903 
+ 
+ 
+ 100.0 
+ % 
+ 
+ $ 
+ 3,808,303 
+ 
+ 
+ 22.3 
+ % 
+ 
+ Operating income (loss): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Electric Power 
+ 
+ $ 
+ 1,013,350 
+ 
+ 
+ 10.5 
+ % 
+ 
+ $ 
+ 958,798 
+ 
+ 
+ 10.7 
+ % 
+ 
+ $ 
+ 54,552 
+ 
+ 
+ 5.7 
+ % 
+ 
+ Renewable Energy 
+ 
+ 477,208 
+ 
+ 
+ 7.7 
+ % 
+ 
+ 304,308 
+ 
+ 
+ 8.1 
+ % 
+ 
+ 172,900 
+ 
+ 
+ 56.8 
+ % 
+ 
+ Underground and Infrastructure 
+ 
+ 377,977 
+ 
+ 
+ 7.5 
+ % 
+ 
+ 317,543 
+ 
+ 
+ 7.3 
+ % 
+ 
+ 60,434 
+ 
+ 
+ 19.0 
+ % 
+ 
+ Corporate and Non-Allocated Costs 
+ 
+ (740,559) 
+ 
+ 
+ (3.5) 
+ % 
+ 
+ (708,591) 
+ 
+ 
+ (4.2) 
+ % 
+ 
+ (31,968) 
+ 
+ 
+ 4.5 
+ % 
+ 
+ Consolidated operating income 
+ 
+ $ 
+ 1,127,976 
+ 
+ 
+ 5.4 
+ % 
+ 
+ $ 
+ 872,058 
+ 
+ 
+ 5.1 
+ % 
+ 
+ $ 
+ 255,918 
+ 
+ 
+ 29.3 
+ % 
+ Electric Power Segment Results 
+ Revenues. The increase in revenues for the year ended December 31, 2023 was primarily due to increased spending by our utility customers and approximately $270 million in revenues attributable to acquired businesses. These increases were partially offset by approximately $60 million in lower emergency restoration services revenues. 
+ Operating Income. The increase in operating income for the year ended December 31, 2023 was primarily due to the increase in revenues. The decrease in operating margin compared to the year ended December 31, 2022 was due to $10.9 million of lower equity in earnings from our integral unconsolidated affiliates as discussed above, as well as lower utilization of resources in Canada. The decrease in emergency restoration services revenues, which generally deliver higher operating margin, also contributed to the decrease in operating margin. These items were partially offset by the favorable impact of margins related to telecommunication projects. 
+ 
+ 
+ 47 
+ 
+ 
+ Renewable Energy Segment Results 
+ Revenues. The increase in revenues for the year ended December 31, 2023 was primarily due to increased demand and improved supply chain dynamics associated with certain components for renewable generation projects, as well as approximately $225 million in revenues attributable to acquired businesses. These increases were partially offset by approximately $35 million as a result of unfavorable foreign currency exchange rates. 
+ Operating Income. The increase in operating income was primarily due to the increase in revenues during the year ended December 31, 2023. Operating margin during the year ended December 31, 2023 was negatively impacted by variability in overall project timing and increased unabsorbed costs related to the ramping up of resources in the first half of 2023 to support the increase in project activity experienced in the second half of 2023 and into 2024. Operating income and margin for the year ended December 31, 2022 benefited from the favorable acceleration of a transmission project and was negatively impacted by $11.7 million of asset impairment charges related to a software implementation project at an acquired company, which commenced prior to our acquisition and was discontinued in the fourth quarter of 2022. 
+ Underground and Infrastructure Segment Results 
+ Revenues. The increase in revenues for the year ended December 31, 2023 was primarily due to higher demand from our gas utility services customers, and to a lesser extent, increased revenues associated with large pipeline projects in Canada. These increases were partially offset by approximately $55 million as a result of unfavorable foreign currency exchange rates. 
+ Operating Income. Operating income and operating margin increased for the year ended December 31, 2023 primarily due to the increase in revenues, which contributed to higher levels of fixed cost absorption. 
+ Corporate and Non-Allocated Costs 
+ The increase in corporate and non-allocated costs during the year ended December 31, 2023 was primarily due to an aggregate increase of $75.0 million in costs primarily related to compensation expense, which was primarily attributable to non-cash stock compensation expense and salaries in support of business growth, and consulting fees. Also contributing to the increase was a $26.5 million increase in expense related to deferred compensation liabilities. Partially offsetting these increases was a $65.0 million decrease in intangible asset amortization primarily associated with backlog for Blattner, which was fully amortized by the third quarter of 2022. 
+ 
+ 
+ Non-GAAP Financial Measures 
+ EBITDA and Adjusted EBITDA 
+ EBITDA and adjusted EBITDA, financial measures not recognized under GAAP, when used in connection with net income attributable to common stock, are intended to provide useful information to investors and analysts as they evaluate our performance. EBITDA is defined as earnings before interest and other financing expenses, taxes, depreciation and amortization, and adjusted EBITDA is defined as EBITDA adjusted for certain other items as described below. These measures should not be considered as an alternative to net income attributable to common stock or other financial measures of performance that are derived in accordance with GAAP. Management believes that the exclusion of these items from net income attributable to common stock enables us and our investors to more effectively evaluate our operations period over period and to identify operating trends that might not be apparent due to, among other reasons, the variable nature of these items period over period. In addition, management believes these measures may be useful for investors in comparing our operating results with other companies that may be viewed as our peers. 
+ As to certain of the items below, (i) non-cash stock-based compensation expense varies from period to period due to acquisition activity, changes in the estimated fair value of performance-based awards, forfeiture rates, accelerated vesting and amounts granted; (ii) acquisition and integration costs vary from period to period depending on the level and complexity of our acquisition activity; (iii) equity in (earnings) losses of non-integral unconsolidated affiliates varies from period to period depending on the activity and financial performance of such affiliates, the operations of which are not operationally integral to us; (iv) mark-to-market adjustments on investments vary from period to period based on fluctuations in the market price of such company’s common stock; (v) gains and losses on the sale of investments vary from period to period depending on activity; (vi) asset impairment charges vary from period to period depending on economic and other factors; and (vii) change in fair value of contingent consideration liabilities varies from period to period depending on the performance in post-acquisition periods of certain acquired businesses and the effect of present value accretion on fair value calculations. Because EBITDA and adjusted EBITDA, as defined, exclude some, but not all, items that affect net income attributable to common stock, such measures may not be comparable to similarly titled measures of other companies. The most comparable GAAP financial measure, net income 
+ 
+ 
+ 48 
+ 
+ 
+ attributable to common stock, and information reconciling the GAAP and non-GAAP financial measures, are included below. The following table shows dollars in thousands. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended 
+ 
+ 
+ 
+ December 31, 
+ 
+ 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ Net income attributable to common stock (GAAP as reported) 
+ 
+ $ 
+ 744,689 
+ 
+ 
+ $ 
+ 491,189 
+ 
+ 
+ Interest and other financing expenses 
+ 
+ 186,913 
+ 
+ 
+ 124,363 
+ 
+ 
+ Interest income 
+ 
+ (10,830) 
+ 
+ 
+ (2,606) 
+ 
+ 
+ Provision for income taxes 
+ 
+ 219,267 
+ 
+ 
+ 192,243 
+ 
+ 
+ Depreciation expense 
+ 
+ 324,786 
+ 
+ 
+ 290,647 
+ 
+ 
+ Amortization of intangible assets 
+ 
+ 289,014 
+ 
+ 
+ 353,973 
+ 
+ 
+ Interest, income taxes, depreciation and amortization included in equity in earnings of integral unconsolidated affiliates 
+ 
+ 19,936 
+ 
+ 
+ 14,274 
+ 
+ 
+ EBITDA 
+ 
+ 1,773,775 
+ 
+ 
+ 1,464,083 
+ 
+ 
+ Non-cash stock-based compensation 
+ 
+ 126,762 
+ 
+ 
+ 105,600 
+ 
+ 
+ 
+ Acquisition and integration costs (1) 
+ 
+ 42,837 
+ 
+ 
+ 47,431 
+ 
+ 
+ 
+ Equity in earnings of non-integral unconsolidated affiliates 
+ 
+ (1,263) 
+ 
+ 
+ (20,333) 
+ 
+ 
+ 
+ Loss from mark-to-market adjustment on investment (2) 
+ 
+ — 
+ 
+ 
+ 91,500 
+ 
+ 
+ 
+ Gains on sales of investments (3) 
+ 
+ (1,496) 
+ 
+ 
+ (22,222) 
+ 
+ 
+ 
+ Asset impairment charges (4) 
+ 
+ — 
+ 
+ 
+ 14,457 
+ 
+ 
+ Change in fair value of contingent consideration liabilities 
+ 
+ 6,568 
+ 
+ 
+ 4,422 
+ 
+ 
+ Adjusted EBITDA 
+ 
+ $ 
+ 1,947,183 
+ 
+ 
+ $ 
+ 1,684,938 
+ 
+ (1) The amount for the year ended December 31, 2022 includes $35.9 million of expenses that are associated with change of control payments as a result of the acquisition of Blattner. 
+ (2) The amount for the year ended December 31, 2022 is a loss from a decrease in fair value of our investment in Starry. 
+ (3) The amount for the year ended December 31, 2022 is a gain as a result of the sale of a non-integral equity method investment further described in Note 8 of the Notes to Consolidated Financial Statements in ITEM 8. Financial Statements and Supplementary Data in Part II of this Annual Report, and a non-marketable equity security interest in a technology company. 
+ (4) The amount for the year ended December 31, 2022 primarily related to a software implementation project at an acquired company, which commenced prior to our acquisition and was discontinued in the fourth quarter of 2022. 
+ Remaining Performance Obligations and Backlog 
+ A performance obligation is a promise in a contract with a customer to transfer a distinct good or service. Our remaining performance obligations represent management’s estimate of consolidated revenues that are expected to be realized from the remaining portion of firm orders under fixed price contracts not yet completed or for which work has not yet begun, which includes estimated revenues attributable to consolidated joint ventures and variable interest entities, revenues from funded and unfunded portions of government contracts to the extent they are reasonably expected to be realized, and revenues from change orders and claims to the extent management believes they will be earned and are probable of collection. 
+ We have also historically disclosed our backlog, a measure commonly used in our industry but not recognized under GAAP. We believe this measure enables management to more effectively forecast our future capital needs and results and better identify future operating trends that may not otherwise be apparent. We believe this measure is also useful for investors in forecasting our future results and comparing us to our competitors. Our remaining performance obligations are a component of backlog, which also includes estimated orders under MSAs, including estimated renewals, and non-fixed price contracts expected to be completed within one year. Our methodology for determining backlog may not be comparable to the methodologies used by other companies. 
+ As of December 31, 2023 and 2022, MSAs accounted for 45% and 52% of our estimated 12-month backlog and 55% and 65% of our total backlog. Generally, our customers are not contractually committed to specific volumes of services under our MSAs, and most of our contracts can be terminated on short notice even if we are not in default. We determine the estimated backlog for these MSAs using recurring historical trends, factoring in seasonal demand and projected customer needs based upon ongoing communications. In addition, many of our MSAs are subject to renewal, and these potential renewals are 
+ 
+ 
+ 49 
+ 
+ 
+ considered in determining estimated backlog. As a result, estimates for remaining performance obligations and backlog are subject to change based on, among other things, project accelerations; project cancellations or delays, including but not limited to those caused by commercial issues, regulatory requirements, natural disasters, emergencies and adverse weather conditions; and final acceptance of change orders by customers. These factors can cause revenues to be realized in periods and at levels that are different than originally projected. 
+ The following table reconciles total remaining performance obligations to our backlog (a non-GAAP financial measure) by reportable segment, along with estimates of amounts expected to be realized within 12 months (in thousands): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ December 31, 2023 
+ 
+ December 31, 2022 
+ 
+ 
+ 
+ 12 Month 
+ 
+ Total 
+ 
+ 12 Month 
+ 
+ Total 
+ 
+ Electric Power 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Remaining performance obligations 
+ 
+ $ 
+ 2,762,608 
+ 
+ 
+ $ 
+ 4,505,830 
+ 
+ 
+ $ 
+ 2,124,820 
+ 
+ 
+ $ 
+ 3,033,472 
+ 
+ 
+ Estimated orders under MSAs and short-term, non-fixed price contracts 
+ 
+ 5,597,732 
+ 
+ 
+ 10,995,198 
+ 
+ 
+ 5,415,427 
+ 
+ 
+ 10,049,435 
+ 
+ 
+ Backlog 
+ 
+ $ 
+ 8,360,340 
+ 
+ 
+ $ 
+ 15,501,028 
+ 
+ 
+ $ 
+ 7,540,247 
+ 
+ 
+ $ 
+ 13,082,907 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Renewable Energy 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Remaining performance obligations 
+ 
+ $ 
+ 5,512,159 
+ 
+ 
+ $ 
+ 8,005,368 
+ 
+ 
+ $ 
+ 3,183,568 
+ 
+ 
+ $ 
+ 4,638,115 
+ 
+ 
+ Estimated orders under MSAs and short-term, non-fixed price contracts 
+ 
+ 118,770 
+ 
+ 
+ 119,634 
+ 
+ 
+ 57,555 
+ 
+ 
+ 84,094 
+ 
+ 
+ Backlog 
+ 
+ $ 
+ 5,630,929 
+ 
+ 
+ $ 
+ 8,125,002 
+ 
+ 
+ $ 
+ 3,241,123 
+ 
+ 
+ $ 
+ 4,722,209 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Underground and Infrastructure 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Remaining performance obligations 
+ 
+ $ 
+ 1,017,227 
+ 
+ 
+ $ 
+ 1,383,057 
+ 
+ 
+ $ 
+ 1,038,543 
+ 
+ 
+ $ 
+ 1,129,837 
+ 
+ 
+ Estimated orders under MSAs and short-term, non-fixed price contracts 
+ 
+ 2,222,451 
+ 
+ 
+ 5,099,332 
+ 
+ 
+ 1,973,982 
+ 
+ 
+ 5,158,814 
+ 
+ 
+ Backlog 
+ 
+ $ 
+ 3,239,678 
+ 
+ 
+ $ 
+ 6,482,389 
+ 
+ 
+ $ 
+ 3,012,525 
+ 
+ 
+ $ 
+ 6,288,651 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Remaining performance obligations 
+ 
+ $ 
+ 9,291,994 
+ 
+ 
+ $ 
+ 13,894,255 
+ 
+ 
+ $ 
+ 6,346,931 
+ 
+ 
+ $ 
+ 8,801,424 
+ 
+ 
+ Estimated orders under MSAs and short-term, non-fixed price contracts 
+ 
+ 7,938,953 
+ 
+ 
+ 16,214,164 
+ 
+ 
+ 7,446,964 
+ 
+ 
+ 15,292,343 
+ 
+ 
+ Backlog 
+ 
+ $ 
+ 17,230,947 
+ 
+ 
+ $ 
+ 30,108,419 
+ 
+ 
+ $ 
+ 13,793,895 
+ 
+ 
+ $ 
+ 24,093,767 
+ 
+ The increases in remaining performance obligations and backlog from December 31, 2022 to December 31, 2023 were primarily attributable to multiple new project awards. 
+ 
+ 
+ Liquidity and Capital Resources 
+ Overview 
+ We plan to fund our working capital, capital expenditures, debt service, dividends and other cash requirements with our current available liquidity and cash from operations, which could be affected by general economic, financial, competitive, legislative, regulatory, business and other factors, many of which are beyond our control. Management monitors financial markets and national and global economic conditions for factors that may affect our liquidity and capital resources. 
+ As set forth below, we have various short-term and long-term cash requirements and capital allocation priorities, and we intend to fund these requirements primarily with cash flow from operating activities, as well as debt financing as needed. 
+ 
+ 
+ 50 
+ 
+ 
+ Cash Requirements and Capital Allocation 
+ Cash Requirements. The following table summarizes, as of December 31, 2023, our cash requirements from contractual obligations that are due within the twelve months subsequent to December 31, 2023 and thereafter, excluding certain amounts discussed below (in thousands): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Due in 2024 
+ 
+ Due Thereafter 
+ 
+ Total 
+ 
+ Long-term debt, including current portion - principal 
+ 
+ $ 
+ 527,435 
+ 
+ 
+ $ 
+ 3,580,849 
+ 
+ 
+ $ 
+ 4,108,284 
+ 
+ 
+ 
+ Long-term debt - cash interest (1) 
+ 
+ 72,493 
+ 
+ 
+ 554,441 
+ 
+ 
+ 626,934 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating lease obligations (2) 
+ 
+ 87,354 
+ 
+ 
+ 203,888 
+ 
+ 
+ 291,242 
+ 
+ 
+ 
+ Operating lease obligations that have not yet commenced (3) 
+ 
+ 1,285 
+ 
+ 
+ 15,277 
+ 
+ 
+ 16,562 
+ 
+ 
+ 
+ Finance lease obligations (2) 
+ 
+ 8,869 
+ 
+ 
+ 37,960 
+ 
+ 
+ 46,829 
+ 
+ 
+ Short-term lease obligations 
+ 
+ 21,336 
+ 
+ 
+ — 
+ 
+ 
+ 21,336 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Equipment and other purchase commitments (4) 
+ 
+ 148,284 
+ 
+ 
+ — 
+ 
+ 
+ 148,284 
+ 
+ 
+ 
+ Capital commitment related to investments in unconsolidated affiliates (5) 
+ 
+ 1,013 
+ 
+ 
+ 60,162 
+ 
+ 
+ 61,175 
+ 
+ 
+ Total cash requirements from contractual obligations 
+ 
+ $ 
+ 868,069 
+ 
+ 
+ $ 
+ 4,452,577 
+ 
+ 
+ $ 
+ 5,320,646 
+ 
+ (1) Amounts represent cash interest and other financing expenses associated primarily with our senior notes. Interest payments related to our senior credit facility and notes issued under our commercial paper program are not included due to their variable interest rates, and as it relates to the commercial paper program, the short-term nature of the borrowings. With respect to this variable rate debt, assuming the principal amount outstanding and interest rate in effect as of December 31, 2023 remained the same, the annual cash interest expense would be approximately $100.2 million, payable until October 8, 2026, the maturity date of our senior credit facility. 
+ (2) Amounts represent undiscounted operating and finance lease obligations as of December 31, 2023. The corresponding amounts recorded on our December 31, 2023 consolidated balance sheet represent the present value of these amounts. 
+ (3) Amounts represent undiscounted operating lease obligations that had not commenced as of December 31, 2023. The operating lease obligations will be recorded on our consolidated balance sheet beginning on the commencement date of each lease. 
+ (4) Amount primarily represents capital committed for the expansion of our vehicle fleet. Although we have committed to the purchase of these vehicles/equipment, at the time of their delivery, we expect that the majority of these orders will be assigned to third-party leasing companies and made available to us under certain of our master equipment lease agreements. 
+ (5) Amounts represent capital committed for investments in unconsolidated affiliates, including $50.0 million related to a limited partnership interest in a fund that targets investments in certain portfolio companies that operate businesses related to the transition to a reduced-carbon economy. Because we are unable to determine the timing of any such investments, we have included the entire amount of our capital commitment in the “Due Thereafter” column in the above cash requirements table. 
+ Contingent Obligations . We have various contingent obligations that could require the use of cash or impact the collection of cash in future periods; however, we are unable to accurately predict the timing and estimate the amount of such contingent obligations as of December 31, 2023. These contingent obligations generally include, among other things: 
+ • contingent consideration liabilities, which are described further in Note 6 of the Notes to Consolidated Financial Statements in ITEM 8. Financial Statements and Supplementary Data in Part II of this Annual Report; 
+ • undistributed earnings of foreign subsidiaries and unrecognized tax benefits, which are described further in Note 12 of the Notes to Consolidated Financial Statements in ITEM 8. Financial Statements and Supplementary Data in Part II of this Annual Report; 
+ • collective bargaining agreements and multiemployer pension plan liabilities, as well as liabilities related to our deferred compensation and other employee benefit plans, which are described further in Notes 15 and 16 of the Notes to Consolidated Financial Statements in ITEM 8. Financial Statements and Supplementary Data in Part II of this Annual Report; and 
+ • obligations relating to our joint ventures, lawsuits and other legal proceedings, uncollectible accounts receivable, insurance liabilities, obligations relating to letters of credit, bonds and parent guarantees, obligations relating to employment agreements, indemnities and assumed liabilities, and residual value guarantees, which are described further in Notes 4, 10, 11 and 16 of the Notes to Consolidated Financial Statements in ITEM 8. Financial Statements and Supplementary Data in Part II of this Annual Report . 
+ 
+ 
+ 51 
+ 
+ 
+ Capital Allocation . Our capital deployment priorities that require the use of cash include: (i) working capital to fund ongoing operating needs, (ii) capital expenditures to meet anticipated demand for our services, (iii) acquisitions and investments to facilitate the long-term growth and sustainability of our business, and (iv) return of capital to stockholders, including through the payment of dividends and repurchases of our outstanding common stock. Our industry is capital intensive, and we expect substantial capital expenditures and commitments for equipment purchases and equipment lease and rental arrangements to be needed into the foreseeable future in order to meet anticipated demand for our services. We expect capital expenditures for property and equipment purchases for the year ended December 31, 2024 to be approximately $450 million. We also expect to continue to allocate significant capital to strategic acquisitions and investments, as well as to pay dividends and to repurchase our outstanding common stock and/or debt securities. During 2023, we completed the acquisition of five businesses in which a portion of the consideration, net of cash acquired, consisted of $651.6 million in cash funded with a combination of cash and cash equivalents and borrowings from our commercial paper program. In January of 2024, we completed the acquisition of two businesses in which a portion of the consideration consisted of $378.7 million in cash paid on the acquisition dates funded with a combination of cash and cash equivalents and borrowings from our commercial paper program. For additional information regarding these acquisitions, refer to Note 6 of the Notes to Consolidated Financial Statements in ITEM 8. Financial Statements and Supplementary Data in Part II of this Annual Report. 
+ Significant Sources of Cash 
+ We anticipate that our future cash flows from operating activities, cash and cash equivalents on hand, existing borrowing capacity under our senior credit facility and ability to access capital markets for additional capital will provide sufficient funds to enable us to meet our cash requirements described above for the next twelve months and over the longer term. 
+ Cash flow from operating activities is primarily influenced by demand for our services and operating margins but is also influenced by the timing of working capital needs associated with the various types of services that we provide. Our working capital needs may increase when we commence large volumes of work under circumstances where project costs are required to be paid before the associated receivables are billed and collected. Additionally, operating cash flows may be negatively impacted as a result of unpaid and delayed change orders and claims. Changes in project timing due to delays or accelerations and other economic, regulatory, market and political factors that may affect customer spending could also impact cash flow from operating activities. Further information with respect to our cash flow from operating activities is set forth below and in Note 18 of the Notes to Consolidated Financial Statements in ITEM 8. Financial Statements and Supplementary Data in Part II of this Annual Report . 
+ Our available commitments under our senior credit facility and cash and cash equivalents as of December 31, 2023 were as follows (in thousands): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ December 31, 2023 
+ 
+ Total capacity available for revolving loans, credit support for commercial paper program and letters of credit 
+ 
+ $ 
+ 2,640,000 
+ 
+ 
+ Less: 
+ 
+ 
+ 
+ Borrowings of revolving loans 
+ 
+ 135,887 
+ 
+ 
+ 
+ Commercial paper program notes outstanding (1) 
+ 
+ 705,900 
+ 
+ 
+ Letters of credit outstanding 
+ 
+ 274,206 
+ 
+ 
+ Available commitments for revolving loans, credit support for commercial paper program and letters of credit 
+ 
+ 1,524,007 
+ 
+ 
+ Plus: 
+ 
+ 
+ 
+ 
+ Cash and cash equivalents (2) 
+ 
+ 1,290,248 
+ 
+ 
+ Total available commitments under senior credit facility and cash and cash equivalents 
+ 
+ $ 
+ 2,814,255 
+ 
+ (1) Amount represents unsecured notes issued under our commercial paper program, which has a maximum aggregate amount of $1.50 billion of notes outstanding at any time. Available commitments for revolving loans under our senior credit facility must be maintained to provide credit support for notes issued under our commercial paper program, and therefore such notes effectively reduce the available borrowing capacity under our senior credit facility. 
+ (2) Further information with respect to our cash and cash equivalents is set forth below and in Note 17 of the Notes to Consolidated Financial Statements in ITEM 8. Financial Statements and Supplementary Data in Part II of this Annual Report . This amount includes $256.5 million in jurisdictions outside of the U.S., principally in Canada and Australia. There are currently no legal or economic restrictions that would materially impede our ability to repatriate such cash. 
+ We consider our investment policies related to cash and cash equivalents to be conservative, as we maintain a diverse 
+ 
+ 
+ 52 
+ 
+ 
+ portfolio of what we believe to be high-quality cash and cash equivalent investments with short-term maturities. Additionally, subject to the conditions specified in the credit agreement for our senior credit facility, we have the option to increase the capacity of our senior credit facility, in the form of an increase in the revolving commitments, term loans or a combination thereof, from time to time, upon receipt of additional commitments from new or existing lenders by up to an additional (i) $400.0 million plus (ii) additional amounts so long as the Incremental Leverage Ratio Requirement (as defined in the credit agreement) is satisfied at the time of such increase. The Incremental Leverage Ratio Requirement requires, among other things, after giving pro forma effect to such increase and the use of proceeds therefrom, compliance with the credit agreement’s financial covenants as of the most recent fiscal quarter end for which financial statements were required to be delivered. Further information with respect to our debt obligations is set forth in Note 10 of the Notes to Consolidated Financial Statements in ITEM 8. Financial Statements and Supplementary Data in Part II of this Annual Report . 
+ We may also seek to access the capital markets from time to time to raise additional capital, increase liquidity as necessary, refinance or extend the term of our existing indebtedness, fund acquisitions or otherwise fund our capital needs. While our financial strategy and consistent performance have allowed us to maintain investment grade ratings, our ability to access capital markets in the future depends on a number of factors, including our financial performance and financial position, our credit ratings, industry conditions, general economic conditions, our backlog, capital expenditure commitments, market conditions and market perceptions of us and our industry. 
+ Sources and Uses of Cash, Cash Equivalents and Restricted Cash During the Years Ended December 31, 2023 and 2022 
+ In summary, our cash flows for each period were as follows (in thousands): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ Net cash provided by operating activities 
+ 
+ $ 
+ 1,575,952 
+ 
+ 
+ $ 
+ 1,130,312 
+ 
+ 
+ Net cash used in investing activities 
+ 
+ $ 
+ (989,650) 
+ 
+ 
+ $ 
+ (617,191) 
+ 
+ 
+ 
+ Net cash provided by (used in) financing activities 
+ 
+ $ 
+ 268,500 
+ 
+ 
+ $ 
+ (311,071) 
+ 
+ Operating Activities 
+ Net cash provided by operating activities of $1.58 billion and $1.13 billion in 2023 and 2022 primarily reflected earnings adjusted for non-cash items and cash used by the main components of working capital: “Accounts and notes receivable,” “Contract assets,” “Prepaid expenses and other current assets,” “Accounts payable and accrued expenses,” and “Contract liabilities.” Net cash provided by operating activities during the years ended December 31, 2023 and 2022 was negatively impacted by incremental working capital requirements and the timing of the associated billings related to the large renewable transmission project in Canada as discussed further in Note 4 of the Notes to Consolidated Financial Statements in ITEM 8. Financial Statements and Supplementary Data in Part II of this Annual Report. 
+ Certain payments negatively impacted net cash provided by operating activities in the year ended 2022, including $45.4 million related to change of control liabilities owed to employees of Blattner and payable in connection with our acquisition of Blattner; and $54.4 million for payments associated with deferred employer payroll taxes, which were due during the year ended December 31, 2020 but deferred pursuant to the Coronavirus Aid, Relief, and Economic Security Act (CARES Act). Partially offsetting these items was the receipt of $100.5 million pursuant to coverage under an insurance policy related to an outcome in a legal proceeding, as further described in Legal Proceedings - Peru Project Dispute in Note 16 of the Notes to Consolidated Financial Statements in ITEM 8. Financial Statements and Supplementary Data in Part II of this Annual Report. 
+ As discussed above, cash flow provided by operating activities is primarily influenced by demand for our services and operating margins but is also influenced by working capital needs. Our working capital needs may increase when we commence large volumes of work under circumstances where project costs, primarily labor, equipment and subcontractors, are required to be paid before the associated receivables are billed and collected and when we incur costs for work that is the subject of unpaid change orders and claims. Accordingly, changes within working capital in accounts receivable, contract assets and contract liabilities are normally related and are typically affected on a collective basis by changes in revenue due to the timing and volume of work performed and variability in the timing of customer billings and payments, as well as change orders and claims. Additionally, working capital needs are generally higher during the summer and fall due to increased demand for our services when favorable weather conditions exist in many of our operating regions. Conversely, working capital assets are typically converted to cash during the winter. These seasonal trends can be offset by changes in project timing due to delays or accelerations and other economic factors that may affect customer spending, including market conditions or the impact of certain unforeseen events (e.g., regulatory and other actions that impact the supply chain for certain materials). 
+ Days sales outstanding (DSO) represents the average number of days it takes revenues to be converted into cash, which management believes is an important metric for assessing liquidity. A decrease in DSO has a favorable impact on cash flow 
+ 
+ 
+ 53 
+ 
+ 
+ from operating activities, while an increase in DSO has a negative impact on cash flow from operating activities. DSO is calculated by using the sum of current accounts receivable, net of allowance (which includes retainage and unbilled balances), plus contract assets less contract liabilities, and divided by average revenues per day during the quarter. DSO at December 31, 2023 was 68 days, which was lower than DSO of 75 days at December 31, 2022 and our five-year historical average DSO of 84 days. This decrease in DSO as compared to December 31, 2022 was partially due to an increase in contract liabilities related to favorable billing terms on certain large projects, increased revenues and improved collection of receivables in the fourth quarter of 2023. Although the decrease in DSO had a positive impact on cash flow from operating activities, increased unapproved change orders included in contract assets from the aforementioned large renewable transmission project in Canada continue to have a negative impact on DSO and cash flow from operating activities. Also negatively impacting cash flow from operating activities for 2023 was our prepayment of amounts to suppliers for certain project materials that require a long lead time. 
+ Days payables outstanding (DPO) represents the average number of days it takes to repay accounts payable, which management believes is an important metric for assessing liquidity. A decrease in DPO has a negative impact on cash flow from operating activities, while an increase in DPO has a favorable impact on cash flow from operating activities. DPO is calculated by using accounts payable divided by average cost of services per day during the quarter. Net cash provided by operating activities during the year ended December 31, 2023 was positively impacted by increased DPO, which was primarily the result of increased accounts payable activity on certain large renewable projects. 
+ Investing Activities 
+ Net cash used in investing activities in the year ended 2023 included $651.6 million related to acquisitions and $434.8 million of capital expenditures. Partially offsetting these items were $69.3 million of proceeds from the sale of, and insurance settlements related to, property and equipment and $42.3 million of cash received from the sale of investments. 
+ Net cash used in investing activities in 2022 included $427.6 million of capital expenditures; $195.1 million related to acquisitions, primarily associated with a net working capital adjustment in connection with our acquisition of Blattner; and $78.1 million of cash paid primarily for equity method and non-marketable securities. Partially offsetting these items were $64.1 million of proceeds from the sale of, and insurance settlements related to, property and equipment and $20.6 million of cash received from the sale of investments. 
+ Our industry is capital intensive, and we expect substantial capital expenditures and commitments for equipment purchases and equipment lease and rental arrangements to be needed for the foreseeable future in order to meet anticipated demand for our services. In addition, we expect to continue to pursue strategic acquisitions and investments, although we cannot predict the timing or amount of the cash needed for these initiatives. We also have various other capital commitments that are detailed in Cash Requirements and Capital Allocation above. 
+ Financing Activities 
+ Net cash provided by financing activities in the year ended December 31, 2023 included $408.7 million of net borrowings under our senior credit facility and commercial paper program, partially offset by $119.8 million of payments to satisfy tax withholding obligations associated with stock-based compensation and $47.8 million of dividends. 
+ Net cash used in financing activities in the year ended December 31, 2022 included $127.8 million of common stock repurchases, $82.6 million of payments to satisfy tax withholding obligations associated with stock-based compensation; $41.1 million of dividends; and $23.4 million of net payments under our senior credit facility and commercial paper program. 
+ We expect to continue to utilize cash for similar financing activities in the future, including repayments of our outstanding debt, payment of cash dividends and repurchases of our common stock and/or debt securities. 
+ 
+ 
+ Critical Accounting Estimates 
+ The discussion and analysis of our financial condition and results of operations are based on our consolidated financial statements, which have been prepared in accordance with GAAP. The preparation of these consolidated financial statements requires us to make estimates and assumptions that affect the reported amounts of assets and liabilities, disclosures of contingent assets and liabilities known to exist as of the date the consolidated financial statements are published and the reported amounts of revenues and expenses recognized during the periods presented. We review all significant estimates affecting our consolidated financial statements on a recurring basis and record the effect of any necessary adjustments prior to their publication. Judgments and estimates are based on our beliefs and assumptions derived from information available at the time such judgments and estimates are made. Uncertainties with respect to such estimates and assumptions are inherent in the preparation of financial statements. There can be no assurance that actual results will not differ from those estimates. Management has reviewed its development and selection of critical accounting estimates with the audit committee of our Board of Directors. Our accounting policies are primarily described in Notes 2 and 4 of the Notes to Consolidated Financial 
+ 
+ 
+ 54 
+ 
+ 
+ Statements in ITEM 8. Financial Statements and Supplementary Data in Part II of this Annual Report and should be read in conjunction with the accounting policies identified below that we believe affect our more significant estimates used in the preparation of our consolidated financial statements. 
+ Revenue Recognition - Contract Estimates and Changes in Estimates 
+ Refer to Contract Estimates and Changes in Estimates in Note 4 of the Notes to Consolidated Financial Statements in ITEM 8. Financial Statements and Supplementary Data in Part II of this Annual Report for a description of a variety of factors that can cause changes in estimates and how changes in estimates on certain contracts may result in the issuance of change orders or claims under contracts for our projects. The quantitative impacts of changes in estimates and change orders and claims are also included therein. 
+ Due to the significant judgments utilized in the revenue and cost estimation process, if subsequent actual results and/or updated assumptions or estimates were to change from those utilized as of December 31, 2023, it could result in a material impact to our results of operations. As described in Note 4 of the Notes to Consolidated Financial Statements in ITEM 8. Financial Statements and Supplementary Data in Part II of this Annual Report, under fixed price contracts, as well as unit-price contracts with more than an insignificant amount of partially completed units, revenue is recognized as performance obligations are satisfied over time. Approximately 56.5% of our revenues recognized during the year ended December 31, 2023 were associated with this revenue recognition method. There were no material changes in estimates impacting revenues or gross profit during the years ended December 31, 2023, 2022 and 2021 other than a 5.7% favorable impact to gross profit that resulted from net positive changes in estimates across a large number of projects in the year ended December 31, 2021, primarily as a result of favorable performance and successful mitigation of risks and contingencies as the projects progressed to completion. 
+ Collectibility of Accounts Receivable and Contract Assets 
+ Refer to Accounts Receivable, Allowance for Credit Losses and Concentrations of Credit Risk in Note 4 of the Notes to Consolidated Financial Statements in ITEM 8. Financial Statements and Supplementary Data in Part II of this Annual Report for a description of how we determine our allowance for credit losses, which is based on an estimate of expected credit losses for financial instruments, primarily accounts receivable (including unbilled receivables) and contract assets, as well as activity in allowance for credit losses. 
+ Should anticipated collections fail to materialize, or if future economic conditions deteriorate, we could experience an increase in our allowance for credit losses. If our historical loss ratio had been 5 basis points higher or lower as of December 31, 2023, our provision for credit loss would have increased or decreased $2.6 million during the year ended December 31, 2023. 
+ Acquisitions 
+ Contingent Consideration. Refer to Contingent Consideration in Note 6 of the Notes to Consolidated Financial Statements in ITEM 8. Financial Statements and Supplementary Data in Part II of this Annual Report for a description of how contingent consideration liabilities are determined and the related assumptions and uncertainties utilized for our estimates, as well as the balances and account activity. The maximum amount payable related to these liabilities is also included therein. 
+ Valuation of Long-Lived Assets. Refer to Notes 2 and 6 of the Notes to Consolidated Financial Statements in ITEM 8. Financial Statements and Supplementary Data in Part II of this Annual Report for a description of valuation of long-lived assets related to acquisitions (other intangible assets and property, plant and equipment), including assumptions and uncertainties related to our estimates, as well as amounts related to recent acquisitions. If we determine there is a change in the valuation of long-lived assets during the measurement period, the change in estimate would result in a change in the amount of goodwill. 
+ Goodwill, Other Intangible Assets and Property, Plant and Equipment 
+ In connection with our annual goodwill assessments in 2023 and 2022, management performed a qualitative impairment assessment of our reporting units, which indicated that the fair value of our reporting units was greater than their carrying value including goodwill. Accordingly, a quantitative goodwill impairment test was not required, and no goodwill impairment was recognized in 2023 or 2022. Additionally, there were no material impairments related to other intangible assets or property, plant equipment in 2023 or 2022. Changes in facts and circumstances, judgments and assumptions used to determine these fair values, including with respect to market conditions and the economy, could result in impairment charges in the future that could be material to our financial statements. 
+ 
+ 
+ 55 
+ 
+ 
+ Insurance 
+ Refer to Notes 2 and 16 of the Notes to Consolidated Financial Statements in ITEM 8. Financial Statements and Supplementary Data in Part II of this Annual Report for a description of our insurance coverage, accounting policies related to insurance, accruals and related recoveries, as well as uncertainties of the related estimates. Our estimates of insurance liabilities related to employer’s liability, workers’ compensation, auto liability and general liability require us to make assumptions related to potential losses regarding our determination of amounts considered probable and estimable. We, along with our third-party actuary and third-party administrator, consider a number of factors when estimating our retained liability, including claims experience, demographic factors, severity factors and other actuarial assumptions. We periodically review our estimates and assumptions with our third-party actuary to assist us in determining the adequacy of our retained liability. As of December 31, 2023, the amount accrued for employer’s liability, workers’ compensation, auto liability and general liability totaled $327.3 million. 
+ Although we believe that we have reasonably estimated our insurance liability, it is possible that actual results could differ from recorded retained liabilities. Our insurance liability is based on a reasonable estimate provided by our third-party actuaries based on a statistical model that considers the cumulative probability distribution of all possible loss estimates. 
+ Income Taxes 
+ Refer to Notes 2 and 12 of the Notes to Consolidated Financial Statements in ITEM 8. Financial Statements and Supplementary Data in Part II of this Annual Report for a description of our accounting policies related to income taxes, the identification and measurement of deferred tax assets and liabilities, the measurement of valuation allowances on deferred tax assets, benefits from uncertain tax positions and the amount of unrecognized tax benefits that are reasonably possible of being adjusted within 12 months due to the expiration of a statute of limitations and/or resolution of examinations with taxing authorities. 
+ The evaluation of the recoverability of the deferred tax asset requires us to weigh all positive and negative evidence, including projected future taxable income and whether we will be able to utilize state and foreign net operating loss carryforwards, to determine whether it is more likely than not that all or some portion of the deferred tax assets will not be realized. Revisions to our forecasts, declining macroeconomic conditions or other factors could result in changes to our assessment of the realization of these deferred income tax assets. 
+ The evaluation of uncertain tax positions involves significant estimates and judgments. Although we believe that our estimates and judgments are reasonable, we are occasionally challenged by various taxing authorities regarding the amount of taxes due. To the extent we prevail in matters for which a liability has been established, are required to pay amounts in excess of the established liability or experience a change in judgment, the change in the liability could increase or decrease income tax expense in the period of such determination. 
+ 
+ 

@@ -1,0 +1,4840 @@
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+ The following discussion should be read in conjunction with our consolidated financial statements and the notes thereto. This discussion summarizes the significant factors affecting our results of operations and the financial condition of our business during each of the fiscal years in the three-year period ended December 31, 2016 . Except as otherwise indicated or unless the context otherwise requires, “Xylem,” “we,” “us,” “our” and “the Company” refer to Xylem Inc. and its subsidiaries. 
+ Overview 
+ Xylem is a leading global water technology company. We design, manufacture and service highly engineered solutions ranging across a wide variety of critical applications. Our broad portfolio of solutions addresses customer needs across the water cycle, from the delivery and use of drinking water to the collection and treatment of wastewater to the return of water to the environment. Our product and service offerings are organized into three reportable segments that are aligned around the critical market applications they provide: Water Infrastructure, Applied Water and Sensus. 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Water Infrastructure serves the water infrastructure sector with pump systems that transport water from aquifers, lakes, rivers and seas; with filtration, ultraviolet and ozone systems that provide treatment, making the water fit to use; and pumping solutions that move the wastewater to treatment facilities where our mixers, biological treatment, monitoring and control systems provide the primary functions in the treatment process. We provide analytical instrumentation used to measure water quality, flow and level in wastewater, surface water and coastal environments. In the Water Infrastructure segment, we provide the majority of our sales directly to customers with strong application expertise, while the remaining amount is through distribution partners. 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Applied Water serves the usage applications sector with water pressure boosting systems for heating, ventilation and air conditioning and for fire protection systems to the residential and commercial building services markets. In addition, our pumps, heat exchangers, valves and controls provide cooling to power plants and manufacturing facilities, as well as circulation for food and beverage processing. We also provide boosting systems for farming irrigation, pumps for dairy operations and rainwater reuse systems for small scale crop and turf irrigation. In the Applied Water segment, we provide the majority of our sales through long-standing relationships with many of the leading independent distributors in the markets we serve, with the remainder going directly to customers. 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Sensus , which we acquired on October 31, 2016, serves the utility infrastructure solutions and services sector by delivering communications, smart metering, measurement and control technologies and services that allow customers to more effectively use their distribution networks for the delivery of critical resources such as water, electricity and natural gas. Additionally, we sell software and services including cloud-based analytics, remote monitoring and data management, and also sell smart lighting products and solutions that improve efficiency and public safety efforts across communities. In the Sensus segment we generate the majority of our sales in the U.S. through long-standing relationships with leading distributors and dedicated channel partners, while we use a combination of direct sales and distribution channels internationally, depending on the regional availability of distribution channels. The Sensus segment has approximately 3,300 employees across 28 locations on six continents. 
+ Key Performance Indicators and Non-GAAP Measures 
+ Management reviews key performance indicators including revenue, gross margin, segment operating income and margins, earnings per share, orders growth, working capital and backlog, among others. In addition, we consider certain non-GAAP (or "adjusted") measures to be useful to management and investors evaluating our operating performance for the periods presented, and to provide a tool for evaluating our ongoing operations, liquidity and management of assets. This information can assist investors in assessing our financial performance and measures our ability to generate capital for deployment among competing strategic alternatives and initiatives, including, but not limited to, dividends, acquisitions, share repurchases and debt repayment. Excluding revenue, Xylem provides guidance only on a non-GAAP basis due to the inherent difficulty in forecasting certain amounts that would be included in GAAP earnings, such as discrete tax items, without unreasonable effort. These adjusted metrics are consistent with how management views our business and are used to make financial, operating and planning decisions. These metrics, however, are not measures of financial performance under GAAP and should not be considered a substitute for revenue, operating income, net income, earnings per share (basic and diluted) or net cash from operating activities as determined in accordance with GAAP. We consider the following non-GAAP 
+ 
+ 
+ 27 
+ 
+ measures, which may not be comparable to similarly titled measures reported by other companies, to be key performance indicators: 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ "organic revenue" and "organic orders" defined as revenue and orders, respectively, excluding the impact of fluctuations in foreign currency translation and contributions from acquisitions and divestitures. Divestitures include sales of insignificant portions of our business that did not meet the criteria for classification as a discontinued operation. The period-over-period change resulting from foreign currency translation impacts is determined by translating current period and prior period activity using the same currency conversion rate. 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ "constant currency" defined as financial results adjusted for foreign currency translation impacts by translating current period and prior period activity using the same currency conversion rate. This approach is used for countries whose functional currency is not the U.S. Dollar. 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ "adjusted net income" and "adjusted earnings per share" defined as net income and earnings per share, respectively, adjusted to exclude restructuring and realignment costs, Sensus acquisition related costs, special charges, gain from sale of business and tax-related special items, as applicable. A reconciliation of adjusted net income is provided below. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (in millions, except per share data) 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 2014 
+ 
+ 
+ Net income 
+ 
+ 
+ 
+ $ 
+ 
+ 260 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 340 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 337 
+ 
+ 
+ 
+ 
+ Restructuring and realignment, net of tax benefit of $13, $5 and $12, respectively 
+ 
+ 
+ 
+ 34 
+ 
+ 
+ 
+ 
+ 
+ 15 
+ 
+ 
+ 
+ 
+ 
+ 31 
+ 
+ 
+ 
+ 
+ Sensus acquisition related costs, net of tax benefit of $15 
+ 
+ 
+ 
+ 38 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Special charges, net of tax benefit of $7 and $0, respectively 
+ 
+ 
+ 
+ 11 
+ 
+ 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Tax-related special items 
+ 
+ 
+ 
+ 21 
+ 
+ 
+ 
+ 
+ 
+ (15 
+ 
+ ) 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ 
+ Gain from sale of business, net of $0 tax in both years 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ (9 
+ 
+ ) 
+ 
+ 
+ 
+ (11 
+ 
+ ) 
+ 
+ 
+ Adjusted net income 
+ 
+ 
+ 
+ $ 
+ 
+ 364 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 336 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 362 
+ 
+ 
+ 
+ 
+ Weighted average number of shares - Diluted 
+ 
+ 
+ 
+ 180.0 
+ 
+ 
+ 
+ 
+ 
+ 181.7 
+ 
+ 
+ 
+ 
+ 
+ 184.2 
+ 
+ 
+ 
+ 
+ Earnings per share 
+ 
+ 
+ 
+ $ 
+ 
+ 1.45 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1.87 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1.83 
+ 
+ 
+ 
+ 
+ Adjusted earnings per share 
+ 
+ 
+ 
+ $ 
+ 
+ 2.03 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1.85 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1.97 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ "operating expenses excluding restructuring and realignment costs, Sensus acquisition related costs and special charges" defined as operating expenses, adjusted to exclude restructuring and realignment costs, Sensus acquisition related costs and special charges. 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ "adjusted operating income (loss)" defined as operating income (loss), adjusted to exclude restructuring and realignment costs, Sensus acquisition related costs and special charges, and "adjusted operating margin" defined as adjusted operating income divided by total revenue. 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ “realignment costs” defined as costs not included in restructuring costs that are incurred as part of actions taken to reposition our business, including items such as professional fees, severance, relocation, travel, facility set-up and other costs. 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ "Sensus acquisition related costs" defined as costs incurred by the Company associated with the acquisition of Sensus that are being reported within operating income. These costs include transaction costs, integration costs, costs related to the recognition of inventory step-up and amortization of the backlog intangible asset recorded in purchase accounting. 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ “special charges" defined as costs incurred by the Company, such as interest expense related to the early extinguishment of debt during Q2 2016, financing costs related to the bridge loan entered into in Q3 2016 for the Sensus acquisition, initial acquisition costs not related to Sensus, costs incurred for the contractual indemnification of tax obligations to ITT and other special non-operating items. 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ "tax-related special items" defined as tax items, such as tax return versus tax provision adjustments, tax exam impacts, tax law change impacts, significant reserves for cash repatriation, excess tax benefits/losses and other discrete tax adjustments. 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ "free cash flow" defined as net cash from operating activities, as reported in the statement of cash flow, less capital expenditures, as well as adjustments for other significant items that impact current results which management believes are not related to our ongoing operations and performance. Our definition of free cash 
+ 
+ 
+ 28 
+ 
+ flow does not consider certain non-discretionary cash payments, such as debt. The following table provides a reconciliation of free cash flow. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (in millions) 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 2014 
+ 
+ 
+ Net cash provided by operating activities 
+ 
+ 
+ 
+ $ 
+ 
+ 497 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 464 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 416 
+ 
+ 
+ 
+ 
+ Capital expenditures 
+ 
+ 
+ 
+ (124 
+ 
+ ) 
+ 
+ 
+ 
+ (117 
+ 
+ ) 
+ 
+ 
+ 
+ (119 
+ 
+ ) 
+ 
+ 
+ Free cash flow 
+ 
+ 
+ 
+ $ 
+ 
+ 373 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 347 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 297 
+ 
+ 
+ 
+ 
+ Cash paid for Sensus related acquisition costs 
+ 
+ 
+ 
+ 13 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Free cash flow, excluding Sensus acquisition related costs 
+ 
+ 
+ 
+ $ 
+ 
+ 386 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 347 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 297 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ “EBITDA” defined as earnings before interest, taxes, depreciation, amortization expense, and share-based compensation and “Adjusted EBITDA” reflects the adjustment to EBITDA to exclude restructuring and realignment costs, Sensus acquisition related costs, gain from sale of business and special charges. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (in millions) 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 2014 
+ 
+ 
+ Net Income 
+ 
+ 
+ 
+ $ 
+ 
+ 260 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 340 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 337 
+ 
+ 
+ 
+ 
+ Income tax expense 
+ 
+ 
+ 
+ 80 
+ 
+ 
+ 
+ 
+ 
+ 63 
+ 
+ 
+ 
+ 
+ 
+ 84 
+ 
+ 
+ 
+ 
+ Interest expense (Income), net 
+ 
+ 
+ 
+ 68 
+ 
+ 
+ 
+ 
+ 
+ 53 
+ 
+ 
+ 
+ 
+ 
+ 52 
+ 
+ 
+ 
+ 
+ Depreciation 
+ 
+ 
+ 
+ 87 
+ 
+ 
+ 
+ 
+ 
+ 88 
+ 
+ 
+ 
+ 
+ 
+ 95 
+ 
+ 
+ 
+ 
+ Amortization 
+ 
+ 
+ 
+ 64 
+ 
+ 
+ 
+ 
+ 
+ 45 
+ 
+ 
+ 
+ 
+ 
+ 47 
+ 
+ 
+ 
+ 
+ Stock compensation 
+ 
+ 
+ 
+ 18 
+ 
+ 
+ 
+ 
+ 
+ 15 
+ 
+ 
+ 
+ 
+ 
+ 18 
+ 
+ 
+ 
+ 
+ EBITDA 
+ 
+ 
+ 
+ $ 
+ 
+ 577 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 604 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 633 
+ 
+ 
+ 
+ 
+ Restructuring and realignment 
+ 
+ 
+ 
+ 47 
+ 
+ 
+ 
+ 
+ 
+ 20 
+ 
+ 
+ 
+ 
+ 
+ 43 
+ 
+ 
+ 
+ 
+ Sensus acquisition related costs 
+ 
+ 
+ 
+ 46 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Special charges 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Gain from sale of business 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ (9 
+ 
+ ) 
+ 
+ 
+ 
+ (11 
+ 
+ ) 
+ 
+ 
+ Adjusted EBITDA 
+ 
+ 
+ 
+ $ 
+ 
+ 675 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 620 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 665 
+ 
+ 
+ Executive Summary 
+ Xylem reported revenue of $3,771 million for 2016 , an increase of $118 million or 3.2% from $3,653 million reported in 2015 . Revenue increased 5.3% on a constant currency basis due to increased revenue of $163 million from acquisitions and organic revenue growth of $29 million driven primarily by a robust public utility end market and a relatively stable commercial business. 
+ Operating income for 2016 was $406 million , reflecting a decrease of $43 million or 9.6% compared to $449 million in 2015 . Operating margin was 10.8% for 2016 versus 12.3% for 2015, a decrease of 150 basis points. This decrease in operating income was primarily due to Sensus acquisition related costs of $53 million, increases in restructuring and realignment costs of $27 million and increases in special charges of $4 million. Excluding these costs, adjusted operating income was $511 million, with an adjusted operating margin of 13.6%, reflecting an increase of $41 million or 8.7% and 70 basis points, respectively, as compared with 2015 adjusted operating income of $470 million (adjusted operating margin of 12.9%). This increase in adjusted operating income was driven by strong progress in our productivity initiatives and cost reductions, which more than offset cost inflation, spending on strategic investments and unfavorable mix. 
+ Additional financial highlights for 2016 include the following: 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Net income of $260 million , or $1.45 per diluted share ( $364 million or $2.03 per diluted share on an adjusted basis) 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Cash from operating activities of $497 million , and free cash flow, excluding Sensus acquisition related costs, of $386 million 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Orders of $ 3,824 million , up 3.0% from $ 3,711 million in 2015 (up 0.3% on an organic basis) 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Dividends paid to shareholders increased 10% in 2016 . 
+ 
+ 
+ 29 
+ 
+ 2017 Business Outlook 
+ We anticipate total revenue growth in the range of 20% to 22% in 2017 with organic revenue growth in the low-single-digits and Sensus contributing the additional revenue growth. The following is a summary of our outlook by end market. 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Industrial was down 4% for 2016, including agriculture which will be included within industrial going forward, as general industrial strength was more than offset by oil and gas declines in Canada and the United States. For 2017, we expect growth to be flat to up in the low-single-digits. We believe the soft market conditions in general industrial that occurred in the U.S. during 2016 will carry into at least the first half of 2017, with modest growth returning over the second half. We continue to expect that the oil and gas markets will be down year-over-year, despite some pockets of higher activity. We expect Emerging Market performance to continue to be mixed with some strength in China and Latin America, offset by continued weakness in the Middle East. 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Public utilities increased 8% for 2016 driven by the United States recovery and continued emerging markets investments. We expect growth to be moderate but still increase low to mid-single-digits. In the U.S., which represents approximately one-quarter of our public utility base, we anticipate solid repair and replacement, or opex, activity coupled with some acceleration of project activity later in the year. In Emerging Markets, we expect large project activities to drive growth particularly in China and India. We also anticipate continued growth in Europe, particularly in the United Kingdom with the third year of positive impacts from the AMP 6 cycle. Additionally, we anticipate Sensus public utility revenue to continue to grow at mid-to-high single digits over their historical performance driven by expected growth in the United States within smart metering applications. 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Commercial experienced growth of 2% for 2016 driven by strength in the European market which was partially offset by weakness in the United States. We expect continued growth in the low-single-digit range for 2017. Market data suggests a low-growth environment in the U.S. where we have a leading market position and more than half of our total Commercial exposure. Beyond the U.S., the global outlook is mixed. We believe Europe will be closer to flat with lower construction activity and funding uncertainty in certain countries. Also, our business in Europe will face a tough prior year comparison to this year's 10% growth. China appears to be stabilizing and we expect the market to grow over a weak 2016 performance. 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Residential markets were down 3% in 2016 with weakness across most regions. For 2017 we expect low- single-digit growth. In the U.S. we expect relatively flat year over year volumes given the competitive landscape and replacement nature of the sector we serve. The European market looks to be modestly stronger as residential building permitting, which is an indicator of sales, increased during the fourth quarter. 
+ We will continue to strategically execute restructuring and realignment actions primarily to reposition our European and North American business in an effort to optimize our cost structure and improve our operational efficiency and effectiveness. During 2016, we incurred $30 million and $17 million in restructuring and realignment costs, respectively. As a result of these actions in 2016, we realized $10 million of net savings and expect to realize approximately $24 million of incremental net savings in 2017. During 2017, we currently expect to incur approximately $30 million in Sensus integration, restructuring and realignment costs. 
+ Additional strategic actions we are taking include strategic initiatives to drive above-market growth, advance continuous improvement activities to increase productivity, focus on improving cash performance and drive a disciplined capital deployment strategy. Additionally, with the acquisition of Sensus, we anticipate increased spending on research and development as a percentage of revenue as Sensus brings a higher profile of R&D given the investment required to support growth and new product launches. 
+ 
+ 
+ 
+ 
+ 30 
+ 
+ 
+ Results of Operations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (in millions) 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 2014 
+ 
+ 
+ 
+ 2016 v. 2015 
+ 
+ 
+ 
+ 2015 v. 2014 
+ 
+ 
+ Revenue 
+ 
+ 
+ 
+ $ 
+ 
+ 3,771 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 3,653 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 3,916 
+ 
+ 
+ 
+ 
+ 
+ 3.2 
+ 
+ % 
+ 
+ 
+ 
+ (6.7 
+ 
+ )% 
+ 
+ 
+ Gross profit 
+ 
+ 
+ 
+ 1,461 
+ 
+ 
+ 
+ 
+ 
+ 1,404 
+ 
+ 
+ 
+ 
+ 
+ 1,513 
+ 
+ 
+ 
+ 
+ 
+ 4.1 
+ 
+ % 
+ 
+ 
+ 
+ (7.2 
+ 
+ )% 
+ 
+ 
+ Gross margin 
+ 
+ 
+ 
+ 38.7 
+ 
+ % 
+ 
+ 
+ 
+ 38.4 
+ 
+ % 
+ 
+ 
+ 
+ 38.6 
+ 
+ % 
+ 
+ 
+ 
+ 30 
+ 
+ bp 
+ 
+ 
+ 
+ (20 
+ 
+ )bp 
+ 
+ 
+ Operating expenses excluding restructuring and realignment costs, Sensus acquisition related costs and special charges 
+ 
+ 
+ 
+ 950 
+ 
+ 
+ 
+ 
+ 
+ 930 
+ 
+ 
+ 
+ 
+ 
+ 1,007 
+ 
+ 
+ 
+ 
+ 
+ 2.2 
+ 
+ % 
+ 
+ 
+ 
+ (7.6 
+ 
+ )% 
+ 
+ 
+ Expense to revenue ratio 
+ 
+ 
+ 
+ 25.2 
+ 
+ % 
+ 
+ 
+ 
+ 25.5 
+ 
+ % 
+ 
+ 
+ 
+ 25.7 
+ 
+ % 
+ 
+ 
+ 
+ (30 
+ 
+ )bp 
+ 
+ 
+ 
+ (20 
+ 
+ )bp 
+ 
+ 
+ Restructuring and realignment costs 
+ 
+ 
+ 
+ 47 
+ 
+ 
+ 
+ 
+ 
+ 20 
+ 
+ 
+ 
+ 
+ 
+ 43 
+ 
+ 
+ 
+ 
+ 
+ 135.0 
+ 
+ % 
+ 
+ 
+ 
+ (53.5 
+ 
+ )% 
+ 
+ 
+ Sensus acquisition related charges 
+ 
+ 
+ 
+ 53 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Special charges 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ NM 
+ 
+ 
+ 
+ 
+ 
+ NM 
+ 
+ 
+ 
+ 
+ Total operating expenses 
+ 
+ 
+ 
+ 1,055 
+ 
+ 
+ 
+ 
+ 
+ 955 
+ 
+ 
+ 
+ 
+ 
+ 1,050 
+ 
+ 
+ 
+ 
+ 
+ 10.5 
+ 
+ % 
+ 
+ 
+ 
+ (9.0 
+ 
+ )% 
+ 
+ 
+ Expense to revenue ratio 
+ 
+ 
+ 
+ 28.0 
+ 
+ % 
+ 
+ 
+ 
+ 26.1 
+ 
+ % 
+ 
+ 
+ 
+ 26.8 
+ 
+ % 
+ 
+ 
+ 
+ 190 
+ 
+ bp 
+ 
+ 
+ 
+ (70 
+ 
+ )bp 
+ 
+ 
+ Operating income 
+ 
+ 
+ 
+ 406 
+ 
+ 
+ 
+ 
+ 
+ 449 
+ 
+ 
+ 
+ 
+ 
+ 463 
+ 
+ 
+ 
+ 
+ 
+ (9.6 
+ 
+ )% 
+ 
+ 
+ 
+ (3.0 
+ 
+ )% 
+ 
+ 
+ Operating margin 
+ 
+ 
+ 
+ 10.8 
+ 
+ % 
+ 
+ 
+ 
+ 12.3 
+ 
+ % 
+ 
+ 
+ 
+ 11.8 
+ 
+ % 
+ 
+ 
+ 
+ (150 
+ 
+ )bp 
+ 
+ 
+ 
+ 50 
+ 
+ bp 
+ 
+ 
+ Interest and other non-operating expense (income), net 
+ 
+ 
+ 
+ 66 
+ 
+ 
+ 
+ 
+ 
+ 55 
+ 
+ 
+ 
+ 
+ 
+ 53 
+ 
+ 
+ 
+ 
+ 
+ 20.0 
+ 
+ % 
+ 
+ 
+ 
+ 3.8 
+ 
+ % 
+ 
+ 
+ Gain from sale of business 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 9 
+ 
+ 
+ 
+ 
+ 
+ 11 
+ 
+ 
+ 
+ 
+ 
+ (100.0 
+ 
+ )% 
+ 
+ 
+ 
+ (18.2 
+ 
+ )% 
+ 
+ 
+ Income tax expense 
+ 
+ 
+ 
+ 80 
+ 
+ 
+ 
+ 
+ 
+ 63 
+ 
+ 
+ 
+ 
+ 
+ 84 
+ 
+ 
+ 
+ 
+ 
+ 27.0 
+ 
+ % 
+ 
+ 
+ 
+ (25.0 
+ 
+ )% 
+ 
+ 
+ Tax rate 
+ 
+ 
+ 
+ 23.5 
+ 
+ % 
+ 
+ 
+ 
+ 15.6 
+ 
+ % 
+ 
+ 
+ 
+ 19.8 
+ 
+ % 
+ 
+ 
+ 
+ 790 
+ 
+ bp 
+ 
+ 
+ 
+ (420 
+ 
+ )bp 
+ 
+ 
+ Net income 
+ 
+ 
+ 
+ $ 
+ 
+ 260 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 340 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 337 
+ 
+ 
+ 
+ 
+ 
+ (23.5 
+ 
+ )% 
+ 
+ 
+ 
+ 0.9 
+ 
+ % 
+ NM Not Meaningful 
+ 
+ 2016 versus 2015 
+ Revenue 
+ Revenue generated for 2016 was $3,771 million , an increase of $118 million , or 3.2% , compared to $3,653 million in 2015 . On a constant currency basis, revenue grew 5.3% . This increase in revenue was primarily driven by additional revenue of $ 163 million from acquisitions. Additionally, we had strong organic growth, driven by strength within the public utility, industrial and commercial end markets in western Europe, particularly in the United Kingdom, as well as large project deliveries in emerging markets, including India and Asia. Partially offsetting this growth were declines in the United States primarily due to ongoing weakness in the industrial end market. 
+ The following table illustrates the impact on 2016 revenue from organic growth, recent acquisitions/divestitures, and foreign currency translation in relation to revenue. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Water Infrastructure 
+ 
+ 
+ 
+ Applied Water 
+ 
+ 
+ 
+ Sensus 
+ 
+ 
+ 
+ Total Xylem 
+ 
+ 
+ (in millions) 
+ 
+ $ Change 
+ 
+ % Change 
+ 
+ 
+ 
+ $ Change 
+ 
+ % Change 
+ 
+ 
+ 
+ $ Change 
+ 
+ % Change 
+ 
+ 
+ 
+ $ Change 
+ 
+ % Change 
+ 
+ 
+ 2015 Revenue 
+ 
+ $ 
+ 
+ 2,231 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,422 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 3,653 
+ 
+ 
+ 
+ 
+ 
+ 
+ Organic Growth 
+ 
+ 38 
+ 
+ 
+ 
+ 1.7 
+ 
+ % 
+ 
+ 
+ 
+ (9 
+ 
+ ) 
+ 
+ (0.6 
+ 
+ )% 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ % 
+ 
+ 
+ 
+ 29 
+ 
+ 
+ 
+ 0.8 
+ 
+ % 
+ 
+ 
+ Acquisitions 
+ 
+ 32 
+ 
+ 
+ 
+ 1.4 
+ 
+ % 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ % 
+ 
+ 
+ 
+ 131 
+ 
+ 
+ 
+ — 
+ 
+ % 
+ 
+ 
+ 
+ 163 
+ 
+ 
+ 
+ 4.5 
+ 
+ % 
+ 
+ 
+ Constant Currency 
+ 
+ 70 
+ 
+ 
+ 
+ 3.1 
+ 
+ % 
+ 
+ 
+ 
+ (9 
+ 
+ ) 
+ 
+ (0.6 
+ 
+ )% 
+ 
+ 
+ 
+ 131 
+ 
+ 
+ 
+ — 
+ 
+ % 
+ 
+ 
+ 
+ 192 
+ 
+ 
+ 
+ 5.3 
+ 
+ % 
+ 
+ 
+ Foreign currency translation (a) 
+ 
+ (55 
+ 
+ ) 
+ 
+ (2.5 
+ 
+ )% 
+ 
+ 
+ 
+ (20 
+ 
+ ) 
+ 
+ (1.4 
+ 
+ )% 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ — 
+ 
+ % 
+ 
+ 
+ 
+ (74 
+ 
+ ) 
+ 
+ (2.0 
+ 
+ )% 
+ 
+ 
+ Total change in revenue 
+ 
+ 15 
+ 
+ 
+ 
+ 0.7 
+ 
+ % 
+ 
+ 
+ 
+ (29 
+ 
+ ) 
+ 
+ (2.0 
+ 
+ )% 
+ 
+ 
+ 
+ 132 
+ 
+ 
+ 
+ — 
+ 
+ % 
+ 
+ 
+ 
+ 118 
+ 
+ 
+ 
+ 3.2 
+ 
+ % 
+ 
+ 
+ 2016 Revenue 
+ 
+ $ 
+ 
+ 2,246 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,393 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 132 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 3,771 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) 
+ 
+ Foreign currency translation impact primarily due to fluctuations in the value of the British Pound, Chinese Yuan, Argentinian Peso and other various currencies against the U.S. Dollar. 
+ 
+ 
+ 31 
+ 
+ 
+ Water Infrastructure 
+ Water Infrastructure’s revenue increased $15 million , or 0.7% in 2016 ( 3.1% increase on a constant currency basis) compared to 2015 . The constant currency increase included organic growth of $38 million or 1.7% , and contributions from acquisitions of $32 million. 
+ Organic growth in our treatment and transport applications primarily reflect increases in the public utility end market where we have been gaining share. Organic growth in the transport application in the public utility end markets in the United States and India was largely offset by declines in the industrial dewatering business in the United States due to continued challenges in the oil and gas market, as well as weakness in the Middle East driven by slower government funding. Organic growth in the treatment application was driven primarily by strong backlog execution and project deliveries in the United States public utility market. Revenue from test applications declined mainly due to weakness in the United States primarily as a result of lower government agency spending and weakness in the mining and oil and gas markets. 
+ Applied Water 
+ Applied Water’s revenue decreased $29 million , or 2.0% in 2016 ( 0.6% decrease on a constant currency basis) compared to 2015. The decline on a constant currency basis was entirely attributable to organic revenue decline of $9 million or 0.6% which was driven by declines in the United States, partially offset by growth in western Europe and, to a lesser extent, the emerging markets. 
+ From an applications perspective, the decrease in organic revenue was predominately due to declines in the United States across all applications, particularly industrial water which saw continued weakness in the oil and gas markets. These declines were partially offset by strength in western Europe due to several large projects combined with strength in commercial building services as well as general industrial applications. Agricultural applications declined in the United States primarily due to market weakness. 
+ Sensus 
+ The Sensus segment, which we acquired in the fourth quarter of 2016, generated $132 million revenue during the final two months of the year. Over 70% of the Sensus revenue was generated in the United States with additional revenue coming primarily from western Europe and China. Over half of the Sensus revenue was generated from water applications, with most of the remainder coming from electric and gas applications. 
+ Orders/Backlog 
+ Orders received during 2016 increased by $113 million , or 3.0% to $ 3,824 million ( 5.1% increase on a constant currency basis). The order growth on a constant currency basis was primarily made up of orders from recent acquisitions, primarily Sensus, of $179 million and organic order growth of $12 million or 0.3% over the prior year. 
+ Water Infrastructure segment orders decreased $24 million , or 1.0% to $2,272 million ( 1.5% growth on a constant currency basis). The order growth on a constant currency basis was primarily orders from recent acquisitions of $32 million as well as organic order growth of $2 million, or 0.1% . Organic orders for the treatment application increased by 5% over the prior year reflecting continued growth in the public utility market with a large ozone project in China and order increases in Europe; however, these orders are largely project based with longer lead times for delivery and recognition of revenue. Largely offsetting the organic order growth in the treatment application were declines in the transport application, primarily due to decreased dewatering orders impacted by the continued weakness in oil and gas, as well as mining, which were partially offset by public utility water and wastewater transport order strength in Europe, particularly in the Nordic region. Organic orders from test applications were flat versus the prior year. 
+ Orders decreased in our Applied Water segment by $10 million , or 0.7% to $1,405 million ( 0.7% increase on a constant currency basis). The order increase on a constant currency basis was due to organic order growth of 0.7% driven by strength in Europe from new product launches that was partially offset by weakness in the United States. 
+ The Sensus segment had orders of $147 million for the last two months of 2016. 
+ Delivery schedules vary from customer to customer based upon their requirements. Typically, large projects require longer lead production cycles, and delays can occur from time to time. Total backlog was $1,078 million at December 31, 2016 and $716 million at December 31, 2015 . This increase is primarily attributable to Sensus who had a backlog balance of $385 million at December 31, 2016. We anticipate that approximately 70% of our total backlog at December 31, 2016 will be recognized as revenue during 2017 . Backlog includes contractual customer commitments as well as purchase orders on hand as of the end of the period. 
+ 
+ 
+ 32 
+ 
+ Gross Margin 
+ Gross margins as a percentage of consolidated revenue increased to 38.7% in 2016 from 38.4% in 2015 . The gross margin increase was primarily due to the benefits realized from cost saving initiatives through global sourcing and lean six sigma, partially offset by material and labor inflation headwinds and unfavorable currency impacts and mix. 
+ Operating Expenses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (in millions) 
+ 
+ 2016 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ Change 
+ 
+ 
+ Selling, general and administrative expenses ("SG&A") 
+ 
+ $ 
+ 
+ 915 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 854 
+ 
+ 
+ 
+ 
+ 
+ 7.1 
+ 
+ % 
+ 
+ 
+ SG&A as a % of revenue 
+ 
+ 24.3 
+ 
+ % 
+ 
+ 
+ 
+ 23.4 
+ 
+ % 
+ 
+ 
+ 
+ 90 
+ 
+ bp 
+ 
+ 
+ Research and development expenses ("R&D") 
+ 
+ 110 
+ 
+ 
+ 
+ 
+ 
+ 95 
+ 
+ 
+ 
+ 
+ 
+ 15.8 
+ 
+ % 
+ 
+ 
+ R&D as a % of revenue 
+ 
+ 2.9 
+ 
+ % 
+ 
+ 
+ 
+ 2.6 
+ 
+ % 
+ 
+ 
+ 
+ 30 
+ 
+ bp 
+ 
+ 
+ Restructuring charges 
+ 
+ 30 
+ 
+ 
+ 
+ 
+ 
+ 6 
+ 
+ 
+ 
+ 
+ 
+ 400.0 
+ 
+ % 
+ 
+ 
+ Operating expenses 
+ 
+ $ 
+ 
+ 1,055 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 955 
+ 
+ 
+ 
+ 
+ 
+ 10.5 
+ 
+ % 
+ 
+ 
+ Expense to revenue ratio 
+ 
+ 28.0 
+ 
+ % 
+ 
+ 
+ 
+ 26.1 
+ 
+ % 
+ 
+ 
+ 
+ 190 
+ 
+ bp 
+ Selling, General and Administrative Expenses 
+ SG&A increased by $61 million (increase of 7.1% ) to 24.3% of revenue in 2016 , as compared to 23.4% of revenue in 2015 . The increase in SG&A expenses includes $28 million of Sensus acquisition related costs. The remaining increases in SG&A expenses were primarily due to additional operating expenses from recent acquisitions, investments in regional sales channels and operational capabilities and inflation, which were partially offset by savings from restructuring and other cost actions. 
+ Research and Development Expenses 
+ R&D spending increased $15 million or 15.8% to 2.9% of revenue in 2016 as compared to 2.6% of revenue in 2015 primarily due to additional R&D spend from our recent acquisitions and investments in new products and technologies. 
+ Restructuring Charges 
+ During 2016 , we incurred restructuring costs of $17 million , $10 million , $1 million and $2 million in our Water Infrastructure, Applied Water, Sensus and Corporate and other segments, respectively. These charges were incurred primarily in an effort to realign our organizational structure in Europe and North America to optimize our cost structure, including shutting down certain facilities. The charges relate to the reduction in structural costs, including a decrease in headcount and consolidation of facilities. During 2015 , we recognized restructuring costs of $ 5 million and $1 million in our Water Infrastructure and Applied Water segments, respectively. These charges were incurred primarily in an effort to realign our organizational structure in Europe and North America to optimize our cost structure. The charges relate to the reduction in structural costs, including a decrease in headcount and consolidation of facilities. 
+ Approximate total expected costs associated with actions that commenced during 2016 are $19 million for Water Infrastructure, $13 million for Applied Water, $2 million for Sensus, and $2 million for Corporate. These costs primarily comprise severance charges. The Water Infrastructure and Applied Water actions are expected to continue through the end of 2017. The Sensus actions are expected to continue through 2018. All of the costs associated with the Corporate actions have been incurred. As a result of these actions initiated in 2016, we achieved savings of approximately $8 million in 2016 and estimate annual future net savings beginning in 2017 of approximately $29 million, resulting in $21 million of incremental savings from the 2016 actions. 
+ 
+ Operating Income 
+ We generated operating income of $406 million during 2016 , reflecting a decrease of $43 million or 9.6% from $ 449 million during the prior year. Operating income as a percentage of revenue was 10.8% for 2016 versus 12.3% for 2015, a decrease of 150 basis points. This decrease in operating margin was primarily due to Sensus acquisition related costs of $53 million, increases in restructuring and realignment costs of $27 million and increases in special charges of $4 million. Excluding these costs, adjusted operating income was $511 million, with an adjusted operating margin of 13.6%, reflecting an increase of $41 million or 8.7% and 70 basis points, respectively, as compared with 2015 adjusted operating income of $470 million (adjusted operating margin of 12.9%). This increase in adjusted operating income was driven by strong progress in our productivity initiatives and cost saving 
+ 
+ 
+ 33 
+ 
+ actions, which more than offset cost inflation, spending on strategic investments in new products and technologies and unfavorable mix. 
+ The table below provides a reconciliation of the total and each segment's operating income to adjusted operating income, and a calculation of the corresponding adjusted operating margin: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (In millions) 
+ 
+ 2016 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ Change 
+ 
+ 
+ Water Infrastructure 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating income 
+ 
+ $ 
+ 
+ 308 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 303 
+ 
+ 
+ 
+ 
+ 
+ 1.7 
+ 
+ 
+ 
+ % 
+ 
+ 
+ Operating margin 
+ 
+ 13.7 
+ 
+ % 
+ 
+ 
+ 
+ 13.6 
+ 
+ % 
+ 
+ 
+ 
+ 10 
+ 
+ 
+ 
+ bp 
+ 
+ 
+ Restructuring and realignment costs 
+ 
+ 28 
+ 
+ 
+ 
+ 
+ 
+ 13 
+ 
+ 
+ 
+ 
+ 
+ 115.4 
+ 
+ 
+ 
+ % 
+ 
+ 
+ Special charges 
+ 
+ 5 
+ 
+ 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 
+ 
+ 400.0 
+ 
+ 
+ 
+ % 
+ 
+ 
+ Adjusted operating income 
+ 
+ $ 
+ 
+ 341 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 317 
+ 
+ 
+ 
+ 
+ 
+ 7.6 
+ 
+ 
+ 
+ % 
+ 
+ 
+ Adjusted operating margin 
+ 
+ 15.2 
+ 
+ % 
+ 
+ 
+ 
+ 14.2 
+ 
+ % 
+ 
+ 
+ 
+ 100 
+ 
+ 
+ 
+ bp 
+ 
+ 
+ Applied Water 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating income 
+ 
+ $ 
+ 
+ 188 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 190 
+ 
+ 
+ 
+ 
+ 
+ (1.1 
+ 
+ ) 
+ 
+ % 
+ 
+ 
+ Operating margin 
+ 
+ 13.5 
+ 
+ % 
+ 
+ 
+ 
+ 13.4 
+ 
+ % 
+ 
+ 
+ 
+ 10 
+ 
+ 
+ 
+ bp 
+ 
+ 
+ Restructuring and realignment costs 
+ 
+ 16 
+ 
+ 
+ 
+ 
+ 
+ 7 
+ 
+ 
+ 
+ 
+ 
+ 128.6 
+ 
+ 
+ 
+ % 
+ 
+ 
+ Adjusted operating income 
+ 
+ $ 
+ 
+ 204 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 197 
+ 
+ 
+ 
+ 
+ 
+ 3.6 
+ 
+ 
+ 
+ % 
+ 
+ 
+ Adjusted operating margin 
+ 
+ 14.6 
+ 
+ % 
+ 
+ 
+ 
+ 13.9 
+ 
+ % 
+ 
+ 
+ 
+ 70 
+ 
+ 
+ 
+ bp 
+ 
+ 
+ Sensus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating loss 
+ 
+ $ 
+ 
+ (17 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 100.0 
+ 
+ 
+ 
+ % 
+ 
+ 
+ Operating margin 
+ 
+ (12.9 
+ 
+ )% 
+ 
+ 
+ 
+ — 
+ 
+ % 
+ 
+ 
+ 
+ NM 
+ 
+ 
+ 
+ bp 
+ 
+ 
+ Sensus acquisition related costs 
+ 
+ 25 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 100.0 
+ 
+ 
+ 
+ % 
+ 
+ 
+ Restructuring and realignment costs 
+ 
+ 1 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 100.0 
+ 
+ 
+ 
+ % 
+ 
+ 
+ Adjusted operating income 
+ 
+ $ 
+ 
+ 9 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 100.0 
+ 
+ 
+ 
+ % 
+ 
+ 
+ Adjusted operating margin 
+ 
+ 6.8 
+ 
+ % 
+ 
+ 
+ 
+ — 
+ 
+ % 
+ 
+ 
+ 
+ NM 
+ 
+ 
+ 
+ bp 
+ 
+ 
+ Corporate and other 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating loss 
+ 
+ $ 
+ 
+ (73 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ (44 
+ 
+ ) 
+ 
+ 
+ 
+ 65.9 
+ 
+ 
+ 
+ % 
+ 
+ 
+ Restructuring and realignment costs 
+ 
+ 2 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ NM 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sensus acquisition related costs 
+ 
+ 28 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ NM 
+ 
+ 
+ 
+ 
+ 
+ 
+ Adjusted operating loss 
+ 
+ $ 
+ 
+ (43 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ (44 
+ 
+ ) 
+ 
+ 
+ 
+ (2.3 
+ 
+ ) 
+ 
+ % 
+ 
+ 
+ Total Xylem 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating income 
+ 
+ $ 
+ 
+ 406 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 449 
+ 
+ 
+ 
+ 
+ 
+ (9.6 
+ 
+ ) 
+ 
+ % 
+ 
+ 
+ Operating margin 
+ 
+ 10.8 
+ 
+ % 
+ 
+ 
+ 
+ 12.3 
+ 
+ % 
+ 
+ 
+ 
+ (150 
+ 
+ ) 
+ 
+ bp 
+ 
+ 
+ Restructuring and realignment costs 
+ 
+ 47 
+ 
+ 
+ 
+ 
+ 
+ 20 
+ 
+ 
+ 
+ 
+ 
+ 135.0 
+ 
+ 
+ 
+ % 
+ 
+ 
+ Sensus acquisition related costs 
+ 
+ 53 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 100.0 
+ 
+ 
+ 
+ % 
+ 
+ 
+ Special charges 
+ 
+ 5 
+ 
+ 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 
+ 
+ NM 
+ 
+ 
+ 
+ 
+ 
+ 
+ Adjusted operating income 
+ 
+ $ 
+ 
+ 511 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 470 
+ 
+ 
+ 
+ 
+ 
+ 8.7 
+ 
+ 
+ 
+ % 
+ 
+ 
+ Adjusted operating margin 
+ 
+ 13.6 
+ 
+ % 
+ 
+ 
+ 
+ 12.9 
+ 
+ % 
+ 
+ 
+ 
+ 70 
+ 
+ 
+ 
+ bp 
+ NM Not Meaningful 
+ Water Infrastructure 
+ Operating income for our Water Infrastructure segment increased $5 million or 1.7% , with operating margin also increasing slightly from 13.6% to 13.7% , a 10 basis point increase as compared to the prior year. Operating margin was negatively impacted by a $15 million increase in restructuring and realignment costs. Excluding restructuring and realignment costs, adjusted operating income increased $24 million or 7.6% , with adjusted operating margin increasing from 14.2% to 15.2% , a 90 basis point increase as compared to the prior year. The increase in adjusted operating margin was due to global procurement and continuous improvement initiatives, which more than offset cost inflation and increased spending in growth initiatives. 
+ 
+ 
+ 34 
+ 
+ Applied Water 
+ Operating income for our Applied Water segment decreased $2 million or 1.1% , with operating margin increasing slightly from 13.4% to 13.5% . Operating margin was negatively impacted by increased restructuring and realignment costs of $9 million. Excluding restructuring and realignment costs, adjusted operating income increased $7 million or 3.6% , with adjusted operating margin increasing from 13.9% to 14.6% , a 60 basis point increase as compared to the prior year. The increase in adjusted operating margin was due to global procurement and productivity gains, which more than offset cost inflation, strategic investments and unfavorable mix. 
+ Sensus 
+ Sensus had an operating loss of $17 million for the last two months of 2016. This operating loss included $25 million of Sensus acquisition related costs and $1 million of restructuring charges. Excluding these costs, adjusted operating income was $9 million. 
+ Corporate and other 
+ Operating loss for corporate and other increased $29 million or 65.9% (decreased $1 million or 2.3% on an adjusted basis) compared to the prior year, primarily due to $ 28 million of Sensus acquisition related costs and increased restructuring costs of $2 million. 
+ Interest Expense 
+ Interest expense was $70 million and $55 million for 2016 and 2015 , respectively, primarily related to interest on our Senior Notes, including a make-whole interest premium of $7 million that was paid in the second quarter of 2016 and fees of $5 million related to the Bridge Facility entered into for the Sensus acquisition. See Note 13 , “Credit Facilities and Long-Term Debt,” for further details. 
+ Income Tax Expense 
+ The income tax provision for 2016 was $80 million at an effective tax rate of 23.5% compared to $63 million at an effective tax rate of 15.6% in 2015 . The 2016 effective tax rate is higher than 2015 due to an increase in valuation allowance and impact of repatriation of foreign earnings offset by a favorable settlement with the tax authorities. 
+ Other Comprehensive (Loss) Income 
+ Other comprehensive loss before tax of $57 million in 2016 as compared to $130 million loss in 2015 was primarily due to foreign currency translation loss of $ 65 million in 2016 compared to a loss of $ 180 million for 2015. Contributing to this decreased loss was a lower translation loss of $115 million primarily due to less weakening of the Swedish Krona and the Canadian Dollar against the U.S. Dollar, partially offset by the additional weakening of the Euro and the Great British Pound against the U.S. Dollar. Additionally, there were net investment hedges in place that more than offset the weakening of the Euro against the U.S. Dollar, contributing a net Euro gain into comprehensive income in 2016. Other items offsetting the lower translation loss of $115 million were net changes in postretirement benefit plan gains/losses of $43 million. 
+ 
+ 2015 versus 2014 
+ Revenue 
+ Revenue generated for 2015 was $3,653 million, a decrease of $263 million, or 6.7%, compared to $3,916 million in 2014. On a constant currency basis, revenue grew 1.3%. This increase included strong organic revenue growth within emerging markets, particularly in China and India. The United States and western Europe also grew organically, which was partially offset by declines in Canada. In addition, the organic growth was partially offset by the divestiture of the Wolverhampton valves business early in the third quarter of 2014. 
+ 
+ 
+ 35 
+ 
+ The following table illustrates the impact on 2015 revenue from organic growth, recent acquisitions/divestitures, and foreign currency translation in relation to revenue. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Water Infrastructure 
+ 
+ 
+ 
+ Applied Water 
+ 
+ 
+ 
+ Total Xylem 
+ 
+ 
+ (in millions) 
+ 
+ $ Change 
+ 
+ % Change 
+ 
+ 
+ 
+ $ Change 
+ 
+ % Change 
+ 
+ 
+ 
+ $ Change 
+ 
+ % Change 
+ 
+ 
+ 2014 Revenue 
+ 
+ $ 
+ 
+ 2,442 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,474 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 3,916 
+ 
+ 
+ 
+ 
+ 
+ 
+ Organic Growth 
+ 
+ 22 
+ 
+ 
+ 
+ 0.9 
+ 
+ % 
+ 
+ 
+ 
+ 38 
+ 
+ 
+ 
+ 2.6 
+ 
+ % 
+ 
+ 
+ 
+ 60 
+ 
+ 
+ 
+ 1.5 
+ 
+ % 
+ 
+ 
+ Acquisitions 
+ 
+ 1 
+ 
+ 
+ 
+ — 
+ 
+ % 
+ 
+ 
+ 
+ (11 
+ 
+ ) 
+ 
+ (0.7 
+ 
+ )% 
+ 
+ 
+ 
+ (10 
+ 
+ ) 
+ 
+ (0.3 
+ 
+ )% 
+ 
+ 
+ Constant Currency 
+ 
+ 23 
+ 
+ 
+ 
+ 0.9 
+ 
+ % 
+ 
+ 
+ 
+ 27 
+ 
+ 
+ 
+ 1.8 
+ 
+ % 
+ 
+ 
+ 
+ 50 
+ 
+ 
+ 
+ 1.3 
+ 
+ % 
+ 
+ 
+ Foreign currency translation (a) 
+ 
+ (234 
+ 
+ ) 
+ 
+ (9.6 
+ 
+ )% 
+ 
+ 
+ 
+ (79 
+ 
+ ) 
+ 
+ (5.4 
+ 
+ )% 
+ 
+ 
+ 
+ (313 
+ 
+ ) 
+ 
+ (8.0 
+ 
+ )% 
+ 
+ 
+ Total change in revenue 
+ 
+ (211 
+ 
+ ) 
+ 
+ (8.6 
+ 
+ )% 
+ 
+ 
+ 
+ (52 
+ 
+ ) 
+ 
+ (3.5 
+ 
+ )% 
+ 
+ 
+ 
+ (263 
+ 
+ ) 
+ 
+ (6.7 
+ 
+ )% 
+ 
+ 
+ 2015 Revenue 
+ 
+ $ 
+ 
+ 2,231 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,422 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 3,653 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) 
+ 
+ Foreign currency translation impact primarily due to fluctuations in the value of the Euro, Swedish Krona, Australian Dollar, British Pound, Canadian Dollar and Norwegian Krone against the U.S. Dollar. 
+ Water Infrastructure 
+ Water Infrastructure’s revenue decreased $211 million, or 8.6% in 2015 (0.9% increase on a constant currency basis) compared to 2014. The constant currency increase consisted of organic growth of $22 million or 0.9% driven by continued strength in the public utility end market partially offset by weakness in the industrial market. The industrial market performance decline was due to decreases in dewatering applications in the oil and gas market which more than offset increases in the balance of the industrial market. 
+ From an application perspective, organic revenue grew in transport, treatment and test applications. The organic revenue growth from transport applications was predominately due to public utility strength in the emerging markets, the United States and in western Europe, partially offset by declines in industrial dewatering applications from weakness in the oil and gas market in Canada and the United States. The organic revenue growth from treatment applications was due to ozone and filtration projects in China and Australia which was somewhat offset by the lapping of a large project in Latin America in 2014 and general weakness in Europe. Organic revenue growth from test applications was driven by growth in China and India due to demand for new wastewater and river monitoring products. 
+ Applied Water 
+ Applied Water’s revenue decreased $52 million, or 3.5% in 2015 (a 1.8% increase on a constant currency basis) compared to 2014. The growth on a constant currency basis consisted of organic revenue growth of $38 million, or 2.6%, which was partially offset by the absence of $11 million in revenue from the divested Wolverhampton valves business. The increase in organic revenue was due to strength in the commercial, industrial water and residential end markets, partially offset by declines in the agriculture end market. 
+ From an applications perspective, the increase in organic revenue was predominately due to continued growth in commercial building services from a recovering institutional building sector in the United States and strength in Asia. The industrial water application organic revenue grew from project strength in western Europe and the United States, which was partially offset by the aforementioned Wolverhampton divestiture. Residential building services organic revenue increased primarily in the United States due to improvements in the home construction market and market share gain. Irrigation applications organic revenue decline was largely impacted by severe flooding conditions in the southeast and southwest regions of the United States and the lapping of a strong fourth quarter in 2014. 
+ Orders/Backlog 
+ Orders received during 2015 decreased by $310 million, or 7.7% to $3,711 million (a 0.2% increase on a constant currency basis). Organic order growth increased $19 million or 0.5% for the year. 
+ Water Infrastructure segment orders decreased $215 million, or 8.6% to $2,296 million (1.0% growth on a constant currency basis). Organic order growth of 1.0% was predominantly due to organic order increases for treatment applications due to large projects in the Middle East and Greater Asia. The organic orders for test applications were slightly up. Slightly offsetting these increases was a decline in organic orders for transport applications 
+ 
+ 
+ 36 
+ 
+ predominately due to decreases in the dewatering transport application due to weakness in the oil and gas market, which more than offset solid growth in the remainder of the transport applications. 
+ Orders decreased in our Applied Water segment $95 million, or 6.3% to $1,415 million (1.0% decline on a constant currency basis). The order decline on a constant currency basis was due to the organic order volume decrease of 0.3%, due to market softness in the oil and gas and agricultural markets, as well as the absence of orders from our Wolverhampton valves divestiture. 
+ Delivery schedules vary from customer to customer based upon their requirements. Typically, large projects require longer lead production cycles, and delays can occur from time to time. Total backlog was $716 million at December 31, 2015 and $740 million at December 31, 2014. This decrease is due to foreign currency translation impacts. 
+ Gross Margin 
+ Gross margins as a percentage of consolidated revenue declined to 38.4% in 2015 from 38.6% in 2014. The gross margin decline was primarily due to negative currency translation impacts. Excluding the negative currency translation impacts, gross margin was slightly higher as compared to 2014. Benefits realized from cost saving initiatives through global sourcing and lean six sigma, as well as increased volume, more than offset material and labor inflation headwinds and unfavorable sales mix, primarily due to higher volume sold to the emerging markets. 
+ Operating Expenses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (in millions) 
+ 
+ 2015 
+ 
+ 
+ 
+ 2014 
+ 
+ 
+ 
+ Change 
+ 
+ 
+ Selling, general and administrative expenses 
+ 
+ $ 
+ 
+ 854 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 920 
+ 
+ 
+ 
+ 
+ 
+ (7.2 
+ 
+ )% 
+ 
+ 
+ SG&A as a % of revenue 
+ 
+ 23.4 
+ 
+ % 
+ 
+ 
+ 
+ 23.5 
+ 
+ % 
+ 
+ 
+ 
+ (10 
+ 
+ )bp 
+ 
+ 
+ Research and development expenses 
+ 
+ 95 
+ 
+ 
+ 
+ 
+ 
+ 104 
+ 
+ 
+ 
+ 
+ 
+ (8.7 
+ 
+ )% 
+ 
+ 
+ R&D as a % of revenue 
+ 
+ 2.6 
+ 
+ % 
+ 
+ 
+ 
+ 2.7 
+ 
+ % 
+ 
+ 
+ 
+ (10 
+ 
+ )bp 
+ 
+ 
+ Restructuring charges 
+ 
+ 6 
+ 
+ 
+ 
+ 
+ 
+ 26 
+ 
+ 
+ 
+ 
+ 
+ (76.9 
+ 
+ )% 
+ 
+ 
+ Operating expenses 
+ 
+ $ 
+ 
+ 955 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,050 
+ 
+ 
+ 
+ 
+ 
+ (9.0 
+ 
+ )% 
+ 
+ 
+ Expense to revenue ratio 
+ 
+ 26.1 
+ 
+ % 
+ 
+ 
+ 
+ 26.8 
+ 
+ % 
+ 
+ 
+ 
+ (70 
+ 
+ )bp 
+ Selling, General and Administrative Expenses 
+ SG&A decreased by $66 million or 7.2% to 23.4% of revenue in 2015, as compared to 23.5% of revenue in 2014. The decrease in SG&A expenses as a percentage of revenue was primarily due to currency translation impacts. Additionally, cost inflation was offset by cost savings from continuous improvement initiatives and restructuring actions as well as reduced realignment costs. 
+ Research and Development Expenses 
+ R&D spending decreased $9 million or 8.7% to 2.6% of revenue in 2015 as compared to 2.7% of revenue in 2014 primarily due to currency translation impacts. 
+ Restructuring Charges 
+ During 2015, we incurred restructuring costs of $5 million and $1 million in our Water Infrastructure and Applied Water segments, respectively. These charges were incurred primarily in an effort to realign our organizational structure in Europe and North America to optimize our cost structure. The charges relate to the reduction in structural costs, including a decrease in headcount and consolidation of facilities. During 2014, we recognized restructuring costs of $19 million, $6 million and $1 million in our Water Infrastructure and Applied Water segments, and Corporate and other, respectively. These charges were incurred primarily in an effort to realign our organizational structure in Europe and North America to optimize our cost structure. The charges relate to the reduction in structural costs, including a decrease in headcount and consolidation of facilities. 
+ Total costs associated with actions that commenced during 2015 were $5 million for Water Infrastructure and $1 million for Applied Water. These costs primarily comprise severance charges. As a result of these actions initiated in 2015, we achieved savings of approximately $2 million in 2015 and annual net savings beginning in 2016 of approximately $3 million, resulting in $1 million of incremental savings in 2016 from the 2015 actions. 
+ Operating Income 
+ We generated operating income of $449 million during 2015, a $14 million or 3.0% decrease from the prior year. Operating income as a percentage of revenue was 12.3% for 2015 versus 11.8% for 2014, an increase of 50 basis 
+ 
+ 
+ 37 
+ 
+ points. This increase in operating margin was primarily due to reduced restructuring and realignment costs, incremental cost savings from continuous improvement initiatives and slightly higher volume. Partially offsetting these actions were cost inflation, unfavorable mix and unfavorable foreign exchange translation impacts. 
+ The following table illustrates operating income results for our business segments: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (in millions) 
+ 
+ 2015 
+ 
+ 
+ 
+ 2014 
+ 
+ 
+ 
+ Change 
+ 
+ 
+ Water Infrastructure 
+ 
+ $ 
+ 
+ 303 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 321 
+ 
+ 
+ 
+ 
+ 
+ (5.6 
+ 
+ )% 
+ 
+ 
+ Applied Water 
+ 
+ 190 
+ 
+ 
+ 
+ 
+ 
+ 193 
+ 
+ 
+ 
+ 
+ 
+ (1.6 
+ 
+ )% 
+ 
+ 
+ Segment operating income 
+ 
+ 493 
+ 
+ 
+ 
+ 
+ 
+ 514 
+ 
+ 
+ 
+ 
+ 
+ (4.1 
+ 
+ )% 
+ 
+ 
+ Corporate and other 
+ 
+ (44 
+ 
+ ) 
+ 
+ 
+ 
+ (51 
+ 
+ ) 
+ 
+ 
+ 
+ (13.7 
+ 
+ )% 
+ 
+ 
+ Total operating income 
+ 
+ $ 
+ 
+ 449 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 463 
+ 
+ 
+ 
+ 
+ 
+ (3.0 
+ 
+ )% 
+ 
+ 
+ Operating margin 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Water Infrastructure 
+ 
+ 13.6 
+ 
+ % 
+ 
+ 
+ 
+ 13.1 
+ 
+ % 
+ 
+ 
+ 
+ 50 
+ 
+ bp 
+ 
+ 
+ Applied Water 
+ 
+ 13.4 
+ 
+ % 
+ 
+ 
+ 
+ 13.1 
+ 
+ % 
+ 
+ 
+ 
+ 30 
+ 
+ bp 
+ 
+ 
+ Total Xylem 
+ 
+ 12.3 
+ 
+ % 
+ 
+ 
+ 
+ 11.8 
+ 
+ % 
+ 
+ 
+ 
+ 50 
+ 
+ bp 
+ The table below provides a reconciliation of the total and each segment's operating income to adjusted operating income, and a calculation of the corresponding adjusted operating margin: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (in millions) 
+ 
+ 2015 
+ 
+ 
+ 
+ 2014 
+ 
+ 
+ 
+ Change 
+ 
+ 
+ Water Infrastructure 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating income 
+ 
+ $ 
+ 
+ 303 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 321 
+ 
+ 
+ 
+ 
+ 
+ (5.6 
+ 
+ )% 
+ 
+ 
+ Restructuring and realignment costs 
+ 
+ 13 
+ 
+ 
+ 
+ 
+ 
+ 29 
+ 
+ 
+ 
+ 
+ 
+ (55.2 
+ 
+ )% 
+ 
+ 
+ Special charges 
+ 
+ 1 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ NM 
+ 
+ 
+ 
+ 
+ Adjusted operating income 
+ 
+ $ 
+ 
+ 317 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 350 
+ 
+ 
+ 
+ 
+ 
+ (9.4 
+ 
+ )% 
+ 
+ 
+ Adjusted operating margin 
+ 
+ 14.2 
+ 
+ % 
+ 
+ 
+ 
+ 14.3 
+ 
+ % 
+ 
+ 
+ 
+ (10 
+ 
+ )bp 
+ 
+ 
+ Applied Water 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating income 
+ 
+ $ 
+ 
+ 190 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 193 
+ 
+ 
+ 
+ 
+ 
+ (1.6 
+ 
+ )% 
+ 
+ 
+ Restructuring and realignment costs 
+ 
+ 7 
+ 
+ 
+ 
+ 
+ 
+ 13 
+ 
+ 
+ 
+ 
+ 
+ (46.2 
+ 
+ )% 
+ 
+ 
+ Adjusted operating income 
+ 
+ $ 
+ 
+ 197 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 206 
+ 
+ 
+ 
+ 
+ 
+ (4.4 
+ 
+ )% 
+ 
+ 
+ Adjusted operating margin 
+ 
+ 13.9 
+ 
+ % 
+ 
+ 
+ 
+ 14.0 
+ 
+ % 
+ 
+ 
+ 
+ (10 
+ 
+ )bp 
+ 
+ 
+ Corporate and other 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating loss 
+ 
+ $ 
+ 
+ (44 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ (51 
+ 
+ ) 
+ 
+ 
+ 
+ (13.7 
+ 
+ )% 
+ 
+ 
+ Restructuring and realignment costs 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 
+ 
+ (100.0 
+ 
+ )% 
+ 
+ 
+ Adjusted operating loss 
+ 
+ $ 
+ 
+ (44 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ (50 
+ 
+ ) 
+ 
+ 
+ 
+ (12.0 
+ 
+ )% 
+ 
+ 
+ Total Xylem 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating income 
+ 
+ $ 
+ 
+ 449 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 463 
+ 
+ 
+ 
+ 
+ 
+ (3.0 
+ 
+ )% 
+ 
+ 
+ Restructuring and realignment costs 
+ 
+ 20 
+ 
+ 
+ 
+ 
+ 
+ 43 
+ 
+ 
+ 
+ 
+ 
+ (53.5 
+ 
+ )% 
+ 
+ 
+ Special charges 
+ 
+ 1 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ NM 
+ 
+ 
+ 
+ 
+ Adjusted operating income 
+ 
+ $ 
+ 
+ 470 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 506 
+ 
+ 
+ 
+ 
+ 
+ (7.1 
+ 
+ )% 
+ 
+ 
+ Adjusted operating margin 
+ 
+ 12.9 
+ 
+ % 
+ 
+ 
+ 
+ 12.9 
+ 
+ % 
+ 
+ 
+ 
+ — 
+ 
+ bp 
+ NM Not Meaningful 
+ 
+ 
+ 
+ 38 
+ 
+ Water Infrastructure 
+ Operating income for our Water Infrastructure segment decreased $18 million or 5.6%, while operating margin increased from 13.1% to 13.6%, over the prior year. Contributing to the increase in operating margin was a reduction of $16 million in restructuring and realignment costs. Excluding restructuring and realignment costs and special charges, adjusted operating margin decreased $33 million, or 9.4%, with adjusted operating margin decreasing from 14.3% to 14.2% compared to the prior year. The reduction in adjusted operating margin was due to cost inflation and unfavorable mix resulting from the declines in our dewatering business driven by oil and gas weakness, and lower emerging market margins. This was partially offset by cost savings from procurement initiatives, lean six sigma initiatives and restructuring actions. 
+ Applied Water 
+ Operating income for our Applied Water segment decreased $3 million, or 1.6%, with operating margin increasing from 13.1% to 13.4% compared to the prior year. Contributing to the increase in operating margin was a reduction of $7 million in restructuring and realignment costs. Excluding restructuring and realignment costs, adjusted operating income decreased $9 million, or 4.4%, with adjusted operating margin decreasing from 14.0% to 13.9%. The reduction in adjusted operating margin was due to cost inflation, unfavorable mix and foreign exchange impacts, partially offset by cost reductions from procurement and lean six sigma initiatives and higher volume. 
+ Corporate and other 
+ Operating loss for corporate and other decreased $7 million or 13.7% (decreased $6 million or 12.0% on an adjusted basis) compared to the prior year. The reduction in operating loss was primarily due to reduced information technology and franchise tax costs, as well as reduced restructuring and realignment costs. 
+ Interest Expense 
+ Interest expense was $55 million and $54 million for 2015 and 2014, respectively, primarily related to interest expense on $1.2 billion aggregate principal amount of our senior notes. Refer to Note 13, “Credit Facilities and Long-Term Debt,” for further details. 
+ Income Tax Expense 
+ The income tax provision for 2015 was $63 million at an effective tax rate of 15.6% compared to $84 million at an effective tax rate of 19.8% in 2014. The 2015 effective tax rate is lower than 2014 due primarily to geographic mix of earnings as well as a reduction in the amount of unrecognized tax benefits recorded. 
+ Other Comprehensive (Loss) Income 
+ Other comprehensive loss before tax of $130 million in 2015 as compared to $284 million loss in 2014 was primarily due to a $23 million net gain in postretirement benefit plans foreign currency in 2015 as compared to a net loss of $110 million for 2014. Further contributing to this decreased loss was a lower translation loss of $26 million primarily due to less weakening of the Euro against the U.S. Dollar largely offset by the additional weakening of the Swedish Krona against the U.S. Dollar. Additionally, there was a release of $8 million of currency translation gains out of Other comprehensive (loss) income recognized as part of gain from the sale of a business. 
+ 
+ Liquidity and Capital Resources 
+ The following table summarizes our sources and uses of cash: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ 
+ (in millions) 
+ 
+ 2016 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 2014 
+ 
+ 
+ Operating activities 
+ 
+ $ 
+ 
+ 497 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 464 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 416 
+ 
+ 
+ 
+ 
+ Investing activities 
+ 
+ (1,886 
+ 
+ ) 
+ 
+ 
+ 
+ (132 
+ 
+ ) 
+ 
+ 
+ 
+ (86 
+ 
+ ) 
+ 
+ 
+ Financing activities 
+ 
+ 1,034 
+ 
+ 
+ 
+ 
+ 
+ (262 
+ 
+ ) 
+ 
+ 
+ 
+ (147 
+ 
+ ) 
+ 
+ 
+ Foreign exchange (a) 
+ 
+ (17 
+ 
+ ) 
+ 
+ 
+ 
+ (53 
+ 
+ ) 
+ 
+ 
+ 
+ (53 
+ 
+ ) 
+ 
+ 
+ Total 
+ 
+ $ 
+ 
+ (372 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ 17 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 130 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) 
+ 
+ 2016 impact is primarily due to the weakness of the Euro and the Chinese Yuan against the U.S. Dollar. 2015 and 2014 impact is primarily due to the weakness of the Euro against the U.S. Dollar. 
+ 
+ 
+ 39 
+ 
+ Sources and Uses of Liquidity 
+ Operating Activities 
+ During 2016 , net cash provided by operating activities was $497 million , compared to $464 million in 2015 . The $33 million year-over-year increase was primarily driven by continued improvement in working capital levels. The improvement in working capital includes significant contribution from the acquisition of Sensus during the fourth quarter of 2016 which has positively impacted our working capital efficiency. 
+ During 2015 , net cash provided by operating activities was $464 million , compared to $416 million in 2014 . The $48 million year-over-year increase was primarily driven by a decrease in the use of working capital driven by improved inventory levels and improved collections of receivables. Lower payments for restructuring and postretirement benefit plans were more than offset by increased payments for foreign value-added taxes as compared to the prior year. 
+ Investing Activities 
+ Cash used in investing activities was $1,886 million in 2016 , compared to $132 million in 2015 . The increase of $1,754 million was primarily due to $1,782 million spent on the acquisition of Sensus and two other businesses in 2016 as compared to $18 million in 2015. Cash provided from other investing activities partially offset the usage. 
+ Cash used in investing activities was $132 million in 2015 compared to $86 million in 2014 . The increase of $46 million was primarily due to $18 million spent on an acquisition in 2015 as compared cash received in 2014 of $30 million for the sale of our Wolverhampton business. 
+ Financing Activities 
+ Cash generated by financing activities was $1,034 million in 2016. In 2015 and 2014, financing activities used $262 million and $147 million of cash respectively. In 2016, the net increase in cash provided was due to the issuance of long term and short term debt related to acquisition financing and a reduction in share repurchases. This increase was partially offset by net repayments of short term debt (see Note 13, "Credit Facilities and Long-Term Debt" of our consolidated financial statements for a full discussion of debt activities) and higher dividend payments. In 2015, the $115 million increase is primarily driven by an increase in share repurchase activity of $45 million and an increase of $8 million, or a 10% per share increase, in dividends paid to shareholders as well as a decrease in cash received from short-term debt borrowings under the European Investment Bank facility of $50 million. 
+ Funding and Liquidity Strategy 
+ Our ability to fund our capital needs depends on our ongoing ability to generate cash from operations, and access to bank financing and the capital markets. Historically, we have generated operating cash flow sufficient to fund our primary cash needs centered on operating activities, working capital, capital expenditures, and strategic investments. If our cash flows from operations are less than we expect, we may need to incur debt or issue equity. From time to time, we may need to access the long-term and short-term capital markets to obtain financing. Our access to, and the availability of, financing on acceptable terms and conditions in the future will be impacted by many factors, including: (i) our credit ratings or absence of a credit rating, (ii) the liquidity of the overall capital markets, and (iii) the current state of the economy. There can be no assurance that such financing will be available to us on acceptable terms or that such financing will be available at all. 
+ We monitor our global funding requirements and seek to meet our liquidity needs on a cost effective basis. Based on our current global cash positions, cash flows from operations and access to the commercial paper markets, we believe there is sufficient liquidity to meet our funding requirements. In addition, our existing committed credit facilities and access to the public debt markets would provide further liquidity if required. 
+ We anticipate that our present sources of funds, including funds from operations and additional borrowings, will provide us with sufficient liquidity and capital resources to meet our liquidity and capital needs in both the United States and outside of the United States over the next twelve months. 
+ Credit Facilities & Long-Term Contractual Commitments 
+ See Note 13, "Credit Facilities and Long-Term Debt" of our consolidated financial statements for a description of our credit facilities and long-term debt. 
+ Non-U.S. Operations 
+ For 2016 and 2015 , we generated 58% and 59% of our revenue from non-U.S. operations, respectively. While the addition of Sensus will increase our revenue profile in the U.S., we continue to grow our operations in the emerging markets and elsewhere outside of the United States. As such, we expect to continue to generate significant revenue 
+ 
+ 
+ 40 
+ 
+ from non-U.S. operations and expect a substantial portion of our cash will be predominately held by our foreign subsidiaries. We expect to manage our worldwide cash requirements considering available funds among the many subsidiaries through which we conduct business and the cost effectiveness with which those funds can be accessed. We may transfer cash from certain international subsidiaries to the U.S. and other international subsidiaries when we believe it is cost effective to do so. We continually review our domestic and foreign cash profile, expected future cash generation and investment opportunities, which support our current designation of a portion of these funds as being indefinitely reinvested and reassess whether there is a demonstrated need to repatriate funds held internationally to support our U.S. operations. If, as a result of our review, it is determined that all or a portion of the funds may be needed for our operations in the United States, we may be required to accrue additional U.S. taxes. As of December 31, 2016 , our foreign subsidiaries were holding $242 million in cash or marketable securities. 
+ As of December 31, 2016 , our excess of financial reporting over the tax basis of investments in certain foreign subsidiaries totaled $1.9 billion . We have not asserted that $81 million of our excess basis difference will be indefinitely reinvested and have therefore provided for U.S or additional foreign withholding taxes for that portion. Generally, such amounts become subject to U.S. taxation upon the remittance of dividends and under certain other circumstances. 
+ Contractual Obligations 
+ The following table summarizes our contractual commitments as of December 31, 2016 : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (in millions) 
+ 
+ 2017 
+ 
+ 
+ 
+ 2018 - 2019 
+ 
+ 
+ 
+ 2020 - 2021 
+ 
+ 
+ 
+ Thereafter 
+ 
+ 
+ 
+ Total 
+ 
+ 
+ Debt and capital lease obligations (1) 
+ 
+ $ 
+ 
+ 261 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 600 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,532 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 2,393 
+ 
+ 
+ 
+ 
+ Interest payments (1) (2) 
+ 
+ 76 
+ 
+ 
+ 
+ 
+ 
+ 150 
+ 
+ 
+ 
+ 
+ 
+ 150 
+ 
+ 
+ 
+ 
+ 
+ 544 
+ 
+ 
+ 
+ 
+ 
+ 920 
+ 
+ 
+ 
+ 
+ Operating lease obligations 
+ 
+ 65 
+ 
+ 
+ 
+ 
+ 
+ 90 
+ 
+ 
+ 
+ 
+ 
+ 45 
+ 
+ 
+ 
+ 
+ 
+ 23 
+ 
+ 
+ 
+ 
+ 
+ 223 
+ 
+ 
+ 
+ 
+ Purchase obligations (3) 
+ 
+ 72 
+ 
+ 
+ 
+ 
+ 
+ 11 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 83 
+ 
+ 
+ 
+ 
+ Other long-term obligations reflected on the balance sheet 
+ 
+ 1 
+ 
+ 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ 
+ 
+ 6 
+ 
+ 
+ 
+ 
+ 
+ 13 
+ 
+ 
+ 
+ 
+ Total commitments 
+ 
+ $ 
+ 
+ 475 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 255 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 797 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 2,105 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 3,632 
+ 
+ 
+ In addition to the amounts presented in the table above, we have recorded liabilities for uncertain tax positions of $67 million , net investment hedges of $6 million and employee severance indemnity of $13 million . These amounts have been excluded from the contractual obligations table due to an inability to reasonably estimate the timing or amounts of such payments in individual years. Further, benefit payments which reflect expected future service related to the Company's pension and other postretirement employee benefit obligations are presented in Note 14 , “Postretirement Benefit Plans” of the consolidated financial statements and are not included in the above table. Finally, estimated environmental payments and workers' compensation and general liability reserves are excluded from the table above. We estimate, based on historical experience, that we will spend approximately $1 million to $2 million per year on environmental investigation and remediation and approximately $6 million to $7 million per year on workers' compensation and general liability. At December 31, 2016 , we had estimated and accrued $4 million and $24 million related to environmental matters, and workers' compensation and general liability, respectively. 
+ 
+ 
+ 
+ 
+ 
+ (1) 
+ 
+ Refer to Note 13 , “Credit Facilities and Long-Term Debt,” of the consolidated financial statements for discussion of the use and availability of debt and revolving credit agreements. Amounts represent principal payments of short-term and long-term debt including current maturities and exclude unamortized discounts. 
+ 
+ 
+ 
+ 
+ 
+ (2) 
+ 
+ Amounts represent estimates of future interest payments on short-term and long-term debt outstanding as of December 31, 2016 . 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ Represents unconditional purchase agreements that are enforceable and legally binding and that specify all significant terms to purchase goods or services, including fixed or minimum quantities to be purchased; fixed, minimum or variable price provisions; and the approximate timing of the transaction. Purchase agreements that are able to cancel without penalty have been excluded. 
+ Off-Balance Sheet Arrangements 
+ As of December 31, 2016 , we have issued guarantees for the debt and other obligations of consolidated subsidiaries in the normal course of business. We have determined that none of these arrangements has a material current effect or is reasonably likely to have a material future effect on our consolidated financial statements, financial condition, changes in financial condition, revenues or expenses, liquidity, capital expenditures or capital resources. 
+ We obtain certain stand-by letters of credit, bank guarantees and surety bonds from third-party financial institutions 
+ 
+ 
+ 41 
+ 
+ in the ordinary course of business when required under contracts or to satisfy insurance related requirements. As of December 31, 2016 , the amount of stand-by letters of credit, bank guarantees and surety bonds was $218 million . 
+ Critical Accounting Estimates 
+ The preparation of financial statements in conformity with GAAP requires management to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenue and expenses, and the disclosure of contingent liabilities. Management bases its estimates on historical experience and on various other assumptions that it believes to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. 
+ Significant accounting policies used in the preparation of the Consolidated Financial Statements are discussed in Note 1, “Summary of Significant Accounting Policies,” of the consolidated financial statements. Accounting estimates and assumptions discussed in this section are those that we consider most critical to an understanding of our financial statements because they are inherently uncertain, involve significant judgments, include areas where different estimates reasonably could have been used, and changes in the estimate that are reasonably possible could materially impact the financial statements. Management believes that the accounting estimates employed and the resulting balances are reasonable; however, actual results in these areas could differ from management’s estimates under different assumptions or conditions. 
+ Revenue Recognition. We recognize revenue when persuasive evidence of an arrangement exists, delivery has occurred, the sales price is fixed or determinable, and collectability of the sales price is reasonably assured. For product sales, delivery does not occur until the products have been shipped, risk of loss has been transferred to the customer and the contractual terms have been fulfilled. In instances where contractual terms include a provision for customer acceptance, revenue is recognized when either (i) we have previously demonstrated that the product meets the specified criteria based on either seller- or customer-specified objective criteria or (ii) upon formal acceptance received from the customer where the product has not been previously demonstrated to meet customer-specified objective criteria. Revenue on service and repair contracts is recognized after services have been agreed to by the customer and rendered. 
+ We enter into contracts to sell our products and services, and while the majority of our sales agreements contain standard terms and conditions, certain agreements contain multiple elements or non-standard terms and conditions. Where sales agreements contain multiple elements or non-standard terms and conditions, judgment is required to determine the appropriate accounting, including whether the deliverables specified in these agreements should be treated as separate units of accounting for revenue recognition purposes, and, if so, how the transaction price should be allocated among the elements and when to recognize revenue for each element. When a sale involves multiple deliverables, the total revenue from the arrangement is allocated to each unit of accounting based on the relative selling price of the deliverable to all other deliverables in the contract. Revenue for multiple element arrangements is recognized when the appropriate revenue recognition criteria for the individual deliverable have been satisfied. Generally, these elements are satisfied within the same reporting period although certain contracts may be completed over 6 months. The allocation of sales price between elements may impact the timing of revenue recognition, but will not change the total revenue recognized on the arrangement. For delivered elements accounted for as separate units of accounting in a multiple element arrangement, revenue is recognized only when the delivered elements have standalone value, there are no uncertainties regarding customer acceptance and there are no customer-negotiated refund or return rights affecting the sales recognized. 
+ Certain businesses enter into long-term construction-type sales contracts for which revenue is recognized under the percentage-of-completion method based upon percentage of costs incurred to total estimated costs. 
+ We record a reduction in revenue at the time of sale for estimated product returns, rebates and other allowances, based on historical experience and known trends. 
+ We are currently evaluating the impact of the new accounting guidance regarding revenue from contracts with customers that is effective for annual reporting periods beginning after December 15, 2017 (refer to Note 2 “Recently Issued Accounting Pronouncements”). At this point in our review process, we do not believe that the new revenue guidance will have a material impact on our financial statements. An evaluation of the impact of this guidance on the Sensus business has not yet been performed. 
+ Income Taxes. Deferred tax assets and liabilities are determined based on temporary differences between the financial reporting and tax bases of assets and liabilities, applying enacted tax rates in effect for the year in which we expect the differences will reverse. Based on the evaluation of available evidence, we recognize future tax benefits, such as net operating loss carryforwards, to the extent that we believe it is more likely than not we will realize these benefits. We periodically assess the likelihood that we will be able to recover our deferred tax assets 
+ 
+ 
+ 42 
+ 
+ and reflect any changes to our estimate of the amount we are more likely than not to realize in the valuation allowance, with a corresponding adjustment to earnings or other comprehensive income, as appropriate. 
+ In assessing the need for a valuation allowance, we look to the future reversal of existing taxable temporary differences, taxable income in carryback years and the feasibility of tax planning strategies and estimated future taxable income. The valuation allowance can be affected by changes to tax laws, changes to statutory tax rates and changes to future taxable income estimates. 
+ Our effective tax rate reflects the impact of certain undistributed foreign earnings for which we have not provided U.S. taxes because we plan to reinvest such earnings indefinitely outside the United States. We plan foreign earnings remittance amounts based on projected cash flow needs, as well as the working capital and long-term investment requirements of our foreign subsidiaries and our domestic operations. Based on these assumptions, we estimate the amount we will distribute to the United States and provide the U.S. federal taxes due on these amounts. Material changes in our estimates of cash, working capital and long-term investment requirements in the various jurisdictions in which we do business could impact our effective tax rate. 
+ The calculation of our tax liabilities involves dealing with uncertainties in the application of complex tax regulations in a multitude of jurisdictions across our global operations. We recognize potential liabilities and record tax liabilities for anticipated tax audit issues in the U.S. and other tax jurisdictions based on our estimate of whether, and to the extent to which, additional taxes will be due. Furthermore, we recognize the tax benefit from an uncertain tax position only if it is more likely than not that the tax position will be sustained on examination by the taxing authorities, based on the technical merits of the position. The tax benefits recognized in the financial statements from such a position are measured based on the largest benefit that has a greater than 50% likelihood of being realized upon ultimate settlement. 
+ We adjust our liability for uncertain tax positions in light of changing facts and circumstances; however, due to the complexity of some of these uncertainties, the ultimate resolution may result in a payment that is materially different from our current estimate of the tax liabilities. If our estimate of tax liabilities proves to be less than the ultimate assessment, an additional tax expense would result. If a payment of these amounts ultimately proves to be less than the recorded amounts, the reversal of the liabilities would result in tax benefits being recognized in the period when we determine the liabilities are no longer necessary. 
+ Business Combinations. We record acquisitions using the purchase method of accounting. All of the assets acquired, liabilities assumed, contractual contingencies and contingent consideration is recorded at fair value as of the acquisition date. The excess of the purchase price over the estimated fair values of the net tangible and intangible assets acquired is recorded as goodwill. The application of the purchase method of accounting for business combinations requires management to make significant estimates and assumptions in the determination of the fair value of assets acquired and liabilities assumed, in order to properly allocate purchase price consideration between assets that are depreciated and amortized from goodwill. These assumptions and estimates include a market participant’s use of the asset and the appropriate discount rates for a market participant. Our estimates are based on historical experience, information obtained from the management of the acquired companies and, when appropriate, includes assistance from independent third-party appraisal firms. Significant assumptions and estimates include, but are not limited to, the cash flows that an asset is expected to generate in the future, the cost to build/recreate certain technology, the appropriate weighted-average cost of capital, and the cost savings expected to be derived from acquiring an asset. These estimates are inherently uncertain and unpredictable. In addition, unanticipated events and circumstances may occur which may affect the accuracy or validity of such estimates. 
+ Goodwill and Intangible Assets. We review goodwill and indefinite-lived intangible assets for impairment annually and whenever events or changes in circumstances indicate the carrying value of an asset may not be recoverable. We also review the carrying value of our finite-lived intangible assets for potential impairment when impairment indicators arise. We conduct our annual impairment test as of the first day of the fourth quarter. We perform a two-step impairment test for goodwill. In the first step, we compare the estimated fair value of each reporting unit to its carrying value. If the estimated fair value of the reporting unit exceeds the carrying value of the net assets assigned to that reporting unit, goodwill is not impaired and we are not required to perform further testing. If the carrying value of the net assets assigned to the reporting unit exceeds its fair value, then we must perform the second step of the impairment test in order to measure the impairment loss to be recorded, if any. If the carrying value of a reporting unit’s goodwill exceeds its implied fair value, then we record an impairment loss equal to the difference. In our annual impairment test for indefinite-lived intangible assets, we compare the fair value of those assets to their carrying value. We recognize an impairment loss when the estimated fair value of the indefinite-lived intangible asset is less than its carrying value. We estimate the fair value of our reporting units and intangible assets with 
+ 
+ 
+ 43 
+ 
+ indefinite lives using an income approach. Under the income approach, we calculate fair value based on the present value of estimated future cash flows. 
+ Determining the fair value of a reporting unit or an indefinite-lived intangible asset is judgmental in nature and involves the use of significant estimates and assumptions, particularly related to future operating results and cash flows. These estimates and assumptions include, but are not limited to, revenue growth rates and operating margins used to calculate projected future cash flows, risk-adjusted discount rates, assumed royalty rates, future economic and market conditions and identification of appropriate market comparable data. In addition, the identification of reporting units and the allocation of assets and liabilities to the reporting units when determining the carrying value of each reporting unit also require judgment. Goodwill is tested for impairment at either the operating segment identified in Note 20 , “Segment and Geographic Data,” of the consolidated financial statements, or one level below. The fair value of our reporting units and indefinite-lived intangible assets is based on estimates and assumptions that are believed to be reasonable. Significant changes to these estimates and assumptions could adversely impact our conclusions. Actual future results may differ from those estimates. 
+ During the fourth quarter of 2016 , we performed our annual impairment assessment and determined that the estimated fair values of our goodwill reporting units were substantially in excess of each of their carrying values. However, future goodwill impairment tests could result in a charge to earnings. We will continue to evaluate goodwill on an annual basis as of the beginning of our fourth quarter and whenever events and changes in circumstances indicate there may be a potential impairment. We determined that no impairment of the indefinite-lived intangibles existed as of the measurement date in 2016 . 
+ Contingent Liabilities. As discussed in Note 18 , "Commitments and Contingencies" of the consolidated financial statements, the Company is, from time to time, subject to a variety of litigation, environmental liabilities, product liabilities, and similar contingent liabilities incidental to its business (or the business operations of previously owned entities). The Company recognizes a liability for any contingency that is known or probable of occurrence and reasonably estimable. These assessments require judgments concerning matters such as litigation developments and outcomes, the anticipated outcome of negotiations, the number of future claims and the cost of both pending and future claims. In addition, because most contingencies are resolved over long periods of time, liabilities may change in the future due to various factors, including those discussed in Note 18 of the consolidated financial statements. If the liabilities established by the Company with respect to these contingencies are inadequate, the Company would be required to incur an expense equal to the amount of the loss incurred in excess of the recorded liability, which would adversely affect the Company’s financial statements. 
+ Receivables and Allowance for Doubtful Accounts and Discounts. Receivables primarily comprise uncollected amounts owed to us from transactions with customers and are presented net of allowances for doubtful accounts and early payment discounts. 
+ We determine our allowance for doubtful accounts using a combination of factors to reduce our trade receivable balances to their estimated net realizable amount. We maintain an allowance for doubtful accounts based on a variety of factors, including the length of time receivables are past due, macroeconomic trends and conditions, significant one-time events, historical experience and the financial condition of customers. In addition, we record a specific reserve for individual accounts when we become aware of specific customer circumstances, such as in the case of bankruptcy filings or deterioration in the customer’s operating results or financial position. The past due or delinquency status of a receivable is based on the contractual payment terms of the receivable. If circumstances related to the specific customer change, we adjust estimates of the recoverability of receivables as appropriate. We determine our allowance for early payment discounts primarily based on historical experience with customers. 
+ Credit risk with respect to accounts receivable is generally diversified due to the large number of entities comprising our customer base and their dispersion across many different geographical regions. We perform ongoing credit evaluations of the financial condition of our third-party distributors, resellers and other customers and require collateral, such as letters of credit and bank guarantees, in certain circumstances. As of December 31, 2016 and 2015 we do not believe we have any significant concentrations of credit risk. 
+ Postretirement Plans. Company employees around the world participate in numerous defined benefit plans. The determination of projected benefit obligations and the recognition of expenses related to these plans are dependent on various assumptions. These major assumptions primarily relate to discount rates, expected long-term rates of return on plan assets, rate of future compensation increases, mortality, health care inflation and years of service (some of which are disclosed in Note 14 , “Postretirement Benefit Plans,” of the consolidated financial statements) and other factors. Actual results that differ from our assumptions are accumulated and amortized on a straight-line basis only to the extent they exceed 10% of the higher of the market-related value or projected benefit obligation, over the average remaining service period of active plan participants, or for plans with all or substantially all inactive 
+ 
+ 
+ 44 
+ 
+ participants, over the average remaining life expectancy. 
+ Significant Assumptions 
+ Management develops each assumption using relevant Company experience, in conjunction with market-related data for each individual country in which such plans exist. All assumptions are reviewed annually with third-party consultants and adjusted as necessary. The table included below provides the weighted average assumptions used to estimate our defined benefit pension obligations and costs as of and for the years ended 2016 and 2015 . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 
+ U.S. 
+ 
+ 
+ 
+ Int’l 
+ 
+ 
+ 
+ U.S. 
+ 
+ 
+ 
+ Int’l 
+ 
+ 
+ Benefit Obligation Assumptions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Discount rate 
+ 
+ 4.25 
+ 
+ % 
+ 
+ 
+ 
+ 2.63 
+ 
+ % 
+ 
+ 
+ 
+ 4.27 
+ 
+ % 
+ 
+ 
+ 
+ 3.44 
+ 
+ % 
+ 
+ 
+ Rate of future compensation increase 
+ 
+ NM 
+ 
+ 
+ 
+ 
+ 
+ 2.76 
+ 
+ % 
+ 
+ 
+ 
+ NM 
+ 
+ 
+ 
+ 
+ 
+ 3.29 
+ 
+ % 
+ 
+ 
+ Net Periodic Benefit Cost Assumptions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Discount rate 
+ 
+ 4.27 
+ 
+ % 
+ 
+ 
+ 
+ 3.44 
+ 
+ % 
+ 
+ 
+ 
+ 4.01 
+ 
+ % 
+ 
+ 
+ 
+ 3.14 
+ 
+ % 
+ 
+ 
+ Expected long-term return on plan assets 
+ 
+ 8.00 
+ 
+ % 
+ 
+ 
+ 
+ 7.25 
+ 
+ % 
+ 
+ 
+ 
+ 8.00 
+ 
+ % 
+ 
+ 
+ 
+ 7.31 
+ 
+ % 
+ 
+ 
+ Rate of future compensation increase 
+ 
+ NM 
+ 
+ 
+ 
+ 
+ 
+ 3.29 
+ 
+ % 
+ 
+ 
+ 
+ NM 
+ 
+ 
+ 
+ 
+ 
+ 3.34 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ NM 
+ 
+ Not meaningful. The pension benefits for future service for all the U.S. pension plans are based on years of service and not impacted by future compensation increases. 
+ We determine the expected long-term rate of return on plan assets by evaluating both historical returns and estimates of future returns. Specifically, the Company analyzes the estimated future returns based on independent estimates of asset class returns and evaluates historical broad market returns over long-term timeframes based on the strategic asset allocation, which is detailed in Note 14 , “Postretirement Benefit Plans,” of the consolidated financial statements. 
+ Based on the approach described above, the chart below shows weighted average actual returns versus the weighted average expected long-term rates of return for our pension plans that were utilized in the calculation of the net periodic pension cost for each respective year. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 2014 
+ 
+ 
+ Expected long-term rate of return on plan assets 
+ 
+ 7.32 
+ 
+ % 
+ 
+ 
+ 
+ 7.38 
+ 
+ % 
+ 
+ 
+ 
+ 7.38 
+ 
+ % 
+ 
+ 
+ Actual rate of return on plan assets 
+ 
+ 12.20 
+ 
+ % 
+ 
+ 
+ 
+ 3.51 
+ 
+ % 
+ 
+ 
+ 
+ 18.13 
+ 
+ % 
+ For the recognition of net periodic pension cost, the calculation of the expected return on plan assets is generally derived by applying the expected long-term rate of return to the market-related value of plan assets. The market-related value of plan assets is based on average asset values at the measurement date over the last five years. The use of fair value, rather than a calculated value, could materially affect net periodic pension cost. The weighted average expected long-term rate of return for all of our plan assets to be used in determining net periodic benefit costs for 2017 is estimated at 7.30% . We estimate that every 25 basis point change in the expected return on plan assets impacts the expense by $1 million. 
+ The discount rate reflects our expectation of the present value of expected future cash payments for benefits at the measurement date. A decrease in the discount rate increases the present value of benefit obligations and increases pension expense. We base the discount rate assumption on current investment yields of high-quality fixed income investments during the retirement benefits maturity period. The pension discount rate was determined by considering an interest rate yield curve comprising AAA/AA bonds, with maturities between zero and 30 years, developed by the plan’s actuaries. Annual benefit payments are then discounted to present value using this yield curve to develop a single-point discount rate matching the plan’s characteristics. Our weighted average discount rate for all pension plans effective January 1, 2017 , is 2.82% . We estimate that every 25 basis point change in the discount rate impacts the expense by $1 million. 
+ The rate of future compensation increase assumption reflects our long-term actual experience and future and near-term outlook. Effective January 1, 2017 , our expected rate of future compensation is 2.80% for all pension plans. The estimated impact of a 25 basis point change in the expected rate of future compensation is less than $1 million. 
+ The assumed rate of future increases in the per capita cost of health care (the health care trend rate) is 8.14% for 2017 , decreasing ratably to 4.50% in 2025. An increase or decrease in the health care trend rates by one percent per year would impact the aggregate annual service and interest components by less than $1 million, and impact the benefit obligation by approximately $5 million. 
+ 
+ 
+ 45 
+ 
+ We currently anticipate making contributions to our pension and postretirement benefit plans in the range of $20 million to $30 million during 2017 , of which $6 million is expected to be made in the first quarter. 
+ Funded Status 
+ Funded status is derived by subtracting the respective year-end values of the projected benefit obligations from the fair value of plan assets. We estimate that every 25 basis point change in the discount rate impacts the funded status by approximately $29 million. 
+ Fair Value of Plan Assets 
+ The plan assets of our pension plans comprise a broad range of investments, including domestic and foreign equity securities, interests in private equity and hedge funds, fixed income investments, insurance contracts, and cash and cash equivalents. 
+ A portion of our pension benefit plan assets portfolio comprises investments in private equity and hedge funds. The private equity and hedge fund investments are generally measured at net asset value. However, in certain instances, the values reported by the asset managers were not current at the measurement date. Accordingly, we made estimate adjustments to the last reported value where necessary to measure the assets at fair value at the measurement date. These adjustments consider information received from the asset managers, as well as general market information. The adjustment recorded at December 31, 2016 and 2015 for these assets represented less than one percent of total plan assets in each respective year. Asset values for other positions were generally measured using market observable prices. We estimate that a 5% change in asset values will impact funded status by approximately $26 million. 
+ New Accounting Pronouncements 
+ See Note 2, “Recently Issued Accounting Pronouncements,” of the consolidated financial statements for a complete discussion of recent accounting pronouncements. 
+ 
+ 
+ 
+ 46 
+ 
+ 

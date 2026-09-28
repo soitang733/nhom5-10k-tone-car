@@ -1,0 +1,10780 @@
+ ITEM 7. 
+ 
+ 
+ 
+ Management’s Discussion and Analysis of Financial Condition and Results of Operations 
+ 
+ The following discussion of our financial condition and results of operations should be read together with the financial statements and the accompanying notes set forth under ITEM 8. – Financial Statements and Supplementary Data. The following discussion also contains trend information and other forward-looking statements that involve a number of risks and uncertainties. The Risk Factors set forth in ITEM 1A. – Risk Factors are hereby incorporated into the discussion by reference. 
+ 
+ Executive Overview 
+ 
+ Our Company 
+ 
+ We are a leader in data insight, access, and control for hybrid cloud environments. We provide global organizations the ability to manage and share their data across on-premises, private and public clouds. We, together with our partners, provide a full range of enterprise-class solutions that customers use to modernize their infrastructures, build next generation data centers and harness the power of hybrid clouds. We continue to pioneer a Data Fabric platform that allows infrastructure experts, cloud architects, developers and CIOs to easily and securely unite and manage data across the widest variety of environments. 
+ 
+ To help our customers and partners manage and share their data across on-premises, and private and public clouds, we are focusing on the customer by delivering an exceptional customer experience and becoming their preferred data partner; extending our cloud integration and hybrid cloud leadership through the NetApp Data Fabric platform and expanding our consumption model offerings to match customer needs across cloud and on-premises offerings. 
+ 
+ The NetApp Data Fabric is a platform designed to simplify, automate and evolve the management of data. Data Fabric empowers our customers to seamlessly liberate, integrate and unleash the full potential of their data in a cloud, hybrid and on-premises world. Built for the challenges and opportunities of the data-centric world, our products and solutions are designed for simplicity and optimized to manage, protect and secure data. Because our Data Fabric platform is open by design, we can constantly fuel innovation and flexibility. Our products and solutions portfolio centers on the digital transformation phases through which our customers are progressing: modernizing storage and data management, building next generation data centers and harnessing the power of hybrid cloud. 
+ 
+ Our unified scale-out fabric-attached storage (FAS) platform is designed to meet the demanding requirements of shared infrastructures and cloud environments. Our FAS storage platform uses the NetApp Data ONTAP storage operating system to deliver integrated data protection, comprehensive data management, and built-in efficiency software for virtualized, shared infrastructures, cloud computing, and mixed workload business applications. Our E-Series high-performance storage area network platform is designed to meet demanding performance and capacity requirements of dedicated workloads, while retaining simplicity and an optimized price to performance ratio. Our SolidFire All-Flash Arrays deliver fully automated agility and guaranteed application performance at web scale so customers can achieve the next-generation data center. 
+ 
+ Flash plays a key role in customers’ digital transformation efforts as they seek to gain advantage through greater speed, responsiveness and value from key business applications, while lowering total cost of ownership. All-flash array technology is the de facto choice for primary application workloads as customers seek performance and economic benefits by replacing hard disk installations. With our all-flash array portfolio, including our AFF-Series, EF-Series and SolidFire SF-Series products, we enable customers to modernize storage and data management to boost performance in their traditional data centers, while mapping out their move to a hybrid cloud. 
+ 
+ Our hybrid flash storage serves customers who want the option to deploy the speed of flash storage where they need it while using more affordable hard disk drives to address capacity requirements. Our hybrid arrays include the FAS series of unified storage systems and the E-Series of block storage offerings. 
+ 
+ We employ a multichannel distribution strategy, selling products and services to end users and service providers through a direct sales force and through channel partners, including value-added resellers, system integrators, original equipment manufacturers (OEMs) and distributors. 
+ 
+ To provide visibility into our transition from older products to our newer, higher growth products and clarity into the dynamics of our product revenue, we group our products by “Strategic” and “Mature” solutions. Strategic solutions include Clustered ONTAP, branded E-Series, SolidFire, AltaVault and optional add-on software products. Mature solutions include 7-mode OnTap, add-on hardware and related operating system (OS) software and original equipment manufacturers (OEM) products. Both our Mature and Strategic product lines include a mix of disk, hybrid and all flash storage media. 
+ 
+ In addition to our products, we provide a variety of services including software maintenance, hardware maintenance and other services including professional services, global support solutions, and customer education and training to help customers most effectively manage their data. 
+ 
+ 
+ 
+ 29 
+ 
+ 
+ Financial Results and Key Performance Metrics Overview 
+ 
+ The following table provides an overview of some of our key financial metrics for each of the last three fiscal years (in millions, except per share amounts, percentages and cash conversion cycle): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ April 28, 
+ 
+ 2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ April 29, 
+ 
+ 2016 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ April 24, 
+ 
+ 2015 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net revenues 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 5,519 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 5,546 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 6,123 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Gross profit 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 3,390 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 3,373 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 3,833 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Gross profit margin percentage 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 61 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 61 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 63 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ Income from operations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 665 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 348 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 716 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Income from operations as a percentage of net revenues 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 12 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 12 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net income 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 509 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 229 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 560 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Diluted net income per share 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 1.81 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 0.77 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 1.75 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating cash flows 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 986 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 974 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 1,268 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ April 28, 
+ 
+ 2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ April 29, 
+ 
+ 2016 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Deferred revenue and financed unearned services revenue 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 3,342 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 3,385 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cash conversion cycle 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 15 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 28 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ 
+ 
+ Net revenues : Our net revenues were relatively flat in fiscal 2017 compared to fiscal 2016. This was primarily due to an increase of 1% in product revenues, partially offset by a 2% decrease in software and hardware maintenance and other services revenues. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ 
+ 
+ Gross profit margin percentage: Our gross profit margin as a percentage of net revenues was relatively flat in fiscal 2017 compared to fiscal 2016 reflecting a decrease in gross profit margin on product revenues, mostly offset by an increase in gross profit margin on hardware maintenance and other services revenues. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ 
+ 
+ Income from operations as a percentage of net revenues: Our income from operations as a percentage of net revenues increased in fiscal 2017 compared to fiscal 2016 primarily due to lower operating expenses resulting from our cost reduction initiatives. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ 
+ 
+ Net income and Diluted income per share: The 122% and 135% increases in net income and diluted net income per share, respectively, in fiscal 2017 compared to fiscal 2016 reflect the factors discussed above, as well as a decrease in our effective tax rate of 10 percentage points. Diluted net income per share was favorably impacted by a 5% decrease in the annual weighted average number of dilutive shares, primarily due to share repurchases. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ 
+ 
+ Operating cash flows: Operating cash flows were relatively flat in fiscal 2017 compared to fiscal 2016, reflecting higher net income, mostly offset by changes in operating assets and liabilities. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ 
+ 
+ Deferred revenue and financed unearned services revenue: Total deferred revenue and financed unearned services revenue decreased $43 million, or 1%, as of fiscal 2017 year end compared to fiscal 2016 year end primarily due to lower pricing on maintenance contracts. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ 
+ 
+ Cash Conversion Cycle: Our cash conversion cycle was 15 days in the fourth quarter of fiscal 2017, compared to 28 days in the corresponding period of fiscal 2016, reflecting lower Days Sales Outstanding and higher Days Payables Outstanding, partially offset by higher Days Inventory Outstanding. 
+ 
+ Stock Repurchase Program and Dividend Activity 
+ 
+ During fiscal 2017, we repurchased 22 million shares of our common stock at an average price of $32.72 per share, for an aggregate of $705 million. We also declared cash dividends of an aggregate of $0.76 per share in fiscal 2017, for which we paid an aggregate of $208 million. 
+ 
+ Restructuring Events 
+ 
+ During the third quarter of fiscal 2017, we announced a restructuring and reduction in workforce to streamline our business and reduce operating expenses. In connection with these actions, we reduced our worldwide headcount by approximately 6%, and incurred aggregate charges of approximately $52 million, primarily related to employee terminations. These activities have been substantially completed. 
+ 
+ 30 
+ 
+ 
+ Commercial Paper Program 
+ 
+ In December 2016, we entered into a commercial paper program, under which we may issue unsecured commercial paper notes, with the aggregate face or principal amount of the notes outstanding at any time not to exceed $600 million. As of April 28, 2017, we had $500 million of principal amount in commercial paper notes outstanding. 
+ 
+ 
+ 
+ 
+ 
+ Critical Accounting Policies and Estimates 
+ 
+ Our consolidated financial statements have been prepared in accordance with generally accepted accounting principles in the United States of America (GAAP), which require management to make judgments, estimates and assumptions that affect the reported amounts of assets, liabilities, net revenues and expenses, and the disclosure of contingent assets and liabilities. Our estimates are based on historical experience and various other assumptions that we believe to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities. We believe that the accounting estimates employed and the resulting balances are reasonable; however, actual results may differ from these estimates and such differences may be material. 
+ 
+ The summary of significant accounting policies is included in Note 1 – Description of Business and Significant Accounting Policies of the Notes to Consolidated Financial Statements. An accounting policy is deemed to be critical if it requires an accounting estimate to be made based on assumptions about matters that are highly uncertain at the time the estimate is made, if different estimates reasonably could have been used, or if changes in the estimate that are reasonably possible could materially impact the financial statements. The accounting policies described below reflect the significant judgments, estimates and assumptions used in the preparation of the consolidated financial statements. 
+ 
+ Revenue Recognition, Reserves and Allowances 
+ 
+ We recognize revenue when persuasive evidence of an arrangement exists, delivery has occurred, the fee is fixed or determinable and collection is reasonably assured. Revenue from the sale of hardware systems and software components essential to the functionality of the hardware systems is recognized in accordance with general revenue recognition accounting guidance. Our product revenues also include revenues from the sale of non-essential software products, which generally includes a perpetual license to our software. Non-essential software sales are subject to industry specific software revenue recognition accounting guidance. Software maintenance and hardware maintenance services revenues are recognized ratably over their contractual terms, generally from one to five years. 
+ 
+ For multiple element arrangements, we allocate revenue to the software deliverables and the non-software deliverables as a group based on the relative selling prices of all of the deliverables in the arrangement. For our non-software deliverables, we allocate the arrangement consideration based on the relative selling price of the deliverables using estimated selling price (ESP). For our software maintenance services, we generally use vendor-specific objective evidence of selling price (VSOE). When we are unable to establish VSOE for our software maintenance services, we use ESP in our allocation of arrangement consideration. 
+ 
+ The selling price for each element is based upon the following selling price hierarchy: VSOE if available, third party evidence (TPE) if VSOE is not available, or ESP if neither VSOE nor TPE are available. Generally, we are not able to determine TPE because our go-to-market strategy differs from that of our peers and our offerings contain a significant level of differentiation such that the comparable pricing of products with similar functionality cannot be obtained. 
+ 
+ We record reductions to revenue for estimated sales returns at the time of shipment. We also maintain a separate allowance for doubtful accounts for estimated losses based on our assessment of the collectability of specific customer accounts. 
+ 
+ 
+ 
+ 31 
+ 
+ 
+ The following are the key estimates and assumptions and corresponding uncertainties for recognizing revenue: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Key Estimates and Assumptions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Key Uncertainties 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ 
+ 
+ We establish VSOE of selling price using the price charged for a deliverable when sold separately and generally evidenced by a substantial majority of historical stand-alone transactions falling within a reasonably narrow range. In addition, we consider major service type, customer type, and other variables in determining VSOE. Our revenue estimates and assumptions are based on our ability to assert and maintain VSOE. 
+ 
+ ESP is generally evidenced by a majority of historical transactions falling within a reasonable price range. We also consider multiple factors, including, but not limited to, cost of products, gross margin objectives, historical pricing practices, customer type and distribution channels. Our revenue estimates and assumptions are based on our ability to maintain consistent ESP. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ 
+ 
+ As our business and offerings evolve over time, modifications to our pricing and discounting methodologies, changes in the scope and nature of service offerings and/or changes in customer segmentation may result in a lack of consistency required to establish and/or maintain VSOE or to maintain consistent ESP. Additionally, technological changes resulting in variability in product costs and gross margins may require changes to our ESP model. Changes in ESP may result in a different allocation of revenue to the deliverables in multiple-element arrangements. These factors, among others, may adversely impact the amount of revenue and gross margin we report in a particular period. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ 
+ 
+ Sales returns are estimated based on historical sales returns, current trends and our expectations regarding future experience. Additionally, distributors and partners participate in various marketing and other programs, and we maintain estimated accruals and allowances for these programs based on contractual terms and historical experience. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ 
+ 
+ If there is insufficient relevant historical data for determining our sales returns estimates, or if we experience changes in practices related to sales returns or changes in market or competitive conditions resulting in higher than expected return rates, or if actual credits received by our distributors and partners deviate significantly from our estimates, our revenues may be adversely impacted. 
+ 
+ 
+ 
+ Inventory Valuation and Purchase Order Accruals 
+ 
+ Inventories consist primarily of purchased components and finished goods and are stated at the lower of cost or net realizable value, which approximates actual cost on a first-in, first-out basis. A provision is recorded when inventory is determined to be in excess of anticipated demand or obsolete in order to adjust inventory to its estimated realizable value. The following are the key estimates and assumptions and corresponding uncertainties for estimating the value of our inventories: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Key Estimates and Assumptions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Key Uncertainties 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ 
+ 
+ We periodically perform an excess and obsolete analysis of our inventory. Inventories are written down based on excess and obsolete reserves determined primarily on assumptions about future demand forecasts and market conditions. At the point of the loss recognition, a new, lower cost basis for that inventory is established, and subsequent changes in facts and circumstances do not result in the restoration or increase in that newly established cost basis. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ 
+ 
+ Although we use our best estimates to forecast future product demand, any significant unanticipated changes in demand or obsolescence related to technological developments, new product introductions, customer requirements, competition or other factors could have a significant impact on the valuation of our inventory. If actual market conditions are less favorable than those projected, additional write-downs and other charges against earnings that adversely impact gross margins may be required. If actual market conditions are more favorable, we may realize higher gross profits in the period when the written-down inventory is sold. 
+ 
+ We are subject to a variety of environmental laws relating to the manufacture of our products. If there are changes to the current regulations, we may be required to make product design changes which may result in excess or obsolete inventory, which could adversely impact our operating results. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ 
+ 
+ We make commitments to our third-party contract manufacturers and other suppliers to manage lead times and meet product forecasts and to other parties to purchase various key components used in the manufacture of our products. We establish accruals for estimated losses on non-cancelable purchase commitments when we believe it is probable that the components will not be utilized in future operations. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ 
+ 
+ If the actual materials demand is significantly lower than our forecast, we may be required to increase our recorded liabilities for estimated losses on non-cancelable purchase commitments which would adversely impact our operating results. 
+ 
+ 
+ 
+ 32 
+ 
+ 
+ Goodwill and Purchased Intangible Assets 
+ 
+ We allocate the purchase price of acquisitions to identifiable assets acquired and liabilities assumed at their acquisition date fair values based on established valuation techniques. Goodwill represents the residual value as of the acquisition date, which in most cases is measured as the excess of the purchase consideration transferred over the net of the acquisition date fair values of the assets acquired and liabilities assumed. 
+ 
+ The carrying values of purchased intangible assets are reviewed whenever events and circumstances indicate that the net book value of an asset may not be recovered through expected future cash flows from its use and eventual disposition. We periodically review the estimated remaining useful lives of our intangible assets. This review may result in impairment charges or shortened useful lives, resulting in charges to our consolidated statements of operations. 
+ 
+ We review goodwill for impairment annually and whenever events or changes in circumstances indicate the carrying amount of a reporting unit may exceed its fair value. The provisions of the accounting standard for goodwill allow us to first assess qualitative factors to determine whether it is necessary to perform the quantitative goodwill impairment test. For our annual goodwill impairment test in the fourth quarter of fiscal 2017, we performed a quantitative test at the reporting unit level and determined the fair value substantially exceeded the carrying amount of each reporting unit and, therefore, found no impairment of goodwill. 
+ 
+ The following are the key estimates and assumptions and corresponding uncertainties for estimating the value of our goodwill and purchased intangible assets: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Key Estimates and Assumptions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Key Uncertainties 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ 
+ 
+ The assessment of fair value for goodwill and purchased intangible assets is based on factors that market participants would use in an orderly transaction in accordance with the accounting guidance for the fair value measurement of nonfinancial assets. 
+ 
+ The valuation of purchased intangible assets is principally based on estimates of the future performance and cash flows expected to be generated by the acquired assets from the acquired business. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ 
+ 
+ While we employ experts to determine the acquisition date fair value of acquired intangibles, the fair values of assets acquired and liabilities assumed are based on significant management assumptions and estimates, which are inherently uncertain and highly subjective and as a result, actual results may differ from estimates. If different assumptions were to be used, it could materially impact the purchase price allocation. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ 
+ 
+ Evaluations of possible goodwill and purchased intangible assets impairment require us to make judgments and assumptions related to the allocation of our balance sheet and income statement amounts and estimate future cash flows and fair market values of our reporting units and assets. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ 
+ 
+ In response to changes in industry and market conditions, we could be required to strategically realign our resources and consider restructuring, disposing of, or otherwise exiting businesses, which could result in an impairment of goodwill or purchased intangible assets. 
+ 
+ Assumptions and estimates about expected future cash flows and the fair values of our reporting units and purchased intangible assets are complex and subjective. They can be affected by a variety of factors, including external factors such as the adverse impact of unanticipated changes in macroeconomic conditions and technological changes or new product introductions from competitors. They can also be affected by internal factors such as changes in business strategy or in forecasted product life cycles and roadmaps. Our ongoing consideration of these and other factors could result in future impairment charges or accelerated amortization expense, which could adversely affect our operating results. 
+ 
+ 
+ 
+ Product Warranties 
+ 
+ Estimated future hardware and software warranty costs are recorded as a cost of product revenues at the time of product shipment. We assess the adequacy of our warranty accrual each quarter and adjust the amount as considered necessary. 
+ 
+ 33 
+ 
+ 
+ The following are the key estimates and ass umptions and corresponding uncertainties for product warranties: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Key Estimates and Assumptions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Key Uncertainties 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ 
+ 
+ Estimated future software and hardware warranty costs are based on historical and projected warranty claim rates, product failure rates, historical and projected materials and logistics costs, distribution and labor costs and knowledge of specific product failures that are outside of our typical experience. We also evaluate our estimates to assess the adequacy of our warranty liability considering the size of the installed base of products subject to warranty protection and adjust the estimates as necessary. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ 
+ 
+ Although we engage in product quality programs and processes, if we experience unexpected quality issues resulting in higher failure rates or experience increases in costs to remediate product failures, additional warranty costs may be incurred. Additionally, for new products our warranty liability is based on limited historical experience. If our projections differ from such limited experience, our warranty costs may increase, which could adversely impact our gross margins. 
+ 
+ 
+ 
+ Valuation of Investment Securities 
+ 
+ Our investments in debt securities are reported at fair value and are subject to periodic impairment review. Unrealized gains and losses related to changes in the fair value of these securities are recognized in accumulated other comprehensive income, net of tax, unless they are determined to be other-than-temporary impairments. The ultimate value realized on these securities is subject to market price volatility until they are sold. 
+ 
+ The following are the key estimates and assumptions and corresponding uncertainties for the valuation of our investment securities: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Key Estimates and Assumptions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Key Uncertainties 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ 
+ 
+ The estimated fair value of our debt securities, and the associated accounting for unrealized losses is based on an evaluation of current economic and market conditions, the credit rating of the security’s issuer, the length of time and extent the security’s fair value has been below its amortized cost and our ability and intent to hold the security for a period of time sufficient to allow for anticipated recovery in value. If we determine that an investment has an other-than-temporary decline in fair value, we recognize the investment loss in earnings. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ 
+ 
+ The fair value of our investments in debt securities could decrease significantly from uncertainties in the credit and capital markets, credit rating downgrades and/or solvency of the issuer, decreases in the marketability of the securities. If the fair value of our investments decreases significantly and, if because of changes in our ability and intent to continue to hold the securities or other factors, it is determined to be other-than-temporary, we may incur impairment charges that could adversely affect our results of operations. 
+ 
+ 
+ 
+ 34 
+ 
+ 
+ Income Taxes 
+ 
+ We are subject to income taxes in the United States and numerous foreign jurisdictions. We compute our provision for income taxes using the asset and liability method, under which deferred tax assets and liabilities are recognized for the expected future tax consequences of temporary differences between the financial reporting and tax bases of assets and liabilities, and for operating losses and tax credit carryforwards. Deferred tax assets and liabilities are measured using the currently enacted tax rates that apply to taxable income in effect for the years in which those tax assets are expected to be realized or settled. The Company records a valuation allowance to reduce deferred tax assets to the amount that is believed more likely than not to be realized. 
+ 
+ The following are the key estimates and assumptions and corresponding uncertainties for our income taxes: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Key Estimates and Assumptions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Key Uncertainties 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ 
+ 
+ Our income tax provision is based on existing tax law and advanced pricing agreements or letter rulings we have with various tax authorities. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ 
+ 
+ Our provision for income taxes is subject to volatility and could be adversely impacted by future changes in existing tax laws, such as a change in tax rate, possible U.S. changes to the taxation of earnings of our foreign subsidiaries, and uncertainties as to future renewals of favorable tax agreements and rulings. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ 
+ 
+ Deferred income taxes have not been provided on the undistributed earnings of foreign subsidiaries because these earnings have been indefinitely reinvested and there is no plan in the foreseeable future to initiate any action that would precipitate the payment of income taxes thereon. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ 
+ 
+ We consider the following matters, among others, in evaluating our plans for indefinite reinvestment: the forecasts, budgets and financial requirements of the parent and subsidiaries for both the long and short term; the tax consequences of a decision to reinvest; and any U.S. and foreign government programs designed to influence remittances. If factors change, future income tax expense and payments may differ significantly from the current period and could materially adversely affect our results of operations. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ 
+ 
+ The determination of whether we should record or adjust a valuation allowance against our deferred tax assets is based on assumptions regarding our future profitability. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ 
+ 
+ Our future profits could differ from current expectations resulting in a change to our determination as to the amount of deferred tax assets that are more likely than not to be realized. We could adjust our valuation allowance with a corresponding impact to the tax provision in the period in which such determination is made. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ 
+ 
+ The estimates for our uncertain tax positions are based primarily on company specific circumstances, applicable tax laws, tax opinions from outside firms and past results from examinations of our income tax returns. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ 
+ 
+ Significant judgment is required in evaluating our uncertain tax positions. Although we believe our reserves are reasonable, no assurance can be given that the final tax outcome or tax court rulings of these matters will not be different from that which is reflected in our historical tax provisions and accruals. 
+ 
+ 
+ 
+ New Accounting Standards 
+ 
+ See Note 2 – Recent Accounting Standards Not Yet Effective of the Notes to Consolidated Financial Statements for a full description of new accounting pronouncements, including the respective expected dates of adoption and effects on our financial statements. 
+ 
+ 
+ 
+ 
+ 
+ 35 
+ 
+ 
+ Results of Operations 
+ 
+ Our fiscal year is reported on a 52- or 53-week year that ends on the last Friday in April. An additional week is included in the first fiscal quarter approximately every six years to realign fiscal months with calendar months. Fiscal year 2017, which ended on April 28, 2017, and fiscal year 2015, which ended on April 24, 2015, were each 52-week years. Fiscal year 2016, which ended on April 29, 2016, was a 53-week year. Unless otherwise stated, references to particular years, quarters, months and periods refer to our fiscal years ended in April and the associated quarters, months and periods of those fiscal years . 
+ 
+ The following table sets forth certain Consolidated Statements of Operations data as a percentage of net revenues for the periods indicated: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fiscal Year 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Revenues: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Product 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 54 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 54 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 60 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ Software maintenance 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 17 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 17 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 15 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Hardware maintenance and other services 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 28 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 29 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 26 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net revenues 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 100 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 100 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 100 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of revenues: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of product 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 29 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 28 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 27 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of software maintenance 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of hardware maintenance and other services 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Gross profit 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 61 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 61 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 63 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating expenses: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sales and marketing 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 30 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 32 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 31 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Research and development 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 14 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 16 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 15 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ General and administrative 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Restructuring charges 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Acquisition-related expense 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Gain on sale of properties 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total operating expenses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 49 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 55 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 51 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Income from operations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other expense, net 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Income before income taxes 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Provision for income taxes 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net income 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ Percentages may not add due to rounding 
+ 
+ Discussion and Analysis of Results of Operations 
+ 
+ Overview — Net revenues for fiscal 2017 were $5,519 million, a decrease of $27 million, relatively flat compared to fiscal 2016, reflecting lower hardware maintenance and other services revenues, partially offset by higher product revenues and software maintenance revenues. Net revenues for fiscal 2016 were $5,546 million, a decrease of $577 million, or 9%, compared to fiscal 2015, reflecting lower product revenues, partially offset by higher software and hardware maintenance and other services revenues. 
+ 
+ Gross profit as a percentage of net revenues for fiscal 2017 was relatively flat compared to fiscal 2016, reflecting lower margins on product revenues, mostly offset by higher margins on hardware maintenance and other services revenues. Gross profit margins on product revenues in fiscal 2017 decreased 1.5 percentage points compared to fiscal 2016, primarily due to higher discounting and product promotions which resulted in the decline in ASPs, as well as higher overall average unit materials costs. Gross profit margins increased on hardware maintenance and other services due the achievement of a lower cost structure resulting from our recent cost reduction initiatives. Gross profit as a percentage of net revenues decreased 2 percentage points during fiscal 2016 compared to fiscal 2015, reflecting lower margins on product revenues, due to primarily to higher discounting and product promotions which resulted in the decline in ASPs that outpaced the decline in unit materials costs. 
+ 
+ Sales and marketing, research and development, and general and administrative expenses for fiscal 2017 totaled $2,683 million, a decrease of 5 percentage points as a percentage of net revenues compared to fiscal 2016, primarily due to a lower average headcount as a result of our restructuring plans as well as other cost reduction initiatives, partially offset by additional operating expenses related to our acquisition of SolidFire, Inc. (SolidFire). Sales and marketing, research and development, and general and administrative expenses for fiscal 2016 totaled $2,960 million, an increase of 3 percentage points as a percentage of net revenues compared to fiscal 2015, primarily due to a lower revenue denominator, partially offset by the benefits of our cost reduction initiatives. 
+ 
+ 36 
+ 
+ 
+ Net Revenues (in millions, except percentages): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fiscal Year 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ % Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ % Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net revenues 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 5,519 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 5,546 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 6,123 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (9 
+ 
+ 
+ 
+ )% 
+ 
+ 
+ 
+ 
+ 
+ The decrease in net revenues for fiscal 2017 compared to fiscal 2016 was primarily due to a decrease of $63 million in hardware maintenance and other services revenues, partially offset by an increase of $20 million in product revenues and an increase of $16 million in software maintenance revenues. Product revenues as a percent of net revenues increased 1 percentage point in fiscal 2017 compared to fiscal 2016. 
+ 
+ The decrease in net revenues for fiscal 2016 compared to fiscal 2015 was primarily due to a decrease of $669 million in product revenues, partially offset by a $92 million increase in total software maintenance and hardware maintenance and other services revenues. Product revenues as a percent of net revenues decreased 6 percentage points in fiscal 2016 compared to fiscal 2015. 
+ 
+ Sales through our indirect channels represented 78%, 77% and 78% of net revenues in fiscal 2017, 2016 and 2015, respectively. 
+ 
+ The following customers, each of which is a distributor, accounted for 10% or more of net revenues: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fiscal Year 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Arrow Electronics, Inc. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 22 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 22 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 23 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ Avnet, Inc. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 20 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 19 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 16 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ Product Revenues (in millions, except percentages): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fiscal Year 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ % Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ % Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Product revenues 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 3,006 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 2,986 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 3,655 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (18 
+ 
+ 
+ 
+ )% 
+ 
+ 
+ 
+ 
+ 
+ Product revenues are derived through the sale of our strategic and mature solutions, and consist of sales of configured systems, which are bundled hardware and software products, as well as add-on flash, disk and/or hybrid storage and related OS, original equipment manufacturer (OEM) products and add-on hardware and software. 
+ 
+ Product revenues from strategic solutions represented 66% of product revenues in fiscal 2017, compared to 56% in fiscal 2016. Product revenues from mature solutions represented 34% of product revenues, in fiscal 2017, compared to 44% in fiscal 2016. 
+ 
+ Total product revenues from strategic solutions totaled $1,971 million in fiscal 2017, reflecting a 17% increase from $1,682 million in fiscal 2016. This increase was primarily due to a 15% increase in unit volume of Clustered ONTAP systems, partially offset by a decrease in ASP reflecting higher discounting and promotional programs. Total product revenue from mature solutions totaled $1,035 million in fiscal 2017, reflecting a 21% decrease from $1,304 million in fiscal 2016, primarily due to a 57% decrease in unit volume of 7-mode systems, as well as a decrease in ASP. In addition, add-on hardware, storage and related OS revenues decreased 11%, while OEM revenues increased 4%. These fluctuations reflect our planned transition of our product offerings and the adoption by our customers of our newer all-flash and hybrid-cloud compatible products. 
+ 
+ Total product revenues from strategic solutions totaled $1,682 million in fiscal 2016, reflecting a 20% increase from $1,402 million in fiscal 2015, primarily due to an 86% increase in unit volume of Clustered ONTAP systems, partially offset by a decrease in ASP reflecting higher discounting and less favorable product mix. Total product revenue from mature solutions totaled $1,304 million in fiscal 2016, reflecting a 42% decrease from $2,253 million in fiscal 2015, primarily due to a 63% decrease in unit volume of 7-mode systems, as well as a decrease in ASP. In addition, add-on hardware, storage and related OS revenues decreased 19% and OEM revenues decreased 38%. These fluctuations reflect the movement of customer demand from our older products to our newer products. 
+ 
+ Our systems are highly configurable to respond to customer requirements in the open systems storage markets that we serve. This can cause a wide variation in product configurations that can significantly impact revenues, cost of revenues and gross profits. Pricing changes, discounting practices, product competition, foreign currency, unit volumes, customer mix, natural disasters and product materials costs can also impact revenues, cost of revenues and/or gross profits. Disk drive and flash storage materials are a significant component of our storage systems. While our sales price per terabyte historically declines over time, improved system performance, increased capacity and software to manage this increased capacity have an offsetting favorable impact on product revenues. 
+ 
+ 37 
+ 
+ 
+ Software Maintenance Revenues (in millions, except percentages): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fiscal Year 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ % Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ % Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Software maintenance revenues 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 965 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 949 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 899 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ Software maintenance revenues are associated with contracts which entitle customers to receive unspecified product upgrades and enhancements on a when-and-if-available basis, bug fixes and patch releases, as well as internet and telephone access to technical support personnel located in our global support centers. 
+ 
+ The fluctuations in software maintenance revenues reflect fluctuations in the aggregate contract value of the installed base under software maintenance contracts, which is recognized as revenue ratably over the terms of the underlying contracts. Our software maintenance revenues were favorably impacted by a change in our pricing strategy, effective in the fourth quarter of fiscal 2014, such that we now charge for software maintenance services on the storage capacity sold in our configured systems and add-on storage products. Software maintenance revenues in fiscal 2016 were also favorably impacted by the additional week of deferred revenue amortization in the first quarter of that year. 
+ 
+ Hardware Maintenance and Other Services Revenues (in millions, except percentages): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fiscal Year 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ % Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ % Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Hardware maintenance and other services revenues 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 1,548 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 1,611 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (4 
+ 
+ 
+ 
+ )% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 1,569 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ Hardware maintenance and other services revenues include hardware maintenance, professional services and educational and training services revenues. 
+ 
+ Hardware maintenance contract revenues were $1,265 million, $1,316 million and $1,253 million in fiscal 2017, 2016 and 2015, respectively, reflecting a decrease of 4% during fiscal 2017 compared to fiscal 2016 and an increase of 5% during fiscal 2016 compared to fiscal 2015. The decrease in fiscal 2017 was primarily due to a decrease in ASP on hardware maintenance contracts during the year. The increase in fiscal 2016 compared to fiscal 2015 was primarily due to an increase in the installed base and aggregate contract values under hardware maintenance contracts, due largely to higher levels of shorter term contract renewals from our existing contract base. Hardware maintenance revenues in fiscal 2016 were also favorably impacted by the additional week of deferred revenue amortization in the first quarter of that year. 
+ 
+ Professional services and educational and training services revenues were $283 million, $295 million and $317 million in fiscal 2017, 2016 and 2015, respectively. 
+ 
+ Revenues by Geographic Area: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fiscal Year 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ United States, Canada and Latin America (Americas) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 56 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 55 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 56 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ Europe, Middle East and Africa (EMEA) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 31 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 32 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 30 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ Asia Pacific (APAC) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 13 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 13 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 13 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ Percentages may not add due to rounding 
+ 
+ 
+ 
+ Americas revenues consist of sales to Americas commercial and United States (U.S.) public sector markets. Revenues in fiscal 2017 were relatively flat compared to fiscal 2016 across all geographical areas. During fiscal 2016, we experienced declining revenues in all geographic areas, with the largest percentage decline in the Americas U.S. public sector market. During fiscal 2015, Americas revenues were favorably impacted by an increase in revenues from U.S. public sector markets, but unfavorably impacted by lower Americas commercial revenues. 
+ 
+ Cost of Revenues 
+ 
+ Our cost of revenues consists of three elements: (1) cost of product revenues, which includes the costs of manufacturing and shipping our storage products, amortization of purchased intangible assets, inventory write-downs, and warranty costs, (2) cost of software maintenance, which includes the costs of providing software maintenance and third-party royalty costs and (3) cost of 
+ 
+ 38 
+ 
+ 
+ hardware maintenance and other services revenues, which includes costs as sociated with providing support activities for hardware maintenance, global support partnership programs, professional services and educational and training services. 
+ 
+ Cost of Product Revenues (in millions, except percentages): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fiscal Year 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ % Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ % Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of product revenues 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 1,614 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 1,558 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 1,657 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (6 
+ 
+ 
+ 
+ )% 
+ 
+ 
+ 
+ 
+ 
+ The changes in cost of product revenues consisted of the following (in percentage points of the total change): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fiscal 2017 to Fiscal 2016 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fiscal 2016 to Fiscal 2015 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Percentage Change Points 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Percentage Change Points 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Materials costs 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (5 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Warranty 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Amortization of purchased intangible assets 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (2 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (2 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (6 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ Cost of product revenues represented 54%, 52% and 45% of product revenues for fiscal 2017, 2016 and 2015, respectively. Materials cost represented 91%, 85% and 85% of product costs for fiscal 2017, 2016 and 2015, respectively. 
+ 
+ Materials costs increased $143 million in fiscal 2017 compared to fiscal 2016, reflecting a 32% increase in materials costs related to strategic products, primarily due to higher unit volume for configured Clustered ONTAP systems, particularly for All-Flash FAS products. This was partially offset by a 16% decrease in materials costs for mature products, reflecting lower volume in 7-Mode systems. Average unit materials costs for Clustered ONTAP systems increased primarily due to changes in product and configuration mix, including a higher percentage of systems sold with solid state (flash) drives in fiscal 2017. 
+ 
+ A decrease in ASP for strategic systems combined with the increase in unit materials costs resulted in lower standard margins for mature products in fiscal 2017 compared to the prior year. Average unit materials costs for 7-mode systems were relatively flat compared to the prior year, which when combined with a decrease in ASP resulted in lower standard margins for mature products. 
+ 
+ Materials costs decreased $85 million in fiscal 2016 compared to fiscal 2015, reflecting a 47% increase in materials costs related to strategic products, primarily due to higher unit volume for configured Clustered ONTAP systems, partially offset by a 35% decrease in materials costs for mature products, primarily due to lower unit volume in 7-Mode systems. Average unit materials costs for Clustered ONTAP systems decreased primarily due to changes in mix, while average unit materials costs for 7-mode systems were relatively flat compared to fiscal 2015. 
+ 
+ Lower ASPs in fiscal 2016 compared to fiscal 2015 for both strategic and mature products, only partially offset by lower unit materials costs for strategic products, resulted in lower standard margins for both product groups. 
+ 
+ Cost of product revenues in fiscal 2017 compared to fiscal 2016 were also favorably impacted by an $18 million decrease of warranty expense, reflecting our product quality and cost reduction efforts, and a decrease of $31 million in the amortization of intangibles due to the impact of certain acquired developed technologies being fully amortized by the end of fiscal 2016, partially offset by amortization related to the SolidFire acquisition. 
+ 
+ Cost of Software Maintenance Revenues (in millions, except percentages): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fiscal Year 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ % Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ % Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of software maintenance revenues 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 28 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 37 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (24 
+ 
+ 
+ 
+ )% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 36 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ Cost of software maintenance revenues decreased in fiscal 2017 compared to fiscal 2016, but were relatively flat in fiscal 2016 compared to fiscal 2015. Cost of software maintenance revenues represented 3%, 4% and 4% of software maintenance revenues for fiscal 2017, 2016 and 2015, respectively. 
+ 
+ 39 
+ 
+ 
+ Cost of Hardware Maintenance and Other Services Revenues (in millions, except percenta ges): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fiscal Year 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ % Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ % Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of hardware maintenance and other services revenues 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 487 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 578 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (16 
+ 
+ 
+ 
+ )% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 597 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (3 
+ 
+ 
+ 
+ )% 
+ 
+ 
+ 
+ 
+ 
+ Cost of hardware maintenance and other services revenues decreased $91 million, or 16%, in fiscal 2017 compared to fiscal 2016 and decreased $19 million, or 3%, in fiscal 2016 compared to fiscal 2015 due to the favorable impact of cost savings initiatives. Costs represented 31%, 36% and 38% of hardware maintenance and other services revenues for fiscal 2017, 2016 and 2015, respectively. 
+ 
+ 
+ 
+ 
+ 
+ Operating Expenses 
+ 
+ Sales and Marketing, Research and Development and General and Administrative Expenses 
+ 
+ Compensation costs represent the largest component of operating expenses. Included in compensation costs are salaries, benefits, other compensation-related costs, stock-based compensation expense and employee incentive compensation plan costs. 
+ 
+ Total compensation costs included in operating expenses decreased $149 million, or 9% during fiscal 2017 compared to fiscal 2016, primarily due to lower salary and stock-based compensation expenses, reflecting a 13% decrease in average headcount as a result of cost reduction initiatives, partially offset by higher incentive compensation expense, reflecting stronger operating performance against goals. 
+ 
+ Total compensation costs included in operating expenses decreased $57 million, or 3% during fiscal 2016 compared to fiscal 2015, primarily due to lower salaries and incentive compensation costs, reflecting a 5% decrease in average headcount, lower operating performance against goals and the favorable impact of foreign exchange rate fluctuations. 
+ 
+ Sales and Marketing (in millions, except percentages): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fiscal Year 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ % Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ % Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sales and marketing expenses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 1,633 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 1,792 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (9 
+ 
+ 
+ 
+ )% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 1,913 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (6 
+ 
+ 
+ 
+ )% 
+ 
+ 
+ 
+ 
+ 
+ Sales and marketing expenses consist primarily of compensation costs, commissions, outside services, allocated facilities and IT support costs, advertising and marketing promotional expense and travel and entertainment expense. The changes in sales and marketing expenses consisted of the following: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fiscal 2017 to Fiscal 2016 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fiscal 2016 to Fiscal 2015 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Percentage Change Points 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Percentage Change Points 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Compensation costs 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (4 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (2 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Facilities and IT support costs 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (3 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (2 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (2 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (2 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (9 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (6 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ The decrease in compensation costs during fiscal 2017 reflects a 10% decrease in average headcount from the prior year. Facilities and IT support costs decreased during fiscal 2017 primarily due to cost containment efforts. 
+ 
+ The decrease in sales and marketing expenses in fiscal 2016 reflects the approximately 4% favorable impact of fluctuations in foreign exchange rates. Additionally, the decrease in compensation costs during fiscal 2016 reflects lower average headcount from the prior year. Facilities and IT support costs decreased during fiscal 2016 primarily due to cost reduction initiatives. 
+ 
+ Research and Development (in millions, except percentages): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fiscal Year 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ % Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ % Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Research and development expenses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 779 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 861 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (10 
+ 
+ 
+ 
+ )% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 920 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (6 
+ 
+ 
+ 
+ )% 
+ 
+ 
+ 
+ 40 
+ 
+ 
+ 
+ 
+ Research and development expenses consist primarily of compensation costs, allocated facilities and IT support costs, depreciation, equipment and software related costs, prototypes, non-recurring engineering charges and other outside services costs. Changes in research and development expense consisted of the following: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fiscal 2017 to Fiscal 2016 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fiscal 2016 to Fiscal 2015 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Percentage Change Points 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Percentage Change Points 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Compensation costs 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (7 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (3 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Facilities and IT support costs 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (2 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (2 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (10 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (6 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ Compensation costs for fiscal 2017 were favorably impacted by lower salary and stock-based compensation expenses due to a decrease of 18% in average headcount, but were unfavorably impacted by higher incentive compensation expense. Facilities and IT support costs decreased during fiscal 2017 primarily due to cost containment efforts. 
+ 
+ The decrease in compensation costs during fiscal 2016 was primarily due to lower salaries and incentive compensation costs, reflecting a 6% decrease in average headcount. Facilities and IT support costs decreased during fiscal 2016 primarily due to cost reduction initiatives. 
+ 
+ General and Administrative (in millions, except percentages): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fiscal Year 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ % Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ % Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ General and administrative expenses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 271 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 307 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (12 
+ 
+ 
+ 
+ )% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 284 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 8 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ General and administrative expenses consist primarily of compensation costs, professional and corporate legal fees, outside services and allocated facilities and IT support costs. Changes in general and administrative expense consisted of the following: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fiscal 2017 to Fiscal 2016 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fiscal 2016 to Fiscal 2015 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Percentage Change Points 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Percentage Change Points 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Compensation costs 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (4 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Professional and legal fees and outside services 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (8 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Facilities and IT support costs 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (3 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (2 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (12 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Compensation costs for fiscal 2017 were favorably impacted by lower salary and stock-based compensation expenses due to a decrease of 11% in average headcount, but were unfavorably impacted by higher incentive compensation expense. The decrease in professional and legal fees and outside services expense in fiscal 2017 was primarily due to lower spending levels on consulting fees and projects. Facilities and IT support costs increased during fiscal 2017 primarily due to an increase in spending on IT projects. 
+ 
+ The increase in compensation costs in fiscal 2016 was primarily due to higher stock-based compensation, salaries and benefit costs. The increase in professional and legal fees and outside services expense in fiscal 2016 was primarily due to higher spending levels on consulting fees and projects. Facilities and IT support costs decreased during fiscal 2016 primarily due to cost reduction initiatives. 
+ 
+ Restructuring Charges (in millions, except percentages): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fiscal Year 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ % Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ % Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ Restructuring charges 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 52 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 108 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (52 
+ 
+ 
+ 
+ )% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ NM 
+ 
+ 
+ 
+ 
+ 
+ NM - Not Meaningful 
+ 
+ 41 
+ 
+ 
+ I n response to changes in market conditions and market demand for our products, in fiscal years 2017 and 2016 , we initiated a number of business realignment plans designed to streamline our business, reduce our cost structure and focus our resources on key strategic opportunities , resulting in aggregate reductions of our global workforce of approximately 6 % and 14 % in fiscal 2 01 7 and 201 6 , respectively, for which we recognized aggregate charges of $ 52 million and $ 108 million, consisting primarily of employee severance costs. See Note 13 – Restructuring Charges of the Notes to Consolidated Financial Statements for more details regarding our restructuring plans. 
+ 
+ Acquisition-related Expense (in millions, except percentages): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fiscal Year 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ % Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ % Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ Acquisition-related expense 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (100 
+ 
+ 
+ 
+ )% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ NM 
+ 
+ 
+ 
+ 
+ 
+ NM - Not Meaningful 
+ 
+ During fiscal 2016, we incurred $8 million of acquisition costs, primarily related to legal and consulting fees, employee severance costs, and asset impairments associated with our acquisition of SolidFire. 
+ 
+ Gain on Sale of Properties (in millions, except percentages): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fiscal Year 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ % Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ % Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ Gain on sale of properties 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ (10 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ (51 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (80 
+ 
+ 
+ 
+ )% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ NM 
+ 
+ 
+ 
+ 
+ 
+ NM - Not Meaningful 
+ 
+ In fiscal 2017, our continuing involvement with certain properties subject to a sale-leaseback arrangement entered into in fiscal 2016 ended, and as a result we recorded a non-cash sale of properties, extinguished the associated financing obligation and recognized a gain of $10 million. 
+ 
+ In fiscal 2016, we sold certain properties, which had a net book value of $51 million and related sales proceeds of $102 million, resulting in a gain of $51 million. 
+ 
+ Other Expense, Net (in millions, except percentages) 
+ 
+ The components of other expense, net were as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fiscal Year 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ % Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ % Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Interest income 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 44 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 46 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (4 
+ 
+ 
+ 
+ )% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 37 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 24 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ Interest expense 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (52 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (49 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (42 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 17 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other income, net 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ NM 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (100 
+ 
+ 
+ 
+ )% 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ (3 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (100 
+ 
+ 
+ 
+ )% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ (3 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ NM - Not Meaningful 
+ 
+ Interest income decreased during fiscal 2017 compared to fiscal 2016, primarily due to a decrease in the size of our investment portfolio. Interest income increased during fiscal 2016 compared to fiscal 2015, primarily due to a shift in our investment portfolio to higher-yielding investments. 
+ 
+ Interest expense increased due to higher debt levels in fiscal years 2017 and 2016. 
+ 
+ Provision for Income Taxes (in millions, except percentages): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fiscal Year 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ % Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ % Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Provision for income taxes 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 156 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 116 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 34 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 153 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (24 
+ 
+ 
+ 
+ )% 
+ 
+ 
+ 
+ 
+ 
+ Our effective tax rate for fiscal 2017 was 23.5% compared to an effective tax rate of 33.6% for fiscal 2016, and an effective tax rate of 21.5% for fiscal 2015. Our effective tax rates reflect the impact of a significant amount of our earnings, primarily income from our European operations which are headquartered in the Netherlands, being taxed in foreign jurisdictions at rates below the U.S. statutory tax rate. The effective tax rates for fiscal 2015 through fiscal 2017 were favorably impacted by the geographic mix of profits. Our 
+ 
+ 42 
+ 
+ 
+ effective tax rate for fiscal 2017 decreased compared to the prior year primarily as a result of dif ferences in the respective periods’ income before taxes, as well as the impacts of discrete events discussed below. 
+ 
+ The effective tax rate of 23.5% in fiscal 2017 included a benefit of $100 million, or 15.0 percentage points, from foreign profits taxed at effective tax rates lower than the U.S. federal statutory rate of 35%. Other key components of our effective tax rate for the year included a benefit of $8 million, or 1.2 percentage points, related to research and development credits, a tax charge of $16 million, or 2.4 percentage points, attributable to non-deductible stock-based compensation and a benefit of $4 million, or 0.6 percentage points, related to the domestic production activities deduction. 
+ 
+ The effective tax rate of 33.6% in fiscal 2016 included a benefit of $81 million, or 23.5 percentage points, from foreign profits taxed at effective tax rates lower than the U.S. federal statutory rate of 35%. Other key components of our effective tax rate for the year included a charge of $64 million, or 18.6 percentage points, related to the integration of SolidFire intellectual property into our tax structure, charges of $20 million, or 5.8 percentage points, in connection with the settlement of income tax audits, a benefit of $14 million, or 4.1 percentage points, related to current and prior year research and development credits, a tax charge of $13 million, or 3.8 percentage points, attributable to non-deductible stock-based compensation and a benefit of $10 million, or 2.9 percentage points, related to the domestic production activities deduction. 
+ 
+ The effective tax rate of 21.5% in fiscal 2015 included a benefit of $141 million, or 19.8 percentage points, from foreign profits taxed at effective tax rates lower than the U.S. federal statutory rate of 35%. Other key components of our effective tax rate for the year included a benefit of $14 million, or 1.9 percentage points, related to current and prior year research and development credits, a benefit of $5 million, or 0.7 percentage points, related to the domestic production activities deduction, and charges of $46 million, or 6.5 percentage points, in connection with income tax audits. 
+ 
+ In the first quarter of fiscal 2017, we adopted a new accounting standard that simplifies stock-based compensation income tax accounting and presentation within the financial statements. During fiscal 2017, we recorded a discrete charge of $18 million following the post-adoption rules which require that all excess tax benefits and deficiencies from stock-based compensation be recognized as a component of income tax expense. 
+ 
+ In June 2015, the Internal Revenue Service (IRS) signed a closing agreement on our fiscal 2008 to 2010 transfer pricing arrangements and in October 2015 completed the examination of our fiscal 2008 to 2010 income tax returns. During fiscal 2016, we recorded discrete charges totaling $23 million attributable to the audit settlements and related re-measurement of uncertain tax positions for tax years subject to future audits. 
+ 
+ In July 2014, the IRS completed the examination of our fiscal 2005 to 2007 income tax returns upon approval by the Joint Committee of Taxation. During fiscal 2015, we recorded a tax charge of $47 million attributable to the audit settlement and related re-measurements of uncertain tax positions for tax years subject to future audits. 
+ 
+ We are currently undergoing federal income tax audits in the United States and several foreign tax jurisdictions. Transfer pricing calculations are key issues under audits in various jurisdictions, and are often subject to dispute and appeals. Our open years in U.S. federal jurisdictions are fiscal 2012 and later years. In addition, we are effectively subject to federal tax examination adjustments for tax years ended on or after fiscal 2001, in that we have tax attribute carryforwards from these years that could be subject to adjustments in the tax years of utilization. 
+ 
+ On September 17, 2010, the Danish Tax Authorities issued a decision concluding that distributions declared in 2005 and 2006 from our Danish subsidiary were subject to Danish at-source dividend withholding tax. We do not believe that our Danish subsidiary is liable for withholding tax and filed an appeal with the Danish Tax Tribunal to that effect. On December 19, 2011, the Danish Tax Tribunal issued a ruling that our Danish subsidiary was not liable for Danish withholding tax. The Danish tax examination agency appealed to the Danish High Court in March 2012. In February 2016, the Danish High Court referred the case to the European Court of Justice. 
+ 
+ 
+ 
+ We continue to monitor the progress of ongoing discussions with tax authorities and the impact, if any, of the expected expiration of the statute of limitations in various taxing jurisdictions. We engage in continuous discussion and negotiation with taxing authorities regarding tax matters in multiple jurisdictions. We believe that within the next 12 months, it is reasonably possible that either certain audits will conclude, certain statutes of limitations will lapse, or both. Based on current information, we do not expect significant changes to our existing unrecognized tax benefits as of April 28, 2017. 
+ 
+ 
+ 
+ Liquidity, Capital Resources and Cash Requirements 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (In millions, except percentages) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ April 28, 
+ 
+ 2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ April 29, 
+ 
+ 2016 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cash, cash equivalents and short-term investments 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 4,921 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 5,303 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Principal amount of debt 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 2,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 2,350 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Debt as a percentage of stockholders' equity 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 72 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 82 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 43 
+ 
+ 
+ The following is a summary of our cash flow activities: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fiscal Year 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (In millions) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net cash provided by operating activities 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 986 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 974 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net cash provided by (used in) investing activities 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (220 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 85 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net cash used in financing activities 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1,179 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (109 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Effect of exchange rate changes on cash and cash equivalents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (11 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (4 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net increase (decrease) in cash and cash equivalents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ (424 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 946 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ As of April 28, 2017, our cash, cash equivalents and short-term investments totaled $4.9 billion, reflecting a minimal decrease of $382 million from April 29, 2016. The decrease was primarily due to $850 million used to repay our short-term loan, $705 million in cash paid for the repurchase of our common stock and $208 million in cash used for the payment of dividends, partially offset by $986 million of cash provided by operating activities and $499 million, net from the issuance of commercial paper notes. Working capital decreased by $0.7 billion to $2.1 billion as of April 28, 2017 primarily due to a decrease in cash and cash equivalents, the issuance of commercial paper notes and the reclassification of $750 million of the principal balance of our senior notes to current, partially offset by the repayment of our short-term loan. 
+ 
+ Cash Conversion Cycle 
+ 
+ The following table presents the components of our cash conversion cycle for the fourth quarter of each of the past three fiscal years: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Three Months Ended 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (In days) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ April 28, 
+ 
+ 2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ April 29, 
+ 
+ 2016 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ April 24, 
+ 
+ 2015 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Days sales outstanding (1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 45 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 54 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 46 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Days inventory outstanding (2) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 26 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 16 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 22 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Days payables outstanding (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (56 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (41 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (43 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cash conversion cycle (4) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 15 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 28 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 25 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Days may not add due to rounding 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) 
+ 
+ 
+ 
+ Days sales outstanding, referred to as DSO, calculates the average collection period of our receivables. DSO is based on the ending net trade receivables and the most recent quarterly net revenue for each period. DSO is calculated by dividing accounts receivable by average net revenue per day for the current quarter (91 days for each of the fourth quarters presented above). Compared to the corresponding period in fiscal 2016, the decrease in DSO was due to more favorable shipping linearity in the fourth quarter of fiscal 2017. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (2) 
+ 
+ 
+ 
+ Days inventory outstanding, referred to as DIO, measures the average number of days from procurement to sale of our products. DIO is based on ending inventory and cost of revenues for each period. DIO is calculated by dividing ending inventory by average cost of goods sold per day for the current quarter. Compared to the corresponding period in fiscal 2016, the increase in DIO was due primarily to the timing of inventory purchases, and to a lesser extent, the higher cost of flash compared to disk storage. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ Days payables outstanding, referred to as DPO, calculates the average number of days our payables remain outstanding before payment. DPO is based on ending accounts payable and cost of revenues for each period. DPO is calculated by dividing accounts payable by average cost of revenues per day for the current quarter. Compared to the corresponding period in fiscal 2016, the increase in DPO was primarily the result of improved vendor payables management and an extension of payment terms with our suppliers. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ( 4 ) 
+ 
+ 
+ 
+ The cash conversion cycle is the sum of DSO and DIO less DPO. Items which may cause the cash conversion cycle in a particular period to differ include, but are not limited to, changes in business mix, changes in payment terms (including extended payment terms from suppliers), the extent of shipment linearity, seasonal trends and the timing of revenue recognition and inventory purchases within the period. 
+ 
+ Cash Flows from Operating Activities 
+ 
+ During fiscal 2017, we generated cash from operating activities of $986 million, reflecting net income of $509 million, adjusted by non-cash depreciation and amortization of $226 million, stock-based compensation of $195 million and a deferred income tax provision of $90 million. 
+ 
+ Changes in assets and liabilities during fiscal 2017 included the following: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ 
+ 
+ Accounts receivable decreased $81 million, reflecting lower DSO. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ 
+ 
+ Inventories increased $65 million, reflecting higher DIO. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ 
+ 
+ Accounts payable increased $94 million reflecting higher DPO. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ 
+ 
+ Accrued expenses decreased $86 million primarily due to the payment of restructuring obligations. 
+ 
+ 44 
+ 
+ 
+ Durin g fiscal 2016, we generated cash from operating activities of $974 million, reflecting net income of $229 million, adjusted by non-cash depreciation and amortization of $279 million, stock-based compensation of $260 million, partially offset by adjustments for a deferred income tax provision of $113 million and a gain on sale of properties of $51 million. 
+ 
+ Changes in assets and liabilities during fiscal 2016 included the following: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ 
+ 
+ Other operating assets decreased $109 million, primarily due to decreases in manufacturing-related activities. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ 
+ 
+ Deferred revenue and financed unearned services revenue increased $186 million, primarily due to an increase in maintenance services contract renewals. 
+ 
+ We expect that cash provided by operating activities may materially fluctuate in future periods due to a number of factors, including fluctuations in our operating results, shipment linearity, accounts receivable collections performance, inventory and supply chain management, vendor payment initiatives, tax benefits or charges from stock-based compensation, and the timing and amount of compensation and other payments. 
+ 
+ Cash Flows from Investing Activities 
+ 
+ During fiscal 2017, we used $43 million for the purchase of investments, net of maturities and sales, and paid $175 million for capital expenditures. 
+ 
+ During fiscal 2016, we generated $982 million from maturities and sales of investments, net of purchases, expended $842 million of cash on the SolidFire acquisition, net of cash acquired, paid $160 million for capital expenditures and received $102 million of proceeds from the sale of properties. 
+ 
+ Cash Flows from Financing Activities 
+ 
+ During fiscal 2017, we used $850 million to repay our short-term loan related to the SolidFire acquisition, $705 million for the repurchase of 22 million shares of our common stock and $208 million for the payment of dividends. During fiscal 2017, we initiated a commercial paper program under which we had net borrowings of $499 million of commercial paper notes during the period. 
+ 
+ During fiscal 2016, we borrowed $870 million under a short-term loan which was used primarily to fund the acquisition of SolidFire. We used $960 million for the repurchase of 33 million shares of our common stock, $210 million for the payment of dividends and received $148 million of proceeds under sale-leaseback transactions. 
+ 
+ Key factors that could affect our cash flows include changes in our revenue mix and profitability, our ability to effectively manage our working capital, in particular, accounts receivable, accounts payable and inventories, the timing and amount of stock repurchases and payment of cash dividends, the impact of foreign exchange rate changes, our ability to effectively integrate acquired products, businesses and technologies, and the timing of repayments of our debt. Based on past performance and our current business outlook, we believe that our sources of liquidity, including potential future issuances of debt, equity or other securities, will satisfy our working capital needs, capital expenditures, investment requirements, stock repurchases, cash dividends, contractual obligations, commitments, principal and interest payments on our debt and other liquidity requirements associated with operations and meet our cash requirements for at least the next 12 months. However, in the event our liquidity is insufficient, we may be required to curtail spending and implement additional cost saving measures and restructuring actions or enter into new financing arrangements. We cannot be certain that we will continue to generate cash flows at or above current levels or that we will be able to obtain additional financing, if necessary, on satisfactory terms, if at all. 
+ 
+ Liquidity 
+ 
+ Our principal sources of liquidity as of April 28, 2017 consisted of cash, cash equivalents and short-term investments, as well as cash we expect to generate from operations. 
+ 
+ Cash, cash equivalents and short-term investments consisted of the following (in millions): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ April 28, 
+ 
+ 2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ April 29, 
+ 
+ 2016 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cash and cash equivalents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 2,444 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 2,868 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Short-term investments 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2,477 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2,435 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 4,921 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 5,303 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 45 
+ 
+ 
+ As of April 28, 2017 and April 29, 2016 , $ 4.5 billion and $4. 8 billion, respectively, of cash, cash equivalents and short-term investments were held by various foreign subsidiaries and were generally based in U.S. dollar-denominated holdings, while $ 0.4 billion and $0. 5 billion, respectively, were available in the U. S. Most of the amounts held outside the U.S. can be repatriated to the U.S. but, under current law, would be subject to U.S. federal, state income and foreign withholding taxes. If we were to repatriate foreign earnings to fund cash requirements in the U.S ., we would incur U.S. federal and state income taxes reduced by the current amount of our U.S. federal and state tax credit carryforwards. However, our intent is to keep these funds indefinitely reinvested outside of the U.S., and our current plans do not contemplate a need to repatriate them to fund our U.S. operations. Our principal liquidity requirements are primarily to meet our working capital needs, support ongoing business activities, fund research and development, meet capital expenditure needs, an d invest in critical or complementary technologies, service interest and principal payments on our debt and pay dividends, as and if declared . 
+ 
+ The principal objectives of our investment policy are the preservation of principal and maintenance of liquidity. We attempt to mitigate default risk by investing in high-quality investment grade securities, limiting the time to maturity and monitoring the counter-parties and underlying obligors closely. We believe our cash equivalents and short-term investments are liquid and accessible. We are not aware of any significant deterioration in the fair value of our cash equivalents or investments from the values reported as of April 28, 2017. 
+ 
+ Our investment portfolio has been and will continue to be exposed to market risk due to trends in the credit and capital markets. We continue to closely monitor current economic and market events to minimize the market risk of our investment portfolio. We routinely monitor our financial exposure to both sovereign and non-sovereign borrowers and counterparties. We utilize a variety of planning and financing strategies in an effort to ensure our worldwide cash is available when and where it is needed. Based on past performance and current expectations, we believe our cash and cash equivalents, investments, cash generated from operations, and ability to access capital markets and committed credit lines will satisfy, through at least the next 12 months, our liquidity requirements, both in total and domestically, including the following: working capital needs, capital expenditures, stock repurchases, cash dividends, contractual obligations, commitments, principal and interest payments on debt, and other liquidity requirements associated with our operations. We also have an automatic shelf registration statement on file with the Securities and Exchange Commission. We may in the future offer an additional unspecified amount of debt, equity and other securities. 
+ 
+ Senior Notes 
+ 
+ The following table summarizes the principal amount of our Senior Notes as of April 28, 2017 (in millions): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2.00% Senior Notes Due December 2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 750 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.375% Senior Notes Due June 2021 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 500 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.25% Senior Notes Due December 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 250 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 1,500 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Interest on the Senior Notes is payable semi-annually. For further information on the underlying terms, see Note 10 – Financing Arrangements of the Notes to Consolidated Financial Statements. 
+ 
+ Commercial Paper Program and Credit Facility 
+ 
+ In December 2016, we entered into a commercial paper program (the Program), under which we may issue unsecured commercial paper notes. Amounts available under the Program may be borrowed, repaid and re-borrowed, with the aggregate face or principal amount of the notes outstanding under the Program at any time not to exceed $600 million. The maturities of the notes can vary, but may not exceed 397 days from the date of issue. The notes are sold under customary terms in the commercial paper market and may be issued at a discount from par or, alternatively, may be sold at par and bear interest at rates dictated by market conditions at the time of their issuance. The proceeds from the issuance of the notes will be used for general corporate purposes. As of April 28, 2017, we had commercial paper notes outstanding with an aggregate principal amount of $500 million, a weighted-average interest rate of 1.26% and maturities ranging from 7 days to 38 days. 
+ 
+ In connection with the Program, we entered into a new senior unsecured credit agreement that expires on December 10, 2021, and we terminated our existing credit agreement that had been scheduled to expire on December 21, 2017. The new credit agreement provides a $600 million revolving unsecured credit facility that serves as a back-up for the Program. Proceeds from the facility may also be used for general corporate purposes, providing another potential source of liquidity to the extent that the credit facility exceeds the outstanding debt issued under the Program. The credit agreement also includes options that allow us to request an increase in the facility of up to an additional $300 million and to extend its maturity date for two additional one-year periods, both subject to certain conditions. As of April 28, 2017, no borrowings or letters of credit were outstanding under this facility and we were in compliance with all associated covenants. 
+ 
+ 46 
+ 
+ 
+ Capital Expenditure Requirements 
+ 
+ We expect to fund our capital expenditures, including our commitments related to facilities, equipment, operating leases and internal-use software development projects over the next few years through existing cash, cash equivalents, investments and cash generated from operations. The timing and amount of our capital requirements cannot be precisely determined and will depend on a number of factors, including future demand for products, changes in the network storage industry, hiring plans and our decisions related to the financing of our facilities and equipment requirements. We anticipate capital expenditures for fiscal 2018 to be between $175 million and $225 million. 
+ 
+ Dividends and Stock Repurchase Program 
+ 
+ On May 24, 2017, we declared a cash dividend of $0.20 per share of common stock, payable on July 26, 2017 to holders of record as of the close of business on July 7, 2017. 
+ 
+ As of April 28, 2017, our Board of Directors had authorized the repurchase of up to $9.6 billion of our common stock under our stock repurchase program. Under this program, we can purchase shares of our outstanding common stock through open market and privately negotiated transactions at prices deemed appropriate by our management. The stock repurchase program may be suspended or discontinued at any time. Since the May 13, 2003 inception of this program through April 28, 2017, we repurchased a total of 269 million shares of our common stock at an average price of $32.84 per share, for an aggregate purchase price of $8.8 billion. As of April 28, 2017, the remaining authorized amount for stock repurchases under this program was $0.8 billion with no termination date, which we plan to complete by May 2018. 
+ 
+ The timing and amount of stock repurchase transactions and future dividends will depend on market conditions, corporate business and financial considerations and regulatory requirements. 
+ 
+ Contractual Obligations 
+ 
+ The impact of contractual obligations on our liquidity and capital resources in future periods should be analyzed in conjunction with the factors that impact our cash flows from operations discussed previously. The following table summarizes our contractual obligations at April 28, 2017 (in millions): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2019 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2020 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2021 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Thereafter 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Office space and equipment lease 
+ 
+ commitments 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 55 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 47 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 37 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 27 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 34 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 219 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Purchase commitments with contract 
+ 
+ manufacturers (1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 343 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 343 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Construction related obligations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 16 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 16 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other purchase obligations (2) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 117 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 56 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 25 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 14 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 232 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total off-balance sheet commitments 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 531 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 103 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 62 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 39 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 27 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 48 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 810 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Commercial paper notes (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 500 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 500 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Long-term debt obligations (4) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 790 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 25 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 25 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 25 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 517 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 258 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,640 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Long-term financing arrangements 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sale-leaseback financing obligations (5) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 130 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 130 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Uncertain tax positions (6) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 148 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total contractual obligations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 1,955 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 130 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 87 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 64 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 544 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 306 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 3,234 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other Commercial Commitments: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Letters of credit 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) 
+ 
+ 
+ 
+ Contract manufacturer commitments consist of obligations for on-hand inventories and non-cancelable purchase orders with our contract manufacturers. We record a liability for firm, non-cancelable and unconditional purchase commitments with contract manufacturers for quantities in excess of our future demand forecasts. As of April 28, 2017, such liability amounted to $10 million and is included in accrued expenses in our consolidated balance sheets. To the extent that such forecasts are not achieved, our commitments and associated accruals may change. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (2) 
+ 
+ 
+ 
+ Purchase obligations represent an estimate of all open purchase orders and contractual obligations associated with our ordinary course of business, in addition to inventory commitments with contract manufacturers, for which we have not received the goods or services. Purchase obligations do not include contracts that may be cancelled without penalty. Although open purchase orders are considered enforceable and legally binding, the terms generally allow us the option to cancel, reschedule, and adjust our requirements based on our business needs prior to the delivery of goods or performance of services. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ Represents principal payments on our commercial paper notes. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (4) 
+ 
+ 
+ 
+ Included in long-term debt are obligations related to our $1.5 billion principal amount of our Senior Notes, of which $750 million is due in December 2017, $500 million is due in June 2021 and $250 million is due in December 2022. Estimated interest payments for our long-term debt, assuming no early retirement of debt obligations, are $140 million for fiscal 2018 through fiscal 2023. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (5) 
+ 
+ 
+ 
+ Sale-leaseback financing obligations are non-cash obligations as discussed below. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (6) 
+ 
+ 
+ 
+ As of April 28, 2017, our liability for uncertain tax positions was $148 million, including interest, penalties and offsetting indirect benefits, which due to the uncertainty of the timing of future payments, are presented in the total column on a separate line in this table. 
+ 
+ 47 
+ 
+ 
+ Some of the amounts in the table above are based on management’s estimates and assumptions, including the commitment duration, the possibility of renewal or termination, anticipated actions by management and third parties and other factors. Because these estimates and assumptions are subjective, our actual future obligations may vary from those reflected i n the table. 
+ 
+ Sale-leaseback Transactions 
+ 
+ In fiscal 2016, we entered into a s ale-leaseback arrangement of certain of our land and buildings, under which we leased back certain of our properties rent free over lease terms ending at various dates ranging from March 31, 2017 to December 31, 2017, unless terminated early by us. Due to the existence of a prohibited form of continuing involvement, these properties did not qualify for sale-leaseback accounting and as a result they have been accounted for as financing transactions under lease accounting standards. Under the financin g method, until such time as the related leases are terminated, the assets will remain on our balance sheets, and proceeds received by us from these transactions are reported as financing obligations. During the third quarter of fiscal 2017 , we terminated one of the leases, ending our continuing involvement with the related properties. As a result, we recorded a non-cash sale of properties having a net book value of $9 million, the extinguishment of $19 million of associated financing obligations, and a gain of $10 million. As of April 28, 2017, the balance of the remaining financing obligations, which relate to properties whose leases we expect to terminate in December 2017, was $130 million. At the end of the leaseback period, or when our continuing involvement under the leaseback agreement ends, this transaction will be reported as a non-cash sale and extinguishment of financing obligations, and the difference between the then net book value of the properties and the unamortized balance of the financing obligations will be recognized as a gain. These financing obligations are reflected as non-cash obligations in the preceding commitments table. 
+ 
+ Financial Guarantee Instruments 
+ 
+ In the ordinary course of business, we provide standby letters of credit or other guarantee instruments to third parties as required for certain transactions initiated either by us or our subsidiaries. As of April 28, 2017, our financial guarantees of $7 million that were not recorded on our consolidated balance sheets consisted primarily of standby letters of credit and surety bonds. 
+ 
+ Financing Guarantees 
+ 
+ While most of our arrangements for sales include short-term payment terms, from time to time we provide long-term financing to creditworthy customers. We have generally sold receivables financed through these arrangements on a non-recourse basis to third party financing institutions within 10 days of the contracts’ dates of execution, and we classify the proceeds from these sales as cash flows from operating activities in our consolidated statements of cash flows. We account for the sales of these receivables as “true sales” as defined in the accounting standards on transfers of financial assets, as we are considered to have surrendered control of these financing receivables. Provided all other revenue recognition criteria have been met, we recognize product revenues for these arrangements, net of any payment discounts from financing transactions, upon product acceptance. We sold $183 million and $243 million of receivables during fiscal 2017 and 2016, respectively. 
+ 
+ In addition, we enter into arrangements with leasing companies for the sale of our hardware systems products. These leasing companies, in turn, lease our products to end-users. The leasing companies generally have no recourse to us in the event of default by the end-user and we recognize revenue upon delivery to the end-user customer, if all other revenue recognition criteria have been met. 
+ 
+ Some of the leasing arrangements described above have been financed on a recourse basis through third-party financing institutions. Under the terms of recourse leases, which are generally three years or less, we remain liable for the aggregate unpaid remaining lease payments to the third-party leasing companies in the event of end-user customer default. These arrangements are generally collateralized by a security interest in the underlying assets. Where we provide a guarantee for recourse leases, we defer revenues subject to the industry-specific software revenue recognition guidance and recognize revenues for non-software deliverables in accordance with our multiple deliverable revenue arrangement policy. In connection with certain recourse financing arrangements, we receive advance payments associated with undelivered elements that are subject to customer refund rights. As of April 28, 2017 and April 29, 2016, the aggregate amount by which such contingencies exceeded the associated liabilities was not significant. To date, we have not experienced significant losses under our lease financing programs or other financing arrangements. 
+ 
+ We have entered into service contracts with certain of our end-user customers that are supported by third-party financing arrangements. If a service contract is terminated as a result of our non-performance under the contract or our failure to comply with the terms of the financing arrangement, we could, under certain circumstances, be required to acquire certain assets related to the service contract or to pay the aggregate unpaid payments under such arrangements. As of April 28, 2017, we have not been required to make any payments under these arrangements, and we believe the likelihood of having to acquire a material amount of assets or make payments under these arrangements is remote. The portion of the financial arrangement that represents unearned services revenue is included in deferred revenue and financed unearned services revenue in our consolidated balance sheets . 
+ 
+ 48 
+ 
+ 
+ Indemnificatio n Agreements 
+ 
+ We enter into indemnification agreements with third parties in the ordinary course of business. Generally, these indemnification agreements require us to reimburse losses suffered by the third-parties due to various events, such as lawsuits arising from patent or copyright infringement. These indemnification obligations are considered off-balance sheet arrangements under accounting guidance. 
+ 
+ Legal Contingencies 
+ 
+ We are subject to various legal proceedings and claims which arise in the normal course of business. See further details on such matters in Note 18 – Commitments and Contingencies of the Notes to Consolidated Financial Statements. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

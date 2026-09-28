@@ -1,0 +1,2740 @@
+ ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of Operations 
+ 
+ The following discussion should be read in conjunction with the consolidated financial statements and notes thereto included elsewhere in this Annual Report on Form 10-K. This report contains forward-looking statements including, without limitation, statements regarding growth opportunities, including for and in our end markets, new product and service introductions, the position and strength of our businesses, products and services, market demand for and adoption of our products and solutions, the ability of our products and solutions to address customer needs and meet industry requirements, our focus on enhancing our customers' experience, delivering differentiated product solutions and driving productivity improvements, our investments, including in manufacturing infrastructure, research and development and expanding and improving our applications and solutions portfolios, expanding our position in developing countries and emerging markets, our contributions to our defined benefit plans, our hedging programs and other actions to offset the effects of foreign currency and interest rate movements, our future effective tax rate, unrecognized tax benefits, reimbursement incentives, our ability to satisfy our liquidity requirements, including through cash generated from operations, the potential impact of adopting new accounting pronouncements, indemnification obligations, our sales, our purchase commitments, our capital expenditures, the integration, effects and timing of our acquisitions and other transactions, expense reduction and other results from our restructuring programs and other cost saving initiatives, our stock repurchase program and dividends, macroeconomic and market conditions, the recovery and health of our end markets, seasonality, mix, future financial results, our operating margin, our geographical diversification, interest rates, inflationary pressures and local regulations and restrictions, that involve risks and uncertainties. Our actual results could differ materially from the results contemplated by these forward-looking statements due to various factors, including those discussed in Part I ITEM 1A and elsewhere in this Form 10-K. 
+ 
+ 
+ 
+ 
+ 
+ 32 
+ 
+ Table of Contents 
+ Overview and Executive Summary 
+ 
+ Agilent Technologies Inc. ("we", "Agilent" or the "company"), incorporated in Delaware in May 1999, is a global leader in life sciences, diagnostics and applied chemical markets, providing application focused solutions that include instruments, software, services and consumables for the entire laboratory workflow. 
+ 
+ New Segment Structure 
+ 
+ In the first quarter of fiscal year 2024, we announced a change in our operating segments to move our cell analysis business from our life sciences and applied markets segment to our diagnostics and genomics operating segment in order to further strengthen growth opportunities for both organizations. Following this reorganization, we continue to have three business segments comprised of life sciences and applied markets, diagnostics and genomics and Agilent CrossLab, each of which continues to comprise a reportable segment. We began reporting under this new structure with the Quarterly Report on Form 10-Q for the period ended January 31, 2024. All historical financial segment information has been recast to conform to this new presentation in our consolidated financial statements and accompanying notes. There was no change to our Agilent CrossLab business segment. 
+ 
+ Acquisition 
+ 
+ On September 20, 2024, we acquired 100 percent of the stock of BIOVECTRA for total consideration of $915 million in cash. The acquisition expands our contract development and manufacturing organization. As a result of the acquisition, BIOVECTRA became a wholly-owned subsidiary of Agilent. The acquisition has been accounted for in accordance with the authoritative accounting guidance, and the results of BIOVECTRA are included in Agilent's consolidated financial statements from the date of acquisition. 
+ 
+ Senior Notes 
+ 
+ 2027 Senior Notes. On September 9, 2024, we issued an aggregate principal amount of $600 million in senior notes ("2027 senior notes"). The 2027 senior notes were issued at 99.866% of their principal amount. The notes will mature on September 9, 2027, and bear interest at a fixed rate of 4.20% per annum. The interest is payable semi-annually on March 9th and September 9th of each year and payments will commence on March 9, 2025. 
+ 
+ 2034 Senior Notes. On September 9, 2024, we issued an aggregate principal amount of $600 million in senior notes ("2034 senior notes"). The 2034 senior notes were issued at 99.638% of their principal amount. The 2034 senior notes will mature on September 9, 2034, and bear interest at a fixed rate of 4.75% per annum. The interest is payable semi-annually on March 9th and September 9th of each year and payments will commence on March 9, 2025. 
+ 
+ Actual Results 
+ 
+ Agilent's net revenue of $6,510 million in 2024 decreased 5 percent when compared to 2023. Foreign currency movements for 2024 had no overall impact on revenue growth when compared to 2023. Net revenue declined in our life sciences and applied markets and diagnostics and genomics segments, mostly in the pharmaceutical market, due primarily to the overall pressures on our customers' capital expenditure spending which continued in 2024. Revenue declines were partially offset by revenue growth in our Agilent CrossLab segment. Revenue in the life sciences and applied markets business decreased 8 percent in 2024 when compared to 2023. Foreign currency movements had no overall impact on revenue growth in 2024 when compared to 2023. Revenue in the diagnostics and genomics business decreased 6 percent in 2024 when compared to 2023. Foreign currency movements had no overall impact on revenue growth in 2024 when compared to 2023. Revenue in the Agilent CrossLab business increased 5 percent in 2024 when compared to 2023. Foreign currency movements had no overall impact on revenue growth in 2024 when compared to 2023. 
+ 
+ Agilent's net revenue of $6,833 million was slightly down in 2023 when compared to 2022. Foreign currency movements for 2023 had an overall unfavorable impact on revenue growth of 2 percentage points when compared to 2022. Net revenue declined in our life sciences and applied markets segment, in the pharmaceutical market and in the Asia Pacific region primarily related to weaker demand in China and an overall pressure on our customers' capital expenditures compared to 2022. The net revenue decline was partially offset by revenue growth from our other segments primarily in Agilent CrossLab. Revenue in the life sciences and applied markets business decreased 3 percent in 2023 when compared to 2022. Foreign currency movements had an overall unfavorable impact on revenue growth of 2 percentage points in 2023 when compared to 2022. Revenue in the diagnostics and genomics business decreased 1 percent in 2023 when compared to 2022. Foreign currency movements had an 
+ 
+ 
+ 33 
+ 
+ Table of Contents 
+ overall unfavorable impact on revenue growth of 2 percentage points in 2023 when compared to 2022. Revenue in the Agilent CrossLab business increased 8 percent in 2023 when compared to 2022. Foreign currency movements had an overall unfavorable impact on revenue growth of 2 percentage points in 2023 when compared to 2022. 
+ 
+ Net income was $1,289 million in 2024 compared to net income of $1,240 million and $1,254 million in 2023 and 2022, respectively. Net income in 2024 was impacted by cost-saving initiatives and higher interest income. Net income in 2023 was impacted by the asset impairment charges primarily related to the exit of our Resolution Bioscience business and lower tax expense. Net income in 2022 was impacted by higher sales volume partially offset by supply chain, logistics and inflationary pressures increasing our costs. As of October 31, 2024 and 2023, we had cash and cash equivalents balances of $1,329 million and $1,590 million, respectively. 
+ 
+ 2021 Repurchase Program. During the year ended October 31, 2022, we repurchased and retired 8.4 million shares for $1,139 million under this authorization. During the year ended October 31, 2023, we repurchased and retired 661,739 shares for $99 million, excluding excise taxes, under this authorization. On March 1, 2023, the 2021 repurchase program was terminated and the remaining authorization of $339 million expired. 
+ 
+ 2023 Repurchase Program. On January 9, 2023, we announced that our board of directors had approved a share repurchase program (the "2023 repurchase program") designed, among other things, to reduce or eliminate dilution resulting from issuance of stock under the company's employee equity incentive programs. The 2023 repurchase program authorizes the purchase of up to $2.0 billion, excluding excise taxes, of our common stock at the company's discretion and has no fixed termination date. The 2023 repurchase program does not require the company to acquire a specific number of shares and may be suspended, amended or discontinued at any time. The 2023 repurchase program commenced on March 1, 2023, and also terminated and replaced the 2021 repurchase program. During the year ended October 31, 2023, we repurchased and retired 3.9 million shares for $476 million, excluding excise taxes, under this authorization. During the year ended October 31, 2024, we repurchased and retired 8.4 million shares for $1,150 million, excluding excise taxes, under this authorization. As of October 31, 2024, we had remaining authorization to repurchase up to approximately $374 million of our common stock under the 2023 repurchase program. 
+ 
+ On May 29, 2024, we announced that our board of directors had approved a new share repurchase program (the "2024 repurchase program") designed, among other things, to reduce or eliminate dilution resulting from issuance of stock under the company's employee equity incentive programs. The 2024 repurchase program authorizes the purchase of up to $2.0 billion, excluding excise taxes, of our common stock at the company's discretion and has no fixed termination date. The 2024 repurchase program does not require the company to acquire a specific number of shares and may be suspended, amended or discontinued at any time. The 2024 repurchase program became effective on August 1, 2024 and will commence upon the termination of our 2023 repurchase program. 
+ 
+ The Inflation Reduction Act of 2022, which was enacted into law on August 16, 2022, imposed a nondeductible 1% excise tax on the net value of certain stock repurchases made after December 31, 2022. During the year ended October 31, 2024, we recorded the applicable excise taxes payable of approximately $10 million as an incremental cost of the shares repurchased and a corresponding liability for the excise tax payable in other accrued liabilities on our consolidated balance sheet. In fiscal year 2023, we recorded excise taxes payable of approximately $3 million related to shares repurchased in 2023 and paid the tax in 2024. 
+ 
+ Dividends. During the year ended October 31, 2024, cash dividends of $0.944 per share, or $274 million were declared and paid on the company's outstanding common stock. During the year ended October 31, 2023, cash dividends of $0.900 per share, or $265 million were declared and paid on the company's outstanding common stock. During the year ended October 31, 2022, cash dividends of $0.840 per share, or $250 million were declared and paid on the company's outstanding common stock. 
+ 
+ On November 20, 2024, we declared a quarterly dividend of $0.248 per share of common stock, or approximately $71 million which will be paid on January 22, 2025, to shareholders of record as of the close of business on December 31, 2024. The timing and amounts of any future dividends are subject to determination and approval by our board of directors. 
+ 
+ Looking forward, our primary focus remains on enhancing our customers’ experience, delivering differentiated product solutions and driving productivity improvements. While customer capital budgets continue to be constrained, we anticipate a gradual and steady recovery in the short-term. We also remain optimistic about the long-term health of our key end markets. Although inflationary pressures are uncertain, we will continue to mitigate their impact through targeted pricing strategies and various other cost-saving initiatives. 
+ 
+ 
+ 
+ 34 
+ 
+ 
+ Table of Contents 
+ Critical Accounting Policies and Estimates 
+ 
+ The preparation of financial statements in accordance with accounting principles generally accepted in the U.S. requires management to make estimates and assumptions that affect the amounts reported in our consolidated financial statements and accompanying notes. Management bases its estimates on historical experience and various other assumptions believed to be reasonable. Although these estimates are based on management's best knowledge of current events and actions that may impact the company in the future, actual results may be different from the estimates. An accounting policy is deemed to be critical if it requires an accounting estimate to be made based on assumptions about matters that are highly uncertain at the time the estimate is made and if different estimates that reasonably could have been used or changes in the accounting estimate that are reasonably likely to occur could materially change the financial statements. Our critical accounting policies are those that affect our financial statements materially and involve difficult, subjective or complex judgments by management. Those policies are revenue recognition, inventory valuation, retirement and post-retirement plan assumptions, valuation of goodwill and purchased intangible assets, restructuring and accounting for income taxes. 
+ 
+ Revenue Recognition . We enter into contracts to sell products, services or combinations of products and services. Products may include hardware or software and services may include one-time service events or services performed over time. 
+ 
+ We derive revenue primarily from the sale of analytical and diagnostics products and services. A performance obligation is a promise in a contract to transfer a distinct product or service to a customer and is the unit of account under Accounting Standard Codification Topic 606, Revenue from Contracts with Customers, (“ASC 606’’). Revenue is recognized when control of the promised products or services is transferred to our customers and the performance obligation is fulfilled in an amount that reflects the consideration that we expect to be entitled in exchange for those products or services, the transaction price. For equipment, consumables, and most software licenses, control transfers to the customer at a point in time. We use present right to payment, legal title, physical possession of the asset, and risks and rewards of ownership as indicators to determine the transfer of control to the customer. For products that transfer control over time, revenue is recognized as the performance obligation is satisfied. Product over time revenue is assessed against the following criteria: the performance creates an asset that the customer controls as the asset is created; the asset has no alternative use; and we have an enforceable right to payment. Where acceptance is not a formality, the customer must have documented their acceptance of the product or service. For products that include installation, if the installation meets the criteria to be considered a separate performance obligation, product revenue is recognized when control has passed to the customer, and recognition of installation revenue occurs once completed. Product revenue, including sales to resellers and distributors is reduced for provisions for warranties, returns, and other adjustments in the period the related sales are recorded. 
+ 
+ Service revenue includes extended warranty, customer and software support including: Software as a Service, post contract support, consulting including companion diagnostics, and training and education. Instrument service contracts and software maintenance contracts are typically annual contracts, which are billed at the beginning of the contract or maintenance period. Revenue for these contracts is recognized on a straight-line basis to revenue over the service period, as a time-based measure of progress best reflects our performance in satisfying this obligation. There are no deferred costs associated with the service contract, as the cost of the service is recorded when the service is performed. Service calls not included in a support contract are recognized to revenue at the time a service is performed. 
+ 
+ We have sales from standalone software. These arrangements typically include software licenses and maintenance contracts, both of which we have determined are distinct performance obligations. We determine the amount of the transaction price to allocate to the license and maintenance contract based on the relative standalone selling price of each performance obligation. Software license revenue is recognized at the point in time when control has been transferred to the customer. The revenue allocated to the software maintenance contract is recognized on a straight-line basis over the maintenance period, which is the contractual term of the contract, as a time-based measure of progress best reflects our performance in satisfying this obligation. Unspecified rights to software upgrades are typically sold as part of the maintenance contract on a when-and-if-available basis. 
+ 
+ Our multiple-element arrangements are generally comprised of a combination of instruments, installation or other start-up services, and/or software, and/or support or services. Hardware and software elements are typically delivered at the same time and revenue is recognized when control passes to the customer. Service revenue is deferred and recognized over the contractual period or as services are rendered and accepted by the customer. Our arrangements generally do not include any provisions for cancellation, termination, or refunds that would significantly impact recognized revenue. 
+ 
+ For contracts with multiple performance obligations, we allocate the consideration to which we expect to be entitled to each performance obligation based on relative standalone selling prices and recognize the related revenue when or as control of each individual performance obligation is transferred to customers. We estimate the standalone selling price by calculating the 
+ 
+ 
+ 35 
+ 
+ Table of Contents 
+ average historical selling price of our products and services per geographic region for each performance obligation. Stand-alone selling prices are determined for each distinct good or service in the contract, and then we allocate the transaction price in proportion to those standalone selling prices by performance obligations. 
+ 
+ A portion of our revenue relates to lease arrangements. Standalone lease arrangements are outside the scope of ASC 606 and are therefore accounted for in accordance with ASC 842, Leases ("ASC 842"). Each of these contracts is evaluated as a lease arrangement, either as an operating lease or a sales-type finance lease using the current lease classification guidance. In a lease arrangement that is a multiple-element arrangement, the revenue associated with the lease component is treated under the lease accounting standard ASC 842, whereas the revenue associated with the non-lease component is recognized in accordance with the ASC 606 revenue standard. 
+ 
+ Inventory Valuation. Inventory is valued at standard cost, which approximates actual cost computed on a first-in, first-out basis, not in excess of market value. We assess the valuation of our inventory on a periodic basis and make adjustments to the value for estimated excess and obsolete inventory based upon estimates and assumptions about future demand, economic conditions and actual usage, which require management judgment. Such estimates are difficult to make under most economic conditions. The excess balance determined by this analysis becomes the basis for our excess inventory charge. Our excess inventory review process includes analysis of inventory levels, sales trends and forecasts, managing product rollovers and working with manufacturing to maximize recovery of excess inventory and to estimate and record reserves for excess, slow-moving and obsolete inventory. If actual market conditions are less favorable than those projected by management, additional write-downs may be required. If actual market conditions are more favorable than anticipated, inventory previously written down may be sold to customers, resulting in lower cost of sales and higher income from operations than expected in that period. 
+ 
+ Retirement and Post-Retirement Benefit Plan Assumptions. Retirement and post-retirement benefit plan costs are a significant cost of doing business. They represent obligations that will ultimately be settled sometime in the future and therefore are subject to estimation. Pension accounting is intended to reflect the recognition of future benefit costs over the employees' average expected future service to Agilent based on the terms of the plans and investment and funding decisions. To estimate the impact of these future payments and our decisions concerning funding of these obligations, we are required to make assumptions using actuarial concepts within the framework of accounting principles generally accepted in the U.S. Two critical assumptions are the discount rate and the expected long-term return on plan assets. Other important assumptions include expected future salary increases, expected future increases to benefit payments, expected retirement dates, employee turnover, retiree mortality rates, and portfolio composition. We evaluate these assumptions at least annually. 
+ 
+ The discount rate is used to determine the present value of future benefit payments at the measurement date - October 31 for both U.S. and non-U.S. plans. For 2024 and 2023, the U.S. discount rates were based on the results of matching expected plan benefit payments with cash flows from a hypothetically constructed bond portfolio. In 2024, discount rates for the U.S. defined benefit plans and post-retirement benefit plans decreased compared to the previous year due to the decrease in the corporate bond rates. For 2024 and 2023, the discount rates for non-U.S. defined benefit plans were generally based on published rates for high quality corporate bonds and in 2024, mostly decreased compared to the previous year. If we had changed our discount rate by 1 percent, the impact would have been approximately $1 million on U.S. defined benefit plans and post-retirement benefit plans expense and $11 million on non-U.S. defined benefit plans expense for the year ended October 31, 2024. Lower discount rates usually increase present values of the pension benefit obligation and subsequent year pension expense; higher discount rates usually decrease present values of the pension benefit obligation and subsequent year pension expense. 
+ 
+ The company uses alternate methods of amortization as allowed by the authoritative guidance which amortizes the actuarial gains and losses on a consistent basis for the years presented. For U.S. defined benefit plans, gains and losses are amortized over the average future lifetime of participants using the corridor method. For most non-U.S. defined benefit plans and U.S. post-retirement benefit plans, gains and losses are amortized over the average remaining future service period or remaining lifetime of participants depending upon the plan, using a separate layer for each year's gains and losses. 
+ 
+ In the U.S., target asset allocations for our retirement and post-retirement benefit plans were approximately 50 percent to equities and approximately 50 percent to fixed income investments as of October 31, 2024. Our Deferred Profit-Sharing Plan target asset allocation is approximately 60 percent to equities and approximately 40 percent to fixed income investments. Approximately 1 percent of the retirement and post-retirement plans consists of limited partnerships. Outside the U.S., our target asset allocation (excluding annuity contracts in the U.K.) ranges from zero percent to 60 percent to equities, from 38 percent to 100 percent to fixed income investments, and from zero to 25 percent to real estate, depending on the plan. All plans' assets are broadly diversified. Due to fluctuations in equity and bond markets, our actual allocations of plan assets at October 31, 2024, may differ from the target allocation. Our policy is to bring the actual allocation in line with the target allocation. 
+ 
+ 
+ 36 
+ 
+ Table of Contents 
+ 
+ Equity securities include exchange-traded common stock and preferred stock of companies from broadly diversified industries. Fixed income securities include a global portfolio of corporate bonds of companies from diversified industries, government securities, mortgage-backed securities, asset-backed securities, derivative instruments and other. The annuity contracts are insurance buy-in contracts issued by a third-party insurance company to cover the benefit obligations of all participants under the U.K. defined benefit plan and are funded with existing pension plan assets with no adjustment made to the benefit obligations. Real estate securities include holdings of managed investment funds which invest primarily in the equity instruments of real estate investment trusts and other similar real estate investments. Other investments include a group trust consisting primarily of private equity partnerships. 
+ 
+ The expected long-term return on plan assets is estimated using current and expected asset allocations as well as historical and expected returns. Plan assets are valued at fair value. If we had changed our estimated return on assets by 1 percent, the impact would have been $4 million on U.S. defined benefit plans and post-retirement benefit plans expense and $8 million on non-U.S. defined benefit plans expense for the year ended October 31, 2024. The total net periodic pension and post-retirement benefit costs recorded were a $9 million benefit in 2024, $6 million expense in 2023 and $2 million benefit in 2022. These costs included a loss on settlement of $2 million, $4 million and $4 million, for the years ended October 31, 2024, 2023 and 2022, respectively. 
+ 
+ Goodwill and Purchased Intangible Assets. We assess our goodwill and purchased intangible assets for impairment annually or whenever events or changes in circumstances indicate that the carrying value may not be recoverable. Under the authoritative guidance, we have the option to perform a qualitative assessment to determine whether further impairment testing is necessary. The accounting standard gives an entity the option to first assess qualitative factors to determine whether performing the quantitative test is necessary. If an entity believes, as a result of its qualitative assessment, that it is more-likely-than-not (i.e., greater than 50% chance) that the fair value of a reporting unit is less than its carrying amount, the quantitative impairment test will be required. Otherwise, no further testing will be required. 
+ 
+ The guidance includes examples of events and circumstances that might indicate that a reporting unit's fair value is less than its carrying amount. These include macro-economic conditions such as deterioration in the entity's operating environment or industry or market considerations; entity-specific events such as increasing costs, declining financial performance, or loss of key personnel; or other events such as an expectation that a reporting unit will be sold or a sustained decrease in the stock price on either an absolute basis or relative to peers. 
+ 
+ If it is determined, as a result of the qualitative assessment, that it is more-likely-than-not that the fair value of a reporting unit is less than its carrying amount, then we are required to perform a quantitative impairment test on goodwill to identify and measure the amount of a goodwill impairment loss to be recognized. A goodwill impairment loss, if any, is measured as the amount by which a reporting unit's carrying value, including goodwill, exceeds its fair value, not to exceed the carrying amount of goodwill. As defined in the authoritative guidance, a reporting unit is an operating segment, or one level below an operating segment. We aggregate components of an operating segment that have similar economic characteristics into our reporting units. 
+ 
+ At the beginning of fiscal year 2024, in connection with the change in our segment reporting, we assessed goodwill impairment for our three reporting units which consisted of our three segments: life sciences and applied markets, diagnostics and genomics and Agilent CrossLab. We performed a quantitative test for goodwill impairment of the three reporting units as of November 1, 2023, due to the change in our segment structure. As of November 1, 2023, there was no impairment of goodwill. 
+ 
+ In fiscal year 2024, we again assessed goodwill impairment for our three reporting units which consisted of our three segments: life sciences and applied markets, diagnostics and genomics and Agilent CrossLab. We performed a qualitative test for goodwill impairment of the three reporting units as of September 30, 2024, our annual impairment test date. Based on the results of our qualitative testing, there was no impairment of goodwill as of September 30, 2024. Each quarter we review the events and circumstances to determine if goodwill impairment is indicated. There was no impairment of goodwill during the years ended October 31, 2024, 2023 and 2022. 
+ 
+ Purchased intangible assets consist primarily of acquired developed technologies, proprietary know-how, trademarks, and customer relationships and are amortized using the best estimate of the asset's useful life that reflects the pattern in which the economic benefits are consumed or used up or a straight-line method ranging from 6 months to 15 years. Our determination of the fair value of the intangible assets acquired involves the use of significant estimates and assumptions. Specifically, our determination of the fair value of the developed product technology and in-process research and development ("IPR&D") acquired involves significant estimates and assumptions related to revenue growth rates and discount rates. Our determination of the fair value of customer relationships acquired involves significant estimates and assumptions related to revenue growth rates, discount rates, and customer attrition rates. Our determination of the fair value of the trade name acquired involves the 
+ 
+ 
+ 37 
+ 
+ Table of Contents 
+ use of significant estimates and assumptions related to revenue growth rates, royalty rates and discount rates. We value backlog using the discounted cash flows based on the estimated revenue from pending orders. We value license agreements based on the expected future cash receipts from license agreements, discounted to present value over the term of the agreement. We believe that the fair value assigned to the assets acquired and liabilities assumed are based on reasonable assumptions and estimates that marketplace participants would use. Actual results could differ materially from these estimates. IPR&D is initially capitalized at fair value as an intangible asset with an indefinite life and assessed for impairment thereafter. When the IPR&D project is complete, it is reclassified as an amortizable purchased intangible asset and is amortized over its estimated useful life. If an IPR&D project is abandoned, we will record a charge for the value of the related intangible asset to our consolidated statement of operations in the period it is abandoned. 
+ 
+ We continually monitor events and changes in circumstances that could indicate carrying amounts of finite-lived intangible assets may not be recoverable. When such events or changes in circumstances occur, we assess the recoverability of finite-lived intangible assets by determining whether the carrying value of such assets will be recovered through undiscounted expected future cash flows. If the total of the undiscounted future cash flows is less than the carrying amount of those assets, we recognize an impairment loss based on the excess of the carrying amount over the fair value of the assets. 
+ 
+ Our indefinite-lived intangible assets are IPR&D intangible assets. The accounting guidance allows a qualitative approach for testing indefinite-lived intangible assets for impairment, similar to the issued impairment testing guidance for goodwill and allows the option to first assess qualitative factors (events and circumstances) that could have affected the significant inputs used in determining the fair value of the indefinite-lived intangible asset to determine whether it is more-likely-than-not (i.e., greater than 50% chance) that the indefinite-lived intangible asset is impaired. An organization may choose to bypass the qualitative assessment for any indefinite-lived intangible asset in any period and proceed directly to calculating its fair value. As of October 31, 2024, we do not have any indefinite-lived intangible assets. 
+ 
+ During fiscal year 2024, we recorded an impairment of in-process research and development of $6 million in research and development in the consolidated statement of operations related to a project in our life sciences and applied markets segment. There were no impairments of indefinite-lived intangible assets during fiscal years 2023 and 2022. 
+ 
+ Restructuring. The main components of our restructuring plan are related to workforce reductions, consolidation of excess leased facilities and site closures. Workforce reduction charges are accrued when payment of benefits becomes probable that the employees are entitled to the severance and the amounts can be estimated. Consolidation of facilities costs primarily consists of accelerated depreciation of right-of-use assets classified as held and used. In accordance with the accounting guidance, it was determined that certain assets had been abandoned, and an assessment was made of the remaining useful lives and potential alternative uses. If the amounts and timing of cash flows from restructuring activities are significantly different from what we have estimated, the actual amounts of restructuring and other related charges could be materially different, either higher or lower, than those we have recorded. See Note 16. "Restructuring and Other Related Costs" to the consolidated financial statements for additional information. 
+ 
+ Accounting for Income Taxes. We must make certain estimates and judgments in determining income tax expense for financial statement purposes. These estimates and judgments occur in the calculation of tax credits, benefits and deductions, and in the calculation of certain tax assets and liabilities which arise from differences in the timing of recognition of revenue and expense for tax and financial statement purposes, as well as interest and penalties related to uncertain tax positions. Significant changes to these estimates may result in an increase or decrease to our tax provision in a subsequent period. On a quarterly basis, we provide for income taxes based upon an estimated annual effective tax rate. The effective tax rate is highly dependent upon the geographic composition of worldwide earnings, tax regulations governing each region, availability of tax credits and the effectiveness of our tax planning strategies. We monitor the changes in many factors and adjust our effective income tax rate on a timely basis. If actual results differ from these estimates, this could have a material effect on our financial condition and results of operations. 
+ 
+ Significant management judgment is also required in determining whether deferred tax assets will be realized in full or in part. When it is more-likely-than-not that all or some portion of deferred tax assets may not be realized, a valuation allowance must be established against such deferred tax assets. We consider all available positive and negative evidence on a jurisdiction-by-jurisdiction basis when assessing whether it is more likely than not that deferred tax assets are recoverable. We consider evidence such as our past operating results, the existence of losses in recent years and our forecast of future taxable income. 
+ 
+ The calculation of our tax liabilities involves dealing with uncertainties in the application of complex tax law and regulations in a multitude of jurisdictions. Although the guidance on the accounting for uncertainty in income taxes prescribes the use of a recognition and measurement model, the determination of whether an uncertain tax position has met those thresholds will continue to require significant judgment by management. In accordance with the guidance on the accounting for 
+ 
+ 
+ 38 
+ 
+ Table of Contents 
+ uncertainty in income taxes, for all U.S. and other tax jurisdictions, we recognize potential liabilities for anticipated tax audit issues based on our estimate of whether, and the extent to which, additional taxes and interest will be due. The ultimate resolution of tax uncertainties may differ from what is currently estimated, which could result in a material impact on income tax expense. If our estimate of income tax liabilities proves to be less than the ultimate assessment, a further charge to expense would be required. If events occur and the payment of these amounts ultimately proves to be unnecessary, the reversal of the liabilities would result in tax benefits being recognized in the period when we determine the liabilities are no longer necessary. We include interest and penalties related to unrecognized tax benefits within the provision for income taxes on the consolidated statements of operations. 
+ 
+ 
+ Adoption of New Pronouncements 
+ 
+ See Note 2, "New Accounting Pronouncements," to the consolidated financial statements for a description of new accounting pronouncements. 
+ 
+ 
+ Restructuring and Other Related Costs 
+ 
+ Summary of Restructuring Plans. In fiscal years 2024 and 2023, we announced restructuring plans that were both designed to reduce costs and expenses in response to macroeconomic conditions. These actions impact all three of our business segments. The costs associated with these restructuring plans were not allocated to our business segments' results; however, each business segment will benefit from the future cost savings from these actions. When completed, the restructuring programs are expected to result in the reduction in annual cost of sales and operating expenses over the three business segments. 
+ 
+ A summary of our aggregate liability related to both restructuring plans and the total restructuring expense since inception of those plans are shown in the table below: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Workforce Reduction 
+ 
+ Consolidation of Excess Facilities 
+ 
+ 
+ 
+ Total 
+ 
+ 
+ (in millions) 
+ 
+ Balance at October 31, 2022 
+ $ 
+ — 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ Income statement expense 
+ 33 
+ 
+ 
+ 13 
+ 
+ 
+ 
+ 
+ 46 
+ 
+ 
+ Non-cash settlements 
+ ( 1 ) 
+ 
+ 
+ ( 8 ) 
+ 
+ 
+ 
+ 
+ ( 9 ) 
+ 
+ 
+ Cash payments 
+ ( 1 ) 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ ( 1 ) 
+ 
+ 
+ Balance at October 31, 2023 
+ $ 
+ 31 
+ 
+ 
+ $ 
+ 5 
+ 
+ 
+ 
+ 
+ $ 
+ 36 
+ 
+ 
+ Income statement expense 
+ 75 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 
+ 76 
+ 
+ 
+ Non-cash settlements 
+ ( 7 ) 
+ 
+ 
+ ( 1 ) 
+ 
+ 
+ 
+ 
+ ( 8 ) 
+ 
+ 
+ Cash payments 
+ ( 86 ) 
+ 
+ 
+ ( 5 ) 
+ 
+ 
+ 
+ 
+ ( 91 ) 
+ 
+ 
+ Balance at October 31, 2024 
+ $ 
+ 13 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ 
+ 
+ $ 
+ 13 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total restructuring expense since inception of all plans 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 122 
+ 
+ 
+ Non-cash settlements include accelerated share-based compensation expense related to workforce reductions and accelerated depreciation expense of right-of-use and machinery and equipment assets related to the consolidation of excess facilities. The aggregate restructuring liability of $ 13 million at October 31, 2024, was recorded in other accrued liabilities on the consolidated balance sheet and reflects estimated future cash outlays. 
+ 
+ A summary of the charges in the consolidated statement of operations resulting from the restructuring plans are shown below: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended 
+ 
+ 
+ 
+ October 31, 
+ 
+ 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ 
+ 
+ (in millions) 
+ 
+ Cost of products and services 
+ 
+ $ 
+ 13 
+ 
+ 
+ $ 
+ 11 
+ 
+ 
+ Research and development 
+ 
+ 21 
+ 
+ 
+ 6 
+ 
+ 
+ Selling, general and administrative 
+ 
+ 42 
+ 
+ 
+ 29 
+ 
+ 
+ Total restructuring costs 
+ 
+ $ 
+ 76 
+ 
+ 
+ $ 
+ 46 
+ 
+ 
+ 
+ 
+ 
+ 39 
+ 
+ Table of Contents 
+ Fiscal Year 2024 Plan ("FY24 Plan") 
+ 
+ In the third quarter of fiscal year 2024, we initiated a new restructuring plan designed to further reduce costs and expenses in response to current macroeconomic conditions. The plan includes a reduction of our total headcount by approximately 500 regular employees, representing approximately 3 percent of our global workforce. 
+ 
+ In connection with the FY24 Plan, we have recorded restructuring expenses of $ 72 million in fiscal year 2024. The costs associated with this workforce reduction include severance, accelerated share-based compensation expense and other personnel-related costs. The timing and scope of the workforce reductions will vary based on local legal requirements. While the majority of the workforce reduction was completed in fiscal year 2024, we expect to substantially complete the remaining restructuring activities by the end of the second quarter of fiscal year 2025. When completed, the restructuring program is expected to result in the reduction of approximately $100 million in annual cost of sales and operating expenses over our three business segments. 
+ 
+ A summary of the FY24 Plan activity is shown in the table below: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Workforce Reduction 
+ 
+ 
+ (in millions) 
+ 
+ Balance at October 31, 2023 
+ $ 
+ — 
+ 
+ 
+ Income statement expense 
+ 72 
+ 
+ 
+ Non-cash settlements 
+ ( 7 ) 
+ 
+ 
+ Cash payments 
+ ( 54 ) 
+ 
+ 
+ Balance at October 31, 2024 
+ $ 
+ 11 
+ 
+ 
+ 
+ 
+ 
+ Total restructuring expense since inception of FY24 Plan 
+ $ 
+ 72 
+ 
+ 
+ Non-cash settlements include accelerated share-based compensation expense related to workforce reductions. 
+ 
+ Fiscal Year 2023 Plan ("FY23 Plan") 
+ 
+ In the fourth quarter of fiscal year 2023, we initiated the restructuring plan designed to reduce costs and expenses in response to the macroeconomic conditions. The plan included a reduction of our total headcount by approximately 400 regular employees, representing approximately 2 percent of our global workforce, and the consolidation of our excess facilities, including some site closures. 
+ 
+ In connection with the FY23 Plan, we recorded restructuring expenses of $ 4 million in 2024 and $ 46 million, in 2023. The restructuring plan expenses include severance, accelerated share-based compensation expense and other personnel costs associated with the workforce reduction. The consolidation of excess facilities includes accelerated depreciation expenses of right-of-use and machinery and equipment assets, and other facilities-related costs. The timing and scope of the workforce reductions will vary based on local legal requirements. While the majority of the workforce reduction was completed in 2024, we expect to substantially complete the remaining restructuring activities by the end of the first quarter of fiscal year 2025. When completed, the restructuring program is expected to result in the reduction of approximately $80 million in annual cost of sales and operating expenses over our three business segments. 
+ 
+ 
+ 
+ 
+ 40 
+ 
+ Table of Contents 
+ A summary of the FY23 Plan activity is shown in the table below: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Workforce Reduction 
+ 
+ Consolidation of Excess Facilities 
+ 
+ 
+ 
+ Total 
+ 
+ 
+ (in millions) 
+ 
+ Balance at October 31, 2022 
+ $ 
+ — 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ Income statement expense 
+ 33 
+ 
+ 
+ 13 
+ 
+ 
+ 
+ 
+ 46 
+ 
+ 
+ Non-cash settlements 
+ ( 1 ) 
+ 
+ 
+ ( 8 ) 
+ 
+ 
+ 
+ 
+ ( 9 ) 
+ 
+ 
+ Cash payments 
+ ( 1 ) 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ ( 1 ) 
+ 
+ 
+ Balance at October 31, 2023 
+ $ 
+ 31 
+ 
+ 
+ $ 
+ 5 
+ 
+ 
+ 
+ 
+ $ 
+ 36 
+ 
+ 
+ Income statement expense 
+ 3 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ Non-cash settlements 
+ — 
+ 
+ 
+ ( 1 ) 
+ 
+ 
+ 
+ 
+ ( 1 ) 
+ 
+ 
+ Cash payments 
+ ( 32 ) 
+ 
+ 
+ ( 5 ) 
+ 
+ 
+ 
+ 
+ ( 37 ) 
+ 
+ 
+ Balance at October 31, 2024 
+ $ 
+ 2 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ 
+ 
+ $ 
+ 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total restructuring expense since inception of the FY23 Plan 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 50 
+ 
+ 
+ Non-cash settlements include accelerated share-based compensation expense related to workforce reductions and accelerated depreciation expense of right-of-use and machinery and equipment assets related to the consolidation of excess facilities. 
+ 
+ 
+ 
+ 
+ Foreign Currency 
+ 
+ Our revenues, costs and expenses, and monetary assets and liabilities and equity are exposed to changes in foreign currency exchange rates as a result of our global operating and financing activities. Foreign currency movements had no overall impact on revenue growth in the year ended October 31, 2024 when compared to the same period last year. Foreign currency movements for the year ended October 31, 2023, had an overall unfavorable impact on revenue of 2 percentage points when compared to 2022. When movements in foreign currency exchange rates have a negative impact on revenue, they will also have a positive impact by reducing our costs and expenses. We calculate the impact of movements in foreign currency exchange rates by applying the actual foreign currency exchange rates in effect during the last month of each quarter of the current year to both the applicable current and prior year periods. We hedge revenues, expenses and balance sheet exposures that are not denominated in the functional currencies of our subsidiaries on a short term and anticipated basis. We do experience some fluctuations within individual lines of the consolidated statement of operations and balance sheet because our hedging program is not designed to offset the currency movements in each category of revenues, expenses, monetary assets and liabilities. Our hedging program is designed to hedge currency movements on a relatively short-term basis (up to a rolling twelve-month period). We may also hedge equity balances denominated in foreign currency on a long-term basis. To the extent that we are required to pay for all, or portions, of an acquisition price in foreign currencies, we may enter into foreign exchange contracts to reduce the risk that currency movements will impact the U.S. dollar cost of the transaction. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 41 
+ 
+ 
+ Table of Contents 
+ Results from Operations 
+ 
+ Net Revenue 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended October 31, 
+ 
+ 2024 over 2023 Change 
+ 
+ 2023 over 2022 Change 
+ 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ 
+ 
+ (in millions) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net revenue: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Products 
+ $ 
+ 4,672 
+ 
+ 
+ $ 
+ 5,051 
+ 
+ 
+ $ 
+ 5,187 
+ 
+ 
+ (7)% 
+ 
+ (3)% 
+ 
+ Services and other 
+ $ 
+ 1,838 
+ 
+ 
+ $ 
+ 1,782 
+ 
+ 
+ $ 
+ 1,661 
+ 
+ 
+ 3% 
+ 
+ 7% 
+ 
+ Total net revenue 
+ $ 
+ 6,510 
+ 
+ 
+ $ 
+ 6,833 
+ 
+ 
+ $ 
+ 6,848 
+ 
+ 
+ (5)% 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended October 31, 
+ 
+ 2024 over 2023 Change 
+ 
+ 2023 over 2022 Change 
+ 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ 
+ % of total net revenue: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Products 
+ 72 
+ % 
+ 
+ 74 
+ % 
+ 
+ 76 
+ % 
+ 
+ (2) ppts. 
+ 
+ (2) ppts. 
+ 
+ Services and other 
+ 28 
+ % 
+ 
+ 26 
+ % 
+ 
+ 24 
+ % 
+ 
+ 2 ppts. 
+ 
+ 2 ppts. 
+ 
+ Total 
+ 100 
+ % 
+ 
+ 100 
+ % 
+ 
+ 100 
+ % 
+ 
+ 
+ 
+ 
+ 
+ Agilent's net revenue of $6,510 million for the year ended October 31, 2024, decreased 5 percent when compared to 2023. Foreign currency movements had no overall impact on revenue growth in 2024 when compared to 2023. For the year ended October 31, 2024, net revenue declined in our life sciences and applied markets and diagnostics and genomics segments, mostly in the pharmaceutical market, due primarily to the overall pressures on our customers' capital expenditure spending which continued in 2024. Revenue declines were partially offset by revenue growth in our Agilent CrossLab segment. Agilent's net revenue of $6,833 million was slightly down in 2023 when compared to 2022. Foreign currency movements had an overall unfavorable impact on revenue growth of 2 percentage points in 2023 when compared to 2022. For the year ended October 31, 2023, net revenue declined in our life sciences and applied markets segment in the pharmaceutical market and in the Asia Pacific region primarily related to weaker demand in China and an overall pressure on our customers' capital expenditures compared to the same period last year. The net revenue decline was partially offset by revenue growth from our other segments primarily in Agilent CrossLab. 
+ 
+ Product revenue includes revenue generated from the sales of our analytical instrumentation, software and consumables. Revenue from products decreased 7 percent for the year ended October 31, 2024, when compared to 2023. The product revenue decline was primarily driven by decreases in our liquid chromatography, mass spectrometry, cell analysis and nucleic acid solutions businesses partially offset by increases in our consumables and pathology businesses when compared to 2023. Overall, product revenue declined due to our customers' continued capital expenditure pressures and mostly impacted the pharmaceutical market within our life sciences and applied markets and diagnostics and genomics segments. 
+ 
+ Revenue from products decreased 3 percent for the year ended October 31, 2023, when compared to 2022. The decrease in product revenue in the year ended October 31, 2023, was primarily due to significant declines in our mass spectrometry, genomics, gas chromatography and cell analysis businesses partially offset by strong growth in our nucleic acid solutions and pathology businesses, and modest growth in our spectroscopy business. Overall, product revenue declined due to our customers' capital expenditure pressures and mostly impacted the pharmaceutical market within our life sciences and applied markets segment. 
+ 
+ Services and other revenue consist of contract repair, preventative maintenance, compliance services, relocation services, installation services, and consulting services related to the companion diagnostics and nucleic acid solutions businesses. Services and other revenue increased 3 percent in 2024 as compared to 2023. Services and other revenue reflected strong growth from contract repair and preventative maintenance services partly offset by declines in installation services related to the decline of the product revenues. 
+ 
+ Services and other revenue increased 7 percent in 2023 as compared to 2022. Service revenue increases reflected strong growth from contract repair services, consultative services, per incident repair and maintenance services, and relocation services in all key end markets. 
+ 
+ 
+ 
+ 42 
+ 
+ Table of Contents 
+ Net Revenue By Segment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended October 31, 
+ 
+ 2024 over 2023 Change 
+ 
+ 2023 over 2022 Change 
+ 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ 
+ 
+ (in millions) 
+ 
+ 
+ 
+ 
+ 
+ Net revenue by segment: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Life sciences and applied markets 
+ $ 
+ 3,215 
+ 
+ 
+ $ 
+ 3,510 
+ 
+ 
+ $ 
+ 3,630 
+ 
+ 
+ (8)% 
+ 
+ (3)% 
+ 
+ Diagnostics and genomics 
+ $ 
+ 1,651 
+ 
+ 
+ $ 
+ 1,755 
+ 
+ 
+ $ 
+ 1,766 
+ 
+ 
+ (6)% 
+ 
+ (1)% 
+ 
+ Agilent CrossLab 
+ $ 
+ 1,644 
+ 
+ 
+ $ 
+ 1,568 
+ 
+ 
+ $ 
+ 1,452 
+ 
+ 
+ 5% 
+ 
+ 8% 
+ 
+ Total net revenue 
+ $ 
+ 6,510 
+ 
+ 
+ $ 
+ 6,833 
+ 
+ 
+ $ 
+ 6,848 
+ 
+ 
+ (5)% 
+ 
+ — 
+ 
+ Revenue in the life sciences and applied markets business decreased 8 percent in 2024 when compared to 2023. Foreign currency movements had no overall impact on revenue growth in 2024 when compared to 2023. For the year ended October 31, 2024, revenue declined in all of our end markets. We saw a significant decline in revenue in the pharmaceutical, chemical and advanced materials, food and academia and government markets when compared to 2023. Revenue in the life sciences and applied markets business decreased 3 percent in 2023 when compared to 2022. Foreign currency movements had an overall unfavorable impact on revenue growth of 2 percentage points in 2023 when compared to 2022. For the year ended October 31, 2023, we saw a significant decline in revenue in the pharmaceutical and the diagnostics and clinical markets partially offset by strong growth in the academia and government market when compared to 2022. 
+ 
+ Revenue in the diagnostics and genomics business decreased 6 percent in 2024 when compared to 2023. Foreign currency movements had no overall impact on revenue growth in 2024 when compared to 2023. In 2024, we saw a significant decline in revenue in the pharmaceutical market due to lower sales in our nucleic acid solutions, cell analysis and genomics businesses when compared to 2023. Revenue in the diagnostics and genomics business decreased 1 percent in 2023 when compared to 2022. Foreign currency movements had an overall unfavorable impact on revenue growth of 2 percentage points in 2023 when compared to 2022. Revenue declined in the academia and government and pharmaceutical markets partially offset by revenue growth in the diagnostics and clinical market when compared to 2022. 
+ 
+ Revenue in the Agilent CrossLab business increased 5 percent in 2024 when compared to 2023. Foreign currency movements had no overall impact on revenue growth in 2024 when compared to 2023. For the year ended October 31, 2024, we saw revenue growth across all of our end markets led by strong revenue growth in the pharmaceutical, diagnostics and clinical and environmental and forensics markets when compared to 2023. Revenue generated by Agilent CrossLab increased 8 percent in 2023 when compared to 2022. Foreign currency movements had an overall unfavorable impact on revenue growth of 2 percentage points in 2023 when compared to 2022. For the year ended October 31, 2023, we saw revenue growth across all of our end markets led by strong revenue growth in the pharmaceutical, academia and government, diagnostics and clinical and chemical and advanced materials markets when compared to 2022. 
+ 
+ 
+ Costs and Expenses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended October 31, 
+ 
+ 2024 over 2023 Change 
+ 
+ 2023 over 2022 Change 
+ 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ 
+ (in millions, except margin data) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Gross margin on products 
+ 56.7 
+ % 
+ 
+ 51.9 
+ % 
+ 
+ 56.8 
+ % 
+ 
+ 5 ppts. 
+ 
+ (5) ppts. 
+ 
+ Gross margin on services and other 
+ 48.3 
+ % 
+ 
+ 47.3 
+ % 
+ 
+ 46.8 
+ % 
+ 
+ 1 ppt. 
+ 
+ 1 ppt. 
+ 
+ Total gross margin 
+ 54.3 
+ % 
+ 
+ 50.7 
+ % 
+ 
+ 54.4 
+ % 
+ 
+ 4 ppts. 
+ 
+ (4) ppts. 
+ 
+ Research and development 
+ $ 
+ 479 
+ 
+ 
+ $ 
+ 481 
+ 
+ 
+ $ 
+ 467 
+ 
+ 
+ — 
+ 
+ 3% 
+ 
+ Selling, general and administrative 
+ $ 
+ 1,568 
+ 
+ 
+ $ 
+ 1,634 
+ 
+ 
+ $ 
+ 1,637 
+ 
+ 
+ (4)% 
+ 
+ — 
+ 
+ Operating margin 
+ 22.9 
+ % 
+ 
+ 19.8 
+ % 
+ 
+ 23.6 
+ % 
+ 
+ 3 ppts. 
+ 
+ (4) ppts. 
+ 
+ Total gross margin for the year ended October 31, 2024 increased 4 percentage points when compared to 2023. Total gross margin as well as gross margin on products for 2024 improved from the prior year as 2023 had asset impairment charges of $253 million primarily related to the exit of our Resolution Bioscience business. In addition, total gross margin was favorably impacted by targeted price increases, lower shipping costs and intangible amortization expense partially offset by lower sales volume, higher share-based compensation expense, higher wages and restructuring charges. Total gross margin for the year ended October 31, 2023 decreased 4 percentage points when compared to 2022. Total gross margin as well as gross 
+ 
+ 
+ 43 
+ 
+ Table of Contents 
+ margin on products for the year ended October 31, 2023 was significantly impacted by asset impairment charges of $253 million primarily related to the exit of our Resolution Bioscience business. Excluding these asset impairment charges, total gross margin for the year ended October 31, 2023 was relatively flat when compared to 2022. Total gross margin was also impacted by targeted price increases, lower shipping and logistics costs, variable pay expenses and intangible amortization expense offset by the unfavorable impact of currency movements, higher wages, restructuring and other related costs and inventory charges. 
+ 
+ Gross inventory charges were $45 million in 2024, $40 million in 2023 and $24 million in 2022. Sales of previously written down inventory were $16 million in 2024, $9 million in 2023 and $11 million in 2022. 
+ 
+ Research and development expenses for the year ended October 31, 2024 were flat when compared to 2023. Research and development expenses slightly decreased due to lower salary expense related to workforce reduction activities mostly offset by restructuring charges and an impairment of in-process research and development when compared to 2023. Research and development expenses for the year ended October 31, 2023 increased 3 percent when compared to 2022. Research and development expenses increased due to higher wages, program costs in our life sciences and applied markets and diagnostics and genomics businesses and restructuring and other related costs partially offset by the lower variable pay expenses and favorable impact of currency movements. 
+ 
+ Selling, general and administrative expenses decreased 4 percent in 2024 when compared to 2023. Selling, general and administrative expenses decreased due to lower intangible amortization expenses, transformational initiatives, advertising expenses, variable pay and salary expense related to workforce reduction activities partially offset by higher restructuring charges and share-based compensation expense. Selling, general and administrative expenses were flat in 2023 compared to 2022. Selling, general and administrative expenses in 2022 included a decrease in expenses of $25 million related to the change in the fair value of contingent consideration. Excluding this amount, selling, general and administrative expenses decreased 2 percent when compared to 2022. The decrease was due to lower variable pay, intangible amortization expense, sales commissions and the favorable impact of currency movements partially offset by higher wages, restructuring and other related costs and asset impairment charges primarily related to the exit of our Resolution Bioscience business. 
+ 
+ Total operating margin for the year ended October 31, 2024 increased 3 percentage points when compared to 2023. Total operating margin for the year ended October 31, 2024 increased mostly due to lower impairment charges in 2024 compared to 2023 partially offset by restructuring charges. Total operating margin for the year ended October 31, 2023, decreased 4 percentage points when compared to 2022. Total operating margin for the year ended October 31, 2023 decreased mainly due to asset impairment charges primarily related to the exit of our Resolution Bioscience business and restructuring and other related costs. 
+ 
+ Interest income for the years ended October 31, 2024, 2023 and 2022 was $80 million, $51 million and $9 million, respectively. The increase in interest income in 2024 and 2023 was primarily due to higher cash balances and increases in interest rates related to our cash and cash equivalents. 
+ 
+ Interest expense for the years ended October 31, 2024, 2023 and 2022 was $96 million, $95 million and $84 million, respectively, and primarily relates to the interest charged on our senior notes, term loan, credit facilities, commercial paper and the amortization of the deferred loss recorded upon termination of the forward starting interest rate swap contracts partially offset by the amortization of deferred gains recorded upon termination of interest rate swap contracts. The increase in interest expense from 2022 is primarily related to higher interest rates on short-term commercial paper and the variable rate on the term loan facility. 
+ 
+ Our headcount was approximately 17,900 at October 31, 2024 and 18,100 at October 31, 2023. 
+ 
+ Other income (expense), net 
+ 
+ For the year ended October 31, 2024, other income (expense), net of $49 million income includes $8 million of income related to foreign currency translation reclassified out of accumulated comprehensive income (loss) and $12 million income related to the provision of site service costs to, and lease income from, Keysight Technologies, Inc. ("Keysight"). The costs associated with these services are reported within income from operations. Other income (expense), net also includes $25 million income related to the defined benefit retirement and post-retirement benefit plans (interest cost, expected return on assets, amortization of net actuarial (gain) loss, prior service credits and settlement loss). 
+ 
+ 
+ 
+ 44 
+ 
+ Table of Contents 
+ For the year ended October 31, 2023, other income (expense), net of $33 million income includes $43 million income related to the net gain on the divestiture of our Resolution Bioscience business and $12 million income related to the provision of site service costs to, and lease income from, Keysight. The costs associated with these services are reported within income from operations. Other income (expense), net also includes $10 million income related to the defined benefit retirement and post-retirement benefit plans (interest cost, expected return on assets, amortization of net actuarial (gain) loss, prior service credits and settlement loss) partially offset by the net loss on the fair value of equity securities of approximately $41 million. 
+ 
+ For the year ended October 31, 2022, other income (expense), net of $39 million expense includes the net loss on the fair value of equity securities of approximately $67 million and a $9 million loss on extinguishment of debt partially offset by income of $25 million income related to the defined benefit retirement and post-retirement benefit plans and $11 million related to the provision of site service costs to, and lease income from, Keysight. The costs associated with these services are reported within income from operations. 
+ 
+ 
+ Income Taxes 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended October 31, 
+ 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ 
+ (in millions) 
+ 
+ Provision (benefit) for income taxes 
+ $ 
+ 232 
+ 
+ 
+ $ 
+ 99 
+ 
+ 
+ $ 
+ 250 
+ 
+ 
+ For 2024, our income tax expense was $232 million with an effective tax rate of 15.3 percent. For the year ended October 31, 2024, our effective tax rate and the resulting provision for income taxes were impacted by the tax benefit of $47 million related to foreign-derived intangible income. 
+ 
+ For 2023, our income tax expense was $99 million with an effective tax rate of 7.4 percent. For the year ended October 31, 2023, our effective tax rate and the resulting provision for income taxes were impacted by the federal tax benefit of $104 million related to the realized loss on the divestiture of a business. The income taxes for the year ended October 31, 2023, also include the tax benefit of $41 million related to foreign-derived intangible income along with the tax benefit of $30 million related to the release of tax reserves in the U.S. due to the settlement of the audit with the Internal Revenue Service ("IRS") for tax years 2018 and 2019. 
+ 
+ For 2022, our income tax expense was $250 million with an effective tax rate of 16.6 percent. For the year ended October 31, 2022, our effective tax rate and the resulting provision for income taxes were impacted by the tax benefit of $46 million related to foreign-derived intangible income. 
+ 
+ We have negotiated a tax holiday in Singapore. The tax holiday provides a lower rate of taxation on certain classes of income and requires various thresholds of investments and employment or specific types of income. The tax holiday in Singapore was renegotiated and extended through 2030. As a result of the incentive, the impact of the tax holiday decreased income taxes by $84 million, $54 million, and $53 million in 2024, 2023, and 2022, respectively. The benefit of the tax holiday on net income per share (diluted) was approximately $0.29, $0.18, and $0.18 in 2024, 2023 and 2022, respectively. 
+ 
+ With these jurisdictions and the U.S., it is reasonably possible that some tax audits may be completed over the next twelve months. However, management is not able to provide a reasonably reliable estimate of the timing of any other future tax payments or change in unrecognized tax benefits, if any. 
+ 
+ The calculation of our tax liabilities involves dealing with uncertainties in the application of complex tax law and regulations in a multitude of jurisdictions. Although the guidance on the accounting for uncertainty in income taxes prescribes the use of a recognition and measurement model, the determination of whether an uncertain tax position has met those thresholds will continue to require significant judgment by management. In accordance with the guidance on the accounting for uncertainty in income taxes, for all U.S. and other tax jurisdictions, we recognize potential liabilities for anticipated tax audit issues based on our estimate of whether, and the extent to which, additional taxes and interest will be due. The ultimate resolution of tax uncertainties may differ from what is currently estimated, which could result in a material impact on income tax expense. If our estimate of income tax liabilities proves to be less than the ultimate assessment, a further charge to expense would be required. If events occur and the payment of these amounts ultimately proves to be unnecessary, the reversal of the liabilities would result in tax benefits being recognized in the period when we determine the liabilities are no longer necessary. We include interest and penalties related to unrecognized tax benefits within the provision for income taxes on the consolidated statements of operations. 
+ 
+ 
+ 
+ 45 
+ 
+ 
+ Table of Contents 
+ Segment Overview 
+ 
+ In the first quarter of fiscal year 2024, we announced a change in our operating segments to move our cell analysis business from our life sciences and applied markets segment to our diagnostics and genomics operating segment in order to further strengthen growth opportunities for both organizations. Following this reorganization, we continued to have three business segments comprised of life sciences and applied markets, diagnostics and genomics and Agilent CrossLab, each of which continued to comprise a reportable segment. All historical financial segment information has been recast to conform to this new presentation in our consolidated financial statements and accompanying notes. There was no change to our Agilent CrossLab business segment. 
+ 
+ 
+ 
+ Life Sciences and Applied Markets 
+ 
+ Our life sciences and applied markets business provides application-focused solutions that include instruments, consumables and software that enable customers to identify, quantify and analyze the physical and biological properties of substances and products, as well as enable customers in the clinical and life sciences research areas to interrogate samples at the molecular and cellular level. Key product categories include: liquid chromatography ("LC") systems and components; liquid chromatography mass spectrometry ("LCMS") systems; gas chromatography ("GC") systems and components; gas chromatography mass spectrometry ("GCMS") systems; inductively coupled plasma mass spectrometry ("ICP-MS") instruments; atomic absorption ("AA") instruments; microwave plasma-atomic emission spectrometry ("MP-AES") instruments; inductively coupled plasma optical emission spectrometry ("ICP-OES") instruments; raman spectroscopy; laboratory software for sample tracking; information management and analytics; laboratory automation and robotic systems; dissolution testing; vacuum pumps and measurement technologies. Our consumables portfolio is designed to improve customer outcomes. Most of the portfolio is vendor neutral, meaning Agilent can serve and supply customers regardless of their instrument purchase choices. Solutions range from chemistries to supplies. Key product categories in consumables include GC and LC columns, sample preparation products, custom chemistries, and a large selection of laboratory instrument supplies. 
+ 
+ Net Revenue 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended October 31, 
+ 
+ 2024 over 2023 Change 
+ 
+ 2023 over 2022 Change 
+ 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ 
+ 
+ (in millions) 
+ 
+ 
+ 
+ 
+ 
+ Net revenue 
+ $ 
+ 3,215 
+ 
+ 
+ $ 
+ 3,510 
+ 
+ 
+ $ 
+ 3,630 
+ 
+ 
+ (8)% 
+ 
+ (3)% 
+ 
+ Life sciences and applied markets business revenue in 2024 decreased 8 percent compared to 2023. Foreign currency movements had no overall impact on revenue growth in 2024 when compared to the same period last year. Geographically, revenue decreased 9 percent in the Americas with no currency impact, decreased 5 percent in Europe with a 1 percentage point favorable currency impact and decreased 10 percent in Asia Pacific with a 1 percentage point unfavorable currency impact. The revenue decline in the Americas was driven by weakness in our liquid chromatography, liquid chromatography mass spectrometry, gas chromatography mass spectrometry and gas chromatography businesses partially offset by strength in the consumables business when compared to 2023. The revenue decline in Europe was driven by weakness in our liquid chromatography, gas chromatography, automation and gas chromatography mass spectrometry businesses partially offset by strength in the consumables business when compared to 2023. The revenue decline in Asia Pacific was driven by lower demand in China within our liquid chromatography, liquid chromatography mass spectrometry, gas chromatography mass spectrometry and spectroscopy businesses when compared to 2023. 
+ 
+ All end market revenue declined in 2024. Revenue in the pharmaceutical market declined significantly due to weakness in our liquid chromatography, liquid chromatography mass spectrometry and gas chromatography businesses when compared to 2023. Revenue in the chemicals and advanced materials market declined significantly due to weakness in our liquid chromatography, gas chromatography and liquid chromatography mass spectrometry businesses partially offset by strength in our consumables business when compared to 2023. Revenue in the food market declined significantly due to weakness in our liquid chromatography, gas chromatography mass spectrometry and spectroscopy businesses partially offset by strength in our consumables business when compared to 2023. Revenue in the academia and government market declined significantly due to weakness in our liquid chromatography and liquid chromatography mass spectrometry businesses when compared to 2023. 
+ 
+ 
+ 46 
+ 
+ Table of Contents 
+ 
+ Life sciences and applied markets business revenue in 2023 decreased 3 percent compared to 2022. Foreign currency movements for 2023 had an overall unfavorable impact on revenue growth of 2 percentage points when compared to 2022. Geographically, revenue decreased 1 percent in the Americas with no currency impact, increased 1 percent in Europe with a 1 percentage point unfavorable currency impact and decreased 7 percent in Asia Pacific with a 3 percentage point unfavorable currency impact. The revenue decline in the Americas was driven by weakness in our liquid chromatography mass spectrometry and liquid chromatography businesses partially offset by strength in the consumables business when compared to 2022. The revenue growth in Europe was driven by strength in our liquid chromatography business partially offset by weakness in the liquid chromatography mass spectrometry business when compared to 2022. The revenue decline in Asia Pacific was driven by China with weakness in our liquid chromatography, gas chromatography and gas chromatography mass spectrometry businesses partially offset by strength in the spectroscopy business when compared to 2022. 
+ 
+ End market revenue performance in 2023 was mixed as the pharmaceutical and diagnostics and clinical markets declined significantly, environmental and forensics market declined modestly, chemicals and advance materials and food markets remained relatively flat while the academia and government market delivered strong growth when compared to 2022. Revenue decline in the pharmaceutical market was driven by weakness in our liquid chromatography, liquid chromatography mass spectrometry and gas chromatography businesses when compared to 2022. Revenue decline in the diagnostics and clinical market was driven by weakness in our liquid chromatography mass spectrometry business partially offset by strength in our consumables business when compared to 2022. Revenue decline in the environmental and forensics market was driven by weakness in our gas chromatography and spectroscopy businesses partially offset by strength in our liquid chromatography business when compared to 2022. Revenue growth in the academia and government end market was mainly driven by strength in the liquid chromatography, spectroscopy, gas chromatography and liquid chromatography mass spectrometry businesses when compared to 2022. 
+ 
+ Looking forward, we anticipate continued and steady market recovery and are optimistic about our long-term growth opportunities in the life sciences and applied markets as our broad portfolio of products and solutions are well suited to address customer needs. We will continue to invest in expanding and improving our applications and solutions portfolio. 
+ 
+ 
+ Gross Margin and Operating Margin 
+ 
+ The following table shows the life sciences and applied markets business' margins, expenses and income from operations for 2024 versus 2023, and 2023 versus 2022. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended October 31, 
+ 
+ 2024 over 2023 Change 
+ 
+ 2023 over 2022 Change 
+ 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ 
+ (in millions, except margin data) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total gross margin 
+ 59.7 
+ % 
+ 
+ 60.3 
+ % 
+ 
+ 60.1 
+ % 
+ 
+ (1) ppt. 
+ 
+ — 
+ 
+ Research and development 
+ $ 
+ 255 
+ 
+ 
+ $ 
+ 262 
+ 
+ 
+ $ 
+ 257 
+ 
+ 
+ (3)% 
+ 
+ 2% 
+ 
+ Selling, general and administrative 
+ $ 
+ 788 
+ 
+ 
+ $ 
+ 805 
+ 
+ 
+ $ 
+ 829 
+ 
+ 
+ (2)% 
+ 
+ (3)% 
+ 
+ Operating margin 
+ 27.3 
+ % 
+ 
+ 29.9 
+ % 
+ 
+ 30.2 
+ % 
+ 
+ (3) ppts. 
+ 
+ — 
+ 
+ Income from operations 
+ $ 
+ 877 
+ 
+ 
+ $ 
+ 1,049 
+ 
+ 
+ $ 
+ 1,097 
+ 
+ 
+ (16)% 
+ 
+ (4)% 
+ 
+ Gross margin decreased 1 percentage point in 2024 compared to 2023. Gross margin was impacted by lower sales volume, unfavorable impact of currency movements and higher warranty costs which were partially offset by lower salary expense related to workforce reduction activities and shipping costs when compared to 2023. Gross margin was flat in 2023 compared to 2022. Gross margin was impacted by lower revenue, the unfavorable impact of currency movements, higher wages and warranty costs which were fully offset by targeted price increases, lower variable pay, logistics and materials cost. 
+ 
+ Research and development expenses decreased 3 percent in 2024 when compared to 2023. Research and development expenses decreased due to lower salary expense related to workforce reduction activities, lower consumables costs and depreciation expenses partially offset by the unfavorable impact of currency movements when compared to 2023. Research and development expenses increased 2 percent in 2023 when compared to 2022. Research and development expenses increased due to higher wages and program investments in our software and informatics business partially offset by lower variable pay. 
+ 
+ Selling, general and administrative expenses decreased 2 percent in 2024 compared to 2023. Selling, general and administrative expenses decreased due to lower salary expense related to workforce reduction activities, variable pay and 
+ 
+ 
+ 47 
+ 
+ Table of Contents 
+ marketing costs when compared to 2023. Selling, general and administrative expenses decreased 3 percent in 2023 compared to 2022. Selling, general and administrative expenses decreased due to lower variable pay, sales commissions, and marketing expenses, and the favorable impact of currency movements when compared to 2022. 
+ 
+ Operating margin decreased 3 percentage points in 2024 compared to 2023. Operating margin was impacted by lower sales volume and the unfavorable impact of currency movements partially offset by lower salary expense related to workforce reduction activities, and shipping costs when compared to 2023. Operating margin was flat in 2023 compared to 2022. Operating margin was impacted by lower sales volume and the unfavorable impact of currency movements offset by lower variable pay and logistics costs. 
+ 
+ Income from Operations 
+ 
+ Income from operations in 2024 decreased by $172 million or 16 percent when compared to 2023 on a revenue decrease of $295 million. Income from operations in 2023 decreased by $48 million or 4 percent when compared to 2022 on a revenue decrease of $120 million. 
+ 
+ 
+ Diagnostics and Genomics 
+ 
+ Our diagnostics and genomics business includes the cell analysis, advanced manufacturing partnerships contract manufacturing and research and development, pathology, companion diagnostics, reagent partnership, genomics and biomolecular analysis businesses. 
+ 
+ Our diagnostics and genomics business is comprised of seven areas of activity providing active pharmaceutical ingredients ("APIs") for oligo-based therapeutics as well as solutions that include reagents, instruments, software and consumables, which enable customers in the clinical and life sciences research areas to interrogate samples at the cellular and molecular level. First, our cell analysis business includes instruments, reagents, software, and labware associated with unique live-cell analysis platforms in addition to mainstream flow cytometers, plate-readers, and plate washers/dispensers which are used across a broad range of applications. Second, our advanced manufacturing partnerships business is a contract and development manufacturing organization that provides services related to and the production of synthesized oligonucleotides under pharmaceutical good manufacturing practices ("GMP") conditions for use as API in a class of drugs that utilize nucleic acid molecules for disease therapy. Together, our BIOVECTRA and nucleic acid solutions businesses offer a broad range of contract and development manufacturing services to our customers. They provide clinical-to-commercial scale production capabilities focused mainly on mRNA manufacturing. Third, our pathology solutions business is focused on product offerings for cancer diagnostics and anatomic pathology workflows. The broad portfolio of offerings includes immunohistochemistry ("IHC"), in situ hybridization ("ISH"), hematoxylin and eosin ("H&E") staining and special staining. Fourth, we also collaborate with a number of major pharmaceutical companies to develop new potential tissue pharmacodiagnostics, also known as companion diagnostics, which may be used to identify patients most likely to benefit from a specific targeted therapy. Fifth, the reagent partnership business provides clinical flow cytometry reagents for routine cancer diagnostics. This business also provides bulk antibodies as raw materials and associated assay development services to in vitro diagnostics ("IVD") manufacturers, biotechnology and pharmaceutical companies. Sixth, our genomics business includes arrays and next generation sequencing ("NGS"). This business also includes solutions that enable clinical labs to identify DNA variants associated with genetic disease and help direct cancer therapy. Finally, our biomolecular analysis business provides complete workflow solutions, including instruments, consumables and software, for quality control analysis of nucleic acid samples. Samples are analyzed using quantitative and qualitative techniques to ensure accuracy in further genomics analysis techniques including NGS, utilized in clinical and life science research applications. 
+ 
+ Net Revenue 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended October 31, 
+ 
+ 2024 over 2023 Change 
+ 
+ 2023 over 2022 Change 
+ 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ 
+ 
+ (in millions) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net revenue 
+ $ 
+ 1,651 
+ 
+ 
+ $ 
+ 1,755 
+ 
+ 
+ $ 
+ 1,766 
+ 
+ 
+ (6)% 
+ 
+ (1)% 
+ 
+ Diagnostics and genomics business revenue decreased 6 percent in 2024 compared to 2023. Foreign currency movements for 2024 had no overall impact on revenue growth when compared to the same period last year. Geographically, revenue decreased 10 percent in the Americas with no currency impact, increased 4 percent in Europe with a 1 percentage point favorable currency impact and decreased 11 percent in Asia Pacific with a 2 percentage point unfavorable currency impact. The 
+ 
+ 
+ 48 
+ 
+ Table of Contents 
+ revenue decline in the Americas was primarily driven by our cell analysis, genomics and nucleic acid solutions businesses. Revenue increased in Europe due to strong performance in our pathology, genomics and biomolecular analysis businesses partially offset by a decline in our cell analysis business. The revenue decline in Asia Pacific was driven by our cell analysis business partially offset by increased revenue in our pathology business. 
+ 
+ In 2024, revenue performance in the pharmaceutical market declined significantly due to our cell analysis business which was impacted by the continuing slow availability of the customer capital budgets and by unfavorable mix in our nucleic acid solutions business when compared to the same period last year. We also saw a modest revenue increase in the diagnostics and clinical markets primarily from our pathology business which was partially offset by a decline in our genomics business. Revenue in the academia and government markets declined due to our cell analysis business. 
+ 
+ Diagnostics and genomics business revenue in 2023 decreased 1 percent compared to 2022. Foreign currency movements had an overall unfavorable impact on revenue growth of 2 percentage points in 2023 when compared to 2022. Geographically, revenue decreased 1 percent in the Americas with no currency impact, increased 3 percent in Europe with a 1 percentage point unfavorable currency impact and decreased 6 percent in Asia Pacific with a 5 percentage point unfavorable currency impact. The decrease in the Americas was driven by a decline in our genomics and cell analysis businesses which was partially offset by strong growth in our nucleic acid solutions, reagent partnership and pathology businesses. The increase in Europe was driven by growth in our pathology, reagent partnership and cell analysis businesses. The revenue decline in Asia Pacific was driven by our biomolecular analysis and genomics businesses and an overall weakness in China. 
+ 
+ In 2023, the decline in revenue in the pharmaceutical market was led by our cell analysis, biomolecular analysis and genomics businesses which was partially offset by strong revenue growth in our nucleic acid solutions business. We saw moderate revenue growth in the diagnostics and clinical markets led by our pathology, reagent partnership and cell analysis businesses when compared to 2022. Revenue in the academia and government markets declined due to softness in our cell analysis and genomics businesses. 
+ 
+ Looking forward, despite the challenging market conditions, we are optimistic about our long-term growth opportunities in our end markets and continue to invest in expanding and improving our applications and solutions portfolio. We remain positive about our growth in our end markets as our product portfolio around OMNIS and PD-L1 assays continues to gain strength with our customers in clinical oncology applications, and our next generation sequencing related solutions continue to be adopted. Market demand in the advanced manufacturing partnerships business related to therapeutic oligo programs continues, and we are well positioned to serve more of the market demand. We will also continue to invest in research and development and seek to expand our position in developing countries and emerging markets. 
+ 
+ Gross Margin and Operating Margin 
+ 
+ The following table shows the diagnostics and genomics business' margins, expenses and income from operations for 2024 versus 2023, and 2023 versus 2022. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended October 31, 
+ 
+ 2024 over 2023 Change 
+ 
+ 2023 over 2022 Change 
+ 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ 
+ (in millions, except margin data) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total gross margin 
+ 52.4 
+ % 
+ 
+ 53.4 
+ % 
+ 
+ 55.0 
+ % 
+ 
+ (1) ppt. 
+ 
+ (2) ppts. 
+ 
+ Research and development 
+ $ 
+ 161 
+ 
+ 
+ $ 
+ 177 
+ 
+ 
+ $ 
+ 174 
+ 
+ 
+ (9)% 
+ 
+ 2% 
+ 
+ Selling, general and administrative 
+ $ 
+ 385 
+ 
+ 
+ $ 
+ 397 
+ 
+ 
+ $ 
+ 407 
+ 
+ 
+ (3)% 
+ 
+ (3)% 
+ 
+ Operating margin 
+ 19.4 
+ % 
+ 
+ 20.7 
+ % 
+ 
+ 22.1 
+ % 
+ 
+ (1) ppt. 
+ 
+ (1) ppt. 
+ 
+ Income from operations 
+ $ 
+ 320 
+ 
+ 
+ $ 
+ 363 
+ 
+ 
+ $ 
+ 390 
+ 
+ 
+ (12)% 
+ 
+ (7)% 
+ 
+ Gross margin decreased 1 percentage point in 2024 when compared to 2023. Gross margin was impacted by lower sales volume and higher infrastructure costs which were partially offset by lower salary expense related to workforce reduction activities and expenses attributed to business exit activities. Gross margin decreased 2 percentage points in 2023 when compared to 2022. Gross margin decreased due to volume decline in our cell analysis and genomics businesses resulting in unfavorable business mix. Gross margin was also impacted by the unfavorable impact of currency movements, higher wages and infrastructure costs partially offset by lower variable pay. 
+ 
+ 
+ 
+ 49 
+ 
+ Table of Contents 
+ Research and development expenses decreased 9 percent in 2024 when compared to 2023. Research and development expenses decreased primarily due to lower expenses attributed to business exit activities and salary expenses related to workforce reduction activities. Research and development expenses increased 2 percent in 2023 when compared to 2022. Research and development expenses increased due to higher wages, additional expenses related to a recent acquisition and higher infrastructure costs. 
+ 
+ Selling, general and administrative expenses decreased 3 percent in 2024 when compared to 2023. Selling, general and administrative expenses decreased due to lower expenses attributed to business exit activities and lower salary expense related to workforce reduction activities partially offset by higher infrastructure costs. Selling, general and administrative expenses decreased 3 percent in 2023 when compared to 2022. Selling, general and administrative expenses decreased due to lower variable pay, the favorable impact of currency movements and lower infrastructure costs. 
+ 
+ Operating margin decreased 1 percentage point in 2024 when compared to 2023. Operating margin decreased due to lower revenue, higher infrastructure costs and higher wages partially offset by lower salary expense related to workforce reduction activities and expenses attributed to business exit activities. Operating margin decreased 1 percentage point in 2023 when compared to 2022. The decrease in operating margin resulted from lower gross margins, the unfavorable impact of currency movements and additional costs related to a recent acquisition partially offset by lower variable pay. 
+ 
+ Income from Operations 
+ 
+ Income from operations in 2024 decreased by $43 million or 12 percent when compared to 2023 on a revenue decrease of $104 million. Income from operations in 2023 decreased by $27 million or 7 percent when compared to 2022 on a revenue decrease of $11 million. 
+ 
+ 
+ Agilent CrossLab 
+ 
+ The Agilent CrossLab business spans the entire lab with its extensive services portfolio, which is designed to improve customer outcomes and represents a broad range of offerings designed to serve customer needs across end-markets and regardless of instrument manufacturer. The services portfolio includes repairs, parts, maintenance, installations, training, compliance support, software as a service, asset management, consulting and various other custom services to support the customers' laboratory operations. Custom services are tailored to meet the specific application needs of various industries and to keep instruments fully operational and compliant with the respective industry requirements. 
+ 
+ Net Revenue 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended October 31, 
+ 
+ 2024 over 2023 Change 
+ 
+ 2023 over 2022 Change 
+ 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ 
+ 
+ (in millions) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total net revenue 
+ $ 
+ 1,644 
+ 
+ 
+ $ 
+ 1,568 
+ 
+ 
+ $ 
+ 1,452 
+ 
+ 
+ 5% 
+ 
+ 8% 
+ 
+ Agilent CrossLab business revenue increased 5 percent in 2024 when compared to 2023. Foreign currency movements for 2024 had no overall impact on revenue growth when compared to 2023. Geographically, revenue increased 6 percent in the Americas with no currency impact, increased 8 percent in Europe with a 2 percentage point favorable currency impact and was flat in Asia Pacific with a 2 percentage point unfavorable currency impact. During the year ended October 31, 2024 , revenue in all three regions reflected consistent high demand for repair and maintenance services across the entire portfolio. In Americas and Europe, revenue growth was partially offset by weakness in installation revenue. In the Asia Pacific region the weakness in installation revenue offset the revenue growth seen from repair and maintenance services. 
+ 
+ Agilent CrossLab business revenue increased 8 percent in 2023 when compared to 2022. Foreign currency movements had an overall unfavorable impact on revenue growth of 2 percentage points in 2023 when compared to 2022. Geographically, revenue increased 12 percent in the Americas with a 1 percentage point favorable currency impact, increased 10 percent in Europe with no currency impact and increased 3 percent in Asia Pacific with a 5 percentage point unfavorable currency impact. During the year ended October 31, 2023, revenue growth in all three regions was driven by contract repair services, per-incident repair services and consultative services, with installation related service in China partially offsetting the overall growth in Asia Pacific. 
+ 
+ 
+ 
+ 50 
+ 
+ 
+ In 2024, we saw strong revenue growth in the environmental and forensics, diagnostics and clinical and pharmaceutical markets, mainly driven by our spectroscopy, gas chromatography and liquid chromatography businesses, when compared to the same period last year. In 2023, we saw strong revenue growth in the pharmaceutical, academia and government, diagnostics and clinical and chemical and advanced materials markets, mainly driven by our spectroscopy, liquid and gas chromatography mass spectrometry and liquid chromatography businesses when compared to the same period the previous year. 
+ 
+ Looking forward, Agilent CrossLab services are well positioned to continue their success in our key end markets by supporting a growing installed base of instruments. Digital and remote capabilities will continue to be a key factor in improving the service quality and the customers' experience. Geographically, the business is well diversified across all regions to take advantage of local market opportunities and to hedge against weakness in any one region. 
+ 
+ 
+ Gross Margin and Operating Margin 
+ 
+ The following table shows the Agilent CrossLab business' margins, expenses and income from operations for 2024 versus 2023 and 2023 versus 2022. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended October 31, 
+ 
+ 2024 over 2023 Change 
+ 
+ 2023 over 2022 Change 
+ 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ 
+ (in millions, except margin data) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total gross margin 
+ 50.9 
+ % 
+ 
+ 49.3 
+ % 
+ 
+ 47.6 
+ % 
+ 
+ 2 ppts. 
+ 
+ 2 ppts. 
+ 
+ Research and development 
+ $ 
+ 33 
+ 
+ 
+ $ 
+ 33 
+ 
+ 
+ $ 
+ 32 
+ 
+ 
+ (1)% 
+ 
+ 2% 
+ 
+ Selling, general and administrative 
+ $ 
+ 281 
+ 
+ 
+ $ 
+ 276 
+ 
+ 
+ $ 
+ 288 
+ 
+ 
+ 2% 
+ 
+ (4)% 
+ 
+ Operating margin 
+ 31.9 
+ % 
+ 
+ 29.5 
+ % 
+ 
+ 25.5 
+ % 
+ 
+ 2 ppts. 
+ 
+ 4 ppts. 
+ 
+ Income from operations 
+ $ 
+ 524 
+ 
+ 
+ $ 
+ 463 
+ 
+ 
+ $ 
+ 370 
+ 
+ 
+ 13% 
+ 
+ 25% 
+ 
+ Gross margin increased 2 percentage points in 2024 when compared to 2023. Gross margin was impacted by targeted price increases and well-controlled variable service delivery costs, offset by higher wages. Gross margin increased 2 percentage points in 2023 when compared to 2022. Gross margin was impacted by higher sales volume, targeted price increases and lower variable pay that improved margins, which were partially offset by higher wages, service delivery costs for logistics and parts and the unfavorable impact of currency movements. 
+ 
+ Research and development expenses decreased 1 percent in 2024 when compared to 2023. Research and development expenses decreased due to lower salary expense related to workforce reduction activities. Research and development expenses increased 2 percent in 2023 when compared to 2022. Research and development expenses increased due to higher wages, partially offset by lower variable pay and the favorable impact of currency movements. 
+ 
+ Selling, general and administrative expenses increased 2 percent in 2024 when compared to 2023. Selling, general and administrative expenses increased due to higher commissions partially offset by lower travel expenses and other discretionary spending and salary expense related to workforce reduction activities. Selling, general and administrative expenses decreased 4 percent in 2023 when compared to 2022. The decrease was primarily due to lower variable pay and a favorable impact of currency movements partially offset by higher wages. 
+ 
+ Operating margin increased 2 percentage points in 2024 when compared to 2023. Operating margin i ncreased mostly driven by targeted price increases, lower service delivery costs and salary expense related to workforce reduction activities. Operating margin increased 4 percentage points in 2023 when compared to 2022. Operating margin increased mostly due to higher sales volume, targeted price increases and lower variable pay that improved margins in addition to a reduction in expenses. 
+ 
+ Income from Operations 
+ 
+ Income from operations in 2024 increased by $61 million or 13 percent when compared to 2023 on a revenue increase of $76 million. Income from operations in 2023 increased by $93 million or 25 percent when compared to 2022 on a revenue increase of $116 million. 
+ 
+ 
+ 
+ 51 
+ 
+ 
+ 
+ Financial Condition 
+ 
+ Liquidity and Capital Resources 
+ 
+ We believe our cash and cash equivalents, cash generated from operations, and ability to access capital markets and credit lines will satisfy, for at least the next twelve months and beyond, our liquidity requirements, both globally and domestically, including the following: working capital needs, capital expenditures, business acquisitions, stock repurchases, cash dividends, contractual obligations, commitments, principal and interest payments on debt, and other liquidity requirements associated with our operations. 
+ 
+ Our financial position as of October 31, 2024 consisted of cash and cash equivalents of $1,329 million as compared to $1,590 million as of October 31, 2023. 
+ 
+ We may, from time to time, retire certain outstanding debt of ours through open market cash purchases, privately-negotiated transactions or otherwise. Such transactions, if any, will depend on prevailing market conditions, our liquidity requirements, contractual restrictions and other factors. 
+ 
+ Net Cash Provided by Operating Activities 
+ 
+ Net cash provided by operating activities was $1,751 million in 2024 compared to net cash provided of $1,772 million in 2023 and net cash provided of $1,312 million in 2022. Net cash paid for income taxes was approximately $314 million in 2024 compared to income taxes paid of $199 million in 2023 and $279 million, in 2022. For the years ended October 31, 2024, 2023 and 2022, other assets and liabilities used cash of $49 million, provided cash of $47 million and used cash of $8 million, respectively. 
+ 
+ In 2024, accounts receivable provided cash of $7 million, compared to cash provided of $132 million in 2023, and cash used of $321 million in 2022. Days' sales outstanding as of October 31, were 70 days in 2024, 69 days in 2023 and 68 days in 2022. In 2024, the decrease in cash provided by accounts receivable was primarily due to lower collectible sales compared to 2023. In 2023 cash provided in accounts receivable was driven by stronger collections compared to 2022. The change in accounts payable provided cash of $103 million in 2024, used cash of $171 million in 2023 and provided cash of $121 million in 2022. In 2024 the change was mainly due to less expenditures for direct materials as we continued optimizing our inventory levels and to timing of payments. Cash provided by inventory was $34 million in 2024 compared to cash used of $33 million in 2023 and cash used of $248 million in 2022. Inventory days on-hand decreased to 111 days in 2024 compared to 120 days in 2023 and 112 days in 2022. 
+ 
+ The employee compensation and benefits liability used cash of $12 million in 2024 compared to cash used of $91 million in 2023 and cash used of $22 million in 2022. In 2024, the change was largely due to a decrease in variable and incentive pay compared to 2023. In 2023, the change was largely due to a lower accrual for variable pay compared to 2022. We paid approximately $105 million in 2024 under our variable and incentive pay programs compared to $185 million in 2023 and $201 million in 2022. 
+ 
+ We made no contributions to our U.S defined benefit plans in 2024, 2023 and 2022. We contributed $20 million in 2024 and $21 million in 2023 and $17 million in 2022 to our non-U.S. defined benefit plans, respectively. We did not contribute to our U.S. post-retirement benefit plans in 2024, 2023 and 2022. Our non-U.S. defined benefit plans are generally funded ratably throughout the year. Our annual contributions are highly dependent on the relative performance of our assets versus our projected liabilities, among other factors. We do not expect to contribute to our U.S. plans and U.S. post-retirement benefit plans during 2025. We expect to contribute $19 million to our non-U.S. defined benefit plans during 2025. 
+ 
+ Net Cash Used in Investing Activities 
+ 
+ Net cash used in investing activities was $1,258 million in 2024 compared to net cash used of $310 million in 2023 and net cash used of $338 million in 2022. 
+ 
+ Investments in property, plant and equipment were $378 million in 2024, $298 million in 2023 and $291 million in 2022. Our anticipated capital expenditures for fiscal year 2025 will be approximately $450 million. These continued investments in property plant and equipment are primarily due to the planned expansion of our manufacturing capacity for production of nucleic acid based therapeutics in Frederick, Colorado. Some of our investment may be eligible to qualify for reimbursement incentives, which will not fully be known until the expansion is substantially complete. 
+ 
+ 
+ 
+ 52 
+ 
+ 
+ In 2024, we invested $862 million primarily for our acquisition of BIOVECTRA and one other acquisition compared to $51 million for two acquisitions in 2023 and $52 million for our acquisition of Polymer Standards Service and advanced artificial intelligence technology in 2022. In 2023, proceeds from the divestiture of our Resolution Bioscience business were $50 million. 
+ 
+ Net Cash Used in Financing Activities 
+ 
+ Net cash used in financing activities was $752 million in 2024 compared to net cash used of $930 million in 2023 and net cash used of $1,372 million in 2022. Net cash from financing activities consisted primarily of cash flows associated with the issuances and repurchases of common stock, payments of cash dividends, borrowings and repayments under credit facilities and commercial paper, issuances and repayments of long term debt and payments of contingent consideration. 
+ 
+ Treasury Stock Repurchases. In 2024, we repurchased and retired 8.4 million shares for $1,150 million, excluding excise tax liability of approximately $10 million compared to repurchases in 2023 of 4.6 million shares for $575 million, excluding excise tax liability of approximately $3 million which was paid in 2024 and 8.4 million shares for $1,139 million, in 2022. 
+ 
+ The activity of our repurchases and remaining authorization by repurchase program follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ 2022 
+ Remaining 
+ 
+ 
+ Shares 
+ 
+ Cost 
+ 
+ Shares 
+ 
+ Cost 
+ 
+ Shares 
+ 
+ Cost 
+ Authorization 
+ 
+ Repurchase Program 
+ (in millions) 
+ 
+ 2021 Repurchase program 
+ — 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ 0.7 
+ 
+ 
+ $ 
+ 99 
+ 
+ 
+ 8.4 
+ 
+ 
+ $ 
+ 1,139 
+ 
+ $ 
+ — 
+ 
+ 
+ 2023 Repurchase program 
+ 8.4 
+ 
+ 
+ 1,150 
+ 
+ 
+ 3.9 
+ 
+ 
+ 476 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ $ 
+ 374 
+ 
+ 
+ 2024 Repurchase program 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ $ 
+ 2,000 
+ 
+ 
+ Total 
+ 8.4 
+ 
+ 
+ $ 
+ 1,150 
+ 
+ 
+ 4.6 
+ 
+ 
+ $ 
+ 575 
+ 
+ 
+ 8.4 
+ 
+ 
+ $ 
+ 1,139 
+ 
+ 
+ 
+ The 2024 repurchase program authorizes the purchase of up to $2.0 billion, excluding excise taxes, of our common stock at the company's discretion and has no fixed termination date. The 2024 repurchase program does not require the company to acquire a specific number of shares and may be suspended, amended or discontinued at any time. The 2024 repurchase program became effective on August 1, 2024 and will commence upon the termination of our 2023 repurchase program. 
+ 
+ Dividends. For the years ended October 31, 2024, 2023 and 2022, cash dividends of $274 million, $265 million and $250 million were paid on the company's outstanding common stock, respectively. 
+ 
+ On November 20, 2024, we declared a quarterly dividend of $0.248 per share of common stock, or approximately $71 million which will be paid on January 22, 2025 to shareholders of record as of the close of business on December 31, 2024. The timing and amounts of any future dividends are subject to determination and approval by our board of directors. 
+ 
+ Short-term Debt 
+ 
+ Credit Facilities. On June 7, 2023, we entered into a new credit agreement with a group of financial institutions which provides for a $1.5 billion five-year unsecured credit facility that will expire on June 7, 2028, and an incremental revolving credit facility in an aggregate amount of up to $750 million. During 2024, we made no borrowings or repayments under these credit facilities compared to $360 million borrowed and repaid in 2023 and no borrowings or repayments in 2022. 
+ 
+ On June 2, 2023, we entered into an Uncommitted Money Market Line Credit agreement with Societe Generale which provides for an aggregate borrowing capacity of $300 million. The credit facility is an uncommitted short-term cash advance facility where each request must be at least $1 million. The interest rate is set by the lender at the time of the borrowing and is fixed for the duration of the advance. During 2024, we borrowed and repaid $215 million under this credit facility compared to $61 million borrowed and repaid in 2023. As of October 31, 2024, we had no borrowings outstanding under the credit facility. 
+ 
+ We were in compliance with the covenants for the credit facilities during the year ended October 31, 2024. 
+ 
+ 
+ 53 
+ 
+ 
+ 
+ Commercial Paper. Under our U.S. commercial paper program, we may issue and sell unsecured, short-term promissory notes in the aggregate principal amount not to exceed $1.5 billion with up to 397-day maturities. At any point in time, the company intends to maintain available commitments under its revolving credit facility in an amount at least equal to the amount of the commercial paper notes outstanding. Amounts available under the program may be borrowed, repaid and re-borrowed from time to time. The proceeds from issuances under the program may be used for general corporate purposes. During 2024, we borrowed $1.19 billion and repaid $1.15 billion compared to $1.67 billion borrowed and $1.70 billion repaid in 2023, and $1.29 billion borrowed and $1.26 billion repaid in 2022. As of October 31, 2024, we had $40 million borrowings outstanding under our U.S. commercial paper program and had a weighted average annual interest rate of 4.92 percent. 
+ 
+ Other Loans . In September 2024, we completed the BIOVECTRA acquisition and assumed two interest-free loans from the Strategic Innovation Fund ("SIF") in the amount of $20 million with $2 million recorded at fair value in short-term debt. The loans are repayable in quarterly and yearly installments at a weighted average imputed interest rate of 4.7 percent. In addition, we assumed two interest-free loans with the Atlantic Canada Opportunities Agency (“ACOA”) in the amount of $4 million with $3 million recorded at fair value in short-term debt. The loans are repayable in monthly installments at a weighted average imputed interest rate of 4.5 percent. 
+ 
+ Long-term Debt 
+ 
+ In 2024, proceeds from the issuance of long-term debt of $1,197 million related to the issuance of our 2027 and 2034 senior notes. Repayments of long-term debt of $600 million related to the full payment of the outstanding principal amount of our term loan. In 2022, we used the proceeds of $600 million from the term loan facility and repaid the $600 million outstanding aggregate principal amount of our 3.875% 2023 senior notes. The total redemption price of approximately $609 million was computed in accordance with the terms of the 2023 senior notes as the present value of the remaining scheduled payments of principal and unpaid interest on the notes being redeemed. In addition, $7 million of accrued interest, up to but not including the applicable redemption date, was paid. 
+ 
+ Term Loan Facility. On April 15, 2022, we entered into a term loan agreement with a group of financial institutions, which provided for a $600 million delayed draw term loan that will mature on April 15, 2025. Loans under the term loan agreement bear interest, at our option, either at: (i) the alternate base rate, as defined in the term loan agreement, plus the applicable margin for such loans or (ii) adjusted term SOFR, as defined in the term loan agreement, plus the applicable margin for such loans. As of October 31, 2024, the term loan facility was terminated. 
+ 
+ Other Loans. In September 2024, we completed the BIOVECTRA acquisition and assumed two interest-free loans from the Strategic Innovation Fund ("SIF") in the amount of $20 million with $18 million recorded at fair value in long-term debt. The loans are repayable in quarterly and yearly installments through 2040 at a weighted average imputed interest rate of 4.7 percent. In addition, we assumed two interest-free loans with the Atlantic Canada Opportunities Agency (“ACOA”) in the amount of $4 million with $1 million recorded at fair value in long-term debt. The loans are repayable in monthly installments through 2029 at a weighted average imputed interest rate of 4.5 percent. 
+ 
+ Senior Notes . All outstanding senior notes listed below are unsecured and rank equally in right of payment with all of our other senior unsecured indebtedness. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Senior Notes 
+ Year Issued 
+ 
+ Principal Amount ($M) 
+ 
+ Interest Rate 
+ 
+ Interest payable 
+ 
+ Maturity Date 
+ 
+ 2026 Senior Notes 
+ 2016 
+ 
+ $300 
+ 
+ 3.05% 
+ 
+ 
+ semi-annually 
+ 
+ September, 2026 
+ 
+ 2027 Senior Notes 
+ 2024 
+ 
+ $600 
+ 
+ 4.20% 
+ 
+ 
+ semi-annually 
+ 
+ September, 2027 
+ 
+ 2029 Senior Notes 
+ 2019 
+ 
+ $500 
+ 
+ 2.75% 
+ 
+ 
+ semi-annually 
+ 
+ September, 2029 
+ 
+ 2030 Senior Notes 
+ 2020 
+ 
+ $500 
+ 
+ 2.10% 
+ 
+ 
+ semi-annually 
+ 
+ June, 2030 
+ 
+ 2031 Senior Notes 
+ 2021 
+ 
+ $850 
+ 
+ 2.30% 
+ 
+ 
+ semi-annually 
+ 
+ March, 2031 
+ 
+ 2034 Senior Notes 
+ 2024 
+ 
+ $600 
+ 
+ 4.75% 
+ 
+ 
+ semi-annually 
+ 
+ September, 2034 
+ 
+ Contingent Consideration Payment. During the year ended October 31, 2023, we paid a total of $72 million in contingent consideration payments, of which $4 million is included as an outflow in cash from operations. We paid $65 million related to the achievement of a certain technical milestone associated with our acquisition of Resolution Bioscience and $7 million related to other acquisitions. 
+ 
+ 
+ 
+ 54 
+ 
+ 
+ Off Balance Sheet Arrangements and Other 
+ 
+ Our liquidity is affected by many factors, some of which are based on normal ongoing operations of our business and some of which arise from fluctuations related to global economics and markets. Our cash balances are generated and held in many locations throughout the world. Local government regulations may restrict our ability to move cash balances to meet cash needs under certain circumstances. We do not currently expect such regulations and restrictions to impact our ability to pay vendors and conduct operations throughout our global organization. 
+ 
+ Contractual Commitments 
+ 
+ Our cash flows from operations are dependent on a number of factors, including fluctuations in our operating results, accounts receivable collections, inventory management, and the timing of tax and other payments. As a result, the impact of contractual obligations on our liquidity and capital resources in future periods should be analyzed in conjunction with such factors. 
+ 
+ The following table summarizes our total contractual obligations at October 31, 2024, for Agilent operations and excludes amounts recorded in our consolidated balance sheet (in millions): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Less than one year 
+ 
+ One to three years 
+ 
+ Three to five years 
+ 
+ More than five years 
+ 
+ Commitments to contract manufacturers and suppliers 
+ $ 
+ 601 
+ 
+ 
+ $ 
+ 40 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ Other purchase commitments 
+ 128 
+ 
+ 
+ 8 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ Total 
+ $ 
+ 729 
+ 
+ 
+ $ 
+ 48 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ Commitments to Contract Manufacturers and Suppliers. We purchase components from a variety of suppliers and use several contract manufacturers to provide manufacturing services for our products. During the normal course of business, we issue purchase orders with estimates of our requirements several months ahead of the delivery dates. The above amounts represent the commitments under the open purchase orders with our suppliers that have not yet been received. However, our agreements with these suppliers usually provide us the option to cancel, reschedule, and adjust our requirements based on our business needs prior to firm orders being placed. We expect to fulfill most of our purchase commitments for inventory within one year. 
+ 
+ Other Purchase Commitments. We have categorized "other purchase commitments" related to contracts with professional services suppliers. Typically, we can cancel contracts with professional services suppliers without penalties. For those contracts that are not cancelable without penalties, there are termination fees and costs or commitments for continued spending that we are obligated to pay to a supplier under each contact's termination period before such contract can be cancelled. Our contractual obligations with these suppliers under "other purchase commitments" were approximately $136 million. 
+ 
+ We had no material off-balance sheet arrangements as of October 31, 2024, or October 31, 2023. 
+ 
+ On Balance Sheet Arrangements 
+ 
+ The following table summarizes our total contractual obligations on our October 31, 2024 balance sheet (in millions): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Less than one year 
+ 
+ One to three years 
+ 
+ Three to five years 
+ 
+ More than five years 
+ 
+ Senior notes 
+ $ 
+ — 
+ 
+ 
+ $ 
+ 900 
+ 
+ 
+ $ 
+ 500 
+ 
+ 
+ $ 
+ 1,950 
+ 
+ 
+ Other loans - BIOVECTRA 
+ 5 
+ 
+ 
+ 8 
+ 
+ 
+ 4 
+ 
+ 
+ 7 
+ 
+ 
+ Commercial paper 
+ 40 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ Interest expense 
+ 107 
+ 
+ 
+ 276 
+ 
+ 
+ 131 
+ 
+ 
+ 124 
+ 
+ 
+ Transition tax 
+ 41 
+ 
+ 
+ 51 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ Operating leases 
+ 48 
+ 
+ 
+ 66 
+ 
+ 
+ 34 
+ 
+ 
+ 65 
+ 
+ 
+ Total 
+ $ 
+ 241 
+ 
+ 
+ $ 
+ 1,301 
+ 
+ 
+ $ 
+ 669 
+ 
+ 
+ $ 
+ 2,146 
+ 
+ 
+ Other long-term liabilities as of October 31, 2024 and October 31, 2023 include $115 million and $162 million, respectively, related to long-term income tax liabilities. Of these amounts, $64 million and $68 million related to uncertain tax positions as of October 31, 2024 and October 31, 2023, respectively. We are unable to accurately predict when these amounts 
+ 
+ 
+ 55 
+ 
+ 
+ will be realized or released. However, it is reasonably possible that there could be significant changes to our unrecognized tax benefits in the next twelve months due to either the expiration of a statute of limitations or a tax audit settlement. As of October 31, 2024, the remaining $51 million included in other long-term liabilities relates to the U.S. transition tax payment which is due within the next two years. 
+ 
+ 

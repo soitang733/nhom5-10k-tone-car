@@ -1,0 +1,3247 @@
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (MD&A) 
+ This combined MD&A is separately filed by Public Service Enterprise Group Incorporated (PSEG) and Public Service Electric and Gas Company (PSE&G). Information contained herein relating to any individual company is filed by such company on its own behalf. 
+ PSEG’s business consists of two reportable segments, PSE&G and PSEG Power LLC (PSEG Power) & Other, primarily comprised of our principal direct wholly owned subsidiaries, which are: 
+ • PSE&G —which is a public utility engaged principally in the transmission of electricity and distribution of electricity and natural gas in certain areas of New Jersey. PSE&G is subject to regulation by the New Jersey Board of Public Utilities (BPU) and the Federal Energy Regulatory Commission (FERC). PSE&G also invests in regulated solar generation projects and energy efficiency (EE) and related programs in New Jersey, which are regulated by the BPU, and 
+ • PSEG Power —which is an energy supply company that integrates the operations of its merchant nuclear generating assets with its fuel supply functions through competitive energy sales via its principal direct wholly owned subsidiaries. PSEG Power’s subsidiaries are subject to regulation by FERC, the Nuclear Regulatory Commission (NRC), the Environmental Protection Agency and the states in which they operate. 
+ 
+ 
+ 33 
+ 
+ 
+ Table of Contents 
+ 
+ The PSEG Power & Other reportable segment also includes amounts related to the parent company as well as PSEG’s other direct wholly owned subsidiaries, which are: PSEG Energy Holdings L.L.C. (Energy Holdings), which holds our investments in legacy lease investments and investments in offshore wind ventures; PSEG Long Island LLC (PSEG LI), which operates the Long Island Power Authority’s (LIPA) transmission and distribution (T&D) system under an Operations Services Agreement (OSA); and PSEG Services Corporation (Services), which provides certain management, administrative and general services to PSEG and its subsidiaries at cost. 
+ Our business discussion in ITEM 1. Business provides a review of the regions and markets where we operate and compete, as well as our strategy for conducting our businesses within these markets, focusing on operational excellence, financial strength and making disciplined investments. Our risk factor discussion in ITEM 1A. Risk Factors provides information about factors that could have a material adverse impact on our businesses. The following discussion provides an overview of the significant events and business developments that have occurred during 2022 and key factors that we expect may drive our future performance. This discussion refers to the Consolidated Financial Statements (Statements) and the related Notes to the Consolidated Financial Statements (Notes). This discussion should be read in conjunction with such Statements and Notes. 
+ 
+ EXECUTIVE OVERVIEW OF 2022 AND FUTURE OUTLOOK 
+ We are a public utility holding company that, acting through our wholly owned subsidiaries, is a predominantly regulated electric and gas utility and a nuclear generation business. Our business plan focuses on achieving growth by allocating capital primarily toward regulated investments in an effort to continue to improve the sustainability and predictability of our business. We are focused on investing to modernize our energy infrastructure, improve reliability and resilience, increase EE and deliver cleaner energy to meet customer expectations and be well aligned with public policy objectives. In furtherance of these goals, over the past few years, our investments have simplified our business mix to reflect a higher percentage of earnings contribution by PSE&G. We have further proactively changed our business mix through the sale of our fossil generation portfolio which closed in 2022. See ITEM 8. Note 4. Early Plant Retirements/Asset Dispositions and Impairments for additional information. In addition, the passage of the Inflation Reduction Act (IRA) established a Production Tax Credit (PTC) for nuclear from 2024 through 2032 which is expected to provide downside price protection for our nuclear generation fleet. 
+ PSE&G 
+ At PSE&G, our focus is on investing capital in T&D infrastructure and clean energy programs to enhance the reliability and resiliency of our T&D system, meet customer expectations and support public policy objectives. For the years 2023-2027, PSE&G’s capital investment program is estimated to be in a range of $15.5 billion to $18 billion, resulting in an expected compound annual growth in rate base of 6% to 7.5% from year-end 2022 to year-end 2027. The low end of this range includes an extension of our Gas System Modernization Program (GSMP) and Clean Energy Future (CEF)-EE program at their average annual investment levels plus inflation, as these programs are expected to continue beyond their currently approved timeframe of 2023. The upper end of our capital investment range includes an extension of our Energy Strong program, which otherwise concludes in 2024, as well as the remaining portion of our CEF proposal (portion of Electric Vehicle (EV) and Energy Storage (ES) programs) and a potentially higher amount of investments for GSMP and CEF-EE beyond current levels. We filed for a $320 million short-term extension of our CEF-EE program in September 2022, which we expect will be resolved in 2023. A remaining component of our CEF-EV program related to medium and heavy duty charging infrastructure has been the subject of a stakeholder process that the BPU began in 2021 and we expect that this effort will result in PSE&G submitting a filing targeting infrastructure investments for the medium and heavy duty EV market in 2023. Our CEF-ES program is being held in abeyance. In September 2022, the BPU released a draft Storage Incentive Program proposal and is currently undertaking a stakeholder process to receive comments. PSE&G is active in the proceeding. Pursuant to our GSMP II and Energy Strong II programs, we are required to file a distribution base rate case no later than December 31, 2023. Among other things, the rate case will recover capital expenditures associated with these programs, as well as the Advanced Metering Infrastructure and EV programs, and other investments that are not recovered through periodic rate roll-ins. We expect to conclude the case in the second half of 2024. 
+ PSEG Power 
+ At PSEG Power, we seek to produce low-cost electricity by efficiently operating our nuclear generation assets, mitigate volatility by contracting in advance for a significant portion of their output and support public policy objectives that preserve these existing nuclear generating plants. During 2022, our nuclear units generated 31.3 terawatt hours and operated at a capacity factor of 92.2%. 
+ We recently closed the sale of our Solar generation and Fossil generation businesses in 2021 and 2022, respectively. These transformative transactions reduced our overall business risk and earnings volatility. 
+ PSEG Power’s hedging practices help to mitigate a significant amount of the earnings volatility of the merchant nuclear power business. More than 90% of PSEG Power’s expected gross margin in 2023 relates to hedging of our energy margin, our expected revenues from the capacity market mechanism, Zero Emission Certificate (ZEC) revenues and, certain gas operations 
+ 
+ 
+ 34 
+ 
+ 
+ Table of Contents 
+ 
+ and ancillary service payments such as reactive power. While this limits our exposure to decreasing prices, our ability to realize benefits from rising market prices is also limited. During the second half of 2021 and continuing throughout 2022, forward energy prices have demonstrated considerable price volatility and have increased dramatically. This has led to significantly higher variation in our collateral requirements, which have also increased substantially over that time period for hedge positions that are out-of-the money. PSEG Power’s net cash collateral postings related to these hedge positions increased from $343 million at the end of June 2021 to $1.5 billion at the end of December 2022. Subsequent to December 2022, collateral postings continued to experience significant fluctuations in our daily collateral requirements. Net cash collateral postings were approximately $700 million as of February 17, 2023. While currently off their highs experienced during 2022, collateral postings could remain volatile into 2023. However, as historical lower-priced trades continue to settle through 2024, collateral is expected to be returned as we satisfy our obligations under those contracts. PSEG continues to maintain sufficient liquidity as described in Liquidity and Capital Resources. 
+ Climate Strategy and Sustainability Efforts 
+ For more than a century, our purpose has been to provide safe access to an around-the-clock supply of reliable, affordable energy. Today, our vision is to power a future where people use less energy, and it is cleaner, safer and delivered more reliably than ever. We have established a net zero greenhouse gas (GHG) emissions by 2030 goal that includes direct GHG emissions (Scope 1) and indirect GHG emissions from operations (Scope 2) across our operations, assuming advances in technology, public policy and customer behavior. Scope 1 emissions include power generation, methane leaks, vehicle fleet emissions, and sulfur hexafluoride and refrigerant leaks. Scope 2 emissions include both gas and electric purchased energy for our PSE&G facilities and line losses. We have also committed to the United Nations-backed Race to Zero campaign. We continue to evaluate and are working toward developing and submitting science-based emission reduction targets following the criteria and recommendations of the Science Based Targets initiative (SBTi) by September 2023 which encompass Scopes 1, 2, and 3 (the majority of which are associated with the downstream use of energy products) and seek to be in line with 1.5 o C emissions scenarios in order to be validated by the SBTi. 
+ PSE&G has undertaken a number of initiatives that support the reduction of GHG emissions and the implementation of EE initiatives. PSE&G’s approved CEF-EE, CEF-Energy Cloud and CEF-EV programs and the proposed CEF-ES program are intended to support New Jersey’s Energy Master Plan through programs designed to help customers increase their EE, support the expansion of the EV infrastructure in the State, install energy storage capacity to supplement solar generation and enhance grid resiliency, install smart meters and supporting infrastructure to allow for the integration of other clean energy technologies and to more efficiently respond to weather and other outage events. 
+ In addition, PSE&G is committed to the safe and reliable delivery of natural gas to approximately 1.9 million customers throughout New Jersey and we are equally committed to reducing GHG emissions associated with such operations. The first phase of our GSMP replaced approximately 450 miles of cast-iron and unprotected steel gas main infrastructure, and the second phase of this program is expected to replace an additional 875 miles of gas pipes through 2023. The GSMP is designed to significantly reduce natural gas leaks in our distribution system, which would reduce the release of methane, a potent GHG, into the air. Through GSMP II, from 2018 through 2023 we expect to reduce methane leaks by approximately 22% system wide and assuming a continuation of GSMP, we expect to achieve an overall reduction in methane emissions of approximately 60% over the 2011 through 2030 period. We also continue to assess physical risks of climate change and adapt our capital investment program to improve the reliability and resiliency of our system in an environment of increasing frequency and severity of weather events, notably through our investments in our Energy Strong program and Infrastructure Advancement Program. These investments have shown benefits in recent severe weather events, including Tropical Storm Ida in August 2021, which brought significant flooding to our service territory but did not result in the loss of any of our electric distribution substations. 
+ We also continue to focus on providing cleaner energy for our customers. Our priority is to preserve the economic viability of our nuclear units, which provide over 85% of the carbon-free energy in New Jersey, by advocating for state and federal policies, such as the IRA discussed below, that recognize the value of carbon-free generation and reduce market risk. 
+ In February 2023, New Jersey Governor Murphy issued three executive orders that establish targets, or accelerate previously established 2050 targets, for clean-sourced energy, building electrification, and EV adoption goals, with new target dates of 2030 or 2035, as applicable. The executive orders direct the BPU and other state agencies to collaborate with stakeholders to develop plans, including the new 2024 Energy Master Plan, to reach the targets and convene a stakeholder proceeding to develop a new plan for gas distribution utilities to reach the target, previously established in a 2021 executive order, of 50% natural gas emissions reductions over 2006 levels by 2030. Such proceeding is to consider competitive market mechanisms including adoption of a “clean heat” standard, policies to minimize investment in new gas infrastructure, and alternative programs that could provide natural gas utilities with new revenue streams, such as conversion of existing pipeline infrastructure to provide decarbonized heating and cooling (for example, district geothermal). We are unable to predict the 
+ 
+ 
+ 35 
+ 
+ 
+ Table of Contents 
+ 
+ outcomes of the various proceedings, but they could have a material impact on our business, results of operations and cash flows. 
+ Offshore Wind 
+ PSEG holds a 25% equity interest in Ørsted North America Inc.’s (Ørsted) Ocean Wind 1 project which is currently in development. 
+ In January 2023, PSEG agreed to sell to Ørsted its 25% equity interest in Ocean Wind JV HoldCo, LLC. The sale proceeds approximate PSEG’s carrying value of the investment and no material gain or loss is expected upon disposition. The sale is contingent upon finalization of a purchase and sale agreement with Ørsted and other closing conditions as well as potential state regulatory approval that may be required to close on the transaction. The sale is expected to close in the first half of 2023. PSEG has no further obligation to make any capital contributions to the project prior to closing on the transaction. PSEG will continue to provide construction management and environmental permitting services for the onshore substations and transmission cable installation scope of the project. 
+ Additionally, PSEG and Ørsted each owns 50% of Garden State Offshore Energy LLC (GSOE) which holds rights to an offshore wind lease area just south of New Jersey. PSEG has decided not to exercise its option to purchase 50% of Ørsted’s Skipjack projects in Maryland (one of which would utilize a portion of the GSOE lease area) or pursue an ownership interest in Ørsted’s Ocean Wind 2 offshore wind project or other offshore wind generation projects. PSEG is evaluating its options for the potential sale of its interest in GSOE . 
+ In 2021-2022, PJM Interconnection, L.L.C. (PJM) conducted its first-ever public policy Order 1000 transmission solicitation process utilizing the state agreement approach for transmission projects to support New Jersey’s planned offshore wind generation. The state agreement approach requires customers in the requesting state - in this case New Jersey - to pay for the costs of these public policy transmission projects. PSEG and Ørsted jointly submitted several proposals in response to the solicitation, including multi-spur options and an offshore network proposal. The BPU completed its review of offshore wind transmission in October 2022 and awarded several on-shore, though no offshore, solutions. PSE&G was awarded $40 million for transmission upgrades. The BPU also indicated that it would consider conducting an additional solicitation to address the State’s increased offshore wind generation targets. 
+ Financial Results 
+ The financial results for PSEG, PSE&G and PSEG Power for the years ended December 31, 2022 and 2021 are presented as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended December 31, 
+ 
+ 
+ 
+ 
+ 
+ 2022 
+ 
+ 2021 
+ 
+ 
+ 
+ 
+ 
+ Millions, except per share data 
+ 
+ 
+ 
+ PSE&G 
+ 
+ $ 
+ 1,565 
+ 
+ 
+ $ 
+ 1,446 
+ 
+ 
+ 
+ 
+ PSEG Power & Other 
+ 
+ (534) 
+ 
+ 
+ (2,094) 
+ 
+ 
+ 
+ 
+ PSEG Net Income (Loss) 
+ 
+ $ 
+ 1,031 
+ 
+ 
+ $ 
+ (648) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PSEG Net Income (Loss) Per Share (Diluted) 
+ 
+ $ 
+ 2.06 
+ 
+ 
+ $ 
+ (1.29) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For a detailed discussion of our financial results, see Results of Operations. 
+ Regulatory, Legislative and Other Developments 
+ We closely monitor and engage with stakeholders on significant regulatory and legislative developments. Distribution investment needs and scope and transmission planning and rates rules, as well as wholesale power market design, including clarification from the U.S. Treasury on PTCs for electricity generation using nuclear energy, are of particular importance to our results and we continue to advocate for policies and rules that promote fair and efficient electricity markets. For additional information about regulatory, legislative and other developments that may affect us, see ITEM 1. Business—Regulatory Issues. 
+ Transmission Rate Proceedings and Return on Equity (ROE) 
+ In October 2021, FERC approved a settlement agreement effective August 1, 2021 that we reached with the BPU and the New Jersey Division of Rate Counsel about the level of PSE&G’s base transmission ROE and other formula rate matters. The settlement reduces PSE&G’s base ROE from 11.18% to 9.9% and makes several other changes regarding the recovery of certain costs. The agreement provides that the settling parties will not seek changes to our transmission formula rate for three years. We have implemented the terms of the agreement. 
+ 
+ 
+ 36 
+ 
+ 
+ Table of Contents 
+ 
+ Under current FERC rules, we continue to earn a 50 basis point adder to that base ROE for our membership in PJM. FERC is considering whether to eliminate this adder and the outcome and timing of any decision is uncertain. If the adder was eliminated it would reduce PSE&G’s annual Net Income and annual cash inflows by approximately $30 million to $40 million. 
+ Wholesale Power Market Design 
+ In December 2022, PJM ran a Base Residual Auction for the Delivery Year 2024-2025 but it has not yet announced the results of the auction. Instead, based on what it observed in the auction, PJM made emergency filings at FERC to change the way in which it calculates the clearing prices for capacity zones under certain circumstances. As a result, PSEG does not yet know the level of capacity payments it may receive in this auction. The filings at FERC are pending and we cannot predict the outcome. 
+ Environmental Regulation 
+ We are subject to liability under environmental laws for the costs and penalties of remediating contamination of property now or formerly owned by us and of property contaminated by hazardous substances that we generated. In particular, the historic operations of PSEG companies and the operations of numerous other companies along the Passaic and Hackensack Rivers are alleged by federal and state agencies to have discharged substantial contamination into the Passaic River/Newark Bay Complex in violation of various statutes. In addition, PSEG Power has retained ownership of certain liabilities excluded from the sale of its fossil generation portfolio, primarily related to obligations under New Jersey and Connecticut state law to investigate and remediate the sites. We are also currently involved in a number of proceedings relating to sites where other hazardous substances may have been discharged and may be subject to additional proceedings in the future, and the costs and penalties of any such remediation efforts could be material. 
+ For further information regarding the matters described above, as well as other matters that may impact our financial condition and results of operations, see ITEM 8. Note 15. Commitments and Contingent Liabilities. 
+ Nuclear 
+ In April 2021, PSEG Power’s Salem 1, Salem 2 and Hope Creek nuclear plants were awarded ZECs for the three-year eligibility period starting June 2022 at the same approximate $10 per megawatt hour (MWh) received during the prior ZEC period through May 2022. Pursuant to a process established by the BPU, ZECs are purchased from selected nuclear plants and recovered through a non-bypassable distribution charge in the amount of $0.004 per kilowatt-hour used (which is equivalent to approximately $10 per MWh generated in payments to selected nuclear plants (ZEC payment)). As previously noted, in August 2022, the IRA was signed into law expanding incentives promoting carbon-free generation. The enacted legislation established the PTC for electricity generation using nuclear energy set to begin in 2024 through 2032. The expected PTC rate is up to $15/MWh subject to adjustment based upon a facility’s gross receipts. The PTC rate and the gross receipts cap are subject to annual inflation adjustments. The U.S. Treasury is expected to clarify the definition of gross receipts prior to when the eligibility period begins in 2024. We are continuing to analyze the impact of the IRA on our nuclear units including additional future guidance from the U.S. Treasury and the impact of PTCs on expected ZEC payments. See ITEM 8. Note 4. Early Plant Retirements/Asset Dispositions and Impairments for additional information. 
+ Current Inflationary Environment 
+ The current inflationary environment has prompted the Federal Reserve to tighten monetary policy resulting in higher interest rates, which have impacted financial markets, reducing the value of fixed income investments and created uncertainty about the future economic outlook weakening equity markets. These factors have resulted in negative returns on our pension assets during 2022. As our pension costs are set at the beginning of the calendar year, there was no impact on pension costs for 2022 resulting from asset performance during the year. However, pension costs in 2023 will be and future years are expected to be materially impacted from returns on 2022 pension assets. The higher interest rates translate into a higher discount rate for our pension obligations, which lowers our pension liability and positively affects our funded ratio, which remains strong. 
+ In February 2023, PSE&G received an accounting order from the BPU authorizing PSE&G to modify its method for calculating the amortization of the net actuarial gain or loss component of pension expense for ratemaking purposes. This order will mitigate some of the volatility in earnings and customer rates related to our pension trust performance, and is effective for calendar year 2023 and forward. As a result of this order, PSEG’s 2023 pension expense, net of amounts capitalized, will be reduced by $59 million, resulting in a pension credit of $16 million. 
+ Further, higher interest rates on borrowings will contribute to higher interest expense on variable rate debt, which has increased due to cash collateral postings, and to long-term rates on future financing plans. During September and October 2022, PSEG entered into floating-to-fixed interest rate swaps totaling $1.05 billion in order to reduce the volatility in interest expense for PSEG Parent’s $500 million variable rate term loan due May 2023 and a portion of PSEG Power’s $1.25 billion variable rate term loan due March 2025. Inflation will also result in upward pressure on operating costs and capital spending. 
+ 
+ 
+ 37 
+ 
+ 
+ Table of Contents 
+ 
+ Tax Legislation 
+ Future federal and state tax legislation and clarification of existing legislation could have a material impact on our effective tax rate and cash tax position. 
+ The IRA enacted a new 15% corporate alternative minimum tax, effective in 2023, a PTC for existing nuclear generation facilities and allows energy tax credits to be transferable. Many aspects of the IRA remain unclear and in need of further guidance; therefore, we cannot determine the impact the IRA will have on PSEG’s and PSE&G’s results of operations, financial condition and cash flows. 
+ In 2020, the Internal Revenue Service (IRS) issued final and proposed Section 163(j) regulations addressing the limitation on deductible business interest expense, increasing the amount of interest that can be deducted by unregulated businesses in years before 2022. The portion of PSEG’s and PSEG Power’s business interest expense that was disallowed in 2018 and 2019 is now deductible in those respective years. 
+ Additionally, the federal Coronavirus Aid, Relief, and Economic Security Act (CARES Act) allowed us to carry back the 2018 tax net operating loss (NOL) generated by the final Section 163(j) regulations to 2023. In December 2022, the IRS approved our carry back claim, providing a $28 million tax benefit. 
+ Future Outlook 
+ Our future success will depend on our ability to continue to maintain strong operational and financial performance to capitalize on or otherwise address regulatory and legislative developments that impact our business and to respond to the issues and challenges described below. In order to do this, we will continue to: 
+ • obtain approval of and execute on our utility capital investment program to modernize our infrastructure, improve the reliability and resilience of the service we provide to our customers, and align our sustainability and climate goals with New Jersey’s energy policy, 
+ • seek a fair return for our T&D investments through our transmission formula rate, existing rate incentives, distribution infrastructure and clean energy investment programs and periodic distribution base rate case proceedings, 
+ • focus on controlling costs while maintaining safety, reliability and customer satisfaction and complying with applicable standards and requirements, 
+ • manage the risks and opportunities in federal and state clean energy policies, which is an integral part of our long-term strategy, 
+ • successfully manage our obligations and re-contract our open positions in response to changes in prices and demand, 
+ • advocate for appropriate regulatory guidance on the federal nuclear PTC to ensure long-term support for New Jersey’s largest carbon-free generation resource, and adapt our hedging program accordingly, 
+ • engage constructively with our multiple stakeholders, including regulators, government officials, customers, employees, investors, suppliers and the communities in which we do business, and 
+ • deliver on our human capital management strategy to attract, develop and retain a diverse, high-performing workforce. 
+ In addition to the risks described elsewhere in this Form 10-K for 2022 and beyond, the key issues and challenges we expect our business to confront include: 
+ • regulatory and political uncertainty, both with regard to transmission planning and rates policy, the role of distribution utilities and decarbonization impacts, future energy policy, design of energy and capacity markets, and environmental regulation, as well as with respect to the outcome of any legal, regulatory or other proceedings, 
+ • the current inflationary environment and associated volatility in the financial markets, including the impact on our pension fund performance and interest rates on our future financing plans, 
+ • increases in commodity prices and customer rates, which may adversely affect customer collections and future regulatory proceedings, 
+ • the increasing frequency, sophistication and magnitude of cybersecurity attacks against us and our respective vendors and business partners who may have our sensitive information and/or access to our environment, and the increasing frequency and magnitude of physical attacks on electric and gas infrastructure; 
+ • future changes in federal and state tax laws or any other associated tax guidance, and 
+ • the impact of changes in demand, natural gas and electricity prices, and expanded efforts to decarbonize several sectors of the economy. 
+ 
+ 
+ 38 
+ 
+ 
+ Table of Contents 
+ 
+ We continually assess a broad range of strategic options to maximize long-term shareholder value and address the interests of our multiple stakeholders. We consider a wide variety of factors when determining how and when to efficiently deploy capital, including the performance and prospects of our businesses; returns and the sustainability and predictability of future earnings streams; the views of investors, regulators, public policy initiatives, rating agencies, customers and employees; our existing indebtedness and restrictions it imposes; and tax considerations, among other things. Strategic options available to us include: 
+ • investments in PSE&G, including T&D facilities to enhance reliability, resiliency and modernize the system to meet the growing needs and increasingly higher expectations of customers, and clean energy investments such as CEF-EE, CEF-EV, CEF-ES and Solar, 
+ • continued operation of our nuclear generation facilities that are supported through the PTC through 2032 and can enable certain enhancements to the units as well as potential license extensions, 
+ • investments in regional offshore wind regulated transmission, should New Jersey pursue the development of an offshore network, with returns that provide revenue predictability and reasonable risk-adjusted returns, and 
+ • acquisitions, dispositions, development and other transactions involving our common stock, assets or businesses that could provide value to customers and shareholders. 
+ There can be no assurance, however, that we will successfully develop and execute any of the strategic options noted above, or any additional options we may consider in the future. The execution of any such strategic plan may not have the expected benefits or may have unexpected adverse consequences. 
+ 
+ 
+ 
+ RESULTS OF OPERATIONS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended December 31, 
+ 
+ 
+ 
+ 
+ 
+ 2022 
+ 
+ 2021 
+ 
+ 2020 
+ 
+ 
+ 
+ Earnings (Losses) 
+ 
+ Millions, except per share data 
+ 
+ 
+ 
+ PSE&G 
+ 
+ $ 
+ 1,565 
+ 
+ 
+ $ 
+ 1,446 
+ 
+ 
+ $ 
+ 1,327 
+ 
+ 
+ 
+ 
+ PSEG Power & Other (A)(B) 
+ 
+ (534) 
+ 
+ 
+ (2,094) 
+ 
+ 
+ 578 
+ 
+ 
+ 
+ 
+ PSEG Net Income (Loss) 
+ 
+ $ 
+ 1,031 
+ 
+ 
+ $ 
+ (648) 
+ 
+ 
+ $ 
+ 1,905 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PSEG Net Income (Loss) Per Share (Diluted) 
+ 
+ $ 
+ 2.06 
+ 
+ 
+ $ 
+ (1.29) 
+ 
+ 
+ $ 
+ 3.76 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (A) PSEG Power & Other results in 2022 include after-tax impairments of $92 million related to certain Energy Holdings investments and additional adjustments related to the sale of PSEG Power’s fossil generation assets. PSEG Power & Other results in 2021 include an after-tax impairment loss and other associated charges, including debt extinguishment costs, of $2,158 million related to the sale of PSEG Power’s fossil generation assets. PSEG Power & Other results in 2020 include an after-tax gain of $86 million related to the sale of Power’s ownership interest in the Yards Creek generation facility. See ITEM 8. Note 4. Early Plant Retirements/Asset Dispositions and Impairments for additional information. 
+ (B) Other includes after-tax activities at the parent company, PSEG LI and Energy Holdings as well as intercompany eliminations. 
+ PSEG Power’s results above include the Nuclear Decommissioning Trust (NDT) Fund activity and the impacts of non-trading commodity mark-to-market (MTM) activity, which consist of the financial impact from positions with future delivery dates. 
+ The variances in our Net Income attributable to changes related to the NDT Fund and MTM are shown in the following table: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended December 31, 
+ 
+ 
+ 
+ 
+ 
+ 2022 
+ 
+ 2021 
+ 
+ 2020 
+ 
+ 
+ 
+ 
+ 
+ Millions, after tax 
+ 
+ 
+ 
+ NDT Fund and Related Activity (A) (B) 
+ 
+ $ 
+ (174) 
+ 
+ 
+ $ 
+ 108 
+ 
+ 
+ $ 
+ 137 
+ 
+ 
+ 
+ 
+ Non-Trading MTM Gains (Losses) (C) 
+ 
+ $ 
+ (457) 
+ 
+ 
+ $ 
+ (446) 
+ 
+ 
+ $ 
+ (58) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (A) NDT Fund Income (Expense) includes gains and losses on NDT securities which are recorded in Net Gains (Losses) on Trust Investments. See ITEM 8. Note 11. Trust Investments for additional information. NDT Fund Income (Expense) also includes interest and dividend income and other costs related to the NDT Fund recorded in 
+ 
+ 
+ 39 
+ 
+ 
+ Table of Contents 
+ 
+ Other Income (Deductions), interest accretion expense on PSEG Power’s nuclear Asset Retirement Obligation (ARO) recorded in Operation & Maintenance (O&M) Expense and the depreciation related to the ARO asset recorded in Depreciation and Amortization (D&A) Expense. 
+ (B) Net of tax (expense) benefit of $97 million, $(70) million and $(94) million for the years ended December 31, 2022, 2021 and 2020, respectively. 
+ (C) Net of tax benefit of $178 million, $174 million and $23 million for the years ended December 31, 2022, 2021 and 2020, respectively. 
+ Net Income in 2022 as compared to a Net Loss in 2021 was driven primarily by 
+ • an impairment loss and related charges taken in 2021 as a result of the sale of the fossil generation assets at PSEG Power (see ITEM 8. Note 4. Early Plant Retirements/Asset Dispositions and Impairments for additional information), 
+ • higher earnings due to continued investments in T&D programs at PSE&G, and 
+ • the favorable impact of the Conservation Incentive Program (CIP) in 2022 at PSE&G, 
+ • partially offset by net unrealized losses on equity securities in 2022 in the NDT Fund and net realized losses in 2022 as compared to net realized gains in 2021. 
+ Our results of operations are primarily comprised of the results of operations of our principal operating segments, PSE&G and PSEG Power, excluding charges related to intercompany transactions, which are eliminated in consolidation. For additional information on intercompany transactions, see ITEM 8. Note 26. Related-Party Transactions. 
+ PSEG 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Increase / (Decrease) 
+ 
+ Increase / (Decrease) 
+ 
+ 
+ 
+ 
+ 
+ Years Ended December 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2022 
+ 
+ 2021 
+ 
+ 2020 
+ 
+ 2022 vs. 2021 
+ 2021 vs. 2020 
+ 
+ 
+ 
+ 
+ 
+ Millions 
+ 
+ Millions 
+ 
+ % 
+ 
+ Millions 
+ 
+ % 
+ 
+ 
+ 
+ Operating Revenues 
+ 
+ $ 
+ 9,800 
+ 
+ 
+ $ 
+ 9,722 
+ 
+ 
+ $ 
+ 9,603 
+ 
+ 
+ $ 
+ 78 
+ 
+ 
+ 1 
+ 
+ 
+ $ 
+ 119 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 
+ Energy Costs 
+ 
+ 4,018 
+ 
+ 
+ 3,499 
+ 
+ 
+ 3,056 
+ 
+ 
+ 519 
+ 
+ 
+ 15 
+ 
+ 
+ 443 
+ 
+ 
+ 14 
+ 
+ 
+ 
+ 
+ Operation and Maintenance 
+ 
+ 3,178 
+ 
+ 
+ 3,226 
+ 
+ 
+ 3,115 
+ 
+ 
+ (48) 
+ 
+ 
+ (1) 
+ 
+ 
+ 111 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ 
+ Depreciation and Amortization 
+ 
+ 1,100 
+ 
+ 
+ 1,216 
+ 
+ 
+ 1,285 
+ 
+ 
+ (116) 
+ 
+ 
+ (10) 
+ 
+ 
+ (69) 
+ 
+ 
+ (5) 
+ 
+ 
+ 
+ 
+ (Gains) Losses on Asset Dispositions and Impairments 
+ 
+ 123 
+ 
+ 
+ 2,637 
+ 
+ 
+ (123) 
+ 
+ 
+ (2,514) 
+ 
+ 
+ (95) 
+ 
+ 
+ 2,760 
+ 
+ 
+ N/A 
+ 
+ 
+ 
+ Income from Equity Method Investments 
+ 
+ 14 
+ 
+ 
+ 16 
+ 
+ 
+ 14 
+ 
+ 
+ (2) 
+ 
+ 
+ (13) 
+ 
+ 
+ 2 
+ 
+ 
+ 14 
+ 
+ 
+ 
+ 
+ Net Gains (Losses) on Trust Investments 
+ 
+ (265) 
+ 
+ 
+ 194 
+ 
+ 
+ 253 
+ 
+ 
+ (459) 
+ 
+ 
+ N/A 
+ 
+ (59) 
+ 
+ 
+ (23) 
+ 
+ 
+ 
+ 
+ Other Income (Deductions) 
+ 
+ 124 
+ 
+ 
+ 98 
+ 
+ 
+ 115 
+ 
+ 
+ 26 
+ 
+ 
+ 27 
+ 
+ 
+ (17) 
+ 
+ 
+ (15) 
+ 
+ 
+ 
+ 
+ Non-Operating Pension and OPEB Credits (Costs) 
+ 
+ 376 
+ 
+ 
+ 328 
+ 
+ 
+ 249 
+ 
+ 
+ 48 
+ 
+ 
+ 15 
+ 
+ 
+ 79 
+ 
+ 
+ 32 
+ 
+ 
+ 
+ 
+ Loss on Extinguishment of Debt 
+ 
+ — 
+ 
+ 
+ (298) 
+ 
+ 
+ — 
+ 
+ 
+ 298 
+ 
+ 
+ N/A 
+ 
+ (298) 
+ 
+ 
+ N/A 
+ 
+ 
+ 
+ Interest Expense 
+ 
+ 628 
+ 
+ 
+ 571 
+ 
+ 
+ 600 
+ 
+ 
+ 57 
+ 
+ 
+ 10 
+ 
+ 
+ (29) 
+ 
+ 
+ (5) 
+ 
+ 
+ 
+ 
+ Income Tax (Benefit) Expense 
+ 
+ (29) 
+ 
+ 
+ (441) 
+ 
+ 
+ 396 
+ 
+ 
+ 412 
+ 
+ 
+ (93) 
+ 
+ 
+ (837) 
+ 
+ 
+ N/A 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The 2022, 2021 and 2020 amounts in the preceding table for Operating Revenues and O&M costs each include $516 million, $511 million and $520 million, respectively, for PSEG LI’s subsidiary, Long Island Electric Utility Servco, LLC (Servco). These amounts represent the O&M pass-through costs for the Long Island operations, the full reimbursement of which is reflected in Operating Revenues. See ITEM 8. Note 5. Variable Interest Entities for additional information. The following discussions for PSE&G and PSEG Power provide a detailed explanation of their respective variances. 
+ 
+ 
+ 40 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ PSE&G 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended December 31, 
+ 
+ Increase / (Decrease) 
+ 
+ Increase / (Decrease) 
+ 
+ 
+ 
+ 
+ 
+ 2022 
+ 
+ 2021 
+ 
+ 2020 
+ 
+ 2022 vs. 2021 
+ 2021 vs. 2020 
+ 
+ 
+ 
+ 
+ 
+ Millions 
+ 
+ Millions 
+ 
+ % 
+ 
+ Millions 
+ 
+ % 
+ 
+ 
+ 
+ Operating Revenues 
+ 
+ $ 
+ 7,935 
+ 
+ 
+ $ 
+ 7,122 
+ 
+ 
+ $ 
+ 6,608 
+ 
+ 
+ $ 
+ 813 
+ 
+ 
+ 11 
+ 
+ 
+ $ 
+ 514 
+ 
+ 
+ 8 
+ 
+ 
+ 
+ 
+ Energy Costs 
+ 
+ 3,270 
+ 
+ 
+ 2,688 
+ 
+ 
+ 2,469 
+ 
+ 
+ 582 
+ 
+ 
+ 22 
+ 
+ 
+ 219 
+ 
+ 
+ 9 
+ 
+ 
+ 
+ 
+ Operation and Maintenance 
+ 
+ 1,838 
+ 
+ 
+ 1,692 
+ 
+ 
+ 1,614 
+ 
+ 
+ 146 
+ 
+ 
+ 9 
+ 
+ 
+ 78 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ 
+ Depreciation and Amortization 
+ 
+ 935 
+ 
+ 
+ 928 
+ 
+ 
+ 887 
+ 
+ 
+ 7 
+ 
+ 
+ 1 
+ 
+ 
+ 41 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ 
+ Gain on Asset Dispositions 
+ 
+ — 
+ 
+ 
+ (4) 
+ 
+ 
+ (1) 
+ 
+ 
+ 4 
+ 
+ 
+ N/A 
+ 
+ (3) 
+ 
+ 
+ N/A 
+ 
+ 
+ 
+ Net Gains (Losses) on Trust Investments 
+ 
+ (2) 
+ 
+ 
+ 2 
+ 
+ 
+ 3 
+ 
+ 
+ (4) 
+ 
+ 
+ N/A 
+ 
+ (1) 
+ 
+ 
+ (33) 
+ 
+ 
+ 
+ 
+ Other Income (Deductions) 
+ 
+ 88 
+ 
+ 
+ 88 
+ 
+ 
+ 108 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ (20) 
+ 
+ 
+ (19) 
+ 
+ 
+ 
+ 
+ Non-Operating Pension and OPEB Credits (Costs) 
+ 
+ 281 
+ 
+ 
+ 264 
+ 
+ 
+ 205 
+ 
+ 
+ 17 
+ 
+ 
+ 6 
+ 
+ 
+ 59 
+ 
+ 
+ 29 
+ 
+ 
+ 
+ 
+ Interest Expense 
+ 
+ 427 
+ 
+ 
+ 402 
+ 
+ 
+ 388 
+ 
+ 
+ 25 
+ 
+ 
+ 6 
+ 
+ 
+ 14 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ 
+ Income Tax Expense 
+ 
+ 267 
+ 
+ 
+ 324 
+ 
+ 
+ 240 
+ 
+ 
+ (57) 
+ 
+ 
+ (18) 
+ 
+ 
+ 84 
+ 
+ 
+ 35 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 2022 as compared to 2021 
+ Operating Revenues increased $813 million due to changes in delivery, clause, commodity and other operating revenues. 
+ Delivery Revenues increased $209 million. 
+ • Gas distribution revenues increased $129 million due primarily to increases of $55 million from collection of the GSMP in base rates, $54 million from higher sales volumes and $18 million in CIP decoupling revenues. 
+ • Electric distribution revenues increased $47 million due primarily to $30 million from CIP decoupling revenue and $20 million from an Energy Strong II rate roll-in. 
+ • Electric distribution and gas distribution revenue requirements were $28 million higher due primarily to a net decrease in the flowback to customers of excess deferred income tax liabilities and tax repair-related accumulated deferred income taxes, which is offset in Income Tax Expense. 
+ • Transmission revenues increased $5 million due to an increase in revenue requirements attributable to higher rate base investment, partially offset by the estimated impact of the ROE settlement. 
+ Clause Revenues increased $4 million due primarily to $35 million in higher Societal Benefits Clause (SBC) collections, partially offset by a $30 million decrease in Tax Adjustment Credits (TAC) and Green Program Recovery Charge (GPRC) deferrals. The changes in SBC collections and TAC and GPRC deferrals were entirely offset by the amortization of related costs (Regulatory Assets) in O&M, D&A and Interest and Tax Expenses. PSE&G does not earn margin on SBC collections or TAC and GPRC deferrals. 
+ Commodity Revenues increased $551 million due to higher Gas revenues and Electric revenues. The changes in Commodity Revenues for both gas and electric are entirely offset by changes in Energy Costs. PSE&G earns no margin on the provision of basic gas supply service (BGSS) and basic generation service (BGS) to retail customers. 
+ • Gas revenues increased $393 million due primarily to $335 million from higher BGSS prices and $60 million from higher BGSS sales volumes. 
+ • Electric revenues increased $158 million due primarily to $140 million from higher BGS sales volumes and $20 million from higher prices. 
+ Other Operating Revenues increased $49 million due primarily to a $25 million increase in appliance service revenues, and an $18 million increase from the Successor Solar Incentive Program (SuSI) and Solar Renewable Energy Credits (SREC) revenues. The changes in SuSI and SREC revenues are entirely offset by changes to Energy Costs. 
+ Operating Expenses 
+ Energy Costs increased $582 million. This is entirely offset by changes in Commodity Revenues and Other Operating Revenues. 
+ 
+ 
+ 41 
+ 
+ 
+ Table of Contents 
+ 
+ Operation and Maintenance increased $146 million due primarily to increases of $82 million in clause and renewable related expenses, $45 million in higher operational costs and $13 million in injuries and damages. 
+ Depreciation and Amortization increased $7 million due primarily to an increase in depreciation due to higher plant placed in service, partially offset by a decrease due to lower transmission depreciation rates effective August 1, 2021 and a decrease in the amortization of Regulatory Assets. 
+ Non-Operating Pension and OPEB Credits (Costs) increased $17 due primarily to a $51 million decrease in amortization of the net actuarial loss, partially offset by a $21 million decrease in the expected return on plan assets and a $13 million increase in interest cost. 
+ Interest Expense increased $25 million due primarily to long-term debt issuances in 2022 and 2021, partially offset by debt maturities in 2021. 
+ Income Tax Expense decreased $57 million due primarily to an increase in flowback of excess deferred income tax benefits, an increase in tax benefits from the CEF program investments, and a decrease in bad debt flow-through tax expense. 
+ Year Ended December 31, 2021 as compared to 2020 
+ See ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations in our Annual Report on Form 10-K for the year ended December 31, 2021 as filed with the SEC on February 24, 2022 for information related to the year ended December 31, 2021 as compared to 2020, which information is incorporated herein by reference. 
+ 
+ PSEG Power & Other 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended December 31, 
+ 
+ Increase / (Decrease) 
+ 
+ Increase / (Decrease) 
+ 
+ 
+ 
+ 
+ 
+ 2022 
+ 
+ 2021 
+ 
+ 2020 
+ 
+ 2022 vs. 2021 
+ 2021 vs. 2020 
+ 
+ 
+ 
+ 
+ 
+ Millions 
+ 
+ Millions 
+ 
+ % 
+ 
+ Millions 
+ 
+ % 
+ 
+ 
+ 
+ Operating Revenues 
+ 
+ $ 
+ 3,266 
+ 
+ 
+ $ 
+ 3,767 
+ 
+ 
+ $ 
+ 4,229 
+ 
+ 
+ $ 
+ (501) 
+ 
+ 
+ (13) 
+ 
+ 
+ $ 
+ (462) 
+ 
+ 
+ (11) 
+ 
+ 
+ 
+ 
+ Energy Costs 
+ 
+ 2,149 
+ 
+ 
+ 1,978 
+ 
+ 
+ 1,821 
+ 
+ 
+ 171 
+ 
+ 
+ 9 
+ 
+ 
+ 157 
+ 
+ 
+ 9 
+ 
+ 
+ 
+ 
+ Operation and Maintenance 
+ 
+ 1,340 
+ 
+ 
+ 1,534 
+ 
+ 
+ 1,501 
+ 
+ 
+ (194) 
+ 
+ 
+ (13) 
+ 
+ 
+ 33 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ 
+ Depreciation and Amortization 
+ 
+ 165 
+ 
+ 
+ 288 
+ 
+ 
+ 398 
+ 
+ 
+ (123) 
+ 
+ 
+ (43) 
+ 
+ 
+ (110) 
+ 
+ 
+ (28) 
+ 
+ 
+ 
+ 
+ (Gains) Losses on Asset Dispositions and Impairments 
+ 
+ 123 
+ 
+ 
+ 2,641 
+ 
+ 
+ (122) 
+ 
+ 
+ (2,518) 
+ 
+ 
+ (95) 
+ 
+ 
+ 2,763 
+ 
+ 
+ N/A 
+ 
+ 
+ 
+ Income from Equity Method Investments 
+ 
+ 14 
+ 
+ 
+ 16 
+ 
+ 
+ 14 
+ 
+ 
+ (2) 
+ 
+ 
+ (13) 
+ 
+ 
+ 2 
+ 
+ 
+ 14 
+ 
+ 
+ 
+ 
+ Net Gains (Losses) on Trust Investments 
+ 
+ (263) 
+ 
+ 
+ 192 
+ 
+ 
+ 250 
+ 
+ 
+ (455) 
+ 
+ 
+ N/A 
+ 
+ (58) 
+ 
+ 
+ (23) 
+ 
+ 
+ 
+ 
+ Other Income (Deductions) 
+ 
+ 36 
+ 
+ 
+ 10 
+ 
+ 
+ 7 
+ 
+ 
+ 26 
+ 
+ 
+ N/A 
+ 
+ 3 
+ 
+ 
+ 43 
+ 
+ 
+ 
+ 
+ Non-Operating Pension and OPEB Credits (Costs) 
+ 
+ 95 
+ 
+ 
+ 64 
+ 
+ 
+ 44 
+ 
+ 
+ 31 
+ 
+ 
+ 48 
+ 
+ 
+ 20 
+ 
+ 
+ 45 
+ 
+ 
+ 
+ 
+ Loss on Extinguishment of Debt 
+ 
+ — 
+ 
+ 
+ (298) 
+ 
+ 
+ — 
+ 
+ 
+ 298 
+ 
+ 
+ N/A 
+ 
+ (298) 
+ 
+ 
+ N/A 
+ 
+ 
+ 
+ Interest Expense 
+ 
+ 201 
+ 
+ 
+ 169 
+ 
+ 
+ 212 
+ 
+ 
+ 32 
+ 
+ 
+ 19 
+ 
+ 
+ (43) 
+ 
+ 
+ (20) 
+ 
+ 
+ 
+ 
+ Income Tax Expense (Benefit) 
+ 
+ (296) 
+ 
+ 
+ (765) 
+ 
+ 
+ 156 
+ 
+ 
+ 469 
+ 
+ 
+ (61) 
+ 
+ 
+ (921) 
+ 
+ 
+ N/A 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 2022 as compared to 2021 
+ Operating Revenues decreased $501 million due to changes in generation, gas supply and other operating revenues. 
+ Generation Revenues decreased $1,300 million due primarily to 
+ • a net decrease of $807 million due primarily to lower volumes sold in the PJM, New England (NE) and New York (NY) regions primarily due to the sale of the fossil generating plants in February 2022, coupled with lower average realized prices in the PJM region, partially offset by higher average realized prices in the NE and NY regions, 
+ • a net decrease of $234 million in capacity revenue due primarily to the sale of the fossil generating plants coupled with lower capacity prices in the PJM region, partially offset by decreases in capacity expenses due to lower load volumes served, 
+ • a net decrease of $216 million due primarily to lower volumes of electricity sold under the BGS contracts, partially offset by less transmission services under the BGS contracts that were transferred from the BGS suppliers to the 
+ 
+ 
+ 42 
+ 
+ 
+ Table of Contents 
+ 
+ Electric Distribution Companies (EDCs) in February 2021, 
+ • a net decrease of $37 million in ancillary revenues due primarily to the sale of the fossil generating plants, and 
+ • a net decrease of $24 million in solar revenues due to the sale of the solar plants in June 2021, 
+ • partially offset by a net increase of $16 million due to lower MTM losses in 2022 as compared to 2021. Of this amount, there was a $368 million increase due to gains on positions reclassified to realized upon settlement in 2022 as compared to losses in 2021, partially offset by a $352 million decrease due to changes in forward prices. 
+ Gas Supply Revenues increased $788 million due primarily to 
+ • a net increase of $481 million in sales under the BGSS contract due primarily to $419 million from higher prices and $62 million from higher sales volumes, 
+ • a net increase of $282 million related to sales to third parties, primarily due to $248 million from higher sales prices and $34 million from higher sales volumes, and 
+ • an increase of $25 million due primarily to changes in forward prices. 
+ Operating Expenses 
+ Energy Costs represent the cost of generation, which includes fuel costs for generation as well as purchased energy in the market, and gas purchases to meet PSEG Power’s obligation under its BGSS contract with PSE&G. Energy Costs increased $171 million due to 
+ Gas costs increased $721 million due primarily to 
+ • a net increase of $478 million related primarily to sales under the BGSS contract, of which $425 million was due to the higher average cost of gas and $53 million due to higher send out volumes, and 
+ • a net increase of $243 million related to sales to third parties, of which $213 million was due to an increase in the average cost of gas and $30 million to higher volumes sold. 
+ Generation costs decreased $550 million due primarily to 
+ • a net decrease of $413 million in fuel costs, due primarily to lower volumes of gas used in the PJM, NY, and NE regions caused by the sale of the fossil generating plants, partially offset by higher gas prices. Additionally, there was a decrease in coal costs in the NE region due to the retirement of the Bridgeport Harbor 3 (BH3) plant in 2021, 
+ • a net decrease of $142 million in energy purchases due primarily to lower renewable energy credit (REC) requirements and lower ancillary charges caused by decreases in load served in the PJM and NE regions, 
+ • a net decrease of $33 million in emission costs due to the sale of the fossil generating plants, and 
+ • a net decrease of $17 million in transmission costs due primarily to the impact from transfer of responsibility for firm transmission services under BGS contracts from BGS suppliers to the EDCs, 
+ • partially offset by a net increase of $56 million due to net MTM losses in 2022 as compared to net MTM gains in 2021. Of this amount, there was a $42 million increase due to positions reclassified to realized upon settlement in 2022 as compared to 2021, coupled with a $15 million increase due to changes in forward prices. 
+ Operation and Maintenance decreased $194 million due primarily to the sale of the fossil generating plants in February 2022 and the sale of our ownership interest in the solar plants in June 2021. 
+ Depreciation and Amortization decreased $123 million due primarily to ceasing depreciation expense on the then pending sales of the solar and fossil generating plants since May and August 2021, respectively, and the retirement of BH3 in 2021, partially offset by higher depreciation related to an increase in the nuclear AROs in 2021. 
+ (Gains) Losses on Asset Dispositions and Impairments The $123 million loss in 2022 reflects an impairment loss of $50 million due to the sale of the fossil generating plants in February 2022, partially offset by a $5 million gain on a land sale at PSEG Power and pre-tax impairments of $78 million at Energy Holdings related to one of its domestic energy generating facilities and its real estate assets. The $2,641 million net loss in 2021 reflects impairment losses due to the sale of the fossil generating plants and other impairments, partially offset by a $63 million gain from the sale of PSEG Solar Source (Solar Source) in 2021. See ITEM 8. Note 4. Early Plant Retirements/Asset Dispositions and Impairments. 
+ Net Gains (Losses) on Trust Investments decreased $455 million due primarily to NDT investments with an increase of $224 million of net unrealized losses on equity securities as compared to 2021 and $50 million of net realized losses in 2022 as compared to $166 million of net realized gains in 2021. 
+ 
+ 
+ 43 
+ 
+ 
+ Table of Contents 
+ 
+ Other Income (Deductions) increased $26 million due primarily to lower donations at the parent company. 
+ Non-Operating Pension and OPEB Credits (Costs) increased $31 million due to a $22 million decrease in the amortization of the net actuarial loss and a $29 million increase in the expected return on plan assets, partially offset by an $18 million increase in interest cost and $2 million in co-owner charges. 
+ Loss on Extinguishment of Debt represents a loss incurred in 2021 for a make whole premium that was payable upon early redemption of all outstanding PSEG Power Senior Notes and other non-cash debt extinguishment costs. 
+ Interest Expense increased $32 million due primarily to increases from issuances of term loans at PSEG Power and term loans and commercial paper at the parent company, partially offset by the early redemption of all outstanding PSEG Power debt obligations in 2021. 
+ Income Tax Benefit decreased $469 million due primarily to a lower pre-tax loss in 2022, partially offset by the recapture of investment tax credits (ITCs) related to the sale of Solar Source in 2021, increased tax benefits on losses from the NDT qualified fund in 2022, and the tax benefit of PSEG’s federal 2018 carryback claim in 2022. 
+ Year Ended December 31, 2021 as compared to 2020 
+ Operating Revenues decreased $462 million due to changes in generation, gas supply and other operating revenues. 
+ Generation Revenues decreased $668 million due primarily to 
+ • a net decrease of $606 million due to higher MTM losses in 2021 as compared to 2020. Of this amount, there was a $624 million decrease due to changes in forward prices, partially offset by an $18 million increase due to less losses on positions reclassified to realized upon settlement in 2021, 
+ • a net decrease of $288 million due primarily to $201 million from lower volumes of electricity sold under the BGS contracts, coupled with an $87 million impact from the transfer of responsibility for firm transmission services from BGS suppliers to the EDCs, and 
+ • a net decrease of $29 million in solar revenues due to the sale of the solar plants in June 2021, 
+ • partially offset by a net increase of $188 million due primarily to higher average realized prices and higher volumes sold in the PJM, NE and NY regions, and 
+ • a net increase of $64 million in capacity revenues due primarily to increases in auction prices, coupled with decreases in capacity charges due to lower BGS and other load obligations in the PJM region, partially offset by lower capacity prices and the retirement of the BH3 coal plant in the NE region. 
+ Gas Supply Revenues increased $182 million due primarily to 
+ • a net increase of $106 million in sales under the BGSS contract due primarily to higher prices of $72 million and higher sales volumes of $34 million, and 
+ • a net increase of $74 million related to sales to third parties, of which $90 million was due to higher average sales prices, partially offset by $16 million due to lower volumes sold. 
+ Operating Expenses 
+ Energy Costs represent the cost of generation, which includes fuel costs for generation as well as purchased energy in the market, and gas purchases to meet PSEG Power’s obligation under its BGSS contract with PSE&G. Energy Costs increased $157 million due to 
+ Generation costs decreased $13 million due primarily to 
+ • a net decrease of $147 million in transmission costs due primarily to an $87 million impact from the transfer of responsibility for firm transmission services under BGS contracts from BGS suppliers to the EDCs, coupled with a $60 million decrease in other transmission costs, mainly from lower volumes of electricity sold under the BGS contracts, and 
+ • a net decrease of $66 million due to higher net MTM gains in 2021. Of this amount, there was a $52 million decrease due to changes in forward prices, coupled with a $14 million decrease due to more gains on positions reclassified to realized upon settlement in 2021, 
+ • partially offset by a net increase of $157 million in fuel costs, reflecting higher gas prices and higher volumes in the PJM, NY, and NE regions, and 
+ • a net increase of $42 million in energy purchases due primarily to an increase in purchased volumes in the PJM region to meet physical energy sales. This was partially offset by a decrease in REC requirements caused by decreases in load served in the PJM region. 
+ 
+ 
+ 44 
+ 
+ 
+ Table of Contents 
+ 
+ Gas costs increased $170 million due primarily to 
+ • a net increase of $103 million in costs related to sales under the BGSS contract, of which $74 million was due to the higher average cost of gas and $29 million to higher send out volumes. Included in the 2020 average cost of gas were $18 million of interstate gas pipeline refunds due to a settlement on pipeline rates from prior periods, and 
+ • a net increase of $67 million related to sales to third parties, of which $81 million was due to an increase in the average cost of gas, partially offset by a decrease of $14 million due to lower volumes sold. 
+ Operation and Maintenance increased $33 million due primarily to a refueling outage in 2021 at our 100%-owned Hope Creek nuclear plant as compared to an outage in 2020 at our 57%-owned Salem 2 nuclear plant and severance costs related to the sale of the fossil generating plants, partially offset by lower costs in 2021 due to the sale of our ownership interest in the solar plants in June 2021. 
+ Depreciation and Amortization decreased $110 million due primarily to ceasing depreciation expense on the solar and fossil generating plants since May and August, 2021, respectively, and the retirement of BH3 in 2021. 
+ (Gains) Losses on Asset Dispositions and Impairments The loss in 2021 primarily reflects a $2,691 million impairment due to the sale of the fossil generating plants and other impairments, partially offset by a $63 million gain from the sale of the solar plants. The $122 million gain in 2020 was due to the sale of our ownership interest in the Yards Creek generation facility. See ITEM 8. Note 4. Early Plant Retirements/Asset Dispositions and Impairments. 
+ Net Gains (Losses) on Trust Investments decreased $58 million due primarily to a $101 million decrease in net unrealized gains on equity investments in the NDT Fund, partially offset by a $46 million increase in net realized gains on NDT Fund investments. 
+ Other Income (Deductions) increased $3 million due primarily to less purchases of NOL tax benefits under the New Jersey Technology Tax Benefit Transfer Program at the parent company and higher interest and dividend income on NDT Fund investments in 2021, partially offset by higher donations at the parent company. 
+ Non-Operating Pension and OPEB Credits (Costs) increased $20 million due to a $19 million decrease in interest cost and a $9 million increase in the expected return on plan assets, partially offset by a $5 million increase in the amortization of net prior service cost and net actuarial loss and $3 million in co-owner charges. 
+ Loss on Extinguishment of Debt represents a loss incurred in 2021 for a make whole premium that was payable upon early redemption of all remaining outstanding Senior Notes and other non-cash debt extinguishment costs. 
+ Interest Expense decreased $43 million due primarily to the early redemption of all remaining outstanding debt obligations of PSEG Power in October 2021. 
+ Income Tax Expense decreased $921 million due primarily to lower pre-tax income in 2021, partially offset by the recapture of ITCs related to the sale of the solar plants in 2021, the tax benefit in 2020 from changes in uncertain tax positions as a result of the settlement of the 2011-2016 federal income tax audits, and the purchase of less New Jersey NOL tax benefits in 2021. 
+ 
+ LIQUIDITY AND CAPITAL RESOURCES 
+ The following discussion of our liquidity and capital resources is on a consolidated basis, noting the uses and contributions, where material, of our two direct major operating subsidiaries. 
+ Financing Methodology 
+ We expect our capital requirements to be met through internally generated cash flows and external financings, consisting of short-term debt for working capital needs and long-term debt for capital investments. 
+ PSE&G’s sources of external liquidity include a $1 billion multi-year revolving credit facility. PSE&G uses internally generated cash flow and its commercial paper program to meet seasonal, intra-month and temporary working capital needs. PSE&G does not engage in any intercompany borrowing or lending arrangements. PSE&G maintains back-up credit facilities in an amount sufficient to cover the commercial paper and letters of credit outstanding. PSE&G’s dividend payments to/capital contributions from PSEG are consistent with its capital structure objectives which have been established to maintain investment grade credit ratings. PSE&G’s long-term financing plan is designed to replace maturities, fund a portion of its capital program and manage short-term debt balances. Generally, PSE&G uses either secured medium-term notes or first mortgage bonds to raise long-term capital. 
+ PSEG, PSEG Power, Energy Holdings, PSEG LI and Services participate in a corporate money pool, an aggregation of daily cash balances designed to efficiently manage their respective short-term liquidity needs, which are accounted for as intercompany loans. Long Island Electric Utility Servco, LLC (Servco) does not participate in the corporate money pool. Servco’s short-term liquidity needs are met through an account funded and owned by LIPA. 
+ 
+ 
+ 45 
+ 
+ 
+ Table of Contents 
+ 
+ PSEG and PSEG Power have access through sub-limits to a revolving Master Credit Facility, which provides for $2.75 billion of multi-year credit capacity. The current PSEG sub-limit is $1.5 billion and current PSEG Power sub-limit is $1.25 billion. Sub-limits can be adjusted subject to the terms of the Master Credit Facility. 
+ PSEG’s available sources of external liquidity may include the issuance of long-term debt securities and the incurrence of additional indebtedness through our commercial paper program back-stopped by our credit facilities. Our current sources of external liquidity include the Master Credit Facility. This facility is available to back-stop PSEG’s commercial paper program, issue letters of credit and for general corporate purposes. PSEG’s Master Credit Facility and the commercial paper program are available to support PSEG’s working capital needs and are also available to make equity contributions or provide liquidity support to its subsidiaries. Additionally, from time to time, PSEG enters into short-term loan agreements designed to enhance its liquidity position. 
+ PSEG Power’s sources of external liquidity include the Master Credit Facility and PSEG Power’s letter of credit facilities. Credit capacity is primarily used to provide collateral in support of PSEG Power’s forward energy sale and forward fuel purchase contracts as the market prices for energy and fuel fluctuate, and to meet potential collateral postings in the event that PSEG Power is downgraded to below investment grade by Standard & Poor’s ( S&P) or Moody’s. PSEG Power’s dividend payments to PSEG are also designed to be consistent with its capital structure objectives which have been established to maintain investment grade credit ratings and provide sufficient financial flexibility. 
+ Operating Cash Flows 
+ We continue to expect our operating cash flows combined with cash on hand and financing activities to be sufficient to fund planned capital expenditures and shareholder dividends. 
+ For the year ended December 31, 2022, our operating cash flow decreased $233 million. The net decrease was primarily due to the sale of the fossil generation plants in February 2022, and a $244 million increase in payments to counterparties at PSEG Power and the net change at PSE&G, as discussed below. In addition, there were tax payments in 2022 as compared to tax refunds in 2021 at the parent company. 
+ PSE&G 
+ PSE&G’s operating cash flow increased $304 million from $1,724 million to $2,028 million for the year ended December 31, 2022, as compared to 2021, due primarily to decreases in vendor and electric energy payments, lower tax payments, higher earnings in 2022, and an increase in cash collateral postings received from BGS suppliers. This was partially offset by an increase in net accounts receivable due to ongoing delayed collections as a result of COVID-19 moratoriums in 2022, increases in materials and supplies to support our electric AMI program as well as an increase in material purchases in 2022 due to easing of prior year supply chain shortages, and a net increase in regulatory deferrals in 2022. 
+ Short-Term Liquidity 
+ PSEG meets its short-term liquidity requirements, as well as those of PSEG Power, primarily through the issuance of commercial paper and, from time to time, short-term loans. PSE&G maintains its own separate commercial paper program to meet its short-term liquidity requirements. Each commercial paper program is fully back-stopped by its own separate credit facility. 
+ Each of our credit facilities is restricted as to availability and use to the specific companies as listed below; however, if necessary, the PSEG facilities can also be used to support our subsidiaries’ liquidity needs. 
+ During the second half of 2021 and continuing throughout 2022, forward energy prices have demonstrated considerable price volatility and have increased dramatically. This has led to significantly higher variation in our daily collateral requirements which have also increased substantially over that time period for hedge positions that are out-of-the money. PSEG Power’s net cash collateral postings related to these hedge positions increased from $343 million at the end of June 2021 to $1.5 billion at the end of December. Subsequent to December 2022, collateral postings have decreased but PSEG Power continued to experience significant fluctuations in its daily collateral requirements. Net cash collateral postings were approximately $700 million on February 17, 2023. While currently off their highs experienced during 2022, collateral postings could remain volatile into 2023. However, as historical lower-priced trades continue to settle through 2024, collateral is expected to be returned as we satisfy our obligations under those contracts. Proceeds from the sale of Fossil, the closing of a $1.25 billion term loan in March 2022 at PSEG Power, and short-term borrowings at PSEG have contributed to available liquidity to help support PSEG Power’s collateral requirements in 2022. 
+ In March and May 2021, PSEG entered into two 364-day variable rate term loan agreements for $500 million and $750 million, respectively. In August 2021, PSEG entered into a $1.25 billion, 364-day variable rate term loan agreement. In March 2022, the $500 million term loan matured and PSEG repaid the $750 million term loan due in May 2022. In July 2022, PSEG repaid the $1.25 billion term loan due in August 2022. 
+ 
+ 
+ 46 
+ 
+ 
+ Table of Contents 
+ 
+ In April 2022 and May 2022, PSEG entered into 364-day variable rate term loan agreements for $1.5 billion and $500 million, respectively. In January 2023, PSEG repaid $750 million of the $1.5 billion term loan due in April 2023. These term loans are not included in the credit facility amounts presented in the following table. 
+ Our total committed credit facilities and available liquidity as of December 31, 2022 were as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Company/Facility 
+ 
+ As of December 31, 2022 
+ 
+ 
+ 
+ Total Facility 
+ 
+ Usage 
+ 
+ Available Liquidity 
+ 
+ 
+ 
+ 
+ 
+ Millions 
+ 
+ 
+ 
+ PSEG 
+ 
+ $ 
+ 1,500 
+ 
+ 
+ $ 
+ 202 
+ 
+ 
+ $ 
+ 1,298 
+ 
+ 
+ 
+ 
+ PSE&G 
+ 
+ 1,000 
+ 
+ 
+ 18 
+ 
+ 
+ 982 
+ 
+ 
+ 
+ 
+ PSEG Power 
+ 
+ 1,650 
+ 
+ 
+ 241 
+ 
+ 
+ 1,409 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ $ 
+ 4,150 
+ 
+ 
+ $ 
+ 461 
+ 
+ 
+ $ 
+ 3,689 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For additional information, see ITEM 8. Note 16. Debt and Credit Facilities. 
+ We continually monitor our liquidity and seek to add capacity as needed to meet our liquidity requirements, including to satisfy any additional collateral requirements. As of December 31, 2022, our liquidity position, including our credit facilities and access to external financing, was expected to be sufficient to meet our projected stressed requirements over our 12 month planning horizon. PSEG analyzes its liquidity requirements using stress scenarios that consider different events, including changes in commodity prices and the potential impact of PSEG Power losing its investment grade credit rating from S&P or Moody’s, which would represent a two level downgrade from its current Moody’s and S&P ratings. In the even t of a deterioration of PSEG Power’s credit rating, certain of PSEG Power’s agreements allow the counterparty to demand further performance assurance. The potential additional collateral that we would be required to post under these agreements if PSEG Power were to lose its investment grade credit rating was approximately $878 million and $1,151 million as of December 31, 2022 and 2021, respectively. See ITEM 8. Note 15. Commitments and Contingent Liabilities for additional discussion of PSEG Power’s agreements. 
+ Long-Term Debt Financing 
+ During the next twelve months, 
+ • PSEG has $750 million of 0.841% Senior Notes due November 2023, 
+ • PSE&G has $500 million of 2.38% of Medium-Term Notes Series I, due May 2023, and 
+ • PSE&G has $325 million of 3.25% of Medium-Term Notes, Series M, due September 2023. 
+ For additional information, see ITEM 8. Note 16. Debt and Credit Facilities. 
+ NDT Fund Obligation 
+ The NRC requires a biennial filing of the NDT fund balances against the decommissioning liability estimate. Any funding shortfalls are required to be cured prior to the next NDT reporting period. The current market downturn associated with inflation and rising interest rates is not currently expected to result in any supplemental required funding of the NDT Fund. 
+ Debt Covenants 
+ Our credit agreements contain maximum debt to equity ratios and other restrictive covenants and conditions to borrowing. We are currently in compliance with all of our debt covenants. Continued compliance with applicable financial covenants will depend upon our future financial position, level of earnings and cash flows, as to which no assurances can be given. 
+ In addition, under its First and Refunding Mortgage (Mortgage), PSE&G may issue new First and Refunding Mortgage Bonds against previous additions and improvements, provided that its ratio of earnings to fixed charges calculated in accordance with its Mortgage is at least 2 to 1, and/or against retired Mortgage Bonds. As of December 31, 2022, PSE&G’s Mortgage coverage ratio was 3.4 to 1 and the Mortgage would permit up to approximately $7.8 billion aggregate principal amount of new Mortgage Bonds to be issued against additions and improvements to its property. 
+ Default Provisions 
+ Our bank credit agreements and indentures contain various, customary default provisions that could result in the potential acceleration of indebtedness under the defaulting company’s agreement. 
+ 
+ 
+ 47 
+ 
+ 
+ Table of Contents 
+ 
+ In particular, PSEG’s bank credit agreements contain provisions under which certain events, including an acceleration of material indebtedness under PSE&G’s and PSEG Power’s respective financing agreements, a failure by PSE&G or PSEG Power to satisfy certain final judgments and certain bankruptcy events by PSE&G or PSEG Power, would constitute an event of default under the PSEG bank credit agreements. Under the PSEG bank credit agreements, it would also be an event of default if either PSE&G or PSEG Power ceases to be wholly owned by PSEG. The PSE&G and PSEG Power bank credit agreements include similar default provisions; however, such provisions only relate to the respective borrower under such agreement and its subsidiaries and do not contain cross default provisions to each other. The PSE&G and PSEG Power bank credit agreements do not include cross default provisions relating to PSEG. Each of PSE&G’s and PSEG Power’s bank credit agreements also contain limitations on the incurrence of liens by it and certain of its subsidiaries and PSEG Power’s bank credit agreements contain restrictions on the incurrence of certain subsidiary debt. 
+ PSEG’s existing notes include a cross acceleration provision that may be triggered upon the acceleration of more than $75 million of indebtedness incurred by PSEG. Such provision does not extend to an acceleration of indebtedness by any of PSEG’s subsidiaries. Under PSE&G’s medium-term note indenture, an event of default under PSE&G’s mortgage indenture and acceleration of the mortgage bonds would constitute an event of default. 
+ Ratings Triggers 
+ Our debt indentures and credit agreements do not contain any material “ratings triggers” that would cause an acceleration of the required interest and principal payments in the event of a ratings downgrade. However, in the event of a downgrade, any one or more of the affected companies may be subject to increased interest costs on certain bank debt and certain collateral requirements. In the event that we are not able to affirm representations and warranties on credit agreements, lenders would not be required to make loans. 
+ In accordance with BPU requirements under the BGS contracts, PSE&G is required to maintain an investment grade credit rating. If PSE&G were to lose its investment grade rating, it would be required to file a plan to assure continued payment for the BGS requirements of its customers. 
+ Fluctuations in commodity prices or a deterioration of PSEG Power’s credit rating to below investment grade could increase PSEG Power’s required margin postings under various agreements entered into in the normal course of business. PSEG Power believes it has sufficient liquidity to meet the required posting of collateral which would result from a credit rating downgrade to below investment grade by S&P or Moody’s at today’s market prices. 
+ Common Stock Dividends 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended December 31, 
+ 
+ 
+ 
+ Dividend Payments on Common Stock 
+ 
+ 2022 
+ 
+ 2021 
+ 
+ 2020 
+ 
+ 
+ 
+ Per Share 
+ 
+ $ 
+ 2.16 
+ 
+ 
+ $ 
+ 2.04 
+ 
+ 
+ $ 
+ 1.96 
+ 
+ 
+ 
+ 
+ in Millions 
+ 
+ $ 
+ 1,079 
+ 
+ 
+ $ 
+ 1,031 
+ 
+ 
+ $ 
+ 991 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ On February 14, 2023, our Board of Directors approved a $0.57 per share common stock dividend for the first quarter of 2023. This reflects an indicative annual dividend rate of $2.28 per share. We expect to continue to pay cash dividends on our common stock; however, the declaration and payment of future dividends to holders of our common stock will be at the discretion of the Board of Directors and will depend upon many factors, including our financial condition, earnings, capital requirements of our businesses, alternate investment opportunities, legal requirements, regulatory constraints, industry practice and other factors that the Board of Directors deems relevant. For additional information related to cash dividends on our common stock, see ITEM 8. Note 24. Earnings Per Share (EPS) and Dividends. 
+ Credit Ratings 
+ If the rating agencies lower or withdraw our credit ratings, such revisions may adversely affect the market price of our securities and serve to materially increase our cost of capital and limit access to capital. Credit Ratings shown are for securities that we typically issue. Outlooks are shown for the credit ratings at each entity and can be Stable, Negative, or Positive. There is no assurance that the ratings will continue for any given period of time or that they will not be revised by the rating agencies, if in their respective judgments, circumstances warrant. Each rating given by an agency should be evaluated independently of the other agencies’ ratings. The ratings should not be construed as an indication to buy, hold or sell any security. 
+ 
+ 
+ 48 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Moody’s (A) 
+ 
+ S&P (B) 
+ 
+ 
+ 
+ PSEG 
+ 
+ 
+ 
+ 
+ 
+ 
+ Outlook 
+ Stable 
+ 
+ Stable 
+ 
+ 
+ 
+ Senior Notes 
+ Baa2 
+ 
+ BBB 
+ 
+ 
+ 
+ Commercial Paper 
+ P2 
+ 
+ A2 
+ 
+ 
+ 
+ PSE&G 
+ 
+ 
+ 
+ 
+ 
+ 
+ Outlook 
+ Stable 
+ 
+ Stable 
+ 
+ 
+ 
+ Mortgage Bonds 
+ A1 
+ 
+ A 
+ 
+ 
+ 
+ Commercial Paper 
+ P2 
+ 
+ A2 
+ 
+ 
+ 
+ PSEG Power 
+ 
+ 
+ 
+ 
+ 
+ 
+ Outlook 
+ Stable 
+ 
+ Stable 
+ 
+ 
+ 
+ Issuer Rating 
+ Baa2 
+ 
+ BBB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (A) Moody’s ratings range from Aaa (highest) to C (lowest) for long-term securities and P1 (highest) to NP (lowest) for short-term securities. 
+ (B) S&P ratings range from AAA (highest) to D (lowest) for long-term securities and A1 (highest) to D (lowest) for short-term securities. 
+ Other Comprehensive Income 
+ For the year ended December 31, 2022, we had Other Comprehensive Loss of $200 million on a consolidated basis. The Other Comprehensive Loss was due primarily to $132 million of net unrealized losses related to Available-for-Sale Debt Securities, and a decrease of $71 million related to pension and other postretirement benefits, partially offset by $3 million of unrealized gains on derivative contracts accounted for as hedges. See ITEM 8. Note 23. Accumulated Other Comprehensive Income (Loss), Net of Tax for additional information. 
+ 
+ CAPITAL REQUIREMENTS 
+ We expect that all of our capital requirements over the next three years will come from a combination of internally generated funds and external debt financing. Projected capital construction and investment expenditures, excluding nuclear fuel purchases, for the next three years are presented in the following table. These projections include Allowance for Funds Used During Construction for PSE&G and Interest Capitalized During Construction for PSEG’s other subsidiaries. These amounts are subject to change, based on various factors. Amounts shown below for PSE&G include currently approved programs. We intend to continue to invest in infrastructure modernization and will seek to extend these and related programs as appropriate. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2023 
+ 
+ 2024 
+ 
+ 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Millions 
+ 
+ 
+ 
+ 
+ 
+ PSE&G: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Transmission 
+ 
+ $ 
+ 725 
+ 
+ 
+ $ 
+ 490 
+ 
+ 
+ $ 
+ 545 
+ 
+ 
+ 
+ 
+ Electric Distribution 
+ 
+ 1,270 
+ 
+ 
+ 960 
+ 
+ 
+ 840 
+ 
+ 
+ 
+ 
+ Gas Distribution 
+ 
+ 1,140 
+ 
+ 
+ 925 
+ 
+ 
+ 1,035 
+ 
+ 
+ 
+ 
+ Clean Energy 
+ 
+ 340 
+ 
+ 
+ 510 
+ 
+ 
+ 465 
+ 
+ 
+ 
+ 
+ Total PSE&G 
+ 
+ $ 
+ 3,475 
+ 
+ 
+ $ 
+ 2,885 
+ 
+ 
+ $ 
+ 2,885 
+ 
+ 
+ 
+ 
+ Other 
+ 
+ 165 
+ 
+ 
+ 165 
+ 
+ 
+ 170 
+ 
+ 
+ 
+ 
+ Total PSEG 
+ 
+ $ 
+ 3,640 
+ 
+ 
+ $ 
+ 3,050 
+ 
+ 
+ $ 
+ 3,055 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PSE&G 
+ PSE&G’s projections for future capital expenditures include material additions and replacements to its T&D systems to meet expected growth and to manage reliability. As project scope and cost estimates develop, PSE&G will modify its current projections to include these required investments. PSE&G’s projected expenditures for the various items reported above are primarily comprised of the following: 
+ • Transmission—investments focused on reliability improvements and replacement of aging infrastructure. 
+ • Electric and Gas Distribution—investments for new business, reliability improvements, flood mitigation, and 
+ 
+ 
+ 49 
+ 
+ 
+ Table of Contents 
+ 
+ modernization and replacement of equipment that has reached the end of its useful life. 
+ • Clean Energy—investments associated with customer EE programs, infrastructure supporting EVs and grid-connected solar. 
+ In 2022, PSE&G made $2,590 million of capital expenditures, primarily for T&D system reliability. This does not include expenditures for EE and EV programs of approximately $286 million and cost of removal, net of salvage, of $129 million, which are included in operating cash flows. 
+ Other 
+ PSEG’s other projected expenditures are primarily comprised of investments to maintain and enhance current nuclear operations and opportunities to increase nuclear generation at PSEG Power and to purchase software and office equipment at Services. 
+ In 2022, PSEG’s other capital expenditures were $105 million, excluding $193 million for nuclear fuel, primarily related to various nuclear projects at PSEG Power. 
+ Other Material Cash Requirements 
+ The following table reflects our other material cash requirements which include debt maturities and interest payments, operating lease payments and energy related purchase commitments in the respective periods in which they are due. For additional information, see ITEM 8. Note 16. Debt and Credit Facilities, Note 8. Leases and Note 15. Commitments and Contingent Liabilities. 
+ The table below does not reflect any anticipated cash payments for pension and OPEB or AROs due to uncertain timing of payments. See ITEM 8. Note 14. Pension and Other Postretirement Benefits (OPEB) and Savings Plans and Note 13. Asset Retirement Obligations (AROs) for additional information. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Amount Committed 
+ 
+ Less Than 1 Year 
+ 
+ 2 - 3 Years 
+ 
+ 4 - 5 Years 
+ 
+ Over 5 Years 
+ 
+ 
+ 
+ 
+ 
+ Millions 
+ 
+ 
+ 
+ Long-Term Recourse Debt Maturities 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PSEG 
+ 
+ $ 
+ 4,146 
+ 
+ 
+ $ 
+ 750 
+ 
+ 
+ $ 
+ 1,300 
+ 
+ 
+ $ 
+ 700 
+ 
+ 
+ $ 
+ 1,396 
+ 
+ 
+ 
+ 
+ PSE&G 
+ 
+ 12,790 
+ 
+ 
+ 825 
+ 
+ 
+ 1,100 
+ 
+ 
+ 1,300 
+ 
+ 
+ 9,565 
+ 
+ 
+ 
+ 
+ PSEG Power 
+ 
+ 1,250 
+ 
+ 
+ — 
+ 
+ 
+ 1,250 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Interest on Recourse Debt 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PSEG 
+ 
+ 563 
+ 
+ 
+ 109 
+ 
+ 
+ 172 
+ 
+ 
+ 153 
+ 
+ 
+ 129 
+ 
+ 
+ 
+ 
+ PSE&G 
+ 
+ 6,694 
+ 
+ 
+ 436 
+ 
+ 
+ 805 
+ 
+ 
+ 746 
+ 
+ 
+ 4,707 
+ 
+ 
+ 
+ 
+ PSEG Power 
+ 
+ 131 
+ 
+ 
+ 60 
+ 
+ 
+ 71 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Operating Leases 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PSE&G 
+ 
+ 109 
+ 
+ 
+ 15 
+ 
+ 
+ 22 
+ 
+ 
+ 16 
+ 
+ 
+ 56 
+ 
+ 
+ 
+ 
+ Other 
+ 
+ 126 
+ 
+ 
+ 20 
+ 
+ 
+ 31 
+ 
+ 
+ 31 
+ 
+ 
+ 44 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Energy-Related Purchase Commitments 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PSEG Power 
+ 
+ 2,415 
+ 
+ 
+ 776 
+ 
+ 
+ 935 
+ 
+ 
+ 505 
+ 
+ 
+ 199 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ $ 
+ 28,224 
+ 
+ 
+ $ 
+ 2,991 
+ 
+ 
+ $ 
+ 5,686 
+ 
+ 
+ $ 
+ 3,451 
+ 
+ 
+ $ 
+ 16,096 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CRITICAL ACCOUNTING ESTIMATES 
+ Under accounting guidance generally accepted in the United States (GAAP), many accounting standards require the use of estimates, variable inputs and assumptions (collectively referred to as estimates) that are subjective in nature. Because of this, differences between the actual measure realized versus the estimate can have a material impact on results of operations, financial position and cash flows. We have determined that the following estimates are considered critical to the application of rules that relate to the respective businesses. 
+ Accounting for Pensions and Other Postretirement Benefits (OPEB) 
+ The market-related value of plan assets held for the qualified pension and OPEB plans is equal to the fair value of these assets as of year-end. The plan assets are comprised of investments in both debt and equity securities which are valued using quoted market prices, broker or dealer quotations, or alternative pricing sources with reasonable levels of price transparency. Plan 
+ 
+ 
+ 50 
+ 
+ 
+ Table of Contents 
+ 
+ assets also include investments in unlisted real estate which is valued via third-party appraisals. We calculate pension and OPEB costs using various economic and demographic assumptions. 
+ Assumptions and Approach Used : Economic assumptions include the discount rate and the long-term rate of return on trust assets. Demographic pension and OPEB assumptions include projections of future mortality rates, pay increases and retirement patterns, as well as projected health care costs for OPEB. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Assumption 
+ 
+ 2022 
+ 
+ 2021 
+ 
+ 2020 
+ 
+ 
+ 
+ Pension 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Discount Rate 
+ 
+ 5.20 
+ % 
+ 
+ 2.94 
+ % 
+ 
+ 2.61 
+ % 
+ 
+ 
+ 
+ Expected Rate of Return on Plan Assets 
+ 
+ 7.20 
+ % 
+ 
+ 7.70 
+ % 
+ 
+ 7.70 
+ % 
+ 
+ 
+ 
+ OPEB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Discount Rate 
+ 
+ 5.16 
+ % 
+ 
+ 2.82 
+ % 
+ 
+ 2.46 
+ % 
+ 
+ 
+ 
+ Expected Rate of Return on Plan Assets 
+ 
+ 7.20 
+ % 
+ 
+ 7.69 
+ % 
+ 
+ 7.70 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The discount rate used to calculate pension and OPEB obligations is determined as of December 31 each year, our measurement date. The discount rate is determined by developing a spot rate curve based on the yield to maturity of a universe of high quality corporate bonds with similar maturities to the plan obligations. The spot rates are used to discount the estimated plan distributions. The discount rate is the single equivalent rate that produces the same result as the full spot rate curve. 
+ Our expected rate of return on plan assets reflects current asset allocations, historical long-term investment performance and an estimate of future long-term returns by asset class, long-term inflation assumptions and a premium for active management. 
+ We utilize a corridor approach that reduces the volatility of reported costs/credits. The corridor requires differences between actuarial assumptions and plan results be deferred and amortized as part of the costs/credits. This occurs only when the accumulated differences exceed 10% of the greater of the benefit obligation or the fair value of plan assets as of each year-end. For one of PSEG’s qualified pension plans, the excess would be amortized over the average remaining expected life of inactive participants, which is approximately eighteen years. For PSEG’s other qualified pension plan, the excess would be amortized over the average remaining service period of active employees, which is approximately fourteen years. 
+ Effect if Different Assumptions Used : As part of the business planning process, we have modeled future costs assuming an 8.10% expected rate of return and a 5.20% discount rate for 2023 pension costs/credits and a 5.16% discount rate for 2023 OPEB costs/credits. The 8.10% expected rate of return on assets for 2023 has increased as compared to 2022, as increasing interest rates during 2022 were a significant contributor to the reduction in pension assets during the year and drove the increase in the expected rate of return. Based upon these assumptions, we have estimated a net periodic pension expense in 2023 of approximately $21 million, or a net periodic pension credit of $16 million, net of amounts capitalized, and a net periodic OPEB credit in 2023 of approximately $43 million, or $44 million, net of amounts capitalized. Our 2023 net periodic pension amounts include the impact of the accounting order approved by the BPU authorizing PSE&G to modify its pension accounting for ratemaking purposes. See a discussion in ITEM 7. MD&A—Executive Overview of 2022 and Future Outlook for further details . Actual future pension costs/credits and funding levels will depend on future investment performance, changes in discount rates, market conditions, funding levels relative to our projected benefit obligation and accumulated benefit obligation and various other factors related to the populations participating in the pension plans. Actual future OPEB costs/credits will depend on future investment performance, changes in discount rates, market conditions, and various other factors. 
+ The following chart reflects the sensitivities associated with a change in certain assumptions. The effects of the assumption changes shown below solely reflect the impact of that specific assumption. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ % Change 
+ 
+ Impact on Benefit Obligation as of December 31, 2022 
+ 
+ Increase to Costs in 2023 
+ 
+ Increase to Costs, net of Amounts Capitalized in 2023 
+ 
+ 
+ 
+ Assumption 
+ 
+ 
+ 
+ Millions 
+ 
+ 
+ 
+ Pension 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Discount Rate 
+ 
+ (1)% 
+ 
+ $ 
+ 619 
+ 
+ 
+ $ 
+ 24 
+ 
+ 
+ $ 
+ 17 
+ 
+ 
+ 
+ 
+ Expected Rate of Return on Plan Assets 
+ 
+ (1)% 
+ 
+ N/A 
+ 
+ $ 
+ 47 
+ 
+ 
+ $ 
+ 47 
+ 
+ 
+ 
+ 
+ OPEB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Discount Rate 
+ 
+ (1)% 
+ 
+ $ 
+ 79 
+ 
+ 
+ $ 
+ 11 
+ 
+ 
+ $ 
+ 11 
+ 
+ 
+ 
+ 
+ Expected Rate of Return on Plan Assets 
+ 
+ (1)% 
+ 
+ N/A 
+ 
+ $ 
+ 4 
+ 
+ 
+ $ 
+ 4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ See ITEM 7A. Quantitative and Qualitative Disclosures About Market Risk for additional information. 
+ 
+ 
+ 51 
+ 
+ 
+ Table of Contents 
+ 
+ Derivative Instruments 
+ The operations of PSEG, PSEG Power and PSE&G are exposed to market risks from changes in commodity prices, interest rates and equity prices that could affect their results of operations and financial condition. Exposure to these risks is managed through normal operating and financing activities and, when appropriate, through executing derivative transactions. Derivative instruments are used to create a relationship in which changes to the value of the assets, liabilities or anticipated transactions exposed to market risks are expected to be offset by changes in the value of these derivative instruments. 
+ Current accounting guidance requires us to recognize all derivatives on the balance sheet at their fair value, except for derivatives that qualify for and are designated as normal purchases and normal sales contracts. 
+ Assumptions and Approach Used : In general, the fair value of our derivative instruments is determined primarily by end of day clearing market prices from an exchange, such as the New York Mercantile Exchange, Intercontinental Exchange and Nodal Exchange, or auction prices. 
+ For a small number of contracts where limited observable inputs or pricing information are available, modeling techniques are employed in determination of their fair value using assumptions reflective of contractual terms, current market rates, forward price curves, discount rates and risk factors, as applicable. 
+ For our wholesale energy business, many of the forward sale, forward purchase, option and other contracts are derivative instruments that hedge commodity price risk, but do not meet the requirements for, or are not designated as, either cash flow or fair value hedge accounting. The changes in value of such derivative contracts are marked to market through earnings as the related commodity prices fluctuate. As a result, our earnings may experience significant fluctuations depending on the volatility of commodity prices. 
+ Effect if Different Assumptions Used : Any significant changes to the fair market values of our derivatives instruments could result in a material change in the value of the assets or liabilities recorded on our Consolidated Balance Sheets and could result in a material change to the unrealized gains or losses recorded in our Consolidated Statements of Operations. 
+ For additional information regarding Derivative Financial Instruments, see ITEM 8. Note 1. Organization, Basis of Presentation and Significant Accounting Policies, Note 18. Financial Risk Management Activities and Note 19. Fair Value Measurements. 
+ Long-Lived Assets 
+ Management evaluates long-lived assets for impairment and reassesses the reasonableness of their related estimated useful lives whenever events or changes in circumstances warrant assessment. Such events or changes in circumstances may be as a result of significant adverse changes in regulation, business climate, counterparty credit worthiness, market conditions, or a determination that it is more-likely-than-not that an asset or asset group will be sold or retired before the end of its estimated useful life. 
+ Assumptions and Approach Used: In the event certain triggers exist indicating an asset/asset group may not be recoverable, an undiscounted cash flow test is performed to determine if an impairment exists. When the carrying value of a long-lived asset/asset group exceeds the undiscounted estimate of future cash flows associated with the asset/asset group, an impairment may exist to the extent that the fair value of the asset/asset group is less than its carrying amount. 
+ For PSEG Power, cash flows for long-lived assets and asset groups are determined at the lowest level for which identifiable cash flows are largely independent of the cash flows of other assets and liabilities. The cash flows from the nuclear generation units are evaluated at the portfolio level. These tests require significant estimates and judgment when developing expected future cash flows. Significant inputs may include, but are not limited to, forward power prices, expected PTC payments, ZEC payments for the New Jersey nuclear assets, fuel costs, other operating and capital expenditures, the cost of borrowing and asset sale prices and probabilities associated with any potential sale prior to the end of the estimated useful life or the early retirement of assets . The assumptions used by management incorporate inherent uncertainties that are at times difficult to predict and could result in impairment charges or accelerated depreciation in future periods if actual results materially differ from the estimated assumptions utilized in our forecasts. 
+ In addition, long-lived assets are depreciated under the straight-line method based on estimated useful lives. An asset’s operating useful life is generally based upon operational experience with similar asset types and other non-operational factors. In the ordinary course, management, together with an asset’s co-owners in the case of certain of our jointly-owned assets, makes a number of decisions that impact the operation of our generation assets beyond the current year. These decisions may have a direct impact on the estimated remaining useful lives of our assets and will be influenced by the financial outlook of the assets, including future market conditions such as forward energy and capacity prices, operating and capital investment costs and any state or federal legislation and regulations, among other items. 
+ Effect if Different Assumptions Used: The above cash flow tests, and fair value estimates and estimated remaining useful lives may be impacted by a change in the assumptions noted above and could significantly impact the outcome, triggering additional impairment tests, write-offs or accelerated depreciation. For additional information on the potential impacts on our future 
+ 
+ 
+ 52 
+ 
+ 
+ Table of Contents 
+ 
+ financial statements that may be caused by a change in the assumptions noted above, see ITEM 8. Note 4. Early Plant Retirements/Asset Dispositions and Impairments. 
+ Asset Retirement Obligations (ARO) 
+ PSE&G, PSEG Power and Services recognize liabilities for the expected cost of retiring long-lived assets for which a legal obligation exists. These AROs are recorded at fair value in the period in which they are incurred and are capitalized as part of the carrying amount of the related long-lived assets. PSE&G, as a rate-regulated entity, recognizes Regulatory Assets or Liabilities as a result of timing differences between the recording of costs and costs recovered through the rate-making process. We accrete the ARO liability to reflect the passage of time with the corresponding expense recorded in O&M Expense. 
+ Assumptions and Approach Used : Because quoted market prices are not available for AROs, we estimate the initial fair value of an ARO by calculating discounted cash flows that are dependent upon various assumptions, including: 
+ • estimation of dates for retirement, which can be dependent on environmental and other legislation, 
+ • amounts and timing of future cash expenditures associated with retirement, settlement or remediation activities, 
+ • discount rates, 
+ • cost escalation rates, 
+ • market risk premium, 
+ • inflation rates, and 
+ • if applicable, past experience with government regulators regarding similar obligations. 
+ We obtain updated nuclear decommissioning cost studies triennially unless new information necessitates more frequent updates. The most recent cost study was done in 2021. When we revise any assumptions used to calculate fair values of existing AROs, we adjust the ARO balance and corresponding long-lived asset which generally impacts the amount of accretion and depreciation expense recognized in future periods. 
+ Nuclear Decommissioning AROs 
+ AROs related to the future decommissioning of PSEG Power’s nuclear facilities comprised approximately 74% or $1,105 million of PSEG’s total AROs as of December 31, 2022. PSEG Power determines its AROs for its nuclear units by assigning probability weighting to various discounted cash flow outcomes for each of its nuclear units that incorporate the assumptions above as well as: 
+ • financial feasibility and impacts on potential early shutdown, 
+ • license renewals, 
+ • SAFSTOR alternative, which assumes the nuclear facility can be safely stored and subsequently decommissioned in a period within 60 years after operations, 
+ • DECON alternative, which assumes decommissioning activities begin after operations, and 
+ • recovery from the federal government of assumed specific costs incurred for spent nuclear fuel. 
+ Effect if Different Assumptions Used : Changes in the assumptions could result in a material change in the ARO balance sheet obligation and the period over which we accrete to the ultimate liability. Had the following assumptions been applied, our estimates of the approximate impacts on the Nuclear ARO as of December 31, 2022 are as follows: 
+ • A decrease of 1% in the discount rate would result in a $41 million increase in the Nuclear ARO. 
+ • An increase of 1% in the inflation rate would result in a $329 million increase in the Nuclear ARO. 
+ • If the federal government were to discontinue reimbursing us for assumed specific spent fuel costs as prescribed under the Nuclear Waste Policy Act, the Nuclear ARO would increase by $161 million. 
+ • If we would elect or be required to decommission under a DECON alternative at Salem and Hope Creek, the Nuclear ARO would increase by $557 million. 
+ • If PSEG Power were to increase its early shutdown probability to 100% and retire Salem and Hope Creek starting in 2032, which is significantly earlier than the end of their current license periods, the Nuclear ARO would increase by $102 million. For additional information, see ITEM 8. Note 4. Early Plant Retirements/Asset Dispositions and Impairments. 
+ 
+ 
+ 53 
+ 
+ 
+ Table of Contents 
+ 
+ Accounting for Regulated Businesses 
+ PSE&G prepares its financial statements to comply with GAAP for rate-regulated enterprises, which differs in some respects from accounting for non-regulated businesses. In general, accounting for rate-regulated enterprises should reflect the economic effects of regulation. As a result, a regulated utility is required to defer the recognition of costs (Regulatory Asset) or recognize obligations (Regulatory Liability) if the rates established are designed to recover the costs and if the competitive environment makes it probable that such rates can be charged or collected. This accounting results in the recognition of revenues and expenses in different time periods than that of enterprises that are not regulated. 
+ Assumptions and Approach Used : PSE&G recognizes Regulatory Assets where it is probable that such costs will be recoverable in future rates from customers and Regulatory Liabilities where it is probable that refunds will be made to customers in future billings. The highest degree of probability is an order from the BPU either approving recovery of the deferred costs over a future period or requiring the refund of a liability over a future period. 
+ Virtually all of PSE&G’s Regulatory Assets and Regulatory Liabilities are supported by BPU orders. In the absence of an order, PSE&G will consider the following when determining whether to record a Regulatory Asset or Liability: 
+ • past experience regarding similar items with the BPU, 
+ • treatment of a similar ITEM in an order by the BPU for another utility, 
+ • passage of new legislation, and 
+ • recent discussions with the BPU. 
+ All deferred costs are subject to prudence reviews by the BPU. When the recovery of a Regulatory Asset or payment of a Regulatory Liability is no longer probable, PSE&G charges or credits earnings, as appropriate. 
+ Effect if Different Assumptions Used : A change in the above assumptions may result in a material impact on our results of operations or our cash flows. See ITEM 8. Note 7. Regulatory Assets and Liabilities for a description of the amounts and nature of regulatory balance sheet amounts. 
+ 
+ 
+ 
+ 

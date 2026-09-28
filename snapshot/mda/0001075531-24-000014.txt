@@ -1,0 +1,2267 @@
+ ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of Operations 
+ 
+ The following discussion should be read in conjunction with our Consolidated Financial Statements and accompanying notes. 
+ 
+ We evaluate certain operating and financial measures on both an as-reported and constant-currency basis. We calculate constant currency by converting our current year operating and financial results for transactions recorded in currencies other than U.S. Dollars using the corresponding prior year monthly average exchange rates rather than the current year monthly average exchange rates. Foreign exchange rate fluctuations impacted our year-over-year growth in gross bookings, revenues, and operating expenses for the years ended December 31, 2023 and 2022. Since our expenses are generally denominated in foreign currencies on a basis similar to our revenues, our operating margins have not been significantly impacted by currency fluctuations. 
+ 
+ Overview 
+ 
+ Our mission is to make it easier for everyone to experience the world. We aim to provide consumers with a best-in-class experience offering the travel choices they want, with tailored language, payment, and other options, seamlessly connecting them with our travel service provider partners. We offer these services through five primary consumer-facing brands: Booking.com, Priceline, Agoda, KAYAK, and OpenTable. See Note 1 to our Consolidated Financial Statements for information on our operating segments. See Note 17 to our Consolidated Financial Statements for information related to revenue by geographic area. 
+ 
+ We derive substantially all of our revenues from enabling consumers to make travel service reservations. We also earn revenues from advertising services, restaurant reservations and restaurant management services, and other services, such as travel-related insurance services. 
+ 
+ Trends 
+ 
+ Since the second quarter of 2020 and through 2023, changes in accommodation room nights versus the comparable period in 2019 have generally improved as government-imposed travel restrictions due to the COVID-19 pandemic have eased and consumer demand for travel has improved. In 2022, global room nights were 52% higher than in 2021 and 6% higher than in 2019. The year-over-year growth in room nights in 2022 was driven primarily by the recovery in Europe, Asia, and Rest of World, as well as by growth in North America. In 2023, global room nights increased 17% year-over-year driven primarily by the continued recovery in Asia and strong travel demand in Europe. Our global room nights in 2023 were up about 24% versus 2019. In 2023, we saw the booking window expand compared to 2022, which benefited year-over-year room night growth in 2023. 
+ 
+ In March 2022, following Russia's invasion of Ukraine, we suspended the booking of travel services in Russia and Belarus. This led to the loss of new bookings from bookers in these countries. Excluding room nights from bookers in Russia, Ukraine, and Belarus in each comparable period, our overall room nights in 2023 were up about 17% versus 2022 and up about 29% versus 2019. 
+ 
+ We saw a negative impact on room night growth in the fourth quarter of 2023 due to the Israel-Hamas war, particularly in Israel. In the fourth quarter of 2023, global room nights increased 9% year-over-year. Excluding room nights for bookers going to and from Israel, our overall room nights were up 11% year-over-year. There was also some impact on travel trends outside of the country, such as cancellations and a drop in new bookings. If the conflict continues or expands, it may adversely affect demand for our services, particularly in nearby areas. 
+ 
+ 
+ 
+ 33 
+ 
+ 
+ Quarterly Room Nights and Change versus the prior year and 2019 
+ 
+ 
+ 
+ 
+ 
+ 
+ 34 
+ 
+ 
+ The cancellation rate in 2023 was in line with the prior year. We have observed a general improvement in cancellation rates in recent years, though we have seen periods of elevated cancellation rates from time to time. Because we recognize revenue from bookings when the traveler checks in, our reported revenue is not at risk of being reversed due to cancellations. Increases in cancellation rates can negatively impact our marketing efficiency as a result of incurring performance marketing expense at the time a booking is made even though that booking could be canceled in the future if it was booked under a flexible cancellation policy. There are many factors in addition to cancellation rates that contribute to marketing efficiency including average daily rates ("ADRs"), costs per click, foreign currency exchange rates, our ability to convert paid traffic to bookings, the timing and effectiveness of our brand marketing campaigns, and the extent to which consumers come directly to our platforms for bookings. 
+ 
+ The mix of our room nights booked for international travel in 2023 was approximately 52%, up versus approximately 46% in 2022 due in part to government-imposed limitations on international travel (travelers booking a stay at a property located outside their own country) in some parts of the world in 2022. 
+ 
+ The mix of our room nights booked on a mobile device (including room nights booked on a mobile app or via a mobile website) in 2023 increased compared to 2022. The revenue earned on a transaction from a mobile device may be less than a typical desktop transaction as we see different consumer purchasing patterns across devices. For example, accommodation reservations made on a mobile device typically are for shorter lengths of stay and have lower accommodation ADRs. The mix of our room nights booked on a mobile app in 2023 was approximately 49%, up versus approximately 44% in 2022. We continue to see favorable repeat direct booking behavior from consumers in our mobile apps, which allow us more opportunities to engage directly with consumers. 
+ 
+ Our global ADRs increased approximately 6% on a constant currency basis in 2023 as compared to 2022, driven primarily by higher ADRs in Europe and Asia. The increase in our global ADRs in 2023 as compared to 2022, was negatively impacted by approximately three percentage points from changes in geographical mix in our business driven primarily by a higher mix of room nights from Asia, which is a lower ADR region, and a lower mix of room nights from North America, which is a higher ADR region. The year-over-year increase in our global ADRs has resulted in our accommodation gross bookings growing faster than our room nights in 2023. It is difficult to predict what the trend in industry ADRs will look like going forward. 
+ 
+ We focus on relentless innovation to grow our business by providing a best-in-class user experience with intuitive, easy-to-use online platforms that aim to exceed the expectations of online consumers. We have a long-term strategy to create an ideal traveler experience, offering our customers relevant options and connections at the times and in the language they want them, making trips booked with us seamless, easy, and valuable. We refer to this as the "Connected Trip." The goal of our Connected Trip vision is to offer a differentiated and personalized online travel planning, booking, payment, and in-trip experience for each trip, enhanced by a robust loyalty program that provides value to travelers and partners across all trips. We expect these efforts to benefit our revenue growth over time, however, to the extent our non-accommodation services (e.g., airline ticket reservation services) have lower margins and increase as a percentage of our total business, our operating margins may be negatively affected. 
+ 
+ As part of our strategy to provide more payment options to consumers and travel service providers, increase the number and variety of our accommodations, and enable our long-term Connected Trip strategy, Booking.com increasingly processes transactions on a merchant basis, where it facilitates payments from travelers for the services provided. This allows Booking.com to process transactions for travel service providers and to increase its ability to offer secure and flexible transaction terms to consumers, such as the form and timing of payment. We believe that expanding these types of service offerings will benefit consumers and travel service providers, as well as our gross bookings, room night, and earnings growth rates. However, this results in additional expenses for personnel, payment processing, chargebacks (including those related to fraud), and other expenses related to these transactions, which are recorded in "Personnel" expenses and "Sales and other expenses" in our Consolidated Statements of Operations, as well as associated incremental revenues (e.g., payment card rebates), which are recorded in "Merchant revenues." To the extent more of our business is generated on a merchant basis, we incur a greater level of these merchant-related expenses, which negatively impacts our operating margins despite increases in associated incremental revenues. The mix of our gross bookings generated on a merchant basis was 54% in 2023, an increase from 44% in 2022. 
+ 
+ We have established widely-used and recognized brands through marketing and promotional campaigns. Our total marketing expenses, which are comprised of performance and brand marketing expenses that are substantially variable in nature, were $6.8 billion in 2023, up 13% versus 2022 as a result of the improving demand environment and our efforts to invest in marketing, partially offset by a year-over-year improvement in performance marketing returns on investment ("ROIs") and a higher share of room nights booked by consumers coming directly to our platforms. Our performance marketing expense, 
+ 
+ 
+ 35 
+ 
+ 
+ which represents a substantial majority of our marketing expenses, is primarily related to the use of online search engines (primarily Google), affiliate marketing, and meta-search services to generate traffic to our platforms. Our brand marketing expense is primarily related to costs associated with producing and airing digital branding and television advertising. 
+ 
+ Marketing efficiency, expressed as marketing expense as a percentage of gross bookings, and performance marketing ROIs are impacted by a number of factors that are subject to variability and are in some cases outside of our control, including ADRs, costs per click, cancellation rates, foreign currency exchange rates, our ability to convert paid traffic to booking customers, and the timing and effectiveness of our brand marketing campaigns. In recent years, we observed periods of stable or increasing ROIs. Although it is difficult to predict how performance marketing ROIs will change in the future, ROIs could be negatively impacted by increased levels of competition and other factors. When evaluating our performance marketing spend, we typically consider several factors for each channel, such as the customer experience on the advertising platform, the incremental traffic we receive, and anticipated repeat rates. Marketing efficiency can also be impacted by the extent to which consumers come directly to our platforms for bookings. Marketing expenses as a percentage of total gross bookings in 2023 were lower than in 2022 due to higher performance marketing ROIs and an increase in the share of room nights booked by consumers coming directly to our platforms. Performance marketing ROIs were higher in 2023 versus 2022 due in part to our ongoing efforts to improve the efficiency of our marketing spend. See Part I, ITEM 1A, Risk Factors - " We face risks relating to our marketing efforts. " and " We are dependent on travel service providers, restaurants, search platforms, and other third parties. " 
+ 
+ Booking.com had approximately 3.4 million properties on its website at December 31, 2023, consisting of over 475,000 hotels, motels, and resorts and over 2.9 million alternative accommodation properties (including homes, apartments, and other unique places to stay), representing an increase from over 2.7 million properties at December 31, 2022. The year-over-year increase in total properties was driven primarily by an increase in alternative accommodation properties. 
+ 
+ The mix of Booking.com's room nights booked for alternative accommodation properties in 2023 was approximately 33%, up versus approximately 30% in 2022. We have observed a longer-term trend of an increasing mix of room nights booked for alternative accommodation properties as consumer demand for these types of properties has grown, and as we have increased the number and variety of them on Booking.com. We may experience lower profit margins due to additional costs, such as increased customer service or certain partner related costs, related to offering alternative accommodations on our platforms. As our alternative accommodation business has grown, these different characteristics have negatively impacted our profit margins and this trend may continue. 
+ 
+ Although we believe that providing an extensive collection of properties, excellent customer service, and an intuitive, easy-to-use consumer experience are important factors influencing a consumer's decision to make a reservation, for many consumers, the price of the travel service is the primary factor determining whether a consumer will book. Discounting and couponing (i.e., merchandising) occurs across all of the major regions in which we operate, particularly in Asia. In some cases, our competitors are willing to make little or no profit on a transaction or offer travel services at a loss in order to gain market share. As a result, it is increasingly important to offer travel services, such as accommodation reservations, at a competitive price, whether through discounts, coupons, closed-user group rates or loyalty programs, increased flexibility in cancellation policies, or otherwise. These initiatives have resulted and, in the future, may result in lower ADRs and lower revenue as a percentage of gross bookings. Total revenue as a percentage of gross bookings was negatively impacted by investments in merchandising at Booking.com in 2023 as compared to 2022. 
+ 
+ Many taxing authorities are increasingly focused on ways to increase tax revenues and have targeted large multinational technology companies in these efforts. As a result, many countries and some U.S. states have implemented or are considering the adoption of a digital services tax or similar tax that imposes a tax on revenue earned from digital advertisements or the use of online platforms, even when there is no physical presence in the jurisdiction. Currently, rates for these taxes range from 1.5% to 10% of revenue deemed generated in the jurisdiction. The digital services taxes currently in effect, which we record in "Sales and other expenses" in the Consolidated Statements of Operations, have negatively impacted our results of operations. For more information, see Part I, ITEM 1A, Risk Factors - " We may have exposure to additional tax liabilities. " 
+ 
+ Increased regulatory focus on online businesses, including online travel businesses like ours, could result in increased compliance costs or otherwise adversely affect our business. For example, the Digital Markets Act ("DMA") and Digital Services Act ("DSA") give regulators in the EU more instruments to investigate and regulate digital businesses and impose new rules and requirements on platforms designated as "gatekeepers" under the DMA and online platforms more generally, with separate rules for "Very Large Online Platforms" (VLOP) under the DSA. In early 2023, Booking.com received a VLOP designation notice from the European Commission. The Company has met the quantitative notification criteria set forth in the DMA and expects to notify the European Commission of that fact within the required deadline. Certain of the DMA’s requirements will become enforceable later in 2024. As a result of the DMA, compliance costs may increase and changes to our 
+ 
+ 
+ 36 
+ 
+ 
+ products or business practices may be required. For information regarding risks related to the DMA and DSA, please see Part I, ITEM 1A, Risk Factors - " Our business is subject to various competition/anti-trust, consumer protection, and online commerce laws and regulations around the world, and as the size of our business grows, scrutiny of our business by legislators and regulators in these areas may intensify. " For more information on the impacts of regulations on our business, see Note 16 to our Consolidated Financial Statements. 
+ 
+ Our businesses outside of the U.S. (see Note 17 to our Consolidated Financial Statements for information related to revenue by geographic area) represent a substantial majority of our financial results, but because we report our results in U.S. Dollars, we face exposure to movements in foreign currency exchange rates as the financial results and the financial condition of our businesses outside of the U.S. are translated from local currency (principally Euros and British Pounds Sterling) into U.S. Dollars. As a result of the movements in foreign currency exchange rates, both the absolute amounts of and percentage changes in our foreign-currency-denominated net assets, gross bookings, revenues, operating expenses, and net income as expressed in U.S. Dollars are affected. For example, our total gross bookings increased by 24% in 2023 as compared to 2022, but without the impact of changes in foreign currency exchange rates our total gross bookings increased year-over-year on a constant-currency basis by approximately 25%. Since our expenses are generally denominated in foreign currencies on a basis similar to our revenues, our operating margins have not been significantly impacted by currency fluctuations. We generally enter into derivative instruments to minimize the impact of foreign currency exchange rate fluctuations. We enter into foreign currency forward contracts to hedge our exposure to the impact of movements in foreign currency exchange rates on our transactional balances denominated in currencies other than the functional currency. See Note 6 to our Consolidated Financial Statements for additional information related to our derivative contracts. In addition, we designate certain portions of the aggregate principal value of our Euro-denominated debt as a hedge of the foreign currency exposure of the net investment in certain Euro functional currency subsidiaries. Foreign currency transaction gains or losses on the Euro-denominated debt that is not designated as a hedging instrument for accounting purposes are recognized in "Other income (expense), net" in the Consolidated Statements of Operations (see Notes 12 and 19 to our Consolidated Financial Statements). Such foreign currency transaction gains or losses are dependent on the amount of net assets of the Euro functional currency subsidiaries, the amount of the Euro-denominated debt that is designated as a hedge, and fluctuations in foreign currency exchange rates. For more information, see Part I, ITEM 1A, Risk Factors - " We are exposed to fluctuations in foreign currency exchange rates ." 
+ 
+ Other Factors 
+ 
+ Over the long term, we intend to continue to invest in marketing and promotion, technology, and personnel within parameters consistent with attempts to improve long-term operating results, even if those expenditures create pressure on operating margins. In recent years, our investments in initiatives to drive future growth added pressure on operating margins. We also intend to broaden the scope of our business, including exploring strategic alternatives such as acquisitions. 
+ 
+ The competition for technology talent in our industry is intense. As a result of the competitive labor market and inflationary pressure on compensation, our personnel expenses to attract and retain key talent have increased, which has adversely affected our results of operations and may adversely affect our results of operations in the future. See Part I, ITEM 1A, Risk Factors - " We rely on the performance of highly skilled employees; and, if we are unable to retain or motivate key employees or hire, retain, and motivate well-qualified employees, our business would be harmed. " 
+ 
+ Outlook 
+ 
+ For the first quarter of 2024, we expect: 
+ • the year-over-year growth in room nights will be between 4% and 6%; 
+ • the year-over-year growth in gross bookings will be between 5% and 7%; 
+ • the year-over-year growth in revenues will be between 11% and 13%; and 
+ • operating profit will be higher than in the first quarter of 2023. 
+ 
+ For the full year, we expect: 
+ • the year-over-year growth in gross bookings will be slightly higher than 7%; 
+ • the year-over-year growth in revenues will be similar to gross bookings; and 
+ • operating profit will be higher than in 2023. 
+ 
+ 
+ 
+ 
+ 37 
+ 
+ 
+ Critical Accounting Estimates 
+ 
+ Management's Discussion and Analysis of Financial Condition and Results of Operations is based upon our Consolidated Financial Statements, which have been prepared in accordance with accounting principles generally accepted in the United States of America ("U.S. GAAP"). Our significant accounting policies and estimates are more fully described in Note 2 to our Consolidated Financial Statements. Certain of our accounting estimates are particularly important to our financial position and results of operations and require us to make difficult and subjective judgments, often as a result of the need to make estimates of matters that are inherently uncertain. We use our judgment to determine the appropriate assumptions to be used in the determination of certain estimates and we evaluate our estimates on an ongoing basis. Estimates are based on historical experience, terms of existing contracts, our observance of trends in the travel industry, and on other assumptions that we believe to be reasonable under the circumstances. Our actual results may differ from these estimates under different assumptions or conditions. Matters that involve significant estimates and judgments of management include the valuation of investments in private companies, the valuation of goodwill and other long-lived assets, income taxes, and contingencies. 
+ 
+ Valuation of Investments in Private Companies 
+ 
+ See Notes 2, 5, and 6 to our Consolidated Financial Statements for additional information related to the investments in private companies and information on fair value measurements, including the three levels of inputs to the valuation techniques used to measure fair value. When inputs that are observable, either directly or indirectly (observable market data), are available at the measurement date and are not significantly adjusted using unobservable inputs, the observable inputs would be classified as Level 2 inputs. When little or no market data is available, the fair value of these investments are measured using unobservable inputs ("Level 3 inputs"). 
+ 
+ Our investments measured using Level 3 inputs primarily consist of investments in privately-held companies that were classified as either debt securities or equity securities without readily determinable fair values. Fair values of privately held securities are estimated using a variety of valuation methodologies, including both market and income approaches. We use valuation techniques appropriate for the type of investment and the information available about the investee as of the valuation date to determine fair value. Recent financing transactions in the investee are generally considered the best indication of the enterprise value and therefore used as a basis to estimate fair value. However, based on a number of factors, such as the proximity to the valuation date or the volume or other terms of these financing transactions, we may also use other valuation techniques to supplement this data, including the income approach. When a financing transaction occurs and represents fair value, we also use the calibration process, as appropriate, when estimating fair value on subsequent measurement dates. Calibration is the process of using observed transactions in the investee company's own instruments to ensure that the valuation techniques that will be employed to value the investee company investment on subsequent measurement dates begin with assumptions that are consistent with the original observed transaction as well as any more recent observed transactions in the instruments issued by the investee company. 
+ 
+ Our investments in equity securities of private companies at December 31, 2023 and 2022, include $51 million originally invested in Yanolja Co., Ltd. ("Yanolja"). In July 2021, Yanolja announced a new round of funding which was completed in October 2021 along with certain other transactions. As a result of these observable transactions, we increased the carrying value of our investment in Yanolja to $306 million as of December 31, 2021. As of June 30, 2023 and 2022, we evaluated our investment in Yanolja for impairment using a combination of the market approach and the income approach in estimating the fair value of our investment as of those dates, and recognized impairment charges of $24 million and $184 million during the years ended December 31, 2023 and 2022, respectively (see Note 6 to our Consolidated Financial Statements). The carrying value of our investment in Yanolja was $98 million and $122 million as of December 31, 2023 and 2022, respectively. 
+ 
+ The market approach estimates value using prices and other relevant information generated by market transactions involving identical or comparable companies. The income approach estimates value based on the expectation of future cash flows that a company will generate. These future cash flows are discounted to their present values using a discount rate based on a company's weighted-average cost of capital adjusted to reflect the risks inherent in its cash flows. The key unobservable inputs and ranges used for the June 2023 impairment evaluation include the weighted average cost of capital of 10.5%-14.5% and a terminal earnings before interest, taxes, depreciation, and amortization ("EBITDA") multiple of 14x-16x. The key unobservable inputs and ranges used for the June 2022 impairment evaluation include, for the market approach, percentage decrease in the calibrated EBITDA multiple (36%) and for the income approach, the weighted average cost of capital of 10%-14% and the terminal EBITDA multiple of 14x-16x. Significant changes in any of these inputs would result in significantly different fair value measurements. A change in the assumption used for EBITDA multiples would result in a 
+ 
+ 
+ 38 
+ 
+ 
+ directionally similar change in the fair value and a change in the assumption used for weighted average cost of capital would result in a directionally opposite change in the fair value. 
+ 
+ The determination of the fair values of investments, where we are a minority shareholder and have access to limited information from the investee, reflects numerous assumptions that are subject to various risks and uncertainties, including key assumptions regarding the investee's expected growth rates and operating margin, as well as other key assumptions with respect to matters outside of our control, such as discount rates and market comparables. It requires significant judgments and estimates and actual results could be materially different than those judgments and estimates utilized in the fair value estimate. Future events and changing market conditions may lead us to re-evaluate the assumptions reflected in the valuation, which may result in a need to recognize additional impairment charges. 
+ 
+ Valuation of Goodwill and other Long-lived Assets 
+ 
+ The application of the acquisition method of accounting for business combinations requires the use of significant estimates and assumptions to determine the fair value of the assets acquired and liabilities assumed. Our estimates of the fair value are based upon assumptions that we believe are reasonable. When we deem appropriate, we utilize assistance from third-party valuation firms. The consideration transferred is allocated to the assets acquired and liabilities assumed based on their respective values at the acquisition date. The excess of the consideration transferred over the net of the amounts allocated to the identifiable assets acquired and liabilities assumed is recognized as goodwill. Goodwill is assigned to reporting units that are expected to benefit from the synergies of the business combination. 
+ 
+ A substantial portion of our intangible assets and goodwill relates to the acquisitions of OpenTable, KAYAK, and Getaroom. See Note 18 to our Consolidated Financial Statements for additional information related to the acquisition of Getaroom in December 2021. 
+ 
+ We review long-lived assets whenever events or changes in circumstances indicate that the carrying amount of the asset may not be recoverable. The assessment of possible impairment is based upon the ability to recover the carrying value of the assets from the estimated undiscounted future net cash flows, before interest and taxes, of the related asset group. 
+ 
+ We test goodwill for impairment on an annual basis and between annual tests if an event occurs or circumstances change that would more likel y than not reduce the fair value of a reporting unit below its carrying amount. We test goodwill at a reporting unit level and our annual goodwill impairment tests are performed as of September 30. As of September 30, 2023, we performed our annual goodwill impairment test and concluded that there was no impairment of goodwill. 
+ 
+ The estimation of fair values of our reporting units reflect numerous assumptions that are subject to various risks and uncertainties, including key assumptions regarding each reporting unit's expected growth rates and operating margin and the competitive environment, as well as other key assumptions with respect to matters outside of our control, such as discount rates and market comparables. Generally, changes in the assumptions used for comparable company multiples would result in directionally similar changes in the fair value and changes in the assumptions used for discount rates would result in directionally opposite changes in the fair value. The estimation of fair value requires significant judgments and estimates and actual results could be materially different than the judgments and estimates used. During 2022 and part of 2023, there have been significant adverse changes in the market valuation of companies in the travel and technology industries. Discount rates have also been impacted during those periods due to rising interest rates and adverse changes in the macroeconomic environment. Future events and changing market conditions, including economic uncertainties such as inflation, rising interest rates and risks of a potential recession, may lead us to re-evaluate the assumptions used to estimate the fair values of our reporting units, which may result in a need to recognize additional goodwill impairment charges that could have a material adverse effect on our results of operations. 
+ 
+ Income Taxes 
+ 
+ We determine our tax expense based on our income and statutory tax rates applicable in the jurisdictions in which we operate. Due to the complex and dynamic nature of tax legislation, significant judgment is required in computing our tax expense and determining our tax positions. The U.S. Tax Cuts and Jobs Act (the "Tax Act") enacted in December 2017 made significant changes to U.S. federal tax law, including a one-time deemed repatriation tax imposed on accumulated unremitted international earnings, to be paid over eight years. We do not intend to indefinitely reinvest our international earnings that were subject to U.S. taxation pursuant to the mandatory deemed repatriation or subject to U.S. taxation as global intangible low-taxed income (" GILTI ") . 
+ 
+ 
+ 
+ 39 
+ 
+ 
+ We regularly review our deferred tax assets for recoverability considering historical profitability, projected future taxable income, the expected timing of the reversals of temporary differences, and tax planning strategies and record valuation allowances as required. 
+ 
+ We are subject to ongoing tax examinations and assessments in various jurisdictions. We face challenges regarding the amount of taxes due from time to time. These challenges include questions regarding the timing and amount of deductions on our tax returns. Although we believe that our tax filing positions are reasonable and comply with applicable law, we regularly review our tax filing positions, especially in light of tax law or business practice changes, and we may change our positions or determine that previous positions should be amended, either of which could result in changes to our tax liabilities. The final determination of tax audits or tax disputes may be different from what is reflected in our historical income tax provisions and accruals. 
+ 
+ The evaluation of tax positions and recognition of income tax benefits require significant judgment and we consult with external tax and legal counsel as appropriate. We consider the technical merits of our tax positions along with the applicable tax statutes, related interpretations and precedents, and our expectation of the outcome of proceedings (or negotiations) with tax authorities. We recognize liabilities when we believe that uncertain positions may not be fully sustained upon audit by the tax authorities, including any related appeals or litigation processes. Liabilities recognized for uncertain tax positions are based on a two-step approach for recognition and measurement. First, we evaluate the tax position for recognition by determining if the weight of available evidence indicates it is more likely than not that the position will be sustained based on its technical merits. Second, we measure the tax benefit as the largest amount that is more than 50% likely of being realized upon ultimate settlement. Interest and penalties attributable to uncertain tax positions, if any, are recognized as a component of income tax expense. The tax benefits ultimately realized by us may be different than what is recorded in the financial statements due to future events such as our settling the matter with the tax authorities and our success in sustaining our tax positions. 
+ 
+ See Notes 15 and 16 to our Consolidated Financial Statements for additional information. 
+ 
+ Contingencies 
+ 
+ Loss contingencies (other than income tax-related contingencies disclosed above) arise from actual or possible claims and assessments and pending or threatened litigation that may be brought against us. Based on our assessment of loss contingencies at each balance sheet date, a loss is recorded in the financial statements if it is probable that an asset has been impaired or a liability has been incurred and the amount of the loss can be reasonably estimated. If the amount of the loss cannot be reasonably estimated, we disclose information about the contingency in the financial statements. We also disclose information in our financial statements about reasonably possible loss contingencies. 
+ 
+ The determination of whether a loss is probable and whether the amount of the loss can be reasonably estimated requires significant judgment and evaluation of all the underlying facts and circumstances including judgments about the potential actions of third-party claimants, regulatory authorities, and courts. Claims, assessments, and litigations involve significant uncertainties such as the complexity of the facts, the legal theories involved, the nature of the claims, the judgment of the courts, the applicable methodology for determining potential damages, and, in the case of class actions, whether a class action can be certified and the extent to which members of a class would or would not file a claim. 
+ 
+ On a quarterly basis, we update our analysis and estimates considering all available information, including the impact of negotiations, settlements, rulings, and advice of legal counsel. Changes in our assessment of whether a loss is probable, our estimate of the loss, or our determination of whether the amount of loss can be reasonably estimated could have a material impact on our results of operations and financial position. Changes in our assumptions regarding a particular matter or the effectiveness of our strategies related to legal and other proceedings could also have a material impact on our results of operations and financial position. For all loss contingencies, until a matter is finally resolved, there may be an exposure to loss in excess of the liability accrued for the matter and such amounts could be material. 
+ 
+ See Note 16 to our Consolidated Financial Statements for additional information, including the accrual of a loss of $530 million related to a draft decision by the Spanish competition authority and a loss of $276 million related to the Netherlands pension fund matter, which are recorded in the Consolidated Statement of Operations for the year ended December 31, 2023. 
+ 
+ 
+ 
+ 40 
+ 
+ 
+ Recent Accounting Pronouncements 
+ 
+ See Note 2 to our Consolidated Financial Statements for details, which is incorporated into this ITEM 7 by reference thereto. 
+ 
+ 
+ 41 
+ 
+ 
+ 
+ Results of Operations 
+ 
+ Operating and Statistical Metrics 
+ 
+ Our financial results are driven by certain operating metrics that encompass the booking and other business activity generated by our travel and travel-related services. Specifically, reservations of room nights, rental car days, and airline tickets capture the volume of units booked through our online travel companies' ("OTC") brands by our travel reservation services customers. Gross bookings is an operating and statistical metric that captures the total dollar value, generally inclusive of taxes and fees, of all travel services booked through our OTC brands by our customers, net of cancellations. Our non-OTC brands (KAYAK and OpenTable) have different business metrics from those of our OTC brands, so search queries through KAYAK and restaurant reservations through OpenTable do not contribute to our gross bookings. 
+ 
+ Revenues 
+ 
+ Online travel reservation services 
+ 
+ Substantially all of our revenues are generated by providing online travel reservation services, which facilitate online travel purchases between travel service providers and travelers. 
+ 
+ Revenues from online travel reservation services are classified into two categories: 
+ • Merchant. Merchant revenues are derived from travel-related transactions where we facilitate payments from travelers for the services provided, generally at the time of booking. Merchant revenues are derived from transactions where travelers book accommodation, rental car, airline reservations, and other travel related services. The majority of our merchant revenues is from Booking.com's accommodation reservations. Merchant revenues include: 
+ ◦ travel reservation commissions and transaction net revenues (i.e., the amount charged to travelers, including the impact of merchandising, less the amount owed to travel service providers) in connection with our merchant reservation services; 
+ ◦ revenues from facilitating payments, such as credit card processing rebates and customer processing fees; and 
+ ◦ ancillary fees, including travel-related insurance revenues. 
+ • Agency. Agency revenues are derived from travel-related transactions where we do not facilitate payments from travelers for the services provided. Agency revenues consist almost entirely of travel reservation commissions from our accommodation, rental car, and airline reservation services. Substantially all of our agency revenues is from Booking.com's accommodation reservations. 
+ 
+ Advertising and other revenues 
+ 
+ Advertising and other revenues are derived primarily from: 
+ • revenues earned by KAYAK for (a) sending referrals to OTCs and travel service providers and (b) advertising placements on its platforms; and 
+ • revenues earned by OpenTable for (a) restaurant reservation services (fees paid by restaurants for diners seated through OpenTable's online reservation service) and (b) subscription fees for restaurant management services. 
+ 
+ 
+ 
+ 42 
+ 
+ 
+ Year Ended December 31, 2023 compared to Year Ended December 31, 2022 
+ 
+ Operating and Statistical Metrics 
+ 
+ Room nights, rental car days, and airline tickets reserved through our services for the years ended December 31, 2023 and 2022 were as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ Increase (Decrease) 
+ 
+ (in millions) 
+ 2023 
+ 
+ 2022 
+ 
+ 
+ Room nights 
+ 1,049 
+ 
+ 896 
+ 
+ 17.1 
+ % 
+ 
+ Rental car days 
+ 74 
+ 
+ 62 
+ 
+ 19.7 
+ % 
+ 
+ Airline tickets 
+ 36 
+ 
+ 23 
+ 
+ 57.6 
+ % 
+ 
+ Room nights reserved through our services increased in 2023 compared to 2022, driven primarily by the continued recovery in Asia and Europe. Rental car days reserved through our services increased in 2023 compared to 2022, driven primarily by year-over-year growth in rental car demand, which benefited from lower average daily car rental prices. Airline tickets reserved through our services increased in 2023 compared to 2022, driven primarily by the expansion of Booking.com's flight offering. 
+ 
+ Gross bookings resulting from reservations of room nights, rental car days, and airline tickets made through our merchant and agency categories for the years ended December 31, 2023 and 2022 were as follows (numbers may not total due to rounding): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ Increase (Decrease) 
+ 
+ (in millions) 
+ 2023 
+ 
+ 2022 
+ 
+ 
+ Merchant gross bookings 
+ $ 
+ 81,721 
+ 
+ 
+ $ 
+ 53,873 
+ 
+ 
+ 51.7 
+ % 
+ 
+ Agency gross bookings 
+ 68,906 
+ 
+ 
+ 67,379 
+ 
+ 
+ 2.3 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total gross bookings 
+ $ 
+ 150,627 
+ 
+ 
+ $ 
+ 121,253 
+ 
+ 
+ 24.2 
+ % 
+ 
+ Merchant and agency gross bookings increased in 2023 compared to 2022, due to the continued improvement in travel demand. Merchant gross bookings increased more than agency gross bookings due to the ongoing shift from agency bookings to merchant bookings at Booking.com. 
+ 
+ The year-over-year increase in total gross bookings in 2023 was due primarily to the increase in room nights, the increase in constant-currency accommodation ADRs of approximately 6%, the positive impact from year-over-year growth in gross bookings from reservations for airline tickets, partially offset by the negative impact of foreign exchange rate fluctuations. 
+ 
+ Gross bookings resulting from reservations of airline tickets increased 64% year-over-year in 2023 due to higher airline ticket growth and higher average airline ticket prices. Gross bookings resulting from reservations of rental car days decreased 2% year-over-year in 2023 due primarily to lower average daily car rental prices, partially offset by higher rental car days growth. 
+ 
+ Revenues 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ Increase (Decrease) 
+ 
+ (in millions) 
+ 2023 
+ 
+ 2022 
+ 
+ 
+ Merchant revenues 
+ $ 
+ 10,936 
+ 
+ 
+ $ 
+ 7,193 
+ 
+ 
+ 52.0 
+ % 
+ 
+ Agency revenues 
+ 9,414 
+ 
+ 
+ 9,003 
+ 
+ 
+ 4.6 
+ % 
+ 
+ Advertising and other revenues 
+ 1,015 
+ 
+ 
+ 894 
+ 
+ 
+ 13.4 
+ % 
+ 
+ Total revenues 
+ $ 
+ 21,365 
+ 
+ 
+ $ 
+ 17,090 
+ 
+ 
+ 25.0 
+ % 
+ 
+ % of Total gross bookings 
+ 14.2 
+ % 
+ 
+ 14.1 
+ % 
+ 
+ 
+ 
+ Merchant, agency, and advertising and other revenues increased in 2023 compared to 2022 due primarily to the continued improvement in travel demand. Merchant revenues in 2023 increased more than agency revenues due to the ongoing shift from agency revenues to merchant revenues at Booking.com. 
+ 
+ 
+ 
+ 43 
+ 
+ 
+ Total revenues as a percentage of gross bookings was 14.2% in 2023 up from 14.1% in 2022 due primarily to a more positive impact from differences in the timing of booking versus travel in 2023 compared to 2022 and an increase in revenue from facilitating payments, mostly offset by an increase in the mix of airline ticket gross bookings, changes in geographical mix, and an increase in investments in merchandising. 
+ 
+ Operating Expenses 
+ 
+ Marketing Expenses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ Increase (Decrease) 
+ 
+ (in millions) 
+ 2023 
+ 
+ 2022 
+ 
+ 
+ Marketing expenses 
+ $ 
+ 6,773 
+ 
+ 
+ $ 
+ 5,993 
+ 
+ 
+ 13.0 
+ % 
+ 
+ % of Total gross bookings 
+ 4.5 
+ % 
+ 
+ 4.9 
+ % 
+ 
+ 
+ 
+ % of Total revenues 
+ 31.7 
+ % 
+ 
+ 35.1 
+ % 
+ 
+ 
+ 
+ Marketing expenses consist primarily of the costs of: 
+ • search engine keyword purchases; 
+ • affiliate programs; 
+ • referrals from meta-search websites; 
+ • online and offline brand marketing; and 
+ • other performance-based marketing. 
+ 
+ We adjust our marketing spend based on our growth and profitability objectives, as well as the travel demand and expected ROIs in our marketing channels. We rely on our marketing channels to generate a significant amount of traffic to our websites. Our marketing expenses, which are substantially variable in nature, increased year-over-year in 2023 to help drive additional gross bookings and revenues. Marketing expenses as a percentage of total gross bookings decreased year-over-year in 2023 due to year-over-year increases in performance marketing ROIs and in the mix of direct traffic. Performance marketing ROIs were higher in 2023 versus 2022, due in part to our ongoing efforts to improve the efficiency of our marketing spend. 
+ 
+ Sales and Other Expenses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ Increase (Decrease) 
+ 
+ (in millions) 
+ 2023 
+ 
+ 2022 
+ 
+ 
+ Sales and other expenses 
+ $ 
+ 2,744 
+ 
+ 
+ $ 
+ 1,986 
+ 
+ 
+ 38.2 
+ % 
+ 
+ % of Total gross bookings 
+ 1.8 
+ % 
+ 
+ 1.6 
+ % 
+ 
+ 
+ 
+ % of Total revenues 
+ 12.8 
+ % 
+ 
+ 11.6 
+ % 
+ 
+ 
+ 
+ Sales and other expenses consist primarily of: 
+ • credit card and other payment processing fees associated with merchant transactions; 
+ • fees paid to third parties that provide call center and other customer services; 
+ • digital services taxes and other similar taxes; 
+ • chargeback provisions and fraud prevention expenses associated with merchant transactions; 
+ • provisions for expected credit losses, primarily related to accommodation commission receivables and prepayments to certain customers; and 
+ • customer relations costs. 
+ 
+ Sales and other expenses, which are substantially variable in nature, increased year-over-year in 2023 due primarily to an increase in merchant transaction costs of $461 million and an increase in third-party call center costs of $155 million. Merchant transactions increased year-over-year in 2023 due to the continued improvement in travel demand trends, as well as the ongoing shift from agency transactions to merchant transactions at Booking.com. The year-over-year increase in third-party call center costs in 2023 was due in part to the transfer of certain customer service operations of Booking.com to Majorel in June 2022, which shifted costs from personnel expenses to sales and other expenses. 
+ 
+ 
+ 
+ 44 
+ 
+ 
+ Personnel 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ Increase (Decrease) 
+ 
+ (in millions) 
+ 2023 
+ 
+ 2022 
+ 
+ 
+ Personnel 
+ $ 
+ 3,294 
+ 
+ 
+ $ 
+ 2,465 
+ 
+ 
+ 33.6 
+ % 
+ 
+ % of Total revenues 
+ 15.4 
+ % 
+ 
+ 14.4 
+ % 
+ 
+ 
+ 
+ Personnel expenses consist primarily of: 
+ • salaries, bonuses, and stock-based compensation; 
+ • payroll taxes; and 
+ • employee health and other benefits. 
+ 
+ Personnel expenses, excluding stock-based compensation, increased 34% year-over-year in 2023 due to an increase in salary expenses of $309 million, an accrual of $276 million related to the Netherlands pension fund matter (see Note 16 to our Consolidated Financial Statements for additional information), and an increase in bonus expense accruals of $75 million. Employee headcount of approximately 23,600 as of December 31, 2023 increased by 9% as compared to December 31, 2022. Personnel expenses in 2023 and employee headcount as of December 31, 2023 were reduced due to the transfer of certain customer service operations of Booking.com to Majorel in June 2022, which shifted costs from personnel expenses to sales and other expenses. Stock-based compensation expense in 2023 was $530 million compared to $404 million in 2022. 
+ 
+ General and Administrative 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ Increase (Decrease) 
+ 
+ (in millions) 
+ 2023 
+ 
+ 2022 
+ 
+ 
+ General and administrative 
+ $ 
+ 1,555 
+ 
+ 
+ $ 
+ 766 
+ 
+ 
+ 102.7 
+ % 
+ 
+ % of Total revenues 
+ 7.3 
+ % 
+ 
+ 4.5 
+ % 
+ 
+ 
+ 
+ General and administrative expenses consist primarily of: 
+ • fees for certain outside professionals; 
+ • occupancy and office expenses; 
+ • certain travel transaction taxes; and 
+ • personnel-related expenses such as travel, relocation, recruiting, and training expenses. 
+ 
+ General and administrative expenses increased year-over-year in 2023 due to the accrual of a loss of $530 million related to a draft decision by the Spanish competition authority (see Note 16 to our Consolidated Financial Statements for additional information), a $90 million termination fee related to the acquisition agreement for the Etraveli Group (see Note 20 to our Consolidated Financial Statements for additional information), and year-over-year increases in certain travel transaction taxes and occupancy and office expenses. 
+ 
+ Information Technology 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ Increase (Decrease) 
+ 
+ (in millions) 
+ 2023 
+ 
+ 2022 
+ 
+ 
+ Information technology 
+ $ 
+ 655 
+ 
+ 
+ $ 
+ 526 
+ 
+ 
+ 24.5 
+ % 
+ 
+ % of Total revenues 
+ 3.1 
+ % 
+ 
+ 3.1 
+ % 
+ 
+ 
+ 
+ Information technology expenses consist primarily of: 
+ • software license and system maintenance fees; 
+ • cloud computing costs and outsourced data center costs; 
+ • payments to contractors; and 
+ • data communications and other expenses associated with operating our services. 
+ 
+ Information technology expenses increased in 2023 compared to 2022 due to increased cloud computing costs and outsourced data center costs, as well as increased software license and system maintenance fees. 
+ 
+ 
+ 45 
+ 
+ 
+ 
+ Depreciation and Amortization 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ Increase (Decrease) 
+ 
+ (in millions) 
+ 2023 
+ 
+ 2022 
+ 
+ 
+ Depreciation and amortization 
+ $ 
+ 504 
+ 
+ 
+ $ 
+ 451 
+ 
+ 
+ 11.8 
+ % 
+ 
+ % of Total revenues 
+ 2.4 
+ % 
+ 
+ 2.6 
+ % 
+ 
+ 
+ 
+ Depreciation and amortization expenses consist of: 
+ • amortization of intangible assets with determinable lives; 
+ • amortization of internally-developed and purchased software; 
+ • depreciation of computer equipment; and 
+ • depreciation of leasehold improvements, furniture and fixtures, and office equipment. 
+ 
+ Depreciation and amortization expenses increased in 2023 compared to 2022 due primarily to increased amortization expense related to internally-developed and purchased software, as well as depreciation of computer equipment. 
+ 
+ Other Operating Expenses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ Increase (Decrease) 
+ 
+ (in millions) 
+ 2023 
+ 
+ 2022 
+ 
+ 
+ Other operating expenses 
+ $ 
+ 5 
+ 
+ 
+ $ 
+ (199) 
+ 
+ 
+ 
+ * 
+ 
+ % of Total revenues 
+ — 
+ % 
+ 
+ (1.2) 
+ % 
+ 
+ 
+ * Not meaningful 
+ 
+ Other operating expenses in 2022 includes the gain of $240 million on the sale and leaseback transaction related to Booking.com's headquarters building, partially offset by a loss of $41 million related to the transfer of certain customer service operations of Booking.com to Majorel. See Notes 10 and 20 to our Consolidated Financial Statements. 
+ 
+ Interest Expense and Other Income (Expense), Net 
+ 
+ Interest Expense 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ 
+ 
+ (in millions) 
+ 2023 
+ 
+ 2022 
+ 
+ 
+ Interest expense 
+ $ 
+ 897 
+ 
+ 
+ $ 
+ 391 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other Income (Expense), Net 
+ 
+ The following table sets forth the composition of "Other income (expense), net" for the years ended December 31, 2023 and 2022: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ (in millions) 
+ 2023 
+ 
+ 2022 
+ 
+ Interest and dividend income 
+ $ 
+ 1,020 
+ 
+ 
+ $ 
+ 219 
+ 
+ 
+ 
+ Net losses on equity securities 
+ (131) 
+ 
+ 
+ (963) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Foreign currency transaction (losses) gains 
+ (348) 
+ 
+ 
+ (43) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other 
+ 2 
+ 
+ 
+ (1) 
+ 
+ 
+ Other income (expense), net 
+ $ 
+ 543 
+ 
+ 
+ $ 
+ (788) 
+ 
+ 
+ 
+ 
+ 46 
+ 
+ 
+ The following table presents the changes in interest and dividend income and interest expense for the years ended December 31, 2023 and 2022: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ Increase (Decrease) 
+ 
+ (in millions) 
+ 2023 
+ 
+ 2022 
+ 
+ 
+ Interest and dividend income 
+ $ 
+ 1,020 
+ 
+ 
+ $ 
+ 219 
+ 
+ 
+ 366.6 
+ % 
+ 
+ Interest expense 
+ (897) 
+ 
+ 
+ (391) 
+ 
+ 
+ 129.6 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Interest and dividend income increased for the year ended December 31, 2023, compared to the year ended December 31, 2022, primarily due to the impact of higher interest rates on cash management activities (with related expenses recorded in interest expense) and investment activities. Interest expense increased for the year ended December 31, 2023, compared to the year ended December 31, 2022, primarily due to higher interest rates related to our cash management activities (with related income recorded in interest income) and the issuance of senior notes in November 2022 and May 2023, partially offset by the maturities of senior notes during 2022 and 2023. 
+ 
+ See Note 19 to our Consolidated Financial Statements for additional information on "Other income (expense), net." See Notes 5 and 6 to our Consolidated Financial Statements for additional information related to net losses on equity securities and the impairments of an investment in equity securities. 
+ 
+ Foreign currency transaction (losses) gains for the year ended December 31, 2023 includes losses of $163 million related to our Euro-denominated debt and accrued interest that were not designated as net investment hedges and losses of $106 million on derivative contracts. Foreign currency transaction (losses) gains for the year ended December 31, 2022 includes gains of $46 million related to our Euro-denominated debt and accrued interest that were not designated as net investment hedges and losses of $52 million on derivative contracts. 
+ 
+ Income Taxes 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ Increase (Decrease) 
+ 
+ (in millions) 
+ 2023 
+ 
+ 2022 
+ 
+ 
+ Income tax expense 
+ $ 
+ 1,192 
+ 
+ 
+ $ 
+ 865 
+ 
+ 
+ 37.8 
+ % 
+ 
+ 
+ % of Income before income taxes 
+ 21.8 
+ % 
+ 
+ 22.1 
+ % 
+ 
+ 
+ 
+ Our 2023 effective tax rate differs from the U.S. federal statutory tax rate of 21%, primarily due to higher international tax rates, non-deductible fines, certain other non-deductible expenses, and U.S. federal tax associated with the Company's international earnings, partially offset by the benefit of the Netherlands Innovation Box Tax (discussed below). Our 2022 effective tax rate differs from the U.S. federal statutory tax rate of 21%, primarily due to higher international tax rates, a valuation allowance recorded against deferred tax assets related to certain unrealized losses on equity securities, certain non-deductible expenses, and an increase in unrecognized tax benefits, partially offset by the benefit of the Netherlands Innovation Box Tax. 
+ 
+ Our effective tax rate was lower for the year ended December 31, 2023, compared to the year ended December 31, 2022, primarily due to a lower valuation allowance recorded against deferred tax assets related to certain unrealized losses on equity securities, lower unrecognized tax benefits, and lower international tax rates, partially offset by an increase in non-deductible fines, and a decrease in the benefit of the Netherlands Innovation Box Tax. 
+ 
+ Under Dutch corporate income tax law, income generated from qualifying innovative activities is taxed at a rate of 9% ("Innovation Box Tax") rather than the Dutch statutory rate of 25.8%. A portion of Booking.com's earnings during the years ended December 31, 2023 and 2022 qualified for Innovation Box Tax treatment, which had a significant beneficial impact on our effective tax rates for these periods. For more information regarding the Innovation Box Tax, see Part I, ITEM 1A, Risk Factors - " We may not be able to maintain our 'Innovation Box Tax' benefit. " 
+ 
+ 
+ 
+ 47 
+ 
+ 
+ Results of Operations 
+ 
+ Year Ended December 31, 2022 compared to Year Ended December 31, 2021 
+ 
+ In the Consolidated Statements of Operations for the years ended December 31, 2022 and 2021, we have reclassified certain indirect taxes, primarily digital services taxes, between "General and administrative" expenses and "Sales and other expenses" to conform to the presentation in the Consolidated Statement of Operations for the year ended December 31, 2023. See Note 2 to the Consolidated Financial Statements. 
+ 
+ Operating and Statistical Metrics 
+ 
+ Room nights, rental car days, and airline tickets reserved through our services for the years ended December 31, 2022 and 2021 were as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ Increase (Decrease) 
+ 
+ (in millions) 
+ 2022 
+ 
+ 2021 
+ 
+ 
+ Room nights 
+ 896 
+ 
+ 591 
+ 
+ 51.6 
+ % 
+ 
+ Rental car days 
+ 62 
+ 
+ 47 
+ 
+ 30.7 
+ % 
+ 
+ Airline tickets 
+ 23 
+ 
+ 15 
+ 
+ 49.9 
+ % 
+ 
+ Room nights, rental car days, and airline tickets reserved through our services increased significantly in 2022 compared to 2021, due primarily to the continued improvement in travel demand trends as the impact of the COVID-19 pandemic lessened in 2022 versus 2021. 
+ 
+ Gross bookings resulting from reservations of room nights, rental car days, and airline tickets made through our agency and merchant categories for the years ended December 31, 2022 and 2021 were as follows (numbers may not total due to rounding): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ Increase (Decrease) 
+ 
+ (in millions) 
+ 2022 
+ 
+ 2021 
+ 
+ 
+ Agency gross bookings 
+ $ 
+ 67,379 
+ 
+ 
+ $ 
+ 50,741 
+ 
+ 
+ 32.8 
+ % 
+ 
+ Merchant gross bookings 
+ 53,873 
+ 
+ 
+ 25,845 
+ 
+ 
+ 108.4 
+ % 
+ 
+ Total gross bookings 
+ $ 
+ 121,253 
+ 
+ 
+ $ 
+ 76,586 
+ 
+ 
+ 58.3 
+ % 
+ 
+ Agency gross bookings are derived from travel-related transactions where we do not facilitate payments from travelers for the services provided, while merchant gross bookings are derived from services where we facilitate payments. Agency and merchant gross bookings increased in 2022 compared to 2021 due primarily to the continued improvement in travel demand trends. Merchant gross bookings increased more than agency gross bookings due to the expansion of merchant accommodation reservation services at Booking.com. 
+ 
+ The year-over-year increase in gross bookings in 2022 was due primarily to the increase in room nights and the increase in accommodation ADRs of approximately 15% on a constant-currency basis, partially offset by the negative impact of foreign exchange rate fluctuations. Gross bookings resulting from reservations of airline tickets increased 86% year-over-year in 2022 due to higher unit growth and ticket price increases. Gross bookings resulting from reservations of rental car days increased 26% year-over-year in 2022 due primarily to higher unit growth. 
+ 
+ Revenues 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ Increase (Decrease) 
+ 
+ (in millions) 
+ 2022 
+ 
+ 2021 
+ 
+ 
+ Agency revenues 
+ $ 
+ 9,003 
+ 
+ 
+ $ 
+ 6,663 
+ 
+ 
+ 35.1 
+ % 
+ 
+ Merchant revenues 
+ 7,193 
+ 
+ 
+ 3,696 
+ 
+ 
+ 94.6 
+ % 
+ 
+ Advertising and other revenues 
+ 894 
+ 
+ 
+ 599 
+ 
+ 
+ 49.4 
+ % 
+ 
+ Total revenues 
+ $ 
+ 17,090 
+ 
+ 
+ $ 
+ 10,958 
+ 
+ 
+ 56.0 
+ % 
+ 
+ % of Total gross bookings 
+ 14.1 
+ % 
+ 
+ 14.3 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 48 
+ 
+ 
+ Agency, merchant, and advertising and other revenues increased in 2022 compared to 2021 due primarily to the continued improvement in gross bookings as the impact of the COVID-19 pandemic lessened in 2022 versus 2021, partially offset by the negative impact of foreign exchange rate fluctuations. Merchant revenues in 2022 increased more than agency revenues due to the expansion of merchant accommodation reservation services at Booking.com. 
+ 
+ Total revenues as a percentage of gross bookings was 14.1% in 2022, down from 14.3% in 2021 due to investments in merchandising and an increase in the mix of airline ticket gross bookings, partially offset by increased revenues from facilitating payments. 
+ 
+ Operating Expenses 
+ 
+ Marketing Expenses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ Increase (Decrease) 
+ 
+ (in millions) 
+ 2022 
+ 
+ 2021 
+ 
+ 
+ Marketing expenses 
+ $ 
+ 5,993 
+ 
+ 
+ $ 
+ 3,801 
+ 
+ 
+ 57.6 
+ % 
+ 
+ % of Total gross bookings 
+ 4.9 
+ % 
+ 
+ 5.0 
+ % 
+ 
+ 
+ 
+ % of Total revenues 
+ 35.1 
+ % 
+ 
+ 34.7 
+ % 
+ 
+ 
+ 
+ Marketing expenses consist primarily of the costs of: 
+ • search engine keyword purchases; 
+ • referrals from meta-search and travel research websites; 
+ • affiliate programs; 
+ • offline and online brand marketing; and 
+ • other performance-based marketing and incentives. 
+ 
+ We adjust our marketing spend based on our growth and profitability objectives, as well as the travel demand and expected ROIs in our marketing channels. We rely on our marketing channels to generate a significant amount of traffic to our websites. Our marketing expenses, which are substantially variable in nature, increased significantly in 2022 compared to 2021, due primarily to the continued improvement in travel demand as the impact of the COVID-19 pandemic lessened in 2022 versus 2021. Marketing expenses as a percentage of total gross bookings decreased slightly in 2022 compared to 2021 due to year-over-year increases in the mix of direct traffic, partially offset by year-over-year decreases in performance marketing ROIs. Performance marketing ROIs were lower in 2022 versus 2021 due to our efforts to invest in marketing during the recovery in the travel industry in 2022. 
+ 
+ Sales and Other Expenses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ Increase (Decrease) 
+ 
+ (in millions) 
+ 2022 
+ 
+ 2021 
+ 
+ 
+ Sales and other expenses 
+ $ 
+ 1,986 
+ 
+ 
+ $ 
+ 979 
+ 
+ 
+ 102.7 
+ % 
+ 
+ % of Total gross bookings 
+ 1.6 
+ % 
+ 
+ 1.3 
+ % 
+ 
+ 
+ 
+ % of Total revenues 
+ 11.6 
+ % 
+ 
+ 8.9 
+ % 
+ 
+ 
+ 
+ Sales and other expenses consist primarily of: 
+ • credit card and other payment processing fees associated with merchant transactions; 
+ • fees paid to third parties that provide call center, website content translations, and other services; 
+ • digital services taxes and other similar taxes; 
+ • chargeback provisions and fraud prevention expenses associated with merchant transactions; 
+ • provisions for expected credit losses, primarily related to accommodation commission receivables and prepayments to certain customers; and 
+ • customer relations costs. 
+ 
+ 
+ 
+ 49 
+ 
+ 
+ Sales and other expenses, which are substantially variable in nature, increased significantly in 2022 compared to 2021, due primarily to an increase in merchant transaction costs of $573 million and an increase in third-party call center costs of $235 million. Merchant transactions increased year-over-year in 2022 due to the continued improvement in travel demand trends as the impact of the COVID-19 pandemic lessened in 2022 versus 2021, as well as the expansion of merchant accommodation reservation services at Booking.com. The year-over-year increase in third-party call center costs in 2022 was due in part to the transfer of certain customer service operations of Booking.com to Majorel, which shifted costs from personnel expenses to sales and other expenses. 
+ 
+ Personnel 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ Increase (Decrease) 
+ 
+ (in millions) 
+ 2022 
+ 
+ 2021 
+ 
+ 
+ Personnel 
+ $ 
+ 2,465 
+ 
+ 
+ $ 
+ 2,314 
+ 
+ 
+ 6.5 
+ % 
+ 
+ % of Total revenues 
+ 14.4 
+ % 
+ 
+ 21.1 
+ % 
+ 
+ 
+ 
+ Personnel expenses consist primarily of: 
+ • salaries, bonuses, and stock-based compensation; 
+ • payroll taxes; and 
+ • employee health and other benefits. 
+ 
+ Personnel expenses, excluding stock-based compensation, increased 6% in 2022 compared to 2021, due to an increase in salary expense of $139 million and an increase in bonus expense accruals of $66 million, partially offset by the $136 million expense, recorded in 2021, associated with the return of government assistance received through various government aid programs. Employee headcount of approximately 21,600 as of December 31, 2022 increased by 6% as compared to December 31, 2021. Personnel expenses in 2022 and employee headcount as of December 31, 2022 were reduced due to the transfer of certain customer service operations of Booking.com to Majorel which shifted costs from personnel expenses to sales and other expenses. Stock-based compensation expense was $404 million in 2022 compared to $370 million in 2021. 
+ 
+ General and Administrative 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ Increase (Decrease) 
+ 
+ (in millions) 
+ 2022 
+ 
+ 2021 
+ 
+ 
+ General and administrative 
+ $ 
+ 766 
+ 
+ 
+ $ 
+ 522 
+ 
+ 
+ 47.1 
+ % 
+ 
+ % of Total revenues 
+ 4.5 
+ % 
+ 
+ 4.8 
+ % 
+ 
+ 
+ 
+ General and administrative expenses consist primarily of: 
+ • fees for outside professionals; 
+ • occupancy and office expenses; 
+ • personnel-related expenses such as travel, relocation, recruiting, and training expenses; and 
+ • certain travel transaction taxes. 
+ 
+ General and administrative expenses increased in 2022 compared to 2021 due to an increase of $97 million in certain travel transaction taxes, including the $46 million accrual related to the settlement of an Italian indirect tax matter. See Note 16 to our Consolidated Financial Statements. The year-over-year increase in general and administrative expenses was also driven by an increase of $75 million in personnel-related expenses and an increase of $53 million in fees for professional services. 
+ 
+ 
+ 
+ 50 
+ 
+ 
+ Information Technology 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ Increase (Decrease) 
+ 
+ (in millions) 
+ 2022 
+ 
+ 2021 
+ 
+ 
+ Information technology 
+ $ 
+ 526 
+ 
+ 
+ $ 
+ 412 
+ 
+ 
+ 27.6 
+ % 
+ 
+ % of Total revenues 
+ 3.1 
+ % 
+ 
+ 3.8 
+ % 
+ 
+ 
+ 
+ Information technology expenses consist primarily of: 
+ • software license and system maintenance fees; 
+ • cloud computing costs and outsourced data center costs; 
+ • payments to contractors; and 
+ • data communications and other expenses associated with operating our services. 
+ 
+ Information technology expenses increased in 2022 compared to 2021 due to increased cloud computing costs, payments to contractors, and software license fees. 
+ 
+ Depreciation and Amortization 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ Increase (Decrease) 
+ 
+ (in millions) 
+ 2022 
+ 
+ 2021 
+ 
+ 
+ Depreciation and amortization 
+ $ 
+ 451 
+ 
+ 
+ $ 
+ 421 
+ 
+ 
+ 6.9 
+ % 
+ 
+ % of Total revenues 
+ 2.6 
+ % 
+ 
+ 3.8 
+ % 
+ 
+ 
+ 
+ Depreciation and amortization expenses consist of: 
+ • amortization of intangible assets with determinable lives; 
+ • amortization of internally-developed and purchased software; 
+ • depreciation of computer equipment; and 
+ • depreciation of leasehold improvements, furniture and fixtures, and office equipment. 
+ 
+ Depreciation and amortization expenses increased in 2022 compared to 2021 due to increased amortization expense related to the acquisition of Getaroom, partially offset by decreased depreciation of computer equipment and leasehold improvements. 
+ 
+ Other Operating Expenses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ Increase (Decrease) 
+ 
+ (in millions) 
+ 2022 
+ 
+ 2021 
+ 
+ 
+ Other operating expenses 
+ $ 
+ (199) 
+ 
+ 
+ $ 
+ 13 
+ 
+ 
+ 
+ * 
+ 
+ % of Total revenues 
+ (1.2) 
+ % 
+ 
+ 0.1 
+ % 
+ 
+ 
+ * Not meaningful 
+ 
+ Other operating expenses in 2022 includes the gain of $240 million on the sale and leaseback transaction related to Booking.com's headquarters building, partially offset by a loss of $41 million related to the transfer of certain customer service operations of Booking.com to Majorel (see Notes 10 and 20 to our Consolidated Financial Statements). Other operating expenses for the year ended December 31, 2021 principally relate to the restructuring charges as a result of restructuring actions taken in 2020 and are primarily related to employee severance and other termination benefits at Booking.com. 
+ 
+ 
+ 
+ 51 
+ 
+ 
+ Interest Expense and Other Income (Expense), Net 
+ 
+ Interest Expense 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ 
+ 
+ (in millions) 
+ 2022 
+ 
+ 2021 
+ 
+ 
+ Interest expense 
+ $ 
+ 391 
+ 
+ 
+ $ 
+ 334 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other Income (Expense), Net 
+ 
+ The following table sets forth the composition of "Other income (expense), net" for the years ended December 31, 2022 and 2021: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ (in millions) 
+ 2022 
+ 
+ 2021 
+ 
+ Interest and dividend income 
+ $ 
+ 219 
+ 
+ 
+ $ 
+ 16 
+ 
+ 
+ Net losses on equity securities 
+ (963) 
+ 
+ 
+ (569) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Foreign currency transaction (losses) gains 
+ (43) 
+ 
+ 
+ 111 
+ 
+ 
+ Loss on early extinguishment of debt 
+ — 
+ 
+ 
+ (242) 
+ 
+ 
+ Other 
+ (1) 
+ 
+ 
+ (13) 
+ 
+ 
+ Other income (expense), net 
+ $ 
+ (788) 
+ 
+ 
+ $ 
+ (697) 
+ 
+ 
+ The following table presents the changes in interest and dividend income and interest expense for the years ended December 31, 2022 and 2021: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ Increase (Decrease) 
+ 
+ (in millions) 
+ 2022 
+ 
+ 2021 
+ 
+ 
+ Interest and dividend income 
+ $ 
+ 219 
+ 
+ 
+ $ 
+ 16 
+ 
+ 
+ 1,233.4 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Interest expense 
+ (391) 
+ 
+ 
+ (334) 
+ 
+ 
+ 16.9 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Interest and dividend income increased for the year ended December 31, 2022, compared to the year ended December 31, 2021, primarily due to the impact of higher interest rates on cash management activities (with related expenses recorded in interest expense) and investment activities. Interest expense increased for the year ended December 31, 2022, compared to the year ended December 31, 2021, primarily due to higher interest rates relating to our cash management activities (with related income recorded in interest income) and the issuance of senior notes in November 2022. This was offset in part by the impact of the adoption on January 1, 2022 of the new accounting standards update for convertible instruments, the redemption of senior notes with higher interest rates in April 2021, and the maturity in September 2021 of convertible senior notes. The amortization of debt discount on convertible debt was recorded in Interest expense. With the adoption of the new accounting standards update, such amortization is not recorded in the financial statements for periods after January 1, 2022 (see Note 2 to our Consolidated Financial Statements). 
+ 
+ See Note 19 to our Consolidated Financial Statements for additional information on "Other income (expense), net." See Notes 5 and 6 to our Consolidated Financial Statements for additional information related to net losses on equity securities and the impairments of an investment in equity securities. 
+ 
+ Foreign currency transaction (losses) gains for the year ended December 31, 2022 includes gains of $46 million related to our Euro-denominated debt and accrued interest that were not designated as net investment hedges and losses of $52 million on derivative contracts. Foreign currency transaction gains for the year ended December 31, 2021 includes gains of $135 million related to our Euro-denominated debt and accrued interest that were not designated as net investment hedges and losses of $30 million on derivative contracts. 
+ 
+ Loss on early extinguishment of debt is related to our Senior Notes due April 2025 and our Senior Notes due April 2027 that were redeemed in April 2021 (see Note 12 to our Consolidated Financial Statements). 
+ 
+ 
+ 
+ 52 
+ 
+ 
+ Income Taxes 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ Increase (Decrease) 
+ 
+ (in millions) 
+ 2022 
+ 
+ 2021 
+ 
+ 
+ Income tax expense 
+ $ 
+ 865 
+ 
+ 
+ $ 
+ 300 
+ 
+ 
+ 188.6 
+ % 
+ 
+ 
+ % of Income before income taxes 
+ 22.1 
+ % 
+ 
+ 20.5 
+ % 
+ 
+ 
+ 
+ Our 2022 effective tax rate differs from the U.S. federal statutory tax rate of 21%, primarily due to higher international tax rates, a valuation allowance recorded against deferred tax assets related to certain unrealized losses on equity securities, certain non-deductible expenses, and an increase in unrecognized tax benefits, partially offset by the benefit of the Netherlands Innovation Box Tax (discussed below). Our 2021 effective tax rate differs from the U.S. federal statutory tax rate of 21%, primarily due to the benefit of the Netherlands Innovation Box Tax, partially offset by higher international tax rates and an increase in unrecognized tax benefits. 
+ 
+ Our effective tax rate was higher for the year ended December 31, 2022, compared to the year ended December 31, 2021, primarily due to lower benefit resulting from the Netherlands Innovation Box Tax and higher valuation allowance recorded against deferred tax assets related to certain unrealized losses on equity securities, partially offset by lower international tax rates. 
+ 
+ Under Dutch corporate income tax law, income generated from qualifying innovative activities is taxed at a rate of 9% ("Innovation Box Tax") for periods beginning on or after January 1, 2021 rather than the Dutch statutory rate of 25%. Previously, the Innovation Box Tax rate was 7%. Effective January 1, 2022, the Netherlands corporate income tax rate increased from 25% to 25.8%. A portion of Booking.com's earnings during the years ended December 31, 2022 and 2021 qualified for Innovation Box Tax treatment, which had a significant beneficial impact on our effective tax rates for these periods. For more information regarding the Innovation Box Tax, see Part I, ITEM 1A, Risk Factors - " We may not be able to maintain our 'Innovation Box Tax' benefit. " 
+ 
+ 
+ 
+ 53 
+ 
+ 
+ 
+ Liquidity and Capital Resources 
+ 
+ Our financial results and prospects are almost entirely dependent on facilitating the sale of travel-related services. Marketing expenses and personnel expenses are the most significant operating expenses for our business. We rely on marketing channels to generate traffic to our websites. See our Consolidated Statements of Operations and "Trends" and "Results of Operations" above for additional information on marketing expenses and personnel expenses, including stock-based compensation expenses. Our continued access to sources of liquidity depends on multiple factors. See Part I, ITEM 1A, Risk Factors - " Our liquidity, credit ratings, and ongoing access to capital could be materially and negatively affected by global financial conditions and events. " 
+ 
+ At December 31, 2023, we had $13.1 billion in cash, cash equivalents, and investments, of which approximately $8.8 billion is held by our international subsidiaries. Cash, cash equivalents, and long-term investments held by our international subsidiaries are denominated primarily in Euros, U.S. Dollars, and Japanese Yen. See Notes 5 and 6 to our Consolidated Financial Statements for additional information about our cash equivalents and investments. Our investment policy seeks to preserve capital and maintain sufficient liquidity to meet operational and other needs of the business. In February 2023, we completed the sale of our investment in equity securities of Meituan and received gross proceeds of $1.7 billion. 
+ 
+ Deferred merchant bookings of $3.3 billion at December 31, 2023 represents cash payments received from travelers in advance of us completing our performance obligations and are comprised principally of amounts estimated to be payable to travel service providers as well as our estimated future revenue for our commission or margin and fees. The amounts are mostly subject to refunds for cancellations. 
+ 
+ At December 31, 2023, we had a remaining transition tax liability of $690 million as a result of the U.S. Tax Cuts and Jobs Act ("Tax Act"), which included $515 million reported as "Long-term U.S. transition tax liability" and $175 million included in "Accrued expenses and other current liabilities" in the Consolidated Balance Sheet. This liability will be paid over the next three years. In accordance with the Tax Act, generally, future repatriation of our international cash will not be subject to a U.S. federal income tax liability as a dividend, but will be subject to U.S. state income taxes and international withholding taxes, which have been accrued by us. 
+ 
+ In May 2023, we entered into a five-year unsecured revolving credit facility with a group of lenders. The revolving credit facility extends a revolving line of credit up to $2 billion to us and provides for the issuance of up to $80 million of letters of credit, as well as up to $100 million of borrowings on same-day notice. The revolving credit facility contains a maximum leverage ratio covenant, compliance with which is a condition to our ability to borrow. Upon entering into this new revolving credit facility, we terminated the $2 billion five-year revolving credit facility entered into in August 2019. At December 31, 2023 there were no borrowings outstanding and $18 million of letters of credit issued under the new revolving credit facility. 
+ 
+ See Note 12 to our Consolidated Financial Statements for additional information related to our debt arrangements, including principal amounts, interest rates, and maturity dates. Our convertible senior notes due in May 2025 are currently convertible at the option of the holder and have been classified as "Short-term debt" in the Consolidated Balance Sheet at December 31, 2023. If the note holders exercise their option to convert, we deliver cash to repay the principal amount of the notes and deliver shares of common stock or cash, at our option, to satisfy the conversion value in excess of the principal amount. At December 31, 2023, we had outstanding senior notes with varying maturities for an aggregate principal amount of $14.2 billion, with $2 billion payable within the next twelve months. The outstanding senior notes at December 31, 2023 had cumulative interest to maturity of $2.7 billion, with $440 million payable within the next twelve months. In May 2023, we issued senior notes with an aggregate principal amount of 1.75 billion Euros. The proceeds from the issuance of these senior notes are available for general corporate purposes, including to repurchase shares of our common stock. In March 2023, we repaid $500 million in aggregate principal amount on the maturity of the Senior Notes due March 2023. 
+ 
+ During the year ended December 31, 2023, we repurchased shares of our common stock for an aggregate cost of $10.4 billion. At December 31, 2022, we had a total remaining authorization of $3.9 billion related to a program authorized by our Board of Directors ("the Board") in 2019 to repurchase up to $15 billion of our common stock. In the first quarter of 2023, the Board authorized a program to repurchase up to $20 billion of our common stock and at December 31, 2023, we had a total remaining authorization of $13.7 billion. We still expect to complete the share repurchases under the remaining authorization by the end of 2026, assuming no major downturn in the travel market. Effective January 1, 2023, the Inflation Reduction Act of 2022 has mandated a 1% excise tax on share repurchases. Excise tax obligations that result from our share repurchases are accounted for as a cost of the treasury stock transaction. See Note 13 to our Consolidated Financial Statements for additional information related to our stock repurchases. 
+ 
+ 
+ 
+ 54 
+ 
+ 
+ On January 25, 2024, the Board adopted a dividend policy pursuant to which we intend to pay quarterly cash dividends on our common stock. Declaration of dividends pursuant to the policy will be subject to the Board’s consideration of, among other things, our financial performance, cash flows, capital needs, and liquidity. Pursuant to the dividend policy, on February 16, 2024 the Board declared a quarterly cash dividend of $8.75 per share of common stock, payable on March 28, 2024 to stockholders of record as of the close of business on March 8, 2024. 
+ 
+ At December 31, 2023, we had lease obligations of $961 million. See Note 10 to our Consolidated Financial Statements for more information on our obligations related to operating and financing leases. Additionally, at December 31, 2023, we had, in the aggregate, $361 million of non-cancellable purchase obligations individually greater than $10 million, of which $188 million is payable within the next twelve months. Such purchase obligations relate to agreements to purchase goods and services that are enforceable and legally binding, that specify all significant terms, including the quantities to be purchased, price provisions, and the approximate timing of the transaction. 
+ 
+ At December 31, 2023 there were $533 million of standby letters of credit and bank guarantees issued on our behalf. These are obtained primarily for regulatory purposes. 
+ 
+ See Note 16 to our Consolidated Financial Statements for additional information related to our commitments and contingencies, including the accrual of a loss of $530 million related to a draft decision by the Spanish competition authority and a loss of $276 million related to the Netherlands pension fund matter, which are recorded in the Consolidated Statement of Operations for the year ended December 31, 2023. 
+ 
+ We believe that our existing cash balances and liquid resources will be sufficient to fund our operating activities, capital expenditures, and other obligations through at least the next twelve months. However, if we are not successful in generating sufficient cash flow from operations or in raising additional capital when required in sufficient amounts and on terms acceptable to us, we may be required to reduce our planned capital expenditures and scale back the scope of our business plans, either of which could have a material adverse effect on our business, our ability to compete or our future growth prospects, financial condition, and results of operations. If additional funds were raised through the issuance of equity securities, the percentage ownership of our then current stockholders would be diluted. We may not generate sufficient cash flow from operations in the future, revenue growth or sustained profitability may not be realized, and future borrowings or equity sales may not be available in amounts sufficient to make anticipated capital expenditures, finance our strategies, or repay our indebtedness. 
+ 
+ Cash Flow Analysis 
+ 
+ Year Ended December 31, 2023 compared to Year Ended December 31, 2022 
+ 
+ Net cash provided by operating activities for the year ended December 31, 2023 was $7.3 billion, resulting from net income of $4.3 billion, a favorable net impact of $1.3 billion from adjustments for non-cash and other items and a favorable net change in working capital and long-term assets and liabilities of $1.7 billion. Non-cash items were principally associated with stock-based compensation expense and other stock-based payments, depreciation and amortization, deferred income tax benefit, provision for expected credit losses and chargebacks, unrealized foreign currency transaction losses (gains) related to Euro-denominated debt, and operating lease amortization. For the year ended December 31, 2023, deferred merchant bookings and other current liabilities increased by $2.7 billion, and accounts receivable increased by $1.3 billion, primarily due to increases in business volumes. During the year ended December 31, 2023, the Company accrued a loss of $530 million related to a draft decision by the Spanish competition authority and a loss of $276 million related to the Netherlands pension fund matter. The related liabilities are included in "Accrued expenses and other current liabilities" in the Consolidated Balance Sheet as of December 31, 2023. See Note 16 to our Consolidated Financial Statements for additional information. 
+ 
+ Net cash provided by operating activities for the year ended December 31, 2022 was $6.6 billion, resulting from net income of $3.1 billion, a favorable impact of $1.7 billion from adjustments for non-cash and other items, and a favorable net change in working capital and long-term assets and liabilities of $1.8 billion. Non-cash items were principally associated with net losses on equity securities, depreciation and amortization, stock-based compensation expense and other stock-based payments, deferred income tax benefit, provision for expected credit losses and chargebacks, and operating lease amortization. For the year ended December 31, 2022, deferred merchant bookings and other current liabilities increased by $3.7 billion, and accounts receivable increased by $1.2 billion, primarily due to increases in business volumes. 
+ 
+ Net cash provided by investing activities for the year ended December 31, 2023 was $1.5 billion, principally resulting from proceeds from the sale and maturity of investments of $1.8 billion, partially offset by purchases of property and equipment of $345 million. Net cash used in investing activities for the year ended December 31, 2022 was $518 million, principally 
+ 
+ 
+ 55 
+ 
+ 
+ resulting from purchases of investments of $768 million, primarily in various corporate and government debt securities, as well as from purchases of property and equipment of $368 million. This was partially offset by proceeds from the Booking.com headquarters sale and leaseback transaction of $601 million and proceeds from the sales and maturities of investments of $32 million. See Notes 5 and 10 to our Consolidated Financial Statements for additional information. 
+ 
+ Net cash used in financing activities for the year ended December 31, 2023 was $8.9 billion, principally resulting from payments for the repurchase of common stock of $10.4 billion and payments on the maturity of debt of $500 million, partially offset by the proceeds from the issuance of long-term debt of $1.9 billion. Net cash used in financing activities for the year ended December 31, 2022 was $4.9 billion, principally resulting from payments for the repurchase of common stock of $6.6 billion and payments on the maturity of debt of $1.9 billion. This was partially offset by the proceeds from the issuance of long-term debt of $3.6 billion. 
+ 
+ Year Ended December 31, 2022 compared to Year Ended December 31, 2021 
+ 
+ For a comparison of our cash flow activities for the fiscal years ended December 31, 2022 and 2021, see Cash Flow Analysis in ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of Operations, of our Annual Report on Form 10-K for the fiscal year ended December 31, 2022, filed with the SEC on February 23, 2022. 
+ 
+ Contingencies 
+ 
+ For information related to certain tax assessments and other tax matters, see Note 16 to our Consolidated Financial Statements and Part I, ITEM IA, Risk Factors - " We may have exposure to additional tax liabilities ." 
+ 
+ For information related to certain regulatory matters, and our other contingent liabilities, see Note 16 to our Consolidated Financial Statements and Part I, ITEM IA, Risk Factors - "Our business is subject to various competition/anti-trust, consumer protection, and online commerce laws and regulations around the world, and as the size of our business grows, scrutiny of our business by legislators and regulators in these areas may intensify." 
+ 
+ 

@@ -1,0 +1,2404 @@
+ ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations 
+ 
+ Overview 
+ The following overview is qualified in its entirety by the more complete discussion contained in this ITEM 7, the risk factors set forth in Part I, ITEM 1A of this Form 10-K, and our consolidated financial statements and the notes thereto set forth in ITEM 8 of this Form 10-K. Please also see the cautionary language at the beginning of Part I of this Annual Report regarding forward-looking statements. 
+ Unless otherwise noted, this Management’s Discussion and Analysis of Financial Condition and Results of Operations relates solely to our continuing operations and does not include the operations of our Software Integrity business. See “Software Integrity Divestiture” below and Note 3. Discontinued Operations of the Notes to Consolidated Financial Statements in this Annual Report for additional information about the Software Integrity Divestiture. 
+ Fiscal 2024 Financial Performance Summary 
+ For fiscal 2024, our results reflect continued, strong execution and the resiliency of our business, including 15% revenue growth compared to fiscal 2023, primarily due to revenue growth across all products and geographies. We have seen our customer set continue to expand as more companies in more industries define and optimize system performance at the silicon level. We also continue to see our total cost of revenue and operating expenses increase as we invest in our workforce and grow our research and development capabilities. 
+ The following table sets forth some of our key consolidated financial information for each of our last three fiscal years: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended October 31, 
+ 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ 
+ 
+ (in millions, except per share amounts) 
+ 
+ 
+ Revenue 
+ $ 
+ 6,127.4 
+ 
+ 
+ $ 
+ 5,318.0 
+ 
+ 
+ $ 
+ 4,615.7 
+ 
+ 
+ 
+ Cost of revenue 
+ $ 
+ 1,245.3 
+ 
+ 
+ $ 
+ 1,030.9 
+ 
+ 
+ $ 
+ 898.0 
+ 
+ 
+ 
+ Operating expenses 
+ $ 
+ 3,526.4 
+ 
+ 
+ $ 
+ 3,013.9 
+ 
+ 
+ $ 
+ 2,569.0 
+ 
+ 
+ 
+ Operating income 
+ $ 
+ 1,355.7 
+ 
+ 
+ $ 
+ 1,273.2 
+ 
+ 
+ $ 
+ 1,148.7 
+ 
+ 
+ Net income from continuing operations attributed to Synopsys 
+ $ 
+ 1,441.7 
+ 
+ 
+ $ 
+ 1,227.0 
+ 
+ 
+ $ 
+ 970.2 
+ 
+ 
+ 
+ Net income from discontinued operations attributed to Synopsys 
+ $ 
+ 821.7 
+ 
+ 
+ $ 
+ 2.8 
+ 
+ 
+ $ 
+ 14.4 
+ 
+ 
+ 
+ Diluted net income per share attributed to Synopsys: 
+ 
+ 
+ 
+ 
+ 
+ 
+ Continuing operations 
+ $ 
+ 9.25 
+ 
+ 
+ $ 
+ 7.91 
+ 
+ 
+ $ 
+ 6.20 
+ 
+ 
+ Discontinued operations 
+ $ 
+ 5.26 
+ 
+ 
+ $ 
+ 0.01 
+ 
+ 
+ $ 
+ 0.09 
+ 
+ Fiscal 2024 compared to fiscal 2023 financial performance summary 
+ • Revenues were $6.1 billion, an increase of $809.4 million or 15%, primarily due to revenue growth across all products and geographies. 
+ • Total cost of revenue and operating expenses was $4.8 billion, an increase of $726.9 million or 18%, primarily due to an increase of $325.8 million in employee-related costs resulting from headcount increases through organic growth and acquisitions. 
+ • Operating income was $1.4 billion, an increase of $82.5 million or 6%. 
+ • Net income from discontinued operations was $821.7 million, an increase of $818.9 million, primarily due to the gain on Software Integrity Divestiture. 
+ Fiscal 2023 compared to fiscal 2022 financial performance summary 
+ • Revenues were $5.3 billion, an increase of $702.3 million or 15%, primarily due to revenue growth across all products and geographies. 
+ • Total cost of revenue and operating expenses was $4.0 billion, an increase of $577.8 million or 17%, primarily due to an increase of $246.7 million in employee-related costs resulting from headcount increases through organic growth and acquisitions. 
+ • Operating income was $1.3 billion, an increase of $124.5 million or 11%. 
+ 
+ 
+ 
+ 36 
+ 
+ Table of Contents 
+ Business Summary 
+ Synopsys delivers trusted and comprehensive silicon to systems design solutions, from EDA, including system verification and validation solutions, to silicon IP. We partner closely with semiconductor and systems customers across a wide range of industries to maximize their engineering and research and development capacity. We are catalyzing the era of pervasive intelligence, powering innovation today that ignites the ingenuity of tomorrow. For more information about our business segments and product groups, see Part I, ITEM 1 Business of this Annual Report. 
+ We have consistently grown our revenue since 2005, despite periods of global economic uncertainty. We achieved these results because of our solid execution, leading technologies and strong customer relationships, and because we generally recognize our revenue for software licenses over the arrangement period, which typically approximates three years. See Note 2. Summary of Significant Accounting Polices and Basis of Presentation of the Notes to Consolidated Financial Statements in this Annual Report for a discussion on our revenue recognition policy . The revenue we recognize in a particular period generally results from selling efforts in prior periods rather than the current period. As a result, decreases as well as increases in customer spending do not immediately affect our revenue in a significant way. 
+ Our growth strategy is based on maintaining and building on our leadership in our Design Automation products, expanding and proliferating our Design IP offerings and continuing to expand our product portfolio and our total addressable market. Our revenue growth from period to period is expected to vary based on the mix of our time based and upfront products. Based on our leading technologies, customer relationships, business model, diligent expense management, and acquisition strategy, we believe that we will continue to execute our strategies successfully. 
+ Pending Acquisition of Ansys 
+ On January 15, 2024, we entered into an Agreement and Plan of Merger (the Merger Agreement) to acquire all of the outstanding shares of Ansys, a provider of broad engineering simulation and analysis software and services, in a cash-and-stock transaction (the Ansys Merger) that values Ansys at approximately $35.0 billion, based on the closing price of Synopsys common stock on December 21, 2023. 
+ Under the terms of the Merger Agreement, at the effective time of the Ansys Merger (the Effective Time), each share of Ansys common stock issued and outstanding immediately prior to the Effective Time (with certain exceptions set forth in the Merger Agreement) will be converted into the right to receive 0.3450 (the Exchange Ratio) of a share of Synopsys common stock and $197.00 in cash, without interest. The Exchange Ratio is expected to result in Ansys equityholders and Synopsys equityholders owning approximately 16.5% and 83.5%, respectively, of the combined company on a pro forma basis following the Effective Time. The Merger Agreement also provides for Synopsys’ assumption of certain outstanding Ansys options and other unvested Ansys equity awards held by continuing Ansys employees. If the stock consideration to be issued by Synopsys in connection with the Ansys Merger exceeds 19.9999% of the shares of Synopsys common stock issued and outstanding immediately prior to the Effective Time, the Exchange Ratio will be reduced to the minimum extent necessary to ensure that the aggregate number of shares of Synopsys common stock to be issued in connection with the Ansys Merger does not exceed such threshold, and the cash consideration will be correspondingly increased to offset such adjustment. 
+ Pursuant to the Merger Agreement, at the Effective Time, two members of the board of directors of Ansys selected by mutual agreement of Synopsys and Ansys will become members of the Board of Directors of Synopsys. If the closing occurs less than six months prior to the next annual meeting of Synopsys’ stockholders, Synopsys will nominate such directors for election at such meeting. On March 19, 2024, Synopsys and Ansys mutually agreed to designate Dr. Ajei Gopal, the current President and Chief Executive Officer of Ansys, to become a member of the Synopsys Board of Directors at the Effective Time, subject to the completion of Synopsys’ director nomination process and satisfaction of all applicable eligibility requirements established by Synopsys’ Corporate Governance and Nominating Committee. Ansys and Synopsys have not yet determined or agreed on the remaining member of the Ansys board of directors to be appointed to the Synopsys Board of Directors. 
+ The Ansys Merger was approved by the holders of a majority of the outstanding shares of Ansys common stock on May 22, 2024 and is anticipated to close in the first half of calendar year 2025. The Ansys Merger is subject to the satisfaction or waiver of customary closing conditions, including, among other things, the clearance of the Ansys Merger under certain antitrust and foreign investment regimes, and the continued effectiveness of the registration statement on Form S-4 (File No. 333-277912) filed by us on March 14, 2024 and declared effective by the SEC on April 17, 2024 . Following the determination that it was a necessary step towards obtaining governmental approval of and successfully closing the Ansys Merger, on September 3, 2024, we signed a definitive agreement for the sale of 
+ 
+ 
+ 37 
+ 
+ Table of Contents 
+ our Optical Solutions Group to Keysight Technologies, Inc. (the Optical Solutions Divestiture). The Optical Solutions Divestiture is subject to customary closing conditions, including review by regulatory authorities, and the successful closing of the Ansys Merger. 
+ 
+ We and Ansys each have termination rights under the Merger Agreement. A fee of $1.5 billion may be payable by us to Ansys, or a fee of $950.0 million may be payable by Ansys to us, upon termination of the Merger Agreement under specified circumstances, each as more fully described in the Merger Agreement. The receipt of financing by us is not a condition to complete the Ansys Merger. 
+ In connection with the execution of the Merger Agreement, we entered into a commitment letter on January 15, 2024 (the Bridge Commitment Letter) with certain financial institutions that committed to provide, subject to the satisfaction of customary closing conditions, a senior unsecured bridge facility (the Bridge Commitment). On October 3, 2024, we reduced the Bridge Commitment by $1.1 billion to $10.6 billion following the closing of the Software Integrity Divestiture (as defined below). The Bridge Commitment currently provides for an aggregate principal amount of up to $10.6 billion. On February 13, 2024, we entered into a term loan facility credit agreement (the Term Loan Agreement), which provides us with the ability to borrow up to $4.3 billion at the closing of the Ansys Merger, subject to the satisfaction of customary closing conditions for similar facilities, for the purpose of financing a portion of the cash consideration to be paid in the Ansys Merger and paying related fees and expenses in connection with the Ansys Merger and the other transactions contemplated by the Merger Agreement. See Note 11. Bridge Commitment Letter, Term Loan and Revolving Credit Facilities of the Notes to Consolidated Financial Statements in this Annual Report for more information on the Bridge Commitment and the Term Loan Agreement. 
+ For more on risks related to the Ansys Merger, see Part I, ITEM 1A, Risk Factors , “ Risks Related to the Ansys Merger " of this Annual Report. 
+ Impact of the Current Macroeconomic and Geopolitical Environment 
+ Uncertainty in the macroeconomic environment, including the effects of, among other things, sustained global inflationary pressures and elevated interest rates, potential economic slowdowns or recessions, supply chain disruptions, geopolitical pressures, fluctuations in foreign exchange rates, and associated global economic conditions, have resulted in volatility in credit, equity and foreign currency markets. In fiscal 2024, while we saw continued strength in the artificial intelligence and high-performance computing sectors, certain industries such as industrial, automotive and consumer electronics are recovering more slowly from recent macroeconomic uncertainty. We expect growth across our geographies in fiscal 2025; however, we are expecting a challenging near-term growth environment, including in China, due to macroeconomic factors as well as, to a lesser degree, Entity List and other global trade restrictions. For more on the anticipated impact of export control regulations, see the discussion below and in Part I, ITEM 1A, Risk Factors of this Annual Report. 
+ The current uncertain macroeconomic environment could lead some of our customers to postpone their decision-making, decrease their spending and/or delay their payments to us. For more on risks related to the current macroeconomic and geopolitical environment, see Part I, ITEM 1A, Risk Factors , “ Uncertainty in the macroeconomic environment, and its potential impact on the semiconductor and electronics industries, may negatively affect our business, operating results and financial condition ” of this Annual Report. 
+ We are also actively monitoring geopolitical pressures around the world, including, among others, changes in China-Taiwan relations, the conflicts in Ukraine and the Middle East and other regional or global military conflicts. Any significant disruption caused by these or other geopolitical pressures or conflicts could materially affect our employees, business, operating results, financial condition or customers in those regions of the world. For example, Synopsys has employees, operations, customers and strategic partners in the Middle East. While we are actively monitoring this conflict, at this time, it has not had a material impact on our business, operating results or financial condition to date. 
+ While our time-based model provides stability to our business, operating results and overall financial position, the broader implications of these macroeconomic or geopolitical events, particularly in the long term, remain uncertain. Further, the negative impact of these events or disruptions may be deferred due to our business model. 
+ See Part I, ITEM 1A, Risk Factors of this Annual Report for further discussion of the impact of global economic and geopolitical uncertainty on our business, operations and financial condition. 
+ 
+ 
+ 
+ 38 
+ 
+ Table of Contents 
+ Developments in Export Control Regulations 
+ The Bureau of Industry and Security (BIS) of the U.S. Department of Commerce published changes to U.S. export control regulations (U.S. Export Regulations), including, among other things, the inclusion of certain Chinese technology companies on the Entity List, restrictions on the export of electronic computer-aided design software specially designed for the development of ICs with Gate-All-Around Field-Effect Transistor structures, and certain other restrictions to China’s access to certain semiconductor and advanced computing technology. We currently believe U.S. Export Regulations will not have a material impact on our business. We anticipate additional changes to U.S. Export Regulations in the future, but we cannot forecast the scope or timing of such changes, nor the impact on our business. We will continue to monitor such developments, including potential additional trade restrictions, and other regulatory or policy changes by the U.S. and foreign governments. 
+ For more on risks related to government export and import restrictions such as the U.S. government’s Entity List and other U.S. Export Regulations, see Part I, ITEM 1A, Risk Factors , “ We are subject to governmental export and import requirements that could subject us to liability and restrict our ability to sell our products and services, which could impair our ability to compete in international markets .” 
+ Software Integrity Divestiture 
+ On May 5, 2024, we entered into an Equity Purchase Agreement (the Purchase Agreement), by and between Synopsys and Sapphire Software Buyer, Inc. (Buyer), an entity controlled by funds affiliated with Clearlake Capital Group, L.P. and Francisco Partners (together, the Sponsors). On September 30, 2024, we completed the previously announced sale of our Software Integrity business to entities controlled by funds affiliated with the Sponsors (the Software Integrity Divestiture). We previously determined that the Software Integrity business met the criteria to be disclosed as discontinued operations in the second quarter of fiscal 2024. See Note 3. Discontinued Operations of the Notes to Consolidated Financial Statements in this Annual Report for additional information on discontinued operations. 
+ Business Segments 
+ Design Automation. This segment includes our advanced silicon design, verification products and services and system integration products. This segment also includes digital, custom and field programmable gate array (FPGA) integrated circuit (IC) design software, verification software and hardware products, system integration products and services, and manufacturing software products. Designers use our EDA products to accelerate and automate the chip design process, reduce errors and enable more powerful and robust designs, with improved productivity for faster time to market. 
+ Design IP. This segment includes our interface, foundation, security, and embedded processor IP, IP subsystems, and IP implementation services that serve companies primarily in the semiconductor and electronics industries. We are a leading provider of high-quality, silicon-proven IP solutions for system-on-chips (SoCs). This includes IP that has been optimized to address specific application requirements for the mobile, automotive, digital home, Internet of Things and AI/data center markets, enabling designers to quickly develop SoCs in these areas. 
+ Fiscal Year End 
+ Historically, our fiscal years have been 52- or 53-week periods ending on the Saturday nearest to October 31. Fiscal 2024 was a 53-week year ending on November 2, 2024, which impacted our revenue, expenses and operating results. Fiscal 2023 and 2022 were 52-week years and ended on October 28, 2023, and October 29, 2022, respectively. The extra week in fiscal 2024 resulted in approximately $70.5 million of additional revenue, and approximately $61.0 million of additional expenses, including approximately $11.0 million in stock-based compensation costs. The financial impact of one extra week included the amounts associated with the discontinued operations. 
+ We have changed our fiscal year end from the Saturday nearest to October 31 and consisting of 52 or 53 fiscal weeks to a fiscal year end of October 31 each year. The fiscal year change becomes effective with our fiscal year 2025, which began on November 3, 2024. Our fiscal quarters will end on January 31, April 30, July 31 and October 31 of each year. 
+ For presentation purposes, this Annual Report refers to the closest calendar month end. 
+ 
+ 
+ 39 
+ 
+ 
+ Table of Contents 
+ Critical Accounting Estimates 
+ Our consolidated financial statements have been prepared in accordance with U.S. GAAP. In preparing these financial statements, we make assumptions, judgments and estimates that can affect the reported amounts of assets, liabilities, revenues and expenses, and net income. On an ongoing basis, we evaluate our estimates based on historical experience and various other assumptions that we believe are reasonable under the circumstances. Our actual results may differ from these estimates. See Note 2. Summary of Significant Accounting Policies and Basis of Presentation of the Notes to Consolidated Financial Statements in this Annual Report for further information on our significant accounting policies. 
+ The accounting policies that most frequently require us to make assumptions, judgments and estimates, and therefore are critical to understanding our results of operations, are: 
+ • Revenue recognition; and 
+ • Business combinations. 
+ Revenue Recognition 
+ Our contracts with customers often include promises to transfer multiple products and services to a customer. Arrangements with customers can involve multiple products and various license rights. Customers can negotiate for a broad portfolio of solutions, and favorable terms along with future purchase options to manage their overall costs. Analysis of the terms and conditions in these contracts and their effect on revenue recognition may require significant judgment. 
+ We have concluded that our EDA software licenses in Technology Subscription License (TSL) contracts are not distinct from our obligation to provide unspecified software updates to the licensed software throughout the license term, because those promises represent inputs to a single, combined performance obligation. Where unspecified additional software product rights are part of the contract with the customer, those rights are accounted for as part of the single performance obligation that includes the licenses, updates, and technical support, because such rights are provided during the same period of time and have the same time-based pattern of transfer to the customer. 
+ For our IP licensing arrangements, we have concluded that the licenses and support services are distinct from each other, and therefore treated as separate performance obligations. Revenues from IP licenses are recognized at a point in time upon transfer of control of the IP license, and support services are recognized over the support period as a stand ready obligation to the customer. 
+ We are required to estimate total consideration expected to be received from contracts with customers. In some circumstances, the consideration expected to be received is variable based on the specific terms of the contract or based on our expectations of the term of the contract. Generally, we have not experienced significant returns or refunds to customers. These estimates require significant judgment and the change in these estimates could have an effect on our results of operations during the periods involved. 
+ Business Combinations 
+ We allocate the purchase price of acquired companies to the tangible and intangible assets acquired and liabilities assumed based upon their estimated fair values on the acquisition date with the exception of contract assets and contract liabilities (deferred revenue) which are recognized and measured on the acquisition date in accordance with our "Revenue Recognition" policy in Note 2. Summary of Significant Accounting Policies and Basis of Presentation of the Notes to Consolidated Financial Statements in this Annual Report , as if we had originated the contracts. The excess of the purchase price over the fair values of these net tangible and intangible assets acquired is recorded as goodwill. 
+ Accounting for business combinations requires management to make significant estimates and assumptions including our estimates for intangible assets. Although we believe the assumptions and estimates we have made are reasonable, they are based in part on historical experience, market conditions and information obtained from management of the acquired companies and are inherently uncertain. Examples of critical estimates in valuing certain of the intangible assets we have acquired or may acquire in the future include, but are not limited to: 
+ • future expected cash flows from software license sales, subscriptions, support agreements, consulting contracts and acquired developed technologies and patents; 
+ 
+ 
+ 40 
+ 
+ Table of Contents 
+ • historical and expected customer attrition rates and anticipated growth in revenue from acquired customers; 
+ • estimated obsolescence rates used in valuing technology related intangible assets; 
+ • the expected use of the acquired assets; and 
+ • discount rates used to discount expected future cash flows to present value, which are typically derived from a weighted-average cost of capital analysis and adjusted to reflect inherent risks. 
+ The fair value of the definite-lived intangibles was determined using variations of the income approach. 
+ For acquisitions completed in fiscal 2024, the fair value for acquired existing technology was determined by applying the relief from royalty method under the income approach. The relief from royalty method applies a royalty rate to projected income to quantify the benefit of owning the intangible asset rather than paying a royalty for use of the asset. The economic useful life was determined based on historical technology obsolescence patterns and prospective technology developments. We assumed royalty rates ranging from 35% to 40%. The present value of operating cash flows from the existing technology was determined using discount rates ranging from approximately 11% to 14%. 
+ Customer relationships represent the fair value of the existing relationships with the acquired company’s customers. Their fair value was determined using the multi-period excess earnings method under the income approach, which involves isolating the net earnings attributable to the asset being measured based on the present value of the incremental after-tax cash flows (excess earnings) attributable solely to the asset over its remaining useful life. The economic useful life was determined based on historical customer turnover rates. Projected income from existing customer relationships considered customer retention rates ranging from 55% to 95%. The present value of operating cash flows from existing customers was determined using discount rates ranging from approximately 11% to 14%. 
+ We believe that our estimates and assumptions related to the fair value of acquired intangible assets are reasonable, but significant judgment is involved. 
+ 
+ Results of Operations 
+ Revenue 
+ Our revenues are generated from two business segments: the Design Automation segment and the Design IP segment. See Note 20. Segment Disclosure of the Notes to Consolidated Financial Statements in this Annual Report for more information about our reportable segments and revenue by geographic regions. 
+ Further disaggregation of the revenues into various products and services within these two segments is summarized as follows: 
+ Design Automation Segment 
+ • EDA solutions include digital, custom and FPGA IC design software, verification software and hardware products, system integration products and services, and obligations to provide unspecified updates and support services. EDA products and services are typically sold through TSL arrangements that grant customers the right to access and use all of the licensed products at the outset of an arrangement; software updates are generally made available throughout the entire term of the arrangement. The duration of our TSL contracts is generally three years, though it may vary for specific arrangements. We have concluded that the software licenses in TSL contracts are not distinct from the obligation to provide unspecified software updates to the licensed software throughout the license term, because the multiple software licenses and support represent inputs to a single, combined offering, and timely, relevant software updates are integral to maintaining the utility of the software licenses. We recognize revenue for the combined performance obligation under TSL contracts ratably over the term of the license. 
+ • In the case of arrangements involving the sale of hardware products, we generally have two performance obligations. The first performance obligation is to transfer the hardware product, which includes software integral to the functionality of the hardware product. The second performance obligation is to provide maintenance on the hardware and its embedded software, which includes rights to technical support, hardware repairs and software updates that are all provided over the same term 
+ 
+ 
+ 41 
+ 
+ Table of Contents 
+ and have the same time-based pattern of transfer to the customer. The portion of the transaction price allocated to the hardware product is generally recognized as revenue at the time of shipment because the customer obtains control of the product at that point in time. We have concluded that control generally transfers at that point in time because the customer has the ability to direct the use of the asset and an obligation to pay for the hardware. The portion of the transaction price allocated to the maintenance obligation is recognized as revenue ratably over the maintenance term. 
+ • Revenue from Professional Service contracts is recognized over time, generally using costs incurred or hours expended to measure progress. We have a history of reasonably estimating project status and the costs necessary to complete projects. A number of internal and external factors can affect these estimates, including labor rates, utilization and efficiency variances and specification and testing requirement changes. 
+ Design IP Segment 
+ • Design IP includes our interface, foundation, security, and embedded processor IP, IP subsystems, and IP implementation services. These arrangements generally have two performance obligations which consist of transferring of the licensed IP and providing related support, which includes rights to technical support and software updates that are provided over the support term and are transferred to the customer over time. Revenue allocated to the IP licenses is recognized at a point in time upon the later of the delivery date or the beginning of the license period, and revenue allocated to support is recognized over the support term. Royalties are recognized as revenue in the quarter in which the applicable customer sells its products that incorporate our IP. Payments for IP contracts are generally received upon delivery of the IP. Revenue related to the customization of certain IP is recognized over time, generally using costs incurred or hours expended to measure progress. 
+ Our customer arrangements can involve multiple products and various license rights, and our customers negotiate with us over many aspects of these arrangements. For example, they generally request a broader portfolio of solutions, support and services and seek more favorable terms such as expanded license usage, future purchase rights and other unique rights at an overall lower total cost. No single factor typically drives our customers’ buying decisions, and we compete on all fronts to serve customers in highly competitive markets. Customers generally negotiate the total value of the arrangement rather than just unit pricing or volumes. 
+ Total Revenue 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended October 31, 
+ 
+ $ Change 
+ 
+ % Change 
+ 
+ $ Change 
+ 
+ % Change 
+ 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ 2024 vs. 2023 
+ 
+ 2023 vs. 2022 
+ 
+ 
+ (dollars in millions) 
+ 
+ 
+ 
+ 
+ 
+ Design Automation 
+ $ 
+ 4,221.1 
+ 
+ 
+ $ 
+ 3,775.3 
+ 
+ 
+ $ 
+ 3,300.2 
+ 
+ 
+ $ 
+ 445.8 
+ 
+ 
+ 12 
+ % 
+ 
+ $ 
+ 475.1 
+ 
+ 
+ 14 
+ % 
+ 
+ Design IP 
+ 1,906.3 
+ 
+ 
+ 1,542.7 
+ 
+ 
+ 1,315.5 
+ 
+ 
+ 363.6 
+ 
+ 
+ 24 
+ % 
+ 
+ 227.2 
+ 
+ 
+ 17 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total 
+ $ 
+ 6,127.4 
+ 
+ 
+ $ 
+ 5,318.0 
+ 
+ 
+ $ 
+ 4,615.7 
+ 
+ 
+ $ 
+ 809.4 
+ 
+ 
+ 15 
+ % 
+ 
+ $ 
+ 702.3 
+ 
+ 
+ 15 
+ % 
+ Our revenues are subject to fluctuations, primarily due to customer requirements including the timing and value of contract renewals. For example, we experience fluctuations in our revenues due to factors such as the timing of IP product sales, Flexible Spending Account (FSA) drawdowns, royalties, and hardware products sales. As revenues from IP products sales and hardware products sales are recognized upfront, customer demand and timing requirements for such IP products and hardware products could result in increased variability of our total revenues. 
+ Contracted but unsatisfied or partially unsatisfied performance obligations (backlog) as of October 31, 2024 were approximately $8.1 billion, which includes $1.2 billion in non-cancellable FSA commitments from customers where actual product selection and quantities of specific products or services are to be determined by customers at a later date. We have elected to exclude future sales-based royalty payments from the remaining performance obligations. Approximately 41% of the backlog as of October 31, 2024, excluding non-cancellable FSA, is expected to be recognized as revenue over the next 12 months, with the remainder recognized thereafter. The majority of the remaining backlog is expected to be recognized in the following three years . The backlog was approximately $8.1 billion as of October 31, 2023, which included $1.4 billion in non-cancellable FSA commitments from customers. 
+ The amount and composition of unsatisfied performance obligations will fluctuate period to period. We do not believe the amount of unsatisfied performance obligations is indicative of future sales or revenue, or that such obligations at the end of any given period correlates with actual sales performance of a particular geography or 
+ 
+ 
+ 42 
+ 
+ Table of Contents 
+ particular products and services. F or more information regarding our revenue as of October 31, 2024, including our contract balances as of such date, see Note 6. Revenue of the Notes to Consolidated Financial Statements in this Annual Report. 
+ For fiscal 2024 compared to fiscal 2023 and fiscal 2023 compared to fiscal 2022, revenues increased due to the continued organic growth of our business in all product groups and geographies. 
+ For a discussion of revenue by geographic areas, see Note 20. Segment Disclosure of the Notes to Consolidated Financial Statements in this Annual Report . 
+ Time-Based Products Revenue 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended October 31, 
+ 
+ $ Change 
+ 
+ % Change 
+ 
+ $ Change 
+ 
+ % Change 
+ 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ 2024 vs. 2023 
+ 
+ 2023 vs. 2022 
+ 
+ 
+ (dollars in millions) 
+ 
+ Time-based products revenue 
+ $ 
+ 3,224.3 
+ 
+ 
+ $ 
+ 3,016.3 
+ 
+ 
+ $ 
+ 2,657.7 
+ 
+ 
+ $ 
+ 208.0 
+ 
+ 
+ 7 
+ % 
+ 
+ $ 
+ 358.6 
+ 
+ 
+ 13 
+ % 
+ 
+ Percentage of total revenue 
+ 53 
+ % 
+ 
+ 57 
+ % 
+ 
+ 58 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The increase in time-based products revenue for fiscal 2024 compared to fiscal 2023 and for fiscal 2023 compared to fiscal 2022 was primarily attributable to an increase in TSL license revenue from arrangements booked in prior periods. The increase for fiscal 2024 compared to fiscal 2023 also included the impact of the extra week in fiscal 2024. 
+ Upfront Products Revenue 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended October 31, 
+ 
+ $ Change 
+ 
+ % Change 
+ 
+ $ Change 
+ 
+ % Change 
+ 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ 2024 vs. 2023 
+ 
+ 2023 vs. 2022 
+ 
+ 
+ (dollars in millions) 
+ 
+ Upfront products revenue 
+ $ 
+ 1,802.2 
+ 
+ 
+ $ 
+ 1,400.1 
+ 
+ 
+ $ 
+ 1,221.2 
+ 
+ 
+ $ 
+ 402.1 
+ 
+ 
+ 29 
+ % 
+ 
+ $ 
+ 178.9 
+ 
+ 
+ 15 
+ % 
+ 
+ Percentage of total revenue 
+ 29 
+ % 
+ 
+ 26 
+ % 
+ 
+ 26 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Changes in upfront products revenue are generally attributable to normal fluctuations in the extent and timing of customer requirements, which can drive the amount of upfront orders and revenue in any particular period. 
+ The increase in upfront products revenue for fiscal 2024 compared to fiscal 2023 and for fiscal 2023 compared to fiscal 2022 was primarily due to an increase in the sale of IP and hardware products driven by higher demand from customers. 
+ Upfront products revenue as a percentage of total revenue will likely fluctuate based on the timing of IP and hardware product sales. Such fluctuations will continue to be impacted by the timing of shipments and FSA drawdowns due to customer requirements. 
+ Maintenance and Service Revenue 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended October 31, 
+ 
+ $ Change 
+ 
+ % Change 
+ 
+ $ Change 
+ 
+ % Change 
+ 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ 2024 vs. 2023 
+ 
+ 2023 vs. 2022 
+ 
+ 
+ (dollars in millions) 
+ 
+ Maintenance revenue 
+ $ 
+ 429.4 
+ 
+ 
+ $ 
+ 358.1 
+ 
+ 
+ $ 
+ 291.6 
+ 
+ 
+ $ 
+ 71.3 
+ 
+ 
+ 20 
+ % 
+ 
+ $ 
+ 66.5 
+ 
+ 
+ 23 
+ % 
+ 
+ Professional service and other revenue 
+ 671.5 
+ 
+ 
+ 543.5 
+ 
+ 
+ 445.2 
+ 
+ 
+ 128.0 
+ 
+ 
+ 24 
+ % 
+ 
+ 98.3 
+ 
+ 
+ 22 
+ % 
+ 
+ Total 
+ $ 
+ 1,100.9 
+ 
+ 
+ $ 
+ 901.6 
+ 
+ 
+ $ 
+ 736.8 
+ 
+ 
+ $ 
+ 199.3 
+ 
+ 
+ 22 
+ % 
+ 
+ $ 
+ 164.8 
+ 
+ 
+ 22 
+ % 
+ 
+ Percentage of total revenue 
+ 18 
+ % 
+ 
+ 17 
+ % 
+ 
+ 16 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The increase in maintenance revenue for fiscal 2024 compared to fiscal 2023 and for fiscal 2023 compared to fiscal 2022 was primarily due to an increase in the volume of arrangements that include maintenance. 
+ The increase in professional service and other revenue for fiscal 2024 compared to fiscal 2023 and for fiscal 2023 compared to fiscal 2022 was primarily due to the timing of IP customization projects . 
+ 
+ 
+ 43 
+ 
+ Table of Contents 
+ Cost of Revenue 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended October 31, 
+ $ Change 
+ 
+ % Change 
+ 
+ $ Change 
+ 
+ % Change 
+ 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ 2024 vs. 2023 
+ 
+ 2023 vs. 2022 
+ 
+ 
+ (dollars in millions) 
+ 
+ Cost of products revenue 
+ $ 
+ 770.2 
+ 
+ 
+ $ 
+ 697.7 
+ 
+ 
+ $ 
+ 594.0 
+ 
+ 
+ $ 
+ 72.5 
+ 
+ 
+ 10 
+ % 
+ 
+ $ 
+ 103.7 
+ 
+ 
+ 17 
+ % 
+ 
+ Cost of maintenance and service revenue 
+ 367.1 
+ 
+ 
+ 287.9 
+ 
+ 
+ 259.3 
+ 
+ 
+ 79.2 
+ 
+ 
+ 28 
+ % 
+ 
+ 28.6 
+ 
+ 
+ 11 
+ % 
+ 
+ 
+ Amortization of acquired intangible assets 
+ 108.0 
+ 
+ 
+ 45.3 
+ 
+ 
+ 44.7 
+ 
+ 
+ 62.7 
+ 
+ 
+ 138 
+ % 
+ 
+ 0.6 
+ 
+ 
+ 1 
+ % 
+ 
+ Total 
+ $ 
+ 1,245.3 
+ 
+ 
+ $ 
+ 1,030.9 
+ 
+ 
+ $ 
+ 898.0 
+ 
+ 
+ $ 
+ 214.4 
+ 
+ 
+ 21 
+ % 
+ 
+ $ 
+ 132.9 
+ 
+ 
+ 15 
+ % 
+ 
+ Percentage of total revenue 
+ 20 
+ % 
+ 
+ 19 
+ % 
+ 
+ 19 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ We divide cost of revenue into three categories: cost of products revenue, cost of maintenance and service revenue, and amortization of acquired intangible assets. 
+ Cost of products revenue. Cost of products revenue includes costs related to products sold and software licensed, hardware-related costs including inventory provisions, allocated operating costs related to product support and distribution, royalties paid to third-party vendors, and the amortization of capitalized software development costs. 
+ Cost of maintenance and service revenue. Cost of maintenance and service revenue includes costs to deliver our maintenance services, such as hotline and on-site support, production services and documentation of maintenance updates. 
+ Amortization of acquired intangible assets. Amortization of acquired intangible assets, included in cost of revenue, consists of the amortization and impairment charges of core/developed technology and certain contract rights intangible assets related to acquisitions. 
+ The increase in cost of revenue for fiscal 2024 compared to fiscal 2023 was primarily due to increases of $62.7 million in amortization of acquired technology-related intangible assets, which included an impairment charge of $53.5 million due to a decline in estimated fair value resulting from the reductions in the expected future cash flows associated with certain core/developed technology intangible assets as further discussed in Note 7. Goodwill and Intangible Assets of the Notes to Consolidated Financial Statements in this Annual Report, $53.5 million in costs to fulfill IP consulting arrangements, $47.4 million in employee-related costs as a result of headcount increases from hiring, $43.4 million in hardware-related costs including inventory provisions, $3.4 million in the change in the fair value of our executive deferred compensation plan assets, and $3.2 million in maintenance and depreciation expenses. These increases were partially offset by a decrease of $2.1 million in facility costs. 
+ The increase in cost of revenue for fiscal 2023 compared to fiscal 2022 was primarily due to increases of $53.4 million in hardware-related costs including inventory provisions, $45.8 million in employee-related costs as a result of headcount increases from hiring, $13.1 million in facility costs, $7.8 million in costs to fulfill IP consulting arrangements, and $6.0 million in the change in the fair value of our executive deferred compensation plan assets. 
+ 
+ Operating Expenses 
+ Research and Development 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended October 31, 
+ 
+ $ Change 
+ 
+ % Change 
+ 
+ $ Change 
+ 
+ % Change 
+ 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ 2024 vs. 2023 
+ 
+ 2023 vs. 2022 
+ 
+ 
+ (dollars in millions) 
+ 
+ 
+ Research and development expenses 
+ $ 
+ 2,082.4 
+ 
+ 
+ $ 
+ 1,849.9 
+ 
+ 
+ $ 
+ 1,589.8 
+ 
+ 
+ $ 
+ 232.5 
+ 
+ 
+ 13 
+ % 
+ 
+ $ 
+ 260.1 
+ 
+ 
+ 16 
+ % 
+ 
+ Percentage of total revenue 
+ 34 
+ % 
+ 
+ 35 
+ % 
+ 
+ 34 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The increase in research and development expenses for fiscal 2024 compared to fiscal 2023 was primarily due to higher employee-related costs of $148.2 million as a result of headcount increases as we continue to expand and 
+ 
+ 
+ 44 
+ 
+ Table of Contents 
+ enhance our product portfolio, increases of $36.5 million in the change in the fair value of our executive deferred compensation plan assets, $20.6 million in facility costs, $6.7 million in depreciation expenses, and $2.4 million in consultant and contractor costs. 
+ The increase in research and development expenses for fiscal 2023 compared to fiscal 2022 was primarily due to higher employee-related costs of $135.1 million as a result of headcount increases as we continue to expand and enhance our product portfolio, increases of $57.2 million in the change in fair value of our executive deferred compensation plan assets, $31.0 million in facility costs, and $21.2 million in consultant and contractor costs. 
+ Sales and Marketing 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended October 31, 
+ 
+ $ Change 
+ 
+ % Change 
+ 
+ $ Change 
+ 
+ % Change 
+ 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ 2024 vs. 2023 
+ 
+ 2023 vs. 2022 
+ 
+ 
+ (dollars in millions) 
+ 
+ 
+ Sales and marketing expenses 
+ $ 
+ 859.3 
+ 
+ 
+ $ 
+ 724.9 
+ 
+ 
+ $ 
+ 642.7 
+ 
+ 
+ $ 
+ 134.4 
+ 
+ 
+ 19 
+ % 
+ 
+ $ 
+ 82.2 
+ 
+ 
+ 13 
+ % 
+ 
+ Percentage of total revenue 
+ 14 
+ % 
+ 
+ 14 
+ % 
+ 
+ 14 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The increase in sales and marketing expenses for fiscal 2024 compared to fiscal 2023 was primarily due to increases of $90.9 million in employee-related costs due to headcount increases, $19.6 million in the change in the fair value of our executive deferred compensation plan assets, and $7.0 million in travel and marketing costs due to an increased number of in-person meetings and events. 
+ The increase in sales and marketing expenses for fiscal 2023 compared to fiscal 2022 was primarily due to increases of $41.0 million in employee-related costs due to headcount increases and higher sales commissions, $13.2 million in the change in the fair value of our executive deferred compensation plan assets, $10.4 million in travel and marketing costs due to an increased number of in-person meetings and events, and $8.4 million in facility costs. 
+ General and Administrative 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended October 31, 
+ 
+ $ Change 
+ 
+ % Change 
+ 
+ $ Change 
+ 
+ % Change 
+ 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ 2024 vs. 2023 
+ 
+ 2023 vs. 2022 
+ 
+ 
+ (dollars in millions) 
+ 
+ 
+ General and administrative expenses 
+ $ 
+ 568.5 
+ 
+ 
+ $ 
+ 376.7 
+ 
+ 
+ $ 
+ 313.6 
+ 
+ 
+ $ 
+ 191.8 
+ 
+ 
+ 51 
+ % 
+ 
+ $ 
+ 63.1 
+ 
+ 
+ 20 
+ % 
+ 
+ Percentage of total revenue 
+ 9 
+ % 
+ 
+ 7 
+ % 
+ 
+ 7 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The increase in general and administrative expenses for fiscal 2024 compared to fiscal 2023 was primarily due to increases of $135.2 million in legal, consulting and other professional fees mainly in connection with the Ansys Merger, $39.3 million in personnel-related costs due to headcount increases from hiring, $24.2 million in maintenance and depreciation expenses, and $5.7 million in the change in the fair value of our executive deferred compensation plan assets. 
+ The increase in general and administrative expenses for fiscal 2023 compared to fiscal 2022 was primarily due to increases of $24.8 million in personnel-related costs due to headcount increases from hiring, $16.1 million in maintenance and depreciation expenses, $15.9 million in legal, consulting and other professional fees, and $11.8 million in the change in the fair value of our executive deferred compensation plan assets. These increases were partially offset by bad debt recoveries of $15.9 million in the second quarter of fiscal 2022. 
+ Change in Fair Value of Deferred Compensation 
+ The income or loss arising from the change in the fair value of our non-qualified deferred compensation plan obligation is recorded in cost of sales and each functional operating expense, with the offsetting change in the fair value of the related assets recorded in interest and other income (expense), net. There is no impact on our net income from the fair value changes in our deferred compensation plan obligation and related assets. 
+ 
+ 
+ 45 
+ 
+ Table of Contents 
+ Amortization of Acquired Intangible Assets 
+ Amortization of acquired intangible assets included in operating expenses consists of the amortization of trademarks, trade names, and customer relationships intangible assets related to acquisitions. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended October 31, 
+ 
+ $ Change 
+ 
+ % Change 
+ 
+ $ Change 
+ 
+ % Change 
+ 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ 2024 vs. 2023 
+ 
+ 2023 vs. 2022 
+ 
+ 
+ (dollars in millions) 
+ 
+ 
+ Amortization of acquired intangible assets 
+ $ 
+ 16.2 
+ 
+ 
+ $ 
+ 9.3 
+ 
+ 
+ $ 
+ 11.6 
+ 
+ 
+ $ 
+ 6.9 
+ 
+ 
+ 74 
+ % 
+ 
+ (2.3) 
+ 
+ 
+ (20) 
+ % 
+ 
+ Percentage of total revenue 
+ — 
+ % 
+ 
+ — 
+ % 
+ 
+ — 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The increase in amortization of acquired intangible assets for fiscal 2024 compared to fiscal 2023 was primarily due to amortization expense related to intangible assets acquired during fiscal 2024, partially offset by certain intangible assets becoming fully amortized during fiscal 2024 . 
+ The decrease in amortization of acquired intangible assets for fiscal 2023 compared to fiscal 2022 was primarily due to certain intangible assets becoming fully amortized during fiscal 2023, partially offset by amortization expense related to intangible assets acquired during fiscal 2023 . 
+ Restructuring Charges 
+ In the first quarter of fiscal 2023, we initiated a restructuring plan for involuntary employee terminations as part of a business reorganization (the 2023 Plan). The 2023 Plan was substantially completed in the third quarter of fiscal 2023, and total charges under the 2023 Plan consisting primarily of severance costs and facility exit costs were $77.0 million, of which $23.9 million were related to discontinued operations. 
+ The following is a summary of our restructuring liabilities: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fiscal Year 
+ Balance at Beginning of Period 
+ 
+ Costs Incurred 
+ 
+ Cash Payments 
+ 
+ 
+ 
+ Balance at End of Period 
+ 
+ 
+ (dollars in millions) 
+ 
+ 2024 
+ $ 
+ 8.2 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ (3.6) 
+ 
+ 
+ 
+ 
+ $ 
+ 4.6 
+ 
+ 
+ 2023 
+ $ 
+ — 
+ 
+ 
+ $ 
+ 53.1 
+ 
+ 
+ $ 
+ (44.9) 
+ 
+ 
+ 
+ 
+ $ 
+ 8.2 
+ 
+ 
+ 2022 
+ $ 
+ 12.9 
+ 
+ 
+ $ 
+ 11.2 
+ 
+ 
+ $ 
+ (24.1) 
+ 
+ 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ See Note 21. Restructuring Charges of the Notes to Consolidated Financial Statements in this Annual Report for additional information . 
+ 
+ 
+ 46 
+ 
+ 
+ Table of Contents 
+ Interest and Other Income (Expense), Net 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended October 31, 
+ 
+ $ Change 
+ 
+ % Change 
+ 
+ $ Change 
+ 
+ % Change 
+ 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ 2024 vs. 2023 
+ 
+ 2023 vs. 2022 
+ 
+ 
+ (dollars in millions) 
+ 
+ Interest income 
+ $ 
+ 67.0 
+ 
+ 
+ $ 
+ 36.7 
+ 
+ 
+ $ 
+ 8.5 
+ 
+ 
+ $ 
+ 30.3 
+ 
+ 
+ 83 
+ % 
+ 
+ $ 
+ 28.2 
+ 
+ 
+ 332 
+ % 
+ 
+ Interest expense 
+ (35.2) 
+ 
+ 
+ (1.2) 
+ 
+ 
+ (1.7) 
+ 
+ 
+ (34.0) 
+ 
+ 
+ 2,833 
+ % 
+ 
+ 0.5 
+ 
+ 
+ (29) 
+ % 
+ 
+ Gains (losses) on assets related to executive deferred compensation plan 
+ 85.4 
+ 
+ 
+ 20.2 
+ 
+ 
+ (67.5) 
+ 
+ 
+ 65.2 
+ 
+ 
+ 323 
+ % 
+ 
+ 87.7 
+ 
+ 
+ (130) 
+ % 
+ 
+ 
+ Gain on sale of strategic investments 
+ 55.1 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ 55.1 
+ 
+ 
+ 100 
+ % 
+ 
+ — 
+ 
+ 
+ — 
+ % 
+ 
+ Foreign currency exchange gains (losses) 
+ 6.3 
+ 
+ 
+ (1.5) 
+ 
+ 
+ 4.7 
+ 
+ 
+ 7.8 
+ 
+ 
+ (520) 
+ % 
+ 
+ (6.2) 
+ 
+ 
+ (132) 
+ % 
+ 
+ Other, net 
+ (20.5) 
+ 
+ 
+ (22.0) 
+ 
+ 
+ 10.7 
+ 
+ 
+ 1.5 
+ 
+ 
+ (7) 
+ % 
+ 
+ (32.7) 
+ 
+ 
+ (306) 
+ % 
+ 
+ Total 
+ $ 
+ 158.1 
+ 
+ 
+ $ 
+ 32.2 
+ 
+ 
+ $ 
+ (45.3) 
+ 
+ 
+ $ 
+ 125.9 
+ 
+ 
+ 391 
+ % 
+ 
+ $ 
+ 77.5 
+ 
+ 
+ (171) 
+ % 
+ The increase in interest and other income (expense) for fiscal 2024 as compared to fiscal 2023 was primarily due to the increase in the fair value of our executive deferred compensation plan assets and the impact of gain recognized from the sale of strategic investments. 
+ The increase in interest and other income (expense) for fiscal 2023 as compared to fiscal 2022 was primarily due to the increase in the fair value of our executive deferred compensation plan assets. 
+ 
+ Segment Operating Results 
+ We do not allocate certain operating expenses managed at a consolidated level to our reportable segments. These unallocated expenses consist primarily of amortization of acquired intangible assets, stock-based compensation expense, changes in the fair value of deferred compensation plan, restructuring charges, and acquisition/divestiture related items. See Note 20. Segment Disclosure of the Notes to Consolidated Financial Statements in this Annual Report for more information. 
+ Design Automation Segment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended October 31, 
+ 
+ $ Change 
+ 
+ % Change 
+ 
+ $ Change 
+ 
+ % Change 
+ 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ 2024 vs. 2023 
+ 
+ 
+ 2023 vs. 2022 
+ 
+ 
+ (dollars in millions) 
+ 
+ 
+ 
+ 
+ 
+ Adjusted operating income 
+ $ 
+ 1,631.9 
+ 
+ 
+ $ 
+ 1,413.9 
+ 
+ 
+ $ 
+ 1,176.1 
+ 
+ 
+ $ 
+ 218.0 
+ 
+ 
+ 15 
+ % 
+ 
+ $ 
+ 237.8 
+ 
+ 
+ 20 
+ % 
+ 
+ Adjusted operating margin 
+ 39 
+ % 
+ 
+ 37 
+ % 
+ 
+ 36 
+ % 
+ 
+ 2 
+ % 
+ 
+ 5 
+ % 
+ 
+ 1 
+ % 
+ 
+ 3 
+ % 
+ The increase in adjusted operating income for fiscal 2024 compared to fiscal 2023 and for fiscal 2023 compared to fiscal 2022 was primarily due to an increase in revenue from arrangements booked in prior periods. 
+ Design IP Segment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended October 31, 
+ 
+ $ Change 
+ 
+ % Change 
+ 
+ $ Change 
+ 
+ % Change 
+ 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ 2024 vs. 2023 
+ 
+ 
+ 2023 vs. 2022 
+ 
+ 
+ (dollars in millions) 
+ 
+ 
+ 
+ 
+ 
+ Adjusted operating income 
+ $ 
+ 730.2 
+ 
+ 
+ $ 
+ 514.1 
+ 
+ 
+ $ 
+ 403.8 
+ 
+ 
+ $ 
+ 216.1 
+ 
+ 
+ 42 
+ % 
+ 
+ $ 
+ 110.3 
+ 
+ 
+ 27 
+ % 
+ 
+ Adjusted operating margin 
+ 38 
+ % 
+ 
+ 33 
+ % 
+ 
+ 31 
+ % 
+ 
+ 5 
+ % 
+ 
+ 15 
+ % 
+ 
+ 2 
+ % 
+ 
+ 6 
+ % 
+ The increase in adjusted operating income for fiscal 2024 compared to fiscal 2023 and for fiscal 2023 compared to fiscal 2022 was primarily due to an increase in the revenue of IP products driven by timing of customer demands. 
+ 
+ 
+ 47 
+ 
+ 
+ Table of Contents 
+ Income Taxes 
+ Our effective tax rate for fiscal 2024 is 6.6%, which included $70.1 million of U.S. federal research tax credit benefit, $104.8 million of foreign derived intangible income (FDII) deduction benefit, and $43.4 million of net excess tax benefit from stock-based compensation. 
+ 
+ Our effective tax rate for fiscal 2023 was 6.9%, which included $60.5 million of U.S. federal research tax credit benefit, $80.0 million of FDII deduction benefit, and $40.0 million of net excess tax benefit from stock-based compensation. 
+ See Note 18. Income Taxes of the Notes to Consolidated Financial Statements in this Annual Report for further discussion of the provision for income taxes . 
+ 
+ Liquidity and Capital Resources 
+ Our principal sources of liquidity are funds generated from our business operations and funds that may be drawn down under our revolving credit and term loan facilities. 
+ As of October 31, 2024 , we held $4.1 billion in cash, cash equivalents and short-term investments. We also held $2.2 million in restricted cash primarily associated with deposits for office leases and employee loan programs. Our cash equivalents consisted primarily of taxable money market mutual funds, time deposits and highly liquid investments with maturities of three months or less. Our short-term investments include U.S. government and municipal obligations, investment-grade available-for-sale debt and asset backed securities with an overall weighted-average credit rating of approximately AA. 
+ As of October 31, 2024, approximately $916.9 million of our cash and cash equivalents were domiciled in various foreign jurisdictions. We have provided for foreign withholding taxes on the undistributed earnings of certain of our foreign subsidiaries to the extent such earnings are no longer considered to be indefinitely reinvested in the operations of those subsidiaries. 
+ We expect that the pending Ansys Merger is likely to result in a material increase in our debt and liquidity needs that will impact our capital needs during the next twelve months and beyond. We intend to fund our anticipated $19 billion cash consideration payment through a combination of cash and debt, and have a fully-committed debt financing in place for $14.9 billion (including $10.6 billion under the Bridge Commitment). Net cash proceeds received from certain debt and equity issuances or the sale of certain businesses and assets, including the Software Integrity Divestiture, as well as term loan commitments under certain qualifying term loan facilities, will result in mandatory commitment reductions under the Bridge Commitment. On October 3, 2024, we reduced the Bridge Commitment by $1.1 billion to $10.6 billion following the closing of the Software Integrity Divestiture. See Note 11. Bridge Commitment Letter, Term Loan and Revolving Credit Facilities of the Notes to Consolidated Financial Statements in this Annual Report for further discussion. 
+ Effective fiscal 2023, our research and development expenditures were required to be capitalized and amortized under the Tax Cuts and Jobs Act instead of being deducted when incurred for US tax purposes, which significantly increases our federal cash tax liability. Additionally, as a result of the IRS tax relief for the California winter storms, the due date for our fiscal 2023 federal tax payment was November 16, 2023 and as such, we deferred our fiscal 2023 federal cash tax payments until the first quarter of fiscal 2024. This resulted in a significant increase to our cash outflows beginning in fiscal 2024. See Note 18. Income Taxes of the Notes to Consolidated Financial Statements in this Annual Report for further discussion. 
+ 
+ 
+ 48 
+ 
+ Table of Contents 
+ Cash Flows 
+ Our consolidated statements of cash flows include cash flows related to the Software Integrity business. Significant non-cash items and capital expenditures of discontinued operations related to our Software Integrity business are presented separately in Note 3. Discontinued Operations of the Notes to Consolidated Financial Statements. For a discussion of fiscal 2023 changes compared to fiscal 2022, see the discussion in ITEM 7, Management’s Discussion and Analysis of Financial Condition and Results of Operations in our Annual Report for the fiscal year ended October 31, 2023, filed on December 12, 2023. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended October 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ 
+ 
+ $ Change 
+ 
+ 
+ 
+ 
+ (dollars in millions) 
+ 
+ Cash provided by operating activities 
+ $ 
+ 1,407.0 
+ 
+ 
+ $ 
+ 1,703.3 
+ 
+ 
+ 
+ 
+ $ 
+ (296.3) 
+ 
+ 
+ 
+ 
+ 
+ Cash provided by (used in) investing activities 
+ $ 
+ 1,223.0 
+ 
+ 
+ $ 
+ (482.1) 
+ 
+ 
+ 
+ 
+ $ 
+ 1,705.1 
+ 
+ 
+ 
+ 
+ Cash used in financing activities 
+ $ 
+ (181.3) 
+ 
+ 
+ $ 
+ (1,196.9) 
+ 
+ 
+ 
+ 
+ $ 
+ 1,015.6 
+ 
+ 
+ 
+ Cash Provided by Operating Activities 
+ We expect cash from our operating activities to fluctuate as a result of a number of factors, including the timing of our billings and collections, our operating results, and the timing and amount of tax and other liability payments. Cash provided by our operations is dependent primarily upon the payment terms of our license agreements. We generally receive cash from upfront arrangements much sooner than from time-based products revenue, in which the license fee is typically paid either quarterly or annually over the term of the license. 
+ The decrease in cash provided by operating activities was primarily due to higher federal tax payments of $471.0 million, which included $187.0 million of fiscal 2023 federal tax payments that were paid in fiscal 2024 as a result of payment deadline extensions due to IRS tax relief for the California winter storms. 
+ Cash Provided by (Used in) Investing Activities 
+ Net cash provided by investing activities was $1.2 billion for fiscal 2024 compared to net cash used in investing activities of $482.1 million for fiscal 2023. The increase in cash provided by investing activities was primarily driven by net cash proceeds of $1.4 billion from the Software Integrity Divestiture, lower cash paid for acquisitions of $140.7 million, lower purchases of property and equipment of $66.5 million and higher proceeds from the sales and maturities of investments of $55.7 million. 
+ Cash Used in Financing Activities 
+ The decrease in cash used in financing activities was primarily due to lower stock repurchases of $1.2 billion, as we have suspended the Program in connection with the pending Ansys Merger until we reduce our expected debt levels, partially offset by higher taxes paid for net share settlements of $96.1 million, the payment of costs related to the Bridge Commitment and the Term Loan of $72.3 million in connection with the Ansys Merger, and lower proceeds from issuance of common stock of $20.8 million. 
+ Bridge Commitment Letter, Term Loan and Revolving Credit Facilities 
+ On January 15, 2024, we entered into the Bridge Commitment Letter with certain financial institutions that committed to provide, subject to the satisfaction of customary closing conditions, the Bridge Commitment. The Bridge Commitment currently provides for an aggregate principal amount of up to $10.6 billion. The proceeds of any borrowing under the Bridge Commitment will be used for the purpose of financing a portion of the cash consideration to be paid in the Ansys Merger and paying related fees and expenses in connection with the Ansys Merger and the other transactions contemplated by the Merger Agreement. 
+ The commitments to provide the Bridge Commitment may be terminated in whole or reduced in part, at our discretion. In addition, the Bridge Commitment Letter provides that net cash proceeds received from certain debt and equity issuances or the sale of certain businesses and assets, including the Software Integrity Divestiture, as well as term loan commitments under certain qualifying term loan facilities, will result in mandatory commitment reductions under the Bridge Commitment. On October 3, 2024, we reduced the Bridge Commitment by $1.1 billion to $10.6 billion following the closing of the Software Integrity Divestiture. 
+ On February 13, 2024, we entered into the Term Loan Agreement in connection with the financing of the pending Ansys Merger. The Term Loan Agreement provides us with the ability to borrow up to $4.3 billion at the closing of 
+ 
+ 
+ 49 
+ 
+ Table of Contents 
+ the Ansys Merger, subject to the satisfaction of customary closing conditions for similar facilities, for the purpose of financing a portion of the cash consideration to be paid in the Ansys Merger and paying related fees and expenses in connection with the Ansys Merger and the other transactions contemplated by the Merger Agreement. 
+ The Term Loan Agreement provides for two tranches of senior unsecured term loans: a $1.45 billion tranche (Tranche 1) that matures two years after funding and a $2.85 billion tranche (Tranche 2) that matures three years after funding. There was no outstanding balance under the Term Loan Agreement as of October 31, 2024. 
+ Under the Term Loan Agreement, borrowings will bear interest on the principal amount outstanding at a floating rate based on, at Synopsys’ election, (i) the Adjusted Term SOFR Rate (as defined in the Term Loan Agreement) plus an applicable margin based on the credit ratings of Synopsys ranging from 0.875% to 1.375% (in the case of Tranche 1) or 1.000% to 1.500% (in the case of Tranche 2) or (ii) the ABR (as defined in the Term Loan Agreement) plus an applicable margin based on the credit ratings of Synopsys ranging from 0.000% to 0.375% (in the case of Tranche 1) or 0.000% to 0.500% (in the case of Tranche 2). 
+ On May 14, 2024, a ticking fee began to accrue under the Term Loan Agreement in an amount equal to a rate per annum equal to 0.10% times the actual daily undrawn portion of the commitments in respect of the term loan facility. This ticking fee will accrue until the earlier of (i) termination or expiration of the commitments under the term loan facility or (ii) the funding of the commitments, at which point the accrued amount of the ticking fee will become payable. 
+ The Term Loan Agreement contains a financial covenant requiring that Synopsys maintain a maximum consolidated leverage ratio commencing the last day of the first fiscal quarter ending on or after the completion of the Ansys Merger, as well as other non-financial covenants. 
+ On February 13, 2024, we entered into a Sixth Amendment Agreement (the Sixth Amendment), which amended and restated our previous revolving credit agreement, dated as of December 14, 2022 (as amended and restated, the Revolving Credit Agreement). 
+ Under the Sixth Amendment, certain amendments became effective on February 13, 2024 and certain additional amendments will become effective upon the completion of the Ansys Merger. Upon the effective date, the Sixth Amendment amended the financial covenant to allow netting of the cash proceeds of certain debt incurred to finance the Ansys Merger as well as certain other modifications set forth therein. Upon the completion of the Ansys Merger, the Sixth Amendment, among other things: 
+ • amends the applicable margin used to determine the interest that accrues on loans and the facility fee payable under the revolving credit facility to be based on our credit ratings; 
+ • amends the financial covenant thresholds under the financial covenant in the Revolving Credit Agreement requiring us to maintain a maximum consolidated leverage ratio; and 
+ • amends certain conditions to borrowing, other non-financial covenants and events of default. 
+ The Revolving Credit Agreement provides an unsecured $850.0 million committed multicurrency revolving credit facility and an unsecured uncommitted incremental revolving loan facility of up to $150.0 million. The maturity date of the revolving credit facility is December 14, 2027, which may be extended at our option. There was no outstanding balance under the Revolving Credit Agreement as of October 31, 2024 and October 31, 2023. 
+ Interest accrues on dollar-denominated loans at a floating rate based on, at Synopsys’ election, (i) the Adjusted Term SOFR Rate (as defined in the Revolving Credit Agreement) plus an applicable margin or (ii) the ABR (as defined in the Revolving Credit Agreement) plus an applicable margin. The applicable margin for Adjusted Term SOFR Rate based loans ranges from 0.785% to 0.975%, based upon Synopsys’ consolidated leverage ratio. The applicable margin for ABR based loans is 0.000%. In addition to the interest on any outstanding loans, Synopsys is also required to pay a facility fee on the entire portion of the revolving credit facility ranging from 0.09% to 0.15% based on Synopsys’ consolidated leverage ratio on the daily amount of the revolving commitment. 
+ Subject to the completion of the Ansys Merger, interest under the Revolving Credit Agreement will accrue on dollar-denominated loans at a floating rate based on, at Synopsys’ election, (i) the Adjusted Term SOFR Rate plus an applicable margin based on our credit ratings ranging from 0.795% to 1.200% or (ii) the ABR plus an applicable margin based on our credit ratings ranging from 0.000% to 0.200%. In addition to the interest on any outstanding loans, Synopsys will also be required to pay a facility fee on the entire portion of the revolving credit facility ranging from 0.080% to 0.175% based on the credit ratings of Synopsys on the daily amount of the revolving commitment. 
+ 
+ 
+ 50 
+ 
+ Table of Contents 
+ The Revolving Credit Agreement contains a financial covenant requiring us to maintain a maximum consolidated leverage ratio, as well as other non-financial covenants. As of October 31, 2024, we were in compliance with the financial covenant. 
+ In July 2018, we entered into a 12-year 220.0 million Renminbi (approximately $33.0 million) credit agreement with a lender in China to support our facilities expansion. Borrowings bear interest at a floating rate based on the 5-year Loan Prime Rate plus 0.74%. As of October 31, 2024, we had a $15.6 million outstanding balance under the agreement. 
+ See Note 11. Bridge Commitment Letter, Term Loan and Revolving Credit Facilities of the Notes to Consolidated Financial Statements in this Annual Report for further discussion. 
+ Stock Repurchase Program 
+ In fiscal 2022, our Board of Directors approved a stock repurchase program (the Program) with authorization to purchase up to $1.5 billion of our common stock. As of October 31, 2024 , $194.3 million remained available for future stock repurchases under the Program. In connection with the pending Ansys Merger, we have suspended our stock repurchase program until we reduce our expected debt levels. 
+ The IR Act was enacted in the United States on August 16, 2022. The IR Act imposes a 1% excise tax on the fair market value of stock repurchases made by covered corporations after December 31, 2022. The total taxable value of shares repurchased is reduced by the fair market value of any newly issued shares during the taxable year. As of October 31, 2024, this does not have any impact on our consolidated financial statements. Risks related to the IR Act are described in Part I, ITEM 1A, Risk Factors . 
+ 
+ Material Cash Requirements 
+ Our material cash requirements include the following contractual and other obligations. 
+ Leases 
+ We have operating lease arrangements for office space, data center, equipment and other corporate assets. As of October 31, 2024 , we had lease payment obligations, net of immaterial sublease income, of $631.0 million, with $93.2 million payable within 12 months. 
+ Purchase Obligations 
+ Purchase obligations represent an estimate of all open purchase orders and contractual obligations in the ordinary course of business for which we have not received the goods or services. As of October 31, 2024 , we had $650.0 million of purchase obligations, with $558.5 million payable within 12 months. Although open purchase orders are considered enforceable and legally binding, the terms may allow us the option to cancel, reschedule and adjust our requirements based on our business needs prior to the delivery of goods or performance of services. 
+ Term Loan 
+ Refer to "Bridge Commitment Letter, Term Loan and Revolving Credit Facilities” under ITEM 7, Management’s Discussion and Analysis of Financial Condition and Results of Operations included in this Annual Report for more information. 
+ Long Term Accrued Income Taxes 
+ As of October 31, 2024 , we had $18.8 million of long-term accrued income taxes which represent uncertain tax benefits. Currently, a reasonably reliable estimate of timing of payments related to uncertain tax benefits in individual years beyond fiscal 2024 cannot be made due to uncertainties in timing of the commencement and settlement of potential tax audits. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 51 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

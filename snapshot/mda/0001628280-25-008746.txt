@@ -1,0 +1,5215 @@
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND 
+ RESULTS OF OPERATIONS 
+ The following discussion and analysis of our financial condition and results of operations should be read in conjunction with 
+ the consolidated financial statements and related notes appearing elsewhere in this report. In addition to historical information, 
+ this discussion contains forward-looking statements that involve risks, uncertainties and assumptions that could cause actual 
+ results to differ materially from management’s expectations. Factors that could cause such differences include, but are not 
+ limited to, those identified below and those described in ITEM 1A “Risk Factors” appearing elsewhere in this report. All foreign 
+ currency amounts that have been converted into U.S. dollars in this discussion are based on the exchange rate as reported by 
+ Oanda for the applicable periods. 
+ The following discussion and analysis of our financial condition and results of operations generally discusses 2024 and 2023 
+ items, with year-over-year comparisons between these two years. A detailed discussion of 2023 items and year-over-year 
+ comparisons between 2023 and 2022 that are not included in this Annual Report on Form 10-K can be found in “Management’s 
+ Discussion and Analysis of Financial Condition and Results of Operations” in Part II, ITEM 7 of our Annual Report on Form 10- 
+ K for the year ended December 31, 2023 . 
+ Executive Overview 
+ Effective March 25, 2024, FLEETCOR Technologies, Inc. changed its corporate name to Corpay, Inc. At that time, we ceased 
+ trading under the ticker symbol "FLT" and began trading under our new ticker symbol, "CPAY", on the New York Stock 
+ Exchange (NYSE). Corpay is a global corporate payments company that helps businesses and consumers better manage and 
+ pay their expenses. Corpay's suite of modern payment solutions help customers better manage vehicle-related expenses (e.g., 
+ fueling, tolls, car registration and parking), lodging expenses (e.g., hotel and extended stay bookings) and corporate payments 
+ (e.g., domestic and international accounts payable and point of sale purchases). This results in our customers saving time and 
+ ultimately spending less. Since its incorporation in 2000, Corpay has delivered payment and spend solutions with customized 
+ controls and robust capabilities that offer our customers a better way to pay. 
+ Businesses spend an estimated $145 trillion each year in transactions with other businesses. In many instances, businesses lack 
+ the proper tools to monitor what is being purchased and employ manual, paper-based, disparate processes and methods to both 
+ approve and make payments for their business-to-business purchases. This often results in wasted time and money due to 
+ unnecessary or unauthorized spending, fraud, receipt collection, data input and consolidation, report generation, reimbursement 
+ processing, account reconciliations, employee disciplinary actions and more. 
+ Corpay’s vision is that every payment is digital, every purchase is controlled and every related decision is informed. Digital 
+ payments are faster and more secure than paper-based methods such as checks and provide timely and detailed data that can be 
+ utilized to effectively reduce unauthorized purchases and fraud, automate data entry and reporting, and eliminate reimbursement 
+ processes. Combining this payment data with analytical tools delivers insights, which managers can use to better run their 
+ businesses. Our wide range of modern, digitized solutions generally provides control, reporting and automation benefits 
+ superior to many of the payment methods businesses often use such as cash, paper checks, general purpose credit cards, as well 
+ as employee pay and reclaim processes. 
+ Russia Disposition 
+ We completed the sale of our Russia business on August 15, 2023. The sale included the entirety of our operations in Russia 
+ and resulted in a complete exit from the Russia market. We received total proceeds, net of cash disposed and net of a 
+ $5.6 million foreign exchange loss upon conversion of the ruble-denominated proceeds to U.S. dollars, of $197.0 million , 
+ which have been recorded within investing activities in the accompanying Consolidated Statements of Cash Flows for the year 
+ ended December 31, 2023. In connection with the sale, we recorded a net gain on disposal of $13.7 million during the year 
+ ended December 31, 2023, which represents the proceeds received less the derecognition of the related net assets, the 
+ reclassification of accumulated foreign currency translation losses, and the foreign exchange loss upon conversion of the ruble- 
+ denominated proceeds to U.S. dollars. 
+ Exclusive of the impact of disposition, our business in Russia accounted for approximately $62.0 million of our income before 
+ income taxes for the year ended December 31, 2023 . 
+ Comdata Merchant Solutions Disposition 
+ In May 2024, we signed a definitive agreement to sell the merchant solutions business, a business within the U.S. division of 
+ our Vehicle Payments segment (the "disposal group") to a third party. The transaction was completed during December 2 024. 
+ The disposal grou p's as sets and liabilities were recorded at their carrying value. Goodwill of approximately $58.2 million was 
+ allocated to the carrying value of the disposal group based on a relative fair value analysis. 
+ We received total proce e ds of $185.5 million , which have been recorded within investing activities in the accompanying 
+ Consolidated Statements of Cash Flows. In connection with the sale, we recorded a net gain on disposal of $121.3 million 
+ during the year ended December 31, 2024 , which represents the proceeds received less the derecognition of the related net 
+ assets. 
+ 
+ 
+ 
+ 37 
+ 
+ 
+ 
+ Results 
+ Revenues, net, Net Income Attributable to Corpay and Net Income Per Diluted Share Attributable to Corpay. Set forth below 
+ are revenues, net, net income attributable to Corpay and net income per diluted share attributable to Corpay for the years ended 
+ December 31, 2024 and 2023 (in millions, except per share amounts). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2024 
+ 
+ 
+ 
+ 
+ 2023 
+ 
+ 
+ 
+ 
+ 
+ Revenues, net 
+ 
+ 
+ 
+ 
+ $ 3,974.6 
+ 
+ 
+ 
+ 
+ $ 3,757.7 
+ 
+ 
+ 
+ 
+ 
+ Net income attributable to Corpay 
+ 
+ 
+ 
+ 
+ $ 1,003.7 
+ 
+ 
+ 
+ 
+ $ 981.9 
+ 
+ 
+ 
+ 
+ 
+ Net income per diluted share attributable to Corpay 
+ 
+ 
+ 
+ 
+ $ 13.97 
+ 
+ 
+ 
+ 
+ $ 13.20 
+ 
+ Adjusted Net Income Attributable to Corpay, Adjusted Net Income Per Diluted Share Attributable to Corpay, Adjusted 
+ EBITDA and Adjusted EBITDA margin. Set forth below are adjusted net income attributable to Corpay, adjusted net income 
+ per diluted share attributable to Corpay, EBITDA, adjusted EBITDA and adjusted EBITDA margin for the years ended 
+ December 31, 2024 and 2023 (in millions, except per share amounts and percentages). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2024 
+ 
+ 
+ 
+ 
+ 2023 
+ 
+ 
+ 
+ 
+ Adjusted net income attributable to Corpay 
+ 
+ 
+ 
+ 
+ $ 1,364.1 
+ 
+ 
+ 
+ 
+ $ 1,258.6 
+ 
+ 
+ 
+ 
+ Adjusted net income per diluted share attributable to Corpay 
+ 
+ 
+ 
+ 
+ $ 19.01 
+ 
+ 
+ 
+ 
+ $ 16.92 
+ 
+ 
+ 
+ 
+ Adjusted EBITDA 1 
+ 
+ 
+ 
+ 
+ $ 2,129.0 
+ 
+ 
+ 
+ 
+ $ 1,994.2 
+ 
+ 
+ 
+ 
+ Adjusted EBITDA margin 1 
+ 
+ 
+ 
+ 
+ 53.6 % 
+ 
+ 
+ 
+ 
+ 53.1 % 
+ 
+ 
+ 
+ 
+ 1 2024 Adjusted EBITDA and Adjusted EBITDA margin are adjusted for a material modification impacting 
+ stock based compensation expense and a deal related termination expense. 
+ Adjusted net income attributable to Corpay, adjusted net income per diluted share attributable to Corpay, adjusted EBITDA and 
+ adjusted EBITDA margin are supplemental non-GAAP financial measures of operating performance. See the heading entitled 
+ “Management’s Use of Non-GAAP Financial Measures” for more information and a reconciliation of the non-GAAP financial 
+ measure to the most directly comparable financial measure calculated in accordance with U.S. generally accepted accounting 
+ principles, or GAAP. We use adjusted net income attributable to Corpay, adjusted net income per diluted share attributable to 
+ Corpay, adjusted EBITDA and adjusted EBITDA margin to eliminate the effect of items that we do not consider indicative of 
+ our core operating performance on a consistent basis. These non-GAAP measures are presented solely to permit investors to 
+ more fully understand how our management assesses underlying performance and are not, and should not be viewed as, a 
+ substitute for GAAP measures and should be viewed in conjunction with our GAAP financial measures. 
+ Sources of Revenue 
+ Corpay offers a variety of payment solutions that help to simplify, automate, secure, digitize and effectively control the way 
+ businesses and consumers manage and pay their expenses. We provide our payment solutions to our business, merchant, 
+ consumer and payment network customers in more than 200 countries around the world today, although we operate primarily in 
+ three geographies, with approximately 81% of our business in the U.S., Brazil and the U.K. Our customers may include 
+ commercial businesses (obtained through direct and indirect channels) and partners for whom we manage payment programs, 
+ as well as consumers. 
+ We report information about our operating segments in accordance with the authoritative guidance related to segments. We 
+ manage and report our operating results through the following three reportable segments: Vehicle Payments, Corporate 
+ Payments and Lodging Payments. The remaining results are included within Other, which includes our Gift and Payroll Card 
+ businesses. These segments align with how the Chief Operating Decision Maker (CODM) allocates resources, assesses 
+ performance and reviews financial information. 
+ Our revenue is generally reported net of the cost for underlying products and services purchased. In this report, we refer to this 
+ net revenue as “revenue" or "revenues, net". See “Results of Operations” for additional segment information. 
+ Revenues, net, by Segment. For the years ended December 31, 2024 and 2023 , our segments generated the following revenues, 
+ net (in millions): 
+ 
+ 
+ 
+ 38 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2024 
+ 
+ 
+ 
+ 
+ 2023 
+ 
+ 
+ 
+ 
+ Revenues by Segment* 
+ 
+ 
+ 
+ 
+ Revenues, 
+ net 
+ 
+ 
+ 
+ 
+ % of Total 
+ Revenues, net 
+ 
+ 
+ 
+ 
+ Revenues, 
+ net 
+ 
+ 
+ 
+ 
+ % of Total 
+ Revenues, net 
+ 
+ 
+ 
+ 
+ Vehicle Payments 
+ 
+ 
+ 
+ 
+ $ 2,008.8 
+ 
+ 
+ 
+ 
+ 51 % 
+ 
+ 
+ 
+ 
+ $ 2,005.5 
+ 
+ 
+ 
+ 
+ 53 % 
+ 
+ 
+ 
+ 
+ Corporate Payments 
+ 
+ 
+ 
+ 
+ 1,221.9 
+ 
+ 
+ 
+ 
+ 31 % 
+ 
+ 
+ 
+ 
+ 981.1 
+ 
+ 
+ 
+ 
+ 26 % 
+ 
+ 
+ 
+ 
+ Lodging Payments 
+ 
+ 
+ 
+ 
+ 488.6 
+ 
+ 
+ 
+ 
+ 12 % 
+ 
+ 
+ 
+ 
+ 520.2 
+ 
+ 
+ 
+ 
+ 14 % 
+ 
+ 
+ 
+ 
+ Other 
+ 
+ 
+ 
+ 
+ 255.3 
+ 
+ 
+ 
+ 
+ 6 % 
+ 
+ 
+ 
+ 
+ 250.9 
+ 
+ 
+ 
+ 
+ 7 % 
+ 
+ 
+ 
+ 
+ Consolidated revenues, net 
+ 
+ 
+ 
+ 
+ $ 3,974.6 
+ 
+ 
+ 
+ 
+ 100 % 
+ 
+ 
+ 
+ 
+ $ 3,757.7 
+ 
+ 
+ 
+ 
+ 100 % 
+ *Columns may not calculate due to rounding. Other includes our Gift and Payroll card operating segments. 
+ We generate revenue in our Vehicle Payments segment through a variety of program fees, including transaction fees, card fees, 
+ network fees and charges, as well as from interchange. These fees may be charged as fixed amounts, costs plus a mark-up, 
+ based on a percentage of the transaction purchase amounts, or a combination thereof. Our programs also include other fees and 
+ charges associated with late payments and based on customer credit risk. We also generate float revenue earned on invested 
+ customer funds in jurisdictions where permitted. 
+ In our Corporate Payments segment, our payables business primarily earns revenue from the difference between the amount 
+ charged to the customer and the amount paid to the third party for a given transaction, as interchange or spread revenue. Our 
+ programs may also charge fixed fees for access to the network and ancillary services provided. Revenues from risk 
+ management products and foreign exchange payment services are primarily comprised of the difference between the exchange 
+ rate we set for the customer and the rate available in the wholesale foreign exchange market. In our cross-border payments 
+ business, the majority of revenue is from exchanges of currency at spot rates, which enables customers to make cross-currency 
+ payments. Our cross-border payments business also derives revenue from our risk management business, which aggregates 
+ foreign currency exposures arising from customer contracts and economically hedges the resulting net currency risks by 
+ entering into offsetting contracts with established financial institution counterparties. Our performance obligation in our foreign 
+ exchange payment services is providing a foreign currency payment to a customer’s designated recipient and therefore, we 
+ recognize revenue on foreign exchange payment services when the underlying payment is made . We also generate float revenue 
+ earned on invested customer funds in jurisdictions where permitted. 
+ In our Lodging Payments segment, we primarily earn revenue from the difference between the amount charged to the customer 
+ and the amount paid to the hotel for a given transaction or based on commissions paid by hotels. We may also charge fees for 
+ access to the network and ancillary services provided. 
+ The remaining revenues represent other solutions in our Gift and Payroll card businesses, referred to as Other. In these 
+ businesses, we primarily earn revenue from the processing of transactions. We may also charge fees for ancillary services 
+ provided . 
+ Revenues, net, by Geography Revenues, net by geography for the years ended December 31, 2024 and 2023 , were as follows 
+ (in millions): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2024 
+ 
+ 
+ 
+ 
+ 2023 
+ 
+ 
+ 
+ 
+ Revenues by Geography* 
+ 
+ 
+ 
+ 
+ Revenues, 
+ net 
+ 
+ 
+ 
+ 
+ % of total 
+ revenues, net 
+ 
+ 
+ 
+ 
+ Revenues, 
+ net 
+ 
+ 
+ 
+ 
+ % of total 
+ revenues, net 
+ 
+ 
+ 
+ 
+ United States 
+ 
+ 
+ 
+ 
+ $ 2,078.6 
+ 
+ 
+ 
+ 
+ 52 % 
+ 
+ 
+ 
+ 
+ $ 2,045.2 
+ 
+ 
+ 
+ 
+ 54 % 
+ 
+ 
+ 
+ 
+ Brazil 
+ 
+ 
+ 
+ 
+ 594.3 
+ 
+ 
+ 
+ 
+ 15 % 
+ 
+ 
+ 
+ 
+ 526.1 
+ 
+ 
+ 
+ 
+ 14 % 
+ 
+ 
+ 
+ 
+ United Kingdom 
+ 
+ 
+ 
+ 
+ 542.0 
+ 
+ 
+ 
+ 
+ 14 % 
+ 
+ 
+ 
+ 
+ 478.5 
+ 
+ 
+ 
+ 
+ 13 % 
+ 
+ 
+ 
+ 
+ Other 
+ 
+ 
+ 
+ 
+ 759.7 
+ 
+ 
+ 
+ 
+ 19 % 
+ 
+ 
+ 
+ 
+ 707.9 
+ 
+ 
+ 
+ 
+ 19 % 
+ 
+ 
+ 
+ 
+ Consolidated revenues, net 
+ 
+ 
+ 
+ 
+ $ 3,974.6 
+ 
+ 
+ 
+ 
+ 100 % 
+ 
+ 
+ 
+ 
+ $ 3,757.7 
+ 
+ 
+ 
+ 
+ 100 % 
+ *Columns may not calculate due to rounding. Disclosure has been conformed in all periods to align with current 
+ presentation, which is based on the geographic location of the legal entity. 
+ 
+ 
+ 
+ 39 
+ 
+ 
+ 
+ Revenues, net, by Key Performance Metric and Organic Growth. Revenues , net by key performance metric and organic 
+ growth by segment for the years ended December 31, 2024 and 2023 , were as follows (in millions except revenues, net per key 
+ performance indicator)* : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ As Reported 
+ 
+ 
+ 
+ 
+ Pro Forma and Macro Adjusted 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2024 
+ 
+ 
+ 
+ 
+ 2023 
+ 
+ 
+ 
+ 
+ Change 
+ 
+ 
+ 
+ 
+ % Change 
+ 
+ 
+ 
+ 
+ 2024 
+ 
+ 
+ 
+ 
+ 2023 
+ 
+ 
+ 
+ 
+ Change 
+ 
+ 
+ 
+ 
+ % Change 
+ 
+ 
+ 
+ 
+ VEHICLE PAYMENTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ' - Revenues, net 
+ 
+ 
+ 
+ 
+ $2,008.8 
+ 
+ 
+ 
+ 
+ $2,005.5 
+ 
+ 
+ 
+ 
+ $3.3 
+ 
+ 
+ 
+ 
+ —% 
+ 
+ 
+ 
+ 
+ $2,075.3 
+ 
+ 
+ 
+ 
+ $1,968.5 
+ 
+ 
+ 
+ 
+ $106.7 
+ 
+ 
+ 
+ 
+ 5% 
+ 
+ 
+ 
+ 
+ ' - Transactions 
+ 
+ 
+ 
+ 
+ 820.7 
+ 
+ 
+ 
+ 
+ 648.6 
+ 
+ 
+ 
+ 
+ 172.1 
+ 
+ 
+ 
+ 
+ 27% 
+ 
+ 
+ 
+ 
+ 820.7 
+ 
+ 
+ 
+ 
+ 768.1 
+ 
+ 
+ 
+ 
+ 52.6 
+ 
+ 
+ 
+ 
+ 7% 
+ 
+ 
+ 
+ 
+ ' - Revenues, net per transaction 
+ 
+ 
+ 
+ 
+ $2.45 
+ 
+ 
+ 
+ 
+ $3.09 
+ 
+ 
+ 
+ 
+ $(0.64) 
+ 
+ 
+ 
+ 
+ (21)% 
+ 
+ 
+ 
+ 
+ $2.53 
+ 
+ 
+ 
+ 
+ $2.56 
+ 
+ 
+ 
+ 
+ $(0.03) 
+ 
+ 
+ 
+ 
+ (1)% 
+ 
+ 
+ 
+ 
+ ' - Tag transactions 3 
+ 
+ 
+ 
+ 
+ 86.5 
+ 
+ 
+ 
+ 
+ 79.6 
+ 
+ 
+ 
+ 
+ 6.9 
+ 
+ 
+ 
+ 
+ 9% 
+ 
+ 
+ 
+ 
+ 86.5 
+ 
+ 
+ 
+ 
+ 79.6 
+ 
+ 
+ 
+ 
+ 6.9 
+ 
+ 
+ 
+ 
+ 9% 
+ 
+ 
+ 
+ 
+ ' - Parking transactions 
+ 
+ 
+ 
+ 
+ 249.0 
+ 
+ 
+ 
+ 
+ 68.0 
+ 
+ 
+ 
+ 
+ 181.0 
+ 
+ 
+ 
+ 
+ NM 
+ 
+ 
+ 
+ 
+ 249.0 
+ 
+ 
+ 
+ 
+ 226.0 
+ 
+ 
+ 
+ 
+ 22.9 
+ 
+ 
+ 
+ 
+ 10% 
+ 
+ 
+ 
+ 
+ ' - Fleet transactions 
+ 
+ 
+ 
+ 
+ 444.8 
+ 
+ 
+ 
+ 
+ 477.4 
+ 
+ 
+ 
+ 
+ (32.6) 
+ 
+ 
+ 
+ 
+ (7)% 
+ 
+ 
+ 
+ 
+ 444.8 
+ 
+ 
+ 
+ 
+ 422.0 
+ 
+ 
+ 
+ 
+ 22.8 
+ 
+ 
+ 
+ 
+ 5% 
+ 
+ 
+ 
+ 
+ ' - Other transactions 
+ 
+ 
+ 
+ 
+ 40.6 
+ 
+ 
+ 
+ 
+ 23.7 
+ 
+ 
+ 
+ 
+ 16.9 
+ 
+ 
+ 
+ 
+ 71% 
+ 
+ 
+ 
+ 
+ 40.6 
+ 
+ 
+ 
+ 
+ 40.5 
+ 
+ 
+ 
+ 
+ 0.1 
+ 
+ 
+ 
+ 
+ 0% 
+ 
+ 
+ 
+ 
+ CORPORATE PAYMENTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ' - Revenues, net 
+ 
+ 
+ 
+ 
+ $1,221.9 
+ 
+ 
+ 
+ 
+ $981.1 
+ 
+ 
+ 
+ 
+ $240.8 
+ 
+ 
+ 
+ 
+ 25% 
+ 
+ 
+ 
+ 
+ $1,220.3 
+ 
+ 
+ 
+ 
+ $1,017.1 
+ 
+ 
+ 
+ 
+ $203.2 
+ 
+ 
+ 
+ 
+ 20% 
+ 
+ 
+ 
+ 
+ ' - Spend volume 
+ 
+ 
+ 
+ 
+ $170,432 
+ 
+ 
+ 
+ 
+ $145,571 
+ 
+ 
+ 
+ 
+ $24,862 
+ 
+ 
+ 
+ 
+ 17% 
+ 
+ 
+ 
+ 
+ $170,432 
+ 
+ 
+ 
+ 
+ $148,759 
+ 
+ 
+ 
+ 
+ $21,673 
+ 
+ 
+ 
+ 
+ 15% 
+ 
+ 
+ 
+ 
+ ' - Revenues, net per spend $ 
+ 
+ 
+ 
+ 
+ 0.72% 
+ 
+ 
+ 
+ 
+ 0.67% 
+ 
+ 
+ 
+ 
+ 0.04% 
+ 
+ 
+ 
+ 
+ 6% 
+ 
+ 
+ 
+ 
+ 0.72% 
+ 
+ 
+ 
+ 
+ 0.68% 
+ 
+ 
+ 
+ 
+ 0.03% 
+ 
+ 
+ 
+ 
+ 5% 
+ 
+ 
+ 
+ 
+ LODGING PAYMENTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ' - Revenues, net 
+ 
+ 
+ 
+ 
+ $488.6 
+ 
+ 
+ 
+ 
+ $520.2 
+ 
+ 
+ 
+ 
+ $(31.6) 
+ 
+ 
+ 
+ 
+ (6)% 
+ 
+ 
+ 
+ 
+ $488.4 
+ 
+ 
+ 
+ 
+ $520.2 
+ 
+ 
+ 
+ 
+ $(31.8) 
+ 
+ 
+ 
+ 
+ (6)% 
+ 
+ 
+ 
+ 
+ ' - Room nights 
+ 
+ 
+ 
+ 
+ 37.7 
+ 
+ 
+ 
+ 
+ 36.5 
+ 
+ 
+ 
+ 
+ 1.2 
+ 
+ 
+ 
+ 
+ 3% 
+ 
+ 
+ 
+ 
+ 37.7 
+ 
+ 
+ 
+ 
+ 36.5 
+ 
+ 
+ 
+ 
+ 1.2 
+ 
+ 
+ 
+ 
+ 3% 
+ 
+ 
+ 
+ 
+ ' - Revenues, net per room night 
+ 
+ 
+ 
+ 
+ $12.97 
+ 
+ 
+ 
+ 
+ $14.25 
+ 
+ 
+ 
+ 
+ $(1.28) 
+ 
+ 
+ 
+ 
+ (9)% 
+ 
+ 
+ 
+ 
+ $12.96 
+ 
+ 
+ 
+ 
+ $14.25 
+ 
+ 
+ 
+ 
+ $(1.29) 
+ 
+ 
+ 
+ 
+ (9)% 
+ 
+ 
+ 
+ 
+ OTHER 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ' - Revenues, net 
+ 
+ 
+ 
+ 
+ $255.3 
+ 
+ 
+ 
+ 
+ $250.9 
+ 
+ 
+ 
+ 
+ $4.4 
+ 
+ 
+ 
+ 
+ 2% 
+ 
+ 
+ 
+ 
+ $255.2 
+ 
+ 
+ 
+ 
+ $250.9 
+ 
+ 
+ 
+ 
+ $4.4 
+ 
+ 
+ 
+ 
+ 2% 
+ 
+ 
+ 
+ 
+ ' - Transactions 
+ 
+ 
+ 
+ 
+ 1,574.1 
+ 
+ 
+ 
+ 
+ 1,417.7 
+ 
+ 
+ 
+ 
+ 156.4 
+ 
+ 
+ 
+ 
+ 11% 
+ 
+ 
+ 
+ 
+ 1,574.1 
+ 
+ 
+ 
+ 
+ 1,417.7 
+ 
+ 
+ 
+ 
+ 156.4 
+ 
+ 
+ 
+ 
+ 11% 
+ 
+ 
+ 
+ 
+ ' - Revenues, net per transaction 
+ 
+ 
+ 
+ 
+ $0.16 
+ 
+ 
+ 
+ 
+ $0.18 
+ 
+ 
+ 
+ 
+ $(0.01) 
+ 
+ 
+ 
+ 
+ (8)% 
+ 
+ 
+ 
+ 
+ $0.16 
+ 
+ 
+ 
+ 
+ $0.18 
+ 
+ 
+ 
+ 
+ $(0.01) 
+ 
+ 
+ 
+ 
+ (8)% 
+ 
+ 
+ 
+ 
+ CORPAY CONSOLIDATED 
+ REVENUES, NET 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ' - Revenues, net 
+ 
+ 
+ 
+ 
+ $3,974.6 
+ 
+ 
+ 
+ 
+ $3,757.7 
+ 
+ 
+ 
+ 
+ $216.9 
+ 
+ 
+ 
+ 
+ 6% 
+ 
+ 
+ 
+ 
+ $4,039.2 
+ 
+ 
+ 
+ 
+ $3,756.7 
+ 
+ 
+ 
+ 
+ $282.5 
+ 
+ 
+ 
+ 
+ 8% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1 Other includes Gift and Payroll Card operating segments. 
+ 
+ 
+ 
+ 
+ 2 See heading entitled "Managements' Use of Non-GAAP Financial Measures" for a reconciliation of pro forma and macro 
+ adjusted revenue by product and metric non-GAAP measures to the comparable financial measure calculated in accordance 
+ with GAAP. The calculated change represents organic growth rate. 
+ 
+ 
+ 
+ 
+ 3 Represents total tag subscription transactions in the year. Average monthly tag subscriptions for 2024 is 7.2 million. 
+ 
+ 
+ 
+ 
+ * Columns may not calculate due to rounding. 
+ 
+ 
+ 
+ 
+ NM = Not Meaningful 
+ Revenue per relevant key performance indicator (KPI), which may include transactions, spend volume, room nights, or other 
+ metrics, is derived from the various revenue types as discussed above and can vary based on geography, the relevant merchant 
+ relationship, the payment product utilized and the types of products or services purchased, the mix of which would be 
+ influenced by our acquisitions, organic growth in our business and the overall macroeconomic environment, including 
+ fluctuations in foreign currency exchange rates, fuel prices and fuel price spreads. Relevant KPI is derived by broad product 
+ type and may differ from how we describe the business. Revenue per KPI per customer may change as the level of services we 
+ provide to a customer increases or decreases, as macroeconomic factors change and as adjustments are made to merchant and 
+ customer rates. See “Results of Operations” for further discussion of transaction volumes and revenue per transaction. 
+ Organic revenue growth is a supplemental non-GAAP financial measure of operating performance. Organic revenue growth is 
+ calculated as revenue growth in the current period adjusted for the impact of changes in the macroeconomic environment (to 
+ include fuel price, fuel price spreads and changes in foreign exchange rates) over revenue in the comparable prior period 
+ adjusted to include or remove the impact of acquisitions and/or divestitures and non-recurring items that have occurred 
+ subsequent to that period. See the heading entitled “Management’s Use of Non-GAAP Financial Measures” for more 
+ information and a reconciliation of the non-GAAP financial measure to the most directly comparable financial measure 
+ 
+ 
+ 
+ 40 
+ 
+ 
+ 
+ calculated in accordance with GAAP. We believe that organic revenue growth on a macro-neutral and consistent acquisition/ 
+ divestiture/non-recurring ITEM basis is useful to investors for understanding the performance of Corpay. 
+ Sources of Expenses 
+ We routinely incur expenses in the following categories: 
+ • Processing —Our processing expenses consist of expenses related to processing transactions, servicing our customers 
+ and merchants, credit losses and cost of goods sold related to our hardware and card sales in certain businesses. 
+ • Selling —Our selling expenses consist primarily of wages, benefits, sales commissions (other than merchant 
+ commissions) and related expenses for our sales, marketing and account management personnel and activities. 
+ • General and administrative —Our general and administrative expenses include compensation and related expenses 
+ (including stock-based compensation and bonuses) for our employees, finance and accounting, information 
+ technology, human resources, legal and other administrative personnel. Also included are facilities expenses, third- 
+ party professional services fees, travel and entertainment expenses and other corporate-level expenses. 
+ • Depreciation and amortization —Our depreciation expenses include depreciation of property and equipment, 
+ consisting of computer hardware and software (including proprietary software development amortization expense), 
+ card-reading equipment, furniture, fixtures, vehicles and buildings and leasehold improvements related to office space. 
+ Our amortization expenses include amortization of intangible assets related to customer and vendor relationships, trade 
+ names and trademarks, software and non-compete agreements. We are amortizing intangible assets related to business 
+ acquisitions and certain private label contracts associated with the purchase of accounts receivable. 
+ • Other operating, net —Our other operating, net includes other operating expenses and income items that do not relate 
+ to our core operations or that occur infrequently. 
+ • Other expense (income), net —Our other expense (income), net includes gains or losses from the following: foreign 
+ currency transactions , extinguishment of debt and investments. This category also includes other miscellaneous non- 
+ operating costs and revenue. Certain of these items may be presented separately on the Consolidated Statements of 
+ Income. 
+ • Interest expense, net —Our interest expense, net includes interest expense on our outstanding debt, interest income on 
+ cash balances and interest on our interest rate and cross-currency swaps. 
+ • Provision for income taxes —Our provision for income taxes consists of corporate income taxes related primarily to 
+ profits resulting from the sale of our products and services on a global basis. 
+ Factors and Trends Impacting our Business 
+ We believe that the following factors and trends are important in understanding our financial performance: 
+ • Global economic conditions —Our results of operations are materially affected by conditions in the economy generally, 
+ in North America, Brazil, the U.K. and in other locations internationally. Factors affected by the economy include our 
+ transaction volumes, the credit risk of our customers and changes in tax laws across the globe. These factors affected 
+ our businesses in each of our segments. 
+ • Foreign currency changes —Our results of operations are significantly impacted by changes in foreign currency 
+ exchange rates; namely, by movements of the Australian dollar, Brazilian real , British pound, Canadian dollar, Czech 
+ koruna, euro, Mexican peso, New Zealand dollar and Russian ruble (for periods prior to the disposition of our Russia 
+ business), relative to the U.S. dollar. Approxi mately 52% and 54% of our revenues in 2024 and 2023 , respectively, 
+ were derived in U.S. dollars and were not affected by foreign currency exchange rates. See “Results of Operations” for 
+ information related to foreign currency impact on our total revenues, net. 
+ Our cross-border foreign risk management business aggregates foreign currency exposures arising from customer 
+ contracts and economically hedges the resulting net currency risks by entering into offsetting contracts with 
+ established financial institution counterparties. These contracts are subject to counterparty credit risk and liquidity risk 
+ from collateral calls. 
+ We further manage the impact of economic changes in the value of certain foreign-denominated net assets by utilizing 
+ cross currency interest rate swaps. See "Liquidity and capital resources" below for information regarding our cross 
+ currency interest rate swaps. 
+ • Fuel prices —Our Vehicle Payments customers use our products and services primarily in connection with the 
+ purchase of fuel. Accordingly, our revenue is affected by fuel prices, which are subject to significant volatility. A 
+ change in retail fuel prices could cause a decrease or increase in our revenue from several sources, including fees paid 
+ to us based on a percentage of each customer’s total purchase. Changes in the absolute price of fuel may also impact 
+ unpaid account balances and the late fees and charges based on these amounts. We estimate approxim ately 8% a nd 
+ 10% of revenues, net were directly impacted by changes in fuel price in 2024 and 2023 , respectively. See "Results of 
+ Operations" for information related to the fuel price impact on our total revenues, net. 
+ 
+ 
+ 
+ 41 
+ 
+ 
+ 
+ • Fuel price spread volatility —A portion of our revenue involves transactions where we derive revenue from fuel price 
+ spreads, which is the difference between the price charged to a fleet customer for a transaction and the price paid to the 
+ merchant for the same transaction. In these transactions, the price paid to the merchant is based on the wholesale cost 
+ of fuel. The merchant’s wholesale cost of fuel is dependent on several factors including, among others, the factors 
+ described above affecting fuel prices. The fuel price that we charge to our customer is dependent on several factors 
+ including, among others, the fuel price paid to the merchant, posted retail fuel prices and competitive fuel prices. We 
+ experience fuel price spread contraction when the merchant’s wholesale cost of fuel increases at a faster rate than the 
+ fuel price we charge to our customers, or the fuel price we charge to our customers decreases at a faster rate than the 
+ merchant’s wholesale cost of fuel. The inverse of these situations produces fuel price spread expansion. We estimate 
+ approximately 5% of revenues, net were directly impacted by fuel price spreads in both 2024 and 2023 . See "Results 
+ of Operations" for information related to the fuel price impact on our total revenues, net. 
+ • Acquisitions —Since 2002, we have completed over 100 acquisitions of companies and commercial account 
+ portfolios. Acquisitions have been an important part of our growth strategy, and it is our intention to continue to seek 
+ opportunities to increase our customer base and diversify our service offering through further strategic acquisitions. 
+ The impact of acquisitions has, and may continue to have, a significant impact on our results of operations and may 
+ make it difficult to compare our results between periods. 
+ • Interest rates — From January 1, 2023 to July 27, 202 3, the U.S. Federal Open Market Committee increased the target 
+ federal funds rate four times for a total rate increase of 1.00%, and on September 18, 2024, November 7, 2024 and 
+ December 18, 2024, lowered the target federal funds rate by 0.50%, 0.25% and 0.25%, respectively. Additional rate 
+ changes are possible in future periods. We are exposed to market risk changes in interest rates on our debt, particularly 
+ in rising interest rate environments, which is partially offset by incremental interest income earned on cash and 
+ restricted cash. As of December 31, 2024 , we have a number of receive-variable SOFR, pay-fixed interest rate swap 
+ derivative contracts with a cumulative notional U.S. dollar value of $4.5 billion . The objective of these contracts is to 
+ reduce the variability of cash flows in the previously unhedged interest payments associated with variable rate debt, 
+ the sole source of which is due to changes in SOFR benchmark interest rate. 
+ See the "Liquidity and capital resources" section below for additional information regarding our derivatives. 
+ • Expenses —Over the long term, we expect that our expenses will decrease as a percentage of revenues as our revenues 
+ increase, except for expenses related to transaction volume processed. To support our expected revenue growth, we 
+ plan to continue to incur additional sales and marketing expense by investing in our direct marketing, third-party 
+ agents, internet marketing, telemarketing and field sales force. 
+ • Income Taxes —We pay taxes in various taxing jurisdictions, including the U.S., most U.S. states and many non-U.S. 
+ jurisdictions. The tax rates in non-U.S. taxing jurisdictions are different than the U.S. tax rate. Consequently, as our 
+ earnings fluctuate between taxing jurisdictions, our effective tax rate fluctuates. Our effective tax rate is also subject to 
+ fluctuations driven by the impact of discrete tax items. 
+ The Organization for Economic Co-operation and Development (OECD), continues to put forth various initiatives, 
+ including Pillar Two rules which introduce a global minimum tax at a rate of 15%. European Union member states 
+ agreed to implement the OECD’s Pillar Two rules with effective dates of January 1, 2024 and January 1, 2025 for 
+ different aspects of the directive, and most have already enacted legislation. A number of other countries are also 
+ implementing similar legislation. As of December 31, 2024 , based on the countries in which we do business that have 
+ enacted legislation effective January 1, 2024, the impact of these rules to our financial statements was not material. 
+ This may change as other countries enact similar legislation and further guidance is released. We are currently 
+ evaluating the impact of the enacted legislation effective January 1, 2025 to our financial statements and continue to 
+ closely monitor regulatory developments to assess potential impacts. 
+ 
+ 
+ 
+ 42 
+ 
+ 
+ 
+ Acquisitions, Investments and Dispositions 
+ Each of these acquisitions provide incremental geographic expansion of our product s and broaden our strategies within each of 
+ our business segments. 
+ 20 25 
+ • I n February 2025, we signed a definitive agreement to acquire 100% of Gringo, a leading Brazil-based vehicle 
+ registration and compliance payment company , for approximately $147.0 million , net of cash of approximately $22 
+ million . Gringo's digital app and national network help drivers in Brazil pay vehicle taxes, registration and fines. The 
+ transaction is expected to close in the first quarter of 2025, subject to regulatory approval and standard closing 
+ conditions and will be reflected in our Vehicle Payments segment. 
+ 20 24 
+ • In March 2024, we acquired 70% of Zapay, a Brazil-based digital mobility solution for paying vehicle-related taxes 
+ and compliance fees, for approximately $59.5 million , net of cash. As part of the agreement, we have the right to 
+ acquire the remainder of Zapay in four years. The majority investment in Zapay further scales our Vehicle Payments 
+ business in Brazil. 
+ • In July 2024, we acquired 100% of Paymerang, a U.S. based leader in accounts payables automation solutions, for 
+ approximately $179.2 million , net of cash and cash equivalents and restricted cash acquired of $309 million . The 
+ acquisition expands our presence in several market verticals, including education, healthcare, hospitality and 
+ manufacturing. Results from Paymerang are reported in our Corporate Payments segment. 
+ • In December 2024, we acquired 100% of GPS Capital Markets, LLC ("GPS") for approximately $576.2 million , net of 
+ cash and cash equivalents and restricted cash acquired of $190.7 million . GPS provides business-to-business cross- 
+ border and treasury management solutions to upper middle market companies, primarily in the U.S. Results from GPS 
+ are reported in our Corporate Payments segment. 
+ • In December 2024, we disposed of our merchant solutions business for $185.5 million , net of cash disposed. Results 
+ from our merchant solutions business were previously included in our Vehicle Payments segment. 
+ • During the year ended December 31, 2024 , we also completed asset acquisitions for approximately $6.7 million . 
+ 2023 
+ • In January 2023, we acquired Global Reach, a U.K.-based cross-border payments provider, for approximately 
+ $102.9 million , net of cash. Results from Global Reach are reported in our Corporate Payments segment. 
+ • In February 2023, we acquired the remainder of Mina Digital Limited, a cloud-based electric vehicle (EV) charging 
+ softwa re platfo rm, and we also acquired Business Gateway AG, a European-based vehicle maintenance provider, for a 
+ total of approximately $23.8 million, net of cash. Results from Mina Digital Limited and Business Gateway AG are 
+ reported in our Vehicle Payments segment. 
+ • In September 2023, we acquired PayByPhone Technologies, Inc. a global parking payment application, for 
+ approximately $301.9 million , net of cash. Results from PayByPhone are reported in our Vehicle Payments segment. 
+ • In the third quarter of 2023, we disposed of our Russian business for $197.0 million , net of cash disposed and net of a 
+ $5.6 million foreign exchange loss upon the conversion of the ruble-denominated proceeds to U.S. dollars. Results 
+ from our Russian business were previously included in our Vehicle Payments segment. 
+ 
+ 
+ 
+ 43 
+ 
+ 
+ 
+ 
+ Results of Operations 
+ Year ended December 31, 2024 compared to the year ended December 31, 2023 
+ The following table sets forth selected financial information from the consolidated statements of income for the years ended 
+ December 31, 2024 and 2023 (in millions, except percentages)*. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended 
+ December 31, 
+ 2024 
+ 
+ 
+ 
+ 
+ % of Total 
+ Revenue 
+ 
+ 
+ 
+ 
+ Year Ended 
+ December 31, 
+ 2023 
+ 
+ 
+ 
+ 
+ % of Total 
+ Revenue 
+ 
+ 
+ 
+ 
+ Increase 
+ (Decrease) 
+ 
+ 
+ 
+ 
+ % Change 
+ 
+ 
+ 
+ 
+ Revenues, net: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Vehicle Payments 
+ 
+ 
+ 
+ 
+ $ 2,008.8 
+ 
+ 
+ 
+ 
+ 50.5 % 
+ 
+ 
+ 
+ 
+ $ 2,005.5 
+ 
+ 
+ 
+ 
+ 53.4 % 
+ 
+ 
+ 
+ 
+ $ 3.3 
+ 
+ 
+ 
+ 
+ 0.2 % 
+ 
+ 
+ 
+ 
+ Corporate Payments 
+ 
+ 
+ 
+ 
+ 1,221.9 
+ 
+ 
+ 
+ 
+ 30.7 % 
+ 
+ 
+ 
+ 
+ 981.1 
+ 
+ 
+ 
+ 
+ 26.1 % 
+ 
+ 
+ 
+ 
+ 240.8 
+ 
+ 
+ 
+ 
+ 24.5 % 
+ 
+ 
+ 
+ 
+ Lodging Payments 
+ 
+ 
+ 
+ 
+ 488.6 
+ 
+ 
+ 
+ 
+ 12.3 % 
+ 
+ 
+ 
+ 
+ 520.2 
+ 
+ 
+ 
+ 
+ 13.8 % 
+ 
+ 
+ 
+ 
+ (31.6) 
+ 
+ 
+ 
+ 
+ (6.1) % 
+ 
+ 
+ 
+ 
+ Other 
+ 
+ 
+ 
+ 
+ 255.3 
+ 
+ 
+ 
+ 
+ 6.4 % 
+ 
+ 
+ 
+ 
+ 250.9 
+ 
+ 
+ 
+ 
+ 6.7 % 
+ 
+ 
+ 
+ 
+ 4.4 
+ 
+ 
+ 
+ 
+ 1.8 % 
+ 
+ 
+ 
+ 
+ Total revenues, net 
+ 
+ 
+ 
+ 
+ 3,974.6 
+ 
+ 
+ 
+ 
+ 100.0 % 
+ 
+ 
+ 
+ 
+ 3,757.7 
+ 
+ 
+ 
+ 
+ 100.0 % 
+ 
+ 
+ 
+ 
+ 216.9 
+ 
+ 
+ 
+ 
+ 5.8 % 
+ 
+ 
+ 
+ 
+ Consolidated operating expenses: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Processing 
+ 
+ 
+ 
+ 
+ 869.1 
+ 
+ 
+ 
+ 
+ 21.9 % 
+ 
+ 
+ 
+ 
+ 819.9 
+ 
+ 
+ 
+ 
+ 21.8 % 
+ 
+ 
+ 
+ 
+ 49.2 
+ 
+ 
+ 
+ 
+ 6.0 % 
+ 
+ 
+ 
+ 
+ Selling 
+ 
+ 
+ 
+ 
+ 380.9 
+ 
+ 
+ 
+ 
+ 9.6 % 
+ 
+ 
+ 
+ 
+ 340.2 
+ 
+ 
+ 
+ 
+ 9.1 % 
+ 
+ 
+ 
+ 
+ 40.7 
+ 
+ 
+ 
+ 
+ 12.0 % 
+ 
+ 
+ 
+ 
+ General and administrative 
+ 
+ 
+ 
+ 
+ 616.9 
+ 
+ 
+ 
+ 
+ 15.5 % 
+ 
+ 
+ 
+ 
+ 603.4 
+ 
+ 
+ 
+ 
+ 16.1 % 
+ 
+ 
+ 
+ 
+ 13.5 
+ 
+ 
+ 
+ 
+ 2.2 % 
+ 
+ 
+ 
+ 
+ Depreciation and amortization 
+ 
+ 
+ 
+ 
+ 351.1 
+ 
+ 
+ 
+ 
+ 8.8 % 
+ 
+ 
+ 
+ 
+ 336.6 
+ 
+ 
+ 
+ 
+ 9.0 % 
+ 
+ 
+ 
+ 
+ 14.5 
+ 
+ 
+ 
+ 
+ 4.3 % 
+ 
+ 
+ 
+ 
+ Goodwill impairment 
+ 
+ 
+ 
+ 
+ 90.0 
+ 
+ 
+ 
+ 
+ 2.3 % 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ — % 
+ 
+ 
+ 
+ 
+ 90.0 
+ 
+ 
+ 
+ 
+ NM 
+ 
+ 
+ 
+ 
+ Other operating, net 
+ 
+ 
+ 
+ 
+ 0.8 
+ 
+ 
+ 
+ 
+ — % 
+ 
+ 
+ 
+ 
+ 0.8 
+ 
+ 
+ 
+ 
+ — % 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ NM 
+ 
+ 
+ 
+ 
+ Gain on disposition of business 
+ 
+ 
+ 
+ 
+ (121.3) 
+ 
+ 
+ 
+ 
+ (3.1) % 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ — % 
+ 
+ 
+ 
+ 
+ (121.3) 
+ 
+ 
+ 
+ 
+ NM 
+ 
+ 
+ 
+ 
+ Operating income 
+ 
+ 
+ 
+ 
+ 1,787.2 
+ 
+ 
+ 
+ 
+ 45.0 % 
+ 
+ 
+ 
+ 
+ 1,656.9 
+ 
+ 
+ 
+ 
+ 44.1 % 
+ 
+ 
+ 
+ 
+ 130.3 
+ 
+ 
+ 
+ 
+ 7.9 % 
+ 
+ 
+ 
+ 
+ Investment loss (gain) 
+ 
+ 
+ 
+ 
+ 0.2 
+ 
+ 
+ 
+ 
+ — % 
+ 
+ 
+ 
+ 
+ (0.1) 
+ 
+ 
+ 
+ 
+ — % 
+ 
+ 
+ 
+ 
+ 0.4 
+ 
+ 
+ 
+ 
+ NM 
+ 
+ 
+ 
+ 
+ Other expense (income), net 
+ 
+ 
+ 
+ 
+ 13.7 
+ 
+ 
+ 
+ 
+ 0.3 % 
+ 
+ 
+ 
+ 
+ (16.6) 
+ 
+ 
+ 
+ 
+ (0.4) % 
+ 
+ 
+ 
+ 
+ (30.3) 
+ 
+ 
+ 
+ 
+ NM 
+ 
+ 
+ 
+ 
+ Interest expense, net 
+ 
+ 
+ 
+ 
+ 383.0 
+ 
+ 
+ 
+ 
+ 9.6 % 
+ 
+ 
+ 
+ 
+ 348.6 
+ 
+ 
+ 
+ 
+ 9.3 % 
+ 
+ 
+ 
+ 
+ 34.4 
+ 
+ 
+ 
+ 
+ 9.9 % 
+ 
+ 
+ 
+ 
+ Loss on extinguishment of debt 
+ 
+ 
+ 
+ 
+ 5.0 
+ 
+ 
+ 
+ 
+ 0.1 % 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ — % 
+ 
+ 
+ 
+ 
+ 5.0 
+ 
+ 
+ 
+ 
+ NM 
+ 
+ 
+ 
+ 
+ Provision for income taxes 
+ 
+ 
+ 
+ 
+ 381.4 
+ 
+ 
+ 
+ 
+ 9.6 % 
+ 
+ 
+ 
+ 
+ 343.1 
+ 
+ 
+ 
+ 
+ 9.1 % 
+ 
+ 
+ 
+ 
+ 38.3 
+ 
+ 
+ 
+ 
+ 11.2 % 
+ 
+ 
+ 
+ 
+ Net income 
+ 
+ 
+ 
+ 
+ 1,003.7 
+ 
+ 
+ 
+ 
+ 25.3 % 
+ 
+ 
+ 
+ 
+ 981.9 
+ 
+ 
+ 
+ 
+ 26.1 % 
+ 
+ 
+ 
+ 
+ 21.8 
+ 
+ 
+ 
+ 
+ 2.2 % 
+ 
+ 
+ 
+ 
+ Less: Net loss attributable to 
+ noncontrolling interest 
+ 
+ 
+ 
+ 
+ (14) 
+ 
+ 
+ 
+ 
+ NM 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ — % 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ NM 
+ 
+ 
+ 
+ 
+ Net income attributable to Corpay 
+ 
+ 
+ 
+ 
+ $ 1,003.7 
+ 
+ 
+ 
+ 
+ 25.3 % 
+ 
+ 
+ 
+ 
+ $ 981.9 
+ 
+ 
+ 
+ 
+ 26.1 % 
+ 
+ 
+ 
+ 
+ $ 21.9 
+ 
+ 
+ 
+ 
+ 2.2 % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating income (loss) by 
+ segments: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Vehicle Payments 
+ 
+ 
+ 
+ 
+ $ 1,076.9 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 943.4 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 133.5 
+ 
+ 
+ 
+ 
+ 14.1 % 
+ 
+ 
+ 
+ 
+ Corporate Payments 
+ 
+ 
+ 
+ 
+ 498.4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 382.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 116.3 
+ 
+ 
+ 
+ 
+ 30.4 % 
+ 
+ 
+ 
+ 
+ Lodging Payments 
+ 
+ 
+ 
+ 
+ 223.4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 254.3 
+ 
+ 
+ 
+ 
+ 
+ 
+ (30.9) 
+ 
+ 
+ 
+ 
+ (12.1) % 
+ 
+ 
+ 
+ 
+ Other 
+ 
+ 
+ 
+ 
+ (11.5) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 77.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ (88.6) 
+ 
+ 
+ 
+ 
+ NM 
+ 
+ 
+ 
+ 
+ Total operating income 
+ 
+ 
+ 
+ 
+ $ 1,787.2 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 1,656.9 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 130.3 
+ 
+ 
+ 
+ 
+ 7.9 % 
+ *The sum of the columns and rows may not calculate due to rounding. 
+ NM - not meaningful 
+ Consolidated revenues, net 
+ Consolidated revenues were $3,974.6 million in 2024 , an increase of 5.8% compared to the prior year. The increase in 
+ consolidated revenues was due primarily to organic growt h of 8% , driven by increases in spend and transaction volumes, 
+ implementation and ramping of new sales and business initiatives. Consolidated revenues also grew 2% from acquisitions 
+ completed in 2023 and 2024 . This growth was partially offset by approximately $81 million , or 2% , from the dispositions of 
+ our Russia business in August 2023 and our merchant solutions business in December 2024, and by the negative impact of the 
+ macroeconomic environment. 
+ 
+ 
+ 
+ 44 
+ 
+ 
+ 
+ Although we cannot precisely measure the impac t of the macroeconomic environment, in total we believe it had a negative 
+ impact of approximately $65 million on our consolidated revenues for 2024 over 2023 , driven primarily by unfavorable foreign 
+ exchange rates of approximately $41 million , mostly in our Brazil business, the unfavorable impact of fuel prices of 
+ approximately $14 million and unfavorable fuel price spreads of approximately $10 million . 
+ Consolidated operating expenses 
+ Processing. Processing expenses were $869.1 million in 2024 , an increase of 6.0% compared to the prior year. Increases in 
+ processing expenses were primarily due to a pproximately $43 million of expenses r elated to acquisitions completed in 2023 and 
+ 2024, higher variable expenses driven by increased transaction volumes and investments to drive future growth. The increases 
+ were partially offset by lower credit losses of $21 million due to our shift away from micro-SMB (small-medium business) 
+ clients in the U.S., the impact of foreign exchange rates of approximately $11 .0 million and the combined impact of the 
+ dispositions of our Russia and merchant solutions businesses of approximately $4 million . 
+ Selling. Selli ng expenses were $380.9 million in 2024 , an increase of 12.0% compared to the prior year. Increases in selling 
+ expen ses were primarily due to increased commissions from higher sales volume and approximately $18 million of expenses 
+ related to acquisitions completed in 2023 and 2024. The increases were partially offset by the impact of the dispositions of our 
+ Russia and merchant solutions businesses of approximately $5 million and the impact of foreign exchange rates of 
+ approximately $3 million. 
+ General and administrative. General and administrative expenses were $616.9 million in 2024 , an increase of 2.2% compared 
+ to the prior year. Increases in general and administrative expenses were primarily due to approximately $28 million of expenses 
+ related to acquisitions completed in 2023 and 2024 and higher stock-based compensation expense of approximately $5 million . 
+ These increases were partially offset by lower overhead expense due to disciplined expense management, the impact of the 
+ dispositions of our Russia and merchant solutions businesses of approximately $6 million and the impact of foreign exchange 
+ rates of approximately $2 million. 
+ Depreciation and amortization. Depreciation and amortization expenses were $351.1 million in 2024 , an increase of 4.3% . 
+ Increases in depreciation and amortization expenses were primarily due to incremental investments in capital expenditures in 
+ addition to approximately $18 million of expenses related to acquisitions completed in 2023 and 2024. These increases were 
+ partially offset by the impact of the dispositions of our Russia and merchant solutions businesses of approximately $3 million 
+ and the impact of foreign exchange rates of approximately $4 million. 
+ Goodwill impairment. During 2024 , we recorded a non-cash goodwill impairment loss of $90.0 million , representing a partial 
+ impairment of the goodwill within our Payroll Card reporting unit, which is a component of our "Other" category . See 
+ additional discussion regarding this impairment, including factors leading to this conclusion, in the "Critical accounting 
+ estimates" section below. 
+ Gain on disposition of business. During 2024 , we recognized a net gain of $121.3 million related to the December 2024 
+ disposal of our merchant solutions business, a non-core business within the U.S. division of our Vehicle Payments segment. 
+ Consolidated operating income 
+ Operating income was $1,787.2 million in 2024 , an increase of 7.9% compared to the prior year. The increase in operating 
+ income was primarily due to the reasons discussed above. 
+ Other expense (income), net. Other expense, net was $13.7 million in 2024 , which primarily represents the impact of 
+ fluctuations in foreign exchange rates on non-functional currency balances. Other income, net was $16.6 million in 2023 , which 
+ was primarily the net gain of approximately $13.7 million resulting from the disposal of our Russia business during the third 
+ quarter of 2023. 
+ Interest expense, net. Interest expe nse was $383.0 million in 2024 , an increase of 9.9% compared to the prior year. The 
+ increase in interest expense was primarily due to higher interest rates and increased borrowings for acquisitions and share 
+ repurchases and lower interest income due to the sale of our Russia business. The following table sets forth the weighted 
+ average interest rates paid on borrowings under our Credit Facility, excluding the related unused facility fees and swaps. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (Unaudited) 
+ 
+ 
+ 
+ 
+ 2024 
+ 
+ 
+ 
+ 
+ 2023 
+ 
+ 
+ 
+ 
+ Term loan A 
+ 
+ 
+ 
+ 
+ 6.64 % 
+ 
+ 
+ 
+ 
+ 6.49 % 
+ 
+ 
+ 
+ 
+ Term loan B 
+ 
+ 
+ 
+ 
+ 6.95 % 
+ 
+ 
+ 
+ 
+ 6.84 % 
+ 
+ 
+ 
+ 
+ Revolving line of credit A & B (USD) 
+ 
+ 
+ 
+ 
+ 6.60 % 
+ 
+ 
+ 
+ 
+ 6.51 % 
+ 
+ 
+ 
+ 
+ Revolving line of credit B (GBP) 
+ 
+ 
+ 
+ 
+ 6.60 % 
+ 
+ 
+ 
+ 
+ 5.83 % 
+ 
+ 
+ 
+ 45 
+ 
+ 
+ 
+ We have a portfolio of interest rate swaps which are designated as cash flow hedges and cross-currency interest rate swaps, 
+ which are designated as net investment hedges. During the years ended December 31, 2024 and 2023 , as a result of these swap 
+ contracts and net investment hedges, we recorded a benefit to interest expense, net of approximately $60.1 million and $48.4 
+ million , respectively. 
+ Provision for income taxes. T he provision for income taxes and effective tax rate were $381.4 million and 27.5% in 2024 , 
+ compared to $343.1 million and 25.9% in the prior year. The increase in the provision for income taxes was driven primarily by 
+ an increase in uncertain tax positions, an increase in valuation allowance on foreign net operating losses, the tax effect of a 
+ nondeductible goodwill impairment and fewer foreign tax benefits. The increases were partially offset by an increase in excess 
+ tax benefits on stock option exercises and state tax planning impacts. 
+ Net income attributable to Corpay. For the reasons discussed above, our net income attributable to Corpay was $1,003.7 
+ million in 2024 , an increase of 2.2% compared to the prior year. 
+ Segment Results 
+ Vehicle Payments 
+ Vehicle Payments revenues were relatively flat at $2.0 billion in 2024 . Vehicle Payments revenues increased primarily due to 
+ organic growth of 5% driven by new sales growth, and the impact of acquisitions, which contributed approximately $44 million 
+ in revenues. These increases were partially offset by the dispositions of our Russia and merchant solutions businesses in August 
+ 2023 and December 2024, respectively, which lowered revenues by approximately $81 million , and the negative impact of the 
+ macroeconomic environment of approximately $67 million . The negative macroeconomic environment was driven primarily by 
+ unfavorable changes in foreign exchange rates on revenues of $43 million , unfavorable fuel prices of $14 million and 
+ unfavorable fuel price spreads of approximately $10 million . 
+ Vehicle Payments operating income was $1,076.9 million in 2024 , an increase of 14.1% compared to the prior year due to the 
+ reasons discussed above, as well as lower credit losses of approximately $26 million , as we shifted away from micro-SMB 
+ clients toward higher credit quality customers in the U.S. in 2023. 
+ Corporate Payments 
+ Corporate Payments revenues were $1,221.9 million in 2024 , an increase of 24.5% compared to the prior year. Corporate 
+ Payments revenues increased primarily due to organic revenue growth of 20% , driven by a 15% growth in spend volume and 
+ strong new sales in our payables and cross-border solutions. The Paymerang and GPS acquisitions contributed approximatel y 
+ $36 million in revenue. 
+ Corporate Payments operating income was $498.4 million in 2024 , an increase of 30.4% compared to the prior year. Corporate 
+ Payments operating income and margin increased primarily due to the reasons discussed above, as well as operating leverage 
+ and integration synergies, as revenues grew faster than expenses, partially offset by higher selling expenses to grow the 
+ business. 
+ Lodging Payments 
+ Lodging Payments revenues were $488.6 million in 2024 , a decrease of 6.1% compared to the prior year. The decrease in 
+ Lodging Payments revenues was primarily due to commissions recognized in the prior year in our insurance business that did 
+ not recur in 2024 , a decline in room nights in our airline and insurance businesses and a decline in revenue per room night in 
+ our workforce business from the prior year. 
+ Lodging Payments operating income was $223.4 million in 2024 , a decrease of 12.1% compared to the prior year. Lodging 
+ Payments operating income and margin declined from the prior period due to the reasons discussed above. 
+ Other 
+ Other revenues were $255.3 million in 2024 , an increase of 1.8% compared to the prior year. Other operating loss was $11.5 
+ million in 2024 as compared to operating income of $77.1 million in the prior year. The Other operating loss in 2024 was 
+ driven by a $90.0 million non-cash goodwill impairment recorded in 2024. Excluding this non-cash loss, operating income and 
+ margin for the Other segment increased primarily due to our operating leverage and disciplined expense management. 
+ 
+ Liquidity and capital resources 
+ Our principal liquidity requirements are to service and repay our indebtedness, make acquisitions of businesses and commercial 
+ account portfolios, repurchase shares of our common stock and meet working capital, tax and capital expenditure needs. 
+ Sources of liquidity. We believe that our current level of cash and borrowing capacity under our Credit Facility, Securitization 
+ Facility and other facilities (each discussed below), together with expected future cash flows from operations, will be sufficient 
+ to meet the needs of our existing operations and planned requirements for at least the next 12 months and into the foreseeable 
+ future, based on our current assumptions. At December 31, 2024 , we had approximately $2.1 billion in total liquidity, 
+ consisting of approximately $0.5 billion available under our Credit Facility (defined below) and unrestricted cash of $1.6 
+ billion , a portion of which includes customer deposits or is required for working capital and regulatory purposes. Restricted 
+ cash primarily represents customer deposits repayable on demand held in certain geographies with legal restrictions, customer 
+ 
+ 
+ 
+ 46 
+ 
+ 
+ 
+ funds held for the benefit of others, collateral received from customers for cross-currency transactions in our cross-border 
+ payments business, which is restricted from use other than to repay customer deposits and to secure and settle cross-currency 
+ transactions, and collateral posted with banks for hedging positions in our cross-border payments business. 
+ We also utilize the Securitization Facility to finance a portion of our domestic receivables, to lower our cost of borrowing and 
+ more efficiently use capital. Accounts receivable collateralized within our Securitization Facility relate to trade receivables 
+ resulting primarily from charge card activity in Vehicle Payments and Corporate Payments and receivables related to our 
+ Lodging Payments business in the U.S. We also consider the available and undrawn amounts under our Securitization Facility 
+ and Credit Facility as funds available for working capital purposes and acquisitions. At December 31, 2024 , we had no 
+ additional liquidity under our Securitization Facility. 
+ We have determined that outside basis differences associated with our investments in foreign subsidiaries would not resu lt in a 
+ material deferred tax liability, and, consistent with our assertion that these amounts continue to be indefinitely invested, have 
+ not recorded incremental income taxes for the additional outside basis differences. 
+ Cash flows 
+ The following table summarizes our cash flows for the years ended December 31, 2024 and 2023 . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ 
+ 
+ 
+ (in millions) 
+ 
+ 
+ 
+ 
+ 2024 
+ 
+ 
+ 
+ 
+ 2023 
+ 
+ 
+ 
+ 
+ Net cash provided by operating activities 
+ 
+ 
+ 
+ 
+ $ 1,940.6 
+ 
+ 
+ 
+ 
+ $ 2,101.1 
+ 
+ 
+ 
+ 
+ Net cash used in investing activities 
+ 
+ 
+ 
+ 
+ $ (807.5) 
+ 
+ 
+ 
+ 
+ $ (380.7) 
+ 
+ 
+ 
+ 
+ Net cash provided by (used in) financing activities 
+ 
+ 
+ 
+ 
+ $ 405.0 
+ 
+ 
+ 
+ 
+ $ (898.2) 
+ Operating activities. Net cash provided by operating activities was $1,940.6 million in 2024 , a decrease from $2,101.1 million 
+ in 2023 . The decrease in operating cash flows was primarily driven by changes in working capital. 
+ Investing activities. Net cash used in investing activities was $807.5 million in 2024 , an increase from $380.7 million in 2023 . 
+ The increase in cash used for investing activities was primarily due to incremental spending on acquisitions completed in 2024 
+ over the comparable period in 2023 . Additionally, our capital expenditures were $175.2 million in 2024 , an increase of $21.4 
+ million , or 14% , from $153.8 million in 2023 due to the impact of acquisitions and continued investments in technology. 
+ Financing activities. Net cash provided by financing activities was $405.0 million in 2024 compared to net cash used in 
+ financing activities of $898.2 million in 2023 . Net cash provided by financing activities in 2024 was primarily due to (i) net 
+ borrowings on our Credit Facility and Securitization Facility of $1,271.2 million during 2024 as compared to net repayments of 
+ $322.4 million during 2023 and (ii) an increase in proceeds of $314.5 million from common stock resulting from stock option 
+ exercises, partially offset by increased outflows for repurchases of common stock of $601.1 million in 2024 versus 2023 . 
+ Credit Facility 
+ Corpay Technologies Operating Company, LLC, and certain of our domestic and foreign owned subsidiaries, as designated co- 
+ borrowers (the “Borrowers”), are parties to a $7.5 billion Credit Agreement (the “Credit Agreement”), with Bank of America, 
+ N.A., as administrative agent, swing line lender and letter of credit issuer and a syndicate of financial institutions (the 
+ “Lenders”), which has been amended multiple times. The Credit Agreement provides for senior secured credit f acilities 
+ (collectively, the "Credit Facility") consisting of a revolving credit facility in the amount of $1.8 billion , a Term Loan A facility 
+ in the amount of $3.3 billion ("Term Loan A") and a Term Loan B facility in the amount of $2.4 billion ("Term Loan B") as of 
+ December 31, 2024 . The revolving credit facility consists of (a) a revolving A credit facility in the amount of $1.3 billion with 
+ sublimits for letters of credit and swing line loans and (b) a revolving B facility in the amount of $500 million with borrowings 
+ in U.S . dollars, euros, British pounds, Japanese yen or other currency as agreed in advance and a sublimit for swing line loans. 
+ The Credit Agreement also includes an accordion feature for borrowing an additional $750 million in Term Loan A, Term Loan 
+ B, revolving A or revolving B facility debt and an unlimited amount when the leverage ratio on a pro-forma basis is less than 
+ 3.75 to 1.00. Procee ds from the credit facilities may be used for working capital purposes, acquisitions and other general 
+ corporate purposes. The maturity date for the Term Loan A and revolving credit facilities A and B is June 24, 2027 . The Term 
+ Loan B has a maturity date of April 30, 2028. 
+ On May 3, 2023, the Company entered into the thirteenth amendment to the Credit Facility. The amendment replaced LIBOR 
+ on the Term Loan B with the Secured Overnight Financing Rate (SOFR), plus a SOFR adjustment of 0.10% . 
+ On January 31, 2024, we entered into the fourteenth amendment to the Credit Agreement. The amendment a) increased the 
+ capacity on the revolving credit facility by $275.0 million and b) increased the Term Loan A commitments by $325.0 million. 
+ We used the Term Loan A proceeds to pay down existing borrowings under the revolving credit facility. As a result, the 
+ transaction was leverage neutral and results in a $600 million increase in our availability under the revolving credit facility. The 
+ interest rates and maturity terms remain consistent with the existing credit facilities. 
+ 
+ 
+ 
+ 47 
+ 
+ 
+ 
+ On September 26, 2024, we entered into the fifteenth amendment to the Credit Agreement. The amendment a) increased the 
+ Term Loan B commitments by $500 million and b) removed the SOFR adjustment margin of 0.10% from the calculation of 
+ interest on Term Loan B borrowings. We used the Term Loan B proceeds to pay down existing borrowings under the revolving 
+ credit facility. The maturity dates and the interest rates for the revolving credit facility and Term Loan A commitments were 
+ unchanged by this amendment. 
+ On February 20, 202 5, we entered into the sixteenth amendment to the Credit Agreement. The amendment increased the Term 
+ Loan B commitments by an incremental $750 million . We used t he Term Loan B proceeds to pay down existing borrowings 
+ under the revolving credit facility and other general corporate purposes. The maturity dates and the interest rates for the Credit 
+ Agreement were unchanged by this amendment. 
+ Interest on amounts outstanding under the Credit Agreement accrues as follows: for all loans denominated in U.S. dollars with 
+ the exception of Term Loan B borrowings, based on SOFR plus a SOFR adjustment of 0.10%; for Term Loan B borrowings, 
+ based on SOFR; for all loans denominated in British pounds, based on the SONIA plus a SONIA adjustment of 0.0326% ; for 
+ all loans denominated in euros, based on the Euro Interbank Offered Rate (EURIBOR) ; or for all loans denominated in 
+ Japanese yen, at the Toyko Interbank Offer Rate (TIBOR) plus a margin based on a leverage ratio (as defined in the 
+ agreement); or our option (for U.S. dollar borrowings only), the Base Rate (defined as the rate equal to the highest of (a) the 
+ Federal Funds Rate plus 0.50% , (b) the prime rate announced by Bank of America, N.A., or (c) SOFR plus 1.00% plus a margin 
+ based on a leverage ratio). In addition, we pay a quarterly commitment fee at a rate per annum ranging from 0.25% to 0.30% of 
+ the daily unused portion of the credit facility. 
+ At December 31, 2024 , the interest rate on the Term Loan A was 5.83% , the interest rate on the Term Loan B was 6.11% , the 
+ interest rate on the revolving A and B facilities (USD borrowings) was 5.83% , and the interest rate on the revolving B facility 
+ (GBP borrowings) was 6.11% . The unused credit facility fee was 0.25% for all revolving facilities at December 31, 2024 . 
+ The term loans are payable in quarterly installments due on the last business day of each March, June, September and 
+ December with the final principal payment due on the respective maturity date. Borrowings on the revolving line of credit are 
+ repayable at the maturity of the facility. Borrowings on the domestic swing line of credit are due on demand, and borrowings on 
+ the foreign swing lines of credit are due no later than twenty business days after such loan is made. 
+ The obligations of the Borrowers under the Credit Agreement are secured by substantially all of the assets of Corpay and its 
+ domestic subsidiaries, pursuant to a security agreement and includes a pledge of (i) 100% of the issued and outstanding equity 
+ interests owned by us of each Domestic Subsidiary and (2) 66% of the voting shares of the first-tier foreign subsidiaries, but 
+ excluding real property, personal property located outside of the U.S., accounts receivables and related assets subject to the 
+ Securitization Facility and certain investments required under money transmitter laws to be held free and clear of liens. 
+ At December 31, 2024 , we had $3.1 billion in borrowings outstanding on Term Loan A, net of discounts, $2.3 billion in 
+ borrowings outstanding on Term Loan B, net of discounts and $1.3 billion in borrowings outstan ding on the revolving credit 
+ facility. We have unamortized debt issuance costs of $3.4 million related to the revolving credit facility as of December 31, 
+ 2024 recorded in other assets within the Consolidated Balance Sheets. We have unamortized debt discounts and debt issuance 
+ costs of $16.6 million related to the term loans as of December 31, 2024 recorded in notes payable and other obligations, net of 
+ current portion within the Consolidated Balance Sheets. As a result of the amortization of debt discounts and debt issuance 
+ costs, the effective interest rate incurred on the term loan s was 6.87% during 2024 . 
+ During the year ended December 31, 2024 , we made borrowings of $825.0 million on the term loans, principal payments of 
+ $140.1 million on the term loans and net borrowings of $570.3 million on the revolving facilities. 
+ As of December 31, 2024 , we were in compliance with each of the covenants under the Credit Agre ement. 
+ Securitization Facility 
+ We are a party to a $1.7 billion receivables purchase agreement among Corpay Funding LLC, as seller, PNC Bank, National 
+ Association as administrator, and various purchaser agents, conduit purchasers and related committed purchasers parties thereto 
+ (the "Securitization Facility") as of December 31, 2024. At December 31, 2024 , the interest rate on the Securitization Facility 
+ was 5.36% . 
+ On January 24, 2025, we entered into an omnibus amendment to our Securitization Facility. The amendment increased the 
+ Securitization Facility commitment from $1.7 billion to $1.8 billion and extended the maturity of the Securitization Facility 
+ from August 18, 2025 to January 24, 2028. The omnibus amendment also reduced the program fee by 5 bps to SOFR plus 
+ 0.10% adjustment plus 0.90% or the Commercial Paper Rate plus 0.80% and decreased the unused facility fee by 5 bps for two 
+ of the purchasers. 
+ The Securitization Facility provides for certain termination events, which includes nonpayment, upon the occurrence of which 
+ the administrator may declare the facility termination date to have occurred, may exercise certain enforcement rights with 
+ respect to the receivables and may appoint a successor servicer, among other things. 
+ We were in compliance with all financial and non-financial covenant requirements related to our Securitization Facility as of 
+ December 31, 2024 . 
+ 
+ 
+ 
+ 48 
+ 
+ 
+ 
+ Other Facilities 
+ We carefully monitor and manage initial and variation margin requirements for our cross-border solutions, which can result in 
+ transitory periods of elevated liquidity needs in cases where the currency market experiences disruption. In order to help 
+ mitigate that liquidity risk, we have entered into facilities intended to provide additional means to manage working capital 
+ needs for our cross-border solutions. 
+ We have three unsecured overdraft facilities with a combined capacity of $155.0 million, which may be accessible via written 
+ request and corresponding authorization from the applicable lenders. There is no guarantee the uncommitted capacity will be 
+ available to us on a future date. Interest on drawn balances accrues under the agreements at either (a) a fixed rate equal to the 
+ lender's reference rate or the Federal Funds Effective Rate (as defined in the respective agreements) plus 1% or (b) SOFR plus 
+ 1.25%. As of December 31, 2024 , we had no borrowings outstanding under the uncommitted credit facilities. 
+ We also have a 364-day committed revolving credit facility with a total commitment of $70.0 million and maturity date of 
+ February 20, 2026. Borrowings under this facility will bear interest at the borrower's option at a rate equal to (a) Term SOFR 
+ (as defined in the agreement) plus 1.25% or (b) the Base Rate (determined by reference to the greatest of (i) the Federal Funds 
+ Effective Rate, at that time, plus 0.50%, (ii) the Prime Rate, at that time, and (iii) Term SOFR (as defined in the agreement) at 
+ such time plus 1.00%). As of December 31, 2024 , we had no borrowings outstanding under the committed credit facility. 
+ Cash Flow Hedges 
+ As of December 31, 2024 , we had the following outstanding interest rate swap derivatives that qualify as hedging instruments 
+ within designated cash flow hedges of variable interest rate risk (in millions): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Notional Amount 
+ 
+ 
+ 
+ 
+ Weighted Average 
+ Fixed Rate 
+ 
+ 
+ 
+ 
+ Maturity Date 
+ 
+ 
+ 
+ 
+ $500 
+ 
+ 
+ 
+ 
+ 4.01% 
+ 
+ 
+ 
+ 
+ 7/31/2025 
+ 
+ 
+ 
+ 
+ $500 
+ 
+ 
+ 
+ 
+ 3.80% 
+ 
+ 
+ 
+ 
+ 1/31/2026 
+ 
+ 
+ 
+ 
+ $1,500 
+ 
+ 
+ 
+ 
+ 4.15% 
+ 
+ 
+ 
+ 
+ 7/31/2026 
+ 
+ 
+ 
+ 
+ $750 
+ 
+ 
+ 
+ 
+ 4.14% 
+ 
+ 
+ 
+ 
+ 1/31/2027 
+ 
+ 
+ 
+ 
+ $500 
+ 
+ 
+ 
+ 
+ 4.19% 
+ 
+ 
+ 
+ 
+ 7/31/2027 
+ 
+ 
+ 
+ 
+ $250 
+ 
+ 
+ 
+ 
+ 4.00% 
+ 
+ 
+ 
+ 
+ 1/31/2028 
+ 
+ 
+ 
+ 
+ $500 
+ 
+ 
+ 
+ 
+ 3.19% 
+ 
+ 
+ 
+ 
+ 7/31/2028 
+ The purpose of these contracts is to reduce the variability of cash flows in interest payments associated with $4.5 billion of 
+ unspecified variable rate debt, the sole source of which is due to changes in the SOFR benchmark interest rate. For each of 
+ these swap contracts, we pay a fixed monthly rate and receive one month SOFR. 
+ Our cash flow hedges resulted in a reduction to interest expense, net of $46.3 million and $39.4 million during the years ended 
+ December 31, 2024 and 2023 , respectively . 
+ Net Investment Hedges 
+ We enter into cross-currency interest rate swaps that are designated as net investment hedges of our investments in foreign- 
+ denominated operations. Such contracts effectively convert the U.S. dollar equivalent notional amounts to obligations 
+ denominated in the respective foreign currency and partially offset the impact of changes in currency rates on such foreign- 
+ denominated net investments. These contracts also create a positive interest differential on the U.S. dollar-denominated portion 
+ of the swaps, resulting in interest rate savings on the USD notional. 
+ At December 31, 2024 , we had the following cross-currency interest rate swaps designated as net investment hedges of our 
+ investments in foreign-denominated operations: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ U.S. dollar equivalent 
+ notional (in millions) 
+ 
+ 
+ 
+ 
+ Fixed Rates 
+ 
+ 
+ 
+ 
+ Maturity Date 
+ 
+ 
+ 
+ 
+ Euro (EUR) 
+ 
+ 
+ 
+ 
+ $500 
+ 
+ 
+ 
+ 
+ 2.15% 
+ 
+ 
+ 
+ 
+ 5/26/2026 
+ 
+ 
+ 
+ 
+ Canadian Dollar (CAD) 
+ 
+ 
+ 
+ 
+ $800 
+ 
+ 
+ 
+ 
+ 1.14% 
+ 
+ 
+ 
+ 
+ 5/20/2026 
+ 
+ 
+ 
+ 
+ British Pound (GBP) 
+ 
+ 
+ 
+ 
+ $750 
+ 
+ 
+ 
+ 
+ 0.317% 
+ 
+ 
+ 
+ 
+ 5/8/2028 
+ 
+ 
+ 
+ 49 
+ 
+ 
+ 
+ Hedge effectiveness is tested based on changes in the fair value of the cross-currency swaps due to changes in the USD/foreign 
+ currency spot rates. We anticipate perfect effectiveness of the designated hedging relationships and record changes in the fair 
+ value of the cross-currency interest rate swaps associated with changes in the spot rate through accumulated other 
+ comprehensive loss. Excluded components associated with the forward differential are recognized directly in earnings as 
+ interest expense, net. We recognized a benefit of $13.9 million and $9.0 million in interest expense, net for the years ended 
+ December 31, 2024 and 2023 , respectively, related to these excluded components. 
+ In January 2025, we terminated our existing CAD cross-currency interest rate swaps designated as net investment hedges and 
+ subsequently entered into four new cross-currency interest rate swaps designated as net investment hedges of our investments in 
+ CAD-denominated operations. These contracts effectively convert an aggregate $800 million of U.S. dollar equivalent to an 
+ obligation denominated in CAD and partially offset the impact of changes in currency rates on our CAD-denominated net 
+ investments. These contracts also create a positive interest differential on the U.S. dollar-denominated portion of the swap, 
+ resulting in a weighted average interest rate savings of 1.35% on the USD notional. 
+ Acquisition 
+ I n February 2025, we signed a definitive agreement to acquire 100% of Gringo, a leading Brazil-based vehicle registration and 
+ compliance payment company, for approximately $147.0 million , net of cash of approximately $22 million . Gringo's digital app 
+ and national network help drivers in Brazil pay for vehicle taxes, registration and fines. The transaction is expected to close in 
+ the first quarter of 2025, subject to regulatory approval and standard closing conditions and will be reflected in our Vehicle 
+ Payments segment. 
+ Stock Repurchase Program 
+ Given our returns on our capital investments and significant cash provided by operations, management believes it is prudent to 
+ reinvest in the business to drive profitable growth and use excess cash flow to return cash to shareholders over time through 
+ stock repurchases. Our Board of Directors (the "Board") has approved a stock repurchase program (as updated from time to 
+ time, the "Program") authorizing us to repurchase our common stock from time to time until February 4, 2026. On January 25, 
+ 2024, the Board authorized an increase to the aggregate size of the Program by $1.0 billion to $8.1 billion, and on November 4, 
+ 2024, the Board authorized an increase to the aggregate size of the Program by $1.0 billion to $9.1 billion. Since the beginning 
+ of the Program through December 31, 2024 , we have repurchased 33,090,680 shares for an aggregate purchase price of $7.8 
+ billion , leaving us up to $1.3 billion of remaining authorization available under the Program for future repurchases in shares of 
+ our common stock. We repurchased 4,211,818 common shares totaling $1.3 billion in 2024 ; 2,597,954 common shares totaling 
+ $0.7 billion in 2023 and 6,212,410 common shares totaling $1.4 billion in 2022 . 
+ Any stock repurchases may be made at times and in such amounts as deemed appropriate. The timing and amount of stock 
+ repurchases, if any, will depend on a variety of factors including the stock price, market conditions, corporate and regulatory 
+ requirements, and any additional constraints related to material inside information we may possess. Any repurchases have been 
+ and are expected to be funded by a combination of available cash flow from the business, working capital and debt. 
+ Material Cash Requirements and Uses of Cash 
+ Material cash requirements primarily consist of debt obligations and related interest payments, along with lease obligations. 
+ See Note 11 and Note 14 to the Consolidated Financial Statements within this Form 10-K for further information. 
+ Deferred income tax liabilities as of December 31, 2024 were approximately $439.2 million . See Note 13 to the Consolidated 
+ Financial Statements within this Form 10-K for further information. Deferred income tax liabilities are calculated based on 
+ temporary differences between the tax bases of assets and liabilities and their respective book bases, which will result in taxable 
+ amounts in future years when the liabilities are settled at their reported financial statement amounts. The results of these 
+ calculations do not have a direct connection with the amount of cash taxes to be paid in any future periods. As a result, 
+ scheduling deferred income tax liabilities as payments du e by period could be misleading, as this scheduling would not relate to 
+ liquidity needs. At December 31, 2024 , we had approximately $95.5 million of unreco gnized income tax benefits related to 
+ uncertain tax positions. We cannot reasonably estimate when all of these unrecognized income tax benefits may be settled. We 
+ do not expect reductions to unrecognized income tax benefits within the next 12 months as a result of projected resolutions of 
+ income tax uncertainties. 
+ 
+ Critical Accounting Estimates 
+ In applying the accounting policies that we use to prepare our consolidated financial statements, we necessarily make 
+ accounting estimates that affect our reported amounts of assets, liabilities, revenue and expenses. Some of these estimates 
+ require us to make assumptions about matters that are highly uncertain at the time we make the accounting estimates. We base 
+ these assumptions and the resulting estimates on historical information and other factors that we believe to be reasonable under 
+ the circumstances, and we evaluate these assumptions and estimates on an ongoing basis. In many instances, however, we 
+ reasonably could have used different accounting estimates and, in other instances, changes in our accounting estimates could 
+ occur from period to period, with the result in each case being a material change in the financial statement presentation of our 
+ financial condition or results of operations. We refer to estimates of this type as critical accounting estimates. The critical 
+ 
+ 
+ 
+ 50 
+ 
+ 
+ 
+ accounting estimates that we discuss below are those that we believe are most important to an understanding of our 
+ consolidated financial statements. 
+ For a discussion of our Summary of Significant Accounting Policies, see Note 2 to our Consolidated Financial Statements 
+ within this Form 10-K for further information. 
+ Financial Instruments-Credit Losses. Our current expected credit loss methodology for measurement of credit losses on 
+ financial assets measured at amortized cost basis, replaces the previous incurred loss impairment methodology. Our financial 
+ assets subject to credit losses are primarily trade receivables. We utilize a combination of aging and loss-rate methods to 
+ develop an estimate of current expected credit losses, depending on the nature and risk profile of the underlying asset pool, 
+ based on product, size of customer and historical losses. Expected credit losses are estimated based upon an assessment of risk 
+ characteristics, historical payment experience and the age of outstanding receivables, adjusted for forward-looking economic 
+ conditions. The allowances for remaining financial assets measured at amortized cost basis are evaluated based on underlying 
+ financial condition, credit history and current and forward-looking economic conditions. The estimation process for expected 
+ credit losses includes consideration of qualitative and quantitative risk factors associated with the age of asset balances, 
+ expected timing of payment, contract terms and conditions, changes in specific customer risk profiles or mix of customers, 
+ geographic risk, economic trends and relevant environmental factors. See Note 2 to our Consolidated Financial Statements 
+ within this Form 10-K for further information. 
+ Impairment of goodwill and indefinite-lived assets . We complete an impairment test of goodwill at least annually or more 
+ frequently if facts or circumstances indicate that goodwill might be impaired. Goodwill is tested for impairment at the reporting 
+ unit level. When we believe it is appropriate, we may elect to first perform the optional qualitative assessment for certain of our 
+ reporting units. Factors considered in the qualitative assessment include general macroeconomic conditions, industry and 
+ market conditions, cost factors, overall financial performance of our reporting units, events or changes affecting the 
+ composition or carrying amount of the net assets of our reporting units, sustained decrease in our share price and other relevant 
+ entity-specific events. If we elect to bypass the optional qualitative assessment or if we determine, on the basis of qualitative 
+ factors, that the fair value of the reporting unit is more likely than not less than the carrying amount, a quantitative test would be 
+ required. We then perform the quantitative goodwill impairment test for the applicable reporting units by comparing the 
+ reporting unit’s carrying amount, including goodwill, to its fair value, which is measured based upon, among other factors, a 
+ discounted cash flow analysis and, to a lesser extent, market multiples for comparable companies. If the carrying amount of the 
+ reporting unit is greater than its fair value, a goodwill impairment loss is recognized. 
+ We also evaluate indefinite-lived intangible assets (primarily trademarks and trade names) for impairment annually. We test for 
+ impairment at an interim date if events and circumstances indicate that it is more likely than not that the fair value of an 
+ indefinite-lived intangible asset is below its carrying amount. An impairment loss is recorded if the carrying amount of an 
+ indefinite-lived intangible asset exceeds the estimated fair value on the measurement date. 
+ Globally we face uncertainties and risks related to economic factors in the countries we have operations. As a result, we make 
+ assumptions that involve significant judgment about future uncertainties when performing impairment tests of goodwill and 
+ indefinite-lived intangible assets. Both of these impairment tests involve the use of critical accounting estimates. Depending on 
+ the test/model, factors and estimates used to estimate the fair value include: i) earnings before interest, taxes, depreciation and 
+ amortization (EBITDA) margin and growth, and ii) the discount rates for the goodwill impairment test; and i) the discount rates 
+ and ii) royalty rates used for indefinite-lived intangible assets test. The variability of these estimates and assumptions depends 
+ on a number of conditions which could change our conclusion at each reporting period. As these factors are often 
+ interdependent and may not change in isolation, we do not believe it is meaningful to estimate and disclose the impact of 
+ changing a single factor. If our assumptions and estimates change between a current period impairment test and a prior period 
+ impairment test, impairment losses could result. If we were to use different assumptions or consider different trends in future 
+ periods, impairment losses may also result. The total future impairment losses, if required, may be material. 
+ As of October 1, 2024, as a result of our annual evaluation, we determined the goodwill within the Payroll card reporting unit, a 
+ component of our “Other” category, was partially impaired. Accordingly, we recognized a goodwill impairment loss of $90 
+ million within goodwill impairment in the Consolidated Statements of Income during the year ended December 31, 2024. 
+ Factors that led to this conclusion included i) decreased use of the card and its core component for our target customers, ii) the 
+ impact of historic and sustained increases in inflation and interest rates on the reporting unit’s weighted average costs of capital 
+ which was beyond our control, and iii) inability to achieve forecasted operating results at historical underwritten values, all of 
+ which resulted in revised mid to long-term projections during the fourth quarter of 2024, including reevaluation of the 
+ Company's anticipated capital investment in the reporting unit and which negatively impacted the reporting unit's fair value. We 
+ engaged the assistance of a third-party valuation firm to assist us with the performance of our goodwill quantitative impairment 
+ test. The estimation of the net present value of future cash flows is based upon varying economic assumptions, including 
+ assumptions such as revenue, net growth rates, operating costs, EBITDA margins, capital expenditures, tax rates, long-term 
+ growth rates and discount rates. As it relates to the Payroll card reporting unit, of these assumptions , EBITDA margins and 
+ discount rates are the most sensitive, subjective and/or complex. These assumptions are based on risk-adjusted discount factors 
+ accommodating viewpoints that consider the full range of variability contemplated in the current and potential future economic 
+ situations. There is approximately $57 million of goodwill remaining related to the Payroll card reporting unit following this 
+ impairment. The results of our 2024 impairment test for our reporting units other than Payroll card indicated that the estimated 
+ fair value of each of our reporting units was in excess of the corresponding carrying amount as of October 1, and no impairment 
+ of goodwill existed. 
+ 
+ 
+ 
+ 51 
+ 
+ 
+ 
+ In September 2023, we acquired PayByPhone Technologies, Inc., a global parking payment application, for approximately 
+ $301.9 million , net of cash. Results from PayByPhone are reported in our Vehicle Payments segment. We allocated 
+ approximately $11 million to the PayByPhone trade name with a residual value of approximately $207 million allocated to 
+ goodwill for the PayByPhone reporting unit. If the near-term operating results do not meet or exceed our current financial 
+ projections, or if conditions change causing, for example, the discount rate to increase without an offsetting increase in the 
+ results of the PayByPhone business, it is possible that we would be required to recognize an impairment loss as the fair value of 
+ the reporting unit currently exceeds the carrying value by less than 20%, due to the standalone nature of the business and recent 
+ timing of the acquisition. We will continue to monitor the operating results and the fair value of this reporting in future periods. 
+ See Note 2 and Note 8 to our Consolidated Financial Statements within this Form 10-K for further information. 
+ Income taxes. Our annual effective tax rate is based on our income and the tax laws in the various jurisdictions in which we 
+ operate. Significant judgment is required in estimating our annual income tax expense and annual effective rate through the 
+ realizability of our deferred tax assets, our income tax positions and related reserves and the recording of certain deferred tax 
+ liabilities related to foreign investments. 
+ The ultimate realization of a deferred tax asset is dependent upon the existence and timing of reversal of temporary differences, 
+ the ability to carryback income to open years and where allowed, the implementation of tax planning strategies and the 
+ generation of future taxable income during the periods in which the associated temporary differences become deductible. 
+ Determining future taxable income requires us to estimate the amount of income subject to tax in future periods which includes: 
+ i) estimating revenue, revenue growth rates, Earnings and Interest Before Income Taxes and expenses by tax jurisdiction by 
+ examining historical results and considering current/future trends as well as scheduling out the timing of temporary items, ii) 
+ factoring in adjustments for any known future changes in tax law/regulations, iii) the potential impact of any reasonable tax 
+ planning strategies, and iv) estimating the future impact of complex material deductions. We record a valuation allowance 
+ where we determine that it is not more likely than not that we will ultimately realize the entire tax benefit associated with the 
+ related deferred tax asset. 
+ We estimate income tax-related reserves to reduce tax benefits from any income tax positions where we believe the benefit 
+ from the tax position once taken on the tax return is uncertain such that it is more likely than not to be upheld by the tax 
+ regulatory body but for an amount less than the benefit taken. When determining whether the full amount of the income tax 
+ position will be upheld/sustained, we consider whether the technical merits of the position are supported by regulations, court 
+ ruling, current legislation and other relevant authoritative guidance. 
+ We include any estimated interest and penalties on tax related matters in income tax expense. See Note 13 to our Consolidated 
+ Financial Statements within this Form 10-K for further information. 
+ Business combinations (valuation of intangible assets). Acquired assets and liabilities assumed, including contingencies, 
+ through a business combination are recorded at fair value determined as of the acquisition date. The estimates we use to 
+ determine the fair value of intangible assets can be complex and require significant judgments. We use information available to 
+ us to make fair value determinations and engage independent valuation specialists, when necessary, to assist in the fair value 
+ determination of significant acquired assets. The estimated fair values of customer-related and contract-based intangible assets 
+ are generally determined using the income approach, which is based on projected cash flows discounted to their present value 
+ using discount rates that consider the timing and risk of the forecasted cash flows. The discount rates used represented a risk 
+ adjusted market participant weighted-average cost of capital, derived using customary market metrics. These measures of fair 
+ value also require considerable judgments about future events, including forecasted customer attrition rates . Acquired 
+ technologies are generally valued using the replacement cost method, which requires us to estimate the costs to construct an 
+ asset of equivalent utility at prices available at the time of the valuation analysis, with adjustments in value for physical 
+ deterioration and functional and economic obsolescence. 
+ While we use our best estimates and assumptions to determine the fair values of the assets acquired and the liabilities assumed, 
+ our estimates are inherently uncertain and subject to refinement. As a result, during the measurement period, which may be up 
+ to one year from the acquisition date, we record adjustments to the assets acquired and liabilities assumed. Upon the conclusion 
+ of the measurement period, any subsequent adjustments are recorded in our Consolidated Statements of Income. We also 
+ estimate the useful lives of intangible assets to determine the period over which to recognize the amount of acquisition-related 
+ intangible assets as an expense. Certain assets may be considered to have indefinite useful lives. We periodically review the 
+ estimated useful lives assigned to our intangible assets to determine whether such estimated useful lives continue to be 
+ appropriate. Refer to Note 8 to our Consolidated Financial Statements within this Form 10-K for further information. 
+ 
+ Management ’s Use of Non-GAAP Financial Measures 
+ We have included in the discussion below certain financial measures that were not prepared in accordance with GAAP. Any 
+ analysis of non-GAAP financial measures should be used only in conjunction with results presented in accordance with GAAP. 
+ Below, we define the non-GAAP financial measures, provide a reconciliation of each non-GAAP financial measure to the most 
+ directly comparable financial measure calculated in accordance with GAAP and discuss the reasons that we believe this 
+ information is useful to management and may be useful to investors. Because our non-GAAP financial measures are not 
+ standardized measures, they may not be directly comparable with the non-GAAP financial measures of other companies using 
+ 
+ 
+ 
+ 52 
+ 
+ 
+ 
+ the same or similar non-GAAP financial measures. Although management uses these non-GAAP measures to set goals and 
+ measure performance, they have no standardized meaning prescribed by GAAP. These non-GAAP measures are presented 
+ solely to permit investors to more fully understand how our management assesses underlying performance. These non-GAAP 
+ measures are not, and should not be viewed as, a substitute for GAAP measures, and should be viewed in conjunction with our 
+ GAAP financial statements and financial measures. As a result, such non-GAAP measures have limits in their usefulness to 
+ investors. 
+ We have defined the non-GAAP measure adjusted net income attributable to Corpay as net income attributable to Corpay, as 
+ reflected in our statement of income, adjusted to eliminate (a) non-cash stock-based compensation expense related to stock- 
+ based compensation awards, (b) amortization of deferred financing costs, discounts, intangible assets, amortization of the 
+ premium recognized on the purchase of receivables and amortization attributable to the Company's noncontrolling interest, (c) 
+ integration and deal related costs, and (d) other non-recurring items, including unusual credit losses , certain discrete tax items, 
+ the impact of business dispositions, impairment losses, asset write-offs, restructuring costs, loss on extinguishment of debt, 
+ taxes associated with stock-based compensation programs, losses and gains on foreign currency transactions and legal 
+ settlements and related legal fees. We adjust net income for the tax effect of adjustments using our effective income tax rate, 
+ exclusive of certain discrete tax items. We calculate adjusted net income attributable to Corpay and adjusted net income per 
+ diluted share attributable to Corpay to eliminate the effect of items that we do not consider indicative of our core operating 
+ performance. We have defined the non-GAAP measure adjusted net income per diluted share attributable to Corpay as the 
+ calculation previously noted divided by the weighted average diluted shares outstanding as reflected in our statement of income. 
+ Adjusted net income attributable to Corpay and adjusted net income per diluted share attributable to Corpay are supplemental 
+ measures of operating performance that do not represent and should not be considered as an alternative to net income, net 
+ income per diluted share or cash flow from operations, as determined by GAAP. We believe it is useful to exclude non-cash 
+ share based compensation expense from adjusted net income because non-cash equity grants made at a certain price and point 
+ in time do not necessarily reflect how our business is performing at any particular time and share based compensation expense 
+ is not a key measure of our core operating performance. We also believe that amortization expense can vary substantially from 
+ company to company and from period to period depending upon their financing and accounting methods, the fair value and 
+ average expected life of their acquired intangible assets, their capital structures and the method by which their assets were 
+ acquired; therefore, we have excluded amortization expense from our adjusted net income. Integration and deal related costs 
+ represent business acquisition transaction costs, professional services fees, short-term retention bonuses and system migration 
+ costs, etc., that are not indicative of the performance of the underlying business. We also believe that certain expenses, certain 
+ discrete tax items, gains on business dispositions, recoveries (e.g., legal settlements, write-off of customer receivable, etc.), 
+ gains and losses on investments, taxes related to stock-based compensation programs and impairment losses do not necessarily 
+ reflect how our investments and business are performing. We adjust net income for the tax effect of each of these adjustments 
+ using the effective income tax rate during the period, exclusive of certain discrete tax items. 
+ Organic revenue growth is calculated as revenue growth in the current period adjusted for the impact of changes in the 
+ macroeconomic environment (to include fuel price, fuel price spreads and changes in foreign exchange rates) over revenue in 
+ the comparable prior period adjusted to include or remove the impact of acquisitions and/or divestitures and non-recurring 
+ items that have occurred subsequent to that period. We believe that organic revenue growth on a macro-neutral and consistent 
+ acquisition/divestiture/non-recurring ITEM bases is useful to investors for understanding the performance of Corpay. 
+ EBITDA is defined as earnings before interest, income taxes, interest expense, net, other expense (income), depreciation and 
+ amortization, goodwill impairment, loss on extinguishment of debt, investment loss/gain and other operating, net. Adjusted 
+ EBITDA is defined as EBITDA further adjusted for a material modification impacting stock-based compensation expense and a 
+ deal related termination expense. EBITDA and adjusted EBITDA margin are defined as EBITDA and adjusted EBITDA as a 
+ percentage of revenue. 
+ Management uses adjusted net income attributable to Corpay, adjusted net income per diluted share attributable to Corpay, 
+ organic revenue growth, EBITDA and adjusted EBITDA: 
+ • as measurements of operating performance because they assist us in comparing our operating performance on a 
+ consistent basis; 
+ • for planning purposes, including the preparation of our internal annual operating budget; 
+ • to allocate resources to enhance the financial performance of our business; and 
+ • to evaluate the performance and effectiveness of our operational strategies. 
+ Reconciliation of Non-GAAP Revenue and Key Performance Metric by Segment to GAAP . Set forth below is a reconciliation of 
+ organic growth by segment, calculated using pro forma and macro adjusted revenue and transactions to the most directly 
+ comparable GAAP measure, revenue, net and transactions (in millions): 
+ 
+ 
+ 
+ 53 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Revenues, net 
+ 
+ 
+ 
+ 
+ Key Performance Metric 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31,* 
+ 
+ 
+ 
+ 
+ Year Ended December 31,* 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2024 
+ 
+ 
+ 
+ 
+ 2023 
+ 
+ 
+ 
+ 
+ 2024 
+ 
+ 
+ 
+ 
+ 2023 
+ 
+ 
+ 
+ 
+ VEHICLE PAYMENTS - TRANSACTIONS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pro forma and macro adjusted 
+ 
+ 
+ 
+ 
+ $ 2,075 
+ 
+ 
+ 
+ 
+ $ 1,969 
+ 
+ 
+ 
+ 
+ 821 
+ 
+ 
+ 
+ 
+ 768 
+ 
+ 
+ 
+ 
+ Impact of acquisitions/dispositions 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 37 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ (119) 
+ 
+ 
+ 
+ 
+ Impact of fuel prices/spread 
+ 
+ 
+ 
+ 
+ (24) 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Impact of foreign exchange rates 
+ 
+ 
+ 
+ 
+ (43) 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ As reported 
+ 
+ 
+ 
+ 
+ $ 2,009 
+ 
+ 
+ 
+ 
+ $ 2,006 
+ 
+ 
+ 
+ 
+ 821 
+ 
+ 
+ 
+ 
+ 649 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CORPORATE PAYMENTS - SPEND 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pro forma and macro adjusted 
+ 
+ 
+ 
+ 
+ $ 1,220 
+ 
+ 
+ 
+ 
+ $ 1,017 
+ 
+ 
+ 
+ 
+ $ 170,432 
+ 
+ 
+ 
+ 
+ $ 148,759 
+ 
+ 
+ 
+ 
+ Impact of acquisitions/dispositions 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ (36) 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ (3,188) 
+ 
+ 
+ 
+ 
+ Impact of fuel prices/spread 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Impact of foreign exchange rates 
+ 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ As reported 
+ 
+ 
+ 
+ 
+ $ 1,222 
+ 
+ 
+ 
+ 
+ $ 981 
+ 
+ 
+ 
+ 
+ $ 170,432 
+ 
+ 
+ 
+ 
+ $ 145,571 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LODGING PAYMENTS - ROOM NIGHTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pro forma and macro adjusted 
+ 
+ 
+ 
+ 
+ $ 488 
+ 
+ 
+ 
+ 
+ $ 520 
+ 
+ 
+ 
+ 
+ 38 
+ 
+ 
+ 
+ 
+ 37 
+ 
+ 
+ 
+ 
+ Impact of acquisitions/dispositions 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Impact of fuel prices/spread 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Impact of foreign exchange rates 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ As reported 
+ 
+ 
+ 
+ 
+ $ 489 
+ 
+ 
+ 
+ 
+ $ 520 
+ 
+ 
+ 
+ 
+ 38 
+ 
+ 
+ 
+ 
+ 37 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OTHER 1 - TRANSACTIONS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pro forma and macro adjusted 
+ 
+ 
+ 
+ 
+ $ 255 
+ 
+ 
+ 
+ 
+ $ 251 
+ 
+ 
+ 
+ 
+ 1,574 
+ 
+ 
+ 
+ 
+ 1,418 
+ 
+ 
+ 
+ 
+ Impact of acquisitions/dispositions 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Impact of fuel prices/spread 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Impact of foreign exchange rates 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ As reported 
+ 
+ 
+ 
+ 
+ $ 255 
+ 
+ 
+ 
+ 
+ $ 251 
+ 
+ 
+ 
+ 
+ 1,574 
+ 
+ 
+ 
+ 
+ 1,418 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CORPAY CONSOLIDATED REVENUES 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pro forma and macro adjusted 
+ 
+ 
+ 
+ 
+ $ 4,039 
+ 
+ 
+ 
+ 
+ $ 3,757 
+ 
+ 
+ 
+ 
+ Intentionally Left Blank 
+ 
+ 
+ 
+ 
+ Impact of acquisitions/dispositions 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 
+ 
+ Impact of fuel prices/spread 2 
+ 
+ 
+ 
+ 
+ (24) 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ Impact of foreign exchange rates 2 
+ 
+ 
+ 
+ 
+ (41) 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ As reported 
+ 
+ 
+ 
+ 
+ $ 3,975 
+ 
+ 
+ 
+ 
+ $ 3,758 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ * Columns may not calculate due to rounding. 
+ 
+ 
+ 
+ 
+ 1 Other includes Gift and Payroll Card operating segments. 
+ 
+ 
+ 
+ 
+ 2 Revenues reflect an estimated $14 million negative impact from fuel prices, approximately $10 million negative impact from 
+ fuel price spreads and $41 million negative impact due to movements in foreign exchange rates. 
+ 
+ 
+ 
+ 54 
+ 
+ 
+ 
+ Reconciliation of Non-GAAP Measures. Se t forth below is a reconciliation of adjusted net income attributable to Corpay and 
+ adjusted net income per diluted share attributable to Corpay to the most directly comparable GAAP measure, net income attributable 
+ to Corpay and net income per diluted share attributable to Corpay (in millions, except per share amounts)*: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2024 
+ 
+ 
+ 
+ 
+ 2023 
+ 
+ 
+ 
+ 
+ Net income attributable to Corpay 
+ 
+ 
+ 
+ 
+ $ 1,003.7 
+ 
+ 
+ 
+ 
+ $ 981.9 
+ 
+ 
+ 
+ 
+ Net income per diluted share attributable to Corpay 
+ 
+ 
+ 
+ 
+ $ 13.97 
+ 
+ 
+ 
+ 
+ $ 13.20 
+ 
+ 
+ 
+ 
+ Stock-based compensation 
+ 
+ 
+ 
+ 
+ 116.7 
+ 
+ 
+ 
+ 
+ 116.1 
+ 
+ 
+ 
+ 
+ Amortization 1 
+ 
+ 
+ 
+ 
+ 239.0 
+ 
+ 
+ 
+ 
+ 233.9 
+ 
+ 
+ 
+ 
+ Loss on extinguishment of debt 
+ 
+ 
+ 
+ 
+ 5.0 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Integration and deal related costs 
+ 
+ 
+ 
+ 
+ 33.7 
+ 
+ 
+ 
+ 
+ 30.7 
+ 
+ 
+ 
+ 
+ Restructuring and related costs 2 
+ 
+ 
+ 
+ 
+ 9.3 
+ 
+ 
+ 
+ 
+ 4.6 
+ 
+ 
+ 
+ 
+ Other 2,3 
+ 
+ 
+ 
+ 
+ 19.1 
+ 
+ 
+ 
+ 
+ 2.0 
+ 
+ 
+ 
+ 
+ Goodwill impairment 
+ 
+ 
+ 
+ 
+ 90.0 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Gain on disposition of business 
+ 
+ 
+ 
+ 
+ (121.3) 
+ 
+ 
+ 
+ 
+ (13.7) 
+ 
+ 
+ 
+ 
+ Total adjustments 
+ 
+ 
+ 
+ 
+ 391.5 
+ 
+ 
+ 
+ 
+ 373.5 
+ 
+ 
+ 
+ 
+ Income tax impact of pre-tax adjustments at the effective tax rate 4 
+ 
+ 
+ 
+ 
+ (98.7) 
+ 
+ 
+ 
+ 
+ (96.8) 
+ 
+ 
+ 
+ 
+ Discrete tax items 5 
+ 
+ 
+ 
+ 
+ 67.5 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Adjusted net income attributable to Corpay 
+ 
+ 
+ 
+ 
+ $ 1,364.1 
+ 
+ 
+ 
+ 
+ $ 1,258.6 
+ 
+ 
+ 
+ 
+ Adjusted net income per diluted share attributable to Corpay 
+ 
+ 
+ 
+ 
+ $ 19.01 
+ 
+ 
+ 
+ 
+ $ 16.92 
+ 
+ 
+ 
+ 
+ Diluted shares 
+ 
+ 
+ 
+ 
+ 71.8 
+ 
+ 
+ 
+ 
+ 74.4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1 Includes amortization related to intangible assets, premium on receivables, deferred financing costs and debt discounts. 
+ 
+ 
+ 
+ 
+ 2 Certain prior period amounts have been reclassified to conform with current period presentation. 
+ 
+ 
+ 
+ 
+ 3 Includes losses and gains on foreign currency transactions, certain legal expenses, amortization expense attributable to 
+ the Company's noncontrolling interest and taxes associated with stock-based compensation programs. 
+ 
+ 
+ 
+ 
+ 4 Represents provision for income taxes of pre-tax adjustments, excluding the impact of our gain on disposition and 
+ discrete tax ITEM referenced. 
+ 
+ 
+ 
+ 
+ 5 Represents discrete non-cash tax provision recognized in the fourth quarter of 2024 related to a prior tax planning 
+ strategy and taxes on net gain realized upon disposition of our U.S. merchant solutions business within Vehicle 
+ Payments segment of $47.8 million. 
+ 
+ 
+ 
+ 
+ * Columns may not calculate due to rounding. 
+ 
+ 
+ 
+ 55 
+ 
+ 
+ 
+ EBITDA, Adjusted EBITDA Measures. EBITDA is defined as earnings before interest, income taxes, interest expense, net, 
+ other loss (income), depreciation and amortization, loss on extinguishment of debt, goodwill impairment, investment loss/gain, 
+ gain on disposition of business and other operating, net. Adjusted EBITDA is defined as EBITDA further adjusted for a 
+ material modification impacting stock-based compensation expense and a deal related termination expense. EBITDA and 
+ adjusted EBITDA margin is defined as EBITDA and adjusted EBITDA as a percentage of revenue. 
+ The following table reconciles EBITDA, Adjusted EBITDA and Adjusted EBITDA margin to net income from operations (in 
+ millions, except percentages)*: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2024 
+ 
+ 
+ 
+ 
+ 2023 
+ 
+ 
+ 
+ 
+ Net income 
+ 
+ 
+ 
+ 
+ 
+ $ 1,003.7 
+ 
+ 
+ 
+ 
+ $ 981.9 
+ 
+ 
+ 
+ 
+ Provision for income taxes 
+ 
+ 
+ 
+ 
+ 
+ 381.4 
+ 
+ 
+ 
+ 
+ 343.1 
+ 
+ 
+ 
+ 
+ Interest expense, net 
+ 
+ 
+ 
+ 
+ 
+ 383.0 
+ 
+ 
+ 
+ 
+ 348.6 
+ 
+ 
+ 
+ 
+ Other loss (income), net 
+ 
+ 
+ 
+ 
+ 
+ 13.7 
+ 
+ 
+ 
+ 
+ (2.9) 
+ 
+ 
+ 
+ 
+ Investment loss (gain) 
+ 
+ 
+ 
+ 
+ 
+ 0.2 
+ 
+ 
+ 
+ 
+ (0.1) 
+ 
+ 
+ 
+ 
+ Depreciation and amortization 
+ 
+ 
+ 
+ 
+ 
+ 351.1 
+ 
+ 
+ 
+ 
+ 336.6 
+ 
+ 
+ 
+ 
+ Goodwill impairment 
+ 
+ 
+ 
+ 
+ 
+ 90.0 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Gain on disposition of business 
+ 
+ 
+ 
+ 
+ 
+ (121.3) 
+ 
+ 
+ 
+ 
+ (13.7) 
+ 
+ 
+ 
+ 
+ Loss on extinguishment of debt 
+ 
+ 
+ 
+ 
+ 
+ 5.0 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Other operating, net 
+ 
+ 
+ 
+ 
+ 
+ 0.8 
+ 
+ 
+ 
+ 
+ 0.8 
+ 
+ 
+ 
+ 
+ EBITDA 
+ 
+ 
+ 
+ 
+ 
+ $ 2,107.7 
+ 
+ 
+ 
+ 
+ $ 1,994.2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other one-time items 1 
+ 
+ 
+ 
+ 
+ 
+ $ 21.3 
+ 
+ 
+ 
+ 
+ $ — 
+ 
+ 
+ 
+ 
+ Adjusted EBITDA 
+ 
+ 
+ 
+ 
+ 
+ $ 2,129.0 
+ 
+ 
+ 
+ 
+ $ 1,994.2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Revenues, net 
+ 
+ 
+ 
+ 
+ 
+ $ 3,974.6 
+ 
+ 
+ 
+ 
+ $ 3,757.7 
+ 
+ 
+ 
+ 
+ Adjusted EBITDA margin 
+ 
+ 
+ 
+ 
+ 
+ 53.6 % 
+ 
+ 
+ 
+ 
+ 53.1 % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1 2024 EBITDA and EBITDA margin are adjusted for a material modification impacting stock-based 
+ compensation expense and a deal related termination expense. 
+ 
+ 
+ 
+ 
+ * Columns may not calculate due to rounding. 
+ 
+ 
+ 
+ 
+ 56 
+ 
+ 
+ 
+ 

@@ -1,0 +1,6452 @@
+ ITEM 7: 
+ 
+ 
+ Management's Discussion and Analysis of Financial Condition and Results of Operations 
+ 
+ Overview 
+ We are a leading global supplier of automation equipment for test and industrial applications. We design, develop, manufacture and sell automatic test systems used to test semiconductors, wireless
+products, data storage and complex electronics systems in the consumer electronics, wireless, automotive, industrial, computing, communications, and aerospace and defense industries. Our industrial automation products include collaborative robotic
+arms, autonomous mobile robots and advanced robotic control software used by global manufacturing and light industrial customers to improve quality, increase manufacturing and material handling efficiency and decrease manufacturing costs. Our
+automatic test equipment and industrial automation products and services include: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ semiconductor test (Semiconductor Test) systems; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ defense/aerospace (Defense/Aerospace) test instrumentation and systems, storage test (Storage Test) systems, and circuit-board
+test and inspection (Production Board Test) systems (collectively these products represent System Test); 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ industrial automation (Industrial Automation) products; and 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ wireless test (Wireless Test) systems. 
+ We have a customer base which includes integrated device manufacturers (IDMs), outsourced semiconductor assembly and test providers (OSATs), original equipment manufacturers
+(OEMs), wafer foundries, fabless companies that design, but contract with others for the manufacture of integrated circuits (ICs), developers of wireless devices and consumer electronics, manufacturers of circuit boards,
+automotive suppliers, wireless product manufacturers, storage device manufacturers, aerospace and military contractors, and distributors that sell collaborative robots, autonomous mobile robots and wireless test systems. 
+ 
+ The market for our test products is concentrated with a limited number of significant customers accounting for a substantial portion of
+the purchases of test equipment. One customer drives significant demand for our products both through direct sales and sales to the customer's supply partners. We expect that sales of our test products will continue to be concentrated with a
+limited number of significant customers for the foreseeable future. 
+ The sales of our products and services are dependent, to
+a large degree, on customers who are subject to cyclical trends in the demand for their products. These cyclical periods have had, and will continue to have, a significant effect on our business because our customers often delay or accelerate
+purchases in reaction to changes in their businesses and to demand fluctuations in the semiconductor and electronics industries. Historically, these demand fluctuations have resulted in significant variations in our results of operations. During the
+first quarter of 2018, demand outlook for mobile device test capacity in 2018 declined sharply for our Semiconductor Test business. Demand in other segments of the Semiconductor Test business, including memory test, increased in 2018. 
+ 
+ 
+ 23 
+
+
+ 
+
+
+ 
+ 
+ 
+ Table of Contents 
+
+
+ 
+ 
+ 
+ In 2015, we acquired Universal Robots A/S (Universal Robots), the leading
+supplier of collaborative robots which are low-cost, easy-to-deploy and simple-to-program robots that work side by side with production workers to improve quality, increase manufacturing efficiency and decrease manufacturing costs. The acquisition
+of Universal Robots provides a growth engine to our business. The total purchase price for Universal Robots was approximately $315 million, which included cash paid of approximately $284 million and $32 million in fair value of
+contingent consideration payable upon achievement of revenue and earnings targets through 2018. Contingent consideration for 2015 was $15 million and was paid in February 2016. Contingent consideration for the period from July 2015 to December
+2017 was $24.6 million and was paid March 2018. Contingent consideration for the period from July 2015 to December 2018 was $3.9 million and it is expected to be paid in March 2019. 
+ 
+ On February 26, 2018, we acquired Energid Technologies Corporation (Energid) for a total purchase price of approximately
+$27.6 million. Energid's technology enables and simplifies the programming of complex robotic motions used in a wide variety of end markets, ranging from heavy industry to healthcare, utilizing both traditional robots and collaborative robots.
+ 
+ On April 25, 2018, we acquired Mobile Industrial Robots ApS (MiR), a Danish limited liability company. MiR
+is the leading maker of collaborative autonomous mobile robots for industrial applications. The total purchase price was approximately $198 million, which included cash paid of approximately $145 million and $53 million in fair value of contingent
+consideration payable upon achievement of certain thresholds and targets for revenue and earnings before interest and taxes through 2020. At December 31, 2018, the maximum amount of contingent consideration that could be paid is $115 million.
+Contingent consideration for 2018 was $31.0 million and is expected to be paid in March 2019. 
+ Universal Robots, MiR and
+Energid are included in our Industrial Automation segment. 
+ We believe our recent acquisitions have enhanced our opportunities
+for growth. We intend to continue to invest in our business, grow market share in our markets and expand further our addressable markets while tightly managing our costs. 
+ Critical Accounting Policies and Estimates 
+ We have identified the policies
+discussed below as critical to understanding our business and our results of operations and financial condition. The impact and any associated risks related to these policies on our business operations is discussed throughout Management's
+Discussion and Analysis of Financial Condition and Results of Operations where such policies affect our reported and expected financial results. 
+ Revenue from Contracts with Customers 
+ We adopted Accounting
+Standards Codification (ASC) 606,  Revenue from Contracts with Customers on January 1, 2018 using the modified retrospective method for all contracts not completed as of the date of adoption. The reported results
+for 2018 reflect the application of ASC 606 while the reported results for 2017 were prepared under the guidance of ASC 605, Revenue Recognition, which is also referred to herein as Legacy GAAP or the previous
+guidance. We recorded a net increase to retained earnings of $12.7 million as of January 1, 2018 due to the cumulative impact of adopting ASC 606. The adoption of ASC 606 represents a change in accounting principle that will more
+closely align revenue recognition with the delivery of Teradyne's hardware and services and will provide financial statement readers with enhanced disclosures. In accordance with ASC 606, revenue is recognized when or as a customer obtains
+control of promised goods or services. The amount of revenue recognized reflects the consideration to which Teradyne expects to be entitled to receive in exchange for fulfillment of the performance obligation. Teradyne's primary source of
+revenue will continue to be from the sale of systems, instruments, robots, and the delivery of services. 
+ 
+ 
+ 24 
+
+
+ 
+
+
+ 
+ 
+ 
+ Table of Contents 
+
+
+ 
+ 
+ 
+ In accordance with ASC 606, we recognize revenues, when or as control is transferred to
+a customer. Our determination of revenue is dependent upon a five step process outlined below. 
+ Step 1: Identify the
+contract with the customer 
+ We account for a contract with a customer when there is written approval, the contract is
+committed, the rights of the parties, including payment terms, are identified, the contract has commercial substance and consideration is probable of collection. 
+ Step 2: Identify the performance obligations in the contract 
+ We
+periodically enter into contracts with customers in which a customer may purchase a combination of goods and services, such as products with extended warranty obligations. We determine performance obligations by assessing whether the products or
+services are distinct from the other elements of the contract. In order to be distinct, the product or service must perform either on its own or with readily available resources and must be separate within the context of the contract. 
+ 
+ Step 3: Determine the transaction price 
+ We consider the amount stated on the face of the purchase order to be the transaction price. We do not have variable consideration which could impact the stated purchase price agreed to by us and the
+customer. 
+ Step 4: Allocate the transaction price to the performance obligations in the contract 
+ 
+ Transaction price is allocated to each individual performance obligation based on the standalone selling price of that performance
+obligation. We use standalone transactions when available to value each performance obligation. If standalone transactions are not available, we will estimate the standalone selling price through market assessments or cost plus a reasonable margin
+analysis. Any discounts from standalone selling price are spread proportionally to each performance obligation. 
+ Step 5:
+Recognize revenue when (or as) the entity satisfies a performance obligation 
+ In order to determine the appropriate timing
+for revenue recognition, we first determine if the transaction meets any of three criteria for over time recognition. If the transaction meets the criteria for over time recognition, we recognize revenue as the good or service is delivered. We use
+input variables such as hours or months utilized or costs incurred to determine the amount of revenue to recognize in a given period. Input variables are used as they best align consumption with benefit to the customer. For transactions that do not
+meet the criteria for over time recognition, we will recognize revenue at a point in time based on an assessment of the five criteria for transfer of control. We have concluded that revenue should be recognized when shipped or delivered based on
+contractual terms. Typically acceptance of our products and services is a formality as we deliver similar systems, instruments and robots to standard specifications. In cases where acceptance is not deemed a formality, we will defer revenue
+recognition until customer acceptance. 
+ Translation of Non-U.S. Currencies 
+ 
+ The functional currency for all non-U.S. subsidiaries is the U.S. dollar, except for the Industrial Automation segment for which the local
+currency is its functional currency. All foreign currency denominated monetary assets and liabilities are remeasured on a monthly basis into the functional currency using exchange rates in effect at the end of the period. All foreign currency
+denominated non-monetary assets and liabilities are remeasured into the functional currency using historical exchange rates. Net foreign exchange gains and losses resulting from remeasurement are included in other (income) expense, net. For
+Industrial Automation, assets and liabilities are translated into U.S. dollars using exchange rates in effect at the end of the period. Revenues and expense amounts are translated using an average of exchange rates in effect during the period.
+Translation adjustments are recorded within accumulated other comprehensive income (loss). 
+ 
+ 
+ 25 
+
+
+ 
+
+
+ 
+ 
+ 
+ Table of Contents 
+
+
+ 
+ 
+ 
+ Retirement and Postretirement Plans 
+ 
+ We recognize net actuarial gains and losses and the change in the fair value of the plan assets in our operating results in the year in
+which they occur or upon any interim remeasurement of the plans. We calculate the expected return on plan assets using the fair value of the plan assets. Actuarial gains and losses are generally measured annually as of December 31 and,
+accordingly, recorded during the fourth quarter of each year or upon any interim remeasurement of the plans. 
+ In March 2017,
+the Financial Accounting Standards Board (FASB) issued ASU 2017-07, CompensationRetirement Benefits (Topic 715): Improving the Presentation of Net Periodic Pension Cost and Net Periodic Postretirement Benefit
+Cost . We retrospectively adopted the new accounting guidance on presentation of net periodic pension costs and net periodic postretirement benefit costs in the first quarter of 2018. This guidance requires the service cost component
+of net benefit costs to be reported in the same line ITEM in the consolidated statement of operations as other employee compensation costs. The non-service components of net benefit costs such as interest cost, expected return on assets,
+amortization of prior service cost, and actuarial gains or losses, are required to be reported separately outside of income or loss from operations. Following the adoption of this guidance, we continue to record the service cost component in the
+same line ITEM as other employee compensation costs and the non-service components of net benefit costs such as interest cost, expected return on assets, amortization of prior service cost, and actuarial gains or losses are reported within other
+(income) expense, net. In 2017 and 2016, the retrospective adoption of this standard decreased income from operations by $5.0 million and $3.0 million, respectively, due to the reclass of net actuarial pension gains and increased non-operating
+(income) expense by the same amount with no impact to net income (loss). 
+ Inventories 
+ 
+ Inventories are stated at the lower of cost (first-in, first-out basis) or net realizable value. On a quarterly basis, we use consistent
+methodologies to evaluate all inventories for net realizable value. We record a provision for both excess and obsolete inventory when such write-downs or write-offs are identified through the quarterly review process. The inventory valuation is
+based upon assumptions about future demand, product mix, and possible alternative uses. 
+ Equity Incentive and Stock Purchase Plans
+ 
+ Stock-based compensation expense is based on the grant-date fair value estimated in accordance with the provisions of
+ASC 718,  CompensationStock Compensation.  Upon adoption of ASU 2016-09, Compensation-Stock Compensation (Topic 718): Improvements to Employee Share-Based Payment Accounting, in the first quarter of 2017, we
+made an accounting policy election to continue accounting for forfeitures by applying an estimated forfeiture rate and recognizing compensation costs only for those stock-based compensation awards expected to vest. In accordance with ASU 2016-09,
+starting in the first quarter of 2017, excess tax benefits or tax deficiencies are recognized as a discrete tax benefit or discrete tax expense to the current income tax provision in our consolidated statements of operations and are reported as cash
+flows from operating activities. On January 1, 2017, a cumulative effect adjustment of $39.1 million for any prior year excess tax benefits or tax deficiencies not previously recorded was recorded as an increase to retained earnings and
+deferred tax assets. All cash payments made to taxing authorities on the employees' behalf for withheld shares are presented as financing activities on the statement of cash flows. In 2018 and 2017, we recognized a discrete tax benefit of
+$7.6 million and $6.3 million, respectively, related to net excess tax benefit. 
+ Income Taxes 
+ 
+ Deferred tax assets and liabilities are determined based on differences between financial reporting and tax basis of assets and
+liabilities and are measured using the enacted tax rates and laws that will be in effect when the differences are expected to reverse. The measurement of deferred tax assets is reduced by a valuation allowance
+ 
+ 
+ 
+ 26 
+
+
+ 
+
+
+ 
+ 
+ 
+ Table of Contents 
+
+
+ 
+ 
+ 
+ 
+if it is more likely than not that some or all of the deferred tax assets will not be realized. We performed the required assessment of positive and negative evidence regarding the realization of
+the net deferred tax assets in accordance with ASC 740,  Accounting for Income Taxes.  This assessment included the evaluation of scheduled reversals of deferred tax liabilities, estimates of projected future taxable income and
+tax-planning strategies. Although realization is not assured, based on our assessment, we concluded that it is more likely than not that such assets, net of the existing valuation allowance, will be realized. 
+ 
+ Investments 
+ We
+account for our investments in debt and equity securities in accordance with the provisions of ASC 320-10,  InvestmentsDebt and Equity Securities.  On a quarterly basis, we review our investments to identify and evaluate those
+that have an indication of a potential other-than-temporary impairment. Factors considered in determining whether a loss is other-than-temporary include: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ The length of time and the extent to which the market value has been less than cost; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ The financial condition and near-term prospects of the issuer; and 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ The intent and ability to retain the investment in the issuer for a period of time sufficient to allow for any anticipated recovery in market value.
+ 
+ Financial Assets and Financial Liabilities 
+ 
+ In January 2016, the FASB issued ASU 2016-01,  Financial InstrumentsOverall (Subtopic 825-10): Recognition and Measurement
+of Financial Assets and Financial Liabilities.  We adopted the new accounting guidance in the first quarter of 2018 using the modified retrospective approach. This guidance requires that changes in fair value of equity marketable securities
+be accounted for directly in earnings. Previously, the changes in fair value of equity marketable securities were recorded in accumulated other comprehensive income on the balance sheet. We continue to record realized gains in interest income and
+realized losses in interest expense. The adoption of this new accounting guidance increased the January 1, 2018 retained earnings balance by $3.1 million and decreased the accumulated other comprehensive income balance by the same amount.
+ 
+ Goodwill, Intangible and Long-Lived Assets 
+ We assess goodwill for impairment at least annually in the fourth quarter, as of December 31, on a reporting unit basis, or more frequently, when events and circumstances occur indicating that the
+recorded goodwill may be impaired. If the book value of a reporting unit exceeds its fair value, the implied fair value of goodwill is compared with the carrying amount of goodwill. If the carrying amount of goodwill exceeds the implied fair value,
+an impairment charge is recorded in an amount equal to that excess. 
+ In the second quarter of 2016, the Wireless Test
+reporting unit (which is our Wireless Test operating and reportable segment) reduced headcount by 11% as a result of a sharp decline in projected demand attributable to an estimated smaller future wireless test market. The decrease in projected
+demand was due to lower forecasted buying from our largest Wireless Test segment customer (who had previously contributed between 51% and 73% of annual Wireless Test sales since the LitePoint acquisition in 2011) as a result of the customer's
+numerous operational efficiencies; slower smartphone growth rates; and a slowdown of new wireless technology adoption. We considered the headcount reduction and sharp decline in projected demand to be a triggering event for an interim goodwill
+impairment test. Following the interim goodwill impairment test, we recorded a goodwill impairment charge of $254.9 million, with approximately $8.0 million of goodwill remaining. 
+ 
+ No goodwill impairment was identified in the fourth quarter of 2018, 2017, and 2016, as part of the annual goodwill impairment test.
+ 
+ 
+ 
+ 27 
+
+
+ 
+
+
+ 
+ 
+ 
+ Table of Contents 
+
+
+ 
+ 
+ 
+ We assess the impairment of intangible and long-lived assets whenever events or changes
+in circumstances indicate that the carrying value may not be recoverable. Factors we consider important in the determination of an impairment include significant underperformance relative to historical or projected future operating results,
+significant changes in the manner that we use the acquired asset and significant negative industry or economic trends. 
+ As a
+result of the interim goodwill impairment test in the second quarter of 2016 described above, we performed an impairment test of the Wireless Test segment's intangible and long-lived assets based on the comparison of the estimated undiscounted
+cash flows to the recorded value of the assets and recorded an $83.3 million acquired intangible assets impairment charge, with approximately $2.2 million of intangible assets remaining at December 31, 2018. There were no events or
+circumstances indicating that the carrying value of acquired intangible and long-lived assets may not be recoverable in 2018 and 2017; as such no impairment test was performed. When we determine that the carrying value of intangible and long-lived
+assets may not be recoverable based upon the existence of one or more of the above indicators of impairment, we measure any impairment based on a projected discounted cash flow method using a discount rate commensurate with the associated risks.
+ 
+ Results of Operations 
+ The following table sets forth the percentage of total net revenues included in our consolidated statements of operations: 
+ 
+
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended December 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ Percentage of revenues: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Revenues: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Products 
+ 
+ 
+ 
+ 
+ 
+ 82.3 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 83.5 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 82.9 
+ 
+ % 
+ 
+ 
+ 
+ 
+ Services 
+ 
+ 
+ 
+ 
+ 
+ 17.7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 16.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 17.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total revenues 
+ 
+ 
+ 
+ 
+ 
+ 100.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 100.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 100.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of revenues: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of products 
+ 
+ 
+ 
+ 
+ 
+ 34.6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 35.6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 37.6 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of services 
+ 
+ 
+ 
+ 
+ 
+ 7.3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 7.2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 7.7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total cost of revenues (exclusive of acquired intangible assets amortization shown separately below) 
+ 
+ 
+ 
+ 
+ 
+ 41.9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 42.8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 45.3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Gross profit 
+ 
+ 
+ 
+ 
+ 
+ 58.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 57.2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 54.7 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating expenses: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Selling and administrative 
+ 
+ 
+ 
+ 
+ 
+ 18.6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 16.3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 18.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ Engineering and development 
+ 
+ 
+ 
+ 
+ 
+ 14.4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 14.4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 16.7 
+ 
+ 
+ 
+ 
+ 
+ 
+ Acquired intangible assets amortization 
+ 
+ 
+ 
+ 
+ 
+ 1.9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1.4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ Restructuring and other 
+ 
+ 
+ 
+ 
+ 
+ 0.7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1.3 
+ 
+ 
+ 
+ 
+ 
+ 
+ Goodwill impairment 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 14.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ Acquired intangible assets impairment 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total operating expenses 
+ 
+ 
+ 
+ 
+ 
+ 35.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 32.6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 58.3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Income (loss) from operations 
+ 
+ 
+ 
+ 
+ 
+ 22.6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 24.6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (3.6 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ Non-operating (income) expenses: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Interest income 
+ 
+ 
+ 
+ 
+ 
+ (1.3 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ (0.8 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ (0.5 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ Interest expense 
+ 
+ 
+ 
+ 
+ 
+ 1.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.2 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other (income) expense, net 
+ 
+ 
+ 
+ 
+ 
+ 0.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (0.1 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ (0.1 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Income (loss) before income taxes 
+ 
+ 
+ 
+ 
+ 
+ 22.3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 24.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (3.1 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ Income tax provision (benefit) 
+ 
+ 
+ 
+ 
+ 
+ 0.8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 12.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (0.7 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net income (loss) 
+ 
+ 
+ 
+ 
+ 
+ 21.5 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 12.1 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ (2.5 
+ 
+ )% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 28 
+
+
+ 
+
+
+ 
+ 
+ 
+ Table of Contents 
+
+
+ 
+ 
+ 
+ Revenues 
+ Revenues for our reportable segments were as follows: 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 
+ 
+ 2017-2018 Dollar Change 
+ 
+ 
+ 
+ 
+ 
+ 2016-2017 Dollar Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (in millions) 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ Semiconductor Test 
+ 
+ 
+ 
+ $ 
+ 
+ 1,492.4 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,662.5 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,368.2 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (170.1 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ 294.3 
+ 
+ 
+ 
+ 
+ 
+ 
+ Industrial Automation 
+ 
+ 
+ 
+ 
+ 
+ 261.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 170.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 99.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 91.4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 71.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ System Test 
+ 
+ 
+ 
+ 
+ 
+ 216.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 192.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 189.8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 24.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2.3 
+ 
+ 
+ 
+ 
+ 
+ 
+ Wireless Test 
+ 
+ 
+ 
+ 
+ 
+ 132.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 111.9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 96.2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 20.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 15.7 
+ 
+ 
+ 
+ 
+ 
+ 
+ Corporate and Other 
+ 
+ 
+ 
+ 
+ 
+ (1.2 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1.2 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 2,100.8 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 2,136.6 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,753.3 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (35.8 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ 383.3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The decrease in Semiconductor Test revenues of $170.1 million, or 10%, from 2017 to 2018 was driven
+primarily by a decrease in sales in the mobility and microcontroller test segments, partially offset by increased sales in memory and analog test segments and an increase in service revenues. The increase in Semiconductor Test revenues of $294.3
+million, or 22%, from 2016 to 2017 was driven primarily by increased sales in the microcontroller, power management, flash memory, and automotive safety test segments and an increase in service revenues. 
+ 
+ The increase in Industrial Automation revenues of $91.4 million, or 54%, from 2017 to 2018 was due to higher demand for collaborative
+robotic arms and the acquisition of MiR, completed in April 2018. MiR added revenues of $24.1 million in 2018. The increase in Industrial Automation revenues of $71.1 million, or 72%, from 2016 to 2017 was due to higher demand for collaborative
+robotic arms. 
+ The increase in System Test revenues of $24.0 million, or 12%, from 2017 to 2018 was primarily due to higher
+system sales in Production Board Test and higher sales of 3.5 hard disk drive and system level testers in Storage Test. The increase in System Test revenues of $2.3 million, or 1%, from 2016 to 2017 was primarily due to higher service
+revenue in Defense/Aerospace test instrumentation and systems. 
+ The increase in Wireless Test revenues of $20.1 million, or
+18%, from 2017 to 2018 was primarily due to higher demand for next generation wireless products. The increase in Wireless Test revenues of $15.7 million, or 16%, from 2016 to 2017 was primarily due to higher demand for connectivity test systems
+and higher service revenue. 
+ Our reportable segments accounted for the following percentages of consolidated revenues:
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ Semiconductor Test 
+ 
+ 
+ 
+ 
+ 
+ 71 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 78 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 78 
+ 
+ % 
+ 
+ 
+ 
+ 
+ Industrial Automation 
+ 
+ 
+ 
+ 
+ 
+ 12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6 
+ 
+ 
+ 
+ 
+ 
+ 
+ System Test 
+ 
+ 
+ 
+ 
+ 
+ 10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 11 
+ 
+ 
+ 
+ 
+ 
+ 
+ Wireless Test 
+ 
+ 
+ 
+ 
+ 
+ 6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 100 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 100 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 100 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 29 
+
+
+ 
+
+
+ 
+ 
+ 
+ Table of Contents 
+
+
+ 
+ 
+ 
+ Revenues by country as a percentage of total revenues were as follows (1): 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ Taiwan 
+ 
+ 
+ 
+ 
+ 
+ 25 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 32 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 37 
+ 
+ % 
+ 
+ 
+ 
+ 
+ China 
+ 
+ 
+ 
+ 
+ 
+ 17 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 10 
+ 
+ 
+ 
+ 
+ 
+ 
+ United States 
+ 
+ 
+ 
+ 
+ 
+ 13 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 13 
+ 
+ 
+ 
+ 
+ 
+ 
+ Europe 
+ 
+ 
+ 
+ 
+ 
+ 11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 7 
+ 
+ 
+ 
+ 
+ 
+ 
+ Korea 
+ 
+ 
+ 
+ 
+ 
+ 8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 8 
+ 
+ 
+ 
+ 
+ 
+ 
+ Japan 
+ 
+ 
+ 
+ 
+ 
+ 8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 8 
+ 
+ 
+ 
+ 
+ 
+ 
+ Malaysia 
+ 
+ 
+ 
+ 
+ 
+ 6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6 
+ 
+ 
+ 
+ 
+ 
+ 
+ Singapore 
+ 
+ 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ 
+ 
+ 
+ Philippines 
+ 
+ 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ Thailand 
+ 
+ 
+ 
+ 
+ 
+ 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ Rest of the World 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 100 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 100 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 100 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) 
+ 
+ 
+ Revenues attributable to a country are based on the location of the customer site. 
+ 
+ The breakout of product and service revenues was as follows: 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 
+ 
+ 2017-2018 Dollar Change 
+ 
+ 
+ 
+ 
+ 
+ 2016-2017 Dollar Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (in millions) 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ Product revenues 
+ 
+ 
+ 
+ $ 
+ 
+ 1,729.6 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,784.7 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,453.2 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (55.1 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ 331.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ Service revenues 
+ 
+ 
+ 
+ 
+ 
+ 371.2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 351.9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 300.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 19.3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 51.9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 2,100.8 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 2,136.6 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,753.3 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (35.8 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ 383.3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Our product revenues decreased $55.1 million, or 3%, in 2018 from 2017 primarily due to lower sales
+in Semiconductor Test mobility test segment, partially offset by higher sales in Industrial Automation, System Test and Wireless Test. Service revenues increased $19.3 million, or 5%. 
+ 
+ Our product revenues increased $331.5 million, or 23%, in 2017 from 2016 primarily due to higher sales across all Semiconductor Test
+products and higher sales in Industrial Automation. Service revenues, which are derived from the servicing of our installed base of products and include equipment maintenance contracts, repairs, extended warranties, parts sales, and applications
+support increased $51.9 million, or 17%. 
+ In 2018, no single customer accounted for more than 10% of our consolidated
+revenues. In 2017 and 2016, revenues from one customer accounted for 13% and 12%, respectively, of our consolidated revenues. In 2016, a different customer accounted for 12% of our consolidated revenues. In each of the years, 2018, 2017, and 2016,
+our five largest customers in aggregate accounted for 27%, 32%, and 36%, respectively, of our consolidated revenues. We estimate consolidated revenues driven by a single OEM customer, combining direct sales to that customer with sales to the
+customer's OSATs, accounted for approximately 13%, 22%, and 26% of our consolidated revenues in 2018, 2017, and 2016, respectively. 
+ 
+ Gross Profit 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 
+ 
+ 2017-2018 Dollar / Point Change 
+ 
+ 
+ 
+ 
+ 
+ 2016-2017 Dollar / Point Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (dollars in millions) 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ Gross profit 
+ 
+ 
+ 
+ $ 
+ 
+ 1,220.4 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,221.5 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 958.6 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (1.1 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ 262.9 
+ 
+ 
+ 
+ 
+ 
+ 
+ Percent of total revenues 
+ 
+ 
+ 
+ 
+ 
+ 58.1 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 57.2 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 54.7 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 0.9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2.5 
+ 
+ 
+ 
+ 
+ 
+ 30 
+
+
+ 
+
+
+ 
+ 
+ 
+ Table of Contents 
+
+
+ 
+ 
+ 
+ Gross profit as a percent of total revenues increased from 2017 to 2018 by 0.9 points,
+primarily due to favorable product mix in System Test, Semiconductor Test, and lower product costs in Industrial Automation. 
+ 
+ Gross profit as a percent of total revenues increased from 2016 to 2017 by 2.5 points, as a result of a 1.5 point increase related to
+favorable product mix in Semiconductor Test and a 1.0 point increase due to higher sales primarily in Semiconductor Test and Industrial Automation. 
+ The breakout of product and service gross profit was as follows: 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 
+ 
+ 2017-2018 Dollar / Point Change 
+ 
+ 
+ 
+ 
+ 
+ 2016-2017 Dollar / Point Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (dollars in millions) 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ Product gross profit 
+ 
+ 
+ 
+ $ 
+ 
+ 1,002.5 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,023.7 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 793.2 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (21.2 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ 230.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ Percent of product revenues 
+ 
+ 
+ 
+ 
+ 
+ 58.0 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 57.4 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 54.6 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 0.6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2.8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Service gross profit 
+ 
+ 
+ 
+ $ 
+ 
+ 217.9 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 197.7 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 165.4 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 20.2 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 32.3 
+ 
+ 
+ 
+ 
+ 
+ 
+ Percent of service revenues 
+ 
+ 
+ 
+ 
+ 
+ 58.7 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 56.2 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 55.1 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 2.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1.1 
+ 
+ 
+ 
+ We assess the carrying value of our inventory on a quarterly basis by estimating future demand and
+comparing that demand against on-hand and on-order inventory positions. Forecasted revenues information is obtained from the sales and marketing groups and incorporates factors such as backlog and future consolidated revenues. This quarterly process
+identifies obsolete and excess inventory. Obsolete inventory, which represents items for which there is no demand, is fully reserved. Excess inventory, which represents inventory items that are not expected to be consumed during the next twelve
+quarters for our Semiconductor Test, Industrial Automation and System Test segments and next four quarters for our Wireless Test segment, is written-down to estimated net realizable value. 
+ 
+ During the year ended December 31, 2018, we recorded an inventory provision of $11.2 million included in cost of revenues,
+primarily due to downward revisions to previously forecasted demand levels for certain products. Of the $11.2 million of total excess and obsolete provisions, $6.8 million was related to Semiconductor Test, $2.5 million was related to
+Wireless Test, $1.2 million was related to System Test, and $0.7 million was related to Industrial Automation. 
+ During
+the year ended December 31, 2017, we recorded an inventory provision of $8.8 million included in cost of revenues, primarily due to downward revisions to previously forecasted demand levels for certain products. Of the $8.8 million of
+total excess and obsolete provisions, $4.6 million was related to Semiconductor Test, $2.2 million was related to Wireless Test, and $1.9 million was related to System Test. 
+ 
+ During the year ended December 31, 2016, we recorded an inventory provision of $17.5 million included in cost of revenues,
+primarily due to downward revisions to previously forecasted demand levels. Of the $17.5 million of total excess and obsolete provisions, $9.7 million was related to Semiconductor Test, $7.2 million was related to Wireless Test, and
+$0.6 million was related to System Test. 
+ During the years ended December 31, 2018, 2017 and 2016, we scrapped
+$7.0 million, $14.4 million and $15.2 million of inventory, respectively, and sold $6.7 million, $7.5 million and $10.0 million of previously written-down or written-off inventory, respectively. As of December 31,
+2018, we had inventory related reserves for amounts which had been written-down or written-off totaling $100.8 million. We have no pre-determined timeline to scrap the remaining inventory. 
+ 
+ 
+ 31 
+
+
+ 
+
+
+ 
+ 
+ 
+ Table of Contents 
+
+
+ 
+ 
+ 
+ Selling and Administrative 
+ 
+ Selling and administrative expenses were as follows: 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 
+ 
+ 2017-2018 Change 
+ 
+ 
+ 
+ 
+ 
+ 2016-2017 Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (dollars in millions) 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ Selling and administrative 
+ 
+ 
+ 
+ $ 
+ 
+ 390.7 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 348.9 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 316.5 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 41.8 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 32.4 
+ 
+ 
+ 
+ 
+ 
+ 
+ Percent of total revenues 
+ 
+ 
+ 
+ 
+ 
+ 18.6 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 16.3 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 18.1 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The increase of $41.8 million in selling and administrative expenses from 2017 to 2018 was due
+primarily to higher spending in Industrial Automation related to higher sales and marketing spending in Universal Robots and due to the acquisitions of MiR and Energid in 2018, partially offset by lower variable compensation across all segments.
+ 
+ The increase of $32.4 million in selling and administrative expenses from 2016 to 2017 was due primarily to higher
+variable compensation across all segments and higher spending in Universal Robots, partially offset by lower spending in Wireless Test. 
+ 
+ Engineering and Development 
+ Engineering and development expenses were as follows: 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 
+ 
+ 2017-2018 Change 
+ 
+ 
+ 
+ 
+ 
+ 2016-2017 Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (dollars in millions) 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ Engineering and development 
+ 
+ 
+ 
+ $ 
+ 
+ 301.5 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 307.3 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 292.2 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (5.8 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ 15.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ Percent of total revenues 
+ 
+ 
+ 
+ 
+ 
+ 14.4 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 14.4 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 16.7 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The decrease of $5.8 million in engineering and development expenses from 2017 to 2018 was due
+primarily to lower spending in System Test and Semiconductor Test, and lower variable compensation, partially offset by higher spending in Industrial Automation. 
+ The increase of $15.1 million in engineering and development expenses from 2016 to 2017 was due primarily to higher variable compensation across all segments and higher spending in System Test and
+Industrial Automation, partially offset by lower spending in Wireless Test and Semiconductor Test. 
+ Acquired Intangible Assets Amortization
+ 
+ Acquired intangible assets amortization expense was as follows: 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 
+ 
+ 2017-2018 Change 
+ 
+ 
+ 
+ 
+ 
+ 2016-2017 Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (dollars in millions) 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ Acquired intangible assets amortization 
+ 
+ 
+ 
+ $ 
+ 
+ 39.2 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 30.5 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 52.6 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 8.7 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (22.1 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ Percent of total revenues 
+ 
+ 
+ 
+ 
+ 
+ 1.9 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 1.4 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 3.0 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Acquired intangible assets amortization expense increased from 2017 to 2018 primarily due to Industrial
+Automation segment acquisitions of MiR and Energid in 2018. 
+ Acquired intangible assets amortization expense decreased from
+2016 to 2017 primarily in the Wireless Test segment due to the impairment of acquired intangible assets in the second quarter of 2016 and in the Industrial Automation segment due to intangible assets that became fully amortized in June 2017.
+ 
+ 
+ 
+ 32 
+
+
+ 
+
+
+ 
+ 
+ 
+ Table of Contents 
+
+
+ 
+ 
+ 
+ Goodwill Impairment 
+ We assess goodwill for impairment at least annually, in the fourth quarter, as of December 31, or on an interim basis between annual tests when events or circumstances indicate that it is more likely
+than not that the fair value of a reporting unit is less than its carrying value. In the second quarter of 2016, the Wireless Test reporting unit (which is our Wireless Test operating and reportable segment) reduced headcount by 11% as a result of a
+sharp decline in projected demand attributable to an estimated smaller future wireless test market. The decrease in projected demand was due to lower forecasted buying from our largest Wireless Test segment customer (which had contributed between
+51% and 73% of annual Wireless Test sales since the LitePoint acquisition in 2011 through 2015) as a result of the customer's numerous operational efficiencies; slower smartphone growth rates; and a slowdown of new wireless technology adoption.
+We considered the headcount reduction and sharp decline in projected demand to be a triggering event for an interim goodwill impairment test. Following the interim goodwill impairment test, we recorded a goodwill impairment charge of
+$254.9 million in the second quarter of 2016. The fourth quarter 2018, 2017 and 2016 goodwill impairment tests did not identify any goodwill impairments. 
+ Acquired Intangible Assets Impairment 
+ We review long-lived assets for
+impairment whenever events or changes in business circumstances indicate that the carrying amount of the assets may not be fully recoverable or that the useful lives of these assets are no longer appropriate. If undiscounted cash flows for the asset
+are less than the carrying amount, the asset is written down to its estimated fair value based on a discounted cash flow analysis. The cash flow estimates used to determine the impairment contain management's best estimates using appropriate
+assumptions and projections at that time. As a result of the Wireless Test segment goodwill impairment charge in the second quarter of 2016, we performed an impairment test of the Wireless Test segment's intangible and long-lived assets based
+on a comparison of the estimated undiscounted cash flows to the recorded value of the assets. As a result of the analysis, we recorded an $83.3 million impairment charge in the second quarter of 2016 in acquired intangible assets impairment on
+the statements of operations. 
+ Restructuring and Other 
+ During the year ended December 31, 2018, we recorded an expense of $17.7 million for the increase in the fair value of the MiR contingent consideration liability, $8.7 million of severance
+charges related to headcount reductions primarily in Semiconductor Test, and $4.5 million for acquisition related expenses and compensation, partially offset by a gain of $16.7 million from the decrease in the fair value of the Universal Robots
+contingent consideration liability. 
+ During the year ended December 31, 2017, we recorded an expense of $7.8 million
+for the increase in the fair value of the Universal Robots contingent consideration liability, $3.8 million of severance charges related to headcount reductions primarily in Semiconductor Test, $1.1 million for an impairment of fixed
+assets in Semiconductor Test, $1.0 million for a lease impairment of a Wireless Test facility in Sunnyvale, CA, which was terminated in September 2017, and $0.8 million of expenses related to an earthquake in Kumamoto, Japan, partially
+offset by $5.1 million of property insurance recovery related to the Japan earthquake. 
+ During the year ended
+December 31, 2016, we recorded an expense of $15.9 million for the increase in the fair value of the contingent consideration liability, of which $15.3 million was related to Universal Robots and $0.6 million was related to
+Avionics Interface Technologies, LLC (AIT), $6.0 million of severance charges related to headcount reductions primarily in Wireless Test, $4.2 million for an impairment of fixed assets, and $0.9 million for expenses
+related to an earthquake in Kumamoto, Japan, partially offset by $5.1 million of property insurance recovery related to the Japan earthquake. 
+ 
+ 
+ 33 
+
+
+ 
+
+
+ 
+ 
+ 
+ Table of Contents 
+
+
+ 
+ 
+ 
+ The remaining accrual for severance of $1.0 million is reflected in the accrued
+employees' compensation and withholdings on the balance sheet and is expected to be paid by April 2019. 
+ Interest and Other
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 
+ 
+ 2017-2018 Change 
+ 
+ 
+ 
+ 
+ 
+ 2016-2017 Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (in millions) 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ Interest income 
+ 
+ 
+ 
+ $ 
+ 
+ (26.7 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ (17.8 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ (9.3 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ (8.9 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ (8.5 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ Interest expense 
+ 
+ 
+ 
+ 
+ 
+ 31.3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 21.7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3.6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 9.6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 18.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other (income) expense, net 
+ 
+ 
+ 
+ 
+ 
+ 1.4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (2.9 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ (2.3 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 4.3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (0.6 
+ 
+ ) 
+ 
+ Interest income increased by $8.9 million from 2017 to 2018 due primarily to higher interest rates
+and realized gains on sales of marketable securities. Interest income increased by $8.5 million from 2016 to 2017 due primarily to higher cash and marketable securities balances and higher interest rates. 
+ 
+ Interest expense increased by $9.6 million from 2017 to 2018 due primarily to recognizing unrealized losses on equity marketable
+securities, and by $18.1 million from 2016 to 2017 due primarily to interest expense related to our convertible senior notes. 
+ 
+ Other (income) expense, net changed by $4.3 million, from $2.9 million income in 2017 to $1.4 million expense in 2018 due primarily to
+lower pension actuarial gains in 2018, and higher foreign exchange losses, partially offset by lower non service pension costs. Other (income) expense, net decreased by $0.6 million from 2016 to 2017 due primarily to pension actuarial gains.
+ 
+ Income (Loss) Before Income Taxes 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 
+ 
+ 2017-2018 Change 
+ 
+ 
+ 
+ 
+ 
+ 2016-2017 Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (in millions) 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ Semiconductor Test 
+ 
+ 
+ 
+ $ 
+ 
+ 397.6 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 491.4 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 311.9 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (93.8 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ 179.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ System Test 
+ 
+ 
+ 
+ 
+ 
+ 48.9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 10.3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 28.9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 38.6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (18.6 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ Wireless Test 
+ 
+ 
+ 
+ 
+ 
+ 29.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 17.4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (371.4 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 11.7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 388.8 
+ 
+ 
+ 
+ 
+ 
+ 
+ Industrial Automation 
+ 
+ 
+ 
+ 
+ 
+ 7.7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 8.8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (16.8 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ (1.1 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 25.6 
+ 
+ 
+ 
+ 
+ 
+ 
+ Corporate and Other (1) 
+ 
+ 
+ 
+ 
+ 
+ (15.4 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ (3.4 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ (7.7 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ (12.1 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 4.4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 467.8 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 524.4 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (55.1 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ (56.6 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ 579.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) 
+ 
+ 
+ Included in Corporate and Other are the following: contingent consideration adjustments, pension and postretirement plans actuarial (gains)
+and losses, impairment of fixed assets and expenses related to the Japan earthquake, property insurance recovery and proceeds, interest (income) and expense, net foreign exchange (gains) and losses, intercompany eliminations and acquisition related
+charges. 
+ The decrease in income before income taxes in Semiconductor Test from 2017 to 2018 was driven
+primarily by a decrease in sales in the mobility and microcontroller test segments, partially offset by an increase in memory and analog test segments sales and an increase in service revenues. The increase in income before income taxes in System
+Test from 2017 to 2018 was primarily due to higher system sales in Production Board Test, and higher sales of 3.5 hard disk drive and system level testers in Storage Test. The increase in income before income taxes in Wireless Test from 2017
+to 2018 was primarily due to higher demand for next generation wireless products. The decrease in income before income taxes in Industrial Automation from 2017 to 2018 was due primarily to increased intangible assets amortization expense from the
+acquisitions of MiR and Energid in 2018. 
+ 
+ 
+ 34 
+
+
+ 
+
+
+ 
+ 
+ 
+ Table of Contents 
+
+
+ 
+ 
+ 
+ The increase in income before income taxes in Semiconductor Test from 2016 to 2017 was
+driven primarily by increased sales and higher gross margin due to favorable product mix. The increase in income before income taxes in Wireless Test from 2016 to 2017 was primarily due to goodwill and intangible assets impairment charges in 2016,
+lower intangible assets amortization, lower operating expenses, higher demand for connectivity test systems and higher service revenue in 2017. The decrease in income before income taxes in System Test from 2016 to 2017 was primarily due to lower
+sales in Storage Test of 3.5 hard disk drive testers for cloud storage and increased spending for new product development. The increase in income before income taxes in Industrial Automation was due primarily to higher demand for collaborative
+robots. 
+ Income Taxes 
+ Income tax expense for 2018 and 2017 totaled $16.0 and $266.7 million, respectively. Income tax benefit for 2016 totaled $11.6 million. The effective tax rate for 2018, 2017 and 2016 was 3.4%, 50.9%, and
+21.1%, respectively. 
+ The increase in the effective tax rate from 2016 to 2017 and the decrease in the effective tax rate from
+2017 to 2018 are primarily attributable to the effect of changes in U.S. Federal tax law. On December 22, 2017, the U.S. enacted the Tax Cuts and Jobs Act of 2017 (the Tax Reform Act), making significant changes to the Internal
+Revenue Code. Among other changes, the Tax Reform Act permanently reduces the corporate tax rate from 35% to 21% effective for tax years beginning after December 31, 2017, shifts the U.S. tax regime from a worldwide system to a modified
+territorial tax system and requires companies to pay a transition tax on earnings of certain foreign subsidiaries that were previously tax deferred. 
+ We recorded a provisional amount of $186.0 million of additional income tax expense in the fourth quarter of 2017 which represented our best estimate of the impact of the Tax Reform Act in accordance with
+our understanding of the Tax Reform Act and available guidance as of that date. The $186.0 million is primarily composed of expense of $161.0 million related to the one-time transition tax on the mandatory deemed repatriation of foreign earnings,
+$33.6 million of expense related to the remeasurement of certain deferred tax assets and liabilities based on the rates at which they are expected to reverse in the future, and benefit of $10.3 million associated with the impact of correlative
+adjustments on uncertain tax positions. In accordance with the requirements of SEC Staff Accounting Bulletin (SAB) No. 118, Income Tax Accounting Implications of the Tax Cuts and Jobs Act, in the fourth quarter of 2018,
+we completed our analysis of the effect of the Tax Reform Act based on the application of the most recently available guidance as of December 31, 2018 and recorded $49.5 million of net income tax benefit. The net benefit consisted of $51.7
+million of benefit resulting from a reduction in the estimate of the one-time transition tax on the mandatory deemed repatriation of foreign earnings and an expense of $2.2 million associated with the impact of correlative adjustments on uncertain
+tax positions. 
+ The change in the effective tax rate from 2017 to 2018 was also impacted by a shift in the geographic
+distribution of income which increased income subject to taxation in the U.S. relative to lower tax rate jurisdictions, the benefit of the U.S. foreign derived intangible income deduction and increases in discrete benefit from non-taxable foreign
+exchange gains and losses. 
+ The change in the effective rate from 2016 to 2017 was also impacted by the U.S. non-deductible
+goodwill impairment charge recorded in 2016, a shift in the geographic distribution of income which increased income subject to taxation in the U.S. relative to lower tax rate jurisdictions, decreases in the discrete benefits from tax reserve
+releases, increases in discrete expense from non-taxable foreign exchange gains and losses and an increase in the discrete benefit from stock-based compensation. 
+ We qualify for a tax holiday in Singapore by fulfilling the requirements of an agreement with the Singapore Economic Development Board under which certain headcount and spending requirements must be met.
+The tax savings attributable to the Singapore tax holiday for the years ended December 31, 2018, 2017 and 2016 were $11.9 million or $0.06 per diluted share, $24.8 million or $0.12 per diluted share and $17.0 million or $0.08 per diluted share,
+respectively. The tax holiday is scheduled to expire on December 31, 2020. 
+ 
+ 
+ 35 
+
+
+ 
+
+
+ 
+ 
+ 
+ Table of Contents 
+
+
+ 
+ 
+ 
+ Contractual Obligations 
+ The following table reflects our contractual obligations as of December 31, 2018: 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Payments Due by Period 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ 
+ 
+ 
+ 
+ Less than 1 year 
+ 
+ 
+ 
+ 
+ 
+ 1-3 years 
+ 
+ 
+ 
+ 
+ 
+ 3-5 years 
+ 
+ 
+ 
+ 
+ 
+ More than 5 years 
+
+ 
+ 
+ 
+ 
+ 
+ Other 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (in thousands) 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ Convertible debt 
+ 
+ 
+ 
+ $ 
+ 
+ 460,000 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 460,000 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ Purchase obligations 
+ 
+ 
+ 
+ 
+ 
+ 242,052 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 232,533 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 9,519 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ Retirement plans contributions 
+ 
+ 
+ 
+ 
+ 
+ 122,294 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4,919 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 10,455 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 10,136 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 96,784 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ Transition tax payable (1) 
+ 
+ 
+ 
+ 
+ 
+ 91,186 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 7,295 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 14,590 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 14,590 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 54,711 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating lease obligations 
+ 
+ 
+ 
+ 
+ 
+ 76,055 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 19,570 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 31,871 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 15,142 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 9,472 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ Interest on long term debt 
+ 
+ 
+ 
+ 
+ 
+ 28,750 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5,750 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 11,500 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 11,500 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ Fair value of contingent consideration 
+ 
+ 
+ 
+ 
+ 
+ 70,543 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 34,865 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 35,678 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ Other long-term liabilities reflected on the balance sheet under GAAP (2) 
+ 
+ 
+ 
+ 
+ 
+ 90,959 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 27,631 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5,119 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 58,209 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ 
+ 
+ $ 
+ 
+ 1,181,839 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 304,932 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 141,244 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 516,487 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 160,967 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 58,209 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) 
+ 
+ 
+ Represents the transition tax liability associated with our accumulated foreign earnings as a result of enactment of the Tax Reform Act on
+December 22, 2017. 
+ 
+ 
+ 
+ 
+ (2) 
+ 
+ 
+ Included in other long-term liabilities are liabilities for customer advances, extended warranty, uncertain tax positions, deferred tax
+liabilities and other obligations. For certain long-term obligations, we are unable to provide a reasonably reliable estimate of the timing of future payments relating to these obligations and therefore we included these amounts in the column marked
+Other. 
+ Liquidity and Capital Resources 
+ 
+ Our cash, cash equivalents and marketable securities balance decreased by $699 million from 2017 to 2018 to $1,205 million.
+ 
+ Operating activities during 2018 provided cash of $476.9 million. Changes in operating assets and liabilities used cash of
+$163.5 million. This was due to a $105.8 million increase in operating assets and a $57.7 million decrease in operating liabilities. 
+ The increase in operating assets was due to a $58.4 million increase in prepayments and other assets due primarily to payments to our contract manufacturers, a $29.5 million increase in
+inventories, and a $17.9 million increase in accounts receivable due to higher sales in the fourth quarter of 2018 comparing to 2017. 
+ The decrease in operating liabilities was due to a $80.4 million decrease in income taxes, primarily related to a decrease in our transitional tax liability associated with our accumulated foreign
+earnings under the U.S. Tax Reform Act, a $5.5 million decrease in other accrued liabilities and $4.3 million of retirement plans contributions, partially offset by a $13.4 million increase in customer advance payments and deferred revenue, a $12.9
+million increase in accounts payable, and a $6.3 million increase in accrued employee compensation due primarily to variable compensation. 
+ Investing activities during 2018 provided cash of $923.0 million, due to $1,270.4 million and $846.1 million in proceeds from maturities and sales of marketable securities, respectively, proceeds
+from a government subsidy of $7.9 million for property, plant and equipment, and proceeds from life insurance of $1.1 million related to the cash surrender value from the cancellation of a Teradyne owned life insurance policy, partially offset by
+$918.7 million used for purchase of marketable securities, $169.5 million used for acquisition of MiR and Energid, and $114.4 million used for purchases of property, plant and equipment. 
+ 
+ 
+ 36 
+
+
+ 
+
+
+ 
+ 
+ 
+ Table of Contents 
+
+
+ 
+ 
+ 
+ Financing activities during 2018 used cash of $903.4 million, due to
+$823.5 million used for the repurchase of 21.6 million shares of common stock at an average price of $38.06 per share, $67.3 million used for dividend payments, $20.0 million used for payments related to net settlement of
+employee stock compensation awards, and $13.6 million used for a payment related to Universal Robots acquisition contingent consideration, partially offset by $21.0 million from the issuance of common stock under employee stock purchase
+and stock option plans. 
+ Operating activities during 2017 provided cash of $626.5 million. Changes in operating assets and
+liabilities provided cash of $183.1 million. This was due to a $33.4 million increase in operating assets and a $216.5 million increase in operating liabilities. 
+ 
+ The increase in operating assets was due to an $80.6 million increase in accounts receivable due to higher sales, partially offset
+by a $45.0 million decrease in inventories and a $2.3 million decrease in prepayments and other assets. 
+ The
+increase in operating liabilities was due to a $173.8 million increase in income taxes, primarily related to the estimated impact of U.S. Tax Reform Act, a $30.9 million increase in accrued employee compensation due primarily to variable
+compensation, a $24.0 million increase in other accrued liabilities, and a $5.0 million increase in customer advance payments and deferred revenue, partially offset by an $11.3 million decrease in accounts payable and
+$5.9 million of retirement plans contributions. 
+ Investing activities during 2017 used cash of $262.8 million, due
+to $1,391.9 million used for purchases of marketable securities and $105.4 million used for purchases of property, plant and equipment, partially offset by proceeds from maturities and sales of marketable securities of $701.7 million
+and $527.7 million, respectively, and proceeds from property insurance of $5.1 million related to the Japan earthquake. 
+ Financing activities during 2017 used cash of $245.2 million, due to $200.3 million used for repurchase of 5.8 million shares of common stock at an average price of $34.30 per share,
+$55.4 million used for dividend payments, $12.9 million used for payments related to net settlement of employee stock compensation awards, and $1.1 million used for a payment related to AIT acquisition contingent consideration,
+partially offset by $24.5 million from the issuance of common stock under employee stock purchase and stock option plans. 
+ 
+ Operating activities during 2016, provided cash of $455.2. Changes in operating assets and liabilities provided cash of
+$49.0 million. This was due to a $33.4 million decrease in operating assets and a $15.6 million increase in operating liabilities. 
+ The decrease in operating assets was due to an $18.3 million decrease in accounts receivable due to increased collections and a $34.3 million decrease in inventories, partially offset by a
+$19.2 million increase in prepayments and other assets. 
+ The increase in operating liabilities was due to an
+$18.4 million increase in income taxes, a $3.9 million increase in accounts payable, and a $6.7 million increase in other accrued liabilities, partially offset by a $3.8 million decrease in accrued employee compensation due
+primarily to variable compensation, $6.0 million of retirement plans contributions and a $3.6 million decrease in customer advance payments and deferred revenue. 
+ Investing activities during 2016 used cash of $640.5 million, due to $1,656.3 million used for purchases of marketable securities and $85.3 million used for purchases of property, plant and
+equipment, partially offset by proceeds from maturities and sales of marketable securities of $243.2 million and $852.8 million, respectively, and proceeds from property insurance of $5.1 million related to the Japan earthquake.
+ 
+ Financing activities during 2016 provided cash of $228.4 million, due to $450.8 million of proceeds from the
+issuance of senior convertible notes, net of issuance costs, $67.9 million of proceeds from the issuance of 
+ 
+ 
+ 37 
+
+
+ 
+
+
+ 
+ 
+ 
+ Table of Contents 
+
+
+ 
+ 
+ 
+ 
+warrants, $20.5 million from the issuance of common stock under employee stock purchase and stock option plans, and $6.2 million from the tax benefit related to employee stock
+compensation awards, partially offset by $146.3 million used for the repurchase of 6.8 million shares of common stock at an average price of $21.39 per share, $100.8 million used for the purchase of convertible note hedges,
+$48.6 million used for dividend payments, $11.7 million used for a payment related to the Universal Robots acquisition contingent consideration and $9.4 million used for payments related to net settlement of employee stock
+compensation awards. 
+ In January 2018, May 2018, August 2018 and November 2018, our Board of Directors declared a
+quarterly cash dividend of $0.09 per share. Total dividend payments in 2018 were $67.3 million. 
+ In January
+2017, May 2017, August 2017 and November 2017, our Board of Directors declared a quarterly cash dividend of $0.07 per share. Total dividend payments in 2017 were $55.4 million. 
+ 
+ In January 2016, May 2016, August 2016 and November 2016, our Board of Directors declared a quarterly cash dividend of $0.06
+per share. Total dividend payments in 2016 were $48.6 million. 
+ In January 2019, our Board of Directors declared a
+quarterly cash dividend of $0.09 per share to be paid on March 22, 2019 to shareholders of record as of February 22, 2019. Payment of future cash dividends are subject to the discretion of our Board of Directors and will depend, among
+other things, upon our earnings, capital requirements and financial condition. 
+ In January 2015, our Board of Directors
+cancelled the November 2010 stock repurchase program and authorized a new stock repurchase program for up to $500 million of common stock. In 2016, we repurchased 6.8 million shares of common stock at an average price of $21.39, for a
+total cost of $146.3 million. The cumulative repurchases as of December 31, 2016 totaled 22.5 million shares of common stock for $446 million at an average price per share of $19.87. 
+ 
+ In December 2016, our Board of Directors cancelled the January 2015 stock repurchase program and approved a new $500 million share
+repurchase authorization which commenced on January 1, 2017. The cumulative repurchases as of December 31, 2017 totaled 5.8 million shares of common stock for $200.3 million at an average price per share of $34.30. 
+ 
+ In January 2018, our Board of Directors cancelled the December 2016 stock repurchase program and authorized a new stock repurchase
+program for up to $1.5 billion of common stock. The cumulative repurchases as of December 31, 2018 totaled 21.6 million shares of common stock for $823.5 million at an average price per share of $38.06. We intend to repurchase
+$500 million in 2019. 
+ We believe our cash, cash equivalents and marketable securities balance will be sufficient to pay
+our quarterly dividend, execute our authorized share repurchase program and meet our working capital and expenditure needs for at least the next twelve months. We also have a $350 million revolving credit facility. As of March 1, 2019 we have not
+borrowed any funds under this credit facility. Inflation has not had a significant long-term impact on earnings. 
+ Retirement Plans
+ 
+ ASC 715-20,  CompensationRetirement BenefitsDefined Benefit Plans,  requires an employer with
+defined benefit plans or other postretirement benefit plans to recognize an asset or a liability on its balance sheet for the overfunded or underfunded status of the plans as defined by ASC 715-20. The pension asset or liability represents the
+difference between the fair value of the pension plan's assets and the projected benefit obligation as of December 31. For other postretirement benefit plans, the liability is the difference between the fair value of the plan's assets
+and the accumulated postretirement benefit obligation as of December 31. 
+ 
+ 
+ 38 
+
+
+ 
+
+
+ 
+ 
+ 
+ Table of Contents 
+
+
+ 
+ 
+ 
+ For the year ended December 31, 2018, our pension expense, which includes the U.S.
+Qualified Pension Plan (U.S. Plan), certain qualified plans for non-U.S. subsidiaries, and a U.S. Supplemental Executive Defined Benefit Plan, was approximately $0.3 million. Pension expense or income is calculated based upon a
+number of actuarial assumptions. Discount rate and expected return on assets are two assumptions which are important elements of pension plan expense (income) and asset/liability measurement. We evaluate our discount rate and expected rate of return
+on assets assumptions annually on a plan and country specific basis. We evaluate other assumptions related to demographic factors, such as retirement age, mortality and turnover periodically, and update them to reflect our experience and
+expectations for the future. 
+ In developing the expected return on U.S. Plan assets assumption, we evaluated input from our
+investment manager and pension consultants, including their forecast of asset class return expectations. We believe that 4.25% was an appropriate rate of return on assets to use for 2018. The December 31, 2018 asset allocation for our U.S. Plan
+was 94% invested in fixed income securities, 5% invested in equity securities, and 1% invested in other securities. Our investment manager regularly reviews the actual asset allocation and periodically rebalances the portfolio to ensure alignment
+with our target allocations. 
+ We recognize net actuarial gains and losses and the change in the fair value of plans assets in
+our operating results in the year in which they occur or upon any interim remeasurement of the plans. We calculate the expected return on plan assets using the fair value of the plan assets. Actuarial gains and losses are generally measured annually
+as of December 31 and, accordingly, recorded during the fourth quarter of each year or upon any interim remeasurement of the plans. 
+ The discount rate that we utilized for determining future pension obligations for the U.S. Plan is based on the FTSE Pension Index adjusted for the U.S. Plan's expected cash flows and was 4.15% at
+December 31, 2018, up from 3.40% at December 31, 2017. We estimate that in 2019 we will recognize approximately $0.4 million of pension expense for the U.S. Plan. The U.S. Plan pension expense estimate for 2019 is based on a 4.15%
+discount rate and a 4.25% return on assets. Future pension expense or income will depend on future investment performance, changes in future discount rates and various other factors related to the employee population participating in our pension
+plans. 
+ As of December 31, 2018, our pension plans had unrecognized pension prior service cost of $0.1 million.
+ 
+ We performed a sensitivity analysis, which expresses the potential U.S. Plan (income) expense for the year ending
+December 31, 2019, which would result from changes to either the discount rate or the expected return on plan assets. The below estimates exclude the impact of any potential actuarial gains or losses. It is difficult to reliably forecast or
+predict whether there will be any actuarial gains or losses in 2019 as they are primarily driven by events and circumstances beyond our control, such as changes in interest rates and the performance of the financial markets. 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Discount Rate 
+ 
+ 
+ 
+ 
+ 
+ 
+ Return on Plan Assets 
+ 
+ 
+ 
+ 3.65% 
+ 
+ 
+ 
+ 
+ 
+ 4.15% 
+ 
+ 
+ 
+ 
+ 
+ 4.65% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (in millions) 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 3.75% 
+ 
+ 
+ 
+ $ 
+ 
+ 0.9 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1.1 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1.2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.25% 
+ 
+ 
+ 
+ 
+ 
+ 0.2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.75% 
+ 
+ 
+ 
+ 
+ 
+ (0.5 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ (0.3 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ (0.2 
+ 
+ ) 
+ 
+ The assets of the U.S. Plan consist substantially of fixed income securities. U.S. Plan assets have
+decreased from $324.5 million at December 31, 2017 to $144.3 million at December 31, 2018 while the U.S. Plan's liability decreased from $307.0 million at December 31, 2017 to $127.4 million at
+December 31, 2018. The decrease in assets and liabilities for the U.S. Plan is due primarily to the purchase of a group annuity insurance contract in 2018. Under the group annuity, the accrued pension obligations for approximately 1,700 retiree
+participants were transferred to an insurance company. The reduction in the pension benefit obligation and pension assets was $151.3 million. We recorded a settlement loss of $0.3 million related to the retiree group annuity transaction. 
+
+ 
+ 
+ 39 
+
+
+ 
+
+
+ 
+ 
+ 
+ Table of Contents 
+
+
+ 
+ 
+ 
+ Our funding policy is to make contributions to our pension plans in accordance with
+local laws and to the extent that such contributions are tax deductible. During 2018, we made contributions of $2.6 million to the U.S. supplemental executive defined benefit pension plan, and $0.8 million to certain qualified plans for
+non-U.S. subsidiaries. In 2019, we expect to contribute approximately $2.7 million to the U.S. supplemental executive defined benefit pension plan. Contributions to be made in 2019 to certain qualified plans for non-U.S. subsidiaries are based
+on local statutory requirements and are estimated at approximately $0.9 million. 
+ Equity Compensation Plans 
+ 
+ In addition to our 1996 Employee Stock Purchase Plan discussed in Note O: Stock-Based Compensation in Notes to
+Consolidated Financial Statements, we have a 2006 Equity and Cash Compensation Incentive Plan (the 2006 Equity Plan) under which equity securities are authorized for issuance. The 2006 Equity Plan was initially approved by stockholders
+on May 25, 2006. 
+ At our annual meeting of stockholders held May 21, 2013, our stockholders approved an amendment to
+the 2006 Equity Plan to increase the number of shares issuable thereunder by 10.0 million, for an aggregate of 32.0 million shares issuable thereunder, and our stockholders also approved an amendment to our 1996 Employee Stock Purchase
+Plan to increase the number of shares issuable thereunder by 5.0 million, for an aggregate of 30.4 million shares issuable thereunder. At our annual meeting of stockholders held May 12, 2015, our stockholders approved an amendment to
+the 2006 Equity Plan to extend its term until May 12, 2025. 
+ The following table presents information about these plans
+as of December 31, 2018 (share numbers in thousands): 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Plan category 
+ 
+ 
+ 
+ Number of securities to
+be issued upon exercise of outstanding
+options, warrants and rights 
+ 
+ 
+ 
+ 
+ 
+ Weighted-average exercise price
+of outstanding options, warrants and rights 
+ 
+ 
+ 
+ 
+ 
+ Number of securities remaining available for future issuance under equity compensation plans
+(excluding securities reflected in column one) 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ Equity plans approved by shareholders 
+ 
+ 
+ 
+ 
+ 
+ 2,785 
+ 
+ (1) 
+ 
+ 
+ 
+ $ 
+ 
+ 27.82 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 10,377 
+ 
+ (2) 
+ 
+ 
+ 
+ 
+ Equity plans not approved by shareholders (3) 
+ 
+ 
+ 
+ 
+ 
+ 175 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2.49 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ 
+ 
+ 
+ 
+ 2,960 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 19.06 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 10,377 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) 
+ 
+ 
+ Includes 2,454,259 shares of restricted stock units that are not included in the calculation of the weighted average exercise price.
+ 
+ 
+ 
+ 
+ 
+ (2) 
+ 
+ 
+ Consists of 7,873,477 securities available for issuance under the 2006 Equity Plan and 2,504,492 of securities available for issuance under
+the Employee Stock Purchase Plan. 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ In connection with the 2011 acquisition of LitePoint Corporation (the LitePoint Acquisition), we assumed the options granted under
+the LitePoint Corporation 2002 Stock Plan (the LitePoint Plan). Upon the consummation of the LitePoint Acquisition, these options were converted automatically into options to purchase an aggregate of 2,828,344 shares of our common stock.
+No additional awards were granted under the LitePoint Plan. As of December 31, 2018, there were outstanding options exercisable for an aggregate of 175,168 shares of our common stock pursuant to the LitePoint Plan, with a weighted average
+exercise price of $2.49 per share. 
+ The purpose of the 2006 Equity Plan is to motivate employees, officers
+and directors by providing equity ownership and compensation opportunities in Teradyne. The aggregate number of shares available under the 2006 Equity Plan as of December 31, 2018 was 7,873,477 shares of our common stock. The 2006 Equity Plan
+authorizes the grant of stock-based awards in the form of (1) non-qualified and incentive stock options, (2) stock appreciation rights, (3) restricted stock awards and restricted stock unit awards, (4) phantom stock, and
+(5) other stock-based awards. Awards may be tied to time-based vesting schedules and/or performance-based vesting 
+ 
+ 
+ 40 
+
+
+ 
+
+
+ 
+ 
+ 
+ Table of Contents 
+
+
+ 
+ 
+ 
+ 
+measured by reference to performance criteria chosen by the Compensation Committee of the Board of Directors, which administers the 2006 Equity Plan. Awards may be made to any employee, officer,
+consultant and advisor of Teradyne and our subsidiaries, as well as, to our directors. The maximum number of shares of stock-based awards that may be granted to one participant during any one fiscal year is 2,000,000 shares of common stock.
+ 
+ As of December 31, 2018, total unrecognized compensation expense related to non-vested restricted stock units and
+options was $44 million, and is expected to be recognized over a weighted average period of 2.4 years. 
+ Performance Graph
+ 
+ The following graph compares the change in our cumulative total shareholder return in our common stock with (i) the
+NYSE Composite Index and (ii) the Morningstar Semiconductor Equipment & Materials Industry Group (compiled by Morningstar, Inc.). The comparison assumes $100.00 was invested on December 31, 2013 in our common stock and in each of
+the foregoing indices and assumes reinvestment of dividends, if any. Historic stock price performance is not necessarily indicative of future price performance. 
+ 
+ 
+ 
+
+
+ 
+ 
+ Recently Issued Accounting Pronouncements 
+ 
+ On January 26, 2017, the FASB issued ASU 2017-04, IntangiblesGoodwill and Other (Topic 350): Simplifying the
+Accounting for Goodwill Impairment. The new guidance removes Step 2 of the goodwill impairment test, which requires a hypothetical purchase price allocation. Goodwill impairment will now be the amount by which a reporting unit's
+carrying value exceeds its fair value, not to exceed the carrying amount of goodwill. All other goodwill impairment guidance will remain largely unchanged. Entities will continue to have the option to perform a qualitative assessment to determine if
+a quantitative impairment test is necessary. The same one-step impairment test will be applied to goodwill at all reporting units, even those with zero or negative carrying amounts. Entities will be required to disclose the amount of goodwill at
+reporting units with zero or negative carrying amounts. The revised guidance will be applied prospectively, and is effective in 2020. Early adoption is permitted for any impairment tests performed after January 1, 2017. We are currently
+evaluating the impact of this ASU on our financial position, results of operations and statements of cash flows. 
+ In February
+2016, the FASB issued ASU 2016-02, Leases (Topic 842). The guidance in this ASU supersedes the lease recognition requirements in ASC Topic 840, Leases. The new standard establishes a right- of-use
+(ROU) model that requires a lessee to record an ROU asset and a lease liability on the balance sheet for all 
+ 
+ 
+ 41 
+
+
+ 
+
+
+ 
+ 
+ 
+ Table of Contents 
+
+
+ 
+ 
+ 
+ 
+leases with terms longer than twelve months. Leases will be classified as either finance or operating, with classification affecting the pattern of expense recognition in the statements of
+operations. The new standard is effective for annual periods beginning after December 15, 2018 with early adoption permitted. A modified retrospective transition approach is required for lessees for capital and operating leases existing at, or
+entered into after, the beginning of the earliest comparative period presented in the financial statements. In July 2018, the FASB issued ASU 2018-11, Leases (Topic 842): Targeted Improvements, which amends ASU 2016-02. The new ASU
+offers an additional transition method by which entities may elect not to recast the comparative periods presented in financial statements in the period of adoption and allows lessors to elect a practical expedient to not separate lease and
+non-lease components when certain conditions are met. This ASU has the same transition requirements and effective date as ASU 2016-02. We elected not to recast the comparative periods presented in financial statements in the period of adoption. We
+adopted this guidance in January 2019; as a result we recorded between $50 and $60 million of operating lease right-of-use assets and operating lease liabilities. Adoption had an immaterial impact on our results of operations. 
+ 
+ 
+ 
+ 
+ 
+ 

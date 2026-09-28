@@ -1,0 +1,2448 @@
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS. 
+ (In Millions, Except Per Share Data or As Otherwise Stated Herein) 
+ On May 18, 2022, our shareholders approved a proposal to amend our amended and restated articles of incorporation to change our name from Anthem, Inc. to Elevance Health, Inc. This amendment and name change went into effect on June 27, 2022. We began operating as Elevance Health, Inc. and trading under our new ticker symbol “ELV” on June 28, 2022. References to the terms “we,” “our,” “us,” “Elevance Health” or the “Company” used throughout this Management’s Discussion and Analysis of Financial Condition and Results of Operations (“MD&A”) refer to Elevance Health, Inc., an Indiana corporation, and, unless the context otherwise requires, its direct and indirect subsidiaries. References to the “states” include the District of Columbia and Puerto Rico, unless the context otherwise requires. 
+ This MD&A should be read in conjunction with our audited consolidated financial statements included in Part II, ITEM 8 of this Annual Report on Form 10-K. 
+ This section of this Annual Report on Form 10-K generally discusses 2022 and 2021 items and year-over-year comparisons between 2022 and 2021. A detailed discussion of 2020 items and year-over-year comparisons between 2021 and 2020 that are not included in this Annual Report on Form 10-K can be found in “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in Part II, ITEM 7 of our Annual Report on Form 10-K for the year ended December 31, 2021. 
+ 
+ 
+ Overview 
+ Elevance Health is a health company with the purpose of improving the health of humanity. We are one of the largest health insurers in the United States in terms of medical membership, serving approximately 47.5 million medical members through our affiliated health plans as of December 31, 2022. We are an independent licensee of the Blue Cross and Blue Shield Association (“BCBSA”), an association of independent health benefit plans. We serve our members as the Blue Cross licensee for California and as the Blue Cross and Blue Shield (“BCBS”) licensee for Colorado, Connecticut, Georgia, Indiana, Kentucky, Maine, Missouri (excluding 30 counties in the Kansas City area), Nevada, New Hampshire, New York (in the New York City metropolitan area and upstate New York), Ohio, Virginia (excluding the Northern Virginia suburbs of Washington, D.C.) and Wisconsin. In a majority of these service areas, we do business as Anthem Blue Cross, Anthem Blue Cross and Blue Shield, and Empire Blue Cross Blue Shield or Empire Blue Cross. In addition, we conduct business through arrangements with other BCBS licensees as well as other strategic partners. Through our subsidiaries, we also serve customers in numerous states across the country as AIM Specialty Health, Amerigroup, Aspire Health, Beacon, CareMore, Freedom Health, HealthLink, HealthSun, MMM, Optimum Healthcare, Simply Healthcare, Unicare and/or Wellpoint. We offer pharmacy benefits management (“PBM”) services through our CarelonRx, Inc. (“CarelonRx”) subsidiary, which was known as IngenioRx, Inc. prior to January 1, 2023. We are licensed to conduct insurance operations in all 50 states, the District of Columbia and Puerto Rico through our subsidiaries. 
+ As part of our name change to Elevance Health, in June 2022, we announced that over the next several years we will organize our brand portfolio into the following core go-to-market brands: 
+ • Anthem Blue Cross/Anthem Blue Cross and Blue Shield — represents our existing Anthem-branded and affiliated Blue Cross and/or Blue Shield licensed plans; 
+ • Wellpoint — we intend to unite select non-BCBSA licensed Medicare, Medicaid and Commercial plans under the Wellpoint name; and 
+ • Carelon — this brand brings together our healthcare-related services and capabilities, including our formerly named Diversified Business Group and IngenioRx businesses, under a single brand name. 
+ In 2022, we managed our operations by customer type through four reportable segments: Commercial & Specialty Business, Government Business, CarelonRx (formerly known as IngenioRx) and Other. As we continue our journey to evolve our business from a traditional health insurance company into a lifetime, trusted health partner, we are evaluating and making changes to how we manage our business. This included a review of the products in each of our operating segments, which resulted in restructurings between some of our operating segments. Therefore, our reportable segment presentation in 2023 
+ 
+ 
+ -39- 
+ 
+ 
+ and its composition will reflect how we began managing our operations and monitoring performance, aligning strategies and allocating resources on January 1, 2023. As a result of these changes, beginning with our Quarterly Report on Form 10-Q for the first quarter of 2023, we will report our results in the following four reportable segments: (i) Health Benefits, which will combine our existing Commercial & Specialty Business and Government Business segments; (ii) our existing CarelonRx segment; (iii) Carelon Services (our former Diversified Business Group), which will be carved out from our existing Other segment; and (iv) Corporate and Other, which will include businesses that do not individually meet the quantitative thresholds for an operating segment, as well as corporate expenses not allocated to our other reportable segments. We expect to reclassify previously reported information to conform to the new presentation. 
+ Our results of operations discussed throughout this MD&A are determined in accordance with generally accepted accounting principles (“GAAP”). We also calculate operating gain and operating margin to further aid investors in understanding and analyzing our core operating results. Operating gain is calculated as total operating revenue less benefit expense, cost of products sold and selling, general and administrative expense. Operating margin is calculated as operating gain divided by operating revenue. Our definition of operating gain and operating margin may not be comparable to similarly titled measures reported by other companies. We use these measures as a basis for evaluating segment performance, allocating resources, forecasting future operating periods and setting incentive compensation targets. This information is not intended to be considered in isolation or as a substitute for income before income tax expense, net income or fully-diluted earnings per share (“EPS”) prepared in accordance with GAAP. For additional details on operating gain, see our “Reportable Segments Results of Operations” discussion included in this MD&A. For a reconciliation of reportable segment operating revenue to the amounts of total revenue included in the consolidated statements of income and a reconciliation of reportable segment operating gain to income before income tax expense, see Note 20, “Segment Information,” of the Notes to Consolidated Financial Statements included in Part II, ITEM 8 of this Annual Report on Form 10-K. 
+ Our operating revenue consists of premiums, product revenue, and administrative fees and other revenue. Premium revenue is generated from risk-based contracts where we indemnify our policyholders against costs for covered health and life insurance benefits. Product revenue represents services performed by CarelonRx for unaffiliated PBM customers and includes ingredient costs (net of any rebates or discounts), including co-payments made by or on behalf of the customer, and administrative fees. Unaffiliated PBM customers include our fee-based groups that contract with CarelonRx for PBM services and external customers outside of the health plans we own. Administrative fees and other revenue come from fees from our fee-based customers for the processing of transactions or network discount savings realized, revenues from our Medicare processing business and revenues from other health-related businesses, including care management programs and miscellaneous other income. 
+ Our benefit expense primarily includes costs of care for health services consumed by our risk-based members, such as outpatient care, inpatient hospital care, professional services (primarily physician care) and pharmacy benefit costs. All four components are affected both by unit costs and utilization rates. Unit costs include the cost of outpatient medical procedures per visit, inpatient hospital care per admission, physician fees per office visit and prescription drug prices. Utilization rates represent the volume of consumption of health services and typically vary with the age and health status of our members and their social and lifestyle choices, along with clinical protocols and medical practice patterns in each of our markets. A portion of benefit expense recognized in each reporting period consists of actuarial estimates of claims incurred but not yet paid by us. Any changes in these estimates are recorded in the period the need for such an adjustment arises. While we offer a diversified mix of managed care products and services through our managed care plans, our aggregate cost of care can fluctuate based on a change in the overall mix of these products and services. Our managed care plans include: Preferred Provider Organizations; Health Maintenance Organizations; Point-of-Service plans; traditional indemnity plans and other hybrid plans, including Consumer-Driven Health Plans; and hospital only and limited benefit products. 
+ We classify certain quality improvement costs as benefit expense. Quality improvement activities are those designed to improve member health outcomes, prevent hospital readmissions and improve patient safety. They also include expenses for wellness and health promotion provided to our members. These quality improvement costs may be comprised of expenses incurred for: (i) medical management, including care coordination and case management; (ii) health and wellness, including disease management services for such conditions as diabetes, high-risk pregnancies, congestive heart failure and asthma management and wellness initiatives like weight-loss programs and smoking cessation treatments; and (iii) clinical health policy, such as identification and use of best clinical practices to avoid harm, identifying clinical errors and safety concerns, and identifying potential adverse drug interactions. 
+ 
+ 
+ -40- 
+ 
+ 
+ Our cost of products sold represents the cost of pharmaceuticals dispensed by CarelonRx for our unaffiliated PBM customers (net of rebates or discounts), including any co-payments made by or on behalf of the customer, per-claim administrative fees for prescription fulfillment and certain direct costs related to sales and administration of customer contracts. 
+ Our selling, general and administrative expenses consist of fixed and variable costs. Examples of fixed costs are depreciation, amortization and certain facilities expenses. Certain variable costs, such as premium taxes, vary directly with premium volume. Commission expense generally varies with premium or membership volume. Other variable costs, such as salaries and benefits, do not vary directly with changes in premium but are more aligned with changes in membership. The acquisition or loss of a significant block of business would likely impact staffing levels and thus, associated compensation expense. Other variable costs include professional and consulting expenses and advertising. Other factors can impact our administrative cost structure, including systems efficiencies, inflation and changes in productivity. 
+ Our results of operations depend in large part on our ability to accurately predict and effectively manage healthcare costs through effective contracting with providers of care to our members, product pricing, medical management and health and wellness programs, innovative product design and our ability to maintain or achieve improvement in our Centers for Medicare and Medicaid Services Star ratings. Several economic factors related to healthcare costs, such as regulatory mandates of coverage as well as direct-to-consumer advertising by providers and pharmaceutical companies, have a direct impact on the volume of care consumed by our members. The potential effect of escalating healthcare costs, any changes in our ability to negotiate competitive rates with our providers and any regulatory or market-driven restrictions on our ability to obtain adequate premium rates to offset overall inflation in healthcare costs, including increases in unit costs and utilization resulting from the aging of the population and other demographics, the impact of epidemics and pandemics, as well as advances in medical technology, may impose further risks to our ability to profitably underwrite our business and may have a material adverse impact on our results of operations. 
+ We intend to expand through a combination of organic growth, strategic acquisitions and efficient use of capital in both existing and new markets. Our growth strategy is designed to enable us to take advantage of additional economies of scale, as well as provide us access to new and evolving technologies and products. In addition, we believe geographic and product diversity reduces our exposure to local or regional regulatory, economic and competitive pressures and provides us with increased opportunities for growth. We use our subsidiary CarelonRx (formerly IngenioRx) to market and offer PBM services, and we expect CarelonRx to continue to improve our ability to integrate pharmacy benefits within our medical and specialty platform. We continued growing our government-sponsored business through organic growth and the acquisitions of MMM Holdings, LLC (“MMM”) in 2021 and Integra MLTC, Inc. (“Integra”) in 2022. In all other markets, we intend to maintain our position by delivering excellent service, offering competitively priced products, providing access to high-quality provider networks and effectively capitalizing on the brand strength of the Blue Cross and Blue Shield names and marks. 
+ For additional information about our business and reportable segments, see Part I, ITEM 1, “Business” and Note 20, “Segment Information” of the Notes to Consolidated Financial Statements included in Part II, ITEM 8 of this Annual Report on Form 10-K. 
+ COVID-19 
+ The COVID-19 pandemic continues to evolve, putting pressure on the healthcare system, and it has impacted, and may continue to impact, our membership, benefit expense and member behavior. The full extent of the impact of the COVID-19 pandemic will depend on future developments, which remain uncertain and cannot be predicted at this time. We will continue to monitor the COVID-19 pandemic as well as resulting legislative and regulatory changes to manage our response and assess and mitigate potential adverse impacts to our business. For additional discussion regarding the impact of and our risks and trends related to the COVID-19 pandemic, see “Business Trends” and Part I, ITEM 1A, “Risk Factors” in this Annual Report on Form 10-K. 
+ Business Trends 
+ In 2022, we made the decision to modestly expand our participation in the Individual state- or federally-facilitated marketplaces (the “Public Exchange”) for 2023 after also expanding in 2022. As a result, for 2023 we are offering Individual Public Exchange products in 138 of the 143 rating regions in which we operate, in comparison to 122 of 143 rating regions in 2022. Our strategy has been, and will continue to be, to only participate in rating regions where we have an appropriate level 
+ 
+ 
+ -41- 
+ 
+ 
+ of confidence that these markets are on a path toward sustainability, including, but not limited to, factors such as expected financial performance, regulatory environment and underlying market characteristics. Changes to our business environment are likely to continue as elected officials at the national and state levels continue to enact, and both elected officials and candidates for election continue to propose, significant modifications to existing laws and regulations, including changes to taxes and fees. In addition, the continuing growth in our government-sponsored business exposes us to increased regulatory oversight. 
+ Our CarelonRx subsidiary markets and offers PBM services to our affiliated health plan customers throughout the country, as well as to customers outside of the health plans we own. Our comprehensive PBM services portfolio includes features such as formulary management, pharmacy networks, a prescription drug database, member services and mail order capabilities. CarelonRx delegates certain PBM administrative functions, such as claims processing and prescription fulfillment, to CaremarkPCS Health, L.L.C., which is a subsidiary of CVS Health Corporation, pursuant to a five-year agreement that is set to terminate on December 31, 2024. With CarelonRx, we retain the responsibilities for clinical and formulary strategy and development, member and employer experiences, operations, sales, marketing, account management and retail network strategy. 
+ Pricing Trends: We strive to price our health benefit products consistent with anticipated underlying medical cost trends. We continue to closely monitor the COVID-19 pandemic (including new COVID-19 variants, which may be more contagious or severe, or less responsive to treatment or vaccines) and the impacts it may have on our pricing, such as surges in COVID-19 related hospitalizations, infection rates, the cost of COVID-19 vaccines, testing and treatment and the return of non-COVID-19 healthcare utilization to our estimate of normal levels, based on historical utilization patterns. We frequently make adjustments to respond to legislative and regulatory changes as well as pricing and other actions taken by existing competitors and new market entrants. Product pricing in our Commercial & Specialty Business segment remains competitive. Revenues from the Medicare and Medicaid programs are dependent, in whole or in part, upon annual funding from the federal government and/or applicable state governments. The Patient Protection and Affordable Care Act (the “ACA”) imposed an annual Health Insurance Provider Fee (“HIP Fee”) on health insurers that write certain types of health insurance on U.S. risks. We priced our affected products to cover the impact of the HIP Fee when it was in effect. The HIP Fee was in effect for 2020 but was permanently repealed beginning in 2021. 
+ Medical Cost Trends: Our medical cost trends are primarily driven by increases in the utilization of services across all provider types and the unit cost increases of these services. We work to mitigate these trends through various medical management programs such as care and condition management, program integrity and specialty pharmacy management and utilization management, as well as benefit design changes. There are many drivers of medical cost trends that can cause variance from our estimates, such as changes in the level and mix of services utilized, regulatory changes, aging of the population, health status and other demographic characteristics of our members, epidemics, pandemics, advances in medical technology, new high cost prescription drugs, provider contracting inflation, labor costs and healthcare provider or member fraud. 
+ At its onset, the COVID-19 pandemic caused a decrease in utilization of non-COVID-19 health services, which decreased our claim costs in 2020. As the pandemic continued through 2021, our non-COVID-19 healthcare utilization experience gradually increased and largely normalized, and our COVID-19 related healthcare expenses increased as new variants (Delta and Omicron) emerged and vaccinations and boosters became available. 
+ The Omicron variant increased confirmed COVID-19 cases to significant levels at the end of 2021 and the beginning of 2022. The COVID-19 surge quickly declined during the first quarter of 2022, with COVID-19 inpatient hospitalizations, provider-based tests, visits and vaccinations all decreasing to lower levels by the end of the first half of 2022; concurrently, non-COVID-19 healthcare utilization recovered from lower levels earlier in the year. Omicron sub-variant viruses as well as costs associated with updated bivalent vaccinations drove modest increases in COVID-19 related healthcare expenses in the second half of 2022, but the expected paid claims impact for the second half of 2022 are significantly lower than the winter surge experienced in each of the prior two years. The ongoing cost and volume of covered services related to the COVID-19 pandemic and a future shift of government supplied vaccinations and treatments to privatized, full cost price points may have an adverse effect on our future claim costs. We continue to closely monitor the COVID-19 pandemic and its impacts on our medical cost trends. 
+ For additional discussion regarding business trends, see Part I, ITEM 1, “Business” of this Annual Report on Form 10-K. 
+ 
+ 
+ -42- 
+ 
+ 
+ Regulatory Trends and Uncertainties 
+ With the declaration of COVID-19 as a public health emergency (“PHE”), the federal and state governments enacted, and may continue to enact, legislation and regulations in response to the COVID-19 pandemic that have had, and we expect will continue to have, a significant impact on health benefits, consumer eligibility for public programs and our cash flows for all of our lines of business and which have introduced increased uncertainty around our cost structure. These actions, which are or have been in effect for various durations, provide, among other things: mandates to waive cost-sharing for COVID-19 testing, vaccines and related services; financial support to healthcare providers; and mandates related to prior authorizations, payment levels to providers, consumer enrollment windows and telehealth services. The Biden administration renewed the PHE on January 11, 2023 and has indicated that they intend for the PHE to expire on May 11, 2023. 
+ Under the Consolidated Appropriations Act of 2023 (the “2023 Appropriations Act”), Congress decoupled Medicaid eligibility recertification from the PHE. As a result, states may begin removing ineligible beneficiaries from their Medicaid programs starting April 1, 2023. When recertifications resume, we expect a decline in our Medicaid membership. At the same time, we expect growth in our Commercial risk-based and fee-based plans and Medicare, including through the Public Exchanges, as members exiting Medicaid in our 14 Commercial states seek coverage elsewhere. 
+ The Inflation Reduction Act of 2022, which was signed into law in August 2022, contains a variety of provisions that impact our business including an extension of the American Rescue Plan Act of 2021's enhanced Premium Tax Credits (“PTC”) through 2025; imposing a new corporate alternative minimum tax; providing a one percent excise tax on repurchases of stock made after December 31, 2022; allowing the Centers for Medicare and Medicaid Services (“CMS”) to negotiate prices on a limited set of prescription drugs in Medicare Parts B and D beginning in 2026; instituting caps on insulin cost sharing in Medicare Parts B and D; redesigning of the Medicare Part D benefit; adding a requirement that drug manufacturers pay rebates if prices increase beyond inflation; and delaying the implementation of the Trump Administration Medicare drug rebate rule to 2032. The extension of the enhanced PTC will likely allow for growth in Individual exchange market enrollment as Medicaid eligibility recertifications resume, supporting continuity of coverage for more people. 
+ The Consolidated Appropriations Act of 2021 (the “2021 Appropriations Act”) has impacted and in the future may have a material effect upon our business, including procedures and coverage requirements related to surprise medical bills and new mandates for continuity of care for certain patients, price comparison tools, disclosure of broker compensation, mental health parity reporting and reporting on pharmacy benefits and drug costs. The requirements of the 2021 Appropriations Act applicable to us have varying effective dates, some of which were effective in December 2021 and during 2022, and others of which have been extended into 2023 since the enactment of the 2021 Appropriations Act. 
+ The health plan price transparency regulations issued in October 2020 by the U.S. Departments of Health and Human Services, Labor and Treasury required us to begin disclosing in July 2022, on a monthly basis, detailed pricing information regarding negotiated rates for all covered items and services between the plan or issuer and in-network providers and historical payments to, and billed charges from, out-of-network providers. Additionally, beginning in 2023, we are now required to make available to members personalized out-of-pocket cost information and the underlying negotiated rates for 500 covered healthcare items and services, including prescription drugs. In 2024, this requirement will expand to all items and services. 
+ Since its enactment in 2010, the ACA has introduced new risks, regulatory challenges and uncertainties, has impacted our business model and strategy and has required changes in the way our products are designed, underwritten, priced, distributed and administered. We expect the ACA will continue to significantly impact our business and results of operations, including pricing, minimum medical loss ratios and the geographies in which our products are available. We also expect further and ongoing regulatory guidance on a number of issues related to Medicare, including evolving methodology for ratings and quality bonus payments. CMS also frequently proposes changes to its program that audits data submitted under the risk adjustment programs in ways that could increase financial recoveries from plans. We will continue to evaluate the impact of the ACA as any further developments occur. 
+ 
+ For additional discussion regarding regulatory trends and uncertainties, and risk factors that could cause actual results to differ materially from those contained in forward-looking statements made in this Annual Report on Form 10-K, see Part I, ITEM 1, “Business — Regulation ” and Part I, ITEM 1A, “Risk Factors.” 
+ 
+ 
+ -43- 
+ 
+ 
+ Other Significant Items 
+ Business and Operational Matters 
+ As mentioned above, we began operating as Elevance Health on June 28, 2022. This name change is intended to better reflect our business and our journey from a traditional health benefits organization to a lifetime, trusted health partner. Elevance Health supports health at every stage, offering health plans and clinical, behavioral, pharmacy and complex-care solutions that promote whole health. 
+ On January 23, 2023, we announced our entrance into an agreement to acquire Louisiana Health Service & Indemnity Company, d/b/a Blue Cross and Blue Shield of Louisiana, an independent licensee of the BCBSA that provides healthcare plans to the Individual, Group, Medicaid and Medicare markets, primarily in the State of Louisiana. This acquisition aligns with our vision to be an innovative, valuable, and inclusive healthcare partner by providing care management programs that improve the lives of the people we serve. The acquisition is expected to close by the end of the fourth quarter of 2023 and is subject to standard closing conditions and customary approvals. 
+ On November 9, 2022, we announced our entrance into an agreement with CarepathRx Aggregator, LLC to acquire its specialty pharmacy division, which includes BioPlus Parent, LLC (“BioPlus”) and subsidiaries. BioPlus is one of the largest independent specialty pharmacy organizations in the United States and seeks to connect payors and providers of specialty pharmaceuticals to meet the medication therapy needs of patients with complex medical conditions. This acquisition aligns with our vision to be an innovative, valuable and inclusive healthcare partner by providing care management programs that improve the lives of the people we serve. The acquisition closed on February 15, 2023, and initial purchase accounting has not been finalized. 
+ On May 5, 2022, we completed our acquisition of Integra. Integra is a managed long-term care plan that serves New York state Medicaid members, enabling adults with long-term care needs and disabilities to live safely and independently in their own homes. 
+ On June 29, 2021, we completed our acquisition of MMM, including its Medicare Advantage plan, Medicaid plan and other affiliated companies. MMM is a Puerto Rico-based integrated healthcare organization and seeks to provide its Medicare Advantage and Medicaid members with a whole health experience through its network of specialized clinics and wholly owned independent physician associations. This acquisition aligns with our vision to be an innovative, valuable and inclusive healthcare partner by providing care management programs that improve the lives of the people we serve. 
+ On April 28, 2021, we completed our acquisition of myNEXUS, Inc. (“myNEXUS”). myNEXUS is a comprehensive home-based nursing management company for payors and, at the time of acquisition, delivered integrated clinical support services for Medicare Advantage members across twenty states. This acquisition aligns with our strategy to manage integrated, whole person multi-site care and support by providing national, large-scale expertise to manage nursing services in the home and facilitate transitions of care. 
+ For additional information, see Note 3, “Business Acquisitions,” of the Notes to Consolidated Financial Statements included in Part II, ITEM 8 of this Annual Report on Form 10-K. 
+ In 2020, we introduced enterprise-wide initiatives to optimize our business and as a result, recorded a charge of $653 in selling, general and administrative expenses. We believe these initiatives largely represent the next step forward in our progression towards becoming a more agile organization, including process automation and a reduction in our office space footprint. In the fourth quarters of 2022 and 2021, we identified additional office space reductions and related fixed asset impairments due to the continuing COVID-19 pandemic and recorded net charges of $39 and $202, respectively, in selling, general and administrative expenses. For additional information, see Note 4, “Business Optimization Initiatives” and Note 18, “Leases,” of the Notes to Consolidated Financial Statements included in Part II, ITEM 8 of this Annual Report on Form 10-K. 
+ Litigation Matters 
+ In the consolidated multi-district proceeding in the United States District Court for the Northern District of Alabama (the “Court”) captioned In re Blue Cross Blue Shield Antitrust Litigation (“BCBSA Litigation”), the BCBSA and Blue Cross and/or Blue Shield licensees, including us (the “Blue plans”) previously approved a settlement agreement and release with the 
+ 
+ 
+ -44- 
+ 
+ 
+ plaintiffs representing a putative nationwide class of health plan subscribers (the “Subscriber Settlement Agreement”), which agreement required the Court’s approval to become effective. Generally, the lawsuits in the BCBSA Litigation challenge elements of the licensing agreements between the BCBSA and the independently owned and operated Blue plans. The cases were brought by two putative nationwide classes of plaintiffs, health plan subscribers and providers. The Subscriber Settlement Agreement applies only to the subscriber class. The defendants continue to contest the consolidated cases brought by the provider plaintiffs. 
+ In August 2022, the Court issued a final order approving the Subscriber Settlement Agreement (the “Final Approval Order”). In compliance with the Subscriber Settlement Agreement, the Company paid $506 into an escrow account in September 2022, for an aggregate and full settlement payment by the Company of $596, which was previously accrued in 2020. Four notices of appeal of the Final Approval Order were filed by the September 2022 appeal deadline. Those appeals are proceeding in the United States Court of Appeals for the Eleventh Circuit. In the event all appellate rights are exhausted in a manner that affirms the Court’s Final Approval Order, the defendants’ payment and non-monetary obligations under the Subscriber Settlement Agreement will become effective and the funds held in escrow will be distributed in accordance with the Subscriber Settlement Agreement. For additional information regarding the BCBSA Litigation, see Note 14, “Commitments and Contingencies – Litigation and Regulatory Proceedings – Blue Cross Blue Shield Antitrust Litigation ,” of the Notes to Consolidated Financial Statements included in Part II, ITEM 8 of this Annual Report on Form 10-K. 
+ Selected Operating Performance 
+ During the year ended December 31, 2022, total medical membership increased by 2.2 million, or 4.8%. The increase in medical membership was driven primarily by organic growth in our Government Business segment primarily driven by the continued temporary suspension of Medicaid eligibility recertification during the COVID-19 pandemic, as well as organic growth in our Commercial & Specialty Business segment, and in particular in our Group fee-based membership. 
+ Operating revenue for the year ended December 31, 2022 was $155,660, an increase of $18,717, or 13.7%, from the year ended December 31, 2021. The increase in operating revenue was primarily driven by higher premium revenue in our Medicaid business due to organic membership growth from the continued temporary suspension of Medicaid eligibility recertification during the COVID-19 pandemic, the acquisition of Integra in the second quarter of 2022 and the acquisition of Ohio Medicaid members through the purchase of a Medicaid contract in the first quarter of 2022. Membership growth in our Medicare Advantage and Commercial & Specialty Business risk-based businesses, as well as premium rate increases to cover medical cost trends, also generated higher premium revenue. Finally, the increase in operating revenue was further attributable to increased pharmacy product revenue in our CarelonRx segment, resulting from growth in membership and higher script volume. 
+ Net income for the year ended December 31, 2022 was $6,019, a decrease of $76, or 1.2%, from the year ended December 31, 2021. The decrease in net income was primarily due to realized losses on financial instruments in 2022, as compared to gains in 2021, and increased intangible amortization in 2022 related to recent acquisitions and the rebranding of our products, as we expect to retire certain trade names in the future. These items were partially offset by operating gain increases in all of our business segments. 
+ Our fully-diluted shareholders' earnings per share (“EPS”) for the year ended December 31, 2022 was $24.81, an increase of $0.08, or 0.3%, from the year ended December 31, 2021. Our diluted shares for the year ended December 31, 2022 were 242.8, a decrease of 4.0, or 1.6%, compared to the year ended December 31, 2021. The increase in EPS resulted from lower average shares outstanding in 2022, partially offset by the decrease in net income. 
+ Operating cash flow for the year ended December 31, 2022 was $8,399, or approximately 1.4 times net income. Operating cash flow for the year ended December 31, 2021 was $8,364, or approximately 1.4 times net income. The slight increase in operating cash flow was primarily due to higher net income in 2022, when adjusted for the impact of investment losses and gains, partially offset by the timing of working capital changes and the payment pursuant to the Subscriber Settlement Agreement made in September 2022. 
+ 
+ 
+ -45- 
+ 
+ 
+ 
+ Membership 
+ Our medical membership includes the following customer types: Individual, Group risk-based, Group fee-based, BlueCard ® , Medicare, Medicaid and our Federal Employees Health Benefits (“FEHB”) Program. We refer to members in our service areas licensed by the BCBSA as our BCBS-branded, or Anthem BCBS, business. Non-BCBS-branded business refers to members in our non-BCBS-branded, or Wellpoint plans, which include Amerigroup, Freedom Health, HealthSun, MMM, Optimum Healthcare and Simply Healthcare plans, as well as HealthLink and UniCare members. In addition to the above medical membership, we also serve customers who purchase one or more of our other products or services that are often ancillary to our health business. 
+ • Individual consists of individual customers under age 65 and their covered dependents. Individual policies are generally sold through independent agents and brokers, retail partnerships, our in-house sales force or via the Public Exchanges. Individual business is sold on a risk-based basis. We offer on-exchange products through Public Exchanges and off-exchange products. Federal premium subsidies are available only for certain Public Exchange Individual products. Unsubsidized Individual customers are generally more sensitive to product pricing and, to a lesser extent, the configuration of the network and the efficiency of administration. Customer turnover is generally higher with Individual as compared to Group risk-based. Individual business accounted for 1.7%, 1.7% and 1.6% of our medical members at December 31, 2022, 2021 and 2020, respectively. 
+ • Group risk-based consists of employer customers who purchase products on a full-risk basis, which are products for which we charge a premium and indemnify our policyholders against costs for health benefits. Group risk-based accounts include Local Group customers and National Accounts. Local Group consists of those employer customers with less than 5% of eligible employees located outside of the headquarter state, as well as customers with more than 5% of eligible employees located outside of the headquarter state with up to 5,000 eligible employees. In addition, Local Group includes Student Health members. National Accounts generally consist of multi-state employer groups primarily headquartered in an Elevance Health service area with at least 5% of the eligible employees located outside of the headquarter state and with more than 5,000 eligible employees. Some exceptions are allowed based on broker and consultant relationships. Group risk-based accounts are generally sold through brokers or consultants who work with industry specialists from our in-house sales force and are offered both on and off the Public Exchanges. Group risk-based accounted for 8.4%, 8.8% and 8.9% of our medical members at December 31, 2022, 2021 and 2020, respectively. 
+ • Group fee-based customers represent employer groups, Local Group, including UniCare members, and National Accounts, who purchase fee-based products and elect to retain most or all of the financial risk associated with their employees’ healthcare costs. Some fee-based customers choose to purchase stop loss coverage to limit their retained risk. Group fee-based accounts are generally sold through independent brokers or consultants retained by the customer working with our in-house sales force. Group fee-based accounted for 42.4%, 42.7% and 45.5% of our medical members at December 31, 2022, 2021 and 2020, respectively. 
+ • BlueCard ® host customers represent enrollees of Blue Cross and/or Blue Shield plans not owned by Elevance Health who receive healthcare services in our BCBSA licensed markets. BlueCard ® membership consists of estimated host members using the national BlueCard ® program. Host members are generally members who reside in or travel to a state in which an Elevance Health subsidiary is the Blue Cross and/or Blue Shield licensee and who are covered under an employer-sponsored health plan issued by a non-Elevance Health controlled BCBSA licensee (the “home plan”). We perform certain functions, including claims pricing and administration, for BlueCard ® members, for which we receive administrative fees from the BlueCard ® members’ home plans. Other administrative functions, including maintenance of enrollment information and customer service, are performed by the home plan. Host members are computed using, among other things, the average number of BlueCard ® claims received per month. BlueCard ® host membership accounted for 13.6%, 13.6% and 14.1% of our medical members at December 31, 2022, 2021 and 2020, respectively. 
+ • Medicare customers are Medicare-eligible individual members age 65 and over who have enrolled in Medicare Advantage, including Special Needs Plans (“SNPs”), also known as Medicare Advantage SNPs; dual-eligible programs through Medicare-Medicaid Plans (“MMPs”); Medicare Supplement plans; and Medicare Part D Prescription Drug Plans (“Medicare Part D”). Medicare Advantage plans provide Medicare beneficiaries with a managed care alternative to traditional Medicare and often include a Medicare Part D benefit. In addition, our 
+ 
+ 
+ -46- 
+ 
+ 
+ Medicare Advantage SNPs provide tailored benefits to special needs individuals who are institutionalized or have severe or disabling chronic conditions and to dual-eligible customers, who are low-income seniors and persons under age 65 with disabilities. Medicare Advantage SNPs are coordinated care plans specifically designed to provide targeted care, covering all the healthcare services considered medically necessary for members and often providing professional care coordination services, with personal guidance and programs that help members maintain their health. Medicare Advantage membership also includes Medicare Advantage members in our Group Retiree Solutions business who are retired members of Commercial accounts or retired members of groups who are not affiliated with our Commercial accounts who have selected a Medicare Advantage product through us. Medicare Supplement plans typically pay the difference between healthcare costs incurred by a beneficiary and amounts paid by Medicare. Medicare Part D offers a prescription drug plan to Medicare and MMP beneficiaries. MMP, which was established as a result of the passage of the ACA, is a demonstration program focused on serving members who are dually eligible for Medicaid and Medicare. Medicare Supplement and Medicare Advantage products are marketed in the same manner, primarily through independent agents and brokers. Medicare program business accounted for 6.2%, 6.2% and 5.5% of our medical members at December 31, 2022, 2021 and 2020, respectively. 
+ • Medicaid membership represents eligible members who receive health benefits through publicly funded healthcare programs, including Medicaid, ACA-related Medicaid expansion programs, Temporary Assistance for Needy Families, programs for seniors and people with disabilities, Children’s Health Insurance Programs, and specialty programs such as those focused on long-term services and support, HIV/AIDS, foster care, behavioral health and/or substance abuse disorders, and intellectual disabilities or developmental disabilities, among others. Total Medicaid program business accounted for 24.3%, 23.4% and 20.6% of our medical members at December 31, 2022, 2021 and 2020, respectively. 
+ • FEHB members consist of United States government employees and their dependents who receive health benefits within our geographic markets through our participation in the national contract between the BCBSA and the U.S. Office of Personnel Management. FEHB business accounted for 3.4%, 3.6% and 3.8% of our medical members at December 31, 2022, 2021 and 2020, respectively. 
+ 
+ 
+ -47- 
+ 
+ 
+ The following table presents our medical membership by reportable segment and customer type as of December 31, 2022, 2021 and 2020. Also included below is other membership by product. The medical membership and other membership presented are unaudited and in certain instances include estimates of the number of members represented by each contract at the end of the period. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ December 31 
+ 
+ 
+ 2022 vs. 2021 
+ 
+ 
+ 2021 vs. 2020 
+ 
+ (In thousands) 
+ 2022 
+ 
+ 2021 
+ 
+ 2020 
+ 
+ Change 
+ 
+ % Change 
+ 
+ Change 
+ 
+ % Change 
+ 
+ Medical Membership 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Commercial & Specialty Business: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Individual 
+ 789 
+ 
+ 
+ 759 
+ 
+ 
+ 680 
+ 
+ 
+ 30 
+ 
+ 
+ 4.0 
+ % 
+ 
+ 79 
+ 
+ 
+ 11.6 
+ % 
+ 
+ Group Risk-Based 
+ 3,988 
+ 
+ 
+ 4,006 
+ 
+ 
+ 3,799 
+ 
+ 
+ (18) 
+ 
+ 
+ (0.4) 
+ % 
+ 
+ 207 
+ 
+ 
+ 5.4 
+ % 
+ 
+ Commercial Risk-Based 
+ 4,777 
+ 
+ 
+ 4,765 
+ 
+ 
+ 4,479 
+ 
+ 
+ 12 
+ 
+ 
+ 0.3 
+ % 
+ 
+ 286 
+ 
+ 
+ 6.4 
+ % 
+ 
+ 
+ BlueCard ® 
+ 6,462 
+ 
+ 
+ 6,178 
+ 
+ 
+ 6,059 
+ 
+ 
+ 284 
+ 
+ 
+ 4.6 
+ % 
+ 
+ 119 
+ 
+ 
+ 2.0 
+ % 
+ 
+ Group Fee-Based 
+ 20,174 
+ 
+ 
+ 19,395 
+ 
+ 
+ 19,551 
+ 
+ 
+ 779 
+ 
+ 
+ 4.0 
+ % 
+ 
+ (156) 
+ 
+ 
+ (0.8) 
+ % 
+ 
+ Commercial Fee-Based 
+ 26,636 
+ 
+ 
+ 25,573 
+ 
+ 
+ 25,610 
+ 
+ 
+ 1,063 
+ 
+ 
+ 4.2 
+ % 
+ 
+ (37) 
+ 
+ 
+ (0.1) 
+ % 
+ 
+ Total Commercial & Specialty Business 
+ 31,413 
+ 
+ 
+ 30,338 
+ 
+ 
+ 30,089 
+ 
+ 
+ 1,075 
+ 
+ 
+ 3.5 
+ % 
+ 
+ 249 
+ 
+ 
+ 0.8 
+ % 
+ 
+ Government Business: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Medicare Advantage 
+ 1,977 
+ 
+ 
+ 1,859 
+ 
+ 
+ 1,428 
+ 
+ 
+ 118 
+ 
+ 
+ 6.3 
+ % 
+ 
+ 431 
+ 
+ 
+ 30.2 
+ % 
+ 
+ Medicare Supplement 
+ 947 
+ 
+ 
+ 952 
+ 
+ 
+ 933 
+ 
+ 
+ (5) 
+ 
+ 
+ (0.5) 
+ % 
+ 
+ 19 
+ 
+ 
+ 2.0 
+ % 
+ 
+ Total Medicare 
+ 2,924 
+ 
+ 
+ 2,811 
+ 
+ 
+ 2,361 
+ 
+ 
+ 113 
+ 
+ 
+ 4.0 
+ % 
+ 
+ 450 
+ 
+ 
+ 19.1 
+ % 
+ 
+ Medicaid 
+ 11,571 
+ 
+ 
+ 10,600 
+ 
+ 
+ 8,852 
+ 
+ 
+ 971 
+ 
+ 
+ 9.2 
+ % 
+ 
+ 1,748 
+ 
+ 
+ 19.7 
+ % 
+ 
+ Federal Employees Health Benefits 
+ 1,623 
+ 
+ 
+ 1,625 
+ 
+ 
+ 1,623 
+ 
+ 
+ (2) 
+ 
+ 
+ (0.1) 
+ % 
+ 
+ 2 
+ 
+ 
+ 0.1 
+ % 
+ 
+ Total Government Business 
+ 16,118 
+ 
+ 
+ 15,036 
+ 
+ 
+ 12,836 
+ 
+ 
+ 1,082 
+ 
+ 
+ 7.2 
+ % 
+ 
+ 2,200 
+ 
+ 
+ 17.1 
+ % 
+ 
+ Total Medical Membership 
+ 47,531 
+ 
+ 
+ 45,374 
+ 
+ 
+ 42,925 
+ 
+ 
+ 2,157 
+ 
+ 
+ 4.8 
+ % 
+ 
+ 2,449 
+ 
+ 
+ 5.7 
+ % 
+ 
+ Other Membership 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Life and Disability Members 
+ 4,834 
+ 
+ 
+ 4,782 
+ 
+ 
+ 5,064 
+ 
+ 
+ 52 
+ 
+ 
+ 1.1 
+ % 
+ 
+ (282) 
+ 
+ 
+ (5.6) 
+ % 
+ 
+ Dental Members 
+ 6,692 
+ 
+ 
+ 6,674 
+ 
+ 
+ 6,385 
+ 
+ 
+ 18 
+ 
+ 
+ 0.3 
+ % 
+ 
+ 289 
+ 
+ 
+ 4.5 
+ % 
+ 
+ Dental Administration Members 
+ 1,586 
+ 
+ 
+ 1,491 
+ 
+ 
+ 1,316 
+ 
+ 
+ 95 
+ 
+ 
+ 6.4 
+ % 
+ 
+ 175 
+ 
+ 
+ 13.3 
+ % 
+ 
+ Vision Members 
+ 9,813 
+ 
+ 
+ 8,031 
+ 
+ 
+ 7,536 
+ 
+ 
+ 1,782 
+ 
+ 
+ 22.2 
+ % 
+ 
+ 495 
+ 
+ 
+ 6.6 
+ % 
+ 
+ Medicare Part D Standalone Members 
+ 271 
+ 
+ 
+ 438 
+ 
+ 
+ 413 
+ 
+ 
+ (167) 
+ 
+ 
+ (38.1) 
+ % 
+ 
+ 25 
+ 
+ 
+ 6.1 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ December 31, 2022 Compared to December 31, 2021 
+ Medical Membership 
+ Total medical membership increased in both our Government Business and Commercial & Specialty Business segments primarily due to organic growth. Our Government Business segment’s organic growth was primarily driven by the continued temporary suspension of Medicaid eligibility recertification during the COVID-19 pandemic. In addition, Medicaid membership was positively impacted by the acquisition of Ohio Medicaid members through the purchase of a Medicaid contract in the first quarter of 2022 and the acquisition of Integra in the second quarter of 2022. Medicare Advantage organic growth due to sales exceeding lapses also contributed to the overall Government Business segment growth. Our Commercial & Specialty Business segment growth included Group fee-based membership increases due to sales exceeding lapses and positive in-group changes. BlueCard ® membership increased due to membership activity at other BCBSA plans whose members reside in or travel to our licensed areas. Individual membership increased due to our Public Exchange expansion in 2022. 
+ 
+ 
+ -48- 
+ 
+ 
+ Other Membership 
+ Our other membership can be impacted by changes in our medical membership, as our medical members often purchase our other products that are ancillary to our health business. Life and disability membership increased primarily due to new sales of disability products, partially offset by declines in our life membership. Dental membership increased primarily due to new sales in our Group risk-based accounts and penetration increases in our FEHB program, partially offset by the loss of a significant Group fee-based account. Dental administration membership increased primarily due to increased sales to other BCBS plans associated with the FEHB program. Vision membership increased primarily due to the launch of a new entry-level vision product in our Group markets. Medicare Part D Standalone membership declined as we discontinued certain legacy products. 
+ 
+ Consolidated Results of Operations 
+ Our consolidated summarized results of operations and other information for the years ended December 31, 2022, 2021 and 2020 are as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Change 
+ 
+ 
+ 
+ Years Ended December 31 
+ 
+ 
+ 2022 vs. 2021 
+ 
+ 
+ 2021 vs. 2020 
+ 
+ 
+ 
+ 2022 
+ 
+ 2021 
+ 
+ 2020 
+ 
+ $ 
+ 
+ % 
+ 
+ $ 
+ 
+ % 
+ 
+ 
+ Total operating revenue 
+ $ 
+ 155,660 
+ 
+ 
+ $ 
+ 136,943 
+ 
+ 
+ $ 
+ 120,808 
+ 
+ 
+ $ 
+ 18,717 
+ 
+ 
+ 13.7 
+ % 
+ 
+ $ 
+ 16,135 
+ 
+ 
+ 13.4 
+ % 
+ 
+ 
+ Net investment income 
+ 1,485 
+ 
+ 
+ 1,378 
+ 
+ 
+ 877 
+ 
+ 
+ 107 
+ 
+ 
+ 7.8 
+ % 
+ 
+ 501 
+ 
+ 
+ 57.1 
+ % 
+ 
+ Net (losses) gains on financial instruments 
+ (550) 
+ 
+ 
+ 318 
+ 
+ 
+ 182 
+ 
+ 
+ (868) 
+ 
+ 
+ (273.0) 
+ % 
+ 
+ 136 
+ 
+ 
+ 74.7 
+ % 
+ 
+ Total revenues 
+ 156,595 
+ 
+ 
+ 138,639 
+ 
+ 
+ 121,867 
+ 
+ 
+ 17,956 
+ 
+ 
+ 13.0 
+ % 
+ 
+ 16,772 
+ 
+ 
+ 13.8 
+ % 
+ 
+ Benefit expense 
+ 116,487 
+ 
+ 
+ 102,645 
+ 
+ 
+ 88,045 
+ 
+ 
+ 13,842 
+ 
+ 
+ 13.5 
+ % 
+ 
+ 14,600 
+ 
+ 
+ 16.6 
+ % 
+ 
+ 
+ Cost of products sold 
+ 13,035 
+ 
+ 
+ 10,895 
+ 
+ 
+ 8,953 
+ 
+ 
+ 2,140 
+ 
+ 
+ 19.6 
+ % 
+ 
+ 1,942 
+ 
+ 
+ 21.7 
+ % 
+ 
+ 
+ Selling, general and administrative expense 
+ 17,686 
+ 
+ 
+ 15,914 
+ 
+ 
+ 17,450 
+ 
+ 
+ 1,772 
+ 
+ 
+ 11.1 
+ % 
+ 
+ (1,536) 
+ 
+ 
+ (8.8) 
+ % 
+ 
+ 
+ Other expense 1 
+ 1,618 
+ 
+ 
+ 1,260 
+ 
+ 
+ 1,181 
+ 
+ 
+ 358 
+ 
+ 
+ 28.4 
+ % 
+ 
+ 79 
+ 
+ 
+ 6.7 
+ % 
+ 
+ Total expenses 
+ 148,826 
+ 
+ 
+ 130,714 
+ 
+ 
+ 115,629 
+ 
+ 
+ 18,112 
+ 
+ 
+ 13.9 
+ % 
+ 
+ 15,085 
+ 
+ 
+ 13.0 
+ % 
+ 
+ 
+ Income before income tax expense 
+ 7,769 
+ 
+ 
+ 7,925 
+ 
+ 
+ 6,238 
+ 
+ 
+ (156) 
+ 
+ 
+ (2.0) 
+ % 
+ 
+ 1,687 
+ 
+ 
+ 27.0 
+ % 
+ 
+ Income tax expense 
+ 1,750 
+ 
+ 
+ 1,830 
+ 
+ 
+ 1,666 
+ 
+ 
+ (80) 
+ 
+ 
+ (4.4) 
+ % 
+ 
+ 164 
+ 
+ 
+ 9.8 
+ % 
+ 
+ Net income 
+ 6,019 
+ 
+ 
+ 6,095 
+ 
+ 
+ 4,572 
+ 
+ 
+ (76) 
+ 
+ 
+ (1.2) 
+ % 
+ 
+ 1,523 
+ 
+ 
+ 33.3 
+ % 
+ 
+ Net loss attributable to noncontrolling interests 
+ 6 
+ 
+ 
+ 9 
+ 
+ 
+ — 
+ 
+ 
+ (3) 
+ 
+ 
+ (33.3) 
+ % 
+ 
+ 9 
+ 
+ 
+ — 
+ % 
+ 
+ Shareholders’ net income 
+ $ 
+ 6,025 
+ 
+ 
+ $ 
+ 6,104 
+ 
+ 
+ $ 
+ 4,572 
+ 
+ 
+ $ 
+ (79) 
+ 
+ 
+ (1.3) 
+ % 
+ 
+ $ 
+ 1,532 
+ 
+ 
+ 33.5 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Average diluted shares outstanding 
+ 242.8 
+ 
+ 
+ 246.8 
+ 
+ 
+ 254.3 
+ 
+ 
+ (4.0) 
+ 
+ 
+ (1.6) 
+ % 
+ 
+ (7.5) 
+ 
+ 
+ (2.9) 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Diluted shareholders' net income per share 
+ $ 
+ 24.81 
+ 
+ 
+ $ 
+ 24.73 
+ 
+ 
+ $ 
+ 17.98 
+ 
+ 
+ $ 
+ 0.08 
+ 
+ 
+ 0.3 
+ % 
+ 
+ $ 
+ 6.75 
+ 
+ 
+ 37.5 
+ % 
+ 
+ Effective tax rate 
+ 22.5 
+ % 
+ 
+ 23.1 
+ % 
+ 
+ 26.7 
+ % 
+ 
+ 
+ 
+ 
+ (60)bp 3 
+ 
+ 
+ 
+ 
+ (360)bp 3 
+ 
+ 
+ Benefit expense ratio 2 
+ 87.4 
+ % 
+ 
+ 87.5 
+ % 
+ 
+ 84.6 
+ % 
+ 
+ 
+ 
+ 
+ (10)bp 3 
+ 
+ 
+ 
+ 
+ 290bp 3 
+ 
+ 
+ Selling, general and administrative expense ratio 4 
+ 11.4 
+ % 
+ 
+ 11.6 
+ % 
+ 
+ 14.4 
+ % 
+ 
+ 
+ 
+ 
+ (20)bp 3 
+ 
+ 
+ 
+ 
+ (280)bp 3 
+ 
+ 
+ Income before income tax expense as a percentage of total revenues 
+ 5.0 
+ % 
+ 
+ 5.7 
+ % 
+ 
+ 5.1 
+ % 
+ 
+ 
+ 
+ 
+ (70)bp 3 
+ 
+ 
+ 
+ 
+ 60bp 3 
+ 
+ Shareholders’ net income as a percentage of total revenues 
+ 3.8 
+ % 
+ 
+ 4.4 
+ % 
+ 
+ 3.8 
+ % 
+ 
+ 
+ 
+ 
+ (60)bp 3 
+ 
+ 
+ 
+ 
+ 60bp 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Certain of the following definitions are also applicable to all other results of operations tables in this discussion: 
+ NM Not meaningful. 
+ 1 Includes interest expense, amortization of other intangible assets and loss on extinguishment of debt. 
+ 2 Benefit expense ratio represents benefit expense as a percentage of premium revenue. Premiums for the years ended December 31, 2022, 2021 and 2020 were $133,229, $117,373 and $104,109, respectively. Premiums are included in total operating revenue presented above. 
+ 3 bp = basis point; one hundred basis points = 1%. 
+ 4 Selling, general and administrative expense ratio represents selling, general and administrative expense as a percentage of total operating revenue. 
+ 
+ 
+ -49- 
+ 
+ 
+ Year Ended December 31, 2022 Compared to the Year Ended December 31, 2021 
+ Total operating revenue increased primarily as a result of higher premium revenue in our Medicaid business due to organic membership growth from the continued temporary suspension of Medicaid eligibility recertification during the COVID-19 pandemic, the acquisition of Integra in the second quarter of 2022 and the acquisition of Ohio Medicaid members through the purchase of a Medicaid contract in the first quarter of 2022. Membership growth in our Medicare Advantage and our Commercial & Specialty Business risk-based businesses, as well as premium rate increases to cover medical cost trends also generated higher premium revenue. Finally, the increase in operating revenue was further attributable to increased pharmacy product revenue in our CarelonRx segment, resulting from growth in membership and higher script volume. 
+ Net investment income increased primarily due to higher income from fixed maturity securities, partially offset by reduced investment income from alternative investments. 
+ We had net losses on financial instruments in 2022, as compared to net gains in 2021, as a result of increased net losses on the sale of fixed maturity securities, reduced gains on the sale of equity securities and lower net gains on other invested assets. These losses were partially offset by lower mark-to-market losses on equity securities still held. 
+ Benefit expense increased primarily due to healthcare costs associated with organic membership growth in our Medicaid and Medicare businesses and the acquisition of MMM in the second quarter of 2021. Membership growth and higher healthcare costs in our Commercial risk-based business, the acquisition of Integra in the second quarter of 2022 and the acquisition of Ohio Medicaid members through the purchase of a Medicaid contract in the first quarter of 2022 also contributed to higher benefit expense. 
+ Our benefit expense ratio decreased slightly primarily due to the realignment during 2022 of certain quality improvement costs, from benefit expenses to administrative expenses, due to regulatory clarification. This decline was partially offset by the impact of continued membership increases in our Government Business segment, which has a higher benefit expense ratio than our Commercial & Specialty Business segment. 
+ Cost of products sold reflects the cost of pharmaceuticals dispensed by CarelonRx for our unaffiliated PBM customers. Cost of products sold increased as the corresponding pharmacy product revenues increased. 
+ Selling, general and administrative expense increased primarily due to increased costs to support membership growth and from our acquisitions, partially offset by lower business optimization charges in 2022 as compared to 2021. 
+ Our selling, general and administrative expense ratio decreased primarily due to operating revenue growth in 2022 and lower business optimization charges in 2022 as compared to 2021, partially offset by increased costs to support membership growth and the impact of the realignment of certain quality improvement costs described above. 
+ Other expense increased primarily due to additional amortization of intangible assets related to recent acquisitions and the rebranding of our products. The amortization period of certain intangible assets was shortened to align with anticipated dates the new branding will take place. In addition, certain indefinite-lived intangible assets have been reclassified as definite-lived, and therefore, are now being amortized. For additional information regarding intangible asset amortization, see Note 10, "Goodwill and Other Intangible Assets" of the Notes to Consolidated Financial Statements included in Part II, ITEM 8, of this Annual Report on Form 10-K. 
+ Our effective income tax rate decreased primarily due to the impact of geographic changes in our mix of earnings in 2022. 
+ 
+ Our shareholders' net income as a percentage of total revenues decreased in 2022 as compared to 2021 as a result of all the factors discussed above. 
+ 
+ 
+ -50- 
+ 
+ 
+ Reportable Segments Results of Operations 
+ The following table presents a summary of our reportable segment financial information for the years ended December 31, 2022, 2021 and 2020: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Change 
+ 
+ 
+ 
+ 
+ Years Ended December 31 
+ 
+ 2022 vs. 2021 
+ 
+ 2021 vs. 2020 
+ 
+ 
+ 
+ 
+ 2022 
+ 
+ 2021 
+ 
+ 2020 
+ 
+ $ 
+ 
+ % 
+ 
+ $ 
+ 
+ % 
+ 
+ 
+ Operating Revenue 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Commercial & Specialty Business 
+ $ 
+ 41,674 
+ 
+ 
+ $ 
+ 38,809 
+ 
+ 
+ $ 
+ 36,699 
+ 
+ 
+ $ 
+ 2,865 
+ 
+ 
+ 7.4 
+ % 
+ 
+ $ 
+ 2,110 
+ 
+ 
+ 5.7 
+ % 
+ 
+ Government Business 
+ 96,810 
+ 
+ 
+ 82,919 
+ 
+ 
+ 71,572 
+ 
+ 
+ 13,891 
+ 
+ 
+ 16.8 
+ % 
+ 
+ 11,347 
+ 
+ 
+ 15.9 
+ % 
+ 
+ CarelonRx 
+ 
+ 28,526 
+ 
+ 
+ 25,431 
+ 
+ 
+ 21,911 
+ 
+ 
+ 3,095 
+ 
+ 
+ 12.2 
+ % 
+ 
+ 3,520 
+ 
+ 
+ 16.1 
+ % 
+ 
+ Other 
+ 13,294 
+ 
+ 
+ 10,250 
+ 
+ 
+ 6,057 
+ 
+ 
+ 3,044 
+ 
+ 
+ 29.7 
+ % 
+ 
+ 4,193 
+ 
+ 
+ 69.2 
+ % 
+ 
+ Eliminations 
+ (24,644) 
+ 
+ 
+ (20,466) 
+ 
+ 
+ (15,431) 
+ 
+ 
+ (4,178) 
+ 
+ 
+ 20.4 
+ % 
+ 
+ (5,035) 
+ 
+ 
+ 32.6 
+ % 
+ 
+ Total operating revenue 
+ $ 
+ 155,660 
+ 
+ 
+ $ 
+ 136,943 
+ 
+ 
+ $ 
+ 120,808 
+ 
+ 
+ $ 
+ 18,717 
+ 
+ 
+ 13.7 
+ % 
+ 
+ $ 
+ 16,135 
+ 
+ 
+ 13.4 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating Gain (Loss) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Commercial & Specialty Business 1 
+ $ 
+ 2,933 
+ 
+ 
+ $ 
+ 2,753 
+ 
+ 
+ $ 
+ 2,681 
+ 
+ 
+ $ 
+ 180 
+ 
+ 
+ 6.5 
+ % 
+ 
+ $ 
+ 72 
+ 
+ 
+ 2.7 
+ % 
+ 
+ 
+ Government Business 2 
+ 3,297 
+ 
+ 
+ 3,061 
+ 
+ 
+ 2,444 
+ 
+ 
+ 236 
+ 
+ 
+ 7.7 
+ % 
+ 
+ 617 
+ 
+ 
+ 25.2 
+ % 
+ 
+ 
+ CarelonRx 3 
+ 1,868 
+ 
+ 
+ 1,684 
+ 
+ 
+ 1,361 
+ 
+ 
+ 184 
+ 
+ 
+ 10.9 
+ % 
+ 
+ 323 
+ 
+ 
+ 23.7 
+ % 
+ 
+ 
+ Other 4 
+ 354 
+ 
+ 
+ (9) 
+ 
+ 
+ (126) 
+ 
+ 
+ 363 
+ 
+ 
+ NM 
+ 
+ 117 
+ 
+ 
+ NM 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating Margin 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Commercial & Specialty Business 
+ 7.0 
+ % 
+ 
+ 7.1 
+ % 
+ 
+ 7.3 
+ % 
+ 
+ 
+ 
+ 
+ (10)bp 5 
+ 
+ 
+ 
+ 
+ (20)bp 5 
+ 
+ Government Business 
+ 3.4 
+ % 
+ 
+ 3.7 
+ % 
+ 
+ 3.4 
+ % 
+ 
+ 
+ 
+ 
+ (30)bp 5 
+ 
+ 
+ 
+ 
+ 30bp 5 
+ 
+ CarelonRx 
+ 6.5 
+ % 
+ 
+ 6.6 
+ % 
+ 
+ 6.2 
+ % 
+ 
+ 
+ 
+ 
+ (10)bp 5 
+ 
+ 
+ 
+ 
+ 40bp 5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ NM Not meaningful. 
+ 1 Includes expenses of $20 for business optimization initiatives in 2022; $106 for business optimization initiatives in 2021; $311 for business optimization initiatives and $524 for the BCBSA Litigation in 2020. 
+ 2 Includes expenses of $16 for business optimization initiatives in 2022; $47 for business optimization initiatives in 2021; $205 for business optimization initiatives and $24 for the BCBSA Litigation in 2020. 
+ 3 Includes expenses of $2 for business optimization initiatives in 2021; $4 for business optimization initiatives in 2020. 
+ 4 Includes expenses of $3 for business optimization initiatives in 2022; $32 for business optimization initiatives in 2021; $133 for business optimization initiatives in 2020. 
+ 5 bp = basis point; one hundred basis points = 1%. 
+ Year Ended December 31, 2022 Compared to the Year Ended December 31, 2021 
+ Commercial & Specialty Business 
+ Operating revenue increased primarily due to higher premiums in our Commercial risk-based business due to membership growth, premium rate increases in our Commercial risk-based business to cover medical cost trends and increased administrative fees in our Commercial fee-based business. 
+ The increase in operating gain was primarily due to improved medical underwriting performance in our Commercial risk-based business and reduced business optimization charges in 2022 as compared to 2021. These items were partially offset by increased costs to support membership growth. 
+ Government Business 
+ Operating revenue increased primarily due to higher premium revenue in our Medicaid business, including due to organic membership growth from the continued temporary suspension of Medicaid eligibility recertification during the 
+ 
+ 
+ -51- 
+ 
+ 
+ COVID-19 pandemic, the acquisition of MMM at the end of the second quarter of 2021, the acquisition of Integra during the second quarter of 2022 and the acquisition of Ohio Medicaid members through the purchase of a Medicaid contract in the first quarter of 2022. Membership growth and premium rate increases to cover medical cost trends in our Medicare Advantage business also contributed to higher premium revenue. 
+ The increase in operating gain was primarily driven by premium rate increases to cover medical cost trends in our Medicare business, organic membership growth in our Medicaid business from the continued suspension of eligibility recertifications during the COVID-19 pandemic and the acquisition of MMM in the second quarter of 2021. These increases were partially offset by additional administrative spend to support the growth in our Government business. 
+ CarelonRx 
+ Operating revenue increased as a result of growth in membership and higher script volume. 
+ The increase in operating gain was primarily a result of higher script volume, driven by growth in integrated medical and pharmacy members in 2022 and favorable out-of-period adjustments to fee-based revenue in the second half of 2022. 
+ Other 
+ Operating revenue increased primarily due to higher revenue for expanded services performed by Carelon Services for our Commercial & Specialty Business segment in 2022 and the acquisition of myNEXUS in the second quarter of 2021. These increases were partially offset by the reduction of external revenue due to the loss of a behavioral health contract in 2022. 
+ The increase in operating gain was driven by improved performance in Carelon Services, the acquisition of myNEXUS in the second quarter of 2021, and a decline in unallocated corporate expenses in 2022. 
+ 
+ 
+ Critical Accounting Policies and Estimates 
+ We prepare our consolidated financial statements in conformity with GAAP. Application of GAAP requires management to make estimates and assumptions that affect the amounts reported in our consolidated financial statements and accompanying notes and within this MD&A. We consider our most important accounting policies that require significant estimates and management judgment to be those policies with respect to liabilities for medical claims payable, income taxes, goodwill and other intangible assets, investments and retirement benefits, which are discussed below. Our other significant accounting policies are summarized in Note 2, “Basis of Presentation and Significant Accounting Policies,” of the Notes to Consolidated Financial Statements included in Part II, ITEM 8 of this Annual Report on Form 10-K. 
+ We continually evaluate the accounting policies and estimates used to prepare the consolidated financial statements. In general, our estimates are based on historical experience, evaluation of current trends, information from third-party professionals and various other assumptions that we believe to be reasonable under the known facts and circumstances. Estimates can require a significant amount of judgment, and a different set of assumptions could result in material changes to our reported results. 
+ Medical Claims Payable 
+ The most subjective accounting estimate in our consolidated financial statements is our liability for medical claims payable. At December 31, 2022, this liability was $15,596 and represented 23% of our total consolidated liabilities. We record this liability and the corresponding benefit expense for incurred but not paid claims, including the estimated costs of processing such claims. Incurred but not paid claims include (1) an estimate for claims that are incurred but not reported, as well as claims reported to us but not yet processed through our systems, which approximated 94%, or $14,736, of our total medical claims liability as of December 31, 2022; and (2) claims reported to us and processed through our systems but not yet paid, which approximated 6%, or $860, of the total medical claims payable as of December 31, 2022. The level of claims payable processed through our systems but not yet paid may fluctuate from one period-end to the next, from approximately 1% to 6% of our total medical claims liability, due to timing of when claim payments are made. 
+ 
+ 
+ -52- 
+ 
+ 
+ Liabilities for both claims incurred but not reported and reported but not yet processed through our systems are determined in the aggregate, employing actuarial methods that are commonly used by health insurance actuaries and meet Actuarial Standards of Practice. Our reserving practice for claim liabilities is to consistently recognize the appropriate amount of reserve within a level of confidence required by Actuarial Standards of Practice. We determine the amount of the liability for incurred but not paid claims by following a detailed actuarial process that uses both historical claim payment patterns as well as emerging medical cost trends to project our best estimate of claim liabilities. Under this process, historical paid claims data is formatted into “claim triangles,” which compare claim incurred dates to the dates of claim payments. This information is analyzed to create “completion factors” that represent the average percentage of total incurred claims that have been paid through a given date after being incurred. Completion factors are applied to claims paid through the period-end date to estimate the ultimate claim expense incurred for the period. Actuarial estimates of incurred but not paid claim liabilities are then determined by subtracting the actual paid claims from the estimate of the ultimate incurred claims. 
+ For the most recent incurred months (typically the most recent two months), the percentage of claims paid for claims incurred in those months is generally low. This makes the completion factor methodology less reliable for such months. Therefore, incurred claims for recent months are not projected from historical completion and payment patterns; rather, they are projected by estimating the claims expense for those months based on recent claims expense levels and healthcare trend levels (“trend factors”). 
+ Because the reserve methodology is based upon historical information, it must be adjusted for known or suspected operational and environmental changes. These adjustments are made by our actuaries based on their knowledge and their estimate of emerging impacts to benefit costs and payment speed. Circumstances to be considered in developing our best estimate of reserves include changes in utilization levels, unit costs, mix of business, benefit plan designs, provider reimbursement levels, processing system conversions and changes, claim inventory levels, claim processing patterns, claim submission patterns and operational changes resulting from business combinations. A comparison of prior period liabilities to re-estimated claim liabilities based on subsequent claims development is also considered in making the liability determination. In our comparison to prior periods, the methods and assumptions are not changed as reserves are recalculated; rather, the availability of additional paid claims information drives changes in the re-estimate of the unpaid claim liability. To the extent appropriate, changes in such development are recorded as a change to current period benefit expense. We had increased estimation uncertainty on our incurred but not reported liability at December 31, 2022 and December 31, 2021. Slowdowns in claims submission patterns and increases in utilization levels for COVID-19 testing and treatment are the primary factors that lead to the increased estimation uncertainty. 
+ We regularly review and set assumptions regarding cost trends and utilization when initially establishing claim liabilities. We continually monitor and adjust the claims liability and benefit expense based on subsequent paid claims activity. If it is determined that our assumptions regarding cost trends and utilization are materially different than actual results, our income statement and financial position could be impacted in future periods. Adjustments of prior year estimates may result in additional benefit expense or a reduction of benefit expense in the period an adjustment is made. Further, due to the considerable variability of healthcare costs, adjustments to claim liabilities occur each period and are sometimes significant as compared to the net income recorded in that period. Prior period development is recognized immediately upon the actuary’s judgment that a portion of the prior period liability is no longer needed or that an additional liability should have been accrued. That determination is made when sufficient information is available to ascertain that the re-estimate of the liability is reasonable. 
+ Although there are many factors that are used as a part of the estimation of our medical claims payable liability, the two key assumptions having the most significant impact on our incurred but not paid claims liability as of December 31, 2022 were the completion and trend factors. As discussed above, these two key assumptions can be influenced by utilization levels, unit costs, mix of business, benefit plan designs, provider reimbursement levels, processing system conversions and changes, claim inventory levels, claim processing patterns, claim submission patterns and operational changes resulting from business combinations. 
+ There is variation in the reasonable choice of completion factors by duration for durations of three months through twelve months where the completion factors have the most significant impact. As previously discussed, completion factors tend to be less reliable for the most recent months and therefore are not specifically utilized for months one and two. In our analysis for the claim liabilities at December 31, 2022, the variability in months three to five was estimated to be between 40 
+ 
+ 
+ -53- 
+ 
+ 
+ and 90 basis points, while months six through twelve have much lower estimated variability ranging from 0 to 30 basis points. 
+ The difference in completion factor assumptions results in variability of 2%, or approximately $266, in the December 31, 2022 incurred but not paid claims liability, depending on the completion factors chosen. It is important to note that the completion factor methodology inherently assumes that historical completion rates will be reflective of the current period. However, it is possible that the actual completion rates for the current period will develop differently from historical patterns and therefore could fall outside the possible variations described herein. 
+ The other major assumption used in the establishment of the December 31, 2022 incurred but not paid claim liability was the trend factors. In our analysis for the period ended December 31, 2022, there was a 310 basis point differential in the high and low trend factors. This range of trend factors would imply variability of 3%, or approximately $522, in the incurred but not paid claims liability, depending upon the trend factors used. Because historical trend factors are often not representative of current claim trends, the trend experience for the most recent six to nine months, plus knowledge of recent events likely affecting current trends, have been taken into consideration in establishing the incurred but not paid claims liability at December 31, 2022. The COVID-19 pandemic continues to have an impact on claim costs for recent dates of service, which could have an influence on our trend factors. We will continue to monitor emerging experience in order to better understand the possible implications to our reserves. 
+ See Note 12, “Medical Claims Payable,” of the Notes to Consolidated Financial Statements included in Part II, ITEM 8 of this Annual Report on Form 10-K, for a reconciliation of the beginning and ending balance for medical claims payable for the years ended December 31, 2022, 2021 and 2020. Components of the total incurred claims for each year include amounts accrued for current year estimated claims expense as well as adjustments to prior year estimated accruals. In Note 12, “Medical Claims Payable,” the line labeled “Net incurred medical claims: Prior years redundancies” accounts for those adjustments made to prior year estimates. The impact of any reduction of “Net incurred medical claims: Prior years redundancies” may be offset as we establish the estimate of “Net incurred medical claims: Current year.” Our reserving practice is to consistently recognize the actuarial best estimate of our ultimate liability for our claims. When we recognize a release of the redundancy, we disclose the amount that is not in the ordinary course of business, if material. 
+ The ratio of current year medical claims paid as a percent of current year net medical claims incurred was 87.3% for 2022, 87.8% for 2021 and 87.7% for 2020. This ratio serves as an indicator of claims processing speed whereby 2022 claims were processed at a slightly slower speed than 2021 and 2020. 
+ We calculate the percentage of prior year redundancies in the current year as a percent of prior year net incurred claims payable less prior year redundancies in the current year in order to demonstrate the development of the prior year reserves. For the year ended December 31, 2022, this metric was 7.0%, largely driven by favorable trend factor development at the end of 2021. For the year ended December 31, 2021, this metric was 18.1%, reflecting the estimation uncertainty due to COVID-19 at the end of 2020, and was largely driven by favorable trend factor development at the end of 2020 as well as favorable completion factor development from 2020. For the year ended December 31, 2020, this metric was 8.0%, largely driven by favorable trend factor development at the end of 2019 as well as favorable completion factor development from 2019. 
+ We calculate the percentage of prior year redundancies in the current year as a percent of prior year net incurred medical claims to indicate the percentage of redundancy included in the preceding year calculation of current year net incurred medical claims. We believe this calculation supports the reasonableness of our prior year estimate of incurred medical claims and the consistency in our methodology. For the year ended December 31, 2022, this metric was 0.9%, which was calculated using the redundancy of $869. This metric was 2.0% for 2021 and 0.8% for 2020. We believe these metrics support the reasonableness of our estimates. The 2021 metric was impacted by the estimation uncertainty due to COVID-19. 
+ The following table shows the variance between total net incurred medical claims as reported in Note 12, “Medical Claims Payable,” of the Notes to Consolidated Financial Statements included in Part II, ITEM 8 of this Annual Report on Form 10-K, for each of 2021 and 2020 and the incurred claims for such years had it been determined retrospectively (computed as 
+ 
+ 
+ -54- 
+ 
+ 
+ the difference between “net incurred medical claims – current year” for the year shown and “net incurred medical claims – prior years redundancies” for the immediately following year): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended December 31 
+ 
+ 
+ 2021 
+ 
+ 2020 
+ 
+ Total net incurred medical claims, as reported 
+ $ 
+ 98,737 
+ 
+ 
+ $ 
+ 84,457 
+ 
+ 
+ Retrospective basis, as described above 
+ 99,571 
+ 
+ 
+ 83,391 
+ 
+ 
+ Variance 
+ $ 
+ (834) 
+ 
+ 
+ $ 
+ 1,066 
+ 
+ 
+ Variance to total net incurred medical claims, as reported 
+ (0.8) 
+ % 
+ 
+ 1.3 
+ % 
+ Given that our business is primarily short tailed (which means that medical claims are generally paid within twelve months of the member receiving service from the provider), the variance to total net incurred medical claims, as reported above, is used to assess the reasonableness of our estimate of ultimate incurred medical claims for a given calendar year with the benefit of one year of experience. We expect that substantially all of the development of the 2022 estimate of medical claims payable will be known during 2023. 
+ The 2021 variance to total net incurred medical claims, as reported of (0.8)% was less than the 2020 percentage of 1.3%. This was primarily driven by the fact that the change in the prior year redundancy reported for 2021 as compared to 2020 was less than the change in the prior year redundancy reported for 2020 as compared to 2019. 
+ 
+ Income Taxes 
+ We account for income taxes in accordance with the Financial Accounting Standards Board (“FASB”) guidance, which requires, among other things, the separate recognition of deferred tax assets and deferred tax liabilities. Such deferred tax assets and deferred tax liabilities represent the tax effect of temporary differences between financial reporting and tax reporting measured at tax rates enacted at the time the deferred tax asset or liability is recorded. A valuation allowance must be established for deferred tax assets if it is “more likely than not” that all or a portion may be unrealized. Our judgment is required in determining an appropriate valuation allowance. 
+ At each financial reporting date, we assess the adequacy of the valuation allowance by evaluating each of our deferred tax assets based on the following: 
+ • the types of temporary differences that created the deferred tax asset; 
+ • the amount of taxes paid in prior periods and available for a carry-back claim; 
+ • the tax rate at which the deferred tax assets will likely be utilized in the future; 
+ • the forecasted future taxable income, and therefore, likely future deduction of the deferred tax ITEM; 
+ • the implementation of tax planning strategies to recover those deferred tax assets; and 
+ • any significant other issues impacting the likely realization of the benefit of the temporary differences. 
+ Although realization is not assured, we believe it is more likely than not that the deferred tax assets will be realized. 
+ We, like other companies, frequently face challenges from tax authorities regarding the amount of taxes due. These challenges include questions regarding the timing and amount of deductions that we have taken on our tax returns. In evaluating any additional tax liability associated with various positions taken in our tax return filings, we record additional liabilities for potential adverse tax outcomes. Based on our evaluation of our tax positions, we believe we have appropriately accrued for uncertain tax benefits, as required by the applicable guidance. To the extent we prevail in matters we have accrued for, our future effective tax rate would be reduced and net income would increase. If we are required to pay more than accrued, our future effective tax rate would increase and net income would decrease. Our effective tax rate and net income in any given future period could be materially impacted. 
+ In the ordinary course of business, we are regularly audited by federal and other tax authorities, and from time to time, these audits result in proposed assessments. We believe our tax positions comply with applicable tax law, and we intend to defend our positions vigorously through the federal, state and local, and foreign appeals processes. We believe we have 
+ 
+ 
+ -55- 
+ 
+ 
+ adequately provided for any reasonably foreseeable outcome related to these matters. Accordingly, although their ultimate resolution may require additional tax payments, we do not anticipate any material impact on our results of operations or financial condition from these matters. 
+ For additional information, see Note 8, “Income Taxes,” of the Notes to Consolidated Financial Statements included in Part II, ITEM 8 of this Annual Report on Form 10-K. 
+ Goodwill and Other Intangible Assets 
+ Our consolidated goodwill at December 31, 2022 was $24,383 and other intangible assets were $10,315. The sum of goodwill and other intangible assets represented 33.8% of our total consolidated assets and 95.6% of our consolidated shareholders’ equity at December 31, 2022. 
+ We follow FASB guidance for business combinations and goodwill and other intangible assets, which specifies the types of acquired intangible assets that are required to be recognized and reported separately from goodwill. Under the guidance, goodwill and other intangible assets (with indefinite lives) are not amortized but are tested for impairment at least annually. Furthermore, goodwill and other intangible assets are allocated to reporting units for purposes of the annual impairment test. Our impairment tests require us to make assumptions and judgments regarding the estimated fair value of our reporting units, which include goodwill and other intangible assets. In addition, certain other intangible assets with indefinite lives, such as trademarks, are also tested separately. 
+ We complete our annual impairment tests of existing goodwill and other intangible assets with indefinite lives during the fourth quarter of each year. These tests involve the use of estimates related to the fair value of goodwill at the reporting unit level and other intangible assets with indefinite lives, and require a significant degree of management judgment and the use of subjective assumptions. Certain interim impairment tests are also performed when potential impairment indicators exist or changes in our business or other triggering events occur. We have the option of first performing a qualitative assessment for each reporting unit to determine whether it is more likely than not that the fair value of a reporting unit is less than its carrying amount, which is an indication that our goodwill may be impaired. These qualitative impairment tests include assessing events and factors that could affect the fair value of the indefinite-lived intangible assets. Our procedures include assessing our financial performance, macroeconomic conditions, industry and market considerations, various asset specific factors and entity specific events. If we determine that a reporting unit’s goodwill may be impaired after utilizing these qualitative impairment analysis procedures, we are required to perform a quantitative impairment test. 
+ Our quantitative impairment test utilizes the projected income and market valuation approaches for goodwill and the projected income approach for our indefinite lived intangible assets. Use of the projected income and market valuation approaches for our goodwill impairment test reflects our view that both valuation methodologies provide a reasonable estimate of fair value. The projected income approach is developed using assumptions about future revenue, expenses and net income derived from our internal planning process. These estimated future cash flows are then discounted. Our assumed discount rate is based on our industry’s weighted-average cost of capital. Market valuations are based on observed multiples of certain measures including revenue; earnings before interest, taxes, depreciation and amortization; and book value of invested capital (debt and equity) and include market comparisons to publicly traded companies in our industry. 
+ We did not incur any impairment losses as a result of our 2022 annual impairment tests, as it was determined that it is more likely than not that the estimated fair values of our reporting units were substantially in excess of the carrying values as of December 31, 2022. Additionally, we do not believe that the estimated fair values of our reporting units are at risk of becoming impaired in the next twelve months. 
+ If estimated fair values are less than the carrying values of goodwill and other intangibles with indefinite lives in future annual impairment tests, or if significant impairment indicators are noted relative to other intangible assets subject to amortization, we may be required to record impairment losses against future income. 
+ For additional information, see Note 3, “Business Acquisitions” and Note 10, “Goodwill and Other Intangible Assets,” of the Notes to Consolidated Financial Statements included in Part II, ITEM 8 of this Annual Report on Form 10-K. 
+ 
+ 
+ -56- 
+ 
+ 
+ Investments 
+ Current and long-term marketable investment securities were $27,657 at December 31, 2022 and represented 26.9% of our total consolidated assets at December 31, 2022. We classify fixed maturity securities in our investment portfolio as “available-for-sale” and report those securities at fair value. Certain fixed maturity securities are available to support current operations and, accordingly, we classify such investments as current assets without regard to their contractual maturity. Investments used to satisfy contractual, regulatory or other requirements are classified as long-term, without regard to contractual maturity. 
+ Our impairment review is subjective and requires a high degree of judgment. We conduct this review on a quarterly basis, using both qualitative and quantitative factors. Such factors considered include the extent to which a security’s market value has been less than its cost, the reasons for the decline in value (i.e., credit event compared to liquidity, general credit spread widening, currency exchange rate or interest rate factors), financial condition and near term prospects of the issuer, including the credit ratings and changes in the credit ratings of the issuer, recommendations of investment advisors, and forecasts of economic, market or industry trends. 
+ If a fixed maturity security is in an unrealized loss position and we have the intent to sell the fixed maturity security, or it is more likely than not that we will have to sell the fixed maturity security before recovery of its amortized cost basis, we write down the fixed maturity security’s cost basis to fair value and record an impairment loss in our consolidated statements of income. For impaired fixed maturity securities that we do not intend to sell or if it is more likely than not that we will not have to sell such securities, but we expect that we will not fully recover the amortized cost basis, we recognize the credit component of the impairment as an allowance for credit loss in our consolidated balance sheets and record an impairment loss in our consolidated statements of income. The non-credit component of the impairment is recognized in accumulated other comprehensive (loss) income. Furthermore, unrealized losses entirely caused by non-credit-related factors related to fixed maturity securities for which we expect to fully recover the amortized cost basis continue to be recognized in accumulated other comprehensive (loss) income. 
+ The credit component of an impairment is determined primarily by comparing the net present value of projected future cash flows with the amortized cost basis of the fixed maturity security. The net present value is calculated by discounting our best estimate of projected future cash flows at the effective interest rate implicit in the fixed maturity security at the date of purchase. For mortgage-backed and asset-backed securities, cash flow estimates are based on assumptions regarding the underlying collateral, including prepayment speeds, vintage, type of underlying asset, geographic concentrations, default rates, recoveries and changes in value. For all other securities, cash flow estimates are driven by assumptions regarding probability of default, including changes in credit ratings and estimates regarding timing and amount of recoveries associated with a default. 
+ We have a committee of accounting and investment associates and management that is responsible for managing the impairment review process. We believe that we have adequately reviewed our investment securities for impairment and that our investment securities are carried at fair value. We have established an allowance for credit loss and recorded credit loss expense as a reflection of our expected impairment losses. Given the inherent uncertainty of changes in market conditions and the significant judgments involved, there is continuing risk that declines in fair value may occur and additional impairment losses on investments may be recorded in future periods. 
+ In addition to marketable investment securities, we held additional long-term investments of $5,685, or 5.5% of total consolidated assets, at December 31, 2022. These long-term investments consisted primarily of certain other equity investments, the cash surrender value of corporate-owned life insurance policies and mortgage loans. Due to their less liquid nature, these investments are classified as long-term. 
+ Through our investing activities, we are exposed to financial market risks, including those resulting from changes in interest rates and changes in equity market valuations. We manage market risks through our investment policy, which establishes credit quality limits and limits on investments in individual issuers. Ineffective management of these risks could have an impact on our future results of operations and financial condition. Our investment portfolio includes fixed maturity securities with a fair value of $26,704 at December 31, 2022. The weighted-average credit rating of these securities was “A” as of December 31, 2022. Included in this balance are investments in fixed maturity securities of states, municipalities and political subdivisions of $890 that are guaranteed by third parties. With the exception of 16 securities with a fair value of $9, 
+ 
+ 
+ -57- 
+ 
+ 
+ these securities are all investment-grade and carry a weighted-average credit rating of “AA” as of December 31, 2022. The securities are guaranteed by a number of different guarantors, and we do not have any material exposure to any single guarantor, neither indirectly through the guarantees, nor directly through investment in the guarantor. Further, due to the high underlying credit rating of the issuers, the weighted-average credit rating of the fixed maturity securities without a guarantee, for which such information is available, was “A” as of December 31, 2022. 
+ Fair values of fixed maturity and equity securities are based on quoted market prices, where available. These fair values are obtained primarily from third-party pricing services, which generally use Level I or Level II inputs for the determination of fair value in accordance with FASB guidance for fair value measurements and disclosures. We have controls in place to review the pricing services’ qualifications and procedures used to determine fair values. In addition, we periodically review the pricing services’ pricing methodologies, data sources and pricing inputs to ensure the fair values obtained are reasonable. 
+ We obtain quoted market prices for each security from the pricing services, which are derived through recently reported trades for identical or similar securities, making adjustments through the reporting date based upon available market observable information. For securities not actively traded, the pricing services may use quoted market prices of comparable instruments or discounted cash flow analyses, incorporating inputs that are currently observable in the markets for similar securities. Inputs that are often used in these valuation methodologies include, but are not limited to, broker quotes, benchmark yields, credit spreads, default rates and prepayment speeds. As we are responsible for the determination of fair value, we perform analysis on the prices received from the pricing services to determine whether the prices are reasonable estimates of fair value. Our analysis includes procedures such as a review of month-to-month price fluctuations and price comparisons to secondary pricing services. There were no adjustments to quoted market prices obtained from the pricing services during the years ended December 31, 2022 and 2021. 
+ In certain circumstances, it may not be possible to derive pricing model inputs from observable market activity, and therefore, such inputs are estimated internally. Such securities are designated Level III in accordance with FASB guidance. Securities designated Level III at December 31, 2022 totaled $581 and represented approximately 1.7% of our total assets measured at fair value on a recurring basis. Our Level III securities primarily consisted of certain corporate securities and equity securities for which observable inputs were not always available and the fair values of these securities were estimated using inputs including, but not limited to, prepayment speeds, credit spreads, default rates and benchmark yields. 
+ For additional information, see Part II, ITEM 7A, “Quantitative and Qualitative Disclosures about Market Risk,” and Note 2, “Basis of Presentation and Significant Accounting Policies,” Note 5, “Investments,” and Note 7, “Fair Value,” of the Notes to Consolidated Financial Statements included in Part II, ITEM 8 of this Annual Report on Form 10-K. 
+ Retirement Benefits 
+ Pension Benefits 
+ We sponsor defined benefit pension plans for some of our employees. These plans are accounted for in accordance with FASB guidance for retirement benefits, which requires that amounts recognized in financial statements be determined on an actuarial basis. As permitted by the guidance, we calculate the value of plan assets as described below. Further, the difference between our expected rate of return and the actual performance of plan assets, as well as certain changes in pension liabilities, are amortized over future periods. 
+ An important factor in determining our pension expense is the assumption for expected long-term return on plan assets. As of our December 31, 2022 measurement date, we selected a weighted-average long-term rate of return on plan assets of 6.58%. We use a total portfolio return analysis in the development of our assumption. Factors such as past market performance, the long-term relationship between fixed maturity and equity securities, interest rates, inflation and asset allocations are considered in the assumption. The assumption includes an estimate of the additional return expected from active management of the investment portfolio. Peer data and an average of historical returns are also reviewed for appropriateness of the selected assumption. We believe our assumption of future returns is reasonable. However, if we lower our expected long-term return on plan assets, future contributions to the pension plan and pension expense would likely increase. 
+ This assumed long-term rate of return on assets is applied to a calculated value of plan assets, which recognizes changes in the fair value of plan assets in a systematic manner over three years, producing the expected return on plan assets that is 
+ 
+ 
+ -58- 
+ 
+ 
+ included in the determination of pension expense. We apply a corridor approach to amortize unrecognized actuarial gains or losses. Under this approach, only accumulated net actuarial gains or losses in excess of 10% of the greater of the projected benefit obligation or the fair value of plan assets are amortized over the average remaining service or lifetime of the workforce as a component of pension expense. The net deferral of past asset gains or losses affects the calculated value of plan assets and, ultimately, future pension expense. 
+ The discount rate reflects the current rate at which the pension liabilities could be effectively settled at the end of the year based on our most recent measurement date. We use the annual spot rate approach for setting our discount rate. Under the spot rate approach, individual spot rates from a full yield curve of published rates are used to discount each plan’s cash flows to determine the plan’s obligation. At the December 31, 2022 measurement date, the weighted-average discount rate under the annual spot rate approach was 5.18%, compared to 2.70% at the December 31, 2021 measurement date. The net effect of changes in the discount rate, as well as the net effect of other changes in actuarial assumptions and experience, have been deferred and amortized as a component of pension expense in accordance with FASB guidance. 
+ In managing the plan assets, our objective is to be a responsible fiduciary while minimizing financial risk. Plan assets include a diversified mix of equity securities, investment grade fixed maturity securities and other types of investments across a range of sectors and levels of capitalization to maximize long-term return for a prudent level of risk. In addition to producing a reasonable return, the investment strategy seeks to minimize the volatility in our expense and cash flow. 
+ Other Postretirement Benefits 
+ We provide some associates with certain medical, vision and dental benefits upon retirement. We use various actuarial assumptions, including a discount rate and the expected trend in healthcare costs, to estimate the costs and benefit obligations for our retiree benefits. 
+ At our December 31, 2022 measurement date, the selected discount rate for all plans was 5.12%, compared to a discount rate of 2.49% at the December 31, 2021 measurement rate. We developed this rate using the annual spot rate approach as described above. 
+ The assumed healthcare cost trend rates used to measure the expected cost of pre-Medicare (those who are not currently eligible for Medicare benefits) other benefits at our December 31, 2022 measurement date was 8.00% for 2023 with a gradual decline to 4.50% by the year 2035. The assumed healthcare cost trend rates used to measure the expected cost of post-Medicare (those who are currently eligible for Medicare benefits) other benefits at our December 31, 2022 measurement date was 6.50% for 2023 with a gradual decline to 4.50% by the year 2035. These estimated trend rates are subject to change in the future. 
+ For additional information regarding our retirement benefits, see Note 11, “Retirement Benefits,” of the Notes to Consolidated Financial Statements included in Part II, ITEM 8 of this Annual Report on Form 10-K. 
+ New Accounting Pronouncements 
+ For information regarding new accounting pronouncements that were issued or became effective during the year ended December 31, 2022 that had, or are expected to have, a material impact on our financial position, results of operations or financial statement disclosures, see the “ Recently Adopted Accounting Guidance ” and “ Recent Accounting Guidance Not Yet Adopted ” sections of Note 2, “Basis of Presentation and Significant Accounting Policies,” of the Notes to Consolidated Financial Statements included in Part II, ITEM 8 of this Annual Report on Form 10-K. 
+ 
+ 
+ Liquidity and Capital Resources 
+ Introduction 
+ Our cash receipts result primarily from premiums, product revenue, administrative fees and other revenue, investment income, proceeds from the sale or maturity of our investment securities, proceeds from borrowings, and proceeds from the issuance of common stock under our employee stock plans. Cash disbursements result mainly from claims payments, administrative expenses, taxes, purchases of investment securities, interest expense, payments on borrowings, acquisitions, capital expenditures, repurchases of our debt securities and common stock and the payment of cash dividends. Cash outflows 
+ 
+ 
+ -59- 
+ 
+ 
+ fluctuate with the amount and timing of settlement of these transactions. Any future decline in our profitability would likely have an unfavorable impact on our liquidity. 
+ We manage our cash, investments and capital structure so we are able to meet the short-term and long-term obligations of our business while maintaining financial flexibility and liquidity. We forecast, analyze and monitor our cash flows to enable investment and financing within the overall constraints of our financial strategy. 
+ A substantial portion of the assets held by our regulated subsidiaries are in the form of cash and cash equivalents and investments. After considering expected cash flows from operating activities, we generally invest cash that exceeds our near term obligations in longer term marketable fixed maturity securities to improve our overall investment income returns. Our investment strategy is to make investments consistent with insurance statutes and other regulatory requirements, while preserving our asset base. Our investments are generally available-for-sale to meet liquidity and other needs. Our subsidiaries pay out excess capital annually in the form of dividends to their respective parent companies for general corporate use, as permitted by applicable regulations. 
+ The availability of financing in the form of debt or equity is influenced by many factors, including our profitability, operating cash flows, debt levels, debt ratings, contractual restrictions, regulatory requirements and market conditions. The securities and credit markets have in the past experienced higher than normal volatility. Interest rates on fixed debt income securities increased in 2022 and may continue to do so in 2023, which could increase our borrowing costs if we elect to issue debt. During recent years, the federal government and various governmental agencies have taken a number of steps to strengthen the regulation of the financial services market. In addition, governments around the world have developed their own plans to provide stability and security in the credit markets and to ensure adequate capital in certain financial institutions. 
+ A summary of our major sources and uses of cash and cash equivalents for the years ended December 31, 2022, 2021 and 2020 is as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended December 31 
+ 
+ $ Change 
+ 
+ 
+ 2022 
+ 
+ 2021 
+ 
+ 2020 
+ 
+ 2022 vs. 2021 
+ 
+ 2021 vs. 2020 
+ 
+ Sources of Cash: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net cash provided by operating activities 
+ $ 
+ 8,399 
+ 
+ 
+ $ 
+ 8,364 
+ 
+ 
+ $ 
+ 10,688 
+ 
+ 
+ $ 
+ 35 
+ 
+ 
+ $ 
+ (2,324) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Issuances of commercial paper and short- and long-term debt, net of repayments 
+ 862 
+ 
+ 
+ 2,719 
+ 
+ 
+ — 
+ 
+ 
+ (1,857) 
+ 
+ 
+ 2,719 
+ 
+ 
+ Issuances of common stock under employee stock plans 
+ 182 
+ 
+ 
+ 203 
+ 
+ 
+ 176 
+ 
+ 
+ (21) 
+ 
+ 
+ 27 
+ 
+ 
+ Other sources of cash, net 
+ 762 
+ 
+ 
+ — 
+ 
+ 
+ 315 
+ 
+ 
+ 762 
+ 
+ 
+ (315) 
+ 
+ 
+ Total sources of cash 
+ 10,205 
+ 
+ 
+ 11,286 
+ 
+ 
+ 11,179 
+ 
+ 
+ (1,081) 
+ 
+ 
+ 107 
+ 
+ 
+ Uses of Cash: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Purchases of investments, net of proceeds from sales, maturities, calls and redemptions 
+ (2,338) 
+ 
+ 
+ (4,056) 
+ 
+ 
+ (3,433) 
+ 
+ 
+ 1,718 
+ 
+ 
+ (623) 
+ 
+ 
+ Repurchase and retirement of common stock 
+ (2,316) 
+ 
+ 
+ (1,900) 
+ 
+ 
+ (2,700) 
+ 
+ 
+ (416) 
+ 
+ 
+ 800 
+ 
+ 
+ Purchases of subsidiaries, net of cash acquired 
+ (649) 
+ 
+ 
+ (3,476) 
+ 
+ 
+ (1,976) 
+ 
+ 
+ 2,827 
+ 
+ 
+ (1,500) 
+ 
+ 
+ Purchases of property and equipment 
+ (1,152) 
+ 
+ 
+ (1,087) 
+ 
+ 
+ (1,021) 
+ 
+ 
+ (65) 
+ 
+ 
+ (66) 
+ 
+ 
+ 
+ Repayments of commercial paper and short- and long-term debt, net of issuances 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ (298) 
+ 
+ 
+ — 
+ 
+ 
+ 298 
+ 
+ 
+ Cash dividends 
+ (1,229) 
+ 
+ 
+ (1,104) 
+ 
+ 
+ (954) 
+ 
+ 
+ (125) 
+ 
+ 
+ (150) 
+ 
+ 
+ Other uses of cash, net 
+ — 
+ 
+ 
+ (514) 
+ 
+ 
+ — 
+ 
+ 
+ 514 
+ 
+ 
+ (514) 
+ 
+ 
+ Total uses of cash 
+ (7,684) 
+ 
+ 
+ (12,137) 
+ 
+ 
+ (10,382) 
+ 
+ 
+ 4,453 
+ 
+ 
+ (1,755) 
+ 
+ 
+ Effect of foreign exchange rates on cash and cash equivalents 
+ (14) 
+ 
+ 
+ (10) 
+ 
+ 
+ 7 
+ 
+ 
+ (4) 
+ 
+ 
+ (17) 
+ 
+ 
+ Net increase (decrease) in cash and cash equivalents 
+ $ 
+ 2,507 
+ 
+ 
+ $ 
+ (861) 
+ 
+ 
+ $ 
+ 804 
+ 
+ 
+ $ 
+ 3,368 
+ 
+ 
+ $ 
+ (1,665) 
+ 
+ 
+ 
+ -60- 
+ 
+ 
+ Liquidity—Year Ended December 31, 2022 Compared to Year Ended December 31, 2021 
+ The slight increase in cash provided by operating activities was primarily due to higher net income in 2022, when adjusted for the impact of investment losses and gains, partially offset by the timing of working capital changes and the payment pursuant to the Subscriber Settlement Agreement made in September 2022. 
+ Other significant changes in sources and uses of cash year-over-year included lower amounts used for purchases of subsidiaries, net of cash acquired and reduced cash used for purchases of investments, net of proceeds from sales, maturities, calls and redemptions. These decreased uses of cash were partially offset by reduced net proceeds received from the issuance of commercial paper and short-term and long-term debt and increased use of cash for share repurchases. 
+ Financial Condition 
+ We maintained a strong financial condition and liquidity position, with consolidated cash, cash equivalents and investments in fixed maturity and equity securities of $35,044 at December 31, 2022. Since December 31, 2021, total cash, cash equivalents and investments in fixed maturity and equity securities increased by $1,384, primarily due to cash generated from operations. This increase was partially offset by cash used for acquisitions, common stock repurchases, purchases of property and equipment and cash dividends paid to shareholders. 
+ Many of our subsidiaries are subject to various government regulations that restrict the timing and amount of dividends and other distributions that may be paid to their respective parent companies. Certain accounting practices prescribed by insurance regulatory authorities, or statutory accounting practices, differ from GAAP. Changes that occur in statutory accounting practices, if any, or other regulatory requirements, could impact our subsidiaries’ future dividend capacity. In addition, we have agreed to certain undertakings to regulatory authorities, including the requirement to maintain certain capital levels in certain of our subsidiaries. 
+ At December 31, 2022, we held $1,209 of cash, cash equivalents and investments at the parent company, which are available for general corporate use, including investment in our businesses, acquisitions, potential future common stock repurchases and dividends to shareholders, repurchases of debt securities and debt and interest payments. 
+ Periodically, we access capital markets and issue debt (“Notes”) for long-term borrowing purposes, for example, to refinance debt, to finance acquisitions or for share repurchases. Certain of these Notes may have a call feature that allows us to redeem the Notes at any time at our option and/or a put feature that allows a Note holder to redeem the Notes upon the occurrence of both a change in control event and a downgrade of the Notes below an investment grade rating. For more information on our debt, including redemptions and issuances, see Note 13, “Debt” of the Notes to Consolidated Financial Statements included in Part II, ITEM 8 of this Annual Report on Form 10-K. 
+ We calculate our consolidated debt-to-capital ratio, a non-GAAP measure, from the amounts presented on our audited consolidated balance sheets included in Part II, ITEM 8 of this Annual Report on Form 10-K. Our debt-to-capital ratio is calculated as total debt divided by total debt plus total shareholders’ equity. Total debt is the sum of short-term borrowings, current portion of long-term debt and long-term debt, less current portion. We believe our debt-to-capital ratio assists investors and rating agencies in measuring our overall leverage and additional borrowing capacity. In addition, our bank covenants include a maximum debt-to-capital ratio that we cannot and did not exceed. Our debt-to-capital ratio may not be comparable to similarly titled measures reported by other companies. Our consolidated debt-to-capital ratio was 39.9% and 38.9% as of December 31, 2022 and 2021, respectively. 
+ Our senior debt is rated “A” by S&P Global Ratings, “BBB” by Fitch Ratings, Inc., “Baa2” by Moody’s Investor Service, Inc. and “bbb+” by AM Best Company, Inc. We intend to maintain our senior debt investment grade ratings. If our credit ratings are downgraded, our business, liquidity, financial condition and results of operations could be adversely impacted by limitations on future borrowings and a potential increase in our borrowing costs. 
+ Capital Resources 
+ We have a shelf registration statement on file with the Securities and Exchange Commission to register an unlimited amount of any combination of debt or equity securities in one or more offerings. Specific information regarding terms and securities being offered will be provided at the time of an offering. Proceeds from future offerings are expected to be used for 
+ 
+ 
+ -61- 
+ 
+ 
+ general corporate purposes, including, but not limited to, the repayment of debt, investments in or extensions of credit to our subsidiaries and the financing of possible acquisitions or business expansions. 
+ We have a senior revolving credit facility (the “5-Year Facility”) with a group of lenders for general corporate purposes. In April 2022, we amended and restated the credit agreement for the 5-Year Facility to, among other things, extend the maturity date of the 5-Year Facility from June 2024 to April 2027 and increase the amount of credit available under the 5-Year Facility from $2,500 to $4,000. Also in April 2022, concurrently with the amendment and restatement of the 5-Year Facility, we terminated our 364-day senior revolving credit facility that provided for credit in the amount of $1,000, which was scheduled to mature in June 2022. Our ability to borrow under the 5-Year Facility is subject to compliance with certain covenants, including covenants requiring us to maintain a defined debt-to-capital ratio of not more than 60%, subject to increase in certain circumstances set forth in the credit agreement for the 5-Year Facility. We do not believe the restrictions contained in our 5-Year Facility covenants materially affect our financial or operating flexibility. As of December 31, 2022, we were in compliance with all of our debt covenants under the 5-Year Facility. There were no amounts outstanding under the 5-Year Facility at December 31, 2022. 
+ Through certain subsidiaries, we have entered into multiple 364-day lines of credit (the “Subsidiary Credit Facilities”) with separate lenders for general corporate purposes. The Subsidiary Credit Facilities provide combined credit up to $200. Our ability to borrow under the Subsidiary Credit Facilities is subject to compliance with certain covenants. At December 31, 2022, we had no outstanding borrowings under the Subsidiary Credit Facilities. 
+ We have an authorized commercial paper program of up to $4,000, the proceeds of which may be used for general corporate purposes. In July 2022, we increased the amount available under the commercial paper program from $3,500 to $4,000. Should commercial paper issuance become unavailable, we have the ability to use a combination of cash on hand and/or our 5-Year Facility, which provides for credit in the amount of $4,000, to redeem any outstanding commercial paper upon maturity. At December 31, 2022, we had $0 outstanding under our commercial paper program. 
+ While there is no assurance in the current economic environment, we believe the lenders participating in our 5-Year Facility and Subsidiary Credit Facilities, if market conditions allow, would be willing to provide financing in accordance with their legal obligations. 
+ We are a member, through certain subsidiaries, of the Federal Home Loan Bank of Indianapolis, the Federal Home Loan Bank of Cincinnati, the Federal Home Loan Bank of Atlanta and the Federal Home Loan Bank of New York (collectively the “FHLBs”). As a member, we have the ability to obtain short-term cash advances, subject to certain minimum collateral requirements. At December 31, 2022, we had $265 of outstanding short-term borrowings from the FHLBs. 
+ As discussed in “ Financial Condition ” above, many of our subsidiaries are subject to various government regulations that restrict the timing and amount of dividends and other distributions that may be paid. Based upon these requirements, we currently estimate that approximately $3,500 of dividends will be paid to us by our subsidiaries during 2023. During 2022, we received $3,097 of dividends from our subsidiaries. 
+ In addition to regulations regarding the timing and amount of dividends, our regulated subsidiaries’ states of domicile have statutory risk-based capital (“RBC”) requirements for health and other insurance companies and health maintenance organizations largely based on the National Association of Insurance Commissioners (“NAIC”) Risk-Based Capital (RBC) For Health Organizations Model Act (“RBC Model Act”). These RBC requirements are intended to measure capital adequacy, taking into account the risk characteristics of an insurer’s investments and products. The NAIC sets forth the formula for calculating the RBC requirements, which are designed to take into account asset risks, insurance risks, interest rate risks and other relevant risks with respect to an individual insurance company’s business. In general, under the RBC Model Act, an insurance company must submit a report of its RBC level to the state insurance department or insurance commissioner, as appropriate, at the end of each calendar year. Our regulated subsidiaries’ respective RBC levels as of December 31, 2022, which was the most recent date for which reporting was required, were in excess of all applicable mandatory RBC requirements. In addition to exceeding these RBC requirements, we are in compliance with the liquidity and capital requirements for a licensee of the BCBSA and with the tangible net worth requirements applicable to certain of our California subsidiaries. For additional information, see Note 22, “Statutory Information,” of the Notes to Consolidated Financial Statements included in Part II, ITEM 8 of this Annual Report on Form 10-K. 
+ 
+ 
+ -62- 
+ 
+ 
+ Future Sources and Uses of Liquidity 
+ Short-Term Liquidity Requirements 
+ As previously described, our cash disbursements result mainly from claims payments, administrative expenses, taxes, purchases of investment securities, interest expense, payments on borrowings, acquisitions, capital expenditures, repurchases of our debt securities and common stock and the payment of cash dividends. We believe cash on hand, operating cash receipts, investments and amounts available under our commercial paper program, our 5-Year Facility and our Subsidiary Credit Facilities and borrowings available from the FHLBs will be adequate to fund our expected cash disbursements over the next twelve months. 
+ Long-Term Liquidity Requirements 
+ As of December 31, 2022, our long-term cash disbursements required under various contractual obligations and commitments were: 
+ • Debt and interest expense: Future debt and estimated interest payments were $25,804, with $2,674 due within the next twelve months. For additional information, see Note 13 “Debt” of the Notes to Consolidated Financial Statements included in Part II, ITEM 8 of this Annual Report on Form 10-K. 
+ • Operating leases: We lease office space and certain computer equipment, for which the future estimated payments were $1,028, with $206 due within the next twelve months. For additional information, see Note 18 “Leases” of the Notes to Consolidated Financial Statements included in Part II, ITEM 8 of this Annual Report on Form 10-K. 
+ • Other liabilities: These liabilities primarily consist of future policy reserves, projected other postretirement benefits, deferred compensation, supplemental executive retirement plan liabilities and certain other miscellaneous long-term obligations. Amounts due within twelve months were $26, with $1,040 due in future periods. Estimated future payments for funded pension benefits have been excluded from these numbers, as we had no funding requirements under the Employee Retirement Income Security Act of 1974, as amended, at December 31, 2022, as a result of the value of the assets in the plans. In addition, gross liabilities for uncertain tax positions and interest for which we cannot reasonably estimate the timing of the resolutions with the respective taxing authorities have not been included. For further information, see Note 8, “Income Taxes,” of the Notes to Consolidated Financial Statements included in Part II, ITEM 8 of this Annual Report on Form 10-K. 
+ • Purchase obligations: These obligations include estimated payments for future services under contractual arrangements from third-party service vendors. Amounts due within the next twelve months for these purchase obligations were $1,124, while longer term payments were $2,927. For further information, see Note 14, “Commitments and Contingencies,” of the Notes to Consolidated Financial Statements included in Part II, ITEM 8 of this Annual Report on Form 10-K. 
+ • Investment commitments: These include unfunded capital commitments for alternative investments and low-income housing tax credits. Estimated amounts due were $1,504, including $314 due within the next twelve months. 
+ In addition to the contractual obligations and commitments discussed above, we have a variety of other contractual agreements related to acquiring materials and services used in our operations. However, we do not believe these other agreements contain material noncancelable commitments. 
+ We regularly review the appropriate use of capital, including acquisitions, common stock and debt security repurchases and dividends to shareholders. The declaration and payment of any dividends or repurchases of our common stock or debt is at the discretion of our Board of Directors and depends upon our financial condition, results of operations, future liquidity needs, regulatory and capital requirements and other factors deemed relevant by our Board of Directors. 
+ On January 24, 2023, our Audit Committee declared a quarterly cash dividend to shareholders of $1.48 per share on the outstanding shares of our common stock. This quarterly dividend is payable on March 24, 2023 to the shareholders of record as of March 10, 2023. 
+ Under our Board of Directors’ authorization, we maintain a common stock repurchase program. As of December 31, 2022, we had Board authorization of $1,876 to repurchase our common stock. On January 24, 2023, our Audit Committee, 
+ 
+ 
+ -63- 
+ 
+ 
+ pursuant to authorization granted by the Board of Directors, authorized a $5,000 increase to our common stock repurchase program. No duration has been placed on our common stock repurchase program, and we reserve the right to discontinue the program at any time. We intend to utilize this authorization over a multi-year period, subject to market and industry conditions. 
+ 
+ We believe that funds from future operating cash flows, cash and investments and funds available under our credit facilities and/or from public or private financing sources will be sufficient for future operations and commitments, and for capital acquisitions and other strategic transactions. 
+ We do not have any off-balance sheet derivative instruments, guarantee transactions, agreements or other contractual arrangements or any indemnification agreements that will require funding in future periods. We have not transferred assets to an unconsolidated entity that serves as credit, liquidity or market risk support to such entity. We do not hold any variable interest in an unconsolidated entity where such entity provides us with financing, liquidity, market risk or credit risk support. See Note 2 “Subsidiary Transactions” of the Notes to Condensed Financial Statements included in Part IV, ITEM 15 of this Annual Report on Form 10-K for additional detail on the Elevance Health, Inc. parent guarantees of certain subsidiaries. 
+ 

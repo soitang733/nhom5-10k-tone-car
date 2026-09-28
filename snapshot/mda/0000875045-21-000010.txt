@@ -1,0 +1,2584 @@
+ ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations 
+ The following discussion should be read in conjunction with our consolidated financial statements and the accompanying notes beginning on page F-1 of this report. 
+ For our discussion of the year ended December 31, 2019, compared to the year ended December 31, 2018, please read ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of Operations located in our Annual Report on Form 10-K for the year ended December 31, 2019. 
+ Executive Summary 
+ Introduction 
+ Biogen is a global biopharmaceutical company focused on discovering, developing and delivering worldwide innovative therapies for people living with serious neurological and neurodegenerative diseases as well as related therapeutic adjacencies. Our core growth areas include MS and neuroimmunology; Alzheimer's disease and dementia; neuromuscular disorders, including SMA and ALS; movement disorders, including Parkinson's disease; ophthalmology; and neuropsychiatry. We are also focused on discovering, developing and delivering worldwide innovative therapies in our emerging growth areas of immunology; acute neurology; and neuropathic pain. In addition, we commercialize biosimilars of advanced biologics. We support our drug discovery and development efforts through the commitment of significant resources to discovery, research and development programs and business development opportunities. 
+ Our marketed products include TECFIDERA, VUMERITY, AVONEX, PLEGRIDY, TYSABRI and FAMPYRA for the treatment of MS; SPINRAZA for the treatment of SMA; and FUMADERM for the treatment of severe plaque psoriasis. We have certain business and financial rights with respect to RITUXAN for the treatment of non-Hodgkin's lymphoma, CLL and other conditions; RITUXAN HYCELA for the treatment of non-Hodgkin's lymphoma and CLL; GAZYVA for the treatment of CLL and follicular lymphoma; OCREVUS for the treatment of PPMS and RMS; and other potential anti-CD20 therapies pursuant to our collaboration arrangements with Genentech. For additional information on our collaboration arrangements with Genentech, please read Note 18, Collaborative and Other Relationships , to our consolidated financial statements included in this report. 
+ 
+ 
+ Our innovative drug development and commercialization activities are complemented by our biosimilar business that expands access to medicines and reduces the cost burden for healthcare systems. Through our agreements with Samsung Bioepis, our joint venture with Samsung BioLogics, we market and sell BENEPALI, an etanercept biosimilar referencing ENBREL, IMRALDI, an adalimumab biosimilar referencing HUMIRA, and FLIXABI, an infliximab biosimilar referencing REMICADE, in certain countries in Europe and have an option to acquire exclusive rights to commercialize these products in China. Additionally, we have exclusive rights to commercialize two potential ophthalmology biosimilar products, SB11, a proposed ranibizumab biosimilar referencing LUCENTIS, and SB15, a proposed aflibercept biosimilar referencing EYLEA, in major markets worldwide, including the U.S., Canada, Europe, Japan and Australia. For additional information on our collaboration arrangements with Samsung Bioepis, please read Note 18, Collaborative and Other Relationships , to our consolidated financial statements included in this report. 
+ We seek to ensure an uninterrupted supply of medicines to our patients around the world. To that end, we continually review our manufacturing capacity, capabilities, processes and facilities. In order to support our future growth and drug development pipeline, we are expanding our large molecule production capacity by building a large-scale biologics manufacturing facility in Solothurn, Switzerland, which we expect to be partially operational during the first half of 2021. We believe that the Solothurn manufacturing facility will provide us with the ability to further expand if our future growth and drug development plans increase. 
+ Our revenues depend upon continued sales of our products as well as the financial rights we have in our anti-CD20 therapeutic programs, and, unless we develop, acquire rights to and/or commercialize new products and technologies, we will be substantially dependent on sales from our products and our financial rights in our anti-CD20 therapeutic programs for many years. 
+ In the longer term, our revenue growth will depend upon the successful clinical development, regulatory approval and launch of new commercial products as well as additional indications for our existing products, our ability to obtain and maintain patents and other rights related to our marketed products, assets originating from our research and development efforts and/or successful execution of external business development opportunities. 
+ 
+ 
+ 52 
+ 
+ Table of Contents 
+ 
+ 
+ Business Environment 
+ For a detailed discussion on our business environment, please read ITEM 1. Business included in this report. For additional information on our competition and pricing risks that could negatively impact our product sales, please read ITEM 1A. Risk Factors and ITEM 7A. Quantitative and Qualitative Disclosures About Market Risk included in this report. 
+ TECFIDERA 
+ In June 2020 and September 2020 judgments were entered in favor of the defendants in the patent infringement proceedings relating to TECFIDERA Orange-Book listed patents pursuant to the Hatch-Waxman Act in West Virginia and Delaware. We have appealed the judgments in both actions. For additional information, please read Note 20, Litigation, to our consolidated financial statements included in this report. 
+ Multiple TECFIDERA generic entrants are now in the U.S. market and have deeply discounted prices compared to TECFIDERA. The generic competition for TECFIDERA significantly reduced our TECFIDERA revenues during the year ended December 31, 2020, and is expected to have a substantial negative impact on our TECFIDERA revenues for as long as there is generic competition. For additional information, please read the discussion under Results of Operations - Product Revenues - Multiple Sclerosis (MS) - Fumarate below. 
+ Business Update Regarding COVID-19 
+ The COVID-19 pandemic continues to present a substantial public health and economic challenge around the world. The length of time and full extent to which the COVID-19 pandemic directly or indirectly impacts our business, results of operations and financial condition depends on future developments that are highly uncertain, subject to change and are difficult to predict, including as a result of new information that may emerge concerning COVID-19 and the actions taken to contain or treat COVID-19 as well as the economic impact on local, regional, national and international customers and markets. 
+ We are monitoring the demand for our products, including the duration and degree to which we may see delays in starting new patients on a product due to hospitals diverting the resources that are necessary to administer certain of our products to care for COVID-19 patients, including products, such as TYSABRI and SPINRAZA, that are administered in a physician's office or hospital setting. We may also see reduced demand for immunosuppressant therapies during the COVID-19 pandemic. 
+ While we are currently continuing the clinical trials we have underway in sites across the globe, 
+ 
+ 
+ COVID-19 precautions have impacted the timeline for some of our clinical trials and these precautions may, directly or indirectly, have a further impact on timing in the future. For example, our Phase 3 study of BIIB093 for LHI, a severe form of ischemic stroke, has been delayed as this study involves administration of BIIB093 in an acute hospital setting. To help mitigate the impact of the COVID-19 pandemic to our clinical trials, we are pursuing innovative approaches such as remote monitoring, remote patient visits and supporting home infusions. These alternative measures have resulted in an immaterial increase to the cost of the clinical trials underway. 
+ For additional information on the various risks posed by the COVID-19 pandemic, please read ITEM 7A. Quantitative and Qualitative Disclosures About Market Risk and ITEM 1A. Risk Factors included in this report. 
+ Brexit 
+ Effective January 31, 2020, the U.K. ceased to be a member state of the E.U., a process known as Brexit, and began a transition period, which expired on December 31, 2020. 
+ In December 2020 the U.K. and the E.U. agreed on a trade and cooperation agreement, under which the E.U. and the U.K. will now form two separate markets governed by two distinct regulatory and legal regimes. The trade and cooperation agreement covers the general objectives and framework of the relationship between the U.K. and the E.U., including as it relates to trade, transport and visas. Notably, under the trade and cooperation agreement, U.K. service suppliers no longer benefit from automatic access to the entire E.U. single market, U.K. goods no longer benefit from the free movement of goods and there is no longer the free movement of people between the U.K. and the E.U. Depending on the application of the terms of the trade and cooperation agreement, we could face new regulatory costs and challenges. 
+ We do not expect Brexit to have a material impact on our consolidated results of operations as less than 4.0% of our total product revenues in 2020, 2019 and 2018 were derived from U.K. sales. However, we cannot predict the direction Brexit-related developments will take nor the impact of those developments on our European operations and the economies of the markets where we operate. Brexit could lead to legal uncertainty and potentially divergent national laws and regulations as the U.K. determines which E.U. laws to replace or replicate, including U.K. competition laws. Therefore, we will continue to monitor for developments in this area and assess any potential impacts on our business and results of operations. 
+ 
+ 
+ 53 
+ 
+ Table of Contents 
+ 
+ 
+ Financial Highlights 
+ Diluted earnings per share attributable to Biogen Inc. were $24.80 for 2020, representing a decrease of 21.1% as compared to $31.42 in the same period in 2019. 
+ As described below under Results of Operations , our net income and diluted earnings per share attributable to Biogen Inc. for the year ended December 31, 2020, compared to the year ended December 31, 2019, reflects the following: 
+ Revenues 
+ • Total revenues were $13,444.6 million for 2020, representing a decrease of 6.5% as compared to $14,377.9 million in 2019. 
+ • Product revenues, net totaled $10,692.2 million for 2020, representing a decrease of 6.0% as compared to $11,379.8 million in 2019. This decrease was primarily due to a $697.2 million, or 8.2%, decrease in MS product revenues and a $44.9 million, or 2.1%, decrease in revenues from SPINRAZA, partially offset by a $57.5 million, or 7.8%, increase in revenues from our biosimilar business. Product revenues, net, compared to the same period in 2019, further reflects the unfavorable impact of foreign currency exchange of $111.6 million. 
+ ◦ The decrease in MS product revenues was primarily due to a decrease in TECFIDERA demand and price as a result of multiple TECFIDERA generic entrants entering the U.S. market during the year ended December 31, 2020. 
+ • Revenues from anti-CD20 therapeutic programs totaled $1,977.8 million for 2020, representing a decrease of 13.6% as compared to $2,290.4 million in 2019. This decrease was primarily due to a $490.7 million, or 31.7%, decrease in RITUXAN revenues, partially offset by a $157.9 million, or 23.0%, increase in royalty revenues on sales of OCREVUS. Sales of RITUXAN have been adversely affected primarily by the onset of biosimilars competition in the U.S. 
+ • Other revenues totaled $774.6 million for 2020, representing an increase of 9.5% over $707.7 million in 2019. This increase was due to higher contract manufacturing revenues, primarily resulting from $346.2 million in revenues related to the delivery of the license for certain of our manufacturing-related intellectual property to a contract manufacturing customer. 
+ Expenses 
+ 
+ 
+ • Total cost and expenses were $8,894.5 million for 2020, representing an increase of 21.3% from $7,335.3 million in 2019. This increase was primarily due to a $1,710.3 million, or 75.0%, increase in research and development expense. 
+ ◦ The increase in research and development expense was primarily due to $1,893.3 million in charges recognized in connection with upfront payments associated with entering into our collaborations with Sangamo, Denali and Sage. 
+ This increase was partially offset by: 
+ ◦ a 5.1% decrease in amortization and impairment of acquired intangible assets; and 
+ ◦ a $92.5 million gain recognized in 2020 associated with the divestiture of our Hillerød, Denmark manufacturing operations. 
+ As described below under Financial Condition, Liquidity and Capital Resources : 
+ • We generated $4,229.8 million of net cash flows from operations for 2020. 
+ • Cash, cash equivalents and marketable securities totaled approximately $3,382.2 million as of December 31, 2020. 
+ • We repurchased and retired approximately 22.4 million shares of our common stock at a cost of approximately $6.7 billion during 2020 under our 2020, December 2019 and March 2019 Share Repurchase Programs. 
+ Acquisitions, Collaborative and Other Relationships 
+ For additional information on our acquisitions, collaborative and other relationships discussed below, please read Note 2, Acquisitions , Note 18, Collaborative and Other Relationships, and Note 19, Investments in Variable Interest Entities , to our consolidated financial statements included in this report. 
+ BIIB118 Acquisition 
+ In March 2020 we acquired BIIB118, a novel CNS-penetrant small molecule inhibitor of casein kinase 1, for the potential treatment of patients with behavioral and neurological symptoms across various psychiatric and neurological diseases from Pfizer. We are developing BIIB118 for the potential treatment of ISWRD in Parkinson’s disease and plan to develop 
+ 
+ 
+ 54 
+ 
+ Table of Contents 
+ 
+ 
+ BIIB118 for the potential treatment of sundowning in Alzheimer's disease. 
+ For additional information on our acquisition of BIIB118, please read Note 2, Acquisitions, to our consolidated financial statements included in this report . 
+ Sangamo Therapeutics, Inc. 
+ In April 2020 we closed a collaboration and license agreement with Sangamo to develop and commercialize ST-501 for tauopathies, including Alzheimer's disease; ST-502 for synucleinopathies, including Parkinson’s disease; a third neuromuscular disease target; and up to nine additional neurological disease targets to be identified and selected within a five-year period. 
+ For additional information on our collaboration arrangement with Sangamo, please read Note 18, Collaborative and Other Relationships, to our consolidated financial statements included in this report. 
+ Denali Therapeutics Inc. 
+ In October 2020 we closed a collaboration and license agreement with Denali to co-develop and co-commercialize Denali's small molecule inhibitors of LRRK2 for Parkinson's disease. In addition to the LRRK2 program, we also have an exclusive option to license two preclinical programs from Denali’s Transport Vehicle platform, including its Antibody Transport Vehicle: Abeta program and a second program utilizing its Transport Vehicle technology. Further, we have a right of first negotiation on two additional Transport Vehicle-enabled therapeutics, should Denali decide to seek a collaboration for such programs. 
+ For additional information on our collaboration arrangement with Denali, please read Note 18, Collaborative and Other Relationships, to our consolidated financial statements included in this report. 
+ Sage Therapeutics, Inc. 
+ In December 2020 we closed a global collaboration and license agreement with Sage to jointly develop and commercialize zuranolone for the 
+ 
+ 
+ potential treatment of major depressive disorder, postpartum depression and other psychiatric disorders and SAGE-324 for the potential treatment of essential tremor and other neurological disorders. 
+ For additional information on our collaboration arrangement with Sage, please read Note 18, Collaborative and Other Relationships, to our consolidated financial statements included in this report. 
+ Other Key Developments 
+ Aducanumab (AB mAb) 
+ In July 2020 we completed the submission of a BLA for the approval of aducanumab to the FDA. In August 2020 the FDA accepted the BLA and granted Priority Review with a PDUFA action date on March 7, 2021. In November 2020 the FDA held a virtual meeting of the Advisory Committee to review data supporting the BLA for aducanumab and to vote on questions presented at the meeting. A majority of the Advisory Committee members voted against each of the questions presented at the meeting. 
+ In January 2021 the FDA extended the review period for the BLA for aducanumab by three months. The updated PDUFA action date is June 7, 2021. As part of the ongoing review, we submitted a response to an information request by the FDA, including additional analyses and clinical data, which the FDA considered a Major Amendment to the application that will require additional time for review. 
+ In October 2020 the EMA accepted for review the MAA for aducanumab. 
+ In December 2020 the Ministry of Health, Labor and Welfare accepted for review the Japanese New Drug Application for aducanumab. 
+ 2020 Share Repurchase Program 
+ In October 2020 our Board of Directors authorized our 2020 Share Repurchase Program, which is a program to repurchase up to $5.0 billion of our common stock. Our 2020 Share Repurchase Program does not have an expiration date. All share repurchases under our 2020 Share Repurchase Program will be retired. 
+ 
+ 
+ 55 
+ 
+ 
+ Table of Contents 
+ Results of Operations 
+ Revenues 
+ Revenues are summarized as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Years Ended December 31, 
+ 
+ % Change 
+ 
+ $ Change 
+ 
+ 
+ 
+ 2020 vs. 2019 
+ 
+ 2019 vs. 2018 
+ 
+ 2020 vs. 2019 
+ 
+ 2019 vs. 2018 
+ 
+ (In millions, except percentages) 
+ 
+ 2020 
+ 
+ 2019 
+ 
+ 2018 
+ 
+ 
+ 
+ 
+ Product revenues, net: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ United States 
+ 
+ $ 
+ 5,900.1 
+ 
+ 
+ $ 
+ 6,713.8 
+ 
+ 
+ $ 
+ 6,800.5 
+ 
+ 
+ (12.1) 
+ % 
+ 
+ (1.3) 
+ % 
+ 
+ $ 
+ (813.7) 
+ 
+ 
+ $ 
+ (86.7) 
+ 
+ 
+ Rest of world 
+ 
+ 4,792.1 
+ 
+ 
+ 4,666.0 
+ 
+ 
+ 4,086.3 
+ 
+ 
+ 2.7 
+ 
+ 
+ 14.2 
+ 
+ 
+ 126.1 
+ 
+ 
+ 579.7 
+ 
+ 
+ Total product revenues, net 
+ 
+ 10,692.2 
+ 
+ 
+ 11,379.8 
+ 
+ 
+ 10,886.8 
+ 
+ 
+ (6.0) 
+ 
+ 
+ 4.5 
+ 
+ 
+ (687.6) 
+ 
+ 
+ 493.0 
+ 
+ 
+ Revenues from anti-CD20 therapeutic programs 
+ 
+ 1,977.8 
+ 
+ 
+ 2,290.4 
+ 
+ 
+ 1,980.2 
+ 
+ 
+ (13.6) 
+ 
+ 
+ 15.7 
+ 
+ 
+ (312.6) 
+ 
+ 
+ 310.2 
+ 
+ 
+ Other revenues 
+ 
+ 774.6 
+ 
+ 
+ 707.7 
+ 
+ 
+ 585.9 
+ 
+ 
+ 9.5 
+ 
+ 
+ 20.8 
+ 
+ 
+ 66.9 
+ 
+ 
+ 121.8 
+ 
+ 
+ Total revenues 
+ 
+ $ 
+ 13,444.6 
+ 
+ 
+ $ 
+ 14,377.9 
+ 
+ 
+ $ 
+ 13,452.9 
+ 
+ 
+ (6.5) 
+ % 
+ 
+ 6.9 
+ % 
+ 
+ $ 
+ (933.3) 
+ 
+ 
+ $ 
+ 925.0 
+ 
+ Product Revenues 
+ Product revenues are summarized as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Years Ended December 31, 
+ 
+ % Change 
+ 
+ $ Change 
+ 
+ 
+ 
+ 2020 vs. 2019 
+ 
+ 2019 vs. 2018 
+ 
+ 2020 vs. 2019 
+ 
+ 2019 vs. 2018 
+ 
+ (In millions, except percentages) 
+ 
+ 2020 
+ 
+ 2019 
+ 
+ 2018 
+ 
+ 
+ 
+ 
+ Multiple Sclerosis (MS): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fumarate* 
+ 
+ $ 
+ 3,905.4 
+ 
+ 
+ $ 
+ 4,438.2 
+ 
+ 
+ $ 
+ 4,274.1 
+ 
+ 
+ (12.0) 
+ % 
+ 
+ 3.8 
+ % 
+ 
+ $ 
+ (532.8) 
+ 
+ 
+ $ 
+ 164.1 
+ 
+ 
+ Interferon** 
+ 
+ 1,877.5 
+ 
+ 
+ 2,101.8 
+ 
+ 
+ 2,363.0 
+ 
+ 
+ (10.7) 
+ 
+ 
+ (11.1) 
+ 
+ 
+ (224.3) 
+ 
+ 
+ (261.2) 
+ 
+ 
+ TYSABRI 
+ 
+ 1,946.1 
+ 
+ 
+ 1,892.2 
+ 
+ 
+ 1,864.0 
+ 
+ 
+ 2.8 
+ 
+ 
+ 1.5 
+ 
+ 
+ 53.9 
+ 
+ 
+ 28.2 
+ 
+ 
+ FAMPYRA 
+ 
+ 103.1 
+ 
+ 
+ 97.1 
+ 
+ 
+ 92.7 
+ 
+ 
+ 6.2 
+ 
+ 
+ 4.7 
+ 
+ 
+ 6.0 
+ 
+ 
+ 4.4 
+ 
+ 
+ ZINBRYTA 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ 1.4 
+ 
+ 
+ — 
+ 
+ 
+ nm 
+ 
+ — 
+ 
+ 
+ (1.4) 
+ 
+ 
+ Subtotal: MS product revenues 
+ 
+ 7,832.1 
+ 
+ 
+ 8,529.3 
+ 
+ 
+ 8,595.2 
+ 
+ 
+ (8.2) 
+ 
+ 
+ (0.8) 
+ 
+ 
+ (697.2) 
+ 
+ 
+ (65.9) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Spinal Muscular Atrophy: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SPINRAZA 
+ 
+ 2,052.1 
+ 
+ 
+ 2,097.0 
+ 
+ 
+ 1,724.2 
+ 
+ 
+ (2.1) 
+ 
+ 
+ 21.6 
+ 
+ 
+ (44.9) 
+ 
+ 
+ 372.8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Biosimilars: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BENEPALI 
+ 
+ 481.6 
+ 
+ 
+ 486.2 
+ 
+ 
+ 485.2 
+ 
+ 
+ (0.9) 
+ 
+ 
+ 0.2 
+ 
+ 
+ (4.6) 
+ 
+ 
+ 1.0 
+ 
+ 
+ IMRALDI 
+ 
+ 216.3 
+ 
+ 
+ 184.0 
+ 
+ 
+ 16.7 
+ 
+ 
+ 17.6 
+ 
+ 
+ nm 
+ 
+ 32.3 
+ 
+ 
+ 167.3 
+ 
+ 
+ FLIXABI 
+ 
+ 97.9 
+ 
+ 
+ 68.1 
+ 
+ 
+ 43.2 
+ 
+ 
+ 43.8 
+ 
+ 
+ 57.6 
+ 
+ 
+ 29.8 
+ 
+ 
+ 24.9 
+ 
+ 
+ Subtotal: Biosimilar product revenues 
+ 
+ 795.8 
+ 
+ 
+ 738.3 
+ 
+ 
+ 545.1 
+ 
+ 
+ 7.8 
+ 
+ 
+ 35.4 
+ 
+ 
+ 57.5 
+ 
+ 
+ 193.2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ FUMADERM 
+ 
+ 12.2 
+ 
+ 
+ 15.2 
+ 
+ 
+ 22.3 
+ 
+ 
+ (19.7) 
+ 
+ 
+ (31.8) 
+ 
+ 
+ (3.0) 
+ 
+ 
+ (7.1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total product revenues, net 
+ 
+ $ 
+ 10,692.2 
+ 
+ 
+ $ 
+ 11,379.8 
+ 
+ 
+ $ 
+ 10,886.8 
+ 
+ 
+ (6.0) 
+ % 
+ 
+ 4.5 
+ % 
+ 
+ $ 
+ (687.6) 
+ 
+ 
+ $ 
+ 493.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ *Fumarate includes TECFIDERA and VUMERITY. VUMERITY became commercially available in the U.S. in November 2019. 
+ **Interferon includes AVONEX and PLEGRIDY. 
+ nm Not meaningful. 
+ 
+ 
+ 56 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ Multiple Sclerosis (MS) 
+ Fumarate 
+ 
+ Fumarate revenues include sales from TECFIDERA and VUMERITY. In October 2019 the FDA approved VUMERITY for the treatment of RMS and VUMERITY became commercially available in the U.S. in November 2019. 
+ For 2020 compared to 2019, the 17.2% decrease in U.S. Fumarate revenues was primarily due to a decrease in TECFIDERA demand and price as a result of multiple TECFIDERA generic entrants entering the U.S. market during the year ended December 31, 2020. This decrease was partially offset by an increase of approximately $60.0 million in VUMERITY sales, which became commercially available in the U.S. in November 2019. 
+ For 2020 compared to 2019, the 3.3% increase in rest of world Fumarate revenues was primarily due to an increase in TECFIDERA sales volumes of 8.6%, partially offset by pricing reductions in certain European countries and the unfavorable impact of foreign currency exchange. The increase in volumes was primarily due to continued strong patient growth in our E.U. direct markets, including Italy, Spain and the U.K., as well as growth in Japan and Brazil. 
+ In June 2020 and September 2020 judgments were entered in favor of the defendants in the patent infringement proceedings relating to TECFIDERA Orange-Book listed patents pursuant to the Hatch-Waxman Act in West Virginia and Delaware. We have appealed the judgments in both actions. For additional information, please read Note 20, Litigation, to our consolidated financial statements included in this report. 
+ Multiple TECFIDERA generic entrants are now in the U.S. market and have deeply discounted prices 
+ 
+ 
+ compared to TECFIDERA. The generic competition for TECFIDERA significantly reduced our TECFIDERA revenues during the year ended December 31, 2020, and is expected to have a substantial negative impact on our TECFIDERA revenues for as long as there is generic competition. 
+ We anticipate an increase in TECFIDERA sales volume in rest of world in 2021, compared to 2020, notwithstanding the increasing competition from additional treatments for MS and potential disruptions due, directly or indirectly, to the COVID-19 pandemic. 
+ We expect an increase in VUMERITY sales volume in the U.S., mostly driven by the continued launch of VUMERITY. 
+ For additional information on our collaboration arrangement with Alkermes, please read Note 18, Collaborative and Other Relationships , to our consolidated financial statements included in this report. 
+ Interferon 
+ 
+ For 2020 compared to 2019, the 10.7% decrease in U.S. Interferon revenues was primarily due to a decrease in Interferon sales volumes of 12.0%. The net decline in sales volumes reflects the continued decline of the Interferon market as patients transition to other higher efficacy and oral MS therapies. 
+ For 2020 compared to 2019, the 10.5% decrease in rest of world Interferon revenues was primarily due to a decrease in Interferon sales volumes of 7.1%, which negatively impacted comparative revenue of $48.1 million. 
+ We expect that Interferon revenues will continue to decline in both the U.S. and rest of world markets in 2021, compared to 2020, as a result of increasing 
+ 
+ 
+ 57 
+ 
+ Table of Contents 
+ 
+ 
+ competition from our other MS products as well as other treatments for MS, including biosimilars, and pricing reductions in certain European markets. 
+ AVONEX 
+ For 2020, 2019 and 2018 U.S. AVONEX revenues totaled $1,083.4 million, $1,202.1 million and $1,420.2 million, respectively. 
+ For 2020, 2019 and 2018 rest of world AVONEX revenues totaled $408.5 million, $463.8 million and $495.3 million, respectively. 
+ PLEGRIDY 
+ For 2020, 2019 and 2018 U.S. PLEGRIDY revenues totaled $190.1 million, $224.5 million and $248.1 million, respectively. 
+ For 2020, 2019 and 2018 rest of world PLEGRIDY revenues totaled $195.5 million, $211.4 million and $199.4 million, respectively. 
+ TYSABRI 
+ 
+ For 2020 compared to 2019, the 5.3% increase in U.S. TYSABRI revenues was primarily due to an increase in TYSABRI sales volume of 1.0% and price increases, partially offset by higher discounts and allowance rates. 
+ For 2020 compared to 2019, rest of world TYSABRI revenues remained flat, with stable volume and pricing. 
+ We anticipate TYSABRI sales volume to modestly increase on a global basis in 2021, compared to 2020, despite increasing competition from additional treatments for MS, including OCREVUS. We believe that some TYSABRI infusions may be delayed due, directly or indirectly, to the 
+ 
+ 
+ COVID-19 pandemic. We expect to continue to face price reductions in certain European markets. 
+ Spinal Muscular Atrophy (SMA) 
+ SPINRAZA 
+ 
+ For 2020 compared to 2019, the 15.6% decrease in U.S. SPINRAZA revenues was primarily due to a decrease in sales volumes of 15.0%, resulting from increased competition as well as lower loading and maintenance doses due to the impact of site of care closures as a result of the COVID-19 pandemic. 
+ For 2020 compared to 2019, the 8.7% increase in rest of world SPINRAZA revenues was primarily due to a net increase in sales volumes of 16.8%, which was reflective of the impact of a shift from loading to maintenance doses and the impact of site of care closures as a result of the COVID-19 pandemic. This increase was partially lower net prices and the unfavorable impact of foreign currency exchange. 
+ In 2021 we expect that SPINRAZA revenues will be subject to increased competition resulting in higher discontinuations and a lower rate of new patient starts combined with the impact of loading dose dynamics as patients transition to dosing once every four months and lower prices in certain rest of world countries. We believe that some SPINRAZA doses may continue to be delayed due, directly or indirectly, to the COVID-19 pandemic. 
+ We face competition from a gene therapy product that was approved in the U.S. and the E.U. and a new oral product that was approved in the U.S. and has been accepted for review in the E.U. We expect that we will experience competition from both products in additional jurisdictions in the future. Additionally, we are aware of other products now in development that, 
+ 
+ 
+ 58 
+ 
+ Table of Contents 
+ 
+ 
+ if launched, may also compete with SPINRAZA. Future sales of SPINRAZA may be adversely affected by the commercialization of competing products. 
+ For additional information on our collaboration arrangements with Ionis, please read Note 18, Collaborative and Other Relationships, to our consolidated financial statements included in this report. 
+ Biosimilars 
+ BENEPALI, IMRALDI and FLIXABI 
+ 
+ For 2020 compared to 2019, the 7.8% increase in biosimilar revenues was primarily due to higher sales volumes and a favorable foreign currency impact, partially offset by the unfavorable impact of price decreases. 
+ In 2021 we expect modest to moderate revenue growth for our biosimilars business depending on the impact of the COVID-19 pandemic. We expect growth to be primarily driven by the continued launch of IMRALDI in Europe, partially offset by price reductions in certain European countries. 
+ In December 2019 we completed a transaction with Samsung Bioepis and secured the exclusive rights to commercialize two potential ophthalmology biosimilars, SB11, a proposed ranibizumab biosimilar referencing LUCENTIS, and SB15, a proposed aflibercept biosimilar referencing EYLEA, in major markets worldwide, including the U.S., Canada, Europe, Japan and Australia. In October 2020 the EMA accepted for review the MAA for SB11 and in November 2020 the FDA accepted the BLA for SB11. We also acquired an option to extend our existing commercial agreement with Samsung Bioepis for BENEPALI, IMRALDI and FLIXABI in certain countries in 
+ 
+ 
+ Europe and obtained an option to acquire exclusive rights to commercialize these products in China. 
+ For additional information on our collaboration arrangements with Samsung Bioepis, please read Note 18, Collaborative and Other Relationships, to our consolidated financial statements included in this report. 
+ 
+ Revenues from Anti-CD20 Therapeutic Programs 
+ Genentech (Roche Group) 
+ Our share of RITUXAN, including RITUXAN HYCELA, and GAZYVA collaboration operating profits in the U.S. and other revenues from anti-CD20 therapeutic programs are summarized in the table below. For purposes of this discussion, we refer to RITUXAN and RITUXAN HYCELA collectively as RITUXAN. 
+ 
+ Biogen’s Share of Pre-tax Profits in the U.S. for RITUXAN and GAZYVA 
+ The following table provides a summary of amounts comprising our share of pre-tax profits in the U.S. for RITUXAN and GAZYVA: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Years Ended December 31, 
+ 
+ (In millions) 
+ 
+ 2020 
+ 
+ 2019 
+ 
+ 2018 
+ 
+ Product revenues, net 
+ 
+ $ 
+ 3,334.1 
+ 
+ 
+ $ 
+ 4,747.4 
+ 
+ 
+ $ 
+ 4,484.3 
+ 
+ 
+ Cost and expenses 
+ 
+ 433.0 
+ 
+ 
+ 622.7 
+ 
+ 
+ 669.6 
+ 
+ 
+ Pre-tax profits in the U.S. 
+ 
+ $ 
+ 2,901.1 
+ 
+ 
+ $ 
+ 4,124.7 
+ 
+ 
+ $ 
+ 3,814.7 
+ 
+ 
+ Biogen's share of pre-tax profits 
+ 
+ $ 
+ 1,080.2 
+ 
+ 
+ $ 
+ 1,542.4 
+ 
+ 
+ $ 
+ 1,431.9 
+ 
+ 
+ 
+ 59 
+ 
+ Table of Contents 
+ 
+ 
+ For 2020 compared to 2019, the decrease in U.S. product revenues, net was primarily due to a decrease in sales volumes of RITUXAN in the U.S. of 26.7%, due to the onset of competition from multiple biosimilars, and we believe RITUXAN was adversely impacted by the COVID-19 pandemic. 
+ For 2020 compared to 2019, product revenues, net also reflects increases in GAZYVA sales volumes of 24.7%. 
+ For 2020 compared to 2019, the decrease in collaboration costs and expenses was primarily due to lower cost of sales on RITUXAN. 
+ We are aware of several other anti-CD20 molecules, including biosimilar products, that have recently been approved and are expected to compete with RITUXAN and GAZYVA in the oncology market. In November 2019, January 2020 and January 2021 biosimilar products referencing RITUXAN were launched in the U.S. and are being offered at lower prices. This competition has adversely affected the pre-tax profits of our collaboration arrangements with Genentech and could have a significant adverse affect on our co-promotion profits in the U.S. in future years. 
+ Other Revenues from Anti-CD20 Therapeutic Programs 
+ Other revenues from anti-CD20 therapeutic programs consist of royalty revenues on sales of 
+ 
+ 
+ OCREVUS and our share of pre-tax co-promotion profits from RITUXAN in Canada. 
+ For 2020 compared to 2019, the increase in other revenues from anti-CD20 therapeutic programs was primarily due to sales growth of OCREVUS. Royalty revenues recognized on sales of OCREVUS for the years ended December 31, 2020, 2019 and 2018, totaled $845.4 million, $687.5 million and $478.3 million, respectively. 
+ OCREVUS royalty revenues are based on our estimates from third party and market research data of OCREVUS sales occurring during the corresponding period. Differences between actual and estimated royalty revenues will be adjusted for in the period in which they become known, which is generally expected to be the following quarter. 
+ For additional information on our collaboration arrangements with Genentech, including information regarding the pre-tax profit-sharing formula and its impact on future revenues from anti-CD20 therapeutic programs, please read Note 18, Collaborative and Other Relationships, to our consolidated financial statements included in this report. 
+ 
+ Other Revenues 
+ Other revenues are summarized as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Years Ended December 31, 
+ 
+ % Change 
+ 
+ $ Change 
+ 
+ 
+ 
+ 
+ 2020 vs. 2019 
+ 
+ 2019 vs. 2018 
+ 
+ 2020 vs. 2019 
+ 
+ 2019 vs. 2018 
+ 
+ (In millions, except percentages) 
+ 
+ 2020 
+ 
+ 2019 
+ 
+ 2018 
+ 
+ 
+ 
+ Revenues from collaborative and other relationships 
+ 
+ $ 
+ 21.6 
+ 
+ 
+ $ 
+ 106.2 
+ 
+ 
+ $ 
+ 87.8 
+ 
+ 
+ (79.7) 
+ % 
+ 
+ 21.0 
+ % 
+ 
+ $ 
+ (84.6) 
+ 
+ 
+ $ 
+ 18.4 
+ 
+ 
+ Other royalty and corporate revenues 
+ 
+ 753.0 
+ 
+ 
+ 601.5 
+ 
+ 
+ 498.1 
+ 
+ 
+ 25.2 
+ 
+ 
+ 20.8 
+ 
+ 
+ 151.5 
+ 
+ 
+ 103.4 
+ 
+ 
+ Total other revenues 
+ 
+ $ 
+ 774.6 
+ 
+ 
+ $ 
+ 707.7 
+ 
+ 
+ $ 
+ 585.9 
+ 
+ 
+ 9.5 
+ % 
+ 
+ 20.8 
+ % 
+ 
+ $ 
+ 66.9 
+ 
+ 
+ $ 
+ 121.8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Revenues from Collaborative and Other Relationships 
+ Revenues from collaborative and other relationships primarily include revenues from our technical development services and manufacturing agreements with Samsung Bioepis and royalty revenues on biosimilar products from Samsung Bioepis. 
+ Following the divestiture of our Hillerød, Denmark manufacturing operations in August 2019, FUJIFILM Corporation (FUJIFILM) assumed responsibility for the manufacture of clinical and commercial quantities of bulk drug substance of biosimilar products for Samsung Bioepis. We no longer recognize revenues for the manufacturing 
+ 
+ 
+ completed after the Hillerød, Denmark manufacturing operations divestiture date under our technical development services and manufacturing agreements with Samsung Bioepis. 
+ For the years ended December 31, 2020 and 2019, we recognized $20.9 million and $106.2 million, respectively, related to the services described above provided to Samsung Bioepis. 
+ For additional information on our collaborative and other relationships, including revenues recognized under our technical development services and manufacturing agreements with Samsung Bioepis, please read Note 18, Collaborative and Other Relationships , to our consolidated financial statements included in this report. 
+ 
+ 
+ 60 
+ 
+ Table of Contents 
+ 
+ 
+ For additional information on the divestiture of our Hillerød, Denmark manufacturing operations, please read Note 3, Divestitures , to our consolidated financial statements included in this report. 
+ Other Royalty and Corporate Revenues 
+ 
+ We receive royalties from net sales on products related to patents that we have out-licensed and we record other corporate revenues primarily from amounts earned under contract manufacturing agreements. 
+ During the third quarter of 2019, we amended our agreement with a contract manufacturing customer pursuant to which we licensed certain of our manufacturing-related intellectual property to the customer. In the second quarter of 2020, the customer received regulatory approval for its product that is being manufactured using certain of our manufacturing-related intellectual property. As a result, we are entitled to $500.0 million in a series of three payments. The first payment became due upon regulatory approval of such product and was received during the second quarter of 2020. Subsequent payments are due on the first and second anniversaries of the regulatory approval. 
+ Other corporate revenues for the year ended December 31, 2020, reflect $346.2 million related to the delivery of the license for certain of our manufacturing-related intellectual property under the amended agreement discussed above and the performance of manufacturing product supply services for such customer. We have allocated the remaining $153.8 million of the $500.0 million transaction price to the performance of manufacturing product supply services for the customer, which we expect to perform through 2026. The value allocated to the manufacturing services was based on expected 
+ 
+ 
+ demand for supply and the fair value of comparable manufacturing and development services. 
+ For 2020 compared to 2019, the increase in other royalty and corporate revenues was due to higher contract manufacturing revenues, primarily resulting from $346.2 million in revenues related to the delivery of the license for certain of our manufacturing-related intellectual property to a contract manufacturing customer, as discussed above. 
+ 
+ Reserves for Discounts and Allowances 
+ Revenues from product sales are recorded net of reserves established for applicable discounts and allowances, including those associated with the implementation of pricing actions in certain international markets where we operate. 
+ These reserves are based on estimates of the amounts earned or to be claimed on the related sales and are classified as reductions of accounts receivable (if the amount is payable to our customer) or a liability (if the amount is payable to a party other than our customer). These estimates reflect our historical experience, current contractual and statutory requirements, specific known market events and trends, industry data and forecasted customer buying and payment patterns. Actual amounts may ultimately differ from our estimates. If actual results vary, we adjust these estimates, which could have an effect on earnings in the period of adjustment. 
+ Reserves for discounts, contractual adjustments and returns that reduced gross product revenues are summarized as follows: 
+ 
+ For the years ended December 31, 2020, 2019 and 2018, reserves for discounts and allowances as 
+ 
+ 
+ 61 
+ 
+ Table of Contents 
+ 
+ 
+ a percentage of gross product revenues were 27.1%, 24.3% and 23.7%, respectively. 
+ Discounts 
+ Discounts include trade term discounts and wholesaler incentives. 
+ For 2020 compared to 2019, the increase in discounts was primarily driven by an increase in gross biosimilar sales in our international markets as well as increases in discount percentages in certain countries. 
+ Contractual Adjustments 
+ Contractual adjustments primarily relate to Medicaid and managed care rebates, pharmacy rebates, co-payment (copay) assistance, VA and PHS discounts, specialty pharmacy program fees and other government rebates or applicable allowances. 
+ For 2020 compared to 2019, the increase in contractual adjustments was primarily due to higher pharmacy rebates and governmental rebates in the 
+ 
+ 
+ U.S. as well as higher governmental rebates and allowances in the rest of world, due in part to an increase in SPINRAZA sales volumes worldwide. 
+ Returns 
+ Product return reserves are established for returns expected to be made by wholesalers. In accordance with contractual terms, wholesalers are permitted to return product for reasons such as damaged or expired product. The majority of wholesaler returns are due to product expiration. Provisions for product returns are recognized in the period the related revenues are recognized, resulting in a reduction to product sales. 
+ For 2020 compared to 2019, return reserves were relatively consistent. 
+ For additional information on our revenue reserves, please read Note 4, Revenues, to our consolidated financial statements included in this report. 
+ 
+ Cost and Expenses 
+ A summary of total cost and expenses is as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Years Ended December 31, 
+ 
+ % Change 
+ 
+ $ Change 
+ 
+ 
+ 
+ 2020 vs. 2019 
+ 
+ 2019 vs. 2018 
+ 
+ 2020 vs. 2019 
+ 
+ 2019 vs. 2018 
+ 
+ (In millions, except percentages) 
+ 
+ 2020 
+ 
+ 2019 
+ 
+ 2018 
+ 
+ 
+ 
+ Cost of sales, excluding amortization and impairment of acquired intangible assets 
+ 
+ $ 
+ 1,805.2 
+ 
+ 
+ $ 
+ 1,955.4 
+ 
+ 
+ $ 
+ 1,816.3 
+ 
+ 
+ (7.7) 
+ % 
+ 
+ 7.7 
+ % 
+ 
+ $ 
+ (150.2) 
+ 
+ 
+ $ 
+ 139.1 
+ 
+ 
+ Research and development 
+ 
+ 3,990.9 
+ 
+ 
+ 2,280.6 
+ 
+ 
+ 2,597.2 
+ 
+ 
+ 75.0 
+ 
+ 
+ (12.2) 
+ 
+ 
+ 1,710.3 
+ 
+ 
+ (316.6) 
+ 
+ 
+ Selling, general and administrative 
+ 
+ 2,504.5 
+ 
+ 
+ 2,374.7 
+ 
+ 
+ 2,106.3 
+ 
+ 
+ 5.5 
+ 
+ 
+ 12.7 
+ 
+ 
+ 129.8 
+ 
+ 
+ 268.4 
+ 
+ 
+ Amortization and impairment of acquired intangible assets 
+ 
+ 464.8 
+ 
+ 
+ 489.9 
+ 
+ 
+ 747.3 
+ 
+ 
+ (5.1) 
+ 
+ 
+ (34.4) 
+ 
+ 
+ (25.1) 
+ 
+ 
+ (257.4) 
+ 
+ 
+ Collaboration profit (loss) sharing 
+ 
+ 232.9 
+ 
+ 
+ 241.6 
+ 
+ 
+ 185.0 
+ 
+ 
+ (3.6) 
+ 
+ 
+ 30.6 
+ 
+ 
+ (8.7) 
+ 
+ 
+ 56.6 
+ 
+ 
+ (Gain) loss on divestiture of Hillerød, Denmark manufacturing operations 
+ 
+ (92.5) 
+ 
+ 
+ 55.3 
+ 
+ 
+ — 
+ 
+ 
+ nm 
+ 
+ nm 
+ 
+ (147.8) 
+ 
+ 
+ 55.3 
+ 
+ 
+ (Gain) loss on fair value remeasurement of contingent consideration 
+ 
+ (86.3) 
+ 
+ 
+ (63.7) 
+ 
+ 
+ (12.3) 
+ 
+ 
+ 35.5 
+ 
+ 
+ 417.9 
+ 
+ 
+ (22.6) 
+ 
+ 
+ (51.4) 
+ 
+ 
+ Acquired in-process research and development 
+ 
+ 75.0 
+ 
+ 
+ — 
+ 
+ 
+ 112.5 
+ 
+ 
+ nm 
+ 
+ nm 
+ 
+ 75.0 
+ 
+ 
+ (112.5) 
+ 
+ 
+ Restructuring charges 
+ 
+ — 
+ 
+ 
+ 1.5 
+ 
+ 
+ 12.0 
+ 
+ 
+ nm 
+ 
+ (87.5) 
+ 
+ 
+ (1.5) 
+ 
+ 
+ (10.5) 
+ 
+ 
+ Total cost and expenses 
+ 
+ $ 
+ 8,894.5 
+ 
+ 
+ $ 
+ 7,335.3 
+ 
+ 
+ $ 
+ 7,564.3 
+ 
+ 
+ 21.3 
+ % 
+ 
+ (3.0) 
+ % 
+ 
+ $ 
+ 1,559.2 
+ 
+ 
+ $ 
+ (229.0) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ nm Not meaningful 
+ 
+ 
+ 62 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ Cost of Sales, Excluding Amortization and Impairment of Acquired Intangible Assets 
+ 
+ Cost of sales, as a percentage of total revenues, were 13.4%, 13.6% and 13.5% for the years ended December 31, 2020, 2019 and 2018, respectively. 
+ Product Cost of Sales 
+ For 2020 compared to 2019, the decrease in product cost of sales was primarily due to lower cost of sales from contract manufacturing agreements, primarily resulting from the sale of hemophilia inventory, with a cost basis of $173.5 million, to Bioverativ in the first quarter of 2019 and FUJIFILM assuming responsibility for the manufacture of clinical and commercial quantities of bulk drug substance of biosimilar products for Samsung Bioepis during the third quarter of 2019. 
+ Inventory amounts written down as a result of excess, obsolescence, unmarketability or other reasons totaled $26.6 million, $52.2 million and $41.9 million for the years ended December 31, 2020, 2019 and 2018, respectively. 
+ Royalty Cost of Sales 
+ For 2020 compared to 2019, the decrease in royalty cost of sales was primarily due to lower royalties payable on lower sales of AVONEX and SPINRAZA. 
+ 
+ 
+ 
+ Research and Development 
+ 
+ 
+ 63 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ We support our drug discovery and development efforts through the commitment of significant resources to discovery, research and development programs and business development opportunities. 
+ A significant amount of our research and development costs consist of indirect costs incurred in support of overall research and development activities and non-specific programs, including activities that benefit multiple programs, such as management costs, as well as depreciation, information technology and facility-based expenses. These costs are considered other research and 
+ 
+ 
+ development costs in the table above and are not allocated to a specific program or stage. 
+ Research and development expense incurred in support of our marketed products includes costs associated with product lifecycle management activities including, if applicable, costs associated with the development of new indications for existing products. Late stage programs are programs in Phase 3 development or in registration stage. Early stage programs are programs in Phase 1 or Phase 2 development. Research and discovery represents costs incurred to support our discovery research and translational science efforts. Costs are reflected in the development stage based upon the program status when incurred. Therefore, the same program could be reflected in different development stages in the same year. For several of our programs, the research and development activities are part of our collaborative and other relationships. Our costs reflect our share of the total costs incurred. 
+ For 2020 compared to 2019, the increase in research and development expense was primarily due to approximately $1,084.0 million, $601.3 million and $208.0 million of upfront payments made in connection with entering into our collaborations with Sage, Denali and Sangamo, respectively. 
+ In 2020 we recorded significant upfront payments related to our new collaborations as part of research and development expense. Excluding upfront payments, we expect our core research and development expense to increase in 2021, driven by continued investment in our pipeline, including significant investments related to the new assets in the Sage collaboration. We intend to continue committing significant resources to targeted research and development opportunities where there is a significant unmet need and where a drug candidate has the potential to be highly differentiated. 
+ At December 31, 2020, we capitalized approximately $93.8 million of pre-launch inventory for aducanumab. If aducanumab does not receive regulatory approval in the U.S., we would expense this inventory as research and development expense and, under the terms of the Aducanumab Collaboration Agreement, Eisai would reimburse us for 45.0% of the costs. 
+ Milestone and Upfront Expenses 
+ Research and development expense for 2020 includes: 
+ • $1,084.0 million charge to research and development expense in connection with the upfront payment associated with entering into our collaboration with Sage in the fourth quarter of 2020; 
+ 
+ 
+ 64 
+ 
+ Table of Contents 
+ 
+ 
+ • $601.3 million charge to research and development expense in connection with the upfront payment associated with entering into our collaboration with Denali in the third quarter of 2020; and 
+ • $208.0 million charge to research and development expense in connection with the upfront payment associated with entering into our collaboration with Sangamo in the second quarter of 2020. 
+ Research and development expense for 2019 includes: 
+ • $63.0 million charge to research and development expense in connection with our agreement with Samsung Bioepis to secure the exclusive rights to commercialize two potential ophthalmology biosimilar products; and 
+ • $45.0 million charge to research and development expense upon the exercise of our option to obtain a worldwide, exclusive, royalty-bearing license from Ionis to develop and commercialize BIIB080 (tau ASO) for the potential treatment of Alzheimer's disease. 
+ The upfront payments associated with these collaborations are classified as research and development expense as the programs they relate to had not achieved regulatory approval as of the payment date. 
+ For additional information about these collaboration arrangements, please read Note 18, Collaborative and Other Relationships, to our consolidated financial statements included in this report. 
+ Early Stage Programs 
+ For 2020 compared to 2019, the decrease in spending related to our early stage programs was primarily due to a decrease in costs associated with: 
+ • the discontinuation of gosuranemab in progressive supraneuclear palsy; 
+ • the advancement of toferson in ALS into late stage; and 
+ • the discontinuation of the Phase 2b study of BG00011 for the potential treatment of idiopathic pulmonary fibrosis (IPF). 
+ These decreases were partially offset by an increase in costs associated with: 
+ • spending in the development of BIIB112 (RPGR gene therapy) in XLRP; 
+ • spending in the development of BIIB080 in Alzheimer's disease; and 
+ 
+ 
+ • spending in the development of gosuranemab in Alzheimer's disease. 
+ Late Stage Programs 
+ For 2020 compared to 2019, the decrease in spending associated with our late stage programs was primarily due to: 
+ • a decrease in spending related to the discontinuation of the global Phase 3 trials of aducanumab, net of reimbursement from our collaboration partner Eisai in the first quarter of 2019; 
+ • a decrease in spending related to the discontinuation of the global Phase 3 trials, MISSION AD1 and MISSION AD2, of elenbecestat (development code: E2609) in patients with early Alzheimer's disease in the third quarter of 2019; and 
+ • a decrease in spending related to VUMERITY, which was approved by the FDA in the fourth quarter of 2019. 
+ These decreases were partially offset by an increase in spending due to the advancement of toferson in ALS into late stage, an increase in spending related to BAN2401 in early Alzheimer's disease, our EMBARK redosing study for aducanumab and BIIB111 (timrepigene emparvovec) in CHM. 
+ In the first quarter of 2019, as a result of the decision to discontinue the Phase 3 EMERGE and ENGAGE trials following a futility analysis, we accrued approximately $45.0 million related to the termination of clinical trials and research and development contracts net of the expected 45.0% Eisai reimbursement of development costs incurred by the collaboration for the advancement of aducanumab. 
+ In July 2020 we completed the submission of a BLA for the approval of aducanumab to the FDA. In August 2020 the FDA accepted the BLA and granted Priority Review with a PDUFA action date on March 7, 2021. In January 2021 the FDA extended the review period for the BLA for aducanumab by three months. The updated PDUFA action date is June 7, 2021. 
+ In March 2019 Eisai initiated a global Phase 3 trial for the development of BAN2401 in early Alzheimer's disease. Under our collaboration arrangement, Eisai serves as the global operational and regulatory lead for BAN2401 and all costs, including research, development, sales and marketing expenses, are shared equally between us and Eisai. 
+ For additional information on our collaboration arrangements with Eisai, please read Note 18, Collaborative and Other Relationships, to our 
+ 
+ 
+ 65 
+ 
+ Table of Contents 
+ 
+ 
+ consolidated financial statements included in this report. 
+ Selling, General and Administrative 
+ 
+ For 2020 compared to 2019, the increase in selling, general and administrative expenses was primarily due to increased commercial and medical investments in support of pre-launch activities associated with the potential regulatory approval of aducanumab. 
+ In 2021 we expect selling, general and administrative costs, including headcount and commercial infrastructure, to significantly increase as we support activities associated with the potential regulatory approvals of aducanumab in the U.S. and rest of world markets. 
+ 
+ Amortization and Impairment of Acquired Intangible Assets 
+ 
+ Our amortization expense is based on the economic consumption and impairment of intangible assets. Our most significant amortizable intangible assets are related to our TYSABRI, AVONEX, SPINRAZA, VUMERITY and TECFIDERA (rest of world) products and other programs acquired through business combinations. 
+ 
+ 
+ For the year ended December 31, 2020, amortization and impairment of acquired intangible assets reflects the impact of a $115.0 million impairment charge related to BIIB111, which was obtained as part of our acquisition of Nightstar Therapeutics plc (NST), a $75.4 million impairment charge related to BIIB054 and a $19.3 million impairment charge related to one of our other IPR&D intangible assets. 
+ For the year ended December 31, 2019, amortization and impairment of acquired intangible assets reflects the impact of a $215.9 million impairment charge related to certain IPR&D assets associated with the Phase 2b study of BG00011 for the potential treatment of IPF, which was discontinued in the third quarter of 2019. 
+ Amortization of acquired intangible assets, excluding impairment charges, totaled $255.1 million, $274.0 million and $381.2 million for the years ended December 31, 2020, 2019 and 2018, respectively. 
+ For 2020 compared to 2019, the decrease in amortization of acquired intangible assets, excluding impairment charges, was primarily due to a lower rate of amortization for acquired intangible assets. 
+ We monitor events and expectations regarding product performance. If new information indicates that the assumptions underlying our most recent analysis are substantially different than those utilized in our current estimates, our analysis would be updated and may result in a significant change in the anticipated lifetime revenues of the relevant products. The occurrence of an adverse event could substantially increase the amount of amortization expense related to our acquired intangible assets as compared to previous periods or our current expectations, which may result in a significant negative impact on our future results of operations. 
+ IPR&D Related to Business Combinations 
+ IPR&D represents the fair value assigned to research and development assets that we acquired as part of a business combination and had not yet reached technological feasibility at the date of acquisition. We review amounts capitalized as acquired IPR&D for impairment annually, as of October 31, and whenever events or changes in circumstances indicate to us that the carrying value of the assets might not be recoverable. 
+ Overall, the value of our acquired IPR&D assets is dependent upon several variables, including estimates of future revenues and the effects of competition, our ability to secure sufficient pricing in a competitive market, our ability to confirm safety and efficacy based on data from clinical trials and 
+ 
+ 
+ 66 
+ 
+ Table of Contents 
+ 
+ 
+ regulatory feedback, the level of anticipated development costs and the probability and timing of successfully advancing a particular research program from one clinical trial phase to the next. We are continually reevaluating our estimates concerning these and other variables, including our life cycle management strategies, research and development priorities and development risk, changes in program and portfolio economics and related impact of foreign currency exchange rates and economic trends and evaluating industry and company data regarding the productivity of clinical research and the development process. Changes in our estimates may result in a significant change to our valuation of our IPR&D assets. 
+ BIIB111 
+ During the fourth quarter of 2020 we began experiencing third-party manufacturing delays that may impact our timeline for a potential filing of a BLA for BIIB111 for regulatory approval by up to one year. In addition, we determined that forecasted costs associated with advancing the BIIB111 program through Phase 3 development and potential commercialization will exceed our original estimates. We reassessed the fair value of the program based on these changes in assumptions and determined that the program was partially impaired. We recognized an impairment charge of $115.0 million during the fourth quarter of 2020, which resulted in a reduction of the IPR&D asset from $480.0 million to $365.0 million. 
+ BIIB054 
+ In February 2021 we announced that we discontinued development of BIIB054 as a potential treatment of Parkinson's disease as our Phase 2 SPARK study did not meet its primary or secondary endpoints. Although we made this determination in February 2021, it was based on conditions that existed as of December 31, 2020. As a result, we recognized an impairment charge of approximately $75.4 million during the fourth quarter of 2020 to reduce the fair value of the related IPR&D intangible asset to zero. 
+ Vixotrigine 
+ In the periods since we acquired vixotrigine (BIIB074), there have been numerous delays in the initiation of Phase 3 studies for the potential treatment of trigeminal neuralgia (TGN) as we engaged with the FDA regarding the design of the Phase 3 studies and awaited data and insights from mid-stage clinical trials of vixotrigine in other indications that have since been completed. The fair value of the TGN asset is not significantly in excess of carrying value. As of December 31, 2020, the carrying value associated with our vixotrigine IPR&D assets was $177.5 million. 
+ 
+ 
+ For additional information on the amortization and impairment of our acquired intangible assets, please read Note 6, Intangible Assets and Goodwill , to our consolidated financial statements included in this report. 
+ 
+ Collaboration Profit (Loss) Sharing 
+ 
+ Collaboration profit (loss) sharing primarily includes Samsung Bioepis' 50.0% share of the profit or loss related to our biosimilars commercial agreement with Samsung Bioepis. 
+ For 2020, 2019 and 2018 we recognized a net profit-sharing expense of $266.5 million, $241.6 million and $187.4 million, respectively, to reflect Samsung Bioepis’ 50.0% sharing of the net collaboration profits. 
+ For the year ended 2020, we also recognized net profit-sharing income of $33.8 million to reflect Eisai's 45.0% share of the $75.0 million milestone expense related to the completed submission of the BLA for the approval of aducanumab to the FDA. 
+ For additional information on our collaboration arrangements with Samsung Bioepis and Eisai, please read Note 18, Collaborative and Other Relationships , to our consolidated financial statements included in this report. 
+ 
+ 
+ 67 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ (Gain) Loss on Divestiture of Hillerød, Denmark Manufacturing Operations 
+ 
+ In March 2019 we entered into a share purchase agreement with FUJIFILM to sell all of the outstanding shares of our subsidiary that owned our biologics manufacturing operations in Hillerød, Denmark. The transaction closed in August 2019. 
+ For the year ended December 31, 2019, we recognized a total net loss of approximately $124.2 million related to the transaction in our consolidated statements of income. This loss included a pre-tax loss of $55.3 million, which was recorded in loss on divestiture of Hillerød, Denmark manufacturing operations. The loss recognized was based on exchange rates and business conditions on the closing date of this transaction, and included costs to sell our Hillerød, Denmark manufacturing operations of approximately $11.2 million and our estimate of the fair value of adverse commitments of approximately $74.0 million, primarily associated with the guarantee of future minimum batch production at the Hillerød facility. We also recorded a tax expense of $68.9 million related to this transaction. 
+ During the year ended December 31, 2020, we reduced our estimate of the fair value of the adverse commitment associated with the guarantee of future batch production by approximately $62.0 million based on our current manufacturing forecasts. Additionally, we recorded a reduction to our pre-tax loss of approximately $30.5 million due to a refund of interest paid associated with a tax matter. 
+ For additional information on the divestiture of our Hillerød, Denmark manufacturing operations, please read Note 3, Divestitures , to our consolidated financial statements included in this report. 
+ 
+ 
+ 
+ (Gain) Loss on Fair Value Remeasurement of Contingent Consideration 
+ 
+ Consideration payable for certain of our business combinations includes future payments that are contingent upon the occurrence of a particular event or events. We record an obligation for such contingent consideration payments at fair value on the acquisition date. We then revalue our contingent consideration obligations each reporting period. Changes in the fair value of our contingent consideration obligations, other than changes due to payments, are recognized as a (gain) loss on fair value remeasurement of contingent consideration in our consolidated statements of income. 
+ The gain on fair value remeasurement of contingent consideration for 2020 was primarily due to the remeasurement of the contingent consideration associated with our BIIB054 program as well as changes in the probability and the expected timing of the achievement of certain remaining developmental milestones, changes in the interest rates used to revalue our contingent consideration liabilities and the passage of time. 
+ The gain on fair value remeasurement of contingent consideration for 2019 was primarily due to the discontinuation of the Phase 2b study of BG00011 for the potential treatment of IPF as well as changes in the probability and expected timing of achievement of certain developmental milestones, a decrease in interest rates used to revalue our contingent consideration liabilities and the passage of time. 
+ For additional information on our IPR&D intangible assets, please read Note 6, Intangible Assets and Goodwill , to our consolidated financial statements included in this report. 
+ 
+ 
+ 68 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ Acquired In-Process Research and Development 
+ 
+ BIIB118 Acquisition 
+ In March 2020 we acquired BIIB118 from Pfizer for the potential treatment of patients with behavioral and neurological symptoms across various psychiatric and neurological diseases. In connection with this acquisition, we made an upfront payment of $75.0 million to Pfizer, which was accounted for as an asset acquisition and recorded as acquired IPR&D in our consolidated statements of income as BIIB118 has not yet reached technological feasibility. 
+ For additional information on our acquisition of BIIB118, please read Note 2, Acquisitions , to our consolidated financial statements included in this report. 
+ 
+ Other Income (Expense), Net 
+ 
+ For 2020 compared to 2019, the change in other income (expense), net primarily reflects an increase in our net unrealized gains on our holdings in equity securities, partially offset by higher interest expense. 
+ 
+ 
+ For the year ended December 31, 2020, net unrealized and realized gains on our holdings in equity securities were approximately $681.8 million and $12.1 million, respectively, compared to net unrealized and realized gains of $150.1 million and $50.0 million in 2019. The net unrealized gains recognized during the year ended December 31, 2020, primarily reflects an increase in the fair value of Denali and Sangamo common stock of approximately $703.9 million. 
+ For the year ended December 31, 2020, net interest expense was $180.5 million as compared to $67.4 million in 2019. This increase was primarily due to additional borrowings in 2020 and lower interest income earned on our investments in 2020 as compared to 2019. On April 30, 2020, we issued our senior unsecured notes for an aggregate principal amount of $3.0 billion (2020 Senior Notes). 
+ We expect interest expense will increase in 2021, as our 2020 Senior Notes will be outstanding for the entire year. 
+ For additional information on our 2020 Senior Notes, please read Note 12, Indebtedness , to our consolidated financial statements included in this report. 
+ 
+ Income Tax Provision 
+ 
+ Our effective tax rate fluctuates from year to year due to the global nature of our operations. The factors that most significantly impact our effective tax rate include changes in tax laws, variability in the allocation of our taxable earnings among multiple jurisdictions, the amount and characterization of our research and development expenses, the levels of 
+ 
+ 
+ 69 
+ 
+ Table of Contents 
+ 
+ 
+ certain deductions and credits, acquisitions and licensing transactions. 
+ For the year ended December 31, 2020, as compared to 2019, the increase in our effective tax rate was primarily due to the income tax expense related to the establishment of a valuation allowance against certain net deferred tax assets, the realization of which is dependent on future sales of TECFIDERA in the U.S., partially offset by the benefit recognized on the effective settlement of certain tax matters. Additionally, our 2019 effective tax rate benefited from an internal reorganization of certain intellectual property rights and the enactment of a new taxing regime in the country and certain cantons of Switzerland, partially offset by tax expense related to the divestiture of our Hillerød, Denmark manufacturing operations. Although we recognized a loss on the divestiture of our Hillerød, Denmark manufacturing operations, the divestiture required us to write-off certain deferred tax assets and resulted in a taxable gain in certain jurisdictions. 
+ For additional information on the divestiture of our Hillerød, Denmark manufacturing operations, please read Note 3, Divestitures , to our consolidated financial statements included in this report. 
+ Accounting for Uncertainty in Income Taxes 
+ For additional information on our uncertain tax positions and income tax rate reconciliation for 2020, 2019 and 2018, please read Note 16, Income Taxes, to our consolidated financial statements included in this report. 
+ 
+ Equity in (Income) Loss of Investee, Net of Tax 
+ 
+ In February 2012 we entered into a joint venture agreement with Samsung BioLogics establishing an entity, Samsung Bioepis, to develop, manufacture and market biosimilar products. 
+ In June 2018 we exercised our option under our joint venture agreement to increase our ownership percentage in Samsung Bioepis from approximately 
+ 
+ 
+ 5.0% to approximately 49.9%. The share purchase transaction was completed in November 2018. As of December 31, 2020, our ownership percentage remained at approximately 49.9%. 
+ We recognize our share of the results of operations related to our investment in Samsung Bioepis under the equity method of accounting one quarter in arrears when the results of the entity become available, which is reflected as equity in (income) loss of investee, net of tax in our consolidated statements of income. We recognize amortization on certain basis differences resulting from our November 2018 investment. 
+ The former chief executive officer (the incumbent chairman of the board) and the chief financial officer of our joint venture partner, Samsung BioLogics, are currently subject to ongoing criminal proceedings that we continue to monitor. While these proceedings could impact the operations of Samsung Bioepis and its business, we have assessed the value of our investment in Samsung Bioepis and continue to believe that the fair value of the investment is in excess of its net book value. 
+ For the year ended December 31, 2020, equity in (income) loss of investee, net of tax reflects our share of income totaling $45.3 million and amortization of basis differences totaling $40.0 million. 
+ For the year ended December 31, 2019, equity in (income) loss of investee, net of tax reflects our share of losses totaling $1.2 million and amortization of basis differences totaling $78.2 million. 
+ For additional information on our collaboration arrangements with Samsung Bioepis, please read Note 18, Collaborative and Other Relationships, to our consolidated financial statements included in this report. 
+ 
+ 
+ 70 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ Noncontrolling Interests, Net of Tax 
+ 
+ For 2020 net income (loss) attributable to noncontrolling interests, net of tax, was primarily due to the $75.0 million milestone payment related to the completed submission of the BLA for the approval of aducanumab to the FDA. 
+ 
+ 
+ For additional information on our collaboration arrangement with Neurimmune, please read Note 19, Investments in Variable Interest Entities, to our consolidated financial statements included in this report. 
+ 
+ Financial Condition, Liquidity and Capital Resources 
+ Our financial condition is summarized as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ As of December 31, 
+ 
+ % Change 
+ 
+ (In millions, except percentages) 
+ 
+ 2020 
+ 
+ 2019 
+ 
+ 2020 vs. 2019 
+ 
+ Financial assets: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cash and cash equivalents 
+ 
+ $ 
+ 1,331.2 
+ 
+ 
+ $ 
+ 2,913.7 
+ 
+ 
+ (54.3) 
+ % 
+ 
+ Marketable securities — current 
+ 
+ 1,278.9 
+ 
+ 
+ 1,562.2 
+ 
+ 
+ (18.1) 
+ 
+ 
+ Marketable securities — non-current 
+ 
+ 772.1 
+ 
+ 
+ 1,408.1 
+ 
+ 
+ (45.2) 
+ 
+ 
+ Total cash, cash equivalents and marketable securities 
+ 
+ $ 
+ 3,382.2 
+ 
+ 
+ $ 
+ 5,884.0 
+ 
+ 
+ (42.5) 
+ % 
+ 
+ Borrowings: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Current portion of notes payable 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ 1,495.8 
+ 
+ 
+ nm 
+ 
+ Notes payable 
+ 
+ 7,426.2 
+ 
+ 
+ 4,459.0 
+ 
+ 
+ 66.5 
+ 
+ 
+ Total borrowings 
+ 
+ $ 
+ 7,426.2 
+ 
+ 
+ $ 
+ 5,954.8 
+ 
+ 
+ 24.7 
+ % 
+ 
+ Working Capital: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Current assets 
+ 
+ $ 
+ 6,887.1 
+ 
+ 
+ $ 
+ 8,381.8 
+ 
+ 
+ (17.8) 
+ % 
+ 
+ Current liabilities 
+ 
+ (3,742.2) 
+ 
+ 
+ (4,863.8) 
+ 
+ 
+ (23.1) 
+ 
+ 
+ Total working capital 
+ 
+ $ 
+ 3,144.9 
+ 
+ 
+ $ 
+ 3,518.0 
+ 
+ 
+ (10.6) 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ nm Not meaningful 
+ 
+ 
+ 
+ For the year ended December 31, 2020, certain significant cash flows were as follows: 
+ • $4.2 billion in net cash flows provided by operating activities, which reflected $1.9 billion of upfront payments and the premium on stock purchases made in connection with entering into our collaborations with Sage, Denali and Sangamo and recognized as research and development expenses; 
+ • $6.7 billion used for share repurchases; 
+ 
+ 
+ • $3.0 billion in proceeds received from the issuance of our 2020 Senior Notes; 
+ • $1.5 billion payment made for the redemption of our 2.90% Senior Notes due September 15, 2020, prior to their maturity; 
+ • $906.7 million in total net payments for income taxes; 
+ • $441.0 million used to purchase Sage common stock; 
+ 
+ 
+ 71 
+ 
+ Table of Contents 
+ 
+ 
+ • $423.7 million used to purchase Denali common stock; 
+ • $141.8 million used to purchase Sangamo common stock; and 
+ • $424.8 million used for purchases of property, plant and equipment. 
+ For the year ended December 31, 2019, certain significant cash flows were as follows: 
+ • $7.1 billion in net cash flows provided by operating activities; 
+ • $5.9 billion used for share repurchases; 
+ • $1.1 billion in total net payments for income taxes; 
+ • $923.7 million in proceeds received on the divestiture of our Hillerød, Denmark manufacturing operations, including the sale of raw materials that were remaining at the Hillerød facility on the closing date of this transaction; 
+ • $744.4 million payment made for our acquisition of NST, net of cash acquired; 
+ • $514.5 million used for purchases of property, plant and equipment; 
+ • $479.3 million in proceeds received on sales of strategic investments; 
+ • $300.0 million for the final contingent payment made to former shareholders of Fumapharm AG and holders of their rights; and 
+ • $155.0 million in payments made to Alkermes following the FDA's approval of VUMERITY. 
+ Overview 
+ We have historically financed our operating and capital expenditures primarily through cash flows earned through our operations. On April 30, 2020, we issued our 2020 Senior Notes for an aggregate principal amount of $3.0 billion. We expect our operating expenditures, particularly those related to research and development, clinical trials, commercialization of new products and international expansion to continue to grow. However, we expect to continue funding our current and planned operating requirements primarily through our cash flows earned from our operations as well as our existing cash resources and proceeds received from the issuance of our 2020 Senior Notes. Generic competition for TECFIDERA in the U.S. has begun and we believe that this competition will reduce our cash flow from operations in 2021 and will have a significant adverse impact on our future cash flows from operations. We believe that our existing funds, when combined with 
+ 
+ 
+ cash generated from operations and our access to additional financing resources, if needed, are sufficient to satisfy our operating, working capital, strategic alliance, milestone payment, capital expenditure and debt service requirements for the foreseeable future. In addition, we may choose to opportunistically return cash to shareholders and pursue other business initiatives, including acquisition and licensing activities. We may, from time to time, also seek additional funding through a combination of new collaborative agreements, strategic alliances and additional equity and debt financings or from other sources should we identify a significant new opportunity . 
+ Aducanumab 
+ In July 2020 we completed the submission of a BLA for the approval of aducanumab to the FDA. In August 2020 the FDA accepted the BLA and granted Priority Review with a PDUFA action date on March 7, 2021. In January 2021 the FDA extended the review period for the BLA for aducanumab by three months. The updated PDUFA action date is June 7, 2021. If we do not receive regulatory approval or are unable to successfully commercialize aducanumab, our financial condition, business and operations may be adversely affected. 
+ For additional information on certain risks that could negatively impact our financial position or future results of operations, please read ITEM 1A. R isk Factors and ITEM 7A. Quantitative and Qualitative Disclosures About Market Risk included in this report. 
+ Cash, Cash Equivalents and Marketable Securities 
+ Until required for another use in our business, we typically invest our cash reserves in bank deposits, certificates of deposit, commercial paper, corporate notes, U.S. and foreign government instruments, overnight reverse repurchase agreements and other interest-bearing marketable debt instruments in accordance with our investment policy. It is our policy to mitigate credit risk in our cash reserves and marketable securities by maintaining a well-diversified portfolio that limits the amount of exposure as to institution, maturity and investment type. In March 2020 there was a severe liquidity crisis in the capital markets, particularly with respect to securities with maturities of less than one year, due to the COVID-19 pandemic. This issue impacted pricing of securities in our portfolio as we attempted to decrease our marketable securities level and increase cash, leading to approximately $8.2 million in realized losses for the year ended December 31, 2020. We believe that actions taken by the U.S. Federal Reserve to enhance liquidity have stabilized the capital markets for the time being. 
+ 
+ 
+ 72 
+ 
+ Table of Contents 
+ 
+ 
+ As of December 31, 2020, we had cash, cash equivalents and marketable securities totaling approximately $3.4 billion compared to approximately $5.9 billion as of December 31, 2019. The net decrease in cash, cash equivalents and marketable securities at December 31, 2020, from December 31, 2019, was primarily due to cash used for share repurchases, the redemption of our 2.90% Senior Notes due September 15, 2020, upfront payments and stock purchases totaling $2.9 billion made in connection with entering into our collaborations with Sage, Denali and Sangamo and net purchases of property, plant and equipment, partially offset by cash flows from operations and net proceeds from the issuance of our 2020 Senior Notes. 
+ Investments and other assets in our consolidated balance sheet as of December 31, 2020 and 2019, include the carrying value of our investment in Samsung Bioepis of $620.2 million and $580.2 million, respectively. As Samsung Bioepis is a privately-held entity, our ability to liquidate our investment in Samsung Bioepis may be limited and we may realize significantly less than the value of such investment. The investment is also subject to foreign currency exchange fluctuations. 
+ In connection with our collaboration with Sangamo, we purchased approximately 24 million shares of Sangamo common stock in April 2020. As of December 31, 2020, the fair value of this investment was $333.7 million. In connection with our collaboration with Denali, we purchased approximately 13 million shares of Denali common stock in September 2020. As of December 31, 2020, the fair value of this investment was $935.7 million. In connection with our collaboration with Sage, we purchased approximately 6.2 million shares of Sage common stock in December 2020. As of December 31, 2020, the fair value of this investment was $433.9 million. 
+ Our investment in Ionis common stock had a fair value of $249.1 million and $329.6 million as of December 31, 2020 and 2019, respectively. 
+ For additional information on our collaboration arrangements with Ionis, Samsung Bioepis, Sangamo, Denali and Sage, please read Note 18, Collaborative and Other Relationships , to our consolidated financial statements included in this report. 
+ 
+ 
+ Borrowings 
+ In April 2020 we issued our 2020 Senior Notes for an aggregate principal amount of $3.0 billion, consisting of the following: 
+ • $1.5 billion aggregate principal amount of 2.25% Senior Notes due May 1, 2030; and 
+ • $1.5 billion aggregate principal amount of 3.15% Senior Notes due May 1, 2050. 
+ The following is a summary of our currently outstanding senior secured notes issued in 2015 (2015 Senior Notes): 
+ • $1.0 billion aggregate principal amount of 3.625% Senior Notes due September 15, 2022; 
+ • $1.75 billion aggregate principal amount of 4.05% Senior Notes due September 15, 2025; and 
+ • $1.75 billion aggregate principal amount of 5.20% Senior Notes due September 15, 2045. 
+ Our 2020 Senior Notes and our 2015 Senior Notes were issued at a discount and are amortized as additional interest expense over the period from issuance through maturity. 
+ In May 2020 we redeemed our 2.90% Senior Notes due September 15, 2020, with an aggregate principal amount of $1.5 billion. 
+ For a summary of the fair values of our outstanding borrowings as of December 31, 2020 and 2019, please read Note 7, Fair Value Measurements, to our consolidated financial statements included in this report. 
+ 2020 Credit Facility 
+ In January 2020 we entered into a $1.0 billion, five-year senior unsecured revolving credit facility under which we are permitted to draw funds for working capital and general corporate purposes. The terms of the revolving credit facility include a financial covenant that requires us not to exceed a maximum consolidated leverage ratio. This revolving credit facility replaced the revolving credit facility entered into in August 2015. As of December 31, 2020, we had no outstanding borrowings and were in compliance with all covenants under this facility. 
+ Working Capital 
+ Working capital is defined as current assets less current liabilities. Working capital was $3.1 billion and $3.5 billion as of December 31, 2020 and December 31, 2019, respectively. The change in working capital reflects a decrease in total current assets of approximately $1.5 billion and a decrease in total current liabilities of approximately $1.1 billion. 
+ 
+ 
+ 73 
+ 
+ Table of Contents 
+ 
+ 
+ The decrease in total current assets was primarily driven by a decrease in net cash, cash equivalents and marketable securities due to cash used for share repurchases, the redemption of our 2.90% Senior Notes due September 15, 2020, upfront payments and stock purchases totaling $2.9 billion made in connection with entering into our collaborations with Sage, Denali and Sangamo and net purchases of property, plant and equipment, partially offset by cash flows from operations and net proceeds from the issuance of our 2020 Senior Notes. 
+ The net decrease in current liabilities was primarily due to the redemption of our 2.90% Senior Notes due September 15, 2020, which were classified within current liabilities as of December 31, 2019, partially offset by an increase in accrued expenses and other. 
+ Share Repurchase Programs 
+ In October 2020 our Board of Directors authorized our 2020 Share Repurchase Program, which is a program to repurchase up to $5.0 billion of our common stock. Our 2020 Share Repurchase Program does not have an expiration date. All share repurchases under our 2020 Share Repurchase Program will be retired. Under our 2020 Share Repurchase Program, we repurchased and retired approximately 1.6 million shares of our common stock at a cost of approximately $400.0 million during the year ended December 31, 2020. 
+ In December 2019 our Board of Directors authorized our December 2019 Share Repurchase Program, which was a program to repurchase up to 
+ 
+ 
+ $5.0 billion of our common stock that was completed as of September 30, 2020. All shares repurchased under our December 2019 Share Repurchase Program were retired. Under our December 2019 Share Repurchase Program, we repurchased and retired approximately 16.7 million shares of our common stock at a cost of approximately $5.0 billion during the year ended December 31, 2020. 
+ In March 2019 our Board of Directors authorized our March 2019 Share Repurchase Program, which was a program to repurchase up to $5.0 billion of our common stock that was completed as of March 31, 2020. All shares repurchased under our March 2019 Share Repurchase Program were retired. Under our March 2019 Share Repurchase Program, we repurchased and retired approximately 4.1 million and 14.7 million shares of our common stock at a cost of approximately $1.3 billion and $3.7 billion during the years ended December 31, 2020 and 2019, respectively. 
+ In August 2018 our Board of Directors authorized our 2018 Share Repurchase Program, which was a program to repurchase up to $3.5 billion of our common stock that was completed as of June 30, 2019. All share repurchases under our 2018 Share Repurchase Program were retired. Under our 2018 Share Repurchase Program, we repurchased and retired approximately 8.9 million and 4.3 million shares of our common stock at a cost of approximately $2.1 billion and $1.4 billion during the years ended December 31, 2019 and 2018, respectively. 
+ 
+ Cash Flows 
+ The following table summarizes our cash flow activity: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Years Ended December 31, 
+ 
+ % Change 
+ 
+ 
+ 
+ 2020 vs. 2019 
+ 
+ 2019 vs. 2018 
+ 
+ (In millions, except percentages) 
+ 
+ 2020 
+ 
+ 2019 
+ 
+ 2018 
+ 
+ 
+ Net cash flows provided by operating activities 
+ 
+ $ 
+ 4,229.8 
+ 
+ 
+ $ 
+ 7,078.6 
+ 
+ 
+ $ 
+ 6,187.7 
+ 
+ 
+ (40.2) 
+ % 
+ 
+ 14.4 
+ % 
+ 
+ Net cash flows provided by (used in) investing activities 
+ 
+ (608.6) 
+ 
+ 
+ 470.5 
+ 
+ 
+ (2,046.3) 
+ 
+ 
+ (229.4) 
+ % 
+ 
+ nm 
+ 
+ Net cash flows used in financing activities 
+ 
+ (5,272.7) 
+ 
+ 
+ (5,860.4) 
+ 
+ 
+ (4,472.0) 
+ 
+ 
+ 10.0 
+ 
+ 
+ (31.0) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ nm Not meaningful 
+ 
+ 
+ 
+ Operating Activities 
+ Cash flows from operating activities represent the cash receipts and disbursements related to all of our activities other than investing and financing activities. We expect cash provided from operating activities will continue to be our primary source of funds to finance operating needs and capital expenditures for the foreseeable future. 
+ 
+ 
+ 
+ Operating cash flow is derived by adjusting our net income for: 
+ • non-cash operating items such as depreciation and amortization, impairment charges, unrealized gain (loss) on strategic investments, acquired IPR&D and share-based compensation; 
+ • changes in operating assets and liabilities, which reflect timing differences between the receipt and payment of cash associated with 
+ 
+ 
+ 74 
+ 
+ Table of Contents 
+ 
+ 
+ transactions and when they are recognized in results of operations; and 
+ • changes in the fair value of contingent payments associated with our acquisitions of businesses and payments related to collaborations. 
+ For 2020 compared to 2019, the decrease in net cash flows provided by operating activities was primarily due to lower net income as well as increases in certain working capital asset balances. Net income in 2020 reflected approximately $1,084.0 million, $601.3 million and $208.0 million of upfront payments made in connection with entering into our collaborations with Sage, Denali and Sangamo, respectively. 
+ Investing Activities 
+ For 2020 compared to 2019, the increase in net cash flows used in investing activities was primarily 
+ 
+ 
+ due to the purchases of the common stock of Sangamo, Denali and Sage totaling $1.0 billion during 2020 and proceeds of $923.7 million received in 2019 related to the divestiture of our Hillerød, Denmark manufacturing operations, partially offset by higher proceeds received from the sale of investments as compared to the prior year. 
+ Financing Activities 
+ For 2020 compared to 2019, the decrease in net cash flows used in financing activities was primarily due to the net proceeds received from the issuance of our 2020 Senior Notes offset by a higher amount spent on shares repurchased in 2020 as compared to the comparative period in 2019 and the redemption of our 2.90% Senior Notes due September 15, 2020. 
+ 
+ Contractual Obligations and Off-Balance Sheet Arrangements 
+ Contractual Obligations 
+ The following table summarizes our contractual obligations as of December 31, 2020, excluding amounts related to uncertain tax positions, funding commitments, contingent development, regulatory and commercial milestone payments, contingent payments and contingent consideration related to our business combinations, as described below. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Payments Due by Period 
+ 
+ (In millions) 
+ 
+ Total 
+ 
+ Less than 1 Year 
+ 
+ 1 to 3 Years 
+ 
+ 3 to 5 Years 
+ 
+ After 5 Years 
+ 
+ 
+ Non-cancellable operating leases (1)(2) 
+ 
+ $ 
+ 387.8 
+ 
+ 
+ $ 
+ 70.3 
+ 
+ 
+ $ 
+ 123.6 
+ 
+ 
+ $ 
+ 89.6 
+ 
+ 
+ $ 
+ 104.3 
+ 
+ 
+ 
+ Long-term debt obligations (3) 
+ 
+ 11,853.0 
+ 
+ 
+ 279.1 
+ 
+ 
+ 1,512.9 
+ 
+ 
+ 2,218.0 
+ 
+ 
+ 7,843.0 
+ 
+ 
+ 
+ Purchase and other obligations (4) 
+ 
+ 1,248.0 
+ 
+ 
+ 398.3 
+ 
+ 
+ 420.0 
+ 
+ 
+ 424.6 
+ 
+ 
+ 5.1 
+ 
+ 
+ Defined benefit obligation 
+ 
+ 151.2 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ 151.2 
+ 
+ 
+ Total contractual obligations 
+ 
+ $ 
+ 13,640.0 
+ 
+ 
+ $ 
+ 747.7 
+ 
+ 
+ $ 
+ 2,056.5 
+ 
+ 
+ $ 
+ 2,732.2 
+ 
+ 
+ $ 
+ 8,103.6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) We lease properties and equipment for use in our operations. Amounts reflected within the table above detail future minimum rental commitments under non-cancelable operating leases as of December 31 for each of the periods presented. In addition to the minimum rental commitments, these leases may require us to pay additional amounts for taxes, insurance, maintenance and other operating expenses. 
+ (2) Obligations are presented net of sublease income expected to be received for our vacated small-scale biologics manufacturing facility in Cambridge, MA, the vacated portion of our Weston, MA facility and other facilities throughout the world. 
+ (3) Long-term debt obligations are related to our 2015 Senior Notes and our 2020 Senior Notes, including principal and interest payments. 
+ (4) Purchase and other obligations include $697.0 million related to the remaining payments on a one-time mandatory deemed repatriation tax on accumulated foreign subsidiaries' previously untaxed foreign earnings (the Transition Toll Tax) and $217.2 million related to the fair value of net liabilities on derivative contracts. 
+ 
+ 
+ Royalty Payments 
+ TYSABRI 
+ In 2013 we acquired from Elan Pharma International Ltd. (Elan), an affiliate of Elan Corporation plc, full ownership of all remaining rights to TYSABRI that we did not already own or control. Under the acquisition agreement, we are obligated to make contingent payments to Elan of 18.0% on annual worldwide net sales up to $2.0 billion and 25.0% on annual worldwide net sales that exceed $2.0 billion. Royalty payments to Elan and other third 
+ 
+ 
+ parties are recognized as cost of sales in our consolidated statements of income. Elan was acquired by Perrigo Company plc (Perrigo) in December 2013 and Perrigo subsequently sold its rights to these payments to a third-party effective January 2017. 
+ SPINRAZA 
+ In 2016 we exercised our option to develop and commercialize SPINRAZA from Ionis. Under our agreement with Ionis, we make royalty payments to Ionis on annual worldwide net sales of SPINRAZA 
+ 
+ 
+ 75 
+ 
+ Table of Contents 
+ 
+ 
+ using a tiered royalty rate between 11.0% and 15.0%, which are recognized as cost of sales in our consolidated statements of income. For additional information on our collaboration arrangements with Ionis, please read Note 18, Collaborative and Other Relationships , to our consolidated financial statements included in this report. 
+ VUMERITY 
+ In October 2019 the FDA approved VUMERITY for the treatment of RMS. Under our agreement with Alkermes, we make royalty payments to Alkermes on worldwide net commercial sales of VUMERITY using a royalty rate of 15.0%, which are recorded as cost of sales in our consolidated statements of income. Royalties payable on net commercial sales of VUMERITY are subject, under certain circumstances, to tiered minimum annual payment requirements for a period of five years following FDA approval. For additional information on our collaboration arrangement with Alkermes, please read Note 18, Collaborative and Other Relationships , to our consolidated financial statements included in this report. 
+ Contingent Consideration related to Business Combinations 
+ In connection with our acquisition of Convergence Pharmaceuticals Ltd. we agreed to make additional payments based upon the achievement of certain milestone events. 
+ We recognized the contingent consideration liabilities associated with these transactions at their fair value on the acquisition date and revalue these obligations each reporting period. We may pay up to approximately $400.0 million in remaining milestones related to these acquisitions. 
+ Contingent Development, Regulatory and Commercial Milestone Payments 
+ Based on our development plans as of December 31, 2020, we could trigger potential future milestone payments to third parties of up to approximately $10.2 billion, including approximately $1.9 billion in development milestones, approximately $1.3 billion in regulatory milestones and approximately $7.0 billion in commercial milestones, as part of our various collaborations, including licensing and development programs. Payments under these agreements generally become due and payable upon achievement of certain development, regulatory or commercial milestones. Because the achievement of these milestones was not considered probable as of December 31, 2020, such contingencies have not been recorded in our financial statements. Amounts related to contingent milestone payments are not considered contractual obligations as they are 
+ 
+ 
+ contingent on the successful achievement of certain development, regulatory or commercial milestones. 
+ If certain clinical and commercial milestones are met, we may pay up to $86.2 million in milestones in 2021 under our current agreements. Additionally, if aducanumab receives regulatory approval in the jurisdictions where we have submitted filings, we may pay up to $200.0 million in milestones to Neurimmune in 2021, which includes $100.0 million if launched in the U.S., $50.0 million if launched in three or more countries within the E.U. and $50.0 million if launched in Japan. Milestones payable to Neurimmune are shared expenses under the Aducanumab Collaboration Agreement with Eisai. 
+ During the second quarter of 2020, we paid Neurimmune $75.0 million upon the completed submission of the BLA for the approval of aducanumab to the FDA, which was recognized as a charge to noncontrolling interests for the year ended December 31, 2020. In addition, for the year ended December 31, 2020, we recognized net profit-sharing income of $33.8 million to reflect Eisai's 45.0% share of the $75.0 million milestone expense. 
+ For additional information on our collaboration arrangements with Eisai, please read Note 18, Collaborative and Other Relationships , to our consolidated financial statements included in this report. 
+ For additional information on our collaboration arrangement with Neurimmune, please read Note 19, Investments in Variable Interest Entities , to our consolidated financial statements included in this report. 
+ Other Funding Commitments 
+ As of December 31, 2020, we have several ongoing clinical studies in various clinical trial stages. Our most significant clinical trial expenditures are to CROs. The contracts with CROs are generally cancellable, with notice, at our option. We recorded accrued expenses of approximately $21.7 million in our consolidated balance sheet for expenditures incurred by CROs as of December 31, 2020. We have approximately $593.0 million in cancellable future commitments based on existing CRO contracts as of December 31, 2020. 
+ As part of the sale of our Hillerød, Denmark manufacturing operations to FUJIFILM, we provided FUJIFILM with certain minimum batch production commitment guarantees. There is a risk that the minimum contractual batch production commitments will not be met. Based upon current estimates we do not expect to incur an adverse commitment obligation associated with such guarantees. We developed this estimate using a probability-weighted estimate of 
+ 
+ 
+ 76 
+ 
+ Table of Contents 
+ 
+ 
+ future manufacturing activity and may further adjust this estimate based upon changes in business conditions, which may result in the increase or reduction of this adverse commitment obligation in subsequent periods. 
+ Tax Related Obligations 
+ We exclude liabilities pertaining to uncertain tax positions from our summary of contractual obligations as we cannot make a reliable estimate of the period of cash settlement with the respective taxing authorities. As of December 31, 2020, we have approximately $79.6 million of liabilities associated with uncertain tax positions. 
+ As of December 31, 2020 and 2019, included in other long-term liabilities we have accrued approximately $697.0 million, respectively, under a one-time mandatory deemed repatriation tax on accumulated foreign subsidiaries' previously untaxed foreign earnings (the Transition Toll Tax). Of the amounts accrued as of December 31, 2020, $62.0 million is expected to be paid within one year. The Transition Toll Tax will be paid over an eight--year period, which started in 2018, and does not accrue interest. 
+ Other Off-Balance Sheet Arrangements 
+ We do not have any relationships with entities often referred to as structured finance or special purpose entities that were established for the purpose of facilitating off-balance sheet arrangements. As such, we are not exposed to any financing, liquidity, market or credit risk that could arise if we had engaged in such relationships. We consolidate variable interest entities if we are the primary beneficiary. 
+ 
+ New Accounting Standards 
+ For a discussion of new accounting standards please read Note 1, Summary of Significant Accounting Policies, to our consolidated financial statements included in this report. 
+ 
+ Legal Matters 
+ For a discussion of legal matters as of December 31, 2020, please read Note 20, Litigation, to our consolidated financial statements included in this report. 
+ 
+ Critical Accounting Policies and Estimates 
+ The preparation of our consolidated financial statements, which have been prepared in accordance with accounting principles generally accepted in the U.S. (U.S. GAAP), requires us to make estimates, judgments and assumptions that may affect the 
+ 
+ 
+ reported amounts of assets, liabilities, equity, revenues and expenses and related disclosure of contingent assets and liabilities. On an ongoing basis we evaluate our estimates, judgments and methodologies. We base our estimates on historical experience and on various other assumptions that we believe are reasonable, the results of which form the basis for making judgments about the carrying values of assets, liabilities and equity and the amount of revenues and expenses. Actual results may differ from these estimates. Other significant accounting policies are outlined in Note 1, Summary of Significant Accounting Policies , to our consolidated financial statements included in this report. 
+ Revenue Recognition 
+ We recognize revenues when our customer obtains control of promised goods or services, in an amount that reflects the consideration which we expect to receive in exchange for those goods or services. We recognize revenues following the five-step model prescribed under Financial Accounting Standards Board (FASB) Accounting Standards Codification 606, Revenue from Contracts with Customers : (i) identify contract(s) with a customer; (ii) identify the performance obligations in the contract; (iii) determine the transaction price; (iv) allocate the transaction price to the performance obligations in the contract; and (v) recognize revenues when (or as) we satisfy the performance obligation. 
+ Product Revenues 
+ In the U.S., we sell our products primarily to wholesale distributors and specialty pharmacy providers. In other countries, we sell our products primarily to wholesale distributors, hospitals, pharmacies and other third-party distribution partners. These customers subsequently resell our products to health care providers and patients. In addition, we enter into arrangements with health care providers and payors that provide for government-mandated or privately-negotiated discounts and allowances related to our products. 
+ Product revenues are recognized when the customer obtains control of our product, which occurs at a point in time, typically upon delivery to the customer. We expense incremental costs of obtaining a contract as and when incurred if the expected amortization period of the asset that we would have recognized is one year or less or the amount is immaterial. 
+ Reserves for Discounts and Allowances 
+ Product revenues are recorded net of reserves established for applicable discounts and allowances that are offered within contracts with our customers, health care providers or payors, including those 
+ 
+ 
+ 77 
+ 
+ Table of Contents 
+ 
+ 
+ associated with the implementation of pricing actions in certain of the international markets in which we operate. Our process for estimating reserves established for these variable consideration components do not differ materially from our historical practices. 
+ Product revenue reserves, which are classified as a reduction in product revenues, are generally characterized in the following categories: discounts, contractual adjustments and returns. 
+ These reserves are based on estimates of the amounts earned or to be claimed on the related sales and are classified as reductions of accounts receivable (if the amount is payable to our customer) or a liability (if the amount is payable to a party other than our customer). Our estimates of reserves established for variable consideration are calculated based upon a consistent application of our methodology utilizing the expected value method. These estimates reflect our historical experience, current contractual and statutory requirements, specific known market events and trends, industry data and forecasted customer buying and payment patterns. The transaction price, which includes variable consideration reflecting the impact of discounts and allowances, may be subject to constraint and is included in the net sales price only to the extent that it is probable that a significant reversal of the amount of cumulative revenues recognized will not occur in a future period. Actual amounts may ultimately differ from our estimates. If actual results vary, we adjust these estimates, which could have an effect on earnings in the period of adjustment. 
+ In addition to discounts, rebates and product returns, we also maintain certain customer service contracts with distributors and other customers in the distribution channel that provide us with inventory management, data and distribution services, which are generally reflected as a reduction of revenues. To the extent we can demonstrate a separable benefit and fair value for these services we classify these payments in selling, general and administrative expenses. 
+ For additional information on our revenues, please read Note 4, Revenues , to our consolidated financial statements included in this report. 
+ Acquired Intangible Assets, including IPR&D 
+ When we purchase a business, the acquired IPR&D is measured at fair value, capitalized as an intangible asset and tested for impairment at least annually, as of October 31, until commercialization, after which time the IPR&D is amortized over its estimated useful life. If we acquire an asset or group of assets that do not meet the definition of a 
+ 
+ 
+ business under applicable accounting standards, the acquired IPR&D is expensed on its acquisition date. Future costs to develop these assets are recorded to research and development expense as they are incurred. 
+ We have acquired, and expect to continue to acquire, intangible assets through the acquisition of biotechnology companies or through the consolidation of variable interest entities. These intangible assets primarily consist of technology associated with human therapeutic products and IPR&D product candidates. When significant identifiable intangible assets are acquired, we generally engage an independent third-party valuation firm to assist in determining the fair values of these assets as of the acquisition date. Management will determine the fair value of less significant identifiable intangible assets acquired. Discounted cash flow models are typically used in these valuations, and these models require the use of significant estimates and assumptions including but not limited to: 
+ • estimating the timing of and expected costs to complete the in-process projects; 
+ • projecting regulatory approvals; 
+ • estimating future cash flows from product sales resulting from completed products and in process projects; and 
+ • developing appropriate discount rates and probability rates by project. 
+ We believe the fair values assigned to the intangible assets acquired are based upon reasonable estimates and assumptions given available facts and circumstances as of the acquisition dates. 
+ If these projects are not successfully developed, the sales and profitability of the company may be adversely affected in future periods. Additionally, the value of the acquired intangible assets may become impaired. No assurance can be given that the underlying assumptions used to estimate expected project sales, development costs or profitability, or the events associated with such projects, will transpire as estimated. 
+ Impairment and Amortization of Long-lived Assets and Accounting for Goodwill 
+ Long-lived Assets Other than Goodwill 
+ Long-lived assets to be held and used include property, plant and equipment as well as intangible assets, including IPR&D and trademarks. Property, plant and equipment are reviewed for impairment whenever events or changes in circumstances indicate that the carrying amount of the assets may not be recoverable. We review our intangible assets 
+ 
+ 
+ 78 
+ 
+ Table of Contents 
+ 
+ 
+ with indefinite lives for impairment annually, as of October 31, and whenever events or changes in circumstances indicate that the carrying value of an asset may not be recoverable. 
+ When performing our impairment assessment, we calculate the fair value using the same methodology as described above under Acquired Intangible Assets, including IPR&D . If the carrying value of our acquired IPR&D exceeds its fair value, then the intangible asset is written down to its fair value. Changes in the estimates and assumptions used in determining the fair value of our acquired IPR&D could result in an impairment. Impairments are recorded within amortization and impairment of acquired intangible assets in our consolidated statements of income. Assets that have previously been impaired, including our vixotrigine program for the potential treatment of neuropathic pain, such as TGN, could become further impaired in the future. 
+ Our most significant intangible assets are our acquired and in-licensed rights and patents. Acquired and in-licensed rights and patents primarily relate to our acquisition of all remaining rights to TYSABRI from Elan. We amortize the intangible assets related to our TYSABRI, AVONEX, SPINRAZA, VUMERITY and TECFIDERA (rest of world) products using the economic consumption method based on revenues generated from the products underlying the related intangible assets. An analysis of the anticipated lifetime revenues of TYSABRI, AVONEX, SPINRAZA, VUMERITY and TECFIDERA (rest of world) is performed annually during our long-range planning cycle and whenever events or changes in circumstances would significantly affect the anticipated lifetime revenues of our TYSABRI, AVONEX, SPINRAZA, VUMERITY or TECFIDERA (rest of world) products. 
+ For additional information on the impairment charges related to our long-lived assets during 2020, 2019 and 2018, please read Note 6, Intangible Assets and Goodwill, to our consolidated financial statements included in this report. 
+ Goodwill 
+ Goodwill relates largely to amounts that arose in connection with the merger of Biogen, Inc. and IDEC Pharmaceuticals Corporation in 2003 and amounts that were paid in connection with the acquisition of Fumapharm AG. Our goodwill balances represent the difference between the purchase price and the fair value of the identifiable tangible and intangible net assets when accounted for using the purchase method of accounting. 
+ We assess our goodwill balance within our single reporting unit annually, as of October 31, and whenever events or changes in circumstances indicate the carrying value of goodwill may not be 
+ 
+ 
+ recoverable to determine whether any impairment in this asset may exist and, if so, the extent of such impairment. We compare the fair value of our reporting unit to its carrying value. If the carrying value of the net assets assigned to the reporting unit exceeds the fair value of our reporting unit, we would record an impairment loss equal to the difference. 
+ We completed our required annual impairment test in the fourth quarters of 2020, 2019 and 2018 and determined in each of those periods that the carrying value of goodwill was not impaired. In each year, the fair value of our reporting unit, which includes goodwill, was significantly in excess of the carrying value of our reporting unit. 
+ Contingent Consideration 
+ We record contingent consideration resulting from a business combination at its fair value on the acquisition date. Each reporting period thereafter, we revalue the remaining obligations and record increases or decreases in their fair value as an adjustment to contingent consideration expense in our consolidated statements of income. Changes in the fair value of our contingent consideration obligations can result from changes to one or multiple inputs, including adjustments to the discount rates and achievement and timing of any cumulative sales-based and development milestones or changes in the probability of certain clinical events and changes in the assumed probability associated with regulatory approval. These fair value measurements represent Level 3 measurements as they are based on significant inputs not observable in the market. 
+ Significant judgment is employed in determining the appropriateness of these assumptions as of the acquisition date and for each subsequent period. Accordingly, changes in assumptions described above, could have a material impact on the amount of contingent consideration expense we record in any given period. 
+ Income Taxes 
+ We prepare and file income tax returns based on our interpretation of each jurisdiction’s tax laws and regulations. In preparing our consolidated financial statements, we estimate our income tax liability in each of the jurisdictions in which we operate by estimating our actual current tax expense together with assessing temporary differences resulting from differing treatment of items for tax and financial reporting purposes. These differences result in deferred tax assets and liabilities, which are included in our consolidated balance sheets. Upon our election in the fourth quarter of 2018 to record deferred taxes for global intangible low-taxed income (GILTI), we have included amounts related to GILTI taxes within temporary difference. Significant management 
+ 
+ 
+ 79 
+ 
+ Table of Contents 
+ 
+ 
+ judgment is required in assessing the realizability of our deferred tax assets. In performing this assessment, we consider whether it is more likely than not that some portion or all of the deferred tax assets will not be realized. The ultimate realization of deferred tax assets is dependent upon the generation of future taxable income during the periods in which those temporary differences become deductible. In making this determination, under the applicable financial accounting standards, we are allowed to consider the scheduled reversal of deferred tax liabilities, projected future taxable income and the effects of tax planning strategies. In the event that actual results differ from our estimates, we adjust our estimates in future periods and we may need to establish a valuation allowance, which could materially impact our consolidated financial position and results of operations. 
+ We account for uncertain tax positions using a “more likely than not” threshold for recognizing and resolving uncertain tax positions. We evaluate uncertain tax positions on a quarterly basis and consider various factors including, but not limited to, changes in tax law, the measurement of tax positions taken or expected to be taken in tax returns, the effective settlement of matters subject to audit, information obtained during in process audit activities and changes in facts or circumstances related to a tax position. We adjust the level of the liability to reflect any subsequent changes in the relevant facts surrounding the uncertain positions. Our liabilities for uncertain tax positions can be relieved only if the contingency becomes legally extinguished, through either payment to the taxing authority or the expiration of the statute of limitations, the recognition of the benefits associated with the position meet the “more likely than not” threshold or the liability becomes effectively settled through the examination process. We consider matters to be effectively settled once the taxing authority has completed all of its required or expected examination procedures, including all appeals and administrative reviews, we have no plans to appeal or litigate any aspect of the tax position and we believe that it is highly unlikely that the taxing authority would examine or re-examine the related tax position. We also accrue for potential interest and penalties related to unrecognized tax benefits in income tax expense. 
+ 

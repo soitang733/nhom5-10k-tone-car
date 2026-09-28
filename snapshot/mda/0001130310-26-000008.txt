@@ -1,0 +1,7740 @@
+ ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations 
+ 
+ The following combined discussion and analysis should be read in combination with the consolidated financial statements included in ITEM 8 herein. The discussion of CenterPoint Energy’s consolidated financial information includes the results of CenterPoint Energy Houston Electric, LLC and CenterPoint Energy Resources Corp., which, along with CenterPoint Energy, Inc., are collectively referred to as the Registrants. Where appropriate, information relating to a specific Registrant has been segregated and labeled as such. Unless the context indicates otherwise, specific references to Houston Electric and CERC also pertain to CenterPoint Energy. In this combined Form 10-K, the terms “our,” “we” and “us” are used as abbreviated references to CenterPoint Energy, Inc. together with its consolidated subsidiaries, including Houston Electric and CERC, unless otherwise stated. No Registrant makes any representation as to the information relating to the other Registrants or the subsidiaries of CenterPoint Energy, Inc. other than itself or its subsidiaries. 
+ 
+ 
+ OVERVIEW 
+ 
+ Background 
+ 
+ CenterPoint Energy is a public utility holding company. CenterPoint Energy’s operating subsidiaries own and operate electric transmission, distribution and generation facilities and natural gas distribution systems. For a detailed description of CenterPoint Energy’s operating subsidiaries, see Note 1 to the consolidated financial statements. 
+ 
+ Houston Electric is an indirect, wholly-owned subsidiary of CenterPoint Energy, which provides electric transmission service to transmission service customers in the ERCOT region and distribution service to REPs serving the Texas Gulf Coast area that includes the city of Houston. 
+ 
+ 
+ 50 
+ 
+ 
+ 
+ CERC Corp. is an indirect, wholly-owned subsidiary of CenterPoint Energy, which (i) directly owns and operates natural gas distribution systems in Minnesota and Texas, (ii) indirectly, through Indiana Gas and CEOH, owns and operates natural gas distribution systems in Indiana and Ohio, respectively, and (iii) owns and operates permanent pipeline connections through interconnects with various interstate and intrastate pipeline companies through CEIP. 
+ 
+ On October 20, 2025, CenterPoint Energy, through its subsidiary CERC Corp., entered into the Ohio Securities Purchase Agreement to sell all of the issued and outstanding equity interests in CEOH. The transaction is expected to close in the fourth quarter of 2026, subject to the satisfaction of customary closing conditions. For further information, see Note 4 to the consolidated financial statements. 
+ 
+ Reportable Segments 
+ 
+ We discuss our operating results on a consolidated basis and individually for each of our reportable segments. We are first and foremost an energy delivery company and it is our intention to remain focused on these regulated segments. The results of our business operations are significantly impacted by weather, customer growth, economic conditions, cost management, competition, rate proceedings before regulatory agencies and other actions of the various regulatory agencies to whose jurisdiction we are subject, among other factors. 
+ 
+ Below is a summary of CenterPoint Energy’s reportable segments as of December 31, 2025. For a detailed description of each reportable segment, as well as the assets included in each reportable segment, see Part I, ITEM 1. Business and ITEM 2. Properties. 
+ 
+ • The Electric reportable segment consisted of electric transmission and distribution services in the Texas Gulf Coast area in the ERCOT region and electric transmission and distribution services primarily to southwestern Indiana and includes power generation and wholesale power operations in the MISO region. 
+ 
+ • The Natural Gas reportable segment consisted of (i) intrastate natural gas sales to, and natural gas transportation and distribution for, residential, commercial and industrial customers in Indiana, Minnesota, Ohio and Texas; (ii) permanent pipeline connections through interconnects with various interstate and intrastate pipeline companies through CEIP; (iii) residential appliance repair and maintenance services along with HVAC equipment sales to customers in Minnesota; and (iv) home repair protection plans to natural gas customers in Indiana, Ohio and Texas through a third party. The Louisiana and Mississippi natural gas LDC businesses were included in the Natural Gas reportable segment through March 31, 2025. See Note 4 for additional detail. 
+ 
+ • The Corporate and Other reportable segment consisted of (i) energy performance contracting and sustainable infrastructure services by Energy Systems Group through June 30, 2023, the date of the sale of Energy Systems Group; (ii) corporate support operations that support all of CenterPoint Energy’s business operations; and (iii) office buildings and other real estate used for business operations. 
+ 
+ Houston Electric and CERC each consist of a single reportable segment. 
+ 
+ 
+ EXECUTIVE SUMMARY 
+ 
+ We expect our businesses to continue to be affected by the key factors and trends discussed below. Our expectations are based on assumptions made by us and information currently available to us. To the extent our underlying assumptions about, or interpretations of, available information prove to be incorrect, our actual results may vary materially from our expected results. 
+ 
+ Factors Influencing Our Businesses and Industry Trends 
+ 
+ We are an energy delivery company with electric transmission, distribution and generation operations and natural gas distribution operations that serve more than seven million metered customers across four states. The majority of our revenues are generated from the transmission and delivery of electricity and the sale of natural gas by our subsidiaries. 
+ 
+ We continue to execute on our strategic goals for our businesses that were set in September 2025. Pursuant to this business strategy and in light of the nature of our businesses, significant capital investments are reflected in our new 10-year capital plan. In September 2025, we announced our new 10-year capital plan to invest $65 billion from 2026 through 2035, inclusive of a $2 billion increase in previously planned capital expenditures through 2030, and in February 2026, we announced an additional increase to reflect total expenditures of approximately $65.5 billion. Our 10-year capital plan is intended to advance economic 
+ 
+ 
+ 51 
+ 
+ 
+ growth, improve the experience of our customers through enhancing the safety, reliability and resiliency of our systems and deliver consistent value for stakeholders across the jurisdictions in which we operate. These investments are not only intended to meet our customers’ current needs, but are also in anticipation of future organic growth from a diverse set of economic drivers. This organic growth is anticipated to result in rapid load growth in our service territories (as further discussed below). To fund these capital investments, we rely on internally-generated cash, borrowings under our credit facilities, proceeds from commercial paper, cash proceeds from strategic transactions (such as our Energy Systems Group divestiture in 2023, the sale of our Louisiana and Mississippi natural gas LDC businesses in 2025 and the announced sale of our Ohio natural gas LDC business, which is expected to close in the fourth quarter of 2026) and issuances of equity and debt securities in the capital markets, including the issuance of non-recourse system restoration bonds at Houston Electric to recover costs incurred primarily during the year ended December 31, 2024 due to the May 2024 Storm Events, as well as Hurricane Beryl and other significant storms. 
+ 
+ We strive to maintain investment grade ratings for our debt securities to access the capital markets on terms we consider reasonable. A reduction in our ratings generally would result in an increase in our borrowing costs for new issuances of debt, as well as borrowing costs under our existing revolving credit facilities, and may prevent us from accessing the commercial paper markets. Disruptions in the financial markets along with high or rising interest rates can also affect the availability of external financing on terms we consider attractive. In those circumstances, we may not be able to obtain certain types of external financing or may be required to accept terms less favorable than we would otherwise accept which, among other things, would negatively impact our ability to finance our capital plan. For that reason, we seek to maintain adequate liquidity for our businesses through existing credit facilities and prudent refinancing of existing debt. 
+ 
+ Approximately 85% of our rate base has been subject to a rate case since the beginning of 2023, which supports clarity and stability through 2029 with final orders improving enterprise weighted average returns on equity. Additionally, approximately 85% of CenterPoint Energy’s projected consolidated investments are expected to be recovered through interim capital recovery trackers or rate cases based on a forward test year. For additional detail, see “—Liquidity and Capital Resources —Regulatory Matters” below. 
+ 
+ To assess our financial performance, our management primarily monitors the recovery of costs and return on investments by evaluating net income and capital expenditures, among other metrics, from our regulated service territories within our reportable segments. Within these broader financial measures, we monitor margins, natural gas and fuel costs, interest expense, capital spend, working capital requirements and operation and maintenance expense, among other significant metrics. In addition to these financial measures, we also monitor a number of variables that management considers important to gauge the performance of our reportable segments, including the number of customers, throughput, commodity prices, heating and cooling degree days, safety factors, system reliability and customer satisfaction. 
+ 
+ CenterPoint Energy and CERC have weather normalization or other rate mechanisms that largely mitigate the impact of weather on their natural gas distribution businesses in Indiana, Minnesota and Ohio, as applicable. CenterPoint Energy’s and CERC’s natural gas distribution businesses in Texas and CenterPoint Energy’s electric operations in Texas and Indiana do not have such mechanisms. As a result, fluctuations from normal weather may have a positive or negative effect on CenterPoint Energy’s and CERC’s natural gas distribution business’ results in Texas and on CenterPoint Energy’s electric operations’ results in its Texas and Indiana service territories. 
+ 
+ Management anticipates significant growth in electric demand over the next decade, especially in our Houston Electric territory where we forecast a nearly 50% increase in peak electric load demand to over 30 GW by 2029 and the demand nearly doubling by the mid 2030s, as compared to 2024. It is expected that the significant forecasted growth in this service territory will be driven by a diverse set of economic drivers, including data centers, energy refining and exports, advanced manufacturing and logistics. Management additionally believes that there are increased electric demand opportunities in our Indiana Electric jurisdiction; accordingly, Indiana Electric’s 2025 IRP included a large load scenario with a corresponding alternative preferred portfolio. Additionally, management expects residential meter growth for Houston Electric to remain in line with long-term trends at approximately 2% annually. As discussed above, a significant portion of the planned investments in our new 10-year capital plan are intended to support this growth. There is significant uncertainty with respect to the forecasted load growth and our ability to capitalize on the opportunities presented by these developments. For more information regarding such risks, see Part I, ITEM 1A. “Risk Factors — General and Other Risks — We are exposed to risks related to changes in demand and energy consumption...” Typical customer growth in the jurisdictions served by the Natural Gas reportable segment is approximately 1% annually. Management expects residential meter growth for CERC to remain in line with long-term trends at approximately 1% annually. Nevertheless, this expected growth may be partially offset by adverse economic conditions, coupled with concerns for protecting the environment and increased availability of alternate energy sources, which may cause consumers to use less energy or avoid expansions of their facilities, including natural gas facilities. Long-term national trends indicate residential customers have reduced their energy consumption, which could adversely affect 
+ 
+ 
+ 52 
+ 
+ 
+ our results. To the extent population growth is affected by lower energy prices and there is financial pressure on some of our customers who operate within the energy industry, there may be an impact on the growth rate of our customer base and overall demand for our services. 
+ 
+ Macroeconomic and geopolitical developments, including high rates of inflation, supply chain disruptions, labor market constraints, tariffs, high interest rates, general economic slowdown and escalating global conflicts can impact our business, financial condition, results of operations and cash flow, including adversely impacting our ability to execute on our 10-year capital plan. Inflation and high interest rates have contributed, and may continue to contribute, to increased prices for materials and services experienced by us and other companies in our industry. Further, the global supply chain has experienced and may continue to experience significant disruptions due to a multitude of factors, such as geopolitical and economic uncertainty, regulatory and policy instability, tariffs and other changes in U.S. and foreign trade policy, changes in laws (including tax laws), executive orders, labor shortages, resource availability, long lead times, manufacturer production limitations, delivery delays, inflation, severe weather events and disruptions to internal or international shipping, including as a result of armed conflicts. We have also faced, and may continue to face, a shortage of experienced and qualified personnel in certain positions, which has resulted in increased competition for skilled labor and wage inflation. Additionally, increased demand for materials necessary for our business has resulted, and may continue to result, in greater competition for and scarcity of such materials. In 2025 and 2026, the U.S. government threatened, announced and, in certain cases, rescinded, tariffs on several foreign jurisdictions and imports (including steel) into the United States, which led, and may continue to lead, to the imposition of retaliatory tariffs and other measures taken by foreign jurisdictions. There is significant uncertainty as to the scope and durability of existing and future tariff measures, as well as the ultimate effects of the tariffs on economic conditions. These macroeconomic and geopolitical developments have adversely impacted the utility industry, and like many of our peers, we have experienced disruptions to our supply chain, as well as increased prices and scarcity of resources and labor, and we may continue to experience this in the future. These developments have impacted our financial results for the year ended December 31, 2025. We have taken actions across multiple vectors to reduce the impact of such developments on our results of operations, but if such conditions continue, they could negatively impact our ability to procure materials, supplies (such as natural gas) or services necessary for our business and 10-year capital plan at a reasonable cost in a timely manner, result in project cancellations or scope changes, delays, cost overruns, and under-recovery of costs and challenges to our ability to remain in compliance with applicable laws, regulations and policies, which could adversely affect our business, financial condition, results of operations and cash flows. For more information regarding such risk, see Part I, ITEM 1A. “Risk Factors — Risk Factors Affecting Financial, Economic and Market Risks — Disruptions to the global supply chain...” and “— Changes in U.S. or foreign trade policies.” 
+ 
+ The utility industry has experienced a period of rising costs and investments and an upward trend in spending, especially with respect to infrastructure investments. As noted above, we are making, and plan to continue to make, significant capital investments in our service territories under our 10-year capital plan to help operate and maintain safer, more reliable and growing electric and natural gas systems and support the electric demand growth that management is forecasting over the next decade. Rising costs and investments and the upward trend in spending are likely to continue in the foreseeable future and could result in more frequent rate cases and requests for, and the continuation of, cost recovery mechanisms. Increased rates and impacts on customer bills or the perceived potential for such impacts, particularly in the current economic environment, has caused and could continue to cause customer affordability concerns, resistance from customers and other stakeholders and increased political, regulatory, community and other scrutiny and pressures. For example, in consideration of customer affordability concerns, Indiana Electric cancelled nearly $1 billion in renewable energy generation projects in 2025. These matters could impact our ability to execute our 10-year capital plan, result in adverse ratemaking and cost recovery determinations, increased financing needs and otherwise adversely affect our business, financial condition, results of operations and cash flows. For more information regarding such risk, see Part I, ITEM 1A. “Risk Factors.” 
+ 
+ Significant Events 
+ 
+ Updated 10-Year Capital Plan. On September 29, 2025, CenterPoint Energy announced a new 10-year capital plan to invest $65 billion from 2026 through 2035, inclusive of a $2 billion increase in previously planned capital expenditures through 2030. On February 19, 2026, CenterPoint Energy announced an additional increase of $500 million to reflect total capital expenditures of approximately $65.5 billion through 2035. The plan is expected to advance economic growth, enhance the experience of the Registrants’ customers and deliver consistent value for stakeholders across the Registrants’ jurisdictions. 
+ 
+ Treasury Notice 2026-7. On February 18, 2026, Treasury Notice 2026-7 was issued. This notice clarifies the computation of AFSI by including an adjustment to deduct certain repair and maintenance costs that are capitalized in the applicable financial statement. While CenterPoint Energy is still evaluating this guidance, it expects a prospective reduction to its annual CAMT liability. Additionally, CenterPoint Energy expects to be able to amend prior year tax returns to claim a refund of CAMT paid. 
+ 
+ 
+ 53 
+ 
+ 
+ 
+ TEEEF. In June 2025, Houston Electric entered into the ERCOT Transaction, subject to PUCT approval, to release its 15 large (27 MW to 32 MW) TEEEF units to ERCOT at CPS Energy facilities to serve the greater San Antonio region until March 2027 unless terminated earlier pursuant to the provisions of the ERCOT Transaction, reduce its TEEEF fleet capacity and reduce its rates to reflect removal of the large TEEEF units from its fleet. Following the completion of service in the San Antonio area, Houston Electric anticipates that it would complete one or more future transactions involving its large TEEEF units. As the large TEEEF units would not be available to serve Houston Electric customers during such time, Houston Electric plans to continue to not charge customers for these units for any future periods. In November 2025, Houston Electric proposed to release its five medium (5.7 MW) TEEEF units and to remove the associated lease costs from its rates effective January 1, 2026. On February 13, 2026, Houston Electric requested continued abatement until February 27, 2026 due to continued settlement discussions. For additional information, see Note 7 to the consolidated financial statements. 
+ 
+ Debt Transactions. In 2025, CenterPoint Energy issued or borrowed a combined $3.7 billion of new debt, including: (i) SIGECO’s issuance of $515 million aggregate principal amount of its first mortgage bonds; (ii) Houston Electric’s issuance of $1.1 billion aggregate principal amount of its general mortgage bonds; (iii) Restoration Bond Company II’s issuance of approximately $401.5 million aggregate principal amount of its securitization bonds; (iv) CenterPoint Energy’s issuance of $1.0 billion aggregate principal amount of its convertible senior notes due 2028; and (v) CenterPoint Energy’s issuance of $700 million aggregate principal amount of its junior subordinated notes. During 2025, CenterPoint Energy repaid or redeemed a combined $61 million of outstanding debt, including $41 million of SIGECO’s first mortgage bonds and $20 million of Indiana Gas’s senior notes. In addition, CenterPoint Energy repurchased a combined of approximately $1.5 billion of outstanding debt in connection with settlement of its tender offers, including: (i) approximately $963 million of its senior notes; (ii) approximately $415 million of CERC’s senior notes; and (iii) approximately $234 million of Houston Electric’s general mortgage bonds. For further information about debt transactions in 2025, see Note 12 to the consolidated financial statements. In January 2026, CERC Corp. entered into a delayed draw term loan agreement pursuant to which the banks party thereto have committed to provide term loans in an aggregate principal amount of up to $800 million by March 30, 2026 in up to three separate borrowings, subject to the satisfaction or waiver of certain customary conditions. If not fully utilized, the term loan commitments expire on March 31, 2026. CERC Corp. borrowed $500 million on January 20, 2026, and expects to borrow the remaining $300 million during the first quarter of 2026. For further information, see Note 20 to the consolidated financial statements. 
+ 
+ Assets Held for Sale. On October 20, 2025, CenterPoint Energy, through its subsidiary CERC Corp., entered into the Ohio Securities Purchase Agreement, pursuant to which CERC Corp. has agreed to sell all of the issued and outstanding equity interests in CEOH. The purchase price is $2.62 billion, which is comprised of the following: (i) $1.42 billion in cash payable to CERC Corp. upon closing of the transaction, subject to adjustments as set forth in the Ohio Securities Purchase Agreement, including adjustments based on net working capital, regulatory assets and liabilities and capital expenditures at closing of the transaction; and (ii) a 364-day seller promissory note, in the original principal amount of $1.2 billion, to be issued by NFGC at the closing of the transaction and payable to CERC Corp. as provided by the terms and conditions of the Seller Note Agreement. The transaction is not subject to a financing condition and is expected to close in the fourth quarter of 2026, subject to satisfaction of customary closing conditions. As of December 31, 2025, the assets included approximately 6,000 miles of transmission and distribution pipeline in Ohio serving approximately 337,000 metered customers. CEOH is reflected in CenterPoint Energy’s Natural Gas reportable segment and CERC’s single reportable segment, as applicable. For further information, see Note 4 to the consolidated financial statements. 
+ 
+ CenterPoint Energy Board Leadership Structure Changes. On October 8, 2025, the Board unanimously appointed Jason P. Wells, Chief Executive Officer and President of CenterPoint Energy, to serve as Chair of the Board, effective immediately. Mr. Wells has served as a director on the Board since January 5, 2024. In addition, the Board approved the creation of a Lead Independent Director of the Board position and the independent directors of the Board unanimously appointed independent director Christopher H. Franklin to serve as the Lead Independent Director of the Board, effective immediately. 
+ 
+ CenterPoint Energy Appointment of Chief Operating Officer. On July 21, 2025, CenterPoint Energy announced the appointment of Jesus Soto, Jr. to the position of Executive Vice President and Chief Operating Officer of CenterPoint Energy, effective August 11, 2025. 
+ 
+ OBBBA and Executive Order 14315. On July 4, 2025, the OBBBA was signed into law. The OBBBA includes significant provisions, such as the permanent extension of certain expiring provisions of the TCJA and numerous changes to the energy tax credits initially introduced and expanded under the IRA. The legislation has multiple effective dates, with certain provisions effective in 2025 and others implemented through 2027. Additionally, on July 7, 2025, President Trump issued Executive Order 14315, which relates to the implementation of such changes to energy tax credits. The Registrants have assessed the potential effects of the OBBBA and Executive Order 14315 and concluded that neither is expected to have a material impact on their 
+ 
+ 
+ 54 
+ 
+ 
+ future financial results because the Registrants have limited generation activities qualifying for tax credits under the IRA. The Registrants will consider the impacts of the OBBBA and Executive Order 14315, as well as related guidance, on any future generation projects, including any BTAs or PPAs, as applicable. 
+ 
+ Equity Transactions. In April 2025, Centerpoint Energy entered into forward sales agreements pursuant to the Equity Distribution Agreement with certain of the ATM Forward Purchasers. In May 2025, CenterPoint Energy entered into separate forward sale agreements with certain financial institutions. For further information about forward sales in 2025, see Note 11 to the consolidated financial statements. 
+ 
+ Regulatory Proceedings. In 2024, Houston Electric filed an Application for Determination of System Restoration Costs and a Financing Order with the PUCT for the May 2024 Storm Events, which were settled in 2025. In 2025, Houston Electric filed an Application for Determination of System Restoration Costs and a Financing Order with the PUCT for Hurricane Beryl and subsequent storm events, which were settled in 2025. For further information, see Note 7 to the consolidated financial statements. For information related to our pending and completed regulatory proceedings in 2025 and to date in 2026, see “—Liquidity and Capital Resources —Regulatory Matters” below. 
+ 
+ 
+ CERTAIN FACTORS AFFECTING FUTURE EARNINGS 
+ 
+ Our past earnings and results of operations are not necessarily indicative of our future earnings and results of operations. The magnitude of our future earnings and results of our operations will depend on or be affected by numerous factors that apply to all Registrants unless otherwise indicated including: 
+ 
+ • The business strategies and strategic initiatives, restructurings, joint ventures and acquisitions or dispositions of assets or businesses involving us or our industry, including the ability to successfully complete such strategies, initiatives, transactions or plans on the timelines we expect or at all, such as the announced sale of our Ohio natural gas LDC business, which we cannot assure will have the anticipated benefits to us; 
+ • industrial, commercial and residential growth in our service territories and changes in market demand and energy consumption, including in relation to the expansion of data centers (associated with, among other things, increasing demand for AI), energy refining and exports, advanced manufacturing and logistics, as well as the effects of energy efficiency measures, technological advances and demographic patterns, and our ability to appropriately estimate/forecast and effectively manage such demand and the business opportunities relating to such matters; 
+ • our ability to fund and invest planned capital and the timely recovery of our investments, including the timing of and amounts sought for those related to our 10-year capital plan; 
+ • our ability to execute and complete our planned capital projects and programs, including those within our 10-year capital plan, in a timely and cost-effective manner and within budget, obtain the anticipated benefits of such projects, and manage costs and impacts of such projects on customer affordability; 
+ • our ability to successfully construct, operate, repair, maintain, replace and restart electric generating facilities, natural gas facilities, TEEEF and electric transmission facilities, as applicable, including in the event of an outage and in relation to complying with applicable environmental, reliability and safety standards; 
+ • timely and appropriate rate actions that allow and authorize timely recovery of costs and a reasonable return on investment, including the timing of and amounts sought for recovery of Houston Electric’s applicable TEEEF leases and restoration costs relating to, among other things, Hurricane Beryl, and requested or favorable adjustments to rates and approval of other requested items as part of base rate proceedings or interim rate mechanisms; 
+ • the timing and success of, and our ability to obtain approval for matters relating to, Houston Electric’s release of its large TEEEF units to the San Antonio area, proposed release of its medium TEEEF units, reduction of its TEEEF fleet capacity and reduction of rates to reflect the removal of the large and medium TEEEF units from Houston Electric’s TEEEF fleet, as well as Houston Electric’s ability to complete one or more other future transactions involving the large and medium TEEEF units on acceptable terms and conditions within the anticipated timeframe; 
+ • economic conditions in regional and national markets, including economic uncertainty and volatility, potential for recession, changes to and increases in inflation and interest rates, and their effect on sales, prices and costs; 
+ • severe weather events, natural disasters and other climate-related impacts, including the impact of severe weather events on operations, capital, legislation and/or regulations, such as seen in connection with the February 2021 Winter Storm Event, the May 2024 Storm Events and Hurricane Beryl; 
+ • volatility in the markets for natural gas as a result of, among other factors, inflation, adverse weather conditions, supply and demand changes, availability of competitively priced alternative energy sources, political and geopolitical instability, commodity production levels and storage capacity, energy and environmental legislation and regulation and economic and financial market conditions; 
+ 
+ 
+ 55 
+ 
+ 
+ • non-payment for our services due to financial distress of our customers and the ability of our customers, including REPs, to satisfy their obligations to CenterPoint Energy, Houston Electric and CERC, and the negative impact on such ability related to adverse economic conditions and severe weather events; 
+ • public health threats, and their effect on our operations, business and financial condition, our industries and the communities we serve, U.S. and world financial markets and supply chains, potential regulatory actions and changes in customer and stakeholder behavior relating thereto; 
+ • federal, state and local legislative, executive and regulatory actions or developments affecting various aspects of our businesses, including, among others, any actions resulting from Hurricane Beryl, energy deregulation or re-regulation, pipeline integrity and safety, actions relating to our facilities and changes in regulation, legislation and governmental action pertaining to the utility model, trade (including tariffs, bans, retaliatory trade measures taken against the United States or related governmental action), the implementation of budget and spending cuts to federal government agencies and programs, effects of government shutdowns, policies incentivizing or disincentivizing the development or utilization of alternative sources of generation (including distributed generation), health care, finance and actions regarding the rates charged by our regulated businesses; 
+ • disruptions to the global supply chain, inflation, labor shortages and scarcity of certain materials, including as a result of changes in U.S. and foreign trade policy, geopolitical and economic uncertainty, regulatory and policy instability, severe weather and other catastrophic events, changes in laws, executive orders, legislation and other governmental action, increased competition for skilled labor and increases in demand for electricity, that could prevent CenterPoint Energy from securing the resources and labor needed to, among other things, fully execute on its strategy and 10-year capital plan, and otherwise impact the affordability of our rates for our customers; 
+ • operations and maintenance costs, our ability to control such costs and cost-related impacts on the affordability of our rates for our customers; 
+ • our ability to timely obtain and maintain necessary licenses, permits, easements and approvals from local, federal and other regulatory authorities on acceptable terms and resolve third-party challenges to such licenses, permits or approvals as applicable; 
+ • direct or indirect effects on our facilities, resources, operations, reputation and financial condition resulting from terrorism, vandalism, cyberattacks or intrusions, data security breaches or other security incidents, threats or attempts to disrupt our businesses or the businesses of supply chain stakeholders (including by foreign actors), or other catastrophic events such as fires, earthquakes, explosions, leaks, floods, droughts, hurricanes, tornadoes, derecho events, ice storms and other severe weather events, wildfires, pandemic health events, geopolitical conflict, civil unrest or other occurrences; 
+ • the impact of negative opinions of us or our utility services that our customers, investors, legislators, regulators, creditors, rating agencies or other stakeholders may have or develop, which could result from a variety of factors, including actual or perceived failures in system reliability and safety, the speed of our response to service interruptions, rates and customer affordability, our ability to successfully execute our capital plan, media coverage and actions by third parties; 
+ • damages to our network, facilities and systems, including as a result of wildfires, as well as to third-party property resulting in outages or shortages in our service territories, and losses in excess of insurance liability coverage; 
+ • tax legislation and guidance and any changes in tax laws under the current or future administrations, including any further changes to or clarification of the IRA or the OBBBA, and any potential changes to tax rates, CAMT imposed, tax credits and/or interest deductibility, as well as uncertainties involving state commissions’ and local municipalities’ regulatory requirements and determinations regarding the treatment of EDIT and our rates; 
+ • our ability to mitigate weather impacts through normalization or rate mechanisms, and the effectiveness of such mechanisms; 
+ • actions by credit rating agencies, including any potential downgrades to credit ratings; 
+ • local, state and federal legislative, executive and regulatory actions or developments relating to the environment, including, among others, those related to global climate risk, air emissions, GHG emissions, carbon emissions, wastewater discharges and the handling and disposal of CCR that could impact operations, cost recovery of generation plant costs and related assets, and CenterPoint Energy’s energy transition goals; 
+ • the impact of unplanned facility outages or other closures; 
+ • the sufficiency of our insurance coverage, including availability, cost, coverage and terms and ability to recover claims; 
+ • impacts from CenterPoint Energy’s pension and postretirement benefit plans, such as the investment performance and increases to net periodic costs as a result of plan settlements and changes in assumptions, including discount rates; 
+ • changes in interest rates and their impact on costs of borrowing and the valuation of CenterPoint Energy’s pension benefit obligation; 
+ 
+ 
+ 56 
+ 
+ 
+ • commercial bank and financial market conditions, including disruptions in the banking industry, our access to capital, the cost of such capital, the results of our financing and refinancing efforts, including availability of funds in the capital markets, and impacts on our vendors, customers and suppliers; 
+ • inability of various counterparties to meet their obligations to us; 
+ • the extent and effectiveness of our risk management activities; 
+ • timely and appropriate regulatory actions, which include actions allowing requested securitization for any hurricanes or other severe weather events, such as Hurricane Beryl, or natural disasters or other amounts sought for recovery of costs, including stranded coal-fired generation asset costs; 
+ • our ability to attract, effectively transition, motivate and retain an appropriately qualified workforce, identify and develop top talent to succeed management and maintain good labor relations; 
+ • changes in technology, including with respect to efficient battery storage or the emergence or growth of new, developing or alternative sources of generation, and their adoption by consumers, and our ability to anticipate, adapt to and implement technological changes; 
+ • advances in AI and our success in timely adopting, developing and deploying AI; 
+ • the timing and outcome of any audits, disputes and other proceedings related to taxes; 
+ • the recording of impairment charges; 
+ • political and economic developments and actions, including energy and environmental policies under the current administration; 
+ • CenterPoint Energy’s ability to execute on its strategy, initiatives, targets and goals, including energy transition goals and operations and maintenance expenditure goals; 
+ • the outcome of litigation, including litigation related to the February 2021 Winter Storm Event and Hurricane Beryl; 
+ • the effect of changes in and application of accounting standards and pronouncements; and 
+ • other factors discussed in “Risk Factors” in Part I, ITEM 1A of this report and in other reports that the Registrants file from time to time with the SEC. 
+ 
+ 
+ 
+ 57 
+ 
+ 
+ 
+ CENTERPOINT ENERGY CONSOLIDATED RESULTS OF OPERATIONS 
+ 
+ CenterPoint Energy’s results of operations are affected by seasonal fluctuations in the demand for electricity and natural gas. CenterPoint Energy’s results of operations are also affected by, among other things, the actions of various governmental authorities having jurisdiction over rates its subsidiaries charge, debt service costs, income tax expense, its subsidiaries ability to collect receivables from REPs and customers and its ability to recover its regulatory assets. For information regarding factors that may affect the future results of our consolidated operations, see “Risk Factors” in Part I, ITEM 1A of this report. 
+ 
+ Net income (loss) available to common shareholders was as follows for the periods presented: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ Favorable (Unfavorable) 
+ 
+ 
+ 
+ 2025 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ 
+ 2025 to 2024 
+ 
+ 
+ 2024 to 2023 
+ 
+ 
+ 
+ (in millions) 
+ 
+ Electric 
+ 
+ $ 
+ 705 
+ 
+ 
+ $ 
+ 671 
+ 
+ 
+ $ 
+ 654 
+ 
+ 
+ $ 
+ 34 
+ 
+ 
+ $ 
+ 17 
+ 
+ 
+ 
+ Natural Gas (1) 
+ 
+ 570 
+ 
+ 
+ 566 
+ 
+ 
+ 533 
+ 
+ 
+ 4 
+ 
+ 
+ 33 
+ 
+ 
+ 
+ Corporate & Other (2) 
+ 
+ (223) 
+ 
+ 
+ (218) 
+ 
+ 
+ (320) 
+ 
+ 
+ (5) 
+ 
+ 
+ 102 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total CenterPoint Energy 
+ 
+ $ 
+ 1,052 
+ 
+ 
+ $ 
+ 1,019 
+ 
+ 
+ $ 
+ 867 
+ 
+ 
+ $ 
+ 33 
+ 
+ 
+ $ 
+ 152 
+ 
+ 
+ (1) Includes results of operations from Louisiana and Mississippi natural gas LDC businesses through the date of the sale on March 31, 2025. 
+ (2) Includes energy performance contracting and sustainable infrastructure services through Energy Systems Group through the date of sale on June 30, 2023, unallocated corporate costs, interest income and interest expense, intercompany eliminations and the reduction of income allocated to preferred shareholders through September 1, 2023, the date of the redemption of all of the outstanding shares of the Series A Preferred Stock. 
+ 
+ 2025 Compared to 2024 
+ 
+ Net income available to common shareholders increased $33 million primarily due to the following items: 
+ 
+ • an increase in income available to common shareholders of $34 million for the Electric reportable segment, as further discussed below; 
+ • an increase in income available to common shareholders of $4 million for the Natural Gas reportable segment, as further discussed below; and 
+ • a decrease in income available to common shareholders of $5 million for the Corporate and Other reportable segment, primarily due to increased borrowing costs of approximately $37 million, offset by a $21 million gain on early extinguishment of debt using proceeds from the divestiture of the Louisiana and Mississippi natural gas LDCs, and a $20 million gain on early extinguishment of debt associated with the October 2025 tender offer, which is further discussed in Note 12 to the consolidated financial statements. The remaining variance is primarily driven by an increase in other corporate expenses, including expenses associated with proposed divestitures. 
+ 
+ 2024 Compared to 2023 
+ 
+ Net income available to common shareholders increased $152 million primarily due to the following items: 
+ 
+ • an increase in income available to common shareholders of $17 million for the Electric reportable segment, as further discussed below; 
+ • an increase in income available to common shareholders of $33 million for the Natural Gas reportable segment, as further discussed below; and 
+ • an increase in income available to common shareholders of $102 million for the Corporate and Other reportable segment, primarily due to $50 million of income allocated to holders of Series A Preferred Stock in 2023 prior to the redemption of all outstanding shares of Series A Preferred Stock in September 2023 as discussed in Note 11 to the consolidated financial statements, a loss on sale of $13 million and current tax expense of $32 million related to the divestiture of Energy Systems Group recorded in 2023 further discussed in Note 4 to the consolidated financial statements, $19 million due to remeasurement of deferred income tax balances recorded during 2023, as well as $8 million due to lower state income taxes. The remaining variance is due largely to an increase in borrowing costs. 
+ 
+ Income Tax Expense. For a discussion of effective tax rate per period, see Note 13 to the consolidated financial statements. 
+ 
+ 
+ 
+ 58 
+ 
+ 
+ 
+ CENTERPOINT ENERGY’S RESULTS OF OPERATIONS BY REPORTABLE SEGMENT 
+ 
+ CenterPoint Energy’s CODM views net income as the measure of profit or loss for the reportable segments. Segment results include inter-segment interest income and expense, which may result in inter-segment profit and loss. 
+ 
+ The following discussion of CenterPoint Energy’s results of operations is separated into two reportable segments, Electric and Natural Gas. 
+ 
+ Electric (CenterPoint Energy) 
+ 
+ The following table provides summary data of CenterPoint Energy’s Electric reportable segment for the periods presented: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ Favorable (Unfavorable) 
+ 
+ 
+ 2025 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ 2025 to 2024 
+ 
+ 2024 to 2023 
+ 
+ 
+ (in millions, except throughput, weather and customer data) 
+ 
+ Revenues 
+ $ 
+ 4,866 
+ 
+ 
+ $ 
+ 4,590 
+ 
+ 
+ $ 
+ 4,290 
+ 
+ 
+ $ 
+ 276 
+ 
+ 
+ $ 
+ 300 
+ 
+ 
+ Expenses: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Utility natural gas, fuel and purchased power 
+ 270 
+ 
+ 
+ 198 
+ 
+ 
+ 176 
+ 
+ 
+ (72) 
+ 
+ 
+ (22) 
+ 
+ 
+ Operation and maintenance 
+ 2,084 
+ 
+ 
+ 2,072 
+ 
+ 
+ 1,880 
+ 
+ 
+ (12) 
+ 
+ 
+ (192) 
+ 
+ 
+ Depreciation and amortization 
+ 946 
+ 
+ 
+ 877 
+ 
+ 
+ 872 
+ 
+ 
+ (69) 
+ 
+ 
+ (5) 
+ 
+ 
+ Taxes other than income taxes 
+ 321 
+ 
+ 
+ 304 
+ 
+ 
+ 272 
+ 
+ 
+ (17) 
+ 
+ 
+ (32) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total expenses 
+ 3,621 
+ 
+ 
+ 3,451 
+ 
+ 
+ 3,200 
+ 
+ 
+ (170) 
+ 
+ 
+ (251) 
+ 
+ 
+ Operating Income 
+ 1,245 
+ 
+ 
+ 1,139 
+ 
+ 
+ 1,090 
+ 
+ 
+ 106 
+ 
+ 
+ 49 
+ 
+ 
+ Other Income (Expense): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Interest expense and other finance charges 
+ (445) 
+ 
+ 
+ (372) 
+ 
+ 
+ (303) 
+ 
+ 
+ (73) 
+ 
+ 
+ (69) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other income, net 
+ 77 
+ 
+ 
+ 61 
+ 
+ 
+ 56 
+ 
+ 
+ 16 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ Income Before Income Taxes 
+ 877 
+ 
+ 
+ 828 
+ 
+ 
+ 843 
+ 
+ 
+ 49 
+ 
+ 
+ (15) 
+ 
+ 
+ Income tax expense 
+ 172 
+ 
+ 
+ 157 
+ 
+ 
+ 189 
+ 
+ 
+ (15) 
+ 
+ 
+ 32 
+ 
+ 
+ 
+ Net Income 
+ $ 
+ 705 
+ 
+ 
+ $ 
+ 671 
+ 
+ 
+ $ 
+ 654 
+ 
+ 
+ $ 
+ 34 
+ 
+ 
+ $ 
+ 17 
+ 
+ 
+ Throughput (in GWh): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Residential 
+ 35,547 
+ 
+ 
+ 34,190 
+ 
+ 
+ 35,166 
+ 
+ 
+ 4 
+ % 
+ 
+ (3) 
+ % 
+ 
+ Total 
+ 116,076 
+ 
+ 
+ 110,831 
+ 
+ 
+ 108,766 
+ 
+ 
+ 5 
+ % 
+ 
+ 2 
+ % 
+ 
+ Weather (percentage of normal weather for service area): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cooling degree days 
+ 112 
+ % 
+ 
+ 115 
+ % 
+ 
+ 114 
+ % 
+ 
+ (3) 
+ % 
+ 
+ 1 
+ % 
+ 
+ Heating degree days 
+ 98 
+ % 
+ 
+ 76 
+ % 
+ 
+ 90 
+ % 
+ 
+ 22 
+ % 
+ 
+ (14) 
+ % 
+ 
+ Number of metered customers at end of period: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Residential 
+ 2,679,575 
+ 
+ 
+ 2,640,150 
+ 
+ 
+ 2,588,510 
+ 
+ 
+ 1 
+ % 
+ 
+ 2 
+ % 
+ 
+ Total 
+ 3,013,715 
+ 
+ 
+ 2,971,730 
+ 
+ 
+ 2,916,028 
+ 
+ 
+ 1 
+ % 
+ 
+ 2 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 59 
+ 
+ 
+ The following table provides variance explanations by major income statement caption for the Electric reportable segment: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Favorable (Unfavorable) 
+ 
+ 
+ 
+ 2025 to 2024 
+ 
+ 2024 to 2023 
+ 
+ 
+ 
+ (in millions) 
+ 
+ Revenues 
+ 
+ 
+ 
+ 
+ 
+ Customer rates and impact of the change in rate design 
+ 
+ $ 
+ 109 
+ 
+ 
+ $ 
+ 143 
+ 
+ 
+ Transmission Revenues, including TCOS and TCRF, inclusive of costs billed by transmission providers, partially offset in operation and maintenance below 
+ 
+ 88 
+ 
+ 
+ 217 
+ 
+ 
+ Customer growth 
+ 
+ 26 
+ 
+ 
+ 26 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Energy efficiency, partially offset in operation and maintenance below 
+ 
+ 29 
+ 
+ 
+ 5 
+ 
+ 
+ Equity return, related to the annual true-up of transition charges for amounts over or under collected in prior periods 
+ 
+ (18) 
+ 
+ 
+ (20) 
+ 
+ 
+ Pass-through revenues, offset in operation and maintenance below 
+ 
+ 3 
+ 
+ 
+ (5) 
+ 
+ 
+ 
+ Miscellaneous revenues, including service connections and off-system sales 
+ 
+ (11) 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ Lost revenues as a result of outages associated with Hurricane Beryl in 2024 
+ 
+ 10 
+ 
+ 
+ (10) 
+ 
+ 
+ Bond Companies and SIGECO Securitization Subsidiary, offset in other line items below 
+ 
+ (62) 
+ 
+ 
+ (70) 
+ 
+ 
+ Weather, efficiency improvements and other usage impacts 
+ 
+ 40 
+ 
+ 
+ (9) 
+ 
+ 
+ Cost of fuel and purchased power, offset in utility natural gas, fuel and purchased power below 
+ 
+ 62 
+ 
+ 
+ 22 
+ 
+ 
+ Total 
+ 
+ $ 
+ 276 
+ 
+ 
+ $ 
+ 300 
+ 
+ 
+ Utility natural gas, fuel and purchased power 
+ 
+ 
+ 
+ 
+ 
+ Cost of purchased power, offset in revenues above 
+ 
+ $ 
+ (53) 
+ 
+ 
+ $ 
+ (87) 
+ 
+ 
+ Cost of fuel, including coal, natural gas, and fuel oil, offset in revenues above 
+ 
+ (19) 
+ 
+ 
+ 65 
+ 
+ 
+ 
+ Total 
+ 
+ $ 
+ (72) 
+ 
+ 
+ $ 
+ (22) 
+ 
+ 
+ Operation and maintenance 
+ 
+ 
+ 
+ 
+ 
+ Transmission costs billed by transmission providers, offset in revenues above 
+ 
+ $ 
+ (40) 
+ 
+ 
+ $ 
+ (124) 
+ 
+ 
+ 
+ Incremental storm expenses, including storm hardening expenses incurred in connection with accelerated operational activities after Hurricane Beryl in 2024 
+ 
+ 112 
+ 
+ 
+ (112) 
+ 
+ 
+ Contract services 
+ 
+ (34) 
+ 
+ 
+ 16 
+ 
+ 
+ 
+ Energy efficiency, and other pass-through, offset in revenues above 
+ 
+ (3) 
+ 
+ 
+ (1) 
+ 
+ 
+ 
+ Corporate support services 
+ 
+ (28) 
+ 
+ 
+ — 
+ 
+ 
+ Bond Companies and SIGECO Securitization Subsidiary, offset in other line items 
+ 
+ 3 
+ 
+ 
+ — 
+ 
+ 
+ Labor and benefits 
+ 
+ (9) 
+ 
+ 
+ 4 
+ 
+ 
+ All other operation and maintenance expense, including materials and supplies and insurance 
+ 
+ (13) 
+ 
+ 
+ 25 
+ 
+ 
+ Total 
+ 
+ $ 
+ (12) 
+ 
+ 
+ $ 
+ (192) 
+ 
+ 
+ Depreciation and amortization 
+ 
+ 
+ 
+ 
+ 
+ Ongoing additions to plant-in-service 
+ 
+ $ 
+ (74) 
+ 
+ 
+ $ 
+ (79) 
+ 
+ 
+ Lease expense associated with TEEEF units no longer eligible for regulatory deferral 
+ 
+ (59) 
+ 
+ 
+ — 
+ 
+ 
+ Bond Companies and SIGECO Securitization Subsidiary, offset in other line items 
+ 
+ 64 
+ 
+ 
+ 74 
+ 
+ 
+ Total 
+ 
+ $ 
+ (69) 
+ 
+ 
+ $ 
+ (5) 
+ 
+ 
+ Taxes other than income taxes 
+ 
+ 
+ 
+ 
+ 
+ 
+ Incremental capital projects placed in service, and the impact of updated property tax rates 
+ 
+ $ 
+ (17) 
+ 
+ 
+ $ 
+ (26) 
+ 
+ 
+ Franchise fees and other taxes 
+ 
+ — 
+ 
+ 
+ (6) 
+ 
+ 
+ Total 
+ 
+ $ 
+ (17) 
+ 
+ 
+ $ 
+ (32) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Interest expense and other finance charges 
+ 
+ 
+ 
+ 
+ 
+ Changes in outstanding debt 
+ 
+ $ 
+ (90) 
+ 
+ 
+ $ 
+ (63) 
+ 
+ 
+ Bond Companies and SIGECO Securitization Subsidiary, offset in other line items above 
+ 
+ (2) 
+ 
+ 
+ (4) 
+ 
+ 
+ Other, primarily AFUDC and impacts of regulatory deferrals 
+ 
+ 19 
+ 
+ 
+ (2) 
+ 
+ 
+ Total 
+ 
+ $ 
+ (73) 
+ 
+ 
+ $ 
+ (69) 
+ 
+ 
+ Other income (expense), net 
+ 
+ 
+ 
+ 
+ 
+ Other income, including AFUDC - equity 
+ 
+ $ 
+ 19 
+ 
+ 
+ $ 
+ 5 
+ 
+ 
+ Bond Companies and SIGECO Securitization Subsidiary, offset in other line items above 
+ 
+ (3) 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ $ 
+ 16 
+ 
+ 
+ $ 
+ 5 
+ 
+ 
+ Income Tax Expense. For a discussion of effective tax rate per period by Registrant, see Note 13 to the consolidated financial statements. 
+ 
+ 
+ 60 
+ 
+ 
+ Natural Gas (CenterPoint Energy) 
+ 
+ The following table provides summary data of CenterPoint Energy’s Natural Gas reportable segment for the periods presented: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ Favorable (Unfavorable) 
+ 
+ 
+ 2025 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ 2025 to 2024 
+ 
+ 2024 to 2023 
+ 
+ 
+ (in millions, except throughput, weather and customer data) 
+ 
+ Revenues 
+ $ 
+ 4,486 
+ 
+ 
+ $ 
+ 4,050 
+ 
+ 
+ $ 
+ 4,279 
+ 
+ 
+ $ 
+ 436 
+ 
+ 
+ $ 
+ (229) 
+ 
+ 
+ Expenses: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Utility natural gas and fuel 
+ 1,846 
+ 
+ 
+ 1,520 
+ 
+ 
+ 1,888 
+ 
+ 
+ (326) 
+ 
+ 
+ 368 
+ 
+ 
+ Non-utility cost of revenues, including natural gas 
+ 4 
+ 
+ 
+ 3 
+ 
+ 
+ 3 
+ 
+ 
+ (1) 
+ 
+ 
+ — 
+ 
+ 
+ Operation and maintenance 
+ 931 
+ 
+ 
+ 881 
+ 
+ 
+ 949 
+ 
+ 
+ (50) 
+ 
+ 
+ 68 
+ 
+ 
+ Depreciation and amortization 
+ 563 
+ 
+ 
+ 542 
+ 
+ 
+ 513 
+ 
+ 
+ (21) 
+ 
+ 
+ (29) 
+ 
+ 
+ Taxes other than income taxes 
+ 245 
+ 
+ 
+ 237 
+ 
+ 
+ 245 
+ 
+ 
+ (8) 
+ 
+ 
+ 8 
+ 
+ 
+ Total expenses 
+ 3,589 
+ 
+ 
+ 3,183 
+ 
+ 
+ 3,598 
+ 
+ 
+ (406) 
+ 
+ 
+ 415 
+ 
+ 
+ Operating Income 
+ 897 
+ 
+ 
+ 867 
+ 
+ 
+ 681 
+ 
+ 
+ 30 
+ 
+ 
+ 186 
+ 
+ 
+ 
+ Other Income (Expense): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Loss on sale 
+ (49) 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ (49) 
+ 
+ 
+ — 
+ 
+ 
+ Interest expense and other finance charges 
+ (208) 
+ 
+ 
+ (207) 
+ 
+ 
+ (188) 
+ 
+ 
+ (1) 
+ 
+ 
+ (19) 
+ 
+ 
+ Other income (expense), net 
+ 27 
+ 
+ 
+ 14 
+ 
+ 
+ 15 
+ 
+ 
+ 13 
+ 
+ 
+ (1) 
+ 
+ 
+ 
+ Income Before Income Taxes 
+ 667 
+ 
+ 
+ 674 
+ 
+ 
+ 508 
+ 
+ 
+ (7) 
+ 
+ 
+ 166 
+ 
+ 
+ 
+ Income tax expense (benefit) 
+ 97 
+ 
+ 
+ 108 
+ 
+ 
+ (25) 
+ 
+ 
+ 11 
+ 
+ 
+ (133) 
+ 
+ 
+ Net Income 
+ $ 
+ 570 
+ 
+ 
+ $ 
+ 566 
+ 
+ 
+ $ 
+ 533 
+ 
+ 
+ $ 
+ 4 
+ 
+ 
+ $ 
+ 33 
+ 
+ 
+ Throughput (in Bcf): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Residential 
+ 220 
+ 
+ 
+ 189 
+ 
+ 
+ 199 
+ 
+ 
+ 16 
+ % 
+ 
+ (5) 
+ % 
+ 
+ Commercial and industrial 
+ 423 
+ 
+ 
+ 426 
+ 
+ 
+ 418 
+ 
+ 
+ (1) 
+ % 
+ 
+ 2 
+ % 
+ 
+ Total Throughput 
+ 643 
+ 
+ 
+ 615 
+ 
+ 
+ 617 
+ 
+ 
+ 5 
+ % 
+ 
+ — 
+ % 
+ 
+ Weather (percentage of 10-year average for service area): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Heating degree days 
+ 96 
+ % 
+ 
+ 78 
+ % 
+ 
+ 86 
+ % 
+ 
+ 18 
+ % 
+ 
+ (8) 
+ % 
+ 
+ 
+ Number of metered customers at end of period: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Residential 
+ 3,739,919 
+ 
+ 
+ 4,063,928 
+ 
+ 
+ 4,010,113 
+ 
+ 
+ (8) 
+ % 
+ 
+ 1 
+ % 
+ 
+ Commercial and industrial 
+ 289,166 
+ 
+ 
+ 304,606 
+ 
+ 
+ 303,841 
+ 
+ 
+ (5) 
+ % 
+ 
+ — 
+ % 
+ 
+ 
+ Total (1) 
+ 4,029,085 
+ 
+ 
+ 4,368,534 
+ 
+ 
+ 4,313,954 
+ 
+ 
+ (8) 
+ % 
+ 
+ 1 
+ % 
+ (1) Decrease in number of metered customers from 2024 to 2025 is primarily attributable to customer accounts associated with the divestiture of the Louisiana and Mississippi natural gas LDCs in March 2025. See Note 4 for additional detail. 
+ 
+ 
+ 
+ 61 
+ 
+ 
+ The following table provides variance explanations by major income statement caption for the Natural Gas reportable segment: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Favorable (Unfavorable) 
+ 
+ 
+ 
+ 2025 to 2024 
+ 
+ 2024 to 2023 
+ 
+ 
+ 
+ (in millions) 
+ 
+ Revenues 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of natural gas, offset in utility natural gas and fuel below 
+ 
+ $ 
+ 384 
+ 
+ 
+ $ 
+ (368) 
+ 
+ 
+ Gross receipts tax, offset in taxes other than income taxes below 
+ 
+ 14 
+ 
+ 
+ 1 
+ 
+ 
+ Weather and usage 
+ 
+ 12 
+ 
+ 
+ (11) 
+ 
+ 
+ Non-volumetric and miscellaneous revenue 
+ 
+ 10 
+ 
+ 
+ (5) 
+ 
+ 
+ Energy efficiency and other pass-through, offset in operation and maintenance below 
+ 
+ 40 
+ 
+ 
+ (20) 
+ 
+ 
+ 
+ Non-utility revenues 
+ 
+ 2 
+ 
+ 
+ 15 
+ 
+ 
+ Customer growth 
+ 
+ 14 
+ 
+ 
+ 14 
+ 
+ 
+ 
+ Customer rates and impact of the change in rate design 
+ 
+ 142 
+ 
+ 
+ 145 
+ 
+ 
+ Impact of divestiture of Louisiana and Mississippi natural gas LDCs on March 31, 2025 
+ 
+ (182) 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ Total 
+ 
+ $ 
+ 436 
+ 
+ 
+ $ 
+ (229) 
+ 
+ 
+ 
+ Utility natural gas and fuel 
+ 
+ 
+ 
+ 
+ 
+ Cost of natural gas, offset in revenues above 
+ 
+ $ 
+ (384) 
+ 
+ 
+ $ 
+ 368 
+ 
+ 
+ Impact of divestiture of Louisiana and Mississippi natural gas LDCs on March 31, 2025 
+ 
+ 58 
+ 
+ 
+ — 
+ 
+ 
+ Total 
+ 
+ $ 
+ (326) 
+ 
+ 
+ $ 
+ 368 
+ 
+ 
+ Non-utility costs of revenues, including natural gas 
+ 
+ 
+ 
+ 
+ 
+ Non-utility cost of revenues, including natural gas 
+ 
+ $ 
+ (1) 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ Total 
+ 
+ $ 
+ (1) 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ Operation and maintenance 
+ 
+ 
+ 
+ 
+ 
+ 
+ All other operations and maintenance expenses, including bad debt expense 
+ 
+ $ 
+ (15) 
+ 
+ 
+ $ 
+ 23 
+ 
+ 
+ Energy efficiency and other pass-through, offset in revenues above 
+ 
+ (40) 
+ 
+ 
+ 20 
+ 
+ 
+ Contract services 
+ 
+ (10) 
+ 
+ 
+ (6) 
+ 
+ 
+ Impact of divestiture of Louisiana and Mississippi natural gas LDCs on March 31, 2025 
+ 
+ 53 
+ 
+ 
+ — 
+ 
+ 
+ 
+ Labor and benefits 
+ 
+ (25) 
+ 
+ 
+ 8 
+ 
+ 
+ Corporate support services 
+ 
+ (13) 
+ 
+ 
+ 23 
+ 
+ 
+ Total 
+ 
+ $ 
+ (50) 
+ 
+ 
+ $ 
+ 68 
+ 
+ 
+ Depreciation and amortization 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ongoing additions to plant-in-service 
+ 
+ $ 
+ (60) 
+ 
+ 
+ $ 
+ (29) 
+ 
+ 
+ Impact of divestiture of Louisiana and Mississippi natural gas LDCs on March 31, 2025 
+ 
+ 39 
+ 
+ 
+ — 
+ 
+ 
+ Total 
+ 
+ $ 
+ (21) 
+ 
+ 
+ $ 
+ (29) 
+ 
+ 
+ Taxes other than income taxes 
+ 
+ 
+ 
+ 
+ 
+ 
+ Gross receipts tax, offset in revenues above 
+ 
+ $ 
+ (14) 
+ 
+ 
+ $ 
+ (1) 
+ 
+ 
+ Impact of divestiture of Louisiana and Mississippi natural gas LDCs on March 31, 2025 
+ 
+ 15 
+ 
+ 
+ — 
+ 
+ 
+ 
+ Incremental capital projects placed in service, and the impact of updated property tax rates 
+ 
+ (9) 
+ 
+ 
+ 9 
+ 
+ 
+ Total 
+ 
+ $ 
+ (8) 
+ 
+ 
+ $ 
+ 8 
+ 
+ 
+ 
+ Loss on Sale 
+ 
+ 
+ 
+ 
+ 
+ Loss on sale of Louisiana and Mississippi natural gas LDC businesses 
+ 
+ $ 
+ (49) 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ Total 
+ 
+ $ 
+ (49) 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ Interest expense and other finance charges 
+ 
+ 
+ 
+ 
+ 
+ Changes in outstanding debt 
+ 
+ $ 
+ (6) 
+ 
+ 
+ $ 
+ (12) 
+ 
+ 
+ Other, primarily AFUDC and impacts of regulatory deferrals 
+ 
+ (5) 
+ 
+ 
+ (7) 
+ 
+ 
+ Impact of divestiture of Louisiana and Mississippi natural gas LDCs on March 31, 2025 
+ 
+ 10 
+ 
+ 
+ — 
+ 
+ 
+ Total 
+ 
+ $ 
+ (1) 
+ 
+ 
+ $ 
+ (19) 
+ 
+ 
+ Other income (expense), net 
+ 
+ 
+ 
+ 
+ 
+ 
+ Changes to non-service benefit cost 
+ 
+ $ 
+ 4 
+ 
+ 
+ $ 
+ 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other income, including interest income from affiliated companies and AFUDC - Equity 
+ 
+ 10 
+ 
+ 
+ (4) 
+ 
+ 
+ Impact of divestiture of Louisiana and Mississippi natural gas LDCs on March 31, 2025 
+ 
+ (1) 
+ 
+ 
+ — 
+ 
+ 
+ Total 
+ 
+ $ 
+ 13 
+ 
+ 
+ $ 
+ (1) 
+ 
+ Income Tax Expense (Benefit). For a discussion of effective tax rate per period by Registrant, see Note 13 to the consolidated financial statements. 
+ 
+ 
+ 
+ 62 
+ 
+ 
+ 
+ HOUSTON ELECTRIC CONSOLIDATED RESULTS OF OPERATIONS 
+ 
+ Houston Electric’s CODM views net income as the measure of profit or loss for its reportable segment. Houston Electric consists of a single reportable segment. Houston Electric’s results of operations are affected by seasonal fluctuations in the demand for electricity. Houston Electric’s results of operations are also affected by, among other things, the actions of various governmental authorities having jurisdiction over rates Houston Electric charges, debt service costs, income tax expense, Houston Electric’s ability to collect receivables from REPs and Houston Electric’s ability to recover its regulatory assets. For information regarding factors that may affect the future results of Houston Electric’s consolidated operations, see “Risk Factors” in ITEM 1A of Part I of this report. 
+ 
+ The following table provides summary data of Houston Electric’s single reportable segment for the periods presented: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ Favorable (Unfavorable) 
+ 
+ 
+ 2025 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ 2025 to 2024 
+ 
+ 2024 to 2023 
+ 
+ 
+ (in millions, except throughput, weather and customer data) 
+ 
+ Revenues: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TDU 
+ $ 
+ 4,067 
+ 
+ 
+ $ 
+ 3,862 
+ 
+ 
+ $ 
+ 3,514 
+ 
+ 
+ $ 
+ 205 
+ 
+ 
+ $ 
+ 348 
+ 
+ 
+ Bond Companies 
+ 17 
+ 
+ 
+ 77 
+ 
+ 
+ 163 
+ 
+ 
+ (60) 
+ 
+ 
+ (86) 
+ 
+ 
+ Total revenues 
+ 4,084 
+ 
+ 
+ 3,939 
+ 
+ 
+ 3,677 
+ 
+ 
+ 145 
+ 
+ 
+ 262 
+ 
+ 
+ Expenses: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operation and maintenance, excluding Bond Companies 
+ 1,913 
+ 
+ 
+ 1,923 
+ 
+ 
+ 1,669 
+ 
+ 
+ 10 
+ 
+ 
+ (254) 
+ 
+ 
+ Depreciation and amortization, excluding Bond Companies 
+ 795 
+ 
+ 
+ 688 
+ 
+ 
+ 593 
+ 
+ 
+ (107) 
+ 
+ 
+ (95) 
+ 
+ 
+ Taxes other than income taxes 
+ 312 
+ 
+ 
+ 295 
+ 
+ 
+ 262 
+ 
+ 
+ (17) 
+ 
+ 
+ (33) 
+ 
+ 
+ Bond Companies 
+ 12 
+ 
+ 
+ 78 
+ 
+ 
+ 159 
+ 
+ 
+ 66 
+ 
+ 
+ 81 
+ 
+ 
+ 
+ Total expenses 
+ 3,032 
+ 
+ 
+ 2,984 
+ 
+ 
+ 2,683 
+ 
+ 
+ (48) 
+ 
+ 
+ (301) 
+ 
+ 
+ Operating Income 
+ 1,052 
+ 
+ 
+ 955 
+ 
+ 
+ 994 
+ 
+ 
+ 97 
+ 
+ 
+ (39) 
+ 
+ 
+ 
+ Other Income (Expense): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Interest expense and other finance charges 
+ (369) 
+ 
+ 
+ (311) 
+ 
+ 
+ (259) 
+ 
+ 
+ (58) 
+ 
+ 
+ (52) 
+ 
+ 
+ Interest expense on Securitization Bonds 
+ (6) 
+ 
+ 
+ (3) 
+ 
+ 
+ (8) 
+ 
+ 
+ (3) 
+ 
+ 
+ 5 
+ 
+ 
+ Other income, net 
+ 48 
+ 
+ 
+ 43 
+ 
+ 
+ 34 
+ 
+ 
+ 5 
+ 
+ 
+ 9 
+ 
+ 
+ 
+ Income Before Income Taxes 
+ 725 
+ 
+ 
+ 684 
+ 
+ 
+ 761 
+ 
+ 
+ 41 
+ 
+ 
+ (77) 
+ 
+ 
+ 
+ Income tax expense 
+ 147 
+ 
+ 
+ 138 
+ 
+ 
+ 168 
+ 
+ 
+ (9) 
+ 
+ 
+ 30 
+ 
+ 
+ 
+ Net Income 
+ $ 
+ 578 
+ 
+ 
+ $ 
+ 546 
+ 
+ 
+ $ 
+ 593 
+ 
+ 
+ $ 
+ 32 
+ 
+ 
+ $ 
+ (47) 
+ 
+ 
+ Throughput (in GWh): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Residential 
+ 34,101 
+ 
+ 
+ 32,769 
+ 
+ 
+ 33,830 
+ 
+ 
+ 4 
+ % 
+ 
+ (3) 
+ % 
+ 
+ Total 
+ 111,083 
+ 
+ 
+ 106,014 
+ 
+ 
+ 103,862 
+ 
+ 
+ 5 
+ % 
+ 
+ 2 
+ % 
+ 
+ Weather (percentage of 10-year average for service area): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cooling degree days 
+ 114 
+ % 
+ 
+ 115 
+ % 
+ 
+ 114 
+ % 
+ 
+ (1) 
+ % 
+ 
+ 1 
+ % 
+ 
+ Heating degree days 
+ 94 
+ % 
+ 
+ 92 
+ % 
+ 
+ 92 
+ % 
+ 
+ 2 
+ % 
+ 
+ — 
+ % 
+ 
+ Number of metered customers at end of period: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Residential 
+ 2,544,880 
+ 
+ 
+ 2,506,284 
+ 
+ 
+ 2,455,309 
+ 
+ 
+ 2 
+ % 
+ 
+ 2 
+ % 
+ 
+ Total 
+ 2,859,313 
+ 
+ 
+ 2,818,343 
+ 
+ 
+ 2,763,535 
+ 
+ 
+ 1 
+ % 
+ 
+ 2 
+ % 
+ 
+ 
+ 
+ 63 
+ 
+ 
+ The following table provides variance explanations by major income statement caption for Houston Electric: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Favorable (Unfavorable) 
+ 
+ 
+ 
+ 
+ 2025 to 2024 
+ 
+ 
+ 2024 to 2023 
+ 
+ 
+ 
+ (in millions) 
+ 
+ Revenues 
+ 
+ 
+ 
+ 
+ 
+ Customer rates and impact of the change in rate design 
+ 
+ $ 
+ 34 
+ 
+ 
+ $ 
+ 153 
+ 
+ 
+ 
+ Transmission Revenues, including TCOS and TCRF, inclusive of costs billed by transmission providers, partially offset in operation and maintenance below 
+ 
+ 88 
+ 
+ 
+ 217 
+ 
+ 
+ Customer growth 
+ 
+ 22 
+ 
+ 
+ 25 
+ 
+ 
+ Energy efficiency, partially offset in operation and maintenance below 
+ 
+ 29 
+ 
+ 
+ 5 
+ 
+ 
+ Miscellaneous revenues 
+ 
+ 13 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ Lost revenues as a result of outages associated with Hurricane Beryl in 2024 
+ 
+ 10 
+ 
+ 
+ (10) 
+ 
+ 
+ Equity return, related to the annual true-up of transition charges for amounts over or under collected in prior periods 
+ 
+ (18) 
+ 
+ 
+ (19) 
+ 
+ 
+ 
+ Weather, efficiency improvements and other usage impacts 
+ 
+ 27 
+ 
+ 
+ (24) 
+ 
+ 
+ Bond Companies, offset in other line items below 
+ 
+ (60) 
+ 
+ 
+ (86) 
+ 
+ 
+ Total 
+ 
+ $ 
+ 145 
+ 
+ 
+ $ 
+ 262 
+ 
+ 
+ Operation and maintenance, excluding Bond Companies 
+ 
+ 
+ 
+ 
+ 
+ Transmission costs billed by transmission providers, offset in revenues above 
+ 
+ $ 
+ (40) 
+ 
+ 
+ $ 
+ (124) 
+ 
+ 
+ Incremental storm expenses, including storm hardening expenses incurred in connection with accelerated operational activities after Hurricane Beryl in 2024 
+ 
+ 112 
+ 
+ 
+ (112) 
+ 
+ 
+ Contract services 
+ 
+ (29) 
+ 
+ 
+ 7 
+ 
+ 
+ 
+ Energy efficiency, offset in revenues above 
+ 
+ (3) 
+ 
+ 
+ (6) 
+ 
+ 
+ 
+ Corporate support services 
+ 
+ (23) 
+ 
+ 
+ (2) 
+ 
+ 
+ Labor and benefits 
+ 
+ (8) 
+ 
+ 
+ 1 
+ 
+ 
+ All other operation and maintenance expense, including materials and supplies and insurance 
+ 
+ 1 
+ 
+ 
+ (18) 
+ 
+ 
+ Total 
+ 
+ $ 
+ 10 
+ 
+ 
+ $ 
+ (254) 
+ 
+ 
+ Depreciation and amortization, excluding Bond Companies 
+ 
+ 
+ 
+ 
+ 
+ Ongoing additions to plant-in-service 
+ 
+ $ 
+ (47) 
+ 
+ 
+ $ 
+ (95) 
+ 
+ 
+ 
+ Lease expense associated with TEEEF units no longer eligible for regulatory deferral 
+ 
+ (60) 
+ 
+ 
+ — 
+ 
+ 
+ Total 
+ 
+ $ 
+ (107) 
+ 
+ 
+ $ 
+ (95) 
+ 
+ 
+ Taxes other than income taxes 
+ 
+ 
+ 
+ 
+ 
+ Incremental capital projects placed in service, and the impact of changes to tax rates 
+ 
+ $ 
+ (17) 
+ 
+ 
+ $ 
+ (26) 
+ 
+ 
+ Franchise fees and other taxes 
+ 
+ — 
+ 
+ 
+ (7) 
+ 
+ 
+ Total 
+ 
+ $ 
+ (17) 
+ 
+ 
+ $ 
+ (33) 
+ 
+ 
+ 
+ Bond Companies 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operations and maintenance and depreciation expense, offset in revenues above 
+ 
+ $ 
+ 66 
+ 
+ 
+ $ 
+ 81 
+ 
+ 
+ Total 
+ 
+ $ 
+ 66 
+ 
+ 
+ $ 
+ 81 
+ 
+ 
+ Interest expense and other finance charges 
+ 
+ 
+ 
+ 
+ 
+ Changes in outstanding debt 
+ 
+ $ 
+ (75) 
+ 
+ 
+ $ 
+ (55) 
+ 
+ 
+ Other, primarily AFUDC and impacts of regulatory deferrals 
+ 
+ 17 
+ 
+ 
+ 3 
+ 
+ 
+ Total 
+ 
+ $ 
+ (58) 
+ 
+ 
+ $ 
+ (52) 
+ 
+ 
+ Interest expense on Securitization Bonds 
+ 
+ 
+ 
+ 
+ 
+ Change in outstanding principal balance, offset in revenues above 
+ 
+ $ 
+ (3) 
+ 
+ 
+ $ 
+ 5 
+ 
+ 
+ Total 
+ 
+ $ 
+ (3) 
+ 
+ 
+ $ 
+ 5 
+ 
+ 
+ Other income, net 
+ 
+ 
+ 
+ 
+ 
+ Other income, including AFUDC - equity 
+ 
+ $ 
+ 7 
+ 
+ 
+ $ 
+ 9 
+ 
+ 
+ 
+ Bond Companies interest income, offset in other line items 
+ 
+ (2) 
+ 
+ 
+ — 
+ 
+ 
+ Total 
+ 
+ $ 
+ 5 
+ 
+ 
+ $ 
+ 9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Income Tax Expense. For a discussion of effective tax rate per period, see Note 13 to the consolidated financial statements. 
+ 
+ 
+ 
+ 64 
+ 
+ 
+ 
+ CERC CONSOLIDATED RESULTS OF OPERATIONS 
+ 
+ CERC’s CODM views net income as the measure of profit or loss for its reportable segment. CERC consists of a single reportable segment. CERC’s results of operations are affected by seasonal fluctuations in the demand for natural gas. CERC’s results of operations are also affected by, among other things, the actions of various federal, state and local governmental authorities having jurisdiction over rates CERC charges, debt service costs and income tax expense, CERC’s ability to collect receivables from customers and CERC’s ability to recover its regulatory assets. For information regarding factors that may affect the future results of CERC’s consolidated operations, see “Risk Factors” in ITEM 1A of Part I of this report. 
+ 
+ The following table provides summary data of CERC’s single reportable segment for the periods presented: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ Favorable (Unfavorable) 
+ 
+ 
+ 2025 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ 2025 to 2024 
+ 
+ 2024 to 2023 
+ 
+ 
+ (in millions, except throughput, weather and customer data) 
+ 
+ 
+ Revenues 
+ $ 
+ 4,344 
+ 
+ 
+ $ 
+ 3,925 
+ 
+ 
+ $ 
+ 4,149 
+ 
+ 
+ $ 
+ 419 
+ 
+ 
+ $ 
+ (224) 
+ 
+ 
+ Expenses: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Utility natural gas 
+ 1,803 
+ 
+ 
+ 1,489 
+ 
+ 
+ 1,856 
+ 
+ 
+ (314) 
+ 
+ 
+ 367 
+ 
+ 
+ Non-utility cost of revenues, including natural gas 
+ 4 
+ 
+ 
+ 3 
+ 
+ 
+ 3 
+ 
+ 
+ (1) 
+ 
+ 
+ — 
+ 
+ 
+ Operation and maintenance 
+ 895 
+ 
+ 
+ 848 
+ 
+ 
+ 904 
+ 
+ 
+ (47) 
+ 
+ 
+ 56 
+ 
+ 
+ Depreciation and amortization 
+ 541 
+ 
+ 
+ 522 
+ 
+ 
+ 493 
+ 
+ 
+ (19) 
+ 
+ 
+ (29) 
+ 
+ 
+ Taxes other than income taxes 
+ 242 
+ 
+ 
+ 234 
+ 
+ 
+ 243 
+ 
+ 
+ (8) 
+ 
+ 
+ 9 
+ 
+ 
+ Total expenses 
+ 3,485 
+ 
+ 
+ 3,096 
+ 
+ 
+ 3,499 
+ 
+ 
+ (389) 
+ 
+ 
+ 403 
+ 
+ 
+ Operating Income 
+ 859 
+ 
+ 
+ 829 
+ 
+ 
+ 650 
+ 
+ 
+ 30 
+ 
+ 
+ 179 
+ 
+ 
+ 
+ Other Income (Expense): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Gain on sale 
+ 46 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ 46 
+ 
+ 
+ — 
+ 
+ 
+ Interest expense and other finance charges 
+ (194) 
+ 
+ 
+ (197) 
+ 
+ 
+ (178) 
+ 
+ 
+ 3 
+ 
+ 
+ (19) 
+ 
+ 
+ Other income (expense), net 
+ 25 
+ 
+ 
+ 12 
+ 
+ 
+ 14 
+ 
+ 
+ 13 
+ 
+ 
+ (2) 
+ 
+ 
+ Income Before Income Taxes 
+ 736 
+ 
+ 
+ 644 
+ 
+ 
+ 486 
+ 
+ 
+ 92 
+ 
+ 
+ 158 
+ 
+ 
+ Income tax expense (benefit) 
+ 97 
+ 
+ 
+ 104 
+ 
+ 
+ (26) 
+ 
+ 
+ 7 
+ 
+ 
+ (130) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net Income 
+ $ 
+ 639 
+ 
+ 
+ $ 
+ 540 
+ 
+ 
+ $ 
+ 512 
+ 
+ 
+ $ 
+ 99 
+ 
+ 
+ $ 
+ 28 
+ 
+ 
+ Throughput (in BCF): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Residential 
+ 214 
+ 
+ 
+ 184 
+ 
+ 
+ 194 
+ 
+ 
+ 16 
+ % 
+ 
+ (5) 
+ % 
+ 
+ 
+ Commercial and Industrial 
+ 379 
+ 
+ 
+ 390 
+ 
+ 
+ 386 
+ 
+ 
+ (3) 
+ % 
+ 
+ 1 
+ % 
+ 
+ Total Throughput 
+ 593 
+ 
+ 
+ 574 
+ 
+ 
+ 580 
+ 
+ 
+ 3 
+ % 
+ 
+ (1) 
+ % 
+ 
+ Weather (percentage of 10-year average for service area): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Heating degree days 
+ 96 
+ % 
+ 
+ 78 
+ % 
+ 
+ 86 
+ % 
+ 
+ 18 
+ % 
+ 
+ (8) 
+ % 
+ 
+ 
+ Number of metered customers at end of period: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Residential 
+ 3,634,422 
+ 
+ 
+ 3,958,584 
+ 
+ 
+ 3,905,388 
+ 
+ 
+ (8) 
+ % 
+ 
+ 1 
+ % 
+ 
+ 
+ Commercial and Industrial 
+ 278,500 
+ 
+ 
+ 293,959 
+ 
+ 
+ 293,235 
+ 
+ 
+ (5) 
+ % 
+ 
+ — 
+ % 
+ 
+ 
+ Total (1) 
+ 3,912,922 
+ 
+ 
+ 4,252,543 
+ 
+ 
+ 4,198,623 
+ 
+ 
+ (8) 
+ % 
+ 
+ 1 
+ % 
+ 
+ (1) Decrease in number of metered customers is primarily attributable to customer accounts associated with the divestiture of the Louisiana and Mississippi natural gas LDCs in March 2025. See Note 4 for additional detail. 
+ 
+ 
+ 
+ 
+ 
+ 65 
+ 
+ 
+ The following table provides variance explanations by major income statement caption for CERC: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Favorable (Unfavorable) 
+ 
+ 
+ 
+ 
+ 2025 to 2024 
+ 
+ 
+ 2024 to 2023 
+ 
+ 
+ 
+ (in millions) 
+ 
+ Revenues 
+ 
+ 
+ 
+ 
+ 
+ Cost of natural gas, offset in utility natural gas, fuel and purchased power below 
+ 
+ $ 
+ 372 
+ 
+ 
+ $ 
+ (367) 
+ 
+ 
+ 
+ Gross receipts tax, offset in taxes other than income taxes below 
+ 
+ 14 
+ 
+ 
+ 1 
+ 
+ 
+ Weather and usage 
+ 
+ 12 
+ 
+ 
+ (9) 
+ 
+ 
+ 
+ Energy efficiency and other pass-through, offset in operation and maintenance below 
+ 
+ 39 
+ 
+ 
+ (10) 
+ 
+ 
+ Non-volumetric and miscellaneous revenue 
+ 
+ 11 
+ 
+ 
+ (6) 
+ 
+ 
+ 
+ Non-utility revenues 
+ 
+ 2 
+ 
+ 
+ 15 
+ 
+ 
+ Customer growth 
+ 
+ 14 
+ 
+ 
+ 13 
+ 
+ 
+ 
+ Customer rates 
+ 
+ 137 
+ 
+ 
+ 139 
+ 
+ 
+ Impact of divestiture of Louisiana and Mississippi natural gas LDCs on March 31, 2025 
+ 
+ (182) 
+ 
+ 
+ — 
+ 
+ 
+ Total 
+ 
+ $ 
+ 419 
+ 
+ 
+ $ 
+ (224) 
+ 
+ 
+ Utility natural gas 
+ 
+ 
+ 
+ 
+ 
+ Cost of natural gas, offset in revenues above 
+ 
+ $ 
+ (372) 
+ 
+ 
+ $ 
+ 367 
+ 
+ 
+ Impact of divestiture of Louisiana and Mississippi natural gas LDCs on March 31, 2025 
+ 
+ 58 
+ 
+ 
+ — 
+ 
+ 
+ Total 
+ 
+ $ 
+ (314) 
+ 
+ 
+ $ 
+ 367 
+ 
+ 
+ Operation and maintenance 
+ 
+ 
+ 
+ 
+ 
+ 
+ All other operations and maintenance expenses, including bad debt expense 
+ 
+ $ 
+ (12) 
+ 
+ 
+ $ 
+ 21 
+ 
+ 
+ Energy efficiency and other pass-through, offset in revenues above 
+ 
+ (39) 
+ 
+ 
+ 10 
+ 
+ 
+ Contract services 
+ 
+ (12) 
+ 
+ 
+ (6) 
+ 
+ 
+ Impact of divestiture of Louisiana and Mississippi natural gas LDCs on March 31, 2025 
+ 
+ 53 
+ 
+ 
+ — 
+ 
+ 
+ Labor and benefits 
+ 
+ (25) 
+ 
+ 
+ 8 
+ 
+ 
+ 
+ Corporate support services 
+ 
+ (12) 
+ 
+ 
+ 23 
+ 
+ 
+ Total 
+ 
+ $ 
+ (47) 
+ 
+ 
+ $ 
+ 56 
+ 
+ 
+ Depreciation and amortization 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ongoing additions to plant-in-service 
+ 
+ $ 
+ (58) 
+ 
+ 
+ $ 
+ (29) 
+ 
+ 
+ Impact of divestiture of Louisiana and Mississippi natural gas LDCs on March 31, 2025 
+ 
+ 39 
+ 
+ 
+ — 
+ 
+ 
+ Total 
+ 
+ $ 
+ (19) 
+ 
+ 
+ $ 
+ (29) 
+ 
+ 
+ Taxes other than income taxes 
+ 
+ 
+ 
+ 
+ 
+ 
+ Gross receipts tax, offset in revenues above 
+ 
+ $ 
+ (14) 
+ 
+ 
+ $ 
+ (1) 
+ 
+ 
+ 
+ Incremental capital projects placed in service, and the impact of updated property tax rates 
+ 
+ (9) 
+ 
+ 
+ 10 
+ 
+ 
+ Impact of divestiture of Louisiana and Mississippi natural gas LDCs on March 31, 2025 
+ 
+ 15 
+ 
+ 
+ — 
+ 
+ 
+ 
+ Total 
+ 
+ $ 
+ (8) 
+ 
+ 
+ $ 
+ 9 
+ 
+ 
+ Gain on sale 
+ 
+ 
+ 
+ 
+ 
+ 
+ Gain on sale of Louisiana and Mississippi natural gas LDC businesses 
+ 
+ $ 
+ 46 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ Total 
+ 
+ $ 
+ 46 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ Interest expense and other finance charges 
+ 
+ 
+ 
+ 
+ 
+ Changes in outstanding debt 
+ 
+ $ 
+ (3) 
+ 
+ 
+ $ 
+ (11) 
+ 
+ 
+ Other, primarily AFUDC and impacts of regulatory deferrals 
+ 
+ (4) 
+ 
+ 
+ (8) 
+ 
+ 
+ Impact of divestiture of Louisiana and Mississippi natural gas LDCs on March 31, 2025 
+ 
+ $ 
+ 10 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ Total 
+ 
+ $ 
+ 3 
+ 
+ 
+ $ 
+ (19) 
+ 
+ 
+ Other income (expense), net 
+ 
+ 
+ 
+ 
+ 
+ 
+ Changes to non-service benefit cost 
+ 
+ $ 
+ 4 
+ 
+ 
+ $ 
+ 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other income, including interest income from affiliated companies and AFUDC - Equity 
+ 
+ 10 
+ 
+ 
+ (5) 
+ 
+ 
+ Impact of divestiture of Louisiana and Mississippi natural gas LDCs on March 31, 2025 
+ 
+ $ 
+ (1) 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ Total 
+ 
+ $ 
+ 13 
+ 
+ 
+ $ 
+ (2) 
+ 
+ 
+ Income Tax Expense (Benefit). For a discussion of effective tax rate per period, see Note 13 to the consolidated financial statements. 
+ 
+ 
+ 
+ 66 
+ 
+ 
+ 
+ LIQUIDITY AND CAPITAL RESOURCES 
+ 
+ Cash Flows 
+ 
+ The following table summarizes the Registrants’ cash flows by category for the periods presented: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ 
+ 2025 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ 
+ CenterPoint Energy 
+ 
+ Houston Electric 
+ 
+ CERC 
+ 
+ CenterPoint Energy 
+ 
+ Houston Electric 
+ 
+ CERC 
+ 
+ CenterPoint Energy 
+ 
+ Houston Electric 
+ 
+ CERC 
+ 
+ 
+ (in millions) 
+ 
+ Cash provided by (used in): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating activities 
+ $ 
+ 2,486 
+ 
+ 
+ $ 
+ 1,177 
+ 
+ 
+ $ 
+ 1,262 
+ 
+ 
+ $ 
+ 2,139 
+ 
+ 
+ $ 
+ 960 
+ 
+ 
+ $ 
+ 1,068 
+ 
+ 
+ $ 
+ 3,877 
+ 
+ 
+ $ 
+ 1,401 
+ 
+ 
+ $ 
+ 2,312 
+ 
+ 
+ Investing activities 
+ (4,016) 
+ 
+ 
+ (2,349) 
+ 
+ 
+ (361) 
+ 
+ 
+ (4,489) 
+ 
+ 
+ (2,767) 
+ 
+ 
+ (1,419) 
+ 
+ 
+ (4,233) 
+ 
+ 
+ (2,503) 
+ 
+ 
+ (1,643) 
+ 
+ 
+ Financing activities 
+ 1,549 
+ 
+ 
+ 1,187 
+ 
+ 
+ (903) 
+ 
+ 
+ 2,271 
+ 
+ 
+ 1,732 
+ 
+ 
+ 352 
+ 
+ 
+ 374 
+ 
+ 
+ 1,103 
+ 
+ 
+ (668) 
+ 
+ 
+ Operating Activities. The following items contributed to increased (decreased) net cash provided by operating activities: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2025 compared to 2024 
+ 
+ 
+ 2024 compared to 2023 
+ 
+ 
+ CenterPoint Energy 
+ 
+ 
+ Houston Electric 
+ 
+ CERC 
+ 
+ CenterPoint Energy 
+ 
+ 
+ Houston Electric 
+ 
+ CERC 
+ 
+ 
+ (in millions) 
+ 
+ Changes in net income after adjusting for non-cash items 
+ $ 
+ 76 
+ 
+ 
+ $ 
+ 97 
+ 
+ 
+ $ 
+ 25 
+ 
+ 
+ $ 
+ 315 
+ 
+ 
+ $ 
+ (132) 
+ 
+ 
+ $ 
+ 153 
+ 
+ 
+ 
+ Changes in working capital (1) 
+ (231) 
+ 
+ 
+ (275) 
+ 
+ 
+ 48 
+ 
+ 
+ (1,372) 
+ 
+ 
+ 191 
+ 
+ 
+ (1,266) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other non-current assets 
+ 511 
+ 
+ 
+ 370 
+ 
+ 
+ 274 
+ 
+ 
+ (580) 
+ 
+ 
+ (500) 
+ 
+ 
+ (135) 
+ 
+ 
+ 
+ Other non-current liabilities 
+ 189 
+ 
+ 
+ 52 
+ 
+ 
+ (142) 
+ 
+ 
+ (57) 
+ 
+ 
+ (15) 
+ 
+ 
+ 49 
+ 
+ 
+ 
+ Higher pension contribution 
+ (100) 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ 2 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ Other 
+ (98) 
+ 
+ 
+ (27) 
+ 
+ 
+ (11) 
+ 
+ 
+ (46) 
+ 
+ 
+ 15 
+ 
+ 
+ (45) 
+ 
+ 
+ 
+ $ 
+ 347 
+ 
+ 
+ $ 
+ 217 
+ 
+ 
+ $ 
+ 194 
+ 
+ 
+ $ 
+ (1,738) 
+ 
+ 
+ $ 
+ (441) 
+ 
+ 
+ $ 
+ (1,244) 
+ 
+ 
+ (1) This change is primarily related to the receipt of proceeds at CenterPoint Energy and CERC from the issuance of customer rate relief bonds Texas by the Natural Gas Securitization Finance Corporation in 2023. For further details, see Note 7 to the consolidated financial statements. 
+ 
+ Investing Activities. The following items contributed to (increased) decreased net cash used in investing activities: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2025 compared to 2024 
+ 
+ 
+ 2024 compared to 2023 
+ 
+ 
+ CenterPoint Energy 
+ 
+ 
+ Houston Electric 
+ 
+ CERC 
+ 
+ CenterPoint Energy 
+ 
+ 
+ Houston Electric 
+ 
+ CERC 
+ 
+ 
+ (in millions) 
+ 
+ 
+ Payment for asset acquisition 
+ $ 
+ (357) 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net change in capital expenditures 
+ (357) 
+ 
+ 
+ (189) 
+ 
+ 
+ (88) 
+ 
+ 
+ $ 
+ (112) 
+ 
+ 
+ $ 
+ (363) 
+ 
+ 
+ $ 
+ 180 
+ 
+ 
+ Net change in notes receivable from affiliated companies 
+ — 
+ 
+ 
+ 498 
+ 
+ 
+ (1) 
+ 
+ 
+ — 
+ 
+ 
+ 108 
+ 
+ 
+ 2 
+ 
+ 
+ Proceeds from divestitures 
+ 1,219 
+ 
+ 
+ — 
+ 
+ 
+ 1,219 
+ 
+ 
+ (144) 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ Other 
+ (32) 
+ 
+ 
+ 109 
+ 
+ 
+ (72) 
+ 
+ 
+ — 
+ 
+ 
+ (9) 
+ 
+ 
+ 42 
+ 
+ 
+ 
+ $ 
+ 473 
+ 
+ 
+ $ 
+ 418 
+ 
+ 
+ $ 
+ 1,058 
+ 
+ 
+ $ 
+ (256) 
+ 
+ 
+ $ 
+ (264) 
+ 
+ 
+ $ 
+ 224 
+ 
+ 
+ 
+ 
+ 67 
+ 
+ 
+ Financing Activities. The following items contributed to (increased) decreased net cash provided by (used in) financing activities: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2025 compared to 2024 
+ 
+ 
+ 2024 compared to 2023 
+ 
+ 
+ CenterPoint Energy 
+ 
+ 
+ Houston Electric 
+ 
+ CERC 
+ 
+ CenterPoint Energy 
+ 
+ 
+ Houston Electric 
+ 
+ CERC 
+ 
+ 
+ (in millions) 
+ 
+ Net changes in commercial paper outstanding 
+ $ 
+ 537 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ (155) 
+ 
+ 
+ $ 
+ 516 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ 436 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net changes in proceeds from issuance of Common Stock 
+ (494) 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ 494 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ Net changes in long-term debt and term loans outstanding, excluding commercial paper 
+ (770) 
+ 
+ 
+ 63 
+ 
+ 
+ (819) 
+ 
+ 
+ 51 
+ 
+ 
+ (6) 
+ 
+ 
+ 725 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net changes in debt and equity issuance costs 
+ (11) 
+ 
+ 
+ (10) 
+ 
+ 
+ 3 
+ 
+ 
+ 20 
+ 
+ 
+ 5 
+ 
+ 
+ 11 
+ 
+ 
+ Net changes in short-term borrowings 
+ 1 
+ 
+ 
+ — 
+ 
+ 
+ 1 
+ 
+ 
+ 6 
+ 
+ 
+ — 
+ 
+ 
+ 6 
+ 
+ 
+ Redemption of Series A Preferred Stock 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ 800 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ Increased payment of Common Stock dividends 
+ (52) 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ (37) 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ 
+ Decreased payment of preferred stock dividends 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ 50 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net change in notes payable from affiliated companies 
+ — 
+ 
+ 
+ 54 
+ 
+ 
+ 291 
+ 
+ 
+ — 
+ 
+ 
+ 642 
+ 
+ 
+ — 
+ 
+ 
+ 
+ Change in dividend to parent 
+ — 
+ 
+ 
+ 41 
+ 
+ 
+ (288) 
+ 
+ 
+ — 
+ 
+ 
+ 28 
+ 
+ 
+ 54 
+ 
+ 
+ 
+ Change in contribution from parent 
+ — 
+ 
+ 
+ (750) 
+ 
+ 
+ (290) 
+ 
+ 
+ — 
+ 
+ 
+ (41) 
+ 
+ 
+ (210) 
+ 
+ 
+ Other 
+ 67 
+ 
+ 
+ 57 
+ 
+ 
+ 2 
+ 
+ 
+ (3) 
+ 
+ 
+ 1 
+ 
+ 
+ (2) 
+ 
+ 
+ 
+ $ 
+ (722) 
+ 
+ 
+ $ 
+ (545) 
+ 
+ 
+ $ 
+ (1,255) 
+ 
+ 
+ $ 
+ 1,897 
+ 
+ 
+ $ 
+ 629 
+ 
+ 
+ $ 
+ 1,020 
+ 
+ 
+ Future Sources and Uses of Cash 
+ 
+ Material Current and Long-term Cash Requirements . The liquidity and capital requirements of the Registrants are affected primarily by results of operations, capital expenditures, storm restoration costs, debt service requirements, tax payments, working capital needs and various regulatory actions. Future capital expenditures are expected to primarily relate to investments in infrastructure. These capital expenditures are anticipated to enhance the safety, reliability and resiliency of our systems and deliver consistent value for stakeholders across the Registrants’ jurisdictions. In addition to dividend payments on CenterPoint Energy’s Common Stock and interest payments on debt, the Registrants’ principal anticipated cash requirements for 2026 include the following: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CenterPoint Energy 
+ 
+ Houston Electric 
+ 
+ CERC 
+ 
+ 
+ 
+ (in millions) 
+ 
+ 
+ Estimated capital expenditures 
+ 
+ $ 
+ 6,695 
+ 
+ 
+ $ 
+ 4,031 
+ 
+ 
+ $ 
+ 2,198 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Scheduled principal payments on Securitization Bonds 
+ 
+ 40 
+ 
+ 
+ 27 
+ 
+ 
+ — 
+ 
+ 
+ 
+ Scheduled principal payments on debt instruments, excluding Securitization Bonds 
+ 
+ 2,377 
+ 
+ 
+ 800 
+ 
+ 
+ 60 
+ 
+ 
+ 
+ Expected contributions to pension plans and other postretirement plans 
+ 
+ 86 
+ 
+ 
+ — 
+ 
+ 
+ 5 
+ 
+ 
+ The Registrants expect that anticipated cash needs for 2026 will be met with available cash flows from operations, proceeds from the sale of our Ohio natural gas LDC business, as well as cash flows from financing (such as issuances of debt securities and equity securities upon physical settlement of outstanding forward sale agreements and borrowings under credit facilities, commercial paper issuances or other sources). The issuances of securities in the capital markets and borrowings under additional credit facilities and term loans may not, however, be available on acceptable terms. The Registrants may, from time to time, redeem, repurchase or otherwise acquire their outstanding debt securities through open market purchases, tender offers or pursuant to the terms of such securities. 
+ 
+ 
+ 
+ 
+ 68 
+ 
+ 
+ The following table sets forth the Registrants’ estimates of the Registrants’ capital expenditures currently planned for projects for the periods presented. See Note 16 to the consolidated financial statements for CenterPoint Energy’s actual capital expenditures by reportable segment for 2025. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 2027 
+ 
+ 2028 
+ 
+ 2029 
+ 
+ 2030 
+ 
+ CenterPoint Energy 
+ 
+ 
+ (in millions) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Electric 
+ 
+ 
+ $ 
+ 4,388 
+ 
+ 
+ $ 
+ 4,736 
+ 
+ 
+ $ 
+ 4,936 
+ 
+ 
+ $ 
+ 3,777 
+ 
+ 
+ $ 
+ 4,358 
+ 
+ 
+ Natural Gas 
+ 
+ 
+ 2,288 
+ 
+ 
+ 2,163 
+ 
+ 
+ 2,122 
+ 
+ 
+ 1,924 
+ 
+ 
+ 2,024 
+ 
+ 
+ Corporate and Other 
+ 
+ 
+ 19 
+ 
+ 
+ 20 
+ 
+ 
+ 20 
+ 
+ 
+ 20 
+ 
+ 
+ 20 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ 
+ $ 
+ 6,695 
+ 
+ 
+ $ 
+ 6,919 
+ 
+ 
+ $ 
+ 7,078 
+ 
+ 
+ $ 
+ 5,721 
+ 
+ 
+ $ 
+ 6,402 
+ 
+ 
+ 
+ Houston Electric (1) 
+ 
+ 
+ $ 
+ 4,031 
+ 
+ 
+ $ 
+ 4,326 
+ 
+ 
+ $ 
+ 4,474 
+ 
+ 
+ $ 
+ 3,440 
+ 
+ 
+ $ 
+ 4,076 
+ 
+ 
+ 
+ CERC (1) 
+ 
+ 
+ $ 
+ 2,198 
+ 
+ 
+ $ 
+ 2,047 
+ 
+ 
+ $ 
+ 1,994 
+ 
+ 
+ $ 
+ 1,826 
+ 
+ 
+ $ 
+ 1,899 
+ 
+ 
+ (1) Houston Electric and CERC each consist of a single reportable segment. 
+ 
+ The following table summarizes the Registrants’ material current and long-term cash requirements as of December 31, 2025: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 2027 
+ 
+ 2028 
+ 
+ 2029 
+ 
+ 2030 
+ 
+ Thereafter 
+ 
+ Total 
+ 
+ 
+ (in millions) 
+ 
+ CenterPoint Energy 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Short-term borrowings 
+ $ 
+ 500 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ 500 
+ 
+ 
+ Securitization Bonds (1) 
+ 40 
+ 
+ 
+ 37 
+ 
+ 
+ 39 
+ 
+ 
+ 41 
+ 
+ 
+ 43 
+ 
+ 
+ 514 
+ 
+ 
+ 714 
+ 
+ 
+ Other long-term debt (1) (2) 
+ 1,877 
+ 
+ 
+ 326 
+ 
+ 
+ 3,941 
+ 
+ 
+ 870 
+ 
+ 
+ 1,469 
+ 
+ 
+ 13,470 
+ 
+ 
+ 21,953 
+ 
+ 
+ Interest payments — Securitization Bonds (3) 
+ 38 
+ 
+ 
+ 32 
+ 
+ 
+ 30 
+ 
+ 
+ 28 
+ 
+ 
+ 26 
+ 
+ 
+ 134 
+ 
+ 
+ 288 
+ 
+ 
+ Interest payments — other long-term debt (3) 
+ 1,024 
+ 
+ 
+ 956 
+ 
+ 
+ 914 
+ 
+ 
+ 749 
+ 
+ 
+ 3,170 
+ 
+ 
+ 8,223 
+ 
+ 
+ 15,036 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Commodity and other commitments (4) 
+ 978 
+ 
+ 
+ 946 
+ 
+ 
+ 781 
+ 
+ 
+ 630 
+ 
+ 
+ 681 
+ 
+ 
+ 2,919 
+ 
+ 
+ 6,935 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total cash requirements 
+ $ 
+ 4,457 
+ 
+ 
+ $ 
+ 2,297 
+ 
+ 
+ $ 
+ 5,705 
+ 
+ 
+ $ 
+ 2,318 
+ 
+ 
+ $ 
+ 5,389 
+ 
+ 
+ $ 
+ 25,260 
+ 
+ 
+ $ 
+ 45,426 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Houston Electric 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Short-term borrowings 
+ $ 
+ 500 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ 500 
+ 
+ 
+ Securitization Bonds (1) 
+ 27 
+ 
+ 
+ 23 
+ 
+ 
+ 24 
+ 
+ 
+ 25 
+ 
+ 
+ 26 
+ 
+ 
+ 277 
+ 
+ 
+ 402 
+ 
+ 
+ Other long-term debt (1) 
+ 300 
+ 
+ 
+ 300 
+ 
+ 
+ 500 
+ 
+ 
+ — 
+ 
+ 
+ 500 
+ 
+ 
+ 7,679 
+ 
+ 
+ 9,279 
+ 
+ 
+ Interest payments — Securitization Bonds (3) 
+ 22 
+ 
+ 
+ 17 
+ 
+ 
+ 16 
+ 
+ 
+ 14 
+ 
+ 
+ 13 
+ 
+ 
+ 62 
+ 
+ 
+ 144 
+ 
+ 
+ Interest payments — other long-term debt (3) 
+ 401 
+ 
+ 
+ 383 
+ 
+ 
+ 379 
+ 
+ 
+ 353 
+ 
+ 
+ 2,659 
+ 
+ 
+ 3,466 
+ 
+ 
+ 7,641 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total cash requirements 
+ $ 
+ 1,250 
+ 
+ 
+ $ 
+ 723 
+ 
+ 
+ $ 
+ 919 
+ 
+ 
+ $ 
+ 392 
+ 
+ 
+ $ 
+ 3,198 
+ 
+ 
+ $ 
+ 11,484 
+ 
+ 
+ $ 
+ 17,966 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CERC 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Long-term debt (1) 
+ $ 
+ 60 
+ 
+ 
+ $ 
+ 26 
+ 
+ 
+ $ 
+ 1,779 
+ 
+ 
+ $ 
+ 30 
+ 
+ 
+ $ 
+ 500 
+ 
+ 
+ $ 
+ 2,345 
+ 
+ 
+ $ 
+ 4,740 
+ 
+ 
+ Interest payments — long-term debt (3) 
+ 227 
+ 
+ 
+ 224 
+ 
+ 
+ 191 
+ 
+ 
+ 136 
+ 
+ 
+ 133 
+ 
+ 
+ 799 
+ 
+ 
+ 1,710 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Commodity and other commitments (4) 
+ 684 
+ 
+ 
+ 587 
+ 
+ 
+ 542 
+ 
+ 
+ 522 
+ 
+ 
+ 480 
+ 
+ 
+ 1,322 
+ 
+ 
+ 4,137 
+ 
+ 
+ Total cash requirements 
+ $ 
+ 971 
+ 
+ 
+ $ 
+ 837 
+ 
+ 
+ $ 
+ 2,512 
+ 
+ 
+ $ 
+ 688 
+ 
+ 
+ $ 
+ 1,113 
+ 
+ 
+ $ 
+ 4,466 
+ 
+ 
+ $ 
+ 10,587 
+ 
+ 
+ (1) Balances reflect aggregate principal amounts outstanding and do not include unamortized discounts, premiums or issuance costs. See Note 12 to the consolidated financial statements for additional information. 
+ (2) ZENS obligations are included in the 2029 column at their contingent principal amount of less than $0.1 million as of December 31, 2025. These obligations are exchangeable for cash at any time at the option of the holders for 95% of the current value of the reference shares attributable to each ZENS ($507 million as of December 31, 2025), as discussed in Note 10 to the consolidated financial statements. 
+ (3) The Registrants calculated estimated interest payments for long-term debt as follows: for fixed-rate debt and term debt, the Registrants calculated interest based on the applicable rates and payment dates; for variable-rate debt and/or non-term debt, the Registrants used interest rates in place as of December 31, 2025. The Registrants typically expect to settle such interest payments with cash flows from operations and short-term borrowings. 
+ (4) For a discussion of commodity and other commitments, see Note 14(a) to the consolidated financial statements. 
+ 
+ The table above does not include the following: 
+ • estimated future payments for expected future AROs primarily estimated to be incurred after 2030. See Note 3(c) to the consolidated financial statements for further information. 
+ 
+ 
+ 69 
+ 
+ 
+ • expected contributions to pension plans and other postretirement plans in 2026 and expected benefit payments to be paid by the pension and postretirement benefit plans. See Note 8(g) to the consolidated financial statements for further information. 
+ • operating leases. See Note 19 to the consolidated financial statements for further information. 
+ 
+ Off-Balance Sheet Arrangements 
+ 
+ Other than Houston Electric’s general mortgage bonds issued as collateral for tax-exempt long-term debt of CenterPoint Energy as discussed in Note 12 and guarantees as discussed in Note 14(b) to the consolidated financial statements and short-term leases, the Registrants have no off-balance sheet arrangements. 
+ 
+ 
+ 
+ 70 
+ 
+ 
+ 
+ Regulatory Matters 
+ 
+ TEEEF (CenterPoint Energy and Houston Electric) 
+ 
+ For information about TEEEF, see Note 7 to the consolidated financial statements. 
+ 
+ Hurricane Beryl (CenterPoint Energy and Houston Electric) 
+ 
+ For information about Hurricane Beryl, see Note 7 to the consolidated financial statements. 
+ 
+ May 2024 Storm Events (CenterPoint Energy and Houston Electric) 
+ 
+ For information about May 2024 Storm Events, see Note 7 to the consolidated financial statements. 
+ 
+ February 2021 Winter Storm Event (CenterPoint Energy, Houston Electric and CERC) 
+ 
+ For information about the February 2021 Winter Storm Event, see Note 7 to the consolidated financial statements. 
+ 
+ Indiana Electric Securitization of Generation Retirements (CenterPoint Energy) 
+ 
+ For further information about the issuance of SIGECO Securitization Bonds, see Note 7 to the consolidated financial statements. 
+ 
+ Indiana Electric CPCN (CenterPoint Energy) 
+ 
+ BTAs 
+ 
+ Indiana Electric pursued PTCs for solar projects following the passage of the IRA. On February 7, 2023, Indiana Electric filed a CPCN with the IURC to approve an amended BTA to purchase the 191 MW Posey Solar project. Indiana Electric requested that project costs, net of PTCs, be recovered in rate base rather than a levelized rate, through base rates or the CECA mechanism, depending on which provides more timely recovery. On September 6, 2023, the IURC issued an order approving the CPCN. On March 7, 2025, SIGECO completed the acquisition of Posey Solar from Arevon for a purchase price of approximately $357 million. The Posey Solar project was placed in service in the second quarter of 2025 and is currently being recovered through base rates. In the applicable rate case, the IURC approved Indiana Electric’s request to convey PTCs to customers through the new tax adjustment rider. For further information, see Note 4 to the consolidated financial statements. 
+ 
+ On January 10, 2023, Indiana Electric filed a CPCN with the IURC to acquire a wind energy generating facility located in the central region of MISO through a BTA, and on June 6, 2023, the IURC issued an order approving the CPCN, thereby authorizing Indiana Electric to purchase the wind generating facility. In August 2025, due to changing project considerations and concerns about customer affordability, Indiana Electric exited negotiations relating to this wind energy generating facility. On December 4, 2025, Indiana Electric filed a Notice of Termination in this proceeding. 
+ 
+ PPAs 
+ 
+ Indiana Electric sought approval in February 2021 for a 100 MW solar PPA with Clenera LLC in Warrick County, Indiana. The request accounted for increased cost of debt related to this PPA, which would provide equivalent equity return to offset imputed debt during the 25-year life of the PPA. In October 2021, the IURC approved the Warrick County solar PPA but denied the request to preemptively offset imputed debt in the PPA cost. Due to rising project costs caused by inflation and supply chain issues affecting the energy industry, Clenera LLC and Indiana Electric renegotiated the terms of the agreement to increase the PPA price and Indiana Electric subsequently filed a request with the IURC to amend the previously approved PPA with certain modifications. On May 30, 2023, the IURC approved the Warrick County solar amended PPA; however, due to MISO interconnection study delays and estimated interconnection cost increases, on April 24, 2025, Indiana Electric provided notice that it was exercising its right to terminate the PPA, which terminated all further obligations of Indiana Electric with respect to the project. 
+ 
+ On August 25, 2021, Indiana Electric filed with the IURC seeking approval to purchase 185 MW of solar power, under a 15-year PPA, from Oriden , which is developing a solar project in Vermillion County, Indiana, and 150 MW of solar power, under a 20-year PPA, from Origis, which is developing a solar project in Knox County, Indiana. On May 4, 2022, the IURC issued an order approving Indiana Electric to enter into both PPAs. In March 2022, when the results of the MISO 
+ 
+ 
+ 71 
+ 
+ 
+ interconnection study were completed, Origis advised Indiana Electric that the costs to construct the solar project in Knox County, Indiana had increased largely due to escalating commodity and supply chain costs impacting manufacturers worldwide. In August 2022, Indiana Electric and Origis entered into an amended PPA, which reiterated the terms contained in the 2021 PPA with certain modifications. On February 22, 2023, the IURC approved the Knox County solar amended PPA; however, due to MISO interconnection delays, the project in-service date has been delayed from 2024 to 2026. On January 17, 2023, Indiana Electric filed a request with the IURC to amend the previously approved PPA with Oriden with certain modifications. On May 30, 2023, the IURC approved the Vermillion County solar amended PPA; however, due to MISO interconnection study delays, the developer disclosed the project in-service date would be delayed to 2028. On May 9, 2025, Indiana Electric and Oriden terminated the PPA. 
+ 
+ On May 1, 2024, Indiana Electric filed with the IURC seeking approval to purchase 147 MW of wind power under a 25-year PPA with an affiliate of NextEra Energy, Inc., which is developing a wind project in Knox County, Illinois. On November 6, 2024, the IURC approved the Knox County wind PPA, which provided for the recovery of the purchase power costs through the fuel adjustment clause proceedings over the term of the PPA. The facility is targeted to be in operation in late 2026. 
+ 
+ On April 14, 2025, Indiana Electric filed with the IURC seeking approval to purchase 170 MW of wind power under a 25-year PPA with an affiliate of NextEra Energy, Inc., which is developing a wind project in Tama County, Iowa. On June 3, 2025, an amendment to the PPA was filed with the IURC requesting an extension of the PPA’s term from 25 to 27 years. Indiana Electric received a final order from the IURC on November 5, 2025. The facility became operational on December 9, 2025. The power purchase costs will be recovered through the fuel adjustment clause proceedings over the term of the PPA. 
+ 
+ Indiana Electric 2025 IRP (CenterPoint Energy) 
+ 
+ On December 5, 2025, Indiana Electric submitted its 2025 IRP with the IURC pursuant to applicable Indiana law requiring electric utilities to develop and submit to the IURC every three years (unless extended) an IRP that uses economic modeling to consider the costs and risks associated with available generation resource options to provide reliable, cost effective electric service for the next 20-year period. Indiana Electric’s 2025 IRP was developed following a series of public meetings and stakeholder discussions occurring in 2025 and identified both a preferred portfolio, which assumes the status quo for Indiana Electric’s service territory, and an alternative preferred portfolio, which includes a potential large load addition. Due to the phasing out of IRA renewable energy tax incentives pursuant to the OBBBA, declining accreditation from MISO for renewable energy and increased price pressure on resources due to, among other things, tariffs and ongoing supply chain issues, the 2025 IRP extends the timing for Indiana Electric’s generation transition plan. Accordingly, both the preferred portfolio and the alternative portfolio call for using the interconnection at F.B. Culley unit 2 for a 90 MW battery storage unit by 2028 and the conversion of the A.B. Brown units 5 and 6 gas turbines to a combined cycle gas turbine unit in the near- to mid-term, depending on load conditions. Decisions around F.B. Culley 3 will be reevaluated in the next IRP in 2028. The 2025 IRP includes the cancellation of nearly $1 billion in non-economical renewable projects. For more information regarding the risks associated with Indiana Electric’s execution of its generation transition plan and its IRP, see “Risk Factors - Risk Factors Affecting Operations - Indiana Electric’s execution of its generation transition plan...” 
+ 
+ F.B. Culley Unit 2 (CenterPoint Energy) 
+ 
+ While Indiana Electric’s 2025 IRP (similar to previous IRPs) preferred portfolios included the retirement of F.B. Culley Unit 2, a coal-fired generation unit, by the end of 2025, the U.S. Department of Energy issued an emergency 202(c) order in December 2025 directing Indiana Electric to continue operating the unit through March 23, 2026. Indiana Electric has filed a complaint with the FERC to request creation of a cost recovery/cost allocation mechanism. If created, a separate filing will be made at a later date with the FERC to seek recovery of all costs incurred to comply with the U.S. Department of Energy’s emergency 202(c) order. Indiana Electric has also filed an application with the IURC in Cause No. 46350 to recover any compliance costs associated with the emergency 202(c) order that are not recovered through the FERC proceedings. 
+ 
+ Natural Gas Combustion Turbines (CenterPoint Energy) 
+ 
+ On June 17, 2021, Indiana Electric filed a CPCN with the IURC seeking approval to construct two natural gas combustion turbines to replace portions of its existing coal-fired generation fleet. On June 28, 2022, the IURC approved the CPCN. The $287 million turbine facility was constructed at the previous site of the A.B. Brown power plant in Posey County, Indiana. Indiana Electric received approval for depreciation expense and post in-service carrying costs to be deferred in a regulatory asset until the date Indiana Electric’s base rates include a return on and recovery of depreciation expense on the facility. A new approximately 23.5-mile pipeline was constructed and is operated by Texas Gas Transmission, LLC to supply natural gas to the turbine facility. FERC granted a certificate to construct the pipeline on October 20, 2022. On January 7, 2025, the United States Court of Appeals for the D.C. Circuit affirmed FERC’s order granting the certificate. Indiana Electric granted its contractor a full notice to proceed to construct the turbines on December 9, 2022. In the second quarter of 2025, 230 MW of the facility was 
+ 
+ 
+ 72 
+ 
+ 
+ placed in service, and, due to a transformer manufacturing issue, the remaining 230 MW of the facility was placed in service in the third quarter of 2025. Indiana Electric received approval from the IURC on February 3, 2025, to recover for each combustion turbine by adjusting base rates as they are placed in service. The first turbine and second turbine are currently being recovered in base rates that were updated on June 17, 2025 and October 1, 2025, respectively. 
+ 
+ Stewart-West Bay Transmission Project (CenterPoint Energy and Houston Electric) 
+ 
+ On April 30, 2025, Houston Electric filed a CCN application with the PUCT for approval to replace a portion of a 138 kV double circuit transmission line in Galveston County, Texas that connects Houston Electric’s Stewart and West Bay substations. On June 27, 2025, an order was issued dismissing all opposing parties from the proceeding. On August 11, 2025, a notice of approval of Houston Electric’s application was issued. The project is estimated to cost approximately $105 million, but the actual capital cost of the project will depend on construction costs and other factors. Completion of construction and energization of the line is anticipated to occur in the third quarter of 2027. 
+ 
+ Space City Solar Transmission Interconnection Project (CenterPoint Energy and Houston Electric) 
+ 
+ On December 17, 2020, Houston Electric filed a CCN with the PUCT for approval to build a 345 kV transmission line in Wharton County, Texas connecting the Hillje substation on Houston Electric’s transmission system to the planned 610 MW Space City Solar Generation facility being developed by third-party developer, EDF Renewables. In November 2021, the PUCT approved a route that was estimated to cost $25 million and issued a final order on January 12, 2022. There have been project delays due to supply chain constraints in the developer acquiring solar panels. Houston Electric substantially completed construction in the fall of 2023, and the transmission line is expected to be energized shortly after the generation facility is complete, which is anticipated to occur in the first quarter of 2027. 
+ 
+ Kilgore Transmission Project (CenterPoint Energy and Houston Electric) 
+ 
+ On August 30, 2023, Houston Electric filed a CCN application with the PUCT for approval to build a 138 kV double circuit transmission line in Chambers County, Texas that will loop the existing 138 kV Chevron to Langston circuit number 86 on Houston Electric’s transmission system to Houston Electric’s planned Kilgore substation. On March 7, 2024, the PUCT issued a final order approving a route that was estimated to cost $60 million, including substation costs. The actual capital costs of the project, including the transmission line and the planned Kilgore substation, will depend on actual land acquisition costs, construction costs, and other factors. Completion of construction and energization of the line and substation is anticipated to occur in the fourth quarter of 2026. 
+ 
+ Mill Creek Transmission Project (CenterPoint Energy and Houston Electric) 
+ 
+ On November 17, 2023, Houston Electric filed a CCN application with the PUCT for approval to build a 138 kV double circuit transmission line in Harris and Montgomery Counties, Texas that will connect Houston Electric’s transmission system to Houston Electric’s planned Mill Creek substation. On November 21, 2024, the PUCT issued a final order approving a route estimated to cost $68 million. The actual capital costs of the project will depend on actual land acquisition costs, construction costs, and other factors. Completion of construction and energization of the line and substation is anticipated to occur in the second quarter of 2027. 
+ 
+ Indiana Legislation (CenterPoint Energy) 
+ 
+ Indiana Electric is evaluating legislation filed in Indiana’s 124th General Assembly, including House Bill 1002, a multi-faceted bill aimed at improving the affordability of electric rates. House Bill 1002 would do the following: 
+ 
+ • beginning in 2026, require an electric utility to file a multi-year rate plan according to a prescribed schedule; 
+ • apply a customer affordability performance metric and a service restoration performance metric to each year of the multi-year rate plan and use such metric to provide financial rewards or penalties based on the electricity supplier’s measured performance of the metric; 
+ • require an electric utility to offer a low income customer assistance program by July 1, 2026 to be funded by at least 0.2% of jurisdictional revenues for residential customers and allow the utility to seek recovery of eligible program costs; 
+ • prohibit an electric utility from terminating service to any customer on a day forecasted by the National Weather Service to have a heat index of at least 95 degrees Fahrenheit; 
+ • modify the IURC’s authority related to use of emergency powers; 
+ 
+ 
+ 73 
+ 
+ 
+ • apply a levelized billing plan to residential customers who are eligible and have applied for the Low Income Housing Energy Assistance Program; and 
+ • require an electric utility to report certain residential customer data to the Office of the Utility Consumer Counselor on a quarterly basis. 
+ 
+ There are other bills moving through the 124th General Assembly, including legislation regarding surplus interconnection service, nuclear facility permits, and a bill on land use and developments that includes siting of battery energy storage systems. 
+ 
+ Texas Legislation (CenterPoint Energy, Houston Electric and CERC) 
+ 
+ The Registrants are evaluating the effects of certain legislation passed in 2025 and associated PUCT rulemaking projects, including the following pieces of legislation that became law during the 89th Texas Legislature: 
+ 
+ • House Bill 4384, effective June 20, 2025, allows LDCs to recover post in-service carrying costs (PISCC) in GRIP filings. This allows LDCs to defer for future recovery as a regulatory asset PISCC, depreciation expense and ad valorem taxes associated with unrecovered gross plant. 
+ • Senate Bill 231, effective June 20, 2025, provides that, on or after the effective date, TDUs may only enter into, renew or extend leases for TEEEF units with a maximum generation capacity 5 or fewer MW and that are rapidly deployable, and that they may enter into leases without prior PUCT preapproval (as required by the TEEEF Rule) in the case of an emergency or if the lease includes a provision allowing for the alteration of the lease based on applicable PUCT orders or rules. 
+ • Senate Bill 1963, effective September 1, 2025, allows ERCOT utilities to securitize system restoration costs using a third-party government agency, which may allow for the debt to be off balance sheet and an abbreviated proceeding timeline. This bill also lowered the system restoration costs threshold from $100 million to $50 million, provided the effectiveness tests are met. 
+ • Senate Bill 482, effective September 1, 2025, results in increased penalties for assaulting a utility worker to a third-degree felony, equal to assaulting a first responder, and for harassing a utility worker to a Class A misdemeanor. 
+ 
+ Transmission and Distribution System Resiliency Plans (CenterPoint Energy and Houston Electric) 
+ 
+ Following feedback from customers, external experts and other stakeholders, including elected officials and local agencies, Houston Electric filed a revised SRP with the PUCT on January 31, 2025 for review and approval. The filed SRP proposed to invest approximately $5.75 billion over a three-year period from 2026 to 2028 for transmission and distribution infrastructure, information technology and cybersecurity assets and event response capability. This plan proposed 39 resiliency-enhancing measures and a microgrid pilot program to be implemented over the three-year period. The SRP as filed had an estimated capital cost of approximately $5.54 billion and an estimated operations and maintenance expense of approximately $211 million. Approximately $2.17 billion of such cost was for transmission-related investments, and approximately $3.58 billion was for distribution-related investments. Intervenor testimony was filed on April 8, 2025, and PUCT staff testimony was filed on April 15, 2025. On June 12, 2025, Houston Electric announced that it had reached a settlement agreement with parties to its SRP, which provides for approximately $3.18 billion in distribution-related investments. The proposed transmission investments were removed from the SRP and Houston Electric intends to implement such investments, as appropriate, outside of the SRP process. The agreement also includes the deferral of more than $240 million of the approximate $3.18 billion in SRP costs until the second half of 2029, which is intended to help reduce the bill impact for customers by spreading costs over a four-year period instead of three years. Once approved, and while some cost recovery would be deferred into 2029, it is expected that all SRP work agreed upon in the settlement agreement will be completed in the proposed 2025 to 2028 timeframe. At its November 14, 2025 open meeting, the PUCT approved the SRP. The final order issued on November 19, 2025 includes twenty-seven resiliency measures totaling approximately $2.68 billion in capital investments and an estimated $185 million in operations and maintenance expense. The approved SRP also includes the deferral of $217 million of the approximate $2.87 billion in SRP costs until the second half of 2029. 
+ 
+ Rate Change Applications 
+ 
+ The Registrants are routinely involved in rate change applications before state regulatory authorities. Those applications include general rate cases, where the entire cost of service of the utility is assessed and reset. In addition, the Registrants are periodically involved in proceedings to adjust their capital tracking mechanisms (e.g., CSIA, DCRF, DRR, GRIP, TCOS, ECA, CECA and TDSIC), their decoupling mechanisms (e.g., decoupling and SRC), and their energy efficiency cost trackers (e.g., CIP, DSMA, EECRF, EEFC and EEFR). 
+ 
+ Minnesota Gas Rate Case. On November 1, 2023, CERC filed an application with the MPUC requesting an adjustment to delivery charges in 2024 and 2025 for the natural gas business in Minnesota. The requested increase was for approximately 
+ 
+ 
+ 74 
+ 
+ 
+ 6.5% or $85 million for 2024 and an additional approximately 3.7% or $52 million for 2025. The need for a rate change was primarily driven by continuing investment in the safety and reliability of the natural gas system, including new Intelis natural gas meters that feature an integrated safety shutoff valve, changes to depreciation rates that better reflect the actual life and salvage characteristics of assets and changes in other costs to serve customers. The request reflected a proposed 10.3% ROE on a 52.5% equity ratio. Interim rates for 2024 of $69 million, subject to refund, were implemented as of January 1, 2024. A request for interim rates of $33 million for 2025 was filed on September 30, 2024, approved at the December 3, 2024 hearing and approved by an order issued December 20, 2024. A unanimous settlement agreement was filed on November 25, 2024 and provided for an increase of $60.8 million for 2024 and an additional $42.7 million for 2025. The parties agreed to an overall cost of capital of 7.07% for 2024 and 2025. The ALJ filed a report on February 13, 2025 recommending that the MPUC approve the settlement agreement. As required by the December 20, 2024 order, the difference between 2024 interim rates and the settled amount of $60.8 million was refunded to customers in March 2025. Exceptions to the ALJ report were filed on April 18, 2025. On May 29, 2025, the MPUC approved the settlement agreement. A final order approving the settlement agreement was issued by the MPUC on June 27, 2025 and final rates were implemented on September 1, 2025. 
+ 
+ Indiana Electric Rate Case. On December 5, 2023, Indiana Electric filed a petition with the IURC for authority to modify its rates and charges for electric utility service through a phase-in of rates. The requested increase was approximately 16% or $119 million based on a forward looking 2025 test year. The need for a rate increase was primarily driven by the continuing investment in the safety and reliability of the system and normal increases in operating expenses. The initial filing of the rate case reflected a proposed 10.4% ROE on a forecasted 55% equity ratio. Indiana Electric reached a settlement agreement with less than all parties and submitted the agreement to the IURC on May 20, 2024. The settlement reflected a proposed 9.8% ROE on a forecasted 55% equity ratio. The requested increase was lowered to $80 million, an 11% increase. Indiana Electric received a final order on February 3, 2025 approving the settlement with one modification that effectively capped the residential increase to 1.15% of the total increase, allocating the difference to other commercial and industrial customers. The final order approved the 9.8% ROE on a forecasted 55% equity ratio and increases revenues by $80 million. 
+ 
+ Houston Electric Rate Case. On March 6, 2024, Houston Electric filed an application with the PUCT requesting authority to change rates and charges for electric transmission and distribution service. The requested increase was approximately $17 million (1%) for retail customers and $43 million (6.6%) for wholesale transmission service, excluding TCRF and rate case expenses. The need for a rate increase was primarily driven by continuing investment that has been made to support customer growth and to bolster the safety and reliability of Houston Electric’s transmission and distribution system. The request reflected a proposed 10.4% ROE and a 45% equity ratio. Errata testimony was filed to correct minor errors included in the initial filing, which reduced the requested increase to $56 million compared to then-current rates. Houston Electric reached a settlement agreement with certain parties and submitted the agreement to the PUCT on January 29, 2025. The settlement reflected a $47 million reduction in annual revenues and a 9.65% ROE and a weighted average cost of capital of 6.606% based upon an as-filed 4.29% cost of debt, an agreed ROE of 9.65% and an agreed regulatory capital structure of 56.75% long-term debt and 43.25% equity. A final order approving the settlement agreement was issued by the PUCT on March 13, 2025. Final retail delivery rates were implemented on April 28, 2025. Final wholesale transmission rates were superseded by interim TCOS rates that went into effect on the same date. 
+ 
+ Ohio Gas Rate Case . CEOH filed its Application and Standard Filing Requirement in October 2024 and the related testimony in November 2024. The filing seeks a revenue requirement increase of approximately $100 million based on a requested ROE of 10.4% and an equity percentage of 54.13%. The need for a rate increase was primarily driven by continuing investment in the safety and reliability of the natural gas system. On May 16, 2025, the PUCO staff filed its staff report recommending a revenue requirement range of $340.8 million to $350.3 million and a net increase of $25.1 million to $34.6 million based on an ROE range from 9.05% to 10.07% with a capitalization ratio of 52.3% common equity and 47.7% long-term debt. The PUCO staff recommendation includes amortization over 49 years and 65 years for CEP and DRR regulatory assets, respectively, compared to CEOH’s proposal to amortize over seven years. On June 16, 2025, CEOH filed objections to the PUCO staff report and supplemental testimony. On July 11, 2025, CEOH filed a stipulation and recommendation that outlined the agreed upon terms between CEOH, the Federal Executive Agencies, Ohio Energy Group, the City of Dayton, the Retail Energy Supply Association, Interstate Gas Supply, LLC and the PUCO staff. One intervening party to the case, Spire Marketing, Inc., is a non-opposing party, while another intervening party to the case, the Office of the Ohio Consumers’ Counsel, filed its testimony in opposition to the stipulation and recommendation on July 29, 2025. The stipulation and recommendation included a revenue requirement of $371.3 million, which would result in a revenue requirement increase of $59.6 million based on a rate of return of 7.1% comprised of a ROE of 9.85% with a capitalization ratio of 52.9% common equity, 47.1% long-term debt at a cost of debt of 4.02%. The stipulation and recommendation amortization periods for CEP and DRR regulatory assets within base rates and within the rider mechanisms is 15 years. The stipulation and recommendation included an extension of the CEP rider and DRR through 2029 investment with revised residential caps for dollars per month per customer ranging from $2.75 for 2025 investment to $9.95 for 2029 investment for the CEP rider, and from $2.56 for 2025 investment to $7.69 for 2029 investment for DRR. The evidentiary hearing commenced on July 21, 2025. The stipulating parties were crossed by the Office of the Ohio Consumers’ Counsel on July 28 and August 4, 2025, and the Office of the Ohio 
+ 
+ 
+ 75 
+ 
+ 
+ Consumers’ Counsel was crossed by the stipulating parties on July 29 and August 5, 2025. On July 29, 2025, a PUCO local public hearing was conducted. The parties filed initial briefs on August 26, 2025, and reply briefs on September 9, 2025. On November 21, 2025, CEOH filed a late filed exhibit to the stipulation and recommendation to include actual rate case expenses, which resulted in a revised revenue requirement increase of $59.7 million. The PUCO order was issued on January 7, 2026, modifying and adopting the stipulation and resolving all issues related to the case. The PUCO order modifications include: (1) extending the 15-year amortization periods for the CEP and DRR deferral balances to 25 years, which had a $7.9 million negative impact on the revenue requirement, and (2) a ROE of 9.79%, resulting in a rate of return of 7.07%, which had a $0.6 million negative impact on the revenue requirement. These two modifications result in a revised revenue requirement increase of $51.3 million and a total revenue requirement of $363 million. Revised rates became effective on a services rendered basis effective January 12, 2026. 
+ 
+ The table below reflects significant applications pending or completed since the Registrants’ combined 2024 Form 10-K was filed with the SEC through the date of the filing of this Form 10-K: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Mechanism 
+ 
+ Annual Increase (Decrease) (1) (in millions) 
+ 
+ Filing Date 
+ 
+ Effective Date 
+ 
+ Approval Date 
+ 
+ Additional Information 
+ 
+ CenterPoint Energy and Houston Electric (PUCT) 
+ 
+ Rate Case 
+ 
+ $ 
+ (47) 
+ 
+ 
+ 
+ March 2024 
+ 
+ 
+ April 2025 
+ 
+ 
+ March 2025 
+ 
+ 
+ See discussion above under Houston Electric Rate Case . 
+ 
+ TCOS 
+ 
+ $ 
+ 64 
+ 
+ 
+ 
+ February 2025 
+ 
+ 
+ April 2025 
+ 
+ 
+ April 2025 
+ 
+ 
+ Based on the net change in invested capital since its last base rate proceeding of approximately $614 million for the period January 1, 2024 through December 31, 2024. 
+ 
+ DCRF 
+ 
+ $ 
+ 123 
+ 
+ 
+ 
+ February 2025 
+ 
+ 
+ July 2025 
+ 
+ 
+ June 2025 
+ 
+ 
+ Based on the net change in distribution invested capital since its last base rate proceeding of approximately $1 billion for the period January 1, 2024 through December 31, 2024, for an incremental revenue increase of $123 million adjusted for load growth. 
+ 
+ TEEEF 
+ 
+ $ 
+ (24) 
+ 
+ 
+ 
+ April 2025 
+ 
+ 
+ TBD 
+ 
+ 
+ TBD 
+ 
+ 
+ Seeks approval of: (1) the release of Houston Electric’s 15 large 32 MW TEEEF units to ERCOT at CPS Energy facilities to serve the greater San Antonio region until March 2027 unless terminated earlier pursuant to the provisions of the ERCOT Transaction; (2) a corresponding reduction to the capacity of the Houston Electric TEEEF fleet; and (3) a reduction and update to Houston Electric’s rider TEEEF rate to reflect the removal of the 15 large 32 MW TEEEF units from Houston Electric’s TEEEF fleet. Houston Electric will make no revenue or profit from ERCOT for the time period when the 15 large 32 MW TEEEF units are in the San Antonio area being dispatched by ERCOT. In November 2025, Houston Electric also proposed to release the five medium 5.7 MW TEEEF units from its TEEEF fleet and remove the associated lease costs effective January 1, 2026. On February 13, 2026, Houston Electric filed a letter requesting continued abatement until February 27, 2026 due to continued settlement discussions. 
+ 
+ TEEEF 
+ 
+ 
+ N/A 
+ 
+ 
+ May 2025 
+ 
+ 
+ TBD 
+ 
+ 
+ TBD 
+ 
+ Seeks authorization to lease small, 200 kW to 1,250 kW TEEEF units for 36 months in accordance with the TEEEF Rule. Among other things, the TEEEF Rule generally requires that a utility obtain preapproval prior to renewing or entering into a new lease of TEEEF units, with exceptions for emergency situations or if the lease includes a provision allowing for the alteration of the lease based on applicable PUCT orders or rules. Approval of Houston Electric’s request in this filing will have no cost impact on customers at this time, as cost determination will occur in a future proceeding. On January 6, 2026, Houston Electric provided the PUCT with a proposed order. 
+ 
+ EECRF 
+ 
+ $ 
+ 40 
+ 
+ 
+ 
+ May 2025 
+ 
+ 
+ March 2026 
+ 
+ 
+ December 2025 
+ 
+ 
+ Requests $96 million, which is comprised primarily of the following: 2026 program costs of $50 million; $5 million related to the under-recovery of 2024 program costs; the 2024 earned bonus of $40 million; and 2026 projected evaluation, measurement and verification costs of $0.6 million. On September 8, 2025, the Sierra Club filed direct testimony. On September 19, 2025, the PUCT staff filed its recommendation requesting that SOAH approve the application as filed. On October 3, 2024, the PUCT staff petitioned (Docket No. 57172) to establish a secondary cap on utilities’ 2024 Program Year (PY) earned performance bonuses equal to 25% of utilities’ total expenditures for PY 2024, and on August 13, 2025, the PUCT issued a final order denying the PUCT staff’s petition. On October 7, 2025, Houston Electric filed an unanimous stipulation and settlement agreement for the full amount requested. On October 10, 2025, SOAH remanded this proceeding to the PUCT. A final order approving the settlement agreement was issued on December 12, 2025. 
+ 
+ TCOS 
+ 
+ $ 
+ 15 
+ 
+ 
+ 
+ August 2025 
+ 
+ 
+ October 2025 
+ 
+ 
+ October 2025 
+ 
+ 
+ Based on the net change in invested capital since its last TCOS proceeding of approximately $112 million for the period January 1, 2025 through June 30, 2025. 
+ 
+ DCRF 
+ 
+ $ 
+ 55 
+ 
+ 
+ 
+ August 2025 
+ 
+ 
+ December 2025 
+ 
+ 
+ October 2025 
+ 
+ 
+ Based on the net change in distribution invested capital since its last base rate proceeding of approximately $1.5 billion for the period January 1, 2024 through June 30, 2025 for an incremental revenue increase of $55 million adjusted for load growth. 
+ 
+ 
+ 76 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Mechanism 
+ 
+ Annual Increase (Decrease) (1) (in millions) 
+ 
+ Filing Date 
+ 
+ Effective Date 
+ 
+ Approval Date 
+ 
+ Additional Information 
+ 
+ 
+ TCOS 
+ 
+ $ 
+ 36 
+ 
+ 
+ 
+ February 2026 
+ 
+ 
+ TBD 
+ 
+ 
+ TBD 
+ 
+ 
+ Based on the net change in invested capital since its last TCOS proceeding of approximately $212 million for the period of July 1, 2025 through December 31, 2025, along with the inclusion of regulatory assets of approximately $10 million comprising certain system restoration operations and maintenance expenses and carrying costs associated with the May 2024 Storm Events and Hurricane Beryl. 
+ 
+ CenterPoint Energy and CERC - Beaumont/East Texas, South Texas, Houston and Texas Coast (Railroad Commission) 
+ 
+ Tax Act Rider 
+ 
+ $ 
+ 15 
+ 
+ 
+ 
+ August 2024 
+ 
+ 
+ June 2025 
+ 
+ 
+ May 2025 
+ 
+ 
+ Resulting from the Texas Gas Rate Case, the first Tax Act Rider Calculation was filed on August 1, 2024 pursuant to Docket No. OS-23-00015513 to recover the effects of the IRA and certain other tax-related costs for rates that became effective January 1, 2025. These effects include the return on the CAMT deferred tax asset (“DTA”) resulting from the IRA, income tax credits resulting from the IRA and the return on the increment or decrement in the net operating loss DTA included in the rate base and in the standard service base revenue requirement approved in the Texas Gas Rate Case. CERC believes its filing is consistent with the Tax Act Rider tariff approved in Docket No. OS-23-00015513. On October 1, 2024, certain parties filed comments disputing the application. Briefings were filed with an ALJ in November 2024. A hearing on the merits was held on February 21, 2025 and continued on March 21, 2025. On March 21, 2025, a unanimous settlement agreement was filed. On April 11, 2025, a PFD was issued. On May 13, 2025, the Railroad Commission considered the PFD at an open meeting and issued a Final Order approving the settlement agreement. 
+ 
+ Tax Act Rider 
+ 
+ $ 
+ 22 
+ 
+ 
+ 
+ August 2025 
+ 
+ 
+ January 2026 
+ 
+ 
+ October 2025 
+ 
+ 
+ The second Tax Act Rider was initially filed on August 1, 2025, and a revised filing was made on September 24, 2025, to recover the effects of the IRA and certain other tax-related costs for rates that would be effective for bills calculated on or after January 1, 2026. These effects include the return on the CAMT DTA resulting from the IRA, income tax credits resulting from the IRA and the return on the increment or decrement in the net operating loss DTA included in the rate base and in the standard service base revenue requirement approved in the Texas Gas Rate Case Docket No. OS-23-00015513. No comments from the parties were filed prior to the October 1, 2025 deadline for comments. The Railroad Commission accepted the Tax Act Rider filing on October 16, 2025. 
+ 
+ GRIP 
+ 
+ $ 
+ 70 
+ 
+ 
+ 
+ February 2025 
+ 
+ 
+ June 2025 
+ 
+ 
+ May 2025 
+ 
+ 
+ Based on net change in invested capital of $445 million. 
+ 
+ 
+ GRIP 
+ 
+ $ 
+ 62 
+ 
+ 
+ 
+ February 2026 
+ 
+ 
+ TBD 
+ 
+ 
+ TBD 
+ 
+ 
+ Based on net change in invested capital of $394 million. 
+ 
+ CenterPoint Energy and CERC - Minnesota (MPUC) 
+ 
+ Rate Case 
+ 
+ $ 
+ 104 
+ 
+ 
+ 
+ November 2023 
+ 
+ September 2025 
+ 
+ 
+ July 2025 
+ 
+ 
+ See discussion above under Minnesota Gas Rate Case. 
+ 
+ CIP Financial Incentive 
+ 
+ $ 
+ 8 
+ 
+ 
+ 
+ May 2025 
+ 
+ 
+ December 2025 
+ 
+ 
+ November 2025 
+ 
+ 
+ CIP Financial Incentive based on 2024 CIP program activity. 
+ 
+ CenterPoint Energy - Indiana South - Gas (IURC) 
+ 
+ CSIA 
+ 
+ $ 
+ 2 
+ 
+ 
+ 
+ April 2025 
+ 
+ 
+ August 2025 
+ 
+ 
+ July 2025 
+ 
+ 
+ Requested an increase of $11.6 million to rate base, which reflects an approximately $1.5 million annual increase in current revenues, of which 80% is included in the mechanism and 20% is deferred until the next rate case. The mechanism also includes a change in (over)/under recovery variance of $1.9 million. The OUCC filed testimony on June 3, 2025, recommending minor changes. Indiana South filed a rebuttal on June 17, 2025, adopting the changes. The evidentiary hearing was held on June 30, 2025. A final order was issued on July 30, 2025, with rates effective August 1, 2025. 
+ 
+ CSIA 
+ 
+ $ 
+ 1 
+ 
+ 
+ 
+ October 2025 
+ 
+ 
+ February 2026 
+ 
+ 
+ January 2026 
+ 
+ 
+ Requested an increase of $13.0 million to rate base, which reflects an approximately $1.2 million annual increase in current revenues, of which 80% is included in the mechanism and 20% is deferred until the next rate case. The mechanism also includes a change in (over)/under recovery variance of $(2.1) million. The OUCC filed testimony on December 2, 2025, recommending minor changes, and Indiana South filed rebuttal on December 16, 2025. An evidentiary hearing was held January 6, 2026. A final order was issued on January 28, 2026 with rates effective on February 1, 2026. 
+ 
+ CenterPoint Energy and CERC - Indiana North - Gas (IURC) 
+ 
+ CSIA 
+ 
+ $ 
+ 9 
+ 
+ 
+ 
+ April 2025 
+ 
+ 
+ August 2025 
+ 
+ 
+ July 2025 
+ 
+ 
+ Requested an increase of $94.9 million to rate base, which reflects an approximately $8.6 million annual increase in current revenues, of which 80% is included in the mechanism and 20% is deferred until the next rate case. The mechanism also includes a change in (over)/under recovery variance of $5 million. The OUCC filed testimony on June 3, 2025. Indiana North filed rebuttal testimony on June 17, 2025. The evidentiary hearing was held on June 30, 2025. A final order was issued on July 30, 2025, with rates effective August 1, 2025. 
+ 
+ 
+ 77 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Mechanism 
+ 
+ Annual Increase (Decrease) (1) (in millions) 
+ 
+ Filing Date 
+ 
+ Effective Date 
+ 
+ Approval Date 
+ 
+ Additional Information 
+ 
+ CSIA 
+ 
+ $ 
+ 8 
+ 
+ 
+ 
+ October 2025 
+ 
+ 
+ February 2026 
+ 
+ 
+ January 2026 
+ 
+ 
+ Requested an increase of $90.8 million to rate base, which reflects an approximately $7.6 million annual increase in current revenues, of which 80% is included in the mechanism and 20% is deferred until the next rate case. The mechanism also includes a change in (over)/under recovery variance of $(6.8) million. The OUCC filed testimony on December 2, 2025, recommending minor changes, and Indiana North filed rebuttal on December 16, 2025. An evidentiary hearing was held January 6, 2026. A final order was issued on January 28, 2026, with rates effective on February 1, 2026. On February 17, 2026, the OUCC filed a motion for rehearing and reconsideration requesting the commission to reconsider its decision approving the recovery of soil remediation costs from ratepayers and reconsider the threshold for a best estimate for a TDSIC plan and the specific justification the commission will require to increase an approved best estimate. 
+ 
+ CenterPoint Energy and CERC - Ohio - Gas (PUCO) 
+ 
+ DRR 
+ 
+ $ 
+ 6 
+ 
+ 
+ 
+ May 
+ 2025 
+ 
+ September 2025 
+ 
+ 
+ August 2025 
+ 
+ 
+ Requested an increase of $54 million to rate base for investments made in 2024, which reflects a $6 million annual increase in current revenues. A change in (over)/under-recovery variance of ($0.03) million annually is also included in rates. PUCO staff and intervenor (Ohio Consumers’ Counsel) filed comments June 27, 2025. PUCO staff recommended approval. Ohio Consumers’ Counsel commented on affordability and provided potential solutions including stretching out the replacement program over a longer period of time, phasing in the annual increase, shifting from fixed charges to volumetric charges, and increasing funding for its bill assistance programs. A statement informing the PUCO of whether the issues raised in comments have been resolved was filed on July 11, 2025. Supplemental Testimony from CEOH and the Ohio Consumers’ Counsel was filed on July 22, 2025. A hearing was scheduled for July 29, 2025, with all parties waiving motions to strike, objections, and cross examination. A final PUCO opinion and order was issued on August 20, 2025, finding that the updated DRR rates are just and reasonable and stating that the correct forum for the Ohio Consumers’ Counsel’s arguments was the 2018 Rate Case, the 2022 Extension, or the 2024 Rate Case. Revised rates became effective on September 1, 2025. 
+ 
+ Rate Case 
+ 
+ $ 
+ 51 
+ 
+ 
+ 
+ October 2024 
+ 
+ 
+ January 2026 
+ 
+ 
+ January 2026 
+ 
+ 
+ See discussion above under Ohio Gas Rate Case. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) Represents proposed increases (decreases) when effective date and/or approval date is not yet determined. Approved rates could differ materially from proposed rates. 
+ 
+ GHG Emissions and Climate-Related Regulation and Compliance (CenterPoint Energy) 
+ 
+ The issue of climate change has received focus at the state, federal and international level, and there are trends and uncertainties relating to GHG emissions and climate-related regulations and compliance that affect the Registrants. Compliance costs and other effects associated with climate change, reductions in GHG emissions and obtaining renewable energy sources remain uncertain; nevertheless, any new regulation or legislation relating to climate change will likely result in an increase in compliance costs. CenterPoint Energy will continue to monitor regulatory activity regarding GHG emission standards that may affect its business. Currently, CenterPoint Energy does not purchase carbon credits. In connection with its energy transition goals, CenterPoint Energy is expected to purchase carbon credits in the future; however, CenterPoint Energy does not currently expect the number of credits, or cost for those credits, to be material. For more information on GHG emissions and climate-change regulation and compliance, see “Business—Environmental Matters” in ITEM 1 of Part I of this report. For more information on GHG emissions and climate-related risk trends and uncertainties, see “Risk Factors” in ITEM 1A of Part I of this report. 
+ 
+ Climate Risk Trends and Uncertainties 
+ 
+ There are climate risk trends and uncertainties that affect the Registrants. Changes in the U.S. presidential administration and significant expected increases in electric demand, as announced by organizations such as ERCOT and MISO, have shifted the energy landscape in the United States. This shift in federal domestic energy policy has resulted in uncertainty with respect to the scope and speed of future renewable generation infrastructure development and the role that existing renewable generation will play in support of the U.S. energy grid. The long-term impacts of this domestic energy policy shift are also uncertain, including with respect to impacts on the development of, and consequently the availability of, alternative energy sources (such as solar energy, including private solar, wind energy, microturbines, fuel cells, energy-efficient buildings and energy storage devices). Additionally, it is unclear whether, and if so how, the new domestic energy policy, including the potential suspension, revision or rescission of regulations restricting emissions (including methane emissions) and the repeal of the Endangerment Finding, will affect consumers’ and companies’ energy use, adoption of alternative energy sources or decisions to expand their facilities, including natural gas facilities. For more information on climate risk trends and uncertainties, see “Risk Factors” in ITEM 1A of Part I of this report. 
+ 
+ 
+ 78 
+ 
+ 
+ 
+ 
+ 
+ 79 
+ 
+ 
+ 
+ Other Matters 
+ 
+ Credit Facilities 
+ 
+ The Registrants may draw on their respective revolving credit facilities from time to time to provide funds used for general corporate and limited liability company purposes, including to backstop CenterPoint Energy’s and CERC’s commercial paper programs. The facilities may also be utilized to obtain letters of credit. For further details related to the Registrants’ revolving credit facilities, see Note 12 to the consolidated financial statements. 
+ 
+ Based on the consolidated debt to capitalization covenant in the Registrants’ revolving credit facilities, the Registrants would have been permitted to utilize the full capacity of such revolving credit facilities, which aggregated approximately $4.0 billion as of December 31, 2025. As of February 13, 2026, the Registrants had the following revolving credit facilities and utilization of such facilities: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Amount Utilized as of February 13, 2026 
+ 
+ 
+ 
+ 
+ 
+ Registrant 
+ 
+ Size of Facility 
+ 
+ Loans 
+ 
+ Letters of Credit 
+ 
+ Commercial Paper 
+ 
+ Weighted Average Interest Rate 
+ 
+ Termination Date 
+ 
+ 
+ 
+ (in millions) 
+ 
+ 
+ 
+ 
+ 
+ CenterPoint Energy 
+ 
+ $ 
+ 2,400 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ 665 
+ 
+ 
+ 3.75% 
+ 
+ December 6, 2028 
+ 
+ CenterPoint Energy (1) 
+ 
+ 250 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ —% 
+ 
+ December 6, 2028 
+ 
+ Houston Electric 
+ 
+ 300 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ —% 
+ 
+ December 6, 2028 
+ 
+ CERC 
+ 
+ 1,050 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ 340 
+ 
+ 
+ 3.75% 
+ 
+ December 6, 2028 
+ 
+ Total 
+ 
+ $ 
+ 4,000 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ 1,005 
+ 
+ 
+ 
+ 
+ 
+ (1) This credit facility was issued by SIGECO. 
+ 
+ Borrowings under each of the revolving credit facilities are subject to customary terms and conditions. However, there is no requirement that the borrower makes representations prior to borrowing as to the absence of material adverse changes or litigation that could be expected to have a material adverse effect. Borrowings under each of the revolving credit facilities are subject to acceleration upon the occurrence of events of default that we consider customary. The revolving credit facilities also provide for customary fees, including commitment fees, administrative agent fees, fees in respect of letters of credit and other fees. In each of the revolving credit facilities, the spread to SOFR and the commitment fees fluctuate based on the borrower’s credit rating. Each of the Registrant’s credit facilities provide for a mechanism to replace SOFR with possible alternative benchmarks upon certain benchmark replacement events. The Registrants and SIGECO are currently in compliance with the various business and financial covenants in the four revolving credit facilities. 
+ 
+ Debt Transactions 
+ 
+ For detailed information about the Registrants’ debt transactions in 2025, see Note 12 to the consolidated financial statements. For detailed information about the delay draw term loan agreement executed by CERC Corp. in 2026, see Note 20 to the consolidated financial statements. 
+ 
+ Securities Registered with the SEC 
+ 
+ On May 17, 2023, the Registrants filed a joint shelf registration statement with the SEC registering indeterminate principal amounts of Houston Electric’s general mortgage bonds, CERC Corp.’s senior debt securities and CenterPoint Energy’s senior debt securities and junior subordinated debt securities and an indeterminate number of shares of Common Stock, shares of preferred stock, depositary shares, as well as stock purchase contracts and equity units. The joint shelf registration statement will expire on May 17, 2026. For information related to the Registrants’ debt issuances in 2025, see Note 12 to the consolidated financial statements. 
+ 
+ For information related to shares of Common Stock sold pursuant to the forward sale agreements and the Equity Distribution Agreement in 2025, see Note 11 to the consolidated financial statements. 
+ 
+ Money Pool 
+ 
+ The Registrants participate in a money pool through which they and certain of their subsidiaries can borrow or invest on a short-term basis. Funding needs are aggregated and external borrowing or investing is based on the net cash position. The net 
+ 
+ 
+ 80 
+ 
+ 
+ funding requirements of the CenterPoint Energy money pool are expected to be met with borrowings under CenterPoint Energy’s revolving credit facility or the sale of CenterPoint Energy’s commercial paper. The net funding requirements of the CERC money pool are expected to be met with borrowings under CERC’s revolving credit facility or the sale of CERC’s commercial paper. The money pool may not provide sufficient funds to meet the Registrants’ cash needs. 
+ 
+ The table below summarizes CenterPoint Energy money pool activity by Registrant as of February 13, 2026: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Weighted Average Interest Rate 
+ 
+ Houston Electric 
+ 
+ CERC 
+ 
+ 
+ 
+ 
+ (in millions) 
+ 
+ Money pool borrowings 
+ 3.80% 
+ 
+ $ 
+ 463 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ Impact on Liquidity of a Downgrade in Credit Ratings 
+ 
+ The interest rate on borrowings under the Registrants’ credit facilities is based on their respective credit ratings. As of February 13, 2026, Moody’s, S&P and Fitch had assigned the following credit ratings to the borrowers: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Moody’s 
+ 
+ S&P 
+ 
+ Fitch 
+ 
+ Registrant 
+ 
+ Borrower/Instrument 
+ 
+ Rating 
+ 
+ Outlook (1) 
+ 
+ Rating 
+ 
+ Outlook (2) 
+ 
+ Rating 
+ 
+ Outlook (3) 
+ 
+ CenterPoint Energy 
+ 
+ CenterPoint Energy Senior Unsecured Debt 
+ 
+ Baa2 
+ 
+ Negative 
+ 
+ BBB 
+ 
+ 
+ Stable 
+ 
+ BBB 
+ 
+ 
+ Stable 
+ 
+ CenterPoint Energy 
+ 
+ Vectren Corp. Issuer Rating 
+ 
+ n/a 
+ 
+ 
+ n/a 
+ 
+ BBB+ 
+ 
+ Stable 
+ 
+ n/a 
+ 
+ n/a 
+ 
+ CenterPoint Energy 
+ 
+ SIGECO Senior Secured Debt 
+ 
+ A1 
+ 
+ Stable 
+ 
+ A 
+ 
+ Stable 
+ 
+ n/a 
+ 
+ n/a 
+ 
+ Houston Electric 
+ 
+ Houston Electric Senior Secured Debt 
+ 
+ A2 
+ 
+ Negative 
+ 
+ A 
+ 
+ Stable 
+ 
+ A 
+ 
+ Stable 
+ 
+ CERC 
+ 
+ CERC Corp. Senior Unsecured Debt 
+ 
+ A3 
+ 
+ Stable 
+ 
+ BBB+ 
+ 
+ Stable 
+ 
+ A- 
+ 
+ 
+ Stable 
+ 
+ CERC 
+ 
+ Indiana Gas Senior Unsecured Debt 
+ 
+ n/a 
+ 
+ n/a 
+ 
+ BBB+ 
+ 
+ Stable 
+ 
+ n/a 
+ 
+ n/a 
+ (1) A Moody’s rating outlook is an opinion regarding the likely direction of an issuer’s rating over the medium term. 
+ (2) An S&P outlook assesses the potential direction of a long-term credit rating over the intermediate to longer term. 
+ (3) A Fitch rating outlook indicates the direction a rating is likely to move over a one- to two-year period. 
+ 
+ The Registrants cannot assure that the ratings set forth above will remain in effect for any given period of time or that one or more of these ratings will not be lowered or withdrawn entirely by a rating agency. The Registrants note that these credit ratings are included for informational purposes and are not recommendations to buy, sell or hold the Registrants’ securities and may be revised or withdrawn at any time by the rating agency. Each rating should be evaluated independently of any other rating. Any future reduction or withdrawal of one or more of the Registrants’ credit ratings could have a material adverse impact on the Registrants’ ability to obtain short- and long-term financing, the cost of such financings and the execution of the Registrants’ commercial strategies. 
+ 
+ A decline in credit ratings could increase borrowing costs under the Registrants’ revolving credit facilities. If the Registrants’ credit ratings had been downgraded one notch by S&P and Moody’s from the ratings that existed as of December 31, 2025, the impact on the borrowing costs under the four revolving credit facilities would have been insignificant. A decline in credit ratings would also increase the interest rate on long-term debt to be issued in the capital markets and could negatively impact the Registrants’ ability to complete capital market transactions and to access the commercial paper market. Additionally, a decline in credit ratings could increase cash collateral requirements and reduce earnings of CenterPoint Energy’s and CERC’s Natural Gas reportable segments. 
+ 
+ Pipeline tariffs and contracts typically provide that if the credit ratings of a shipper or the shipper’s guarantor drop below a threshold level, which is generally investment grade ratings from both Moody’s and S&P, cash or other collateral may be demanded from the shipper in an amount equal to the sum of three months’ charges for pipeline services plus the unrecouped cost of any lateral built for such shipper. If the credit ratings of CERC Corp. decline below the applicable threshold levels, CERC might need to provide cash or other collateral of up to $311 million as of December 31, 2025. The amount of collateral will depend on seasonal variations in transportation levels. 
+ 
+ ZENS and Securities Related to ZENS (CenterPoint Energy) 
+ 
+ If CenterPoint Energy’s creditworthiness were to drop such that ZENS holders thought CenterPoint Energy’s liquidity was adversely affected or the market for the ZENS were to become illiquid, some ZENS holders might decide to exchange their ZENS for cash. Funds for the payment of cash upon exchange could be obtained from the sale of the shares of ZENS-Related Securities that CenterPoint Energy owns or from other sources. CenterPoint Energy owns shares of ZENS-Related Securities 
+ 
+ 
+ 81 
+ 
+ 
+ equal to approximately 100% of the reference shares used to calculate its obligation to the holders of the ZENS. ZENS exchanges result in a cash outflow because tax deferrals related to the ZENS and shares of ZENS-Related Securities would typically be reversed when ZENS are exchanged or otherwise retired and shares of ZENS-Related Securities are sold. The ultimate tax liability related to the ZENS and ZENS-Related Securities continues to increase by the amount of the tax benefit realized each year, and there could be a significant cash outflow when the taxes are paid as a result of the retirement or exchange of the ZENS. If all ZENS had been exchanged for cash on December 31, 2025, deferred taxes of approximately $897 million would have been payable in 2025, subject to reduction on account of any available net operating loss carryforwards or CAMT carryforwards. If all the ZENS-Related Securities had been sold on December 31, 2025, capital gains taxes of approximately $72 million would have been payable in 2025 based on 2025 tax rates in effect and subject to reduction on account of any available net operating loss carryforwards or CAMT carryforwards. As of December 31, 2025, CenterPoint Energy had both net operating loss and CAMT carryforwards available from its filed 2024 federal income tax return that can be applied to largely offset the cash outflow that would result from a retirement or exchange of the ZENS. For additional information about ZENS, see Note 10 to the consolidated financial statements. 
+ 
+ Cross Defaults 
+ 
+ Under the Registrants’ respective revolving credit facilities, a payment default on, or a non-payment default, event or condition that permits acceleration of, any indebtedness for borrowed money and certain other specified types of obligations (including guarantees) exceeding $125 million by the borrower or any of their respective significant subsidiaries will cause a default under such borrower’s respective credit facility or term loan agreement. Under SIGECO’s revolving credit facility, a payment default on, or a non-payment default, event or condition that permits acceleration of, any indebtedness for borrowed money and certain other specific types of obligations (including guarantees) exceeding $75 million by SIGECO or any of its significant subsidiaries will cause a default under SIGECO’s credit facility. A default by CenterPoint Energy would not trigger a default under its subsidiaries’ debt instruments or revolving credit facilities. 
+ 
+ Possible Acquisitions, Divestitures and Joint Ventures 
+ 
+ From time to time, the Registrants consider the acquisition or the disposition of assets or businesses or possible joint ventures, strategic initiatives or other joint ownership arrangements with respect to assets or businesses. Any determination to take action in this regard will be based on market conditions and opportunities existing at the time, and accordingly, the timing, size or success of any efforts and the associated potential capital commitments are unpredictable. The Registrants may seek to fund all or part of any such efforts with proceeds from debt and/or equity issuances. Debt or equity financing may not, however, be available to the Registrants at that time due to a variety of events, including, among others, maintenance of our credit ratings, industry conditions, general economic conditions, market conditions and market perceptions. As announced in September 2025 and February 2026, CenterPoint Energy has increased its planned capital expenditures in its Electric and Natural Gas businesses pursuant to its new 10-year capital plan, which calls for investment of at least $65.5 billion through 2035, and CenterPoint Energy may continue to increase such planned capital investments in the future. The Registrants may continue to explore asset sales, in addition to the completed sale of CERC Corp.’s Louisiana and Mississippi natural gas LDC businesses, as a means to efficiently finance a portion of their increased capital expenditures in the future, subject to the considerations listed above. For further information, see Note 4 to the consolidated financial statements. 
+ 
+ On October 20, 2025, CenterPoint Energy, through CERC Corp., entered into the Ohio Securities Purchase Agreement to sell all of the issued and outstanding equity interests in CEOH for total consideration of approximately $2.62 billion, subject to adjustment as set forth in the Ohio Securities Purchase Agreement. The transaction is expected to close in the fourth quarter of 2026, subject to the satisfaction of customary closing conditions. For further information, see Note 4 to the consolidated financial statements. 
+ 
+ Collection of Receivables from REPs (CenterPoint Energy and Houston Electric) 
+ 
+ Houston Electric’s receivables from the distribution of electricity are collected from REPs that supply the electricity Houston Electric distributes to their customers. Before conducting business, a REP must register with the PUCT and must meet certain financial qualifications. Nevertheless, adverse economic conditions, weather events, such as the February 2021 Winter Storm Event, structural problems in the market served by ERCOT or financial difficulties of one or more REPs could impair the ability of these REPs to pay for Houston Electric’s services or could cause them to delay such payments. Houston Electric depends on these REPs to remit payments on a timely basis, and any delay or default in payment by REPs could adversely affect Houston Electric’s cash flows. In the event of a REP’s default, Houston Electric’s tariff provides a number of remedies, including the option for Houston Electric to request that the PUCT suspend or revoke the certification of the REP. Applicable regulatory provisions require that customers be shifted to another REP or a provider of last resort if a REP cannot make timely 
+ 
+ 
+ 82 
+ 
+ 
+ payments. However, Houston Electric remains at risk for payments related to services provided prior to the shift to the replacement REP or the provider of last resort. If a REP were unable to meet its obligations, it could consider, among various options, restructuring under the bankruptcy laws, in which event such REP might seek to avoid honoring its obligations and claims might be made against Houston Electric involving payments it had received from such REP. If a REP were to file for bankruptcy, Houston Electric may not be successful in recovering accrued receivables owed by such REP that are unpaid as of the date the REP filed for bankruptcy. However, PUCT regulations authorize utilities, such as Houston Electric, to defer bad debts resulting from defaults by REPs for recovery in future rate cases, subject to a review of reasonableness and necessity. 
+ 
+ Other Factors that Could Affect Cash Requirements 
+ 
+ In addition to the above factors, the Registrants’ liquidity and capital resources could also be negatively affected by: 
+ 
+ • cash collateral requirements that could exist in connection with certain contracts, including weather hedging arrangements, and natural gas purchases, natural gas price and natural gas storage activities of CenterPoint Energy’s and CERC’s Natural Gas reportable segment; 
+ • acceleration of payment dates on certain gas supply contracts, under certain circumstances, as a result of increased natural gas prices, and concentration of natural gas suppliers (CenterPoint Energy and CERC); 
+ • increased costs related to the acquisition of natural gas (CenterPoint Energy and CERC); 
+ • increased costs of certain goods, materials or services due to, among other things, supply chain disruptions, inflation, labor shortages, scarcity of materials and changes in U.S. or foreign trade policy (including tariffs or other trade actions); 
+ • increases in interest expense in connection with debt refinancings and borrowings under credit facilities or term loans or the use of alternative sources of financings, including financings due to the May 2024 Storm Events and Hurricane Beryl; 
+ • various legislative, executive or regulatory actions at the federal, state and local levels, including actions in response to Hurricane Beryl and actions pertaining to U.S. or foreign trade policy (including tariffs or other trade actions) or other geopolitical matters; 
+ • incremental collateral, if any, that may be required due to regulation of derivatives (CenterPoint Energy); 
+ • the timing and outcome of rate actions regarding our recovery of costs and ability to make a reasonable return on investment; 
+ • the ability of REPs, including REP affiliates of NRG and Vistra Energy Corp., to satisfy their obligations to CenterPoint Energy and Houston Electric; 
+ • slower customer payments and increased write-offs of receivables due to higher natural gas prices, changing economic conditions, public health threats or severe weather events, such as the May 2024 Storm Events and Hurricane Beryl; 
+ • the satisfaction of any obligations pursuant to guarantees; 
+ • the outcome of litigation, including litigation related to the February 2021 Winter Storm Event and Hurricane Beryl; 
+ • contributions to pension and postretirement benefit plans; 
+ • recovery of any losses under applicable insurance policies; 
+ • restoration costs and revenue losses resulting from future natural disasters such as hurricanes or other severe weather events and the timing of and amounts sought for recovery of such restoration costs; and 
+ • various other risks identified in “Risk Factors” in Part I, ITEM 1A of this report. 
+ 
+ Certain Contractual Limits on Our Ability to Issue Securities and Borrow Money 
+ 
+ Certain provisions in certain note purchase agreements relating to debt issued by CERC have the effect of restricting the amount of secured debt issued by CERC and debt issued by subsidiaries of CERC Corp. Additionally, Houston Electric and SIGECO are limited in the amount of mortgage bonds they can issue by the General Mortgage and SIGECO’s mortgage indenture, respectively. For information about the total debt to capitalization financial covenants in the Registrants’ and SIGECO’s revolving credit facilities, see Note 12 to the consolidated financial statements. 
+ 
+ 
+ CRITICAL ACCOUNTING POLICIES AND ESTIMATES 
+ 
+ The preparation of the Registrants’ financial statements in conformity with GAAP requires management to apply appropriate accounting policies and to make estimates and judgments that can have a significant effect on the Registrants’ financial condition, results of operations or cash flows. The circumstances that make these judgments difficult, subjective and/or complex have to do with the need to make estimates about the effect of matters that are inherently uncertain. Estimates and assumptions about future events and their effects cannot be predicted with certainty. The Registrants base their estimates on historical experience and on various other assumptions that they believe to be reasonable under the circumstances, the results of which form the basis for making judgments. These estimates may change as new events occur, as more experience is acquired, 
+ 
+ 
+ 83 
+ 
+ 
+ as additional information is obtained and as the Registrants’ operating environment changes. Our management believes the following accounting policies involve the application of critical accounting estimates. Accordingly, these accounting estimates have been reviewed and discussed with the Audit Committee of the Board. For a complete discussion of the Registrants’ significant accounting policies, see Note 2 to the consolidated financial statements. 
+ 
+ Accounting for Rate Regulation 
+ 
+ Accounting guidance for regulated operations provides that rate-regulated entities account for and report assets and liabilities consistent with the recovery of those incurred costs in rates if the rates established are designed to recover the costs of providing the regulated service and if the competitive environment makes it probable that such rates can be charged and collected. CenterPoint Energy, for its Electric and Natural Gas reportable segments, Houston Electric and CERC apply this accounting guidance. Certain expenses and revenues subject to utility regulation or rate determination normally reflected in income are deferred on the balance sheet as regulatory assets or liabilities and are recognized in income as the related amounts are included in service rates and recovered from or refunded to customers. Regulatory assets and liabilities are recorded when it is probable that these items will be recovered or reflected in future rates. Determining probability requires significant judgment on the part of management and includes, but is not limited to, consideration of testimony presented in regulatory hearings, proposed regulatory decisions, final regulatory orders and the strength or status of applications for rehearing or state court appeals. If events were to occur that would make the recovery of these assets and liabilities no longer probable, the Registrants would be required to write off or write down these regulatory assets and liabilities. For further detail on the Registrants’ regulatory assets and liabilities, see Note 7 to the consolidated financial statements. 
+ 
+ Impairment of Long-Lived Assets, Including Goodwill 
+ 
+ The Registrants review the carrying value of long-lived assets, including goodwill, whenever events or changes in circumstances indicate that such carrying values may not be recoverable, and at least annually, goodwill is tested for impairment as required by accounting guidance for goodwill. Unforeseen events, changes in market conditions, and probable regulatory disallowances, where applicable, could have a material effect on the value of long-lived assets, including goodwill, future cash flows, interest rate, and regulatory matters, and could result in an impairment charge. The Registrants recorded no impairments to long-lived assets, including goodwill during 2025, 2024 and 2023. 
+ 
+ Fair value is the amount at which an asset, liability or business could be bought or sold in a current transaction between willing parties and may be estimated using a number of techniques, including quoted market prices or valuations by third parties, present value techniques based on estimates of cash flows, or multiples of earnings or revenue performance measures. The fair value could be different using different estimates and assumptions in these valuation techniques. 
+ 
+ Fair value measurements require significant judgment and unobservable inputs, including (i) projected timing and amount of future cash flows, which factor in planned growth initiatives, (ii) the regulatory environment, as applicable, and (iii) discount rates reflecting risk inherent in the future market prices. Determining the discount rates for the businesses that are not rate-regulated, such as for Energy Systems Group prior to the sale in June 2023, requires the estimation of the appropriate company-specific risk premiums for such businesses based on evaluation of industry and entity-specific risks, which includes expectations about future market or economic conditions existing on the date of the impairment test. Changes in these assumptions could have a significant impact on results of the impairment tests. 
+ 
+ Annual Goodwill Impairment Test 
+ 
+ CenterPoint Energy and CERC completed their 2025 annual goodwill impairment test during the third quarter of 2025 and determined, based on a qualitative assessment, that no goodwill impairment charge was required for any reporting unit. No qualitative factors were present that indicated impairment of CenterPoint Energy or CERC reporting units. 
+ 
+ Although no goodwill impairment resulted from the 2025 annual test, an interim goodwill impairment test could be triggered by the following: actual earnings results that are materially lower than expected, significant adverse changes in the operating environment, an increase in the discount rate, changes in other key assumptions which require judgment and are forward looking in nature, if CenterPoint Energy’s market capitalization falls below book value for an extended period of time, or events affecting a reporting unit such as a contemplated disposal of all or part of a reporting unit. 
+ 
+ Assets Held for Sale 
+ 
+ Generally, a long-lived asset to be sold is classified as held for sale in the period in which management, with approval from the Board, as applicable, commits to a plan to sell, and a sale is expected to be completed within one year. The Registrants 
+ 
+ 
+ 84 
+ 
+ 
+ record assets and liabilities held for sale, or the disposal group, at the lower of their carrying value or their fair value less cost to sell. If the disposal group reflects a component of a reporting unit and meets the definition of a business, the goodwill within that reporting unit is allocated to the disposal group based on the relative fair value of the components representing a business that will be retained and disposed. Goodwill is not allocated to a portion of a reporting unit that does not meet the definition of a business. 
+ 
+ As of December 31, 2025, certain assets and liabilities of the Ohio natural gas LDC business met the held for sale criteria and the goodwill attributable to these businesses was $393 million and $219 million for CenterPoint Energy and CERC, respectively. As of December 31, 2024, certain assets and liabilities of the Louisiana and Mississippi natural gas LDC businesses met the held for sale criteria and the goodwill attributable to these businesses was $217 million and $122 million for CenterPoint Energy and CERC, respectively. See Note 4 for additional detail. 
+ 
+ Accounting for Securitizations 
+ 
+ Accounting guidance for rate regulated long-lived asset abandonment requires that the carrying value of an operating asset or an asset under construction is removed from property, plant and equipment when it becomes probable that the asset will be abandoned. The Registrants recognize a loss on abandonment when they conclude it is probable the cost will not be recovered in future rates. When the Registrants conclude it is probable that costs will be recovered in future rates, a regulatory asset is recognized. The portion of property, plant and equipment that will remain used and useful until abandonment and recovered through depreciation expense in rates will continue to be classified as property, plant and equipment until the asset is abandoned. The Registrants evaluate if an adjustment to the estimated life of the asset and, accordingly, the rate of depreciation, is required to recover the asset while it is still providing service. Determining probability of abandonment or probability of recovery requires significant judgment on the part of management and includes, but is not limited to, consideration of testimony presented in regulatory hearings, proposed regulatory decisions, final regulatory orders and the strength or status of applications for rehearing or state court appeals. 
+ 
+ In connection with the securitization of transition property or system restoration property or to facilitate the securitization financing of qualified costs, CenterPoint Energy, Houston Electric and SIGECO evaluate the wholly-owned, bankruptcy-remote, special purpose entities, which are VIEs, for possible consolidation, including review of qualitative factors such as the power to direct the activities of the VIE and the obligation to absorb losses of the VIE. CenterPoint Energy, Houston Electric and SIGECO have the power to direct the significant activities of their respective VIEs and are most closely associated with their respective VIEs as compared to other interests held by the holders of the relevant Securitization Bonds. CenterPoint Energy, Houston Electric and SIGECO are, therefore, considered the respective primary beneficiary and consolidate these VIEs. 
+ 
+ Unbilled Revenues 
+ 
+ Revenues related to electricity delivery and natural gas sales and services are generally recognized upon delivery to customers. However, the determination of deliveries to individual customers is based on the reading of their meters, which is performed on a systematic basis throughout the month either electronically through AMS meter communications or manual readings. At the end of each month, deliveries to non-AMS customers since the date of the last meter reading are estimated and the corresponding unbilled revenue is estimated. Information regarding deliveries to AMS customers after the last billing is obtained from actual AMS meter usage data. Unbilled electricity delivery revenue is estimated each month based on actual AMS meter data, daily supply volumes and applicable rates. Unbilled natural gas sales are estimated based on estimated purchased gas volumes, estimated lost and unaccounted for gas and tariffed rates in effect. As additional information becomes available, or actual amounts are determinable, the recorded estimates are revised. Consequently, operating results can be affected by revisions to prior accounting estimates. 
+ 
+ Employee Benefit Plans 
+ 
+ CenterPoint Energy sponsors pension and other retirement plans in various forms covering all employees who meet eligibility requirements. CenterPoint Energy uses several statistical and other factors that attempt to anticipate future events in calculating the expense and liability related to its plans. These factors include assumptions about the discount rate, expected return on plan assets and rate of future compensation increases as estimated by management, within certain guidelines. In addition, CenterPoint Energy’s actuarial consultants use subjective factors such as withdrawal and mortality rates. The actuarial assumptions used may differ materially from actual results due to changing market and economic conditions, higher or lower withdrawal rates or longer or shorter life spans of participants. These differences may result in a significant impact to the 
+ 
+ 
+ 85 
+ 
+ 
+ amount of pension and other retirement plans expense recorded. Read “— Other Significant Matters — Pension Plans” for further discussion. 
+ 
+ 
+ NEW ACCOUNTING PRONOUNCEMENTS 
+ 
+ See Note 2(p) to the consolidated financial statements, incorporated herein by reference, for a discussion of new accounting pronouncements that affect the Registrants. 
+ 
+ 
+ OTHER SIGNIFICANT MATTERS 
+ 
+ Pension Plans (CenterPoint Energy). As discussed in Note 8(b) to the consolidated financial statements, CenterPoint Energy maintains non-contributory qualified defined benefit pension plans covering eligible employees. Employer contributions for the qualified plans are based on actuarial computations that establish the minimum contribution required under ERISA and the maximum deductible contribution for income tax purposes. 
+ 
+ Under the terms of CenterPoint Energy’s pension plans, it reserves the right to change, modify or terminate the plan. CenterPoint Energy’s funding policy is to review amounts annually and contribute an amount at least equal to the minimum contribution required under ERISA. 
+ 
+ Additionally, CenterPoint Energy maintains unfunded non-qualified benefit restoration plans which allow participants to receive the benefits to which they would have been entitled under the non-contributory qualified pension plan except for federally mandated limits on qualified plan benefits or on the level of compensation on which qualified plan benefits may be calculated. 
+ 
+ CenterPoint Energy’s funding requirements and employer contributions were as follows for the periods presented: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ 
+ 2025 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ CenterPoint Energy 
+ (in millions) 
+ 
+ Minimum funding requirements for qualified pension plans 
+ $ 
+ 35 
+ 
+ 
+ $ 
+ 23 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ Employer contributions to the qualified pension plans 
+ 110 
+ 
+ 
+ 23 
+ 
+ 
+ 24 
+ 
+ 
+ 
+ Employer contributions to the non-qualified pension plans 
+ 7 
+ 
+ 
+ 7 
+ 
+ 
+ 8 
+ 
+ 
+ CenterPoint Energy expects to make contributions of approximately $71 million and $6 million to the qualified and non-qualified pension plans in 2026, respectively. 
+ 
+ Changes in pension obligations and plan assets may not be immediately recognized as pension expense in CenterPoint Energy’s Statements of Consolidated Income, but generally are recognized in future years over the remaining average service period of plan participants. As such, significant portions of pension expense recorded in any period may not reflect the actual level of benefit payments provided to plan participants. 
+ 
+ As the sponsor of a plan, CenterPoint Energy is required to (a) recognize on its Consolidated Balance Sheet an asset for the plan’s over-funded status or a liability for the plan’s under-funded status, (b) measure a plan’s assets and obligations as of the end of the fiscal year and (c) recognize changes in the funded status of the plans in the year that changes occur through adjustments to other comprehensive income and, when related to its rate-regulated utilities with recoverability of cost, to regulatory assets. 
+ 
+ The projected benefit obligation for all defined benefit pension plans was $1.5 billion as of December 31, 2025 and 2024, respectively. The projected benefit obligation remained generally consistent from December 31, 2024 to December 31, 2025 as impacts resulting from the decrease in discount rates were offset by actual return on plan assets exceeding expected return on plan assets. 
+ 
+ As of December 31, 2025, the projected benefit obligation exceeded the market value of plan assets of CenterPoint Energy’s pension plans by $272 million. Changes in interest rates or the market values of the securities held by the plan during a year could materially, positively or negatively, change the funded status and affect the level of pension expense and required contributions at the next remeasurement. 
+ 
+ 
+ 
+ 86 
+ 
+ 
+ Houston Electric and CERC participate in CenterPoint Energy’s qualified and non-qualified pension plans covering substantially all employees. Pension cost by Registrant was as follows for the periods presented: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ 
+ 2025 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ 
+ CenterPoint Energy 
+ 
+ Houston Electric 
+ 
+ CERC 
+ 
+ CenterPoint Energy 
+ 
+ Houston Electric 
+ 
+ CERC 
+ 
+ CenterPoint Energy 
+ 
+ Houston Electric 
+ 
+ CERC 
+ 
+ 
+ (in millions) 
+ 
+ Pension cost 
+ $ 
+ 49 
+ 
+ 
+ $ 
+ 24 
+ 
+ 
+ $ 
+ 15 
+ 
+ 
+ $ 
+ 51 
+ 
+ 
+ $ 
+ 23 
+ 
+ 
+ $ 
+ 18 
+ 
+ 
+ $ 
+ 53 
+ 
+ 
+ $ 
+ 27 
+ 
+ 
+ $ 
+ 19 
+ 
+ 
+ The calculation of pension cost and related liabilities requires the use of assumptions. Changes in these assumptions can result in different expense and liability amounts, and future actual experience can differ from the assumptions. Two of the most critical assumptions are the expected long-term rate of return on plan assets and the assumed discount rate. 
+ 
+ As of December 31, 2025, CenterPoint Energy’s qualified pension plans had an expected long-term rate of return on plan assets of 7.00%, which is the same as the 7.00% rate assumed as of December 31, 2024. The expected rate of return assumption was developed using the targeted asset allocation of our plans and the expected return for each asset class. CenterPoint Energy regularly reviews its actual asset allocation and periodically rebalances plan assets to reduce volatility and better match plan assets and liabilities. 
+ 
+ As of December 31, 2025, the projected benefit obligation was calculated assuming a discount rate of 5.35%, which is 25 basis points lower than the 5.60% discount rate assumed as of December 31, 2024 attributed primarily to rising interest rates. The discount rate was determined by reviewing yields on high-quality bonds that receive one of the two highest ratings given by a recognized rating agency and the expected duration of pension obligations specific to the characteristics of CenterPoint Energy’s plans. 
+ 
+ CenterPoint Energy’s actuarially determined pension and other postemployment cost for 2025 and 2024 that is greater or less than the amounts being recovered through rates in the majority of Texas jurisdictions is deferred as a regulatory asset or liability, respectively. Pension cost for 2026, including the non-qualified benefit restoration plan, is estimated to be $49 million before applicable regulatory deferrals and capitalization, based on an expected return on plan assets of 7.00% and a discount rate of 5.35% as of December 31, 2025. If the expected return assumption were lowered by 50 basis points from 7.00% to 6.50%, the 2026 pension cost would increase by approximately $6 million. 
+ 
+ As of December 31, 2025, the pension plans projected benefit obligation, including the unfunded non-qualified pension plans, exceeded plan assets by $272 million. If the discount rate were lowered by 50 basis points from 5.35% to 4.85%, CenterPoint Energy’s projected benefit obligation would increase by approximately $62 million and its 2026 pension cost would decrease by approximately $1 million. The expected reduction in pension cost due to the decrease in discount rate is a result of the expected correlation between the reduced interest rate and appreciation of fixed income assets in pension plans with significantly more fixed income instruments than equity instruments. In addition, the assumption change would impact CenterPoint Energy’s Consolidated Balance Sheets by increasing the regulatory asset recorded as of December 31, 2025 by $55 million and would result in an incremental charge to comprehensive income in 2025 of $6 million, net of tax of $1 million, due to the increase in the projected benefit obligation. 
+ 
+ Future changes in plan asset returns, assumed discount rates and various other factors related to the pension plans will impact CenterPoint Energy’s future pension expense and liabilities. CenterPoint Energy cannot predict with certainty what these factors will be in the future. 
+ 
+ 

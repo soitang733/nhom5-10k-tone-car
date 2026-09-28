@@ -1,63 +1,32 @@
-# Hướng dẫn phương pháp và tái lập chi tiết
+# Phương pháp và tái lập
 
-## Phạm vi
+Danh sách gốc `data/companies_100_input.csv` có SHA-256 lưu trong snapshot metadata. Bảng kiểm `outputs/qa/company_list_100_validation.csv` đối chiếu ticker và CIK với SEC. Danh sách được cố định theo file người dùng đưa, không lựa theo p-value. SEC Submissions API cho form, accession, report date, filing date và acceptance time. Client đọc cả file lịch sử, giữ form 10-K đầu tiên cho từng kỳ, bỏ 10-K/A; ngày nộp không sau 28/09/2026. Bản HTML hoặc phụ lục Exhibit 13 thật được lưu cứng vào `data/raw/sec` dưới tên băm URL kèm JSON provenance, URL và SHA-256. Hồ sơ Apple FY2025 trong mẫu là bản năm kết thúc 27/09/2025, không phải dữ liệu tự dựng.
 
-Năm tài chính 2016–2025; 50 ticker trong config.json; ngày khóa 27/09/2026. Giữ 10-K gốc, accession duy nhất, lấy filing đầu tiên cho cùng kỳ. Loại 10-K/A khỏi thiết kế baseline. Kiểm tra DEI trước khi quyết định một báo cáo thuộc năm nào.
+Mười năm tài khóa 2016–2025 được gán từ DEI và kỳ trên bìa, có đối chiếu các trường hợp năm tài khóa kết thúc tháng 1–2 và DEI lỗi thời. `data/filings_manifest.csv` ghi nguồn quyết định nhãn năm; mỗi cặp ticker–năm đúng một accession. Mẫu có chủ đích gồm các công ty tồn tại và có dữ liệu đủ 10 năm, nên có thiên lệch sống sót và không đại diện ngẫu nhiên cho toàn thị trường.
 
-## Chạy online
+## Xử lý MD&A và kiểm soát chất lượng
 
-Thiết lập SEC_USER_AGENT trong .env bằng danh tính nhóm và email thật. Chạy python -m tonecar.pipeline --mode real. Dùng --reuse-text khi chỉ mở rộng mẫu và các quy tắc parser cũ vẫn hợp lệ; bỏ tùy chọn này khi sửa parser ảnh hưởng nội dung đã trích xuất. Cache tránh tải lại raw filing. Không vượt giới hạn request của SEC.
+HTML được giải mã với UnicodeDammit, bỏ script/style và XBRL header ẩn, chuẩn hóa Unicode NFKC; nội dung khối được giữ để phát hiện tiêu đề. Parser lấy Item 7 đến Item 7A hoặc Item 8 khi có tiêu đề rõ. Với bố cục annual report lồng trong tài liệu chính hoặc Exhibit 13, quy tắc riêng phải khớp tiêu đề nội dung và điểm bắt đầu chương tiếp theo, tránh lấy mục lục. Martin Marietta dùng trang Exhibit 13 có heading MD&A lặp trên từng trang; Nucor dừng trước báo cáo kiểm toán. Deere được xử lý lỗi chia chữ `INCOM E` ở tiêu đề báo cáo tài chính. Các cách trích, số token, đầu/cuối và URL nguồn lưu trong `data/extraction_audit.csv`.
 
-Sau pipeline: chạy python scripts/finalize.py để screening 8-K; python scripts/complete_project.py để tạo bảng robustness và báo cáo; python scripts/build_notebook.py để tạo notebook; thực thi notebook; python scripts/package_project.py để đóng gói. Mỗi bước phụ thuộc bước trước, không chạy đồng thời khi đang xuất dữ liệu cùng thư mục.
+| Cách trích | Số báo cáo |
+| --- | --- |
+| item7_block_heading | 936 |
+| issuer_heading_boundaries_CAH | 10 |
+| issuer_substantive_heading_DE | 10 |
+| issuer_substantive_heading_LVS | 10 |
+| issuer_substantive_heading_FCX | 10 |
+| incorporated_Exhibit_13_CCL | 6 |
+| issuer_substantive_heading_MELI | 6 |
+| issuer_substantive_heading_FDX | 5 |
+| incorporated_Exhibit_13_MLM | 3 |
+| incorporated_Exhibit_13_NUE | 3 |
+| issuer_heading_boundaries_CCL | 1 |
 
-## Chạy offline
 
-Mở notebooks/final_analysis.ipynb với môi trường chứa requirements-lock.txt. Notebook dùng MD&A và các bảng đã đóng gói để tái tính tone, CAR và baseline. Không cần SEC hoặc Yahoo cho phần xác minh offline. Dùng start-local.ps1 để mở dashboard; server chỉ lắng nghe loopback. ZIP không chứa .env hay email cấu hình.
+Từ được tách thành token chữ cái dài ít nhất hai ký tự, chuyển uppercase; không stemming và không bỏ stopword ở mẫu số. PositiveRate = số token LM tích cực/tổng token; NegativeRate tương tự; UncertaintyRate tương tự; Tone = PositiveRate − NegativeRate. `data/tone_panel.csv` giữ tone theo từng accession, doanh nghiệp và năm. So sánh VADER là đối chứng từ điển phổ thông, không được xem là nhãn chân lý cho mỗi câu tài chính. Một phép thử loại bảng số được báo cáo riêng; baseline vẫn chứa bảng nếu bảng nằm trong MD&A thật.
 
-## Từ điển dữ liệu
+## Thiết kế event study và mô hình
 
-| Biến | Đơn vị và ý nghĩa |
-|---|---|
-| ticker / cik | Mã giao dịch và định danh SEC; ticker không phải khóa lịch sử hoàn hảo |
-| accession | Khóa duy nhất của filing SEC |
-| fiscal_year | Năm tài chính; khác filing_date |
-| report_date | Ngày kết thúc kỳ báo cáo |
-| acceptance | Timestamp SEC nhận tài liệu; phải chuyển múi giờ trước căn phiên |
-| total_words | Số token chữ cái hợp lệ, tối thiểu 2 ký tự |
-| positive / negative / uncertainty | Số lượt token thuộc nhóm LM, không phải số từ duy nhất |
-| tone | (Positive − Negative) / Total words; tỷ lệ thập phân |
-| negative_rate / uncertainty_rate | Số lượt nhóm / Total words |
-| generic_tone | Tỷ lệ theo dấu word list VADER, cùng mẫu số |
-| car_-1_1 | Tổng AR của 3 phiên, dạng lợi suất thập phân |
-| car_-3_3 / car_-5_5 | Tổng AR của 7 / 11 phiên |
-| mar_-1_1 | Lợi suất market-adjusted, giả định alpha=0 beta=1 |
-| raw_sha256 / lm_sha256 | Dấu kiểm tra snapshot đầu vào |
-| alignment_rule | same, next hoặc acceptance |
+Giá điều chỉnh của 100 cổ phiếu và benchmark S&P 500 (^GSPC) được lưu trong cache thị trường. Lợi suất r_i,t = P_i,t/P_i,t-1 − 1. Lịch phiên XNYS quyết định t=0; khi ngày SEC là ngày nghỉ/cuối tuần, t=0 là phiên kế tiếp. Mô hình thị trường r_i,t = α_i + β_i r_m,t + ε_i,t được ước lượng trên [-120,-20] phiên, yêu cầu tối thiểu 80 cặp lợi suất hợp lệ. AR_i,t = r_i,t − (α̂_i + β̂_i r_m,t); CAR[a,b] là tổng AR từ a đến b, gồm hai đầu. Baseline căn cùng phiên; các đối chứng dùng phiên kế tiếp và acceptance time của SEC so với giờ đóng cửa thật của XNYS.
 
-## Công thức và ví dụ
-
-Nếu MD&A có 10.000 token, 100 positive và 300 negative thì tone = −0,02. Nếu 200 uncertainty thì uncertainty_rate = 0,02. Ví dụ chỉ minh họa phép tính, không phải quan sát thật của mẫu.
-
-Ước lượng Ri,t = alpha + beta Rm,t + epsilon trên 101 phiên [-120,-20], yêu cầu ít nhất 80 cặp return hợp lệ. AR = return thực tế − return dự báo. CAR cộng AR bao gồm cả hai đầu mút. Nếu alpha=0,0002, beta=1,1, Rm=0,01 và Ri=0,008 thì return dự báo=0,0112 và AR=−0,0032, tức −0,32%. Ví dụ này không thay thế dữ liệu thực tế.
-
-## Đặc tả và suy luận
-
-Baseline: CAR[-1,+1] = intercept + b Tone + error, OLS với HC3. Đối chứng thêm year FE, firm FE, negativity/uncertainty, generic_tone, MAR, căn ngày khác và loại cờ 8-K. Các đặc tả FE cần ma trận đầy hạng và bậc tự do đủ. Cluster SE theo ticker có 50 cụm; đọc như kiểm tra độ nhạy. Holm điều chỉnh nhóm hệ số xuất trong mỗi alignment, không bảo đảm mọi thao tác bộ lọc được điều chỉnh multiple testing.
-
-## Quy trình kiểm tra lỗi
-
-Nếu extraction thất bại, đọc exclusions.csv, raw HTML và đầu/cuối audit. Nếu thiếu CAR, kiểm tra giá trong estimation và event window; không fill forward để làm đủ mẫu. Nếu hệ số thay đổi sau cập nhật, so manifest, năm tài chính, checksum và thời điểm căn ngày trước khi diễn giải khác biệt kinh tế. Nếu giao diện hiện N cũ, dùng Cập nhật dữ liệu; mọi trang phải nêu rõ khoảng mẫu hiện hành.
-
-## Các giới hạn phải trình bày
-
-Mẫu có chủ đích, survivorship bias, retrospective dictionary, parser heuristic, stock adjusted price so với benchmark price index, ít clusters và thông tin công bố trước filing. Không có causal identification hoặc backtest chiến lược. Phần audit cấu trúc tự động không phải human annotation toàn văn.
-
-## Kiểm định thay đổi tone và fundamentals
-
-Delta_tone = Tone(t) − Tone(t−1), chỉ tính cho hai fiscal years liên tiếp cùng ticker. Không nối qua năm thiếu, không thay NaN bằng 0. Trong phạm vi mười năm, mỗi công ty có nhiều nhất chín quan sát delta. Year/firm FE và controls là đặc tả phụ đã công bố, không lựa chọn để đạt p<0,05.
-
-SEC Company Facts cung cấp Assets, Liabilities và NetIncomeLoss/ProfitLoss theo đơn vị USD. Chỉ lấy fact có accession đúng filing đang phân tích, end đúng report_date và form 10-K. Net income phải là kỳ năm 330–385 ngày, không lấy quý hoặc số comparative năm cũ. Nếu nhiều giá trị khác nhau cho cùng tag/kỳ/accession, đánh dấu ambiguous và để thiếu. Có thể suy Liabilities = Assets − StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest khi cả hai có cùng kỳ/accession. Không lấy equity chỉ của công ty mẹ để suy tổng liabilities khi thiếu noncontrolling interest.
-
-Log_assets = ln(tổng tài sản USD), là proxy quy mô theo tài sản, không phải market capitalization. Liabilities_assets = tổng nợ phải trả/tổng tài sản, không đồng nghĩa interest-bearing debt ratio. ROA = net income/tài sản cuối năm, không dùng tài sản bình quân. Báo cáo controls dùng complete cases và công bố N; tuyệt đối không điền số thiếu bằng 0. Các chỉ tiêu này cùng có trong filing nên mang tính đồng thời, không tự giải quyết nội sinh.
-
-Chạy scripts/enrich_fundamentals.py sau pipeline và trước finalize/complete_project. API nguồn: https://www.sec.gov/search-filings/edgar-application-programming-interfaces . Dữ liệu đã chọn và tag/provenance ở data/fundamentals_panel.csv.
+Hồi quy OLS nền CAR_i[-1,+1] = a + b×Tone_i + u_i dùng HC3. Bảng kết quả còn có năm, hiệu ứng cố định công ty, biến tài chính cùng accession/kỳ, thay đổi tone, tỷ lệ từ tiêu cực/bất định và hiệu chỉnh Holm cho các hệ số được báo cáo. Đối chứng cluster theo 100 doanh nghiệp và loại từng công ty một đánh giá độ nhạy; 18 kiểm định định trước với loại bảng số, negativity và buy-and-hold excess return có Holm chung. Không chọn mô hình nào theo p-value tốt nhất.

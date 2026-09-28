@@ -1,0 +1,3711 @@
+ ITEM 7. 
+ 
+ Management’s Discussion and Analysis of Financial Condition and Results of Operations. 
+ 
+ INTRODUCTION 
+ This section provides management’s discussion of the financial condition, changes in financial condition and results of operations of Atmos Energy Corporation and its consolidated subsidiaries with specific information on results of operations and liquidity and capital resources. It includes management’s interpretation of our financial results, the factors affecting these results, the major factors expected to affect future operating results and future investment and financing plans. This discussion should be read in conjunction with our consolidated financial statements and notes thereto. 
+ Several factors exist that could influence our future financial performance, some of which are described in ITEM 1A above, “Risk Factors”. They should be considered in connection with evaluating forward-looking statements contained in this report or otherwise made by or on behalf of us since these factors could cause actual results and conditions to differ materially from those set out in such forward-looking statements. 
+ Cautionary Statement for the Purposes of the Safe Harbor under the Private Securities Litigation Reform Act of 1995 
+ The statements contained in this Annual Report on Form 10-K may contain “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934. All statements other than statements of historical fact included in this Report are forward-looking statements made in good faith by us and are intended to qualify for the safe harbor from liability established by the Private Securities Litigation Reform Act of 1995. When used in this Report, or any other of our documents or oral presentations, the words “anticipate”, “believe”, “estimate”, “expect”, “forecast”, “goal”, “intend”, “objective”, “plan”, “projection”, “seek”, “strategy” or similar words are intended to identify forward-looking statements. Such forward-looking statements are subject to risks and uncertainties that could cause actual results to differ materially from those expressed or implied in the statements relating to our strategy, operations, markets, services, rates, recovery of costs, availability of gas supply and other factors. These risks and uncertainties include the following: state and local regulatory trends and decisions, including the impact of rate proceedings before various state regulatory commissions; increased federal regulatory oversight and potential penalties; possible increased federal, state and local regulation of the safety of our operations; possible significant costs and liabilities resulting from pipeline integrity and other similar programs and related repairs; the inherent hazards and risks involved in distributing, transporting and storing natural gas; the capital-intensive nature of our business; our ability to continue to access the credit and capital markets to execute our business strategy; market risks beyond our control affecting our risk management activities, including commodity price volatility, counterparty performance or creditworthiness and interest rate risk; the concentration of our operations in Texas; the impact of adverse economic conditions on our customers; changes in the availability and price of natural gas; the availability and accessibility of contracted gas supplies, interstate pipeline and/or storage services; increased competition from energy suppliers and alternative forms of energy; adverse weather conditions; increased costs of providing health care benefits, along with pension and postretirement health care benefits and increased funding requirements; the inability to continue to hire, train and retain operational, technical and managerial personnel; the impact of climate change; the impact of greenhouse gas emissions or other legislation or regulations intended to address climate change; increased dependence on technology that may hinder the Company's business if such technologies fail; the threat of cyber-attacks or acts of cyber-terrorism that could disrupt our business operations and information technology systems or result in the loss or exposure of confidential or sensitive customer, employee or Company information; natural disasters, terrorist activities or other events and other risks and uncertainties discussed herein, all of which are difficult to predict and many of which are beyond our control. Accordingly, while we believe these forward-looking statements to be reasonable, there can be no assurance that they will approximate actual experience or that the expectations derived from them will be realized. Further, we undertake no obligation to update or revise any of our forward-looking statements whether as a result of new information, future events or otherwise. 
+ 
+ CRITICAL ACCOUNTING POLICIES 
+ Our consolidated financial statements were prepared in accordance with accounting principles generally accepted in the United States. Preparation of these financial statements requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses and the related disclosures of contingent assets and liabilities. We base our estimates on historical experience and various other assumptions that we believe to be reasonable under the circumstances. Actual results may differ from estimates. 
+ Our significant accounting policies are discussed in Notes 2 and 16 to our consolidated financial statements. The accounting policies discussed below are both important to the presentation of our financial condition and results of operations and require management to make difficult, subjective or complex accounting estimates. Accordingly, these critical accounting policies are reviewed periodically by the Audit Committee of the Board of Directors. 
+ 
+ 
+ 22 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Critical 
+ Accounting Policy 
+ 
+ Summary of Policy 
+ 
+ Factors Influencing Application of the Policy 
+ 
+ 
+ Regulation 
+ 
+ Our distribution and pipeline operations meet the criteria of a cost-based, rate-regulated entity under accounting principles generally accepted in the United States. Accordingly, the financial results for these operations reflect the effects of the ratemaking and accounting practices and policies of the various regulatory commissions to which we are subject. As a result, certain costs that would normally be expensed under accounting principles generally accepted in the United States are permitted to be capitalized or deferred on the balance sheet because it is probable they can be recovered through rates. Further, regulation may impact the period in which revenues or expenses are recognized. The amounts expected to be recovered or recognized are based upon historical experience and our understanding of the regulations. Discontinuing the application of this method of accounting for regulatory assets and liabilities or changes in the accounting for our various regulatory mechanisms could significantly increase our operating expenses as fewer costs would likely be capitalized or deferred on the balance sheet, which could reduce our net income. 
+ 
+ Decisions of regulatory authorities 
+ 
+ Issuance of new regulations or regulatory mechanisms 
+ 
+ Assessing the probability of the recoverability of deferred costs 
+ 
+ Continuing to meet the criteria of a cost-based, rate regulated entity for accounting purposes 
+ 
+ 
+ 
+ Unbilled Revenue 
+ 
+ We follow the revenue accrual method of accounting for distribution segment revenues whereby revenues attributable to gas delivered to customers, but not yet billed under the cycle billing method, are estimated and accrued and the related costs are charged to expense. When permitted, we implement rates that have not been formally approved by our regulatory authorities, subject to refund.We recognize this revenue and establish a reserve for amounts that could be refunded based on our experience for the jurisdiction in which the rates were implemented. 
+ 
+ Estimates of delivered sales volumes based on actual tariff information and weather information and estimates of customer consumption and/or behavior 
+ 
+ Estimates of purchased gas costs related to estimated deliveries 
+ 
+ Estimates of amounts billed subject to refund 
+ 
+ 
+ 23 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Critical 
+ Accounting Policy 
+ 
+ Summary of Policy 
+ 
+ Factors Influencing Application of the Policy 
+ 
+ 
+ Pension and other postretirement plans 
+ 
+ Pension and other postretirement plan costs and liabilities are determined on an actuarial basis using a September 30 measurement date and are affected by numerous assumptions and estimates including the market value of plan assets, estimates of the expected return on plan assets, assumed discount rates and current demographic and actuarial mortality data. The assumed discount rate and the expected return are the assumptions that generally have the most significant impact on our pension costs and liabilities. The assumed discount rate, the assumed health care cost trend rate and assumed rates of retirement generally have the most significant impact on our postretirement plan costs and liabilities. The discount rate is utilized principally in calculating the actuarial present value of our pension and postretirement obligations and net periodic pension and postretirement benefit plan costs. When establishing our discount rate, we consider high quality corporate bond rates based on bonds available in the marketplace that are suitable for settling the obligations, changes in those rates from the prior year and the implied discount rate that is derived from matching our projected benefit disbursements with currently available high quality corporate bonds. The expected long-term rate of return on assets is utilized in calculating the expected return on plan assets component of our annual pension and postretirement plan costs. We estimate the expected return on plan assets by evaluating expected bond returns, equity risk premiums, asset allocations, the effects of active plan management, the impact of periodic plan asset rebalancing and historical performance. We also consider the guidance from our investment advisors in making a final determination of our expected rate of return on assets. To the extent the actual rate of return on assets realized over the course of a year is greater than or less than the assumed rate, that year’s annual pension or postretirement plan costs are not affected. Rather, this gain or loss reduces or increases future pension or postretirement plan costs over a period of approximately ten to twelve years. The market-related value of our plan assets represents the fair market value of the plan assets, adjusted to smooth out short-term market fluctuations over a five-year period. The use of this methodology will delay the impact of current market fluctuations on the pension expense for the period. We estimate the assumed health care cost trend rate used in determining our postretirement net expense based upon our actual health care cost experience, the effects of recently enacted legislation and general economic conditions. Our assumed rate of retirement is estimated based upon our annual review of our participant census information as of the measurement date. 
+ 
+ General economic and market conditions 
+ 
+ Assumed investment returns by asset class 
+ 
+ Assumed future salary increases 
+ 
+ Assumed discount rate 
+ 
+ Projected timing of future cash disbursements 
+ 
+ Health care cost experience trends 
+ 
+ Participant demographic information 
+ 
+ Actuarial mortality assumptions 
+ 
+ Impact of legislation 
+ 
+ Impact of regulation 
+ 
+ 
+ 
+ Impairment assessments 
+ 
+ We review the carrying value of our long-lived assets, including goodwill and identifiable intangibles, whenever events or changes in circumstance indicate that such carrying values may not be recoverable, and at least annually for goodwill, as required by U.S. accounting standards. The evaluation of our goodwill balances and other long-lived assets or identifiable assets for which uncertainty exists regarding the recoverability of the carrying value of such assets involves the assessment of future cash flows and external market conditions and other subjective factors that could impact the estimation of future cash flows including, but not limited to the commodity prices, the amount and timing of future cash flows, future growth rates and the discount rate. Unforeseen events and changes in circumstances or market conditions could adversely affect these estimates, which could result in an impairment charge. 
+ 
+ General economic and market conditions Projected timing and amount of future discounted cash flows Judgment in the evaluation of relevant data 
+ 
+ 
+ 
+ 
+ 24 
+ 
+ Table of Contents 
+ 
+ Non-GAAP Financial Measures 
+ Our operations are affected by the cost of natural gas, which is passed through to our customers without markup and includes commodity price, transportation, storage, injection and withdrawal fees and settlements of financial instruments used to mitigate commodity price risk. These costs are reflected in the consolidated statements of comprehensive income as purchased gas cost. Therefore, increases in the cost of gas are offset by a corresponding increase in revenues. Accordingly, we believe Contribution Margin, a non-GAAP financial measure, defined as operating revenues less purchased gas cost, is a more useful and relevant measure to analyze our financial performance than operating revenues. As such, the following discussion and analysis of our financial performance will reference Contribution Margin rather than operating revenues and purchased gas cost individually. Further, the term Contribution Margin is not intended to represent operating income, the most comparable GAAP financial measure, as an indicator of operating performance and is not necessarily comparable to similarly titled measures reported by other companies. 
+ As described further in Note 13 , the enactment of the Tax Cuts and Jobs Act of 2017 (the "TCJA") required us to remeasure our deferred tax assets and liabilities at our new federal statutory income tax rate as of December 22, 2017. The remeasurement of our net deferred tax liabilities resulted in the recognition of a non-cash income tax benefit of $158.8 million for the fiscal year ended September 30, 2018 . Due to the non-recurring nature of this benefit, we believe that net income and diluted net income per share before the non-cash income tax benefit provide a more relevant measure to analyze our financial performance than net income and diluted net income per share in order to allow investors to better analyze our core results and allow the information to be presented on a comparative basis to the prior year. Accordingly, the following discussion and analysis of our financial performance will reference adjusted net income and adjusted diluted earnings per share, non-GAAP measures, which are calculated as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Fiscal Year Ended September 30 
+ 
+ 
+ 
+ 
+ 2019 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ Change 
+ 
+ 
+ 
+ 
+ (In thousands, except per share data) 
+ 
+ 
+ Net income 
+ 
+ $ 
+ 
+ 511,406 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 603,064 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (91,658 
+ 
+ ) 
+ 
+ 
+ TCJA non-cash income tax benefit 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ (158,782 
+ 
+ ) 
+ 
+ 
+ 
+ 158,782 
+ 
+ 
+ 
+ 
+ Adjusted net income 
+ 
+ $ 
+ 
+ 511,406 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 444,282 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 67,124 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Diluted net income per share 
+ 
+ $ 
+ 
+ 4.35 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 5.43 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (1.08 
+ 
+ ) 
+ 
+ 
+ Diluted EPS from TCJA non-cash income tax benefit 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ (1.43 
+ 
+ ) 
+ 
+ 
+ 
+ 1.43 
+ 
+ 
+ 
+ 
+ Adjusted diluted net income per share 
+ 
+ $ 
+ 
+ 4.35 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 4.00 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 0.35 
+ 
+ 
+ 
+ RESULTS OF OPERATIONS 
+ Overview 
+ Atmos Energy strives to operate its businesses safely and reliably while delivering superior shareholder value. Our commitment to modernizing our natural gas distribution and transmission systems requires a significant level of capital spending. We have the ability to begin recovering a significant portion of these investments timely through rate designs and mechanisms that reduce or eliminate regulatory lag and separate the recovery of our approved rate from customer usage patterns. The execution of our capital spending program, the ability to recover these investments timely and our ability to access the capital markets to satisfy our financing needs are the primary drivers that affect our financial performance. 
+ During fiscal 2019 , we recorded net income of $511.4 million , or $4.35 per diluted share, compared to net income of $603.1 million , or $5.43 per diluted share in the prior year. After adjusting for the nonrecurring benefit recognized after implementing the TCJA in fiscal 2018, we recorded adjusted net income of $444.3 million , or $4.00 per diluted share for the year ended September 30, 2018 . 
+ 
+ 
+ 25 
+ 
+ Table of Contents 
+ 
+ The following table details our consolidated net income by segment during the last three fiscal years: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Fiscal Year Ended September 30 
+ 
+ 
+ 
+ 
+ 2019 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 
+ (In thousands) 
+ 
+ 
+ Distribution segment 
+ 
+ $ 
+ 
+ 328,814 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 442,966 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 268,369 
+ 
+ 
+ 
+ 
+ Pipeline and storage segment 
+ 
+ 182,592 
+ 
+ 
+ 
+ 
+ 
+ 160,098 
+ 
+ 
+ 
+ 
+ 
+ 114,342 
+ 
+ 
+ 
+ 
+ Net income from continuing operations 
+ 
+ 511,406 
+ 
+ 
+ 
+ 
+ 
+ 603,064 
+ 
+ 
+ 
+ 
+ 
+ 382,711 
+ 
+ 
+ 
+ 
+ Net income from discontinued operations 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 13,710 
+ 
+ 
+ 
+ 
+ Net income 
+ 
+ $ 
+ 
+ 511,406 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 603,064 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 396,421 
+ 
+ 
+ The year-over-year increase in adjusted net income of $67.1 million , or 15 percent, largely reflects positive rate outcomes driven by safety and reliability spending, customer growth in our distribution business, positive Contribution Margin in our pipeline and storage business primarily due to positive supply and demand dynamics affecting the Permian Basin due to wider spreads and the impact of the TCJA on our effective income tax rate. During the year ended September 30, 2019 , we implemented ratemaking regulatory actions which resulted in an increase in annual operating income of $116.7 million and had nine ratemaking efforts in progress at September 30, 2019 , seeking a total increase in annual operating income of $81.2 million . 
+ Capital expenditures for fiscal 2019 increased 15 percent period-over-period, to $1.7 billion . Over 80 percent was invested to improve the safety and reliability of our distribution and transmission systems, with a significant portion of this investment incurred under regulatory mechanisms that reduce regulatory lag to six months or less. We funded a portion of our current-year capital expenditures program through operating cash flows of $968.8 million . Additionally, we completed over $2 billion in external financing during the year ended September 30, 2019 with the issuance of $1.1 billion in 30-year senior notes and over $1.0 billion of common stock, of which approximately $470 million was allocated to forward sale agreements which have not yet been settled. The net proceeds from these issuances, together with available cash, were used to repay at maturity our $450 million 8.5% unsecured senior notes, to repay short-term debt under our commercial paper program, to fund capital spending and for general corporate purposes. 
+ Additionally, on October 2, 2019, we completed a public offering of $300 million of 2.625% senior notes due 2029 and $500 million of 3.375% senior notes due 2049. We received net proceeds from the offering, after underwriting discount and estimated offering expenses of approximately $791.6 million , that were used for general corporate purposes, including the repayment of working capital borrowings pursuant to our commercial paper program. The effective interest rate of these notes is 2.72% and 3.42% after giving effect to the offering costs. 
+ As a result of the continued contribution and stability of our earnings, cash flows and capital structure, our Board of Directors increased the quarterly dividend by 9.5% percent for fiscal 2020. 
+ Distribution Segment 
+ The distribution segment is primarily comprised of our regulated natural gas distribution and related sales operations in eight states. The primary factors that impact the results of our distribution operations are our ability to earn our authorized rates of return, competitive factors in the energy industry and economic conditions in our service areas. 
+ Our ability to earn our authorized rates is based primarily on our ability to improve the rate design in our various ratemaking jurisdictions to minimize regulatory lag and, ultimately, separate the recovery of our approved rates from customer usage patterns. Improving rate design is a long-term process and is further complicated by the fact that we operate in multiple rate jurisdictions. The “Ratemaking Activity” section of this Form 10-K describes our current rate strategy, progress towards implementing that strategy and recent ratemaking initiatives in more detail. 
+ We are generally able to pass the cost of gas through to our customers without markup under purchased gas cost adjustment mechanisms; therefore, increases in the cost of gas are offset by a corresponding increase in revenues. Contribution Margin in our Texas and Mississippi service areas include franchise fees and gross receipt taxes, which are calculated as a percentage of revenue (inclusive of gas costs). Therefore, the amount of these taxes included in revenue is influenced by the cost of gas and the level of gas sales volumes. We record the associated tax expense as a component of taxes, other than income. Although changes in revenue related taxes arising from changes in gas costs affect Contribution Margin, over time the impact is offset within operating income. 
+ Although the cost of gas typically does not have a direct impact on our Contribution Margin, higher gas costs may adversely impact our accounts receivable collections, resulting in higher bad debt expense, and may require us to increase borrowings under our credit facilities resulting in higher interest expense. In addition, higher gas costs, as well as competitive factors in the industry and general economic conditions may cause customers to conserve or, in the case of industrial consumers, to use alternative energy sources. Currently, gas cost risk has been mitigated by rate design that allows us to collect 
+ 
+ 
+ 26 
+ 
+ Table of Contents 
+ 
+ from our customers the gas cost portion of our bad debt expense on approximately 76 percent of our residential and commercial margins. 
+ During fiscal 2019 , we completed 22 regulatory proceedings in our distribution segment, resulting in a $67.5 million increase in annual operating income. 
+ Review of Financial and Operating Results 
+ Financial and operational highlights for our distribution segment for the fiscal years ended September 30, 2019 , 2018 and 2017 are presented below. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Fiscal Year Ended September 30 
+ 
+ 
+ 
+ 
+ 2019 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 2019 vs. 2018 
+ 
+ 
+ 
+ 2018 vs. 2017 
+ 
+ 
+ 
+ 
+ (In thousands, unless otherwise noted) 
+ 
+ 
+ Operating revenues 
+ 
+ $ 
+ 
+ 2,745,461 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 3,003,047 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 2,649,175 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (257,586 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ 353,872 
+ 
+ 
+ 
+ 
+ Purchased gas cost 
+ 
+ 1,268,591 
+ 
+ 
+ 
+ 
+ 
+ 1,559,836 
+ 
+ 
+ 
+ 
+ 
+ 1,269,456 
+ 
+ 
+ 
+ 
+ 
+ (291,245 
+ 
+ ) 
+ 
+ 
+ 
+ 290,380 
+ 
+ 
+ 
+ 
+ Contribution Margin 
+ 
+ 1,476,870 
+ 
+ 
+ 
+ 
+ 
+ 1,443,211 
+ 
+ 
+ 
+ 
+ 
+ 1,379,719 
+ 
+ 
+ 
+ 
+ 
+ 33,659 
+ 
+ 
+ 
+ 
+ 
+ 63,492 
+ 
+ 
+ 
+ 
+ Operating expenses (1) 
+ 
+ 1,006,098 
+ 
+ 
+ 
+ 
+ 
+ 957,544 
+ 
+ 
+ 
+ 
+ 
+ 865,995 
+ 
+ 
+ 
+ 
+ 
+ 48,554 
+ 
+ 
+ 
+ 
+ 
+ 91,549 
+ 
+ 
+ 
+ 
+ Operating income 
+ 
+ 470,772 
+ 
+ 
+ 
+ 
+ 
+ 485,667 
+ 
+ 
+ 
+ 
+ 
+ 513,724 
+ 
+ 
+ 
+ 
+ 
+ (14,895 
+ 
+ ) 
+ 
+ 
+ 
+ (28,057 
+ 
+ ) 
+ 
+ 
+ Other non-operating income (expense) (1) 
+ 
+ 6,241 
+ 
+ 
+ 
+ 
+ 
+ (6,649 
+ 
+ ) 
+ 
+ 
+ 
+ (9,777 
+ 
+ ) 
+ 
+ 
+ 
+ 12,890 
+ 
+ 
+ 
+ 
+ 
+ 3,128 
+ 
+ 
+ 
+ 
+ Interest charges 
+ 
+ 60,031 
+ 
+ 
+ 
+ 
+ 
+ 65,850 
+ 
+ 
+ 
+ 
+ 
+ 79,789 
+ 
+ 
+ 
+ 
+ 
+ (5,819 
+ 
+ ) 
+ 
+ 
+ 
+ (13,939 
+ 
+ ) 
+ 
+ 
+ Income before income taxes 
+ 
+ 416,982 
+ 
+ 
+ 
+ 
+ 
+ 413,168 
+ 
+ 
+ 
+ 
+ 
+ 424,158 
+ 
+ 
+ 
+ 
+ 
+ 3,814 
+ 
+ 
+ 
+ 
+ 
+ (10,990 
+ 
+ ) 
+ 
+ 
+ Income tax expense 
+ 
+ 88,168 
+ 
+ 
+ 
+ 
+ 
+ 107,880 
+ 
+ 
+ 
+ 
+ 
+ 155,789 
+ 
+ 
+ 
+ 
+ 
+ (19,712 
+ 
+ ) 
+ 
+ 
+ 
+ (47,909 
+ 
+ ) 
+ 
+ 
+ TCJA non-cash income tax benefit 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ (137,678 
+ 
+ ) 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 137,678 
+ 
+ 
+ 
+ 
+ 
+ (137,678 
+ 
+ ) 
+ 
+ 
+ Net income 
+ 
+ $ 
+ 
+ 328,814 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 442,966 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 268,369 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (114,152 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ 174,597 
+ 
+ 
+ 
+ 
+ Consolidated distribution sales volumes — MMcf 
+ 
+ 315,476 
+ 
+ 
+ 
+ 
+ 
+ 300,817 
+ 
+ 
+ 
+ 
+ 
+ 246,825 
+ 
+ 
+ 
+ 
+ 
+ 14,659 
+ 
+ 
+ 
+ 
+ 
+ 53,992 
+ 
+ 
+ 
+ 
+ Consolidated distribution transportation volumes — MMcf 
+ 
+ 155,078 
+ 
+ 
+ 
+ 
+ 
+ 150,566 
+ 
+ 
+ 
+ 
+ 
+ 141,540 
+ 
+ 
+ 
+ 
+ 
+ 4,512 
+ 
+ 
+ 
+ 
+ 
+ 9,026 
+ 
+ 
+ 
+ 
+ Total consolidated distribution throughput — MMcf 
+ 
+ 470,554 
+ 
+ 
+ 
+ 
+ 
+ 451,383 
+ 
+ 
+ 
+ 
+ 
+ 388,365 
+ 
+ 
+ 
+ 
+ 
+ 19,171 
+ 
+ 
+ 
+ 
+ 
+ 63,018 
+ 
+ 
+ 
+ 
+ Consolidated distribution average cost of gas per Mcf sold 
+ 
+ $ 
+ 
+ 4.02 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 5.19 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 5.14 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (1.17 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ 0.05 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) 
+ 
+ In accordance with our adoption of new accounting standards, changes in income statement presentation were implemented on a retrospective basis and impacted previously issued financial statements for the fiscal years ended 2018 and 2017, as discussed in greater detail in Note 2. 
+ 
+ Fiscal year ended September 30, 2019 compared with fiscal year ended September 30, 2018 
+ Income before income taxes for our distribution segment increased slightly, primarily due to a $33.7 million increase in Contribution Margin and a combined $18.7 million decrease in other non-operating expense and interest charges, partially offset by a $ 48.6 million increase in operating expenses. The year-to-date increase in Contribution Margin primarily reflects: 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ a $33.0 million net increase in rate adjustments, after the effect of the TCJA, primarily in our Mid-Tex, Mississippi and West Texas Divisions. 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ a $12.8 million increase from customer growth primarily in our Mid-Tex Division. 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ a $9.6 million decrease in revenue-related taxes primarily in our Mid-Tex Division, offset by a corresponding $9.8 million decrease in the related tax expense. 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ a $2.3 million decrease in residential and commercial net consumption. 
+ Operating expenses, which include operating and maintenance expense, provision for doubtful accounts, depreciation and amortization expense and taxes, other than income, increased $48.6 million primarily due to: 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ a $35.9 million increase in depreciation expense and property taxes associated with increased capital investments. 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ a $20.7 million increase in pipeline maintenance and related activities. 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ a $13.7 million increase in employee and training costs as we have increased service-related headcount to support operations in our fastest growing service territories. 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ a $3.5 million increase in software maintenance fees. 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ a $24.3 million decrease in nonrecurring expenses related to the planned outage of our natural gas distribution system in Northwest Dallas in March 2018. 
+ 
+ 
+ 27 
+ 
+ Table of Contents 
+ 
+ The year-over-year decrease in other non-operating expense and interest charges of $18.7 million is primarily due to increased capitalized interest and AFUDC, as well as decreases due to the adoption of new accounting standards. As discussed further in Note 2, we are now required to recognize changes in the fair value of our equity securities formerly designated as available-for-sale on our consolidated statements of comprehensive income and the components of net periodic cost other than the service cost component are included in other non-operating expense in the consolidated statements of comprehensive income. These decreases are partially offset by an increase in interest expense due to the issuance of long-term debt during fiscal 2019. 
+ The decrease in income tax expense reflects a reduction in our effective tax rate from 26.1% to 21.1%, as a result of the TCJA. 
+ The fiscal year ended September 30, 2018 compared with fiscal year ended September 30, 2017 for our distribution segment is described in ITEM 7 "Management's Discussion and Analysis of Financial Condition and Results of Operations" of our Annual Report on Form 10-K for the fiscal year ended September 30, 2018. 
+ The following table shows our operating income by distribution division, in order of total rate base, for the fiscal years ended September 30, 2019 , 2018 and 2017 . The presentation of our distribution operating income is included for financial reporting purposes and may not be appropriate for ratemaking purposes. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Fiscal Year Ended September 30 
+ 
+ 
+ 
+ 
+ 2019 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 2019 vs. 2018 
+ 
+ 
+ 
+ 2018 vs. 2017 
+ 
+ 
+ 
+ 
+ (In thousands) 
+ 
+ 
+ Mid-Tex 
+ 
+ $ 
+ 
+ 202,050 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 202,444 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 233,158 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (394 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ (30,714 
+ 
+ ) 
+ 
+ 
+ Kentucky/Mid-States 
+ 
+ 73,965 
+ 
+ 
+ 
+ 
+ 
+ 81,105 
+ 
+ 
+ 
+ 
+ 
+ 75,214 
+ 
+ 
+ 
+ 
+ 
+ (7,140 
+ 
+ ) 
+ 
+ 
+ 
+ 5,891 
+ 
+ 
+ 
+ 
+ Louisiana 
+ 
+ 70,440 
+ 
+ 
+ 
+ 
+ 
+ 70,609 
+ 
+ 
+ 
+ 
+ 
+ 69,300 
+ 
+ 
+ 
+ 
+ 
+ (169 
+ 
+ ) 
+ 
+ 
+ 
+ 1,309 
+ 
+ 
+ 
+ 
+ West Texas 
+ 
+ 44,902 
+ 
+ 
+ 
+ 
+ 
+ 45,494 
+ 
+ 
+ 
+ 
+ 
+ 46,859 
+ 
+ 
+ 
+ 
+ 
+ (592 
+ 
+ ) 
+ 
+ 
+ 
+ (1,365 
+ 
+ ) 
+ 
+ 
+ Mississippi 
+ 
+ 46,229 
+ 
+ 
+ 
+ 
+ 
+ 47,237 
+ 
+ 
+ 
+ 
+ 
+ 38,505 
+ 
+ 
+ 
+ 
+ 
+ (1,008 
+ 
+ ) 
+ 
+ 
+ 
+ 8,732 
+ 
+ 
+ 
+ 
+ Colorado-Kansas 
+ 
+ 34,362 
+ 
+ 
+ 
+ 
+ 
+ 32,333 
+ 
+ 
+ 
+ 
+ 
+ 34,658 
+ 
+ 
+ 
+ 
+ 
+ 2,029 
+ 
+ 
+ 
+ 
+ 
+ (2,325 
+ 
+ ) 
+ 
+ 
+ Other 
+ 
+ (1,176 
+ 
+ ) 
+ 
+ 
+ 
+ 6,445 
+ 
+ 
+ 
+ 
+ 
+ 16,030 
+ 
+ 
+ 
+ 
+ 
+ (7,621 
+ 
+ ) 
+ 
+ 
+ 
+ (9,585 
+ 
+ ) 
+ 
+ 
+ Total 
+ 
+ $ 
+ 
+ 470,772 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 485,667 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 513,724 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (14,895 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ (28,057 
+ 
+ ) 
+ Pipeline and Storage Segment 
+ Our pipeline and storage segment consists of the pipeline and storage operations of APT and our natural gas transmission operations in Louisiana. APT is one of the largest intrastate pipeline operations in Texas with a heavy concentration in the established natural gas producing areas of central, northern and eastern Texas, extending into or near the major producing areas of the Barnett Shale, the Texas Gulf Coast and the Permian Basin of West Texas. APT provides transportation and storage services to our Mid-Tex Division, other third party local distribution companies, industrial and electric generation customers, as well as marketers and producers. As part of its pipeline operations, APT owns and operates five underground storage facilities in Texas. 
+ Our natural gas transmission operations in Louisiana are comprised of a 21-mile pipeline located in the New Orleans, Louisiana area that is primarily used to aggregate gas supply for our distribution division in Louisiana under a long-term contract and, on a more limited basis, to third parties. The demand fee charged to our Louisiana distribution division for these services is subject to regulatory approval by the Louisiana Public Service Commission. We also manage two asset management plans, which have been approved by applicable state regulatory commissions. Generally, these asset management plans require us to share with our distribution customers a significant portion of the cost savings earned from these arrangements. 
+ Our pipeline and storage segment is impacted by seasonal weather patterns, competitive factors in the energy industry and economic conditions in our Texas and Louisiana service areas. Natural gas prices do not directly impact the results of this segment as revenues are derived from the transportation and storage of natural gas. However, natural gas prices and demand for natural gas could influence the level of drilling activity in the supply areas that we serve, which may influence the level of throughput we may be able to transport on our pipelines. Further, natural gas price differences between the various hubs that we serve in Texas could influences the volumes of gas transported for shippers through Texas pipeline systems and rates for such transportation. 
+ The results of APT are also significantly impacted by the natural gas requirements of its local distribution company customers. Additionally, its operations may be impacted by the timing of when costs and expenses are incurred and when these costs and expenses are recovered through its tariffs. 
+ 
+ 
+ 28 
+ 
+ Table of Contents 
+ 
+ APT annually uses GRIP to recover capital costs incurred in the prior calendar year. On February 15, 2019, APT made a GRIP filing that covered changes in net investment from January 1, 2018 through December 31, 2018 with a requested increase in operating income of $49.2 million. On May 7, 2019, the RRC approved the Company's GRIP filing. 
+ On December 21, 2016, the Louisiana Public Service Commission approved an annual increase of five percent to the demand fee charged by our natural gas transmission pipeline for each of the next 10 years, effective October 1, 2017. 
+ Review of Financial and Operating Results 
+ Financial and operational highlights for our pipeline and storage segment for the fiscal years ended September 30, 2019 , 2018 and 2017 are presented below. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Fiscal Year Ended September 30 
+ 
+ 
+ 
+ 
+ 2019 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 2019 vs. 2018 
+ 
+ 
+ 
+ 2018 vs. 2017 
+ 
+ 
+ 
+ 
+ (In thousands, unless otherwise noted) 
+ 
+ 
+ Mid-Tex / Affiliate transportation revenue 
+ 
+ $ 
+ 
+ 369,743 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 354,885 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 338,850 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 14,858 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 16,035 
+ 
+ 
+ 
+ 
+ Third-party transportation revenue 
+ 
+ 183,014 
+ 
+ 
+ 
+ 
+ 
+ 140,231 
+ 
+ 
+ 
+ 
+ 
+ 100,100 
+ 
+ 
+ 
+ 
+ 
+ 42,783 
+ 
+ 
+ 
+ 
+ 
+ 40,131 
+ 
+ 
+ 
+ 
+ Other revenue 
+ 
+ 14,267 
+ 
+ 
+ 
+ 
+ 
+ 12,597 
+ 
+ 
+ 
+ 
+ 
+ 18,080 
+ 
+ 
+ 
+ 
+ 
+ 1,670 
+ 
+ 
+ 
+ 
+ 
+ (5,483 
+ 
+ ) 
+ 
+ 
+ Total operating revenues 
+ 
+ 567,024 
+ 
+ 
+ 
+ 
+ 
+ 507,713 
+ 
+ 
+ 
+ 
+ 
+ 457,030 
+ 
+ 
+ 
+ 
+ 
+ 59,311 
+ 
+ 
+ 
+ 
+ 
+ 50,683 
+ 
+ 
+ 
+ 
+ Total purchased gas cost 
+ 
+ (360 
+ 
+ ) 
+ 
+ 
+ 
+ 1,978 
+ 
+ 
+ 
+ 
+ 
+ 2,506 
+ 
+ 
+ 
+ 
+ 
+ (2,338 
+ 
+ ) 
+ 
+ 
+ 
+ (528 
+ 
+ ) 
+ 
+ 
+ Contribution Margin 
+ 
+ 567,384 
+ 
+ 
+ 
+ 
+ 
+ 505,735 
+ 
+ 
+ 
+ 
+ 
+ 454,524 
+ 
+ 
+ 
+ 
+ 
+ 61,649 
+ 
+ 
+ 
+ 
+ 
+ 51,211 
+ 
+ 
+ 
+ 
+ Operating expenses 
+ 
+ 292,098 
+ 
+ 
+ 
+ 
+ 
+ 263,468 
+ 
+ 
+ 
+ 
+ 
+ 232,620 
+ 
+ 
+ 
+ 
+ 
+ 28,630 
+ 
+ 
+ 
+ 
+ 
+ 30,848 
+ 
+ 
+ 
+ 
+ Operating income 
+ 
+ 275,286 
+ 
+ 
+ 
+ 
+ 
+ 242,267 
+ 
+ 
+ 
+ 
+ 
+ 221,904 
+ 
+ 
+ 
+ 
+ 
+ 33,019 
+ 
+ 
+ 
+ 
+ 
+ 20,363 
+ 
+ 
+ 
+ 
+ Other non-operating income (expense) 
+ 
+ 1,163 
+ 
+ 
+ 
+ 
+ 
+ (3,495 
+ 
+ ) 
+ 
+ 
+ 
+ (1,575 
+ 
+ ) 
+ 
+ 
+ 
+ 4,658 
+ 
+ 
+ 
+ 
+ 
+ (1,920 
+ 
+ ) 
+ 
+ 
+ Interest charges 
+ 
+ 43,122 
+ 
+ 
+ 
+ 
+ 
+ 40,796 
+ 
+ 
+ 
+ 
+ 
+ 40,393 
+ 
+ 
+ 
+ 
+ 
+ 2,326 
+ 
+ 
+ 
+ 
+ 
+ 403 
+ 
+ 
+ 
+ 
+ Income before income taxes 
+ 
+ 233,327 
+ 
+ 
+ 
+ 
+ 
+ 197,976 
+ 
+ 
+ 
+ 
+ 
+ 179,936 
+ 
+ 
+ 
+ 
+ 
+ 35,351 
+ 
+ 
+ 
+ 
+ 
+ 18,040 
+ 
+ 
+ 
+ 
+ Income tax expense 
+ 
+ 50,735 
+ 
+ 
+ 
+ 
+ 
+ 58,982 
+ 
+ 
+ 
+ 
+ 
+ 65,594 
+ 
+ 
+ 
+ 
+ 
+ (8,247 
+ 
+ ) 
+ 
+ 
+ 
+ (6,612 
+ 
+ ) 
+ 
+ 
+ TCJA non-cash income tax benefit 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ (21,104 
+ 
+ ) 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 21,104 
+ 
+ 
+ 
+ 
+ 
+ (21,104 
+ 
+ ) 
+ 
+ 
+ Net income 
+ 
+ $ 
+ 
+ 182,592 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 160,098 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 114,342 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 22,494 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 45,756 
+ 
+ 
+ 
+ 
+ Gross pipeline transportation volumes — MMcf 
+ 
+ 939,376 
+ 
+ 
+ 
+ 
+ 
+ 871,904 
+ 
+ 
+ 
+ 
+ 
+ 770,348 
+ 
+ 
+ 
+ 
+ 
+ 67,472 
+ 
+ 
+ 
+ 
+ 
+ 101,556 
+ 
+ 
+ 
+ 
+ Consolidated pipeline transportation volumes — MMcf 
+ 
+ 721,998 
+ 
+ 
+ 
+ 
+ 
+ 663,900 
+ 
+ 
+ 
+ 
+ 
+ 596,179 
+ 
+ 
+ 
+ 
+ 
+ 58,098 
+ 
+ 
+ 
+ 
+ 
+ 67,721 
+ 
+ 
+ Fiscal year ended September 30, 2019 compared with fiscal year ended September 30, 2018 
+ Income before income taxes for our pipeline and storage segment increased 18 percent, primarily due to a $61.6 million increase in Contribution Margin, partially offset by a $28.6 million increase in operating expenses. The increase in Contribution Margin primarily reflects: 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ a $46.5 million net increase in rate adjustments, after the effect of the TCJA, primarily from the approved GRIP filings approved in May 2018 and May 2019. The increase in rates was driven primarily by increased safety and reliability spending. 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ a net increase of $12.2 million primarily from positive supply and demand dynamics affecting the Permian Basin, due to wider spreads. 
+ The increase in operating expenses is primarily due to higher depreciation expense of $11.6 million associated with increased capital investments and higher system maintenance expense of $15.3 million primarily due to spending on hydro testing and in-line inspections. 
+ The decrease in income tax expense primarily reflects a reduction in our effective tax rate from 29.8% to 21.7%, as a result of the TCJA. 
+ The fiscal year ended September 30, 2018 compared with fiscal year ended September 30, 2017 for our pipeline and storage segment is described in ITEM 7 "Management's Discussion and Analysis of Financial Condition and Results of Operations" of our Annual Report on Form 10-K for the fiscal year ended September 30, 2018. 
+ Natural Gas Marketing Segment 
+ Through December 31, 2016, we were engaged in an unregulated natural gas marketing business, which was conducted by Atmos Energy Marketing (AEM). AEM’s primary business was to aggregate and purchase gas supply, arrange transportation and storage logistics and ultimately deliver gas to customers at competitive prices. 
+ 
+ 
+ 29 
+ 
+ Table of Contents 
+ 
+ As more fully described in Note 16 , effective January 1, 2017, we sold all of the equity interests of AEM to CenterPoint Energy Services, Inc. (CES), a subsidiary of CenterPoint Energy Inc. As a result of the sale, Atmos Energy fully exited the nonregulated natural gas marketing business. Accordingly, a gain on sale from discontinued operations for $2.7 million was recorded and net income of $11.0 million for AEM is reported as discontinued operations for the year ended September 30, 2017. 
+ The fiscal year ended September 30, 2018 compared with fiscal year ended September 30, 2017 for our natural gas marketing segment is described in ITEM 7 "Management's Discussion and Analysis of Financial Condition and Results of Operations" of our Annual Report on Form 10-K for the fiscal year ended September 30, 2018. 
+ 
+ 
+ LIQUIDITY AND CAPITAL RESOURCES 
+ The liquidity required to fund our working capital, capital expenditures and other cash needs is provided from a combination of internally generated cash flows and external debt and equity financing. External debt financing is provided primarily through the issuance of long-term debt, a $1.5 billion commercial paper program and three committed revolving credit facilities with a total availability from third-party lenders of approximately $1.5 billion. The commercial paper program and credit facilities provide cost-effective, short-term financing until it can be replaced with a balance of long-term debt and equity financing that achieves the Company's desired capital structure with an equity-to-total-capitalization ratio between 50% and 60% , inclusive of long-term and short-term debt. Additionally, we have various uncommitted trade credit lines with our gas suppliers that we utilize to purchase natural gas on a monthly basis. The liquidity provided by these sources is expected to be sufficient to fund the Company's working capital needs and capital expenditures program for fiscal year 2020 and beyond. 
+ To support our capital market activities, we filed a registration statement with the SEC on November 13, 2018 that permits us to issue a total of $3.0 billion in common stock and/or debt securities. The registration statement replaced our previous registration statement that was effectively exhausted in October 2018. At September 30, 2019 , approximately $1.3 billion of securities remained available for issuance under the shelf registration statement. 
+ On November 19, 2018, we filed a prospectus supplement under the registration statement relating to an at-the-market (ATM) equity sales program under which we may issue and sell shares of our common stock up to an aggregate offering price of $500 million (including shares of common stock that may be sold pursuant to forward sale agreements entered into concurrently with the ATM equity sales program). At September 30, 2019 , approximately $75 million remained available under the ATM equity sales program. 
+ For the year ended September 30, 2019 , we completed over $2 billion of long-term debt and equity financing. During fiscal 2019, we executed forward sales with various forward sellers who borrowed and sold 6,813,135 shares of our common stock for initial aggregate proceeds of approximately $673 million. 
+ 
+ The following table summarizes the remaining availability under our various forward sales as of September 30, 2019 : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Issue Quarter 
+ 
+ Shares Available 
+ 
+ Net Proceeds Available 
+ (In thousands) 
+ 
+ Maturity 
+ 
+ Forward Price 
+ 
+ 
+ December 31, 2018 
+ 
+ 485,189 
+ 
+ 
+ 
+ $ 
+ 
+ 44,342 
+ 
+ 
+ 
+ 3/31/2020 
+ 
+ $ 
+ 
+ 91.39 
+ 
+ 
+ 
+ 
+ March 31, 2019 
+ 
+ 1,670,509 
+ 
+ 
+ 
+ 158,348 
+ 
+ 
+ 
+ 3/31/2020 
+ 
+ $ 
+ 
+ 94.79 
+ 
+ 
+ 
+ 
+ June 30, 2019 
+ 
+ 1,050,563 
+ 
+ 
+ 
+ 106,034 
+ 
+ 
+ 
+ 9/30/2020 
+ 
+ $ 
+ 
+ 100.93 
+ 
+ 
+ 
+ 
+ September 30, 2019 
+ 
+ 1,423,599 
+ 
+ 
+ 
+ 154,631 
+ 
+ 
+ 
+ 9/30/2020 
+ 
+ $ 
+ 
+ 108.62 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ 4,629,860 
+ 
+ 
+ 
+ $ 
+ 
+ 463,355 
+ 
+ 
+ 
+ 
+ 
+ 
+ The following table presents our capitalization as of September 30, 2019 and 2018 : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ September 30 
+ 
+ 
+ 
+ 
+ 2019 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ 
+ (In thousands, except percentages) 
+ 
+ 
+ Short-term debt 
+ 
+ $ 
+ 
+ 464,915 
+ 
+ 
+ 
+ 
+ 
+ 4.8 
+ 
+ % 
+ 
+ 
+ 
+ $ 
+ 
+ 575,780 
+ 
+ 
+ 
+ 
+ 
+ 6.8 
+ 
+ % 
+ 
+ 
+ Long-term debt 
+ 
+ 3,529,452 
+ 
+ 
+ 
+ 
+ 
+ 36.2 
+ 
+ % 
+ 
+ 
+ 
+ 3,068,665 
+ 
+ 
+ 
+ 
+ 
+ 36.5 
+ 
+ % 
+ 
+ 
+ Shareholders’ equity 
+ 
+ 5,750,223 
+ 
+ 
+ 
+ 
+ 
+ 59.0 
+ 
+ % 
+ 
+ 
+ 
+ 4,769,951 
+ 
+ 
+ 
+ 
+ 
+ 56.7 
+ 
+ % 
+ 
+ 
+ Total capitalization, including short-term debt 
+ 
+ $ 
+ 
+ 9,744,590 
+ 
+ 
+ 
+ 
+ 
+ 100.0 
+ 
+ % 
+ 
+ 
+ 
+ $ 
+ 
+ 8,414,396 
+ 
+ 
+ 
+ 
+ 
+ 100.0 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 30 
+ 
+ Table of Contents 
+ 
+ Cash Flows 
+ Our internally generated funds may change in the future due to a number of factors, some of which we cannot control. These factors include regulatory changes, the price for our services, the demand for such products and services, margin requirements resulting from significant changes in commodity prices, operational risks and other factors. 
+ Cash flows from operating, investing and financing activities for the years ended September 30, 2019 , 2018 and 2017 are presented below. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Fiscal Year Ended September 30 
+ 
+ 
+ 
+ 
+ 2019 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 2019 vs. 2018 
+ 
+ 
+ 
+ 2018 vs. 2017 
+ 
+ 
+ 
+ 
+ (In thousands) 
+ 
+ 
+ Total cash provided by (used in) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating activities 
+ 
+ $ 
+ 
+ 968,769 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,124,662 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 867,090 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (155,893 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ 257,572 
+ 
+ 
+ 
+ 
+ Investing activities 
+ 
+ (1,683,660 
+ 
+ ) 
+ 
+ 
+ 
+ (1,463,566 
+ 
+ ) 
+ 
+ 
+ 
+ (1,056,306 
+ 
+ ) 
+ 
+ 
+ 
+ (220,094 
+ 
+ ) 
+ 
+ 
+ 
+ (407,260 
+ 
+ ) 
+ 
+ 
+ Financing activities 
+ 
+ 725,670 
+ 
+ 
+ 
+ 
+ 
+ 326,266 
+ 
+ 
+ 
+ 
+ 
+ 168,091 
+ 
+ 
+ 
+ 
+ 
+ 399,404 
+ 
+ 
+ 
+ 
+ 
+ 158,175 
+ 
+ 
+ 
+ 
+ Change in cash and cash equivalents 
+ 
+ 10,779 
+ 
+ 
+ 
+ 
+ 
+ (12,638 
+ 
+ ) 
+ 
+ 
+ 
+ (21,125 
+ 
+ ) 
+ 
+ 
+ 
+ 23,417 
+ 
+ 
+ 
+ 
+ 
+ 8,487 
+ 
+ 
+ 
+ 
+ Cash and cash equivalents at beginning of period 
+ 
+ 13,771 
+ 
+ 
+ 
+ 
+ 
+ 26,409 
+ 
+ 
+ 
+ 
+ 
+ 47,534 
+ 
+ 
+ 
+ 
+ 
+ (12,638 
+ 
+ ) 
+ 
+ 
+ 
+ (21,125 
+ 
+ ) 
+ 
+ 
+ Cash and cash equivalents at end of period 
+ 
+ $ 
+ 
+ 24,550 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 13,771 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 26,409 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 10,779 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (12,638 
+ 
+ ) 
+ Cash flows for the fiscal year ended September 30, 2018 compared with fiscal year ended September 30, 2017 is described in ITEM 7 "Management's Discussion and Analysis of Financial Condition and Results of Operations" of our Annual Report on Form 10-K for the fiscal year ended September 30, 2018. 
+ Cash flows from operating activities 
+ For the fiscal year ended September 30, 2019 , we generated cash flow from operating activities of $968.8 million compared with $1,124.7 million in the prior year. The year-over-year decrease is primarily attributable to the change in net income and working capital changes, particularly in our distribution segment resulting from the timing of payments for natural gas purchases and deferred gas cost recoveries. 
+ Cash flows from investing activities 
+ Our capital expenditures are primarily used to improve the safety and reliability of our distribution and transmission system through pipeline replacement and system modernization and to enhance and expand our system to meet customer needs. Over the last three fiscal years, approximately 84 percent of our capital spending has been committed to improving the safety and reliability of our system. 
+ We allocate our capital spending among our service areas using risk management models and subject matter experts to identify, assess and develop a plan of action to address our highest risk facilities. We have regulatory mechanisms in most of our service areas that provide the opportunity to include approved capital costs in rate base on a periodic basis without being required to file a rate case. These mechanisms permit us a reasonable opportunity to earn a fair return on our investment without compromising safety or reliability. 
+ For the fiscal year ended September 30, 2019 , we had $1.7 billion in capital expenditures compared with $1.5 billion for the fiscal year ended September 30, 2018 . Capital spending increased by $225.9 million, or 15%, as a result of planned increases in our distribution segment to repair and replace vintage pipe and increases in spending in our pipeline and storage segment to improve the reliability of gas service to our local distribution company customers. 
+ Cash flows from financing activities 
+ Our financing activities provided $725.7 million and $326.3 million in cash for fiscal years 2019 and 2018 . Our significant financing activities for the fiscal years ended September 30, 2019 and 2018 are summarized as follows: 
+ 2019 
+ During the fiscal year ended September 30, 2019 , we received $1.7 billion in net proceeds from the issuance and repayment of long-term debt and issuance of equity. This activity is summarized below: 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ In October 2018, we completed the public offering of $600 million of 30-year 4.30% senior notes. The net proceeds of $590.6 million were used to repay working capital borrowings pursuant to our commercial paper program. 
+ 
+ 
+ 
+ 31 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ In November 2018, we sold 5,390,836 shares of common stock for $500 million. The net proceeds of $494.1 million were used to fund our capital expenditure program and for general corporate purposes. 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ In March 2019, we completed the public offering of $450 million of 30-year 4.125% senior notes. The net proceeds of $443.4 million , together with available cash, were used to repay at maturity our $450 million 8.50% 10-year unsecured senior notes due March 15, 2019 and the related settlement of our interest rate swaps for $90.1 million. 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ In May and August 2019, we settled forward sale agreements for 2,183,275 shares of common stock for net proceeds of approximately $200 million. 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ In September 2019, we repaid our $125 million floating rate term loan at its maturity. 
+ 
+ Additionally, cash dividends increased due to an 8.2 percent increase in our dividend rate and an increase in shares outstanding. 
+ 2018 
+ During the fiscal year ended September 30, 2018 , we used $395.1 million in net proceeds from equity financing to reduce short-term debt, to support our capital spending and for other general corporate purposes. 
+ 
+ The following table shows the number of shares issued for the fiscal years ended September 30, 2019 , 2018 and 2017 : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Fiscal Year Ended September 30 
+ 
+ 
+ 
+ 
+ 2019 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ Shares issued: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Direct Stock Purchase Plan 
+ 
+ 110,063 
+ 
+ 
+ 
+ 
+ 
+ 131,213 
+ 
+ 
+ 
+ 
+ 
+ 112,592 
+ 
+ 
+ 
+ 
+ Retirement Savings Plan 
+ 
+ 81,456 
+ 
+ 
+ 
+ 
+ 
+ 94,081 
+ 
+ 
+ 
+ 
+ 
+ 228,326 
+ 
+ 
+ 
+ 
+ 1998 Long-Term Incentive Plan (LTIP) 
+ 
+ 299,612 
+ 
+ 
+ 
+ 
+ 
+ 385,351 
+ 
+ 
+ 
+ 
+ 
+ 529,662 
+ 
+ 
+ 
+ 
+ Equity Offering (1) 
+ 
+ 7,574,111 
+ 
+ 
+ 
+ 
+ 
+ 4,558,404 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ At-the-Market (ATM) Equity Sales Program (1) 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 1,303,494 
+ 
+ 
+ 
+ 
+ Total shares issued 
+ 
+ 8,065,242 
+ 
+ 
+ 
+ 
+ 
+ 5,169,049 
+ 
+ 
+ 
+ 
+ 
+ 2,174,074 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) 
+ 
+ Share amounts do not include shares issued under forward sale agreements until the shares have been settled. 
+ 
+ Credit Ratings 
+ Our credit ratings directly affect our ability to obtain short-term and long-term financing, in addition to the cost of such financing. In determining our credit ratings, the rating agencies consider a number of quantitative factors, including but not limited to, debt to total capitalization, operating cash flow relative to outstanding debt, operating cash flow coverage of interest and operating cash flow less dividends to debt. In addition, the rating agencies consider qualitative factors such as consistency of our earnings over time, the risks associated with our business and the regulatory structures that govern our rates in the states where we operate. 
+ Our debt is rated by two rating agencies: Standard & Poor’s Corporation (S&P) and Moody’s Investors Service (Moody’s). On December 14, 2018, Moody's affirmed our debt ratings and changed their outlook from stable to positive, citing improvements to our regulatory construct that reduce investment recovery lag and our balanced fiscal policy. As of September 30, 2019 , S&P maintained a stable outlook. Our current debt ratings are all considered investment grade and are as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ S&P 
+ 
+ 
+ 
+ 
+ 
+ Moody’s 
+ 
+ 
+ 
+ 
+ Senior unsecured long-term debt 
+ 
+ 
+ 
+ A 
+ 
+ 
+ 
+ 
+ 
+ A2 
+ 
+ 
+ 
+ 
+ Short-term debt 
+ 
+ 
+ 
+ A-1 
+ 
+ 
+ 
+ 
+ 
+ P-1 
+ 
+ 
+ A significant degradation in our operating performance or a significant reduction in our liquidity caused by more limited access to the private and public credit markets as a result of deteriorating global or national financial and credit conditions could trigger a negative change in our ratings outlook or even a reduction in our credit ratings by the two credit rating agencies. This would mean more limited access to the private and public credit markets and an increase in the costs of such borrowings. 
+ 
+ 
+ 32 
+ 
+ Table of Contents 
+ 
+ A credit rating is not a recommendation to buy, sell or hold securities. The highest investment grade credit rating is AAA for S&P and Aaa for Moody’s. The lowest investment grade credit rating is BBB- for S&P and Baa3 for Moody’s. Our credit ratings may be revised or withdrawn at any time by the rating agencies, and each rating should be evaluated independently of any other rating. There can be no assurance that a rating will remain in effect for any given period of time or that a rating will not be lowered, or withdrawn entirely, by a rating agency if, in its judgment, circumstances so warrant. 
+ 
+ Debt Covenants 
+ We were in compliance with all of our debt covenants as of September 30, 2019 . Our debt covenants are described in Note 6 to the consolidated financial statements. 
+ 
+ Contractual Obligations and Commercial Commitments 
+ The following table provides information about contractual obligations and commercial commitments at September 30, 2019 . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Payments Due by Period 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ 
+ 
+ Less than 1 
+ year 
+ 
+ 
+ 
+ 1-3 years 
+ 
+ 
+ 
+ 3-5 years 
+ 
+ 
+ 
+ More than 5 
+ years 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (In thousands) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Contractual Obligations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Long-term debt (1) 
+ 
+ $ 
+ 
+ 3,560,000 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 3,560,000 
+ 
+ 
+ 
+ 
+ Short-term debt (1) 
+ 
+ 464,915 
+ 
+ 
+ 
+ 
+ 
+ 464,915 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Interest charges (2) 
+ 
+ 3,392,249 
+ 
+ 
+ 
+ 
+ 
+ 155,742 
+ 
+ 
+ 
+ 
+ 
+ 311,484 
+ 
+ 
+ 
+ 
+ 
+ 311,484 
+ 
+ 
+ 
+ 
+ 
+ 2,613,539 
+ 
+ 
+ 
+ 
+ Capital lease obligations (3) 
+ 
+ 5,608 
+ 
+ 
+ 
+ 
+ 
+ 243 
+ 
+ 
+ 
+ 
+ 
+ 501 
+ 
+ 
+ 
+ 
+ 
+ 521 
+ 
+ 
+ 
+ 
+ 
+ 4,343 
+ 
+ 
+ 
+ 
+ Operating leases (4) 
+ 
+ 200,136 
+ 
+ 
+ 
+ 
+ 
+ 21,017 
+ 
+ 
+ 
+ 
+ 
+ 39,786 
+ 
+ 
+ 
+ 
+ 
+ 33,789 
+ 
+ 
+ 
+ 
+ 
+ 105,544 
+ 
+ 
+ 
+ 
+ Financial instrument obligations (5) 
+ 
+ 5,801 
+ 
+ 
+ 
+ 
+ 
+ 4,552 
+ 
+ 
+ 
+ 
+ 
+ 1,249 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Pension and postretirement benefit plan contributions (6) 
+ 
+ 308,033 
+ 
+ 
+ 
+ 
+ 
+ 44,994 
+ 
+ 
+ 
+ 
+ 
+ 61,954 
+ 
+ 
+ 
+ 
+ 
+ 48,900 
+ 
+ 
+ 
+ 
+ 
+ 152,185 
+ 
+ 
+ 
+ 
+ Uncertain tax positions (7) 
+ 
+ 27,716 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 27,716 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Total contractual obligations 
+ 
+ $ 
+ 
+ 7,964,458 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 691,463 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 442,690 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 394,694 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 6,435,611 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) 
+ 
+ See Note 6 to the consolidated financial statements. 
+ 
+ 
+ 
+ 
+ 
+ (2) 
+ 
+ Interest charges were calculated using the effective rate for each debt issuance. 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ Capital lease payments shown above include interest totaling $3.0 million . Se e Note 11 to the consolidated financial statements. 
+ 
+ 
+ 
+ 
+ 
+ (4) 
+ 
+ Future minimum lease payments do not include amounts for fleet leases and other de minimis items that can be renewed beyond the initial lease term. The Company anticipates renewing the leases beyond the initial term, but the anticipated payments associated with the renewals do not meet the definition of expected minimum lease payments and therefore are not included above. Expected payments for these leases are $17.6 million in 2020, $18.0 million in 2021, $11.8 million in 2022, $8.5 million in 2023, $5.4 million in 2024 and $2.7 million thereafter. See Note 11 to the consolidated financial statements. 
+ 
+ 
+ 
+ 
+ 
+ (5) 
+ 
+ Represents liabilities for natural gas commodity financial instruments that were valued as of September 30, 2019 . The ultimate settlement amounts of these remaining liabilities are unknown because they are subject to continuing market risk until the financial instruments are settled. 
+ 
+ 
+ 
+ 
+ 
+ (6) 
+ 
+ Represents expected contributions to our defined benefit and postretirement benefit plans, which are discussed in Note 8 to the consolidated financial statements. Based upon current market conditions, the current funded position of the plans and the funding requirements under the PPA, we do not anticipate minimum required contributions for the foreseeable future. However, we may consider whether a voluntary contribution is prudent to maintain certain funding levels. 
+ 
+ 
+ 
+ 
+ 
+ (7) 
+ 
+ Represents liabilities associated with uncertain tax positions claimed or expected to be claimed on tax returns. The amount does not include interest and penalties that may be applied to these positions. 
+ 
+ We maintain supply contracts with several vendors that generally cover a period of up to one year. Commitments for estimated base gas volumes are established under these contracts on a monthly basis at contractually negotiated prices. Commitments for incremental daily purchases are made as necessary during the month in accordance with the terms of individual contracts. Our Mid-Tex Division also maintains a limited number of long-term supply contracts to ensure a reliable source of gas for our customers in its service area which obligate it to purchase specified volumes at market and fixed prices. At September 30, 2019 , we were committed to purchase 40.1 Bcf within one year and 1.6 Bcf within two to three years under indexed contracts. 
+ The change in deferred taxes related to our cost of service ratemaking (referred to as excess deferred taxes) was reclassified into a regulatory liability and will be returned to ratepayers in accordance with regulatory requirements. At September 30, 2019 , this liability totaled $726.3 million . We received approval from regulators to return excess deferred taxes in most of our jurisdictions in accordance with regulatory proceedings on a provisional basis over periods ranging from 13 to 
+ 
+ 
+ 33 
+ 
+ Table of Contents 
+ 
+ 51 years. In our remaining jurisdictions, the treatment of the effects of the TCJA in rates is being addressed in ongoing or will be addressed in future regulatory proceedings. See Note 13 for further information. 
+ 
+ Risk Management Activities 
+ In our distribution and pipeline and storage segments, we use a combination of physical storage, fixed physical contracts and fixed financial contracts to reduce our exposure to unusually large winter-period gas price increases. In the past we managed interest rate risk by entering into financial instruments to effectively fix the Treasury yield component of the interest cost associated with anticipated financings. 
+ We record our financial instruments as a component of risk management assets and liabilities, which are classified as current or noncurrent based upon the anticipated settlement date of the underlying financial instrument. Substantially all of our financial instruments are valued using external market quotes and indices. 
+ The following table shows the components of the change in fair value of our financial instruments for the fiscal year ended September 30, 2019 (in thousands): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fair value of contracts at September 30, 2018 
+ 
+ $ 
+ 
+ (55,218 
+ 
+ ) 
+ 
+ 
+ Contracts realized/settled 
+ 
+ 97,288 
+ 
+ 
+ 
+ 
+ Fair value of new contracts 
+ 
+ (300 
+ 
+ ) 
+ 
+ 
+ Other changes in value 
+ 
+ (45,760 
+ 
+ ) 
+ 
+ 
+ Fair value of contracts at September 30, 2019 
+ 
+ (3,990 
+ 
+ ) 
+ 
+ 
+ Netting of cash collateral 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Cash collateral and fair value of contracts at September 30, 2019 
+ 
+ $ 
+ 
+ (3,990 
+ 
+ ) 
+ The fair value of our financial instruments at September 30, 2019 , is presented below by time period and fair value source: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fair Value of Contracts at September 30, 2019 
+ 
+ 
+ 
+ 
+ Maturity in years 
+ 
+ 
+ 
+ 
+ 
+ 
+ Source of Fair Value 
+ 
+ Less 
+ than 1 
+ 
+ 
+ 
+ 1-3 
+ 
+ 
+ 
+ 4-5 
+ 
+ 
+ 
+ Greater 
+ than 5 
+ 
+ 
+ 
+ Total 
+ Fair 
+ Value 
+ 
+ 
+ 
+ 
+ (In thousands) 
+ 
+ 
+ Prices actively quoted 
+ 
+ $ 
+ 
+ (2,966 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ (1,024 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (3,990 
+ 
+ ) 
+ 
+ 
+ Prices based on models and other valuation methods 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Total Fair Value 
+ 
+ $ 
+ 
+ (2,966 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ (1,024 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (3,990 
+ 
+ ) 
+ 
+ RECENT ACCOUNTING DEVELOPMENTS 
+ Recent accounting developments and their impact on our financial position, results of operations and cash flows are described in Note 2 to the consolidated financial statements. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

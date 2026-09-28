@@ -1,0 +1,6035 @@
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+ 
+ Unless the context indicates otherwise, as used herein, the terms “we,” “us,” “ EchoStar ,” the “Company” and “our” refer to EchoStar Corporation and its subsidiaries. References to “$” are to United States dollars. The following management’s discussion and analysis of our financial condition and results of operations should be read in conjunction with the consolidated financial statements and notes to our financial statements included elsewhere in this Annual Report on Form 10-K. This management’s discussion and analysis is intended to help provide an understanding of our financial condition, changes in our financial condition and our results of operations. Many of the statements in this management’s discussion and analysis are forward-looking statements that involve assumptions and are subject to risks and uncertainties that are often difficult to predict and beyond our control. Actual results could differ materially from those expressed or implied by such forward-looking statements. See “Disclosure Regarding Forward-Looking Statements” in this Annual Report on Form 10-K for further discussion. For a discussion of additional risks, uncertainties and other factors that could impact our results of operations or financial condition, see the caption “Risk Factors” in ITEM 1A of this Annual Report on Form 10-K. Further, such forward-looking statements speak only as of the date of this Annual Report on Form 10-K and we undertake no obligation to update them. 
+ 
+ 
+ EXECUTIVE SUMMARY 
+ 
+ EchoStar is a global provider of satellite service operations, video delivery solutions, digital set-top boxes, broadband satellite technologies and broadband services for home and small office customers. We deliver innovative network technologies, managed services, and various communications solutions for enterprise and government customers. We currently operate in three business segments, which are differentiated primarily by their operational focus: Hughes, EchoStar Technologies, and EchoStar Satellite Services (“ESS”). These segments are consistent with the way decisions regarding the allocation of resources are made, as well as how operating results are reviewed by our chief operating decision maker (“CODM”), who for EchoStar is the Company’s Chief Executive Officer. 
+ 
+ Our segment operating results do not include real estate and other activities, costs incurred in certain satellite development programs and other business development activities, expenses of various corporate departments, and our centralized treasury operations, including income from our investment portfolio and interest expense on our debt. These activities are accounted for in “All Other and Eliminations.” 
+ 
+ On January 31, 2017, we entered into the Share Exchange Agreement. The Share Exchange Agreement provides that EchoStar and its subsidiaries will receive all of the shares of the EchoStar Tracking Stock and Hughes Retail Preferred Track in exchange for 100% of the equity interests of certain EchoStar subsidiaries that will hold our EchoStar Technologies businesses. Following consummation of the Share Exchange, EchoStar will no longer operate the EchoStar Technologies business segment and the EchoStar Tracking Stock and HSS Tracking Stock will be retired and all agreements, arrangements and policy statements with respect to, and terms of, such tracking stock will terminate and be of no further effect. See “Pending Share Exchange” in ITEM 1. Business and “Risks Related to the Pending Share Exchange” in ITEM 1A. Risk Factors of this Annual Report on Form 10-K. 
+ 
+ Highlights from our financial results are as follows: 
+ 
+ Consolidated Results of Operations for the Year Ended December 31, 2016 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Revenue of $3.06 billion 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Operating income of $364.4 million 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Net income of $180.7 million 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Net income attributable to EchoStar common stock of $181.7 million and basic earnings per share of common stock of $1.94 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ EBITDA of $883.5 million (see reconciliation of this non-GAAP measure on page 52 ) 
+ 
+ Consolidated Financial Condition as of December 31, 2016 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Total assets of $9.01 billion 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Total liabilities of $5.00 billion 
+ 
+ 
+ 41 
+ 
+ Table of Contents 
+ 
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS - Continued 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Total stockholders’ equity of $4.01 billion 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Cash, cash equivalents and current marketable investment securities of $3.09 billion 
+ 
+ Hughes Segment 
+ 
+ Our Hughes segment is a global provider of broadband satellite technologies and broadband services for home and small office customers. We deliver network technologies, managed services, equipment, and communications solutions for domestic and international consumers and enterprise and government customers. In addition, our Hughes segment provides and installs gateway and terminal equipment and provides satellite ground segment systems and terminals for other satellite systems, including mobile system operators. 
+ 
+ We continue to focus our efforts on growing our Hughes segment consumer revenue by maximizing utilization of our existing satellites while planning for new satellites to be launched. Our consumer revenue growth depends on our success in adding new subscribers and driving higher average revenue per subscriber across our wholesale and retail channels. 
+ 
+ Our Hughes segment currently uses its two owned satellites, the SPACEWAY 3 satellite and the EchoStar XVII satellite, and additional satellite capacity acquired from multiple third-party providers, to provide satellite broadband internet access and communications services to our customers. We currently provide HughesNet Gen4 satellite broadband internet services to our consumer market customers in North America on the EchoStar XVII satellite. In December 2016, we launched our EchoStar XIX satellite, a next-generation, high throughput geostationary satellite, which will provide significant capacity for continued subscriber growth. The EchoStar XIX satellite employs a multi-spot beam, bent pipe Ka-band architecture and will provide additional capacity for the Hughes broadband services to our customers in North America and added capacity in Mexico and certain Latin American countries and is expected to add capability for aeronautical, enterprise and international broadband services. Capital expenditures associated with the construction and launch of the EchoStar XIX satellite are included in “All Other and Eliminations” in our segment reporting. EchoStar contributed the EchoStar XIX satellite to its Hughes segment in February 2017. 
+ 
+ In addition to our broadband consumer service offerings, our Hughes segment also provides network technologies, managed services, hardware, equipment and satellite services to large enterprise and government customers globally. Examples of such customers include lottery agencies, gas station operators and companies with multi-branch networks that rely on satellite or terrestrial networks for critical communication across wide geographies. Most of our enterprise customers have contracts with us for the services they purchase. 
+ 
+ Developments toward the launch of next-generation satellite systems including low-earth orbit (“LEO”) and geostationary systems could provide additional opportunities to drive the demand for our network equipment and services. The growth of our enterprise and equipment businesses relies heavily on global economic conditions and the competitive landscape for pricing relative to competitors and alternative technologies. 
+ 
+ We continue our efforts to grow our consumer satellite services business outside of the U.S. In April 2014, we entered into a satellite services agreement pursuant to which Eutelsat do Brasil provides us Ka-band capacity into Brazil on the EUTELSAT 65 West A satellite for a 15-year term. That satellite was launched in March 2016 and we began delivering high-speed consumer satellite broadband services in Brazil in July 2016. In September 2015, we entered into satellite services agreements pursuant to which affiliates of Telesat Canada (“Telesat”) will provide to us the Ka-band capacity on a satellite to be located at the 63 degree west longitude orbital location for a 15-year term. We expect the satellite to be launched in the second quarter of 2018 and plan to provide service in additional markets across South America once that capacity is available for commercial use. 
+ 
+ As of December 31, 2016 , 2015 and 2014 , our Hughes segment had approximately 1,036,000 , 1,035,000 and 977,000 broadband subscribers, respectively. These broadband subscribers include customers that subscribe to our HughesNet broadband services through retail, wholesale and small/medium enterprise service channels. Gross subscriber additions increased by approximately 19,000 in the fourth quarter of 2016 when compared to the third quarter of 2016 primarily due to an increase in additions in our retail channel due to the launch of our broadband service in Brazil in the second quarter of 2016 offset partially by a decrease in additions in our wholesale channel due to our lack of free capacity due to satellite beams servicing certain areas reaching capacity. Our average monthly subscriber churn percentage for the fourth quarter of 2016 decreased as compared to the third quarter of 2016. As a result of higher gross subscriber additions and a decrease in churn, net subscribers for the quarter ended December 31, 2016 increased by approximately 30,000 when compared to the third quarter of 
+ 
+ 
+ 42 
+ 
+ Table of Contents 
+ 
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS - Continued 
+ 
+ 
+ 2016 with increases in retail and decreases in wholesale subscribers. Subscriber additions and churn include only subscribers through our retail and wholesale channels. 
+ 
+ As of December 31, 2016 and 2015 , our Hughes segment had approximately $1.52 billion an d $1.44 billion, respectively, of contracted revenue backlog. We define Hughes contracted revenue backlog as our expected future revenue under customer contracts that are non-cancelable, excluding agreements with customers in our consumer market. The increase in contracted revenue backlog is primarily due to an increase in customer contracts from our international markets as a result of future commitments to provide satellite services and gateway and network management services on the EchoStar XIX satellite. Of the total contracted revenue backlog as of December 31, 2016 , we expect to recognize approximately $436.5 million of revenue in 2017 . 
+ 
+ EchoStar Technologies Segment 
+ 
+ Our EchoStar Technologies segment designs, develops and distributes secure end-to-end video technology solutions including digital set-top boxes and related products and technology, primarily for satellite TV service providers and telecommunication companies. The primary customer for our digital set-top boxes is DISH Network Corporation and its subsidiaries (“DISH Network”), and we also sell our digital set-top boxes to Bell TV, a direct-to-home satellite service provider in Canada, and Dish Mexico, S. de R.L. de C.V. (“Dish Mexico”), a joint venture that we entered into in 2008. 
+ 
+ We have depended on DISH Network for a substantial portion of our EchoStar Technologies segment revenue and if the Share Exchange is not consummated we expect that DISH Network will continue to be the primary source of revenue for our EchoStar Technologies segment. In addition, our equipment revenue from DISH Network depends on the timing of orders for set-top boxes and related accessories from DISH Network based on its actual and projected subscriber growth. Therefore, the results of operations of our EchoStar Technologies segment are, and, if the Share Exchange is not consummated, are likely to continue to be, closely linked to the performance of DISH Network’s pay-TV service. Our EchoStar Technologies segment offers multiple set-top boxes with different price points depending on their capabilities and functionalities. The revenue and associated margins we earn on sales are determined largely through the receiver agreement, effective January 2012, between us and DISH Network (the “2012 Receiver Agreement”) which could result in prices reflecting, among other things, the set-top boxes and other equipment that meet DISH Network’s current sales and marketing priorities, the product and service alternatives available from other equipment suppliers, our ability to respond to DISH Network’s requirements, and our ability to differentiate ourselves from other equipment suppliers on bases other than pricing. In addition, products containing new technologies and features typically have higher initial prices, which reduce over time as a result of manufacturing efficiencies. , If the Share Exchange is not consummated, volume of unit sales could continue to reduce over time as a result of continued demand decreases or as DISH Network increases the deployment of refurbished units as opposed to new units purchased from us. 
+ 
+ Our EchoStar Technologies segment also provides digital broadcast operations, including satellite uplinking/downlinking, transmission services, signal processing, conditional access management, and other services, primarily to DISH Network and Dish Mexico. In addition, we provide our TV Anywhere technology through Slingbox units directly to consumers via retail outlets and online, as well as to the pay-TV operator market. Our EchoStar Technologies segment also includes our over-the-top (“OTT”), Streaming Video on Demand (“SVOD”) platform business, which licenses technology and provides services to DISH Network’s Sling TV service (“Sling TV”) (see Note 19 in the notes to consolidated financial statements in ITEM 15 of this report ). 
+ 
+ During the second quarter of 2015, our EchoStar Technologies segment contributed several of its European subsidiaries to SmarDTV SA (“SmarDTV”), a Swiss subsidiary of Kudelski SA that offers set-top boxes and conditional access modules, in exchange for a 22.5% interest in the equity and subordinated debt of SmarDTV. We and SmarDTV also entered into a services agreement pursuant to which our EchoStar Technologies segment purchases certain engineering services from SmarDTV. Following consummation of the Share Exchange, EchoStar will no longer own its interest in the equity and subordinated debt of SmarDTV and will no longer purchase engineering services from SmarDTV. 
+ 
+ The number of potential new customers for our set-top box business in our EchoStar Technologies segment is small and may be limited as prospective customers that have been competitors of DISH Network may continue to view us as a competitor due to our common ownership with DISH Network. Our customers face emerging competition from other providers of digital media and potential government action preventing them from using security systems in connection with set-top boxes. In particular, 
+ 
+ 
+ 43 
+ 
+ Table of Contents 
+ 
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS - Continued 
+ 
+ 
+ programming offered over the internet has become more prevalent as the speed and quality of broadband networks have improved. 
+ 
+ In July 2016 we made the decision not to proceed with our direct to consumer security and home automation solution product offering and associated services which we had introduced earlier in the year. We have completed the process of shutting down all activities, services and operations related to this product offering. 
+ 
+ EchoStar Satellite Services Segment 
+ 
+ Our ESS segment is a global provider of satellite service operations and video delivery solutions. We operate our business using our owned and leased in-orbit satellites. We provide satellite services on a full-time and occasional-use basis primarily to DISH Network (our largest customer), Dish Mexico, U.S. government service providers, internet service providers, broadcast news organizations, programmers and private enterprise customers. 
+ 
+ We depend on DISH Network for a significant portion of the revenue for our ESS segment, and we expect that DISH Network will continue to be the primary source of revenue for our ESS segment. Therefore, the results of operations of our ESS segment are linked to changes in DISH Network’s satellite capacity requirements. DISH Network’s capacity requirements have been driven by the addition of new channels and migration of programming to high-definition TV and video on demand services. The services that we provide to DISH Network are critical to its nationwide delivery of content to its customers across the U.S. While we expect to continue to provide satellite services to DISH Network, its satellite capacity requirements may change for a variety of reasons, including its ability to construct and launch its own satellites. Any termination or reduction in the services we provide to DISH Network may cause us to have unused capacity on our satellites and require that we aggressively pursue alternative sources of revenue for this business. 
+ 
+ In August 2014, we entered into: (i) a construction contract with Airbus Defence and Space SAS for the construction of the EchoStar 105/SES-11 satellite with C-band, Ku-band and Ka-band payloads; (ii) an agreement with SES Satellite Leasing Limited for the procurement of the related launch services; and (iii) an agreement with SES Americom Inc. (“SES”) pursuant to which we will transfer the title to the C-band and Ka-band payloads to SES Satellite Leasing Limited at launch and transfer the title to the Ku-band payload to SES following in-orbit testing of the satellite. Simultaneously, SES will provide to us satellite service on the entire Ku-band payload on the EchoStar 105/SES-11 satellite for an initial ten-year term, with an option for us to renew the agreement on a year-to-year basis. Due to anomalies experienced by our launch provider, the expected launch date of the EchoStar 105/SES-11 satellite has been delayed. We currently expect to launch the EchoStar 105/SES-11 satellite in the second quarter of 2017. Our Ku-band payload on the EchoStar 105/SES-11 satellite will replace and augment our current capacity on the AMC-15 satellite. As a result of this launch delay, we have incurred and expect to incur additional costs related to the lease of the AMC-15 satellite. 
+ 
+ Revenue growth in our ESS segment depends largely on our ability to continuously make additional satellite capacity available for sale. Once the EchoStar 105/SES-11 satellite is launched and placed into operation, we expect periodic revenue from the satellite to exceed the amount currently generated by the AMC-15 satellite. As a result of the launch delay, we expect a delay in revenue generated from the EchoStar 105/SES-11 satellite. 
+ 
+ We continue to pursue expanding our business offerings by providing value added services such as telemetry, tracking, and control services to third parties, which leverages the ground monitoring networks and personnel currently within our ESS segment. 
+ 
+ As of December 31, 2016 and 2015 , our ESS segment had contracted revenue backlog attributable to satellites currently in orbit of approximately $1.16 billion and $1.41 billion, respectively. The decrease is primarily driven by the fixed-term nature of the satellite services agreements with DISH Network. Of the total contracted revenue backlog as of December 31, 2016 , we expect to recognize approximately $365.1 million of revenue in 2017 . 
+ 
+ 
+ 
+ 44 
+ 
+ Table of Contents 
+ 
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS - Continued 
+ 
+ 
+ New Business Opportunities 
+ 
+ Our industry is evolving with the increase in worldwide demand for broadband internet access for information, entertainment and commerce. In addition to fiber and wireless systems, other technologies such as geostationary high throughput satellites, low-earth orbit (“LEO”) networks, balloons, and High Altitude Platform Systems have begun to play significant roles in enabling global broadband access, networks and services. We intend to use our expertise, technologies, capital, investments, global presence, relationships and other capabilities to continue to provide broadband internet systems, equipment, networks and services for information, entertainment and commerce in North America and internationally for consumers, enterprises and governments. 
+ 
+ We continue to selectively explore opportunities to pursue partnerships, joint ventures and strategic acquisitions, domestically and internationally, that we believe may allow us to increase our existing market share, expand into new markets and new customers, broaden our portfolio of services, products and intellectual property, and strengthen our relationships with our customers. We may allocate significant resources for long-term initiatives that may not have a short or medium-term or any positive impact on our revenue, results of operations, or cash flow. 
+ 
+ In 2012, we acquired the right to use various frequencies at the 45 degree west longitude orbital location (“Brazilian Authorization”) from ANATEL, the Brazilian communications regulatory agency. The Brazilian Authorization provides us the rights to utilize Ku-band spectrum, Ka-band spectrum and S-band spectrum. We are exploring options for the Ka-band and S-band spectrums. In April 2014, we entered into an agreement with Space Systems Loral, LLC (“SS/L”) for the construction of the EchoStar XXIII satellite, a high powered broadcast satellite service (“BSS”) satellite. The EchoStar XXIII satellite will be deployed at the 45 degree west longitude orbital location. Due to anomalies experienced by our launch provider, the expected launch date of our EchoStar XXIII satellite was delayed and we currently expect to launch the EchoStar XXIII satellite in the first quarter of 2017. We have regulatory obligations to meet certain in-service milestones by the second quarter of 2017 for our Brazilian license at 45 west longitude for the Ka-, Ku- and S-band frequency bands. We currently expect to meet our regulatory milestone for the Ku-band. We have sought an extension of the S- and Ka-band milestones, which may or may not be granted, and, if granted, may be subject to penalties, additional conditions or other requirements. 
+ 
+ In December 2013, we acquired 100% of Solaris Mobile, which is based in Dublin, Ireland and licensed by the European Union and its member states (“EU”) to provide mobile satellite services (“MSS”) and complementary ground component (“CGC”) services covering the entire EU using S-band spectrum. Solaris Mobile changed its name to EchoStar Mobile Limited (“EchoStar Mobile”) in the first quarter of 2015. We are in the process of developing commercial services utilizing the operable payload we own on the EUTELSAT 10A satellite, along with our EchoStar XXI S-band satellite. The EchoStar XXI satellite will provide space segment capacity to EchoStar Mobile. We believe we are in a unique position to deploy a European wide MSS/CGC network and maximize the long-term value of our S-band spectrum in Europe and other regions within the scope of our licenses. Due to anomalies experienced by our launch provider, the expected launch of our EchoStar XXI satellite was delayed and we currently expect to launch the EchoStar XXI satellite in the second or third quarter of 2017. We had regulatory obligations to meet certain milestones by the fourth quarter of 2016 regarding the operations of the EchoStar XXI satellite across the EU. We have notified the regulators in the EU of our delay and we intend to seek extensions of certain of these requirements to the extent we determine necessary. Although we anticipate being able to receive them, any such necessary extensions may be subject to additional conditions, penalties or other requirements. 
+ 
+ We are tracking closely the developments in next-generation satellite businesses, and we are seeking to utilize our services, technologies and expertise to find new commercial opportunities for our business. In June 2015, we made an equity investment in WorldVu Satellites Limited (“OneWeb”), a global LEO satellite service company. In addition, our Hughes segment entered into an agreement with OneWeb to provide certain equipment and services in connection with the ground systems for OneWeb’s LEO satellites. 
+ 
+ Capital expenditures associated with the construction and launch of the EchoStar XXIII and EchoStar XXI satellites are included in “All Other and Eliminations” in our segment reporting. 
+ 
+ 
+ 
+ 45 
+ 
+ 
+ Table of Contents 
+ 
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS - Continued 
+ 
+ 
+ RESULTS OF OPERATIONS 
+ 
+ Basis of Presentation 
+ 
+ The following discussion and analysis of our consolidated results of operations is presented on a historical basis. 
+ 
+ Prior to 2015, our OTT, SVOD platform business, including certain assets distributed to us in August 2014 in connection with the Exchange Agreement with Sling TV Holding (see Notes 6 and 19 in the notes to consolidated financial statements in ITEM 15 of this report ), was managed separately from our existing operating segments and was reported within “All Other and Eliminations.” In the first quarter of 2015, we assigned management responsibility for our OTT, SVOD platform business to our EchoStar Technologies segment, where it continues to be managed and reported as a separate reporting unit. All prior period amounts have been retrospectively adjusted to present operations of our OTT, SVOD platform business in our EchoStar Technologies segment. 
+ 
+ 
+ 
+ 46 
+ 
+ 
+ Table of Contents 
+ 
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS - Continued 
+ 
+ 
+ Year Ended December 31, 2016 Compared to the Year Ended December 31, 2015 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Years Ended December 31, 
+ 
+ 
+ 
+ Variance 
+ 
+ 
+ Statements of Operations Data (1) 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ Amount 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ (Dollars in thousands) 
+ 
+ 
+ Revenue: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Services and other revenue - DISH Network 
+ 
+ 
+ 
+ $ 
+ 
+ 888,603 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 918,301 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (29,698 
+ 
+ ) 
+ 
+ 
+ 
+ (3.2 
+ 
+ ) 
+ 
+ 
+ Services and other revenue - other 
+ 
+ 
+ 
+ 1,109,597 
+ 
+ 
+ 
+ 
+ 
+ 1,103,928 
+ 
+ 
+ 
+ 
+ 
+ 5,669 
+ 
+ 
+ 
+ 
+ 
+ 0.5 
+ 
+ 
+ 
+ 
+ Equipment revenue - DISH Network 
+ 
+ 
+ 
+ 711,289 
+ 
+ 
+ 
+ 
+ 
+ 763,184 
+ 
+ 
+ 
+ 
+ 
+ (51,895 
+ 
+ ) 
+ 
+ 
+ 
+ (6.8 
+ 
+ ) 
+ 
+ 
+ Equipment revenue - other 
+ 
+ 
+ 
+ 347,241 
+ 
+ 
+ 
+ 
+ 
+ 358,301 
+ 
+ 
+ 
+ 
+ 
+ (11,060 
+ 
+ ) 
+ 
+ 
+ 
+ (3.1 
+ 
+ ) 
+ 
+ 
+ Total revenue 
+ 
+ 
+ 
+ 3,056,730 
+ 
+ 
+ 
+ 
+ 
+ 3,143,714 
+ 
+ 
+ 
+ 
+ 
+ (86,984 
+ 
+ ) 
+ 
+ 
+ 
+ (2.8 
+ 
+ ) 
+ 
+ 
+ Costs and Expenses: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of sales - services and other 
+ 
+ 
+ 
+ 844,498 
+ 
+ 
+ 
+ 
+ 
+ 856,065 
+ 
+ 
+ 
+ 
+ 
+ (11,567 
+ 
+ ) 
+ 
+ 
+ 
+ (1.4 
+ 
+ ) 
+ 
+ 
+ % of Total services and other revenue 
+ 
+ 
+ 
+ 42.3 
+ 
+ % 
+ 
+ 
+ 
+ 42.3 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of sales - equipment 
+ 
+ 
+ 
+ 891,108 
+ 
+ 
+ 
+ 
+ 
+ 948,655 
+ 
+ 
+ 
+ 
+ 
+ (57,547 
+ 
+ ) 
+ 
+ 
+ 
+ (6.1 
+ 
+ ) 
+ 
+ 
+ % of Total equipment revenue 
+ 
+ 
+ 
+ 84.2 
+ 
+ % 
+ 
+ 
+ 
+ 84.6 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Selling, general and administrative expenses 
+ 
+ 
+ 
+ 385,634 
+ 
+ 
+ 
+ 
+ 
+ 374,116 
+ 
+ 
+ 
+ 
+ 
+ 11,518 
+ 
+ 
+ 
+ 
+ 
+ 3.1 
+ 
+ 
+ 
+ 
+ % of Total revenue 
+ 
+ 
+ 
+ 12.6 
+ 
+ % 
+ 
+ 
+ 
+ 11.9 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Research and development expenses 
+ 
+ 
+ 
+ 76,024 
+ 
+ 
+ 
+ 
+ 
+ 78,287 
+ 
+ 
+ 
+ 
+ 
+ (2,263 
+ 
+ ) 
+ 
+ 
+ 
+ (2.9 
+ 
+ ) 
+ 
+ 
+ % of Total revenue 
+ 
+ 
+ 
+ 2.5 
+ 
+ % 
+ 
+ 
+ 
+ 2.5 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Depreciation and amortization 
+ 
+ 
+ 
+ 495,068 
+ 
+ 
+ 
+ 
+ 
+ 528,158 
+ 
+ 
+ 
+ 
+ 
+ (33,090 
+ 
+ ) 
+ 
+ 
+ 
+ (6.3 
+ 
+ ) 
+ 
+ 
+ Impairment of long-lived assets 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 2,400 
+ 
+ 
+ 
+ 
+ 
+ (2,400 
+ 
+ ) 
+ 
+ 
+ 
+ (100.0 
+ 
+ ) 
+ 
+ 
+ Total costs and expenses 
+ 
+ 
+ 
+ 2,692,332 
+ 
+ 
+ 
+ 
+ 
+ 2,787,681 
+ 
+ 
+ 
+ 
+ 
+ (95,349 
+ 
+ ) 
+ 
+ 
+ 
+ (3.4 
+ 
+ ) 
+ 
+ 
+ Operating income 
+ 
+ 
+ 
+ 364,398 
+ 
+ 
+ 
+ 
+ 
+ 356,033 
+ 
+ 
+ 
+ 
+ 
+ 8,365 
+ 
+ 
+ 
+ 
+ 
+ 2.3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other Income (Expense): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Interest income 
+ 
+ 
+ 
+ 21,249 
+ 
+ 
+ 
+ 
+ 
+ 10,429 
+ 
+ 
+ 
+ 
+ 
+ 10,820 
+ 
+ 
+ 
+ 
+ 
+ * 
+ 
+ 
+ 
+ 
+ Interest expense, net of amounts capitalized 
+ 
+ 
+ 
+ (123,630 
+ 
+ ) 
+ 
+ 
+ 
+ (122,066 
+ 
+ ) 
+ 
+ 
+ 
+ (1,564 
+ 
+ ) 
+ 
+ 
+ 
+ 1.3 
+ 
+ 
+ 
+ 
+ Loss from partial redemption of debt 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ (5,044 
+ 
+ ) 
+ 
+ 
+ 
+ 5,044 
+ 
+ 
+ 
+ 
+ 
+ (100.0 
+ 
+ ) 
+ 
+ 
+ Gains (losses) and impairment on marketable investment securities, net 
+ 
+ 
+ 
+ 9,767 
+ 
+ 
+ 
+ 
+ 
+ (17,669 
+ 
+ ) 
+ 
+ 
+ 
+ 27,436 
+ 
+ 
+ 
+ 
+ 
+ * 
+ 
+ 
+ 
+ 
+ Equity in earnings of unconsolidated affiliates, net 
+ 
+ 
+ 
+ 13,310 
+ 
+ 
+ 
+ 
+ 
+ 1,895 
+ 
+ 
+ 
+ 
+ 
+ 11,415 
+ 
+ 
+ 
+ 
+ 
+ * 
+ 
+ 
+ 
+ 
+ Other, net 
+ 
+ 
+ 
+ 1,750 
+ 
+ 
+ 
+ 
+ 
+ (2,006 
+ 
+ ) 
+ 
+ 
+ 
+ 3,756 
+ 
+ 
+ 
+ 
+ 
+ * 
+ 
+ 
+ 
+ 
+ Total other expense, net 
+ 
+ 
+ 
+ (77,554 
+ 
+ ) 
+ 
+ 
+ 
+ (134,461 
+ 
+ ) 
+ 
+ 
+ 
+ 56,907 
+ 
+ 
+ 
+ 
+ 
+ (42.3 
+ 
+ ) 
+ 
+ 
+ Income before income taxes 
+ 
+ 
+ 
+ 286,844 
+ 
+ 
+ 
+ 
+ 
+ 221,572 
+ 
+ 
+ 
+ 
+ 
+ 65,272 
+ 
+ 
+ 
+ 
+ 
+ 29.5 
+ 
+ 
+ 
+ 
+ Income tax provision, net 
+ 
+ 
+ 
+ (106,152 
+ 
+ ) 
+ 
+ 
+ 
+ (72,201 
+ 
+ ) 
+ 
+ 
+ 
+ (33,951 
+ 
+ ) 
+ 
+ 
+ 
+ 47.0 
+ 
+ 
+ 
+ 
+ Net income 
+ 
+ 
+ 
+ 180,692 
+ 
+ 
+ 
+ 
+ 
+ 149,371 
+ 
+ 
+ 
+ 
+ 
+ 31,321 
+ 
+ 
+ 
+ 
+ 
+ 21.0 
+ 
+ 
+ 
+ 
+ Less: Net loss attributable to noncontrolling interest in HSS Tracking Stock 
+ 
+ 
+ 
+ (944 
+ 
+ ) 
+ 
+ 
+ 
+ (5,603 
+ 
+ ) 
+ 
+ 
+ 
+ 4,659 
+ 
+ 
+ 
+ 
+ 
+ (83.2 
+ 
+ ) 
+ 
+ 
+ Less: Net income attributable to other noncontrolling interests 
+ 
+ 
+ 
+ 1,706 
+ 
+ 
+ 
+ 
+ 
+ 1,617 
+ 
+ 
+ 
+ 
+ 
+ 89 
+ 
+ 
+ 
+ 
+ 
+ 5.5 
+ 
+ 
+ 
+ 
+ Net income attributable to EchoStar 
+ 
+ 
+ 
+ $ 
+ 
+ 179,930 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 153,357 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 26,573 
+ 
+ 
+ 
+ 
+ 
+ 17.3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other Data: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EBITDA (2) 
+ 
+ 
+ 
+ $ 
+ 
+ 883,531 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 865,353 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 18,178 
+ 
+ 
+ 
+ 
+ 
+ 2.1 
+ 
+ 
+ 
+ 
+ Subscribers, end of period 
+ 
+ 
+ 
+ 1,036,000 
+ 
+ 
+ 
+ 
+ 
+ 1,035,000 
+ 
+ 
+ 
+ 
+ 
+ 1,000 
+ 
+ 
+ 
+ 
+ 
+ 0.1 
+ 
+ 
+ * Percentage is not meaningful. 
+ (1) An explanation of our key metrics is included on pages 70 and 71 under the heading “Explanation of Key Metrics and Other Items.” 
+ (2) A reconciliation of EBITDA to “Net income,” the most directly comparable GAAP measure in the accompanying financial statements, is included on page 52 . For further information on our use of EBITDA, see “Explanation of Key Metrics and Other Items” on page 71. 
+ 
+ 
+ Services and other revenue — DISH Network . “ Services and other revenue — DISH Network ” totaled $888.6 million for the year ended December 31, 2016 , a decrease of $29.7 million , or 3.2% , compared to the same period in 2015 . 
+ 
+ Services and other revenue — DISH Network from our Hughes segment for the year ended December 31, 2016 increased by $4.0 million, or 4.3%, to $98.5 million compared to the same period in 2015 . The increase was primarily 
+ 
+ 
+ 47 
+ 
+ Table of Contents 
+ 
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS - Continued 
+ 
+ 
+ attributable to an increase in the average revenue per subscriber as a result of an increase in wholesale subscribers receiving higher end service plans pursuant to our Distribution Agreement with dishNET Satellite Broadband L.L.C. (“dishNET”), partially offset by a decrease in wholesale subscribers. 
+ 
+ Services and other revenue — DISH Network from our EchoStar Technologies segment for the year ended December 31, 2016 increased by $39.5 million, or 10.2%, to $428.5 million compared to the same period in 2015 . The increase was primarily due to an increase of $48.2 million in revenue earned for engineering support services related to Sling TV and other projects . The increase was partially offset by a decrease of $9.0 million in revenue earned for support services related to receiver developments in 2015. 
+ 
+ Services and other revenue — DISH Network from our ESS segment for the year ended December 31, 2016 decreased by $73.9 million, or 17.5%, to $349.6 million compared to the same period in 2015 . The decrease was mainly due to a decrease of $74.1 million in revenue as a result of the termination of the satellite services provided to DISH Network from the EchoStar I and EchoStar VIII satellites effective in November 2015 . 
+ 
+ Services and other revenue — other . “ Services and other revenue — other ” totaled $1.11 billion for the year ended December 31, 2016 , an increase of $5.7 million , or 0.5% , compared to the same period in 2015 . 
+ 
+ Services and other revenue — other from our Hughes segment for the year ended December 31, 2016 increased by $16.7 million, or 1.6%, to $1.05 billion compared to the same period in 2015 . The increase was primarily attributable to an increase of $28.6 million in sales of broadband services to our domestic consumer customers as a result of an increase in retail subscribers and the average revenue per subscriber. This increase was partially offset by a decrease of $10.8 million of broadband services to our international enterprise customers attributable to an unfavorable foreign exchange impact and non-renewal of certain service contracts. 
+ 
+ Services and other revenue — other from our EchoStar Technologies segment for the year ended December 31, 2016 decreased by $1.4 million, or 14.0%, to $8.8 million compared to the same period in 2015 . The decrease was primarily attributable to a decrease in the sales volume of our paid Sling mobile applications due to our offering of a free mobile application in 2016. 
+ 
+ Services and other revenue — other from our ESS segment for the year ended December 31, 2016 decreased by $9.0 million, or 13.4%, to $58.1 million compared to the same period in 2015 . The decrease was primarily attributable to a decrease in sales of transponder services due to a decrease in the number of transponders available for use in providing service as our lease of the AMC-16 satellite ended in February 2016. 
+ 
+ Equipment revenue — DISH Network . “ Equipment revenue — DISH Network ” totaled $711.3 million for the year ended December 31, 2016 , a decrease of $51.9 million , or 6.8% , compared to the same period in 2015 . 
+ 
+ Equipment revenue — DISH Network from our Hughes segment for the year ended December 31, 2016 decreased by $1.9 million, or 17.8%, to $8.8 million compared to the same period in 2015 . The decrease in revenue was primarily due to the decrease in the unit sales of broadband equipment to dishNET. 
+ 
+ Equipment revenue — DISH Network from our EchoStar Technologies segment for the year ended December 31, 2016 decreased by $50.0 million, or 6.6%, to $702.4 million compared to the same period in 2015 . The decrease in revenue was primarily due to a decrease in revenue of set-top boxes and related accessories. The decrease in revenue of set-top boxes was primarily due to an 8.8% decrease in the volume of unit sales, partially offset by a 3.3% increase in the weighted average price of the set-top boxes sold. The decrease in revenue of related accessories was primarily due to a 6.6% decrease in the volume of unit sales and a 0.9% decrease in the weighted average price of related accessories. 
+ 
+ Equipment revenue — other . “ Equipment revenue — other ” totaled $347.2 million for the year ended December 31, 2016 , a decrease of $11.1 million , or 3.1% , compared to the same period in 2015 . 
+ 
+ Equipment revenue — other from our Hughes segment for the year ended December 31, 2016 increased by $26.2 million, or 12.4%, to $237.9 million compared to the same period in 2015 . The increase was mainly due to an 
+ 
+ 
+ 48 
+ 
+ Table of Contents 
+ 
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS - Continued 
+ 
+ 
+ increase of $40.7 million in sales of broadband equipment to our domestic enterprise and government customers, partially offset by a decrease of $14.7 million in revenue from our international and telecom systems customers . 
+ 
+ Equipment revenue — other from our EchoStar Technologies segment for the year ended December 31, 2016 decreased by $37.1 million, or 25.3%, to $109.4 million compared to the same period in 2015 . The decrease was attributable to a decrease in the weighted average price of set-top boxes and related accessories of 19.7% and 8.1%, respectively, sold primarily to our international customers and a decrease in the volume of unit sales of set-top boxes and related accessories of 10.0% and 12.9%, respectively, sold primarily to our international customers. 
+ 
+ Cost of sales — services and other . “ Cost of sales — services and other ” totaled $844.5 million for the year ended December 31, 2016 , a decrease of $11.6 million , or 1.4% , compared to the same period in 2015 . 
+ 
+ Cost of sales — services and other from our Hughes segment for the year ended December 31, 2016 decreased by $2.2 million, or 0.5%, to $454.5 million compared to the same period in 2015 . The decrease was primarily attributable to the decrease of Ku-band space segment costs as customers either terminated services or migrated to the Ka-band platform offset by the increase in service costs as a result of the increase in sales of broadband services to our domestic consumer customers. 
+ 
+ Cost of sales — services and other from our EchoStar Technologies segment for the year ended December 31, 2016 increased by $41.6 million, or 14.7%, to $323.9 million compared to the same period in 2015 . The increase was primarily due to an increase in engineering support costs related to Sling TV and other projects. 
+ 
+ Cost of sales — services and other from our ESS segment for the year ended December 31, 2016 decreased by $6.0 million, or 8.6%, to $64.2 million compared to the same period in 2015 . The decrease was primarily due to a decrease in cost of sales of transponder services as a result of a decrease in the number of leased transponders available for use in providing service as our lease of the AMC-16 satellite ended in February 2016. 
+ 
+ Cost of sales — services and other from All Other and Eliminations for the year ended December 31, 2016 decreased by $45.0 million, or 95.7%, to $2.0 million compared to the same period in 2015 . The decrease was primarily due to a decrease in cost of sales relating to the EchoStar XV satellite for services provided from DISH Network as a result of the termination of the satellite service agreement effective in November 2015 . 
+ 
+ Cost of sales — equipment . “ Cost of sales — equipment ” totaled $891.1 million for the year ended December 31, 2016 , a decrease of $57.5 million , or 6.1% , compared to the same period in 2015 . 
+ 
+ Cost of sales — equipment from our Hughes segment for the year ended December 31, 2016 increased by $9.3 million, or 4.8%, to $204.4 million compared to the same period in 2015 . The increase was primarily attributable to an increase of $20.3 million in equipment costs related to the increase in sales volume of broadband equipment to our domestic enterprise and government customers, partially offset by a decrease of $12.3 million in equipment costs related to the decrease in sales to our international and telecom systems customers . 
+ 
+ Cost of sales — equipment from our EchoStar Technologies segment for the year ended December 31, 2016 decreased by $66.8 million, or 8.9%, to $686.7 million compared to the same period in 2015 . The decrease was primarily attributable to a decrease in equipment costs as a result of the decrease in the volume of unit sales of set-top boxes and related accessories sold to DISH Network. The decrease was also attributable to decreases in the volume of unit sales and the weighted average cost of set-top boxes and related accessories sold to our international customers. 
+ 
+ Selling, general and administrative expenses . “ Selling, general and administrative expenses ” totaled $385.6 million for the year ended December 31, 2016 , an increase of $11.5 million , or 3.1% , compared to the same period in 2015 . The increase was primarily due to $14.1 million in restructuring charges as a result of our decision not to proceed with our direct-to-consumer security and home automation solution product offering and associated services within our EchoStar Technologies segment and an increase of $6.7 million and $3.8 million in marketing and promotional costs from our EchoStar Technologies segment and Hughes segment, respectively, offset partially by a decrease of $8.0 million due to litigation settlements recorded in 2015 and a decrease of $6.6 million of stock-based compensation cost. 
+ 
+ 
+ 
+ 49 
+ 
+ Table of Contents 
+ 
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS - Continued 
+ 
+ 
+ Research and development expenses . “ Research and development expenses ” totaled $76.0 million for the year ended December 31, 2016 , a decrease of $2.3 million , or 2.9% , compared to the same period in 2015 . The decrease was primarily related to a decrease in research and development expense of $7.1 million in our EchoStar Technologies segment, partially offset by an increase in research and development expense of $4.8 million in our Hughes segment. Our research and development activities vary based on the activity level and scope of other engineering and customer related development contracts. 
+ 
+ Depreciation and amortization . “ Depreciation and amortization ” expenses totaled $495.1 million for the year ended December 31, 2016 , a decrease of $33.1 million , or 6.3% , compared to the same period in 2015 . The decrease was primarily related to certain of our fully amortized other intangible assets in our Hughes segment and All Other & Eliminations and the fully depreciated EchoStar IX satellite as of October 2015 in our ESS segment. The decrease was also attributable to a decrease in depreciation expense in our EchoStar Technologies segment as a result of our fully depreciated machinery and equipment in 2016. 
+ 
+ Impairment of long-lived assets . “ Impairment of long-lived assets ” totaled zero for the year ended December 31, 2016 . In 2015, the $2.4 million loss was attributable to the impairment of certain building and equipment in our EchoStar Technologies segment. 
+ 
+ Interest income . “ Interest income ” totaled $21.2 million for the year ended December 31, 2016 , an increase of $10.8 million compared to the same period in 2015 . The increase was primarily attributable to the increase in our short term investments from proceeds from the issuance of long-term debt in the third quarter of 2016 and an increase in yield percentage . 
+ 
+ Interest expense, net of amounts capitalized . “ Interest expense, net of amounts capitalized ” totaled $123.6 million for the year ended December 31, 2016 , an increase of $1.6 million or 1.3% , compared to the same period in 2015 . The increase was mainly attributable to an increase of $38.1 million related to the issuance of 5.250% Senior Secured Notes due August 1, 2026 (the “2026 Senior Secured Notes”) and 6.625% Senior Unsecured Notes due August 1, 2026 (the “2026 Senior Unsecured Notes” and together with the 2026 Senior Secured Notes, the “2026 Notes”) in the third quarter of 2016 . The increase was partially offset by an increase in capitalized interest of $30.6 million related to the construction of the EchoStar XIX, EchoStar XXI, EchoStar XXIII, and EchoStar 105/SES-11 satellites, and payments for satellite services on the EUTELSAT 65 West A and 63 West satellites , a decrease of $3.2 million relating to the partial redemption of the outstanding principal amount of HSS’ 6 1/2 Senior Secured Notes due 2019 (the “2019 Senior Secured Notes”) in the second quarter of 2015, and a decrease of $2.8 million relating to the accounting impact of two of our satellites that are treated as capital leases . 
+ 
+ Loss from partial redemption of debt . “ Loss from partial redemption of debt ” totaled zero for the year ended December 31, 2016 . In 2015, the $5.0 million loss was related to the partial redemption of the 2019 Senior Secured Notes in the second quarter of 2015 which included a $3.3 million redemption premium and a $1.7 million write off of related unamortized financing costs. 
+ 
+ Gains (losses) and impairment on marketable investment securities, net . “ Gains (losses) and impairment on marketable investment securities, net ” totaled $9.8 million in gains for the year ended December 31, 2016 compared to $17.7 million in losses for the same period in 2015 . The change of $27.4 million was primarily due to an other than temporary impairment loss of $11.2 million on certain strategic equity securities in 2015 , an increase of $10.5 million in gains on our trading securities in 2016, and an increase of $5.6 million in realized gains on our securities classified as available-for-sale in 2016 . 
+ 
+ Equity in earnings of unconsolidated affiliates, net . “ Equity in earnings of unconsolidated affiliates, net ” totaled $13.3 million for the year ended December 31, 2016 , an increase of $11.4 million compared to the same period in 2015 . The increase was primarily related to an increase in earnings from our investment in Dish Mexico. 
+ 
+ Other, net . “ Other, net ” totaled $1.8 million in income for the year ended December 31, 2016 compared to $2.0 million of expense for the year ended December 31, 2015 . The change of $3.8 million was primarily related to (i) $13.5 million for a provision recorded in the first half of 2015 in connection with FCC regulatory fees, which was reversed in the first quarter of 2016, (ii) an unfavorable foreign exchange impact of $7.7 million in 2015 , (iii) a decrease of $8.8 million related to a protective put associated with our trading securities in 2016 when compared to the same period in 2015, (iv) a $4.5 million non-recurring reduction of the capital lease obligation for the AMC-15 and AMC-16 satellites recorded in the first quarter of 2015 as a result of anomalies that previously affected the operation of these satellites , (v) a gain of $1.7 million on the exchange of accounts 
+ 
+ 
+ 50 
+ 
+ Table of Contents 
+ 
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS - Continued 
+ 
+ 
+ receivable for certain trading securities in the second quarter of 2015 , and (vi) proceeds of $1.3 million from a domain name auction in 2015. 
+ 
+ Income tax provision, net . Income tax expense was $106.2 million for the year ended December 31, 2016 , an increase of $34.0 million or 47.0% , compared to the same period in 2015 . Our effective income tax rate was 37.0% and 32.6% for the year ended December 31, 2016 and 2015 , respectively. The variations in our current year effective tax rate from the U.S. federal statutory rate for the year ended December 31, 2016 were primarily due to state income taxes and various permanent tax differences, partially offset by research and experimentation credits. The variations in our effective tax rate from the U.S. federal statutory rate for the year ended December 31, 2015 were primarily due to research and experimentation tax credits. 
+ 
+ Net income attributable to EchoStar . “ Net income attributable to EchoStar ” was $179.9 million for the year ended December 31, 2016 , an increase of $26.6 million or 17.3% , compared to the same period in 2015 . The increase was primarily due to (i) an increase in capitalized interest of $30.6 million related to the construction of the EchoStar XIX, EchoStar XXI, EchoStar XXIII, and EchoStar 105/SES-11 satellites, and payments for satellite services on the EUTELSAT 65 West A and 63 West satellites , (ii) an increase of $27.4 million in gains on marketable investments, net of losses and impairments, (iii) $13.5 million for a provision recorded in the first half of 2015 in connection with FCC regulatory fees, which was reversed in the first quarter of 2016, (iv) an increase of $11.4 million in equity in earnings of unconsolidated affiliates, net, (v) an increase of $10.8 million in interest income primarily attributable to the increase in our short term investments from proceeds from the issuance of long-term debt in the third quarter of 2016 and an increase in yield percentage , (vi) an unfavorable foreign exchange impact of $7.7 million in 2015 , (vii) a $5.0 million loss related to the partial redemption of the 2019 Senior Secured Notes in the second quarter of 2015, (viii) a decrease in interest expense of $3.2 million relating to the partial redemption of the outstanding principal amount of the 2019 Senior Secured Notes in the second quarter of 2015 and (ix) a decrease of $2.8 million in interest expense relating to the accounting impact of two of our satellites that are treated as capital leases. The increase was partially offset by (i) an increase of $38.1 million in interest expense related to the 2026 Notes in the third quarter of 2016, (ii) an increase of $34.0 million in income tax expense in 2016, (iii) a decrease of $8.8 million related to a protective put associated with our trading securities in 2016 , and (iv) a $4.5 million non-recurring reduction of the capital lease obligation for the AMC-15 and AMC-16 satellites recorded in the first quarter of 2015 as a result of anomalies that previously affected the operation of these satellites . 
+ 
+ Earnings before interest, taxes, depreciation and amortization (“EBITDA”) . EBITDA was $883.5 million for the year ended December 31, 2016 , an increase of $18.2 million , or 2.1% , compared to the same period in 2015 . The increase was primarily due to (i) an increase of $27.4 million in gains on marketable investments, net of losses and impairments, (ii) $13.5 million for a provision recorded in the first half of 2015 in connection with FCC regulatory fees, which was reversed in the first quarter of 2016, (iii) an increase of $11.4 million in equity in earnings of unconsolidated affiliates, net, (iv) an unfavorable foreign exchange impact of $7.7 million in 2015 , and (v) a $5.0 million loss related to the partial redemption of the 2019 Senior Secured Notes in the second quarter of 2015. The increases were partially offset by (i) a decrease in operating income, excluding depreciation and amortization, of $24.7 million for the year ended December 31, 2016 , (ii) a decrease of $8.8 million related to a protective put associated with our trading securities in 2016 , (iii) an increase of $4.7 million in net income attributable to the noncontrolling interest in HSS Tracking Stock and other noncontrolling interests in 2016 when compared to the same period in 2015, (iv) $4.5 million non-recurring reduction of the capital lease obligation for the AMC-15 and AMC-16 satellites recorded in the first quarter of 2015 as a result of anomalies that previously affected the operation of these satellites , and (v) a gain of $1.7 million on the exchange of accounts receivable for certain trading securities in the second quarter of 2015 . EBITDA is a non-GAAP financial measure and is described under Explanation of Key Metrics and Other Items below. 
+ 
+ 
+ 
+ 51 
+ 
+ Table of Contents 
+ 
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS - Continued 
+ 
+ 
+ The following table reconciles EBITDA to Net income , the most directly comparable GAAP measure in the accompanying financial statements. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Years Ended December 31, 
+ 
+ 
+ 
+ Variance 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ Amount 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ (Dollars in thousands) 
+ 
+ 
+ Net income 
+ 
+ 
+ 
+ $ 
+ 
+ 180,692 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 149,371 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 31,321 
+ 
+ 
+ 
+ 
+ 
+ 21.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Interest income and expense, net 
+ 
+ 
+ 
+ 102,381 
+ 
+ 
+ 
+ 
+ 
+ 111,637 
+ 
+ 
+ 
+ 
+ 
+ (9,256 
+ 
+ ) 
+ 
+ 
+ 
+ (8.3 
+ 
+ ) 
+ 
+ 
+ Income tax provision, net 
+ 
+ 
+ 
+ 106,152 
+ 
+ 
+ 
+ 
+ 
+ 72,201 
+ 
+ 
+ 
+ 
+ 
+ 33,951 
+ 
+ 
+ 
+ 
+ 
+ 47.0 
+ 
+ 
+ 
+ 
+ Depreciation and amortization 
+ 
+ 
+ 
+ 495,068 
+ 
+ 
+ 
+ 
+ 
+ 528,158 
+ 
+ 
+ 
+ 
+ 
+ (33,090 
+ 
+ ) 
+ 
+ 
+ 
+ (6.3 
+ 
+ ) 
+ 
+ 
+ Net (income) loss attributable to noncontrolling interest in HSS Tracking Stock and other noncontrolling interests 
+ 
+ 
+ 
+ (762 
+ 
+ ) 
+ 
+ 
+ 
+ 3,986 
+ 
+ 
+ 
+ 
+ 
+ (4,748 
+ 
+ ) 
+ 
+ 
+ 
+ * 
+ 
+ 
+ 
+ 
+ EBITDA 
+ 
+ 
+ 
+ $ 
+ 
+ 883,531 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 865,353 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 18,178 
+ 
+ 
+ 
+ 
+ 
+ 2.1 
+ 
+ 
+ * Percentage is not meaningful. 
+ 
+ Segment Operating Results and Capital Expenditures 
+ 
+ Year Ended December 31, 2016 Compared to the Year Ended December 31, 2015 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Hughes 
+ 
+ 
+ 
+ EchoStar 
+ Technologies 
+ 
+ 
+ 
+ EchoStar 
+ Satellite 
+ Services 
+ 
+ 
+ 
+ All 
+ Other and 
+ Eliminations 
+ 
+ 
+ 
+ Consolidated 
+ Total 
+ 
+ 
+ 
+ 
+ 
+ 
+ (In thousands) 
+ 
+ 
+ For the Year Ended December 31, 2016 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total revenue 
+ 
+ 
+ 
+ $ 
+ 
+ 1,392,361 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,249,197 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 407,660 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 7,512 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 3,056,730 
+ 
+ 
+ 
+ 
+ Capital expenditures 
+ 
+ 
+ 
+ $ 
+ 
+ 322,362 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 69,744 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 58,925 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 247,223 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 698,254 
+ 
+ 
+ 
+ 
+ EBITDA 
+ 
+ 
+ 
+ $ 
+ 
+ 427,802 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 89,549 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 339,496 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 26,684 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 883,531 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Year Ended December 31, 2015 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total revenue 
+ 
+ 
+ 
+ $ 
+ 
+ 1,347,340 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,298,198 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 490,591 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 7,585 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 3,143,714 
+ 
+ 
+ 
+ 
+ Capital expenditures 
+ 
+ 
+ 
+ $ 
+ 
+ 285,499 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 50,593 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 101,215 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 266,213 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 703,520 
+ 
+ 
+ 
+ 
+ EBITDA 
+ 
+ 
+ 
+ $ 
+ 
+ 396,684 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 106,745 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 412,607 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (50,683 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ 865,353 
+ 
+ 
+ 
+ Hughes Segment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Years Ended December 31, 
+ 
+ 
+ 
+ Variance 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ Amount 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ (Dollars in thousands) 
+ 
+ 
+ Total revenue 
+ 
+ 
+ 
+ $ 
+ 
+ 1,392,361 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,347,340 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 45,021 
+ 
+ 
+ 
+ 
+ 
+ 3.3 
+ 
+ 
+ Capital expenditures 
+ 
+ 
+ 
+ $ 
+ 
+ 322,362 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 285,499 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 36,863 
+ 
+ 
+ 
+ 
+ 
+ 12.9 
+ 
+ 
+ EBITDA 
+ 
+ 
+ 
+ $ 
+ 
+ 427,802 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 396,684 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 31,118 
+ 
+ 
+ 
+ 
+ 
+ 7.8 
+ 
+ Revenue 
+ 
+ Hughes segment total revenue for the year ended December 31, 2016 increased by $45.0 million , or 3.3% , compared to the same period in 2015 . The increase was primarily due to an increase of $40.7 million in sales of broadband equipment to our domestic enterprise and government customers and an increase of $28.6 million in sales of broadband services to our domestic consumer customers. These increases were partially offset by a decrease of $25.5 million in revenue of broadband equipment and services to our international and telecom systems customers. 
+ 
+ 
+ 
+ 52 
+ 
+ Table of Contents 
+ 
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS - Continued 
+ 
+ 
+ Capital Expenditures 
+ 
+ Hughes segment capital expenditures for the year ended December 31, 2016 increased by $36.9 million , or 12.9% , compared to the same period in 2015 , primarily due to an increase in expenditures on the 63 West satellite. The increase was partially offset by a decrease in capital expenditures on satellite ground infrastructures related to the EchoStar XIX and EchoStar XXI satellites. Capital expenditures associated with the construction and launch of the EchoStar XIX satellite are included in “All Other and Eliminations” in our segment reporting. 
+ 
+ EBITDA 
+ 
+ Hughes segment EBITDA for the year ended December 31, 2016 was $427.8 million , an increase of $31.1 million , or 7.8% , compared to the same period in 2015 . The increase was primarily attributable to a $37.9 million increase in total gross margin and an unfavorable foreign exchange impact of $3.6 million in 2015. These increases were partially offset by an increase of $4.8 million in research and development expenses and an increase of $3.8 million in marketing and promotional costs. 
+ 
+ EchoStar Technologies Segment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Years Ended December 31, 
+ 
+ 
+ 
+ Variance 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ Amount 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ (Dollars in thousands) 
+ 
+ 
+ Total revenue 
+ 
+ 
+ 
+ $ 
+ 
+ 1,249,197 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,298,198 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (49,001 
+ 
+ ) 
+ 
+ 
+ 
+ (3.8 
+ 
+ ) 
+ 
+ 
+ Capital expenditures 
+ 
+ 
+ 
+ $ 
+ 
+ 69,744 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 50,593 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 19,151 
+ 
+ 
+ 
+ 
+ 
+ 37.9 
+ 
+ 
+ 
+ 
+ EBITDA 
+ 
+ 
+ 
+ $ 
+ 
+ 89,549 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 106,745 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (17,196 
+ 
+ ) 
+ 
+ 
+ 
+ (16.1 
+ 
+ ) 
+ 
+ Revenue 
+ 
+ EchoStar Technologies segment total revenue for the year ended December 31, 2016 decreased by $49.0 million , or 3.8% , compared to the same period in 2015 , primarily resulting from a decrease of $50.0 million in equipment revenue from DISH Network, a decrease of $37.1 million in equipment revenue - other and a decrease of $1.4 million in service revenue - other, partially offset by an increase of $39.5 million in service revenue from DISH Network. 
+ 
+ Capital Expenditures 
+ 
+ EchoStar Technologies segment capital expenditures for the year ended December 31, 2016 increased by $19.2 million , or 37.9% , compared to the same period in 2015 , primarily due to an increase of $36.2 million in expenditures related to the support of our OTT, SVOD platform business, partially offset by a decrease of $15.5 million in expenditures related to our digital broadcast centers. 
+ 
+ EBITDA 
+ 
+ EchoStar Technologies segment EBITDA for the year ended December 31, 2016 was $89.5 million , a decrease of $17.2 million , or 16.1% , compared to the same period in 2015 . The decrease in EBITDA for our EchoStar Technologies segment was primarily driven by a decrease of $23.8 million in gross margin, an increase of $14.1 million in restructuring charges as a result of our decision not to proceed with our direct-to-consumer security and home automation solution product offering and associated services in the third quarter of 2016, and an increase in losses of $1.7 million in equity of a certain unconsolidated affiliate. These decreases were offset partially by a decrease of $7.1 million in research and development expenses in 2016, a decrease of $5.0 million in a litigation settlement recorded in 2015, a decrease of $4.8 million in selling, general and administrative expenses in 2016 and an unfavorable foreign exchange impact of $4.3 million in 2015. 
+ 
+ 
+ 
+ 53 
+ 
+ Table of Contents 
+ 
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS - Continued 
+ 
+ 
+ EchoStar Satellite Services Segment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Years Ended December 31, 
+ 
+ 
+ 
+ Variance 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ Amount 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ (Dollars in thousands) 
+ 
+ 
+ Total revenue 
+ 
+ 
+ 
+ $ 
+ 
+ 407,660 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 490,591 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (82,931 
+ 
+ ) 
+ 
+ 
+ 
+ (16.9 
+ 
+ ) 
+ 
+ 
+ Capital expenditures 
+ 
+ 
+ 
+ $ 
+ 
+ 58,925 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 101,215 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (42,290 
+ 
+ ) 
+ 
+ 
+ 
+ (41.8 
+ 
+ ) 
+ 
+ 
+ EBITDA 
+ 
+ 
+ 
+ $ 
+ 
+ 339,496 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 412,607 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (73,111 
+ 
+ ) 
+ 
+ 
+ 
+ (17.7 
+ 
+ ) 
+ 
+ Revenue 
+ 
+ ESS segment total revenue for the year ended December 31, 2016 decreased by $82.9 million , or 16.9% , compared to the same period in 2015 , primarily due to a decrease of $74.1 million in revenue as a result of the termination of the satellite services provided to DISH Network from the EchoStar I and EchoStar VIII satellites effective in November 2015 and a decrease of $9.0 million primarily attributable to a decrease in sales of transponder services. 
+ 
+ Capital Expenditures 
+ 
+ ESS segment capital expenditures for the year ended December 31, 2016 decreased by $42.3 million , or 41.8% , compared to the same period in 2015 , primarily related to a decrease in expenditures on the EchoStar 105/SES-11 satellite. 
+ 
+ EBITDA 
+ 
+ ESS segment EBITDA for the year ended December 31, 2016 was $339.5 million , a decrease of $73.1 million , or 17.7% , compared to the same period in 2015 . The decrease in EBITDA for our ESS segment was primarily due to a decrease of $76.9 million in gross margin and $4.5 million non-recurring reduction of the capital lease obligation for the AMC-15 and AMC-16 satellites recorded in the first quarter of 2015 as a result of anomalies that previously affected the operation of these satellites . The decrease in EBITDA was partially offset by $7.5 million for a provision recorded in the first half of 2015 in connection with FCC regulatory fees, which was reversed in the first quarter of 2016. 
+ 
+ All Other and Eliminations 
+ 
+ All Other and Eliminations accounts for certain items and activities in our consolidated financial statements that have not been assigned to our operating segments. These include without limitation real estate and other activities, costs incurred in satellite development programs and other business development activities, expenses of various corporate departments, and our centralized treasury activities, including without limitation income from our investment portfolio and interest expense on our debt. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Years Ended December 31, 
+ 
+ 
+ 
+ Variance 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ Amount 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ (Dollars in thousands) 
+ 
+ 
+ Total revenue 
+ 
+ 
+ 
+ $ 
+ 
+ 7,512 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 7,585 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (73 
+ 
+ ) 
+ 
+ 
+ 
+ (1.0 
+ 
+ ) 
+ 
+ 
+ Capital expenditures 
+ 
+ 
+ 
+ $ 
+ 
+ 247,223 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 266,213 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (18,990 
+ 
+ ) 
+ 
+ 
+ 
+ (7.1 
+ 
+ ) 
+ 
+ 
+ EBITDA 
+ 
+ 
+ 
+ $ 
+ 
+ 26,684 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (50,683 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ 77,367 
+ 
+ 
+ 
+ 
+ 
+ * 
+ 
+ 
+ * Percentage is not meaningful. 
+ 
+ Capital Expenditures 
+ 
+ For the year ended December 31, 2016 , All Other and Eliminations capital expenditures decreased by $19.0 million , or 7.1% , compared to the same period in 2015 , primarily related to a decrease of $71.9 million in satellite expenditures on the EchoStar XXIII satellite, partially offset by an increase of $55.3 million in satellite expenditures on the EchoStar XIX satellite. The EchoStar XIX satellite will be used to provide additional capacity for the Hughes broadband services in North America and certain Latin American countries and was contributed to the Hughes segment in the first quarter of 2017. The EchoStar XXI 
+ 
+ 
+ 54 
+ 
+ Table of Contents 
+ 
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS - Continued 
+ 
+ 
+ satellite is intended to be used by EchoStar Mobile in providing mobile satellite services in the European Union and the EchoStar XXIII satellite will be deployed at the 45 degree west longitude orbital location providing services in Brazil. 
+ 
+ EBITDA 
+ 
+ For the year ended December 31, 2016 , All Other and Eliminations EBITDA was $26.7 million in income compared to $50.7 million in loss for the same period in 2015 . The change of $77.4 million in EBITDA was primarily related to (i) a decrease of $44.2 million in cost of sales relating to the EchoStar XV satellite for services provided from DISH Network as a result of the termination of the satellite service agreement effective in November 2015 , (ii) an increase of $13.2 million in equity in earnings of unconsolidated affiliates, net in 2016 when compared to the same period in 2015, (iii) an other than temporary impairment loss of $11.2 million on certain strategic equity securities in 2015 , (iv) $6.0 million for a provision recorded in the first half of 2015 in connection with FCC regulatory fees, which was reversed in the first quarter of 2016, and (v) an increase of $5.6 million in realized gains on our securities classified as available-for-sale in 2016 . The increases were partially offset by an increase of $4.6 million in net loss attributable to the noncontrolling interest in HSS Tracking Stock. 
+ 
+ 
+ 
+ 55 
+ 
+ 
+ Table of Contents 
+ 
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS - Continued 
+ 
+ 
+ Year Ended December 31, 2015 Compared to the Year Ended December 31, 2014 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Years Ended December 31, 
+ 
+ 
+ 
+ Variance 
+ 
+ 
+ Statements of Operations Data (1) 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 2014 
+ 
+ 
+ 
+ Amount 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ (Dollars in thousands) 
+ 
+ 
+ Revenue: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Services and other revenue - DISH Network 
+ 
+ 
+ 
+ $ 
+ 
+ 918,301 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 828,612 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 89,689 
+ 
+ 
+ 
+ 
+ 
+ 10.8 
+ 
+ 
+ 
+ 
+ Services and other revenue - other 
+ 
+ 
+ 
+ 1,103,928 
+ 
+ 
+ 
+ 
+ 
+ 1,096,938 
+ 
+ 
+ 
+ 
+ 
+ 6,990 
+ 
+ 
+ 
+ 
+ 
+ 0.6 
+ 
+ 
+ 
+ 
+ Equipment revenue - DISH Network 
+ 
+ 
+ 
+ 763,184 
+ 
+ 
+ 
+ 
+ 
+ 1,145,979 
+ 
+ 
+ 
+ 
+ 
+ (382,795 
+ 
+ ) 
+ 
+ 
+ 
+ (33.4 
+ 
+ ) 
+ 
+ 
+ Equipment revenue - other 
+ 
+ 
+ 
+ 358,301 
+ 
+ 
+ 
+ 
+ 
+ 374,049 
+ 
+ 
+ 
+ 
+ 
+ (15,748 
+ 
+ ) 
+ 
+ 
+ 
+ (4.2 
+ 
+ ) 
+ 
+ 
+ Total revenue 
+ 
+ 
+ 
+ 3,143,714 
+ 
+ 
+ 
+ 
+ 
+ 3,445,578 
+ 
+ 
+ 
+ 
+ 
+ (301,864 
+ 
+ ) 
+ 
+ 
+ 
+ (8.8 
+ 
+ ) 
+ 
+ 
+ Costs and Expenses: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of sales - services and other 
+ 
+ 
+ 
+ 856,065 
+ 
+ 
+ 
+ 
+ 
+ 838,918 
+ 
+ 
+ 
+ 
+ 
+ 17,147 
+ 
+ 
+ 
+ 
+ 
+ 2.0 
+ 
+ 
+ 
+ 
+ % of Total services and other revenue 
+ 
+ 
+ 
+ 42.3 
+ 
+ % 
+ 
+ 
+ 
+ 43.6 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of sales - equipment 
+ 
+ 
+ 
+ 948,655 
+ 
+ 
+ 
+ 
+ 
+ 1,288,998 
+ 
+ 
+ 
+ 
+ 
+ (340,343 
+ 
+ ) 
+ 
+ 
+ 
+ (26.4 
+ 
+ ) 
+ 
+ 
+ % of Total equipment revenue 
+ 
+ 
+ 
+ 84.6 
+ 
+ % 
+ 
+ 
+ 
+ 84.8 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Selling, general and administrative expenses 
+ 
+ 
+ 
+ 374,116 
+ 
+ 
+ 
+ 
+ 
+ 372,010 
+ 
+ 
+ 
+ 
+ 
+ 2,106 
+ 
+ 
+ 
+ 
+ 
+ 0.6 
+ 
+ 
+ 
+ 
+ % of Total revenue 
+ 
+ 
+ 
+ 11.9 
+ 
+ % 
+ 
+ 
+ 
+ 10.8 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Research and development expenses 
+ 
+ 
+ 
+ 78,287 
+ 
+ 
+ 
+ 
+ 
+ 60,886 
+ 
+ 
+ 
+ 
+ 
+ 17,401 
+ 
+ 
+ 
+ 
+ 
+ 28.6 
+ 
+ 
+ 
+ 
+ % of Total revenue 
+ 
+ 
+ 
+ 2.5 
+ 
+ % 
+ 
+ 
+ 
+ 1.8 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Depreciation and amortization 
+ 
+ 
+ 
+ 528,158 
+ 
+ 
+ 
+ 
+ 
+ 556,676 
+ 
+ 
+ 
+ 
+ 
+ (28,518 
+ 
+ ) 
+ 
+ 
+ 
+ (5.1 
+ 
+ ) 
+ 
+ 
+ Impairment of long-lived assets 
+ 
+ 
+ 
+ 2,400 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 2,400 
+ 
+ 
+ 
+ 
+ 
+ * 
+ 
+ 
+ 
+ 
+ Total costs and expenses 
+ 
+ 
+ 
+ 2,787,681 
+ 
+ 
+ 
+ 
+ 
+ 3,117,488 
+ 
+ 
+ 
+ 
+ 
+ (329,807 
+ 
+ ) 
+ 
+ 
+ 
+ (10.6 
+ 
+ ) 
+ 
+ 
+ Operating income 
+ 
+ 
+ 
+ 356,033 
+ 
+ 
+ 
+ 
+ 
+ 328,090 
+ 
+ 
+ 
+ 
+ 
+ 27,943 
+ 
+ 
+ 
+ 
+ 
+ 8.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other Income (Expense): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Interest income 
+ 
+ 
+ 
+ 10,429 
+ 
+ 
+ 
+ 
+ 
+ 9,102 
+ 
+ 
+ 
+ 
+ 
+ 1,327 
+ 
+ 
+ 
+ 
+ 
+ 14.6 
+ 
+ 
+ 
+ 
+ Interest expense, net of amounts capitalized 
+ 
+ 
+ 
+ (122,066 
+ 
+ ) 
+ 
+ 
+ 
+ (171,349 
+ 
+ ) 
+ 
+ 
+ 
+ 49,283 
+ 
+ 
+ 
+ 
+ 
+ (28.8 
+ 
+ ) 
+ 
+ 
+ Loss from partial redemption of debt 
+ 
+ 
+ 
+ (5,044 
+ 
+ ) 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ (5,044 
+ 
+ ) 
+ 
+ 
+ 
+ * 
+ 
+ 
+ 
+ 
+ Gains (losses) and impairment on marketable investment securities, net 
+ 
+ 
+ 
+ (17,669 
+ 
+ ) 
+ 
+ 
+ 
+ 41 
+ 
+ 
+ 
+ 
+ 
+ (17,710 
+ 
+ ) 
+ 
+ 
+ 
+ * 
+ 
+ 
+ 
+ 
+ Equity in earnings of unconsolidated affiliates, net 
+ 
+ 
+ 
+ 1,895 
+ 
+ 
+ 
+ 
+ 
+ 8,198 
+ 
+ 
+ 
+ 
+ 
+ (6,303 
+ 
+ ) 
+ 
+ 
+ 
+ (76.9 
+ 
+ ) 
+ 
+ 
+ Other, net 
+ 
+ 
+ 
+ (2,006 
+ 
+ ) 
+ 
+ 
+ 
+ 4,251 
+ 
+ 
+ 
+ 
+ 
+ (6,257 
+ 
+ ) 
+ 
+ 
+ 
+ * 
+ 
+ 
+ 
+ 
+ Total other expense, net 
+ 
+ 
+ 
+ (134,461 
+ 
+ ) 
+ 
+ 
+ 
+ (149,757 
+ 
+ ) 
+ 
+ 
+ 
+ 15,296 
+ 
+ 
+ 
+ 
+ 
+ (10.2 
+ 
+ ) 
+ 
+ 
+ Income before income taxes 
+ 
+ 
+ 
+ 221,572 
+ 
+ 
+ 
+ 
+ 
+ 178,333 
+ 
+ 
+ 
+ 
+ 
+ 43,239 
+ 
+ 
+ 
+ 
+ 
+ 24.2 
+ 
+ 
+ 
+ 
+ Income tax provision, net 
+ 
+ 
+ 
+ (72,201 
+ 
+ ) 
+ 
+ 
+ 
+ (30,784 
+ 
+ ) 
+ 
+ 
+ 
+ (41,417 
+ 
+ ) 
+ 
+ 
+ 
+ * 
+ 
+ 
+ 
+ 
+ Net income 
+ 
+ 
+ 
+ 149,371 
+ 
+ 
+ 
+ 
+ 
+ 147,549 
+ 
+ 
+ 
+ 
+ 
+ 1,822 
+ 
+ 
+ 
+ 
+ 
+ 1.2 
+ 
+ 
+ 
+ 
+ Less: Net loss attributable to noncontrolling interest in HSS Tracking Stock 
+ 
+ 
+ 
+ (5,603 
+ 
+ ) 
+ 
+ 
+ 
+ (6,714 
+ 
+ ) 
+ 
+ 
+ 
+ 1,111 
+ 
+ 
+ 
+ 
+ 
+ (16.5 
+ 
+ ) 
+ 
+ 
+ Less: Net income attributable to other noncontrolling interests 
+ 
+ 
+ 
+ 1,617 
+ 
+ 
+ 
+ 
+ 
+ 1,389 
+ 
+ 
+ 
+ 
+ 
+ 228 
+ 
+ 
+ 
+ 
+ 
+ 16.4 
+ 
+ 
+ 
+ 
+ Net income attributable to EchoStar 
+ 
+ 
+ 
+ $ 
+ 
+ 153,357 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 152,874 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 483 
+ 
+ 
+ 
+ 
+ 
+ 0.3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other Data: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EBITDA (2) 
+ 
+ 
+ 
+ $ 
+ 
+ 865,353 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 902,581 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (37,228 
+ 
+ ) 
+ 
+ 
+ 
+ (4.1 
+ 
+ ) 
+ 
+ 
+ Subscribers, end of period 
+ 
+ 
+ 
+ 1,035,000 
+ 
+ 
+ 
+ 
+ 
+ 977,000 
+ 
+ 
+ 
+ 
+ 
+ 58,000 
+ 
+ 
+ 
+ 
+ 
+ 5.9 
+ 
+ 
+ * Percentage is not meaningful. 
+ (1) An explanation of our key metrics is included on pages 70 and 71 under the heading “Explanation of Key Metrics and Other Items.” 
+ (2) A reconciliation of EBITDA to “Net income,” the most directly comparable GAAP measure in the accompanying financial statements, is included on page 60 . For further information on our use of EBITDA, see “Explanation of Key Metrics and Other Items” on page 71. 
+ 
+ 
+ 
+ 56 
+ 
+ Table of Contents 
+ 
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS - Continued 
+ 
+ 
+ Services and other revenue — DISH Network . “ Services and other revenue — DISH Network ” totaled $918.3 million for the year ended December 31, 2015 , an increase of $89.7 million or 10.8% , compared to the same period in 2014 . 
+ 
+ Services and other revenue — DISH Network from our Hughes segment for the year ended December 31, 2015 increased by $13.7 million, or 16.9%, to $94.4 million compared to the same period in 2014 . The increase was primarily attributable to an increase in wholesale subscribers receiving services pursuant to our Distribution Agreement with dishNET. 
+ 
+ Services and other revenue — DISH Network from our EchoStar Technologies segment for the year ended December 31, 2015 increased by $59.6 million, or 18.1%, to $389.0 million compared to the same period in 2014 . The increase was primarily due to an increase of $57.0 million in revenue earned for engineering services related to Sling TV Holding and other projects and satellite uplink/downlink services. 
+ 
+ Services and other revenue — DISH Network from our ESS segment for the year ended December 31, 2015 increased by $16.2 million, or 4.0%, to $423.5 million compared to the same period in 2014 . The increase was mainly due to an increase of $26.9 million in revenue recognized from certain satellite services provided to DISH Network for the five satellites transferred to us from DISH Network as part of the Satellite and Tracking Stock Transaction. See Note 4 in the notes to consolidated financial statements in ITEM 15 of this report for further discussion related to the Satellite and Tracking Stock Transaction. The increase was partially offset by a decrease of $9.0 million in services provided to DISH Network on the EchoStar VIII and EchoStar XII satellites. 
+ 
+ Services and other revenue — other . “ Services and other revenue — other ” totaled $1.10 billion for the year ended December 31, 2015 an increase of $7.0 million , or 0.6% , compared to the same period in 2014 . 
+ 
+ Services and other revenue — other from our Hughes segment for the year ended December 31, 2015 increased by $26.2 million, or 2.6%, to $1.03 billion compared to the same period in 2014 . The increase was primarily attributable to an increase of $54.2 million in sales of broadband services to our domestic consumer customers, partially offset by a decrease of $24.7 million of broadband services to our international customers, primarily due to weakening foreign exchange rates in certain markets. 
+ 
+ Services and other revenue — other from our EchoStar Technologies segment for the year ended December 31, 2015 decreased by $10.6 million, or 51.1%, to $10.2 million compared to the same period in 2014 . The decrease was primarily attributable to a decrease of $6.1 million in revenue from system integration services and $4.7 million in revenue from certain non-recurring engineering projects and services. 
+ 
+ Services and other revenue — other from our ESS segment for the year ended December 31, 2015 decreased by $10.0 million, or 13.0%, to $67.1 million compared to the same period in 2014 . The decrease was primarily attributable to a decrease in sales of transponder services in 2015 compared to the same period in 2014 due to a decrease in transponders available for sale. 
+ 
+ Equipment revenue — DISH Network . “ Equipment revenue — DISH Network ” totaled $763.2 million for the year ended December 31, 2015 , a decrease of $382.8 million , or 33.4% , compared to the same period in 2014 . 
+ 
+ Equipment revenue — DISH Network from our Hughes segment for the year ended December 31, 2015 decreased by $21.2 million, or 66.3%, to $10.8 million compared to the same period in 2014 . The decrease was primarily due to the decrease in the volume of unit sales of broadband equipment to dishNET. Sales of broadband equipment to dishNET have been decreasing as a result of a decrease in the unit sales of broadband equipment to dishNET. 
+ 
+ Equipment revenue — DISH Network from our EchoStar Technologies segment for the year ended December 31, 2015 decreased by $361.6 million, or 32.5%, to $752.4 million compared to the same period in 2014 . The decrease in revenue was primarily due to a decrease in the sales of set-top boxes and related accessories. The decrease in revenue of set-top boxes was due to a 41.8% decrease in the volume of unit sales and a 2.1% decrease in the weighted average price of the set-top boxes sold. The decrease in revenue of related accessories was due to a 10.1% decrease in the volume of unit sales and an 8.6% decrease in the weighted average price of related accessories sold. 
+ 
+ 
+ 
+ 57 
+ 
+ Table of Contents 
+ 
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS - Continued 
+ 
+ 
+ Equipment revenue — other . “ Equipment revenue — other ” totaled $358.3 million for the year ended December 31, 2015 , a decrease of $15.7 million or 4.2% , compared to the same period in 2014 . 
+ 
+ Equipment revenue — other from our Hughes segment for the year ended December 31, 2015 increased by $0.9 million, or 0.4%, to $211.7 million compared to the same period in 2014 . The increase was mainly due to an increase of $5.8 million in sales of broadband equipment to our international customers and domestic enterprise customers, partially offset by a decrease of $5.5 million in sales of broadband equipment to our domestic consumer customers and government projects. 
+ 
+ Equipment revenue — other from our EchoStar Technologies segment for the year ended December 31, 2015 decreased by $16.5 million, or 10.1%, to $146.6 million compared to the same period in 2014 . The decrease was attributable to an 11.4% decrease in the volume of unit sales of related accessories, a 7.5% decrease in the weighted average price of set-top boxes sold primarily to our international customers and a 6.7% decrease in the weighted average price of related accessories. 
+ 
+ Cost of sales — services and other . “ Cost of sales — services and other ” totaled $856.1 million for the year ended December 31, 2015 , an increase of $17.1 million , or 2.0% , compared to the same period in 2014 . 
+ 
+ Cost of sales — services and other from our Hughes segment for the year ended December 31, 2015 decreased by $26.7 million, or 5.5%, to $456.7 million compared to the same period in 2014 . The decrease was primarily attributable to a decrease of $19.2 million in service costs of our broadband services provided to our international customers primarily due to lower in-country costs denominated in local currency and a decrease of $3.7 million in the cost of sales related to our domestic broadband services due to the decrease of third party space segment costs as customers either terminated services or migrated to our platform. 
+ 
+ Cost of sales — services and other from our EchoStar Technologies segment for the year ended December 31, 2015 increased by $35.8 million, or 14.5%, to $282.2 million compared to the same period in 2014 . The increase was primarily due to an increase in support costs related to engineering and uplink services provided in 2015 compared to the same period in 2014 . 
+ 
+ Cost of sales — services and other from our ESS segment for the year ended December 31, 2015 increased by $13.5 million, or 23.8%, to $70.2 million compared to the same period in 2014 . The increase was primarily due to an increase in cost of sales related to the commencement of the AMC-15 and AMC-16 satellite operating leases in the fourth quarter of 2014 and the first quarter of 2015, respectively. 
+ 
+ Cost of sales — equipment . “ Cost of sales — equipment ” totaled $948.7 million for the year ended December 31, 2015 , a decrease of $340.3 million , or 26.4% , compared to the same period in 2014 . 
+ 
+ Cost of sales — equipment from our Hughes segment for the year ended December 31, 2015 decreased by $13.9 million, or 6.6%, to $195.1 million compared to the same period in 2014 . The decrease was primarily attributable to a decrease in equipment costs related to the decrease in sales volume of broadband equipment to DISH Network related to our Distribution Agreement with dishNET, partially offset by an increase in the cost of sales of broadband equipment to our domestic enterprise customers. 
+ 
+ Cost of sales — equipment from our EchoStar Technologies segment for the year ended December 31, 2015 decreased by $326.4 million, or 30.2%, to $753.5 million compared to the same period in 2014 . The decrease was primarily attributable to a decrease in equipment costs related to the decrease in the volume of sales of set-top boxes and related accessories sold to DISH Network and a decrease in the volume of sales of set-top boxes and related accessories to our international customers. 
+ 
+ Research and development expenses . “ Research and development expenses ” totaled $78.3 million for the year ended December 31, 2015 , an increase of $17.4 million , or 28.6% , compared to the same period in 2014 . The increase was primarily related to an increase in research and development expense of $6.2 million and $11.2 million in our Hughes segment and EchoStar Technologies segment, respectively. The Company’s research and development activities vary based on the activity level and scope of other engineering and customer related development contracts. 
+ 
+ 
+ 
+ 58 
+ 
+ Table of Contents 
+ 
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS - Continued 
+ 
+ 
+ Depreciation and amortization . “ Depreciation and amortization ” expenses totaled $528.2 million for the year ended December 31, 2015 , a decrease of $28.5 million , or 5.1% , compared to the same period in 2014 . The decrease was primarily attributable to a decrease of $15.0 million in amortization expense from certain of our fully amortized other intangible assets, a decrease in depreciation expense of $18.5 million relating to the fully depreciated EchoStar VIII and EchoStar XII satellites and a decrease in depreciation expense of $3.5 million relating to the expiration of the capital lease for the AMC-15 satellite in December 2014. The decreases were partially offset by increases in depreciation of $7.9 million from our ESS segment, primarily due to the depreciation of the five satellites we received from DISH Network as part of the Satellite and Tracking Stock Transaction. 
+ 
+ Impairment of long-lived assets . “ Impairment of long-lived assets ” totaled $2.4 million for the year ended December 31, 2015 , an increase of $2.4 million compared to the same period in 2014 , due to the impairment of certain building and equipment in our EchoStar Technologies segment. 
+ 
+ Interest expense, net of amounts capitalized . “ Interest expense, net of amounts capitalized ” totaled $122.1 million for the year ended December 31, 2015 , a decrease of $49.3 million, or 28.8%, compared to the same period in 2014 . The decrease was primarily due to higher capitalized interest of $40.0 million related to the construction of the EchoStar XIX, EchoStar XXI, EchoStar XXIII, EchoStar 105/SES-11 and EUTELSAT 65 West A satellites, and a decrease in interest expense of $7.7 million relating to the partial redemption of $110.0 million of the principal amount of 2019 Senior Secured Notes in the second quarter of 2015, the expiration of capital leases for the AMC-15 and AMC-16 satellites, and interest expense relating to two of our satellites that are accounted for as capital leases . 
+ 
+ Loss from partial redemption of debt . “ Loss from partial redemption of debt ” totaled $5.0 million for the year ended December 31, 2015. In 2015, the $5.0 million loss was related to the partial redemption of the 2019 Senior Secured Notes in the second quarter of 2015 which included a $3.3 million redemption premium and a $1.7 million write off of related unamortized financing costs. 
+ 
+ Gains (losses) and impairment on marketable investment securities, net . “ Gains (losses) and impairment on marketable investment securities, net ” totaled $17.7 million in losses for the year ended December 31, 2015 , an increase in loss of $17.7 million compared to the same period in 2014 . The increase in loss was primarily due to other than temporary impairment losses of $11.2 million on certain strategic equity securities in our available-for-sale securities portfolio and an increase of $6.5 million in losses on our trading securities . 
+ 
+ Equity in earnings of unconsolidated affiliates, net . “ Equity in earnings of unconsolidated affiliates, net ” totaled $1.9 million in earnings for the year ended December 31, 2015 , a decrease of $6.3 million, or 76.9%, compared to the same period in 2014 . The decrease in earnings is primarily due to a $10.3 million non-recurring adjustment to increase our equity in earnings of unconsolidated affiliates to reflect an increase from 24.0% to 49.0% in our interest in Dish Mexico’s inception-to-date net income in 2014 and a net decrease of $6.2 million in our equity of earnings of certain unconsolidated affiliates in 2015. The decreases were partially offset by a $10.2 million equity in the net loss of Sling TV Holding in 2014. See Note 6 in the notes to consolidated financial statements in ITEM 15 of this report for further discussion of the agreement. 
+ 
+ Other, net . “ Other, net ” totaled $2.0 million in expenses for the year ended December 31, 2015 compared to $4.3 million in income for the same period in 2014 . The decrease of $6.3 million was primarily related to a loss of $6.8 million attributable to FCC regulatory fees , a gain of $5.8 million in 2014 related to our investment in TerreStar Networks Inc. (“TerreStar”), an increase of $4.7 million in foreign exchange losses and a loss of $2.6 million related to the deconsolidation of certain of our European subsidiaries in connection with our investment in SmarDTV. The decrease was partially offset by a $4.8 million gain on an instrument related to our trading securities, a $4.5 million reduction of the capital lease obligation for the AMC-15 and AMC-16 satellites in the first quarter of 2015 and a gain of $1.7 million on the exchange of accounts receivable for certain trading securities in the second quarter of 2015. 
+ 
+ Income tax provision, net . Income tax expense was $72.2 million for the year ended December 31, 2015 compared to $30.8 million for the same period in 2014 . Our effective income tax rate was 32.6% for the year ended December 31, 2015 compared to 17.3% for the same period in 2014 . The variation in our current year effective tax rate from the U.S. federal statutory rate was primarily due to research and experimentation tax credits. For the same period in 2014, the variation in our effective tax rate from the U.S. federal statutory rate was primarily due to research and experimentation tax credits and a lower state effective tax rate. 
+ 
+ 
+ 
+ 59 
+ 
+ Table of Contents 
+ 
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS - Continued 
+ 
+ 
+ Net income attributable to EchoStar . “ Net income attributable to EchoStar ” was $153.4 million for the year ended December 31, 2015 , an increase of $0.5 million, or 0.3%, compared to the same period in 2014 . The increase was primarily due to a decrease in interest expense of $49.3 million related to capitalization of interest expense associated with the construction of certain of our satellites, the partial redemption of the 2019 Senior Secured Notes, the expiration of capital leases for the AMC-15 and AMC-16 satellites, and interest expense relating to two of our satellites that are accounted for as capital leases , and an increase in operating income, including depreciation and amortization, of $27.9 million. The increases were partially offset by an increase of $41.4 million in income tax expense, an other-than-temporary impairment loss of $11.2 million on certain strategic equity securities in our marketable investment securities, offset partially by a $4.8 million gain on an instrument related to our trading securities, a $10.3 million non-recurring adjustment to increase our equity in earnings of unconsolidated affiliates to reflect an increase from 24.0% to 49.0% in our interest in Dish Mexico’s inception-to-date net income in 2014, a loss of $6.8 million attributable to FCC regulatory fees, a gain of $5.8 million in 2014 related to our investment in TerreStar and a loss of $5.0 million from the partial redemption of the 2019 Senior Secured Notes. 
+ 
+ Earnings before interest, taxes, depreciation and amortization (“EBITDA”) . EBITDA was $865.4 million for the year ended December 31, 2015 , a decrease of $37.2 million, or 4.1%, compared to the same period in 2014 . Gross margin, which we define as total revenue less total cost of sales, increased by $21.3 million. There was also a $4.8 million gain on an instrument related to our trading securities, as well as a $4.5 million reduction of the capital lease obligation for the AMC-15 and AMC-16 satellites in the first quarter of 2015. These increases in EBITDA were more than offset by increases in research and development expenses of $17.4 million, $16.1 million of non-recurring gains from 2014, an other-than-temporary impairment loss of $11.2 million on certain strategic equity securities, a loss of $6.8 million attributable to FCC regulatory fees, an increase of $4.7 million in foreign exchange losses, and a loss of $5.0 million from the partial redemption of the 2019 Senior Secured Notes. EBITDA is a non-GAAP financial measure and is described under Explanation of Key Metrics and Other Items below. The following table reconciles EBITDA to Net income , the most directly comparable GAAP measure in the accompanying financial statements. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Years Ended December 31, 
+ 
+ 
+ 
+ Variance 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 2014 
+ 
+ 
+ 
+ Amount 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ (Dollars in thousands) 
+ 
+ 
+ Net income 
+ 
+ 
+ 
+ $ 
+ 
+ 149,371 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 147,549 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,822 
+ 
+ 
+ 
+ 
+ 
+ 1.2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Interest income and expense, net 
+ 
+ 
+ 
+ 111,637 
+ 
+ 
+ 
+ 
+ 
+ 162,247 
+ 
+ 
+ 
+ 
+ 
+ (50,610 
+ 
+ ) 
+ 
+ 
+ 
+ (31.2 
+ 
+ ) 
+ 
+ 
+ Income tax provision, net 
+ 
+ 
+ 
+ 72,201 
+ 
+ 
+ 
+ 
+ 
+ 30,784 
+ 
+ 
+ 
+ 
+ 
+ 41,417 
+ 
+ 
+ 
+ 
+ 
+ * 
+ 
+ 
+ 
+ 
+ Depreciation and amortization 
+ 
+ 
+ 
+ 528,158 
+ 
+ 
+ 
+ 
+ 
+ 556,676 
+ 
+ 
+ 
+ 
+ 
+ (28,518 
+ 
+ ) 
+ 
+ 
+ 
+ (5.1 
+ 
+ ) 
+ 
+ 
+ Net (income) loss attributable to noncontrolling interest in HSS Tracking Stock and other noncontrolling interests 
+ 
+ 
+ 
+ 3,986 
+ 
+ 
+ 
+ 
+ 
+ 5,325 
+ 
+ 
+ 
+ 
+ 
+ (1,339 
+ 
+ ) 
+ 
+ 
+ 
+ (25.1 
+ 
+ ) 
+ 
+ 
+ EBITDA 
+ 
+ 
+ 
+ $ 
+ 
+ 865,353 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 902,581 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (37,228 
+ 
+ ) 
+ 
+ 
+ 
+ (4.1 
+ 
+ ) 
+ * Percentage is not meaningful. 
+ 
+ Segment Operating Results and Capital Expenditures 
+ 
+ Year Ended December 31, 2015 Compared to the Year Ended December 31, 2014 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Hughes 
+ 
+ 
+ 
+ EchoStar 
+ Technologies 
+ 
+ 
+ 
+ EchoStar 
+ Satellite 
+ Services 
+ 
+ 
+ 
+ All 
+ Other and 
+ Eliminations 
+ 
+ 
+ 
+ Consolidated 
+ Total 
+ 
+ 
+ 
+ 
+ 
+ 
+ (In thousands) 
+ 
+ 
+ For the Year Ended December 31, 2015 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total revenue 
+ 
+ 
+ 
+ $ 
+ 
+ 1,347,340 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,298,198 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 490,591 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 7,585 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 3,143,714 
+ 
+ 
+ 
+ 
+ Capital expenditures 
+ 
+ 
+ 
+ $ 
+ 
+ 285,499 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 50,593 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 101,215 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 266,213 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 703,520 
+ 
+ 
+ 
+ 
+ EBITDA 
+ 
+ 
+ 
+ $ 
+ 
+ 396,684 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 106,745 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 412,607 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (50,683 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ 865,353 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Year Ended December 31, 2014 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total revenue 
+ 
+ 
+ 
+ $ 
+ 
+ 1,327,718 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,627,366 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 484,455 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 6,039 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 3,445,578 
+ 
+ 
+ 
+ 
+ Capital expenditures 
+ 
+ 
+ 
+ $ 
+ 
+ 218,607 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 48,616 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 28,734 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 384,069 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 680,026 
+ 
+ 
+ 
+ 
+ EBITDA 
+ 
+ 
+ 
+ $ 
+ 
+ 356,871 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 154,786 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 419,442 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (28,518 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ 902,581 
+ 
+ 
+ 
+ 
+ 60 
+ 
+ Table of Contents 
+ 
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS - Continued 
+ 
+ 
+ 
+ Hughes Segment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Years Ended December 31, 
+ 
+ 
+ 
+ Variance 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 2014 
+ 
+ 
+ 
+ Amount 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ (Dollars in thousands) 
+ 
+ 
+ Total revenue 
+ 
+ 
+ 
+ $ 
+ 
+ 1,347,340 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,327,718 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 19,622 
+ 
+ 
+ 
+ 
+ 
+ 1.5 
+ 
+ 
+ Capital expenditures 
+ 
+ 
+ 
+ $ 
+ 
+ 285,499 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 218,607 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 66,892 
+ 
+ 
+ 
+ 
+ 
+ 30.6 
+ 
+ 
+ EBITDA 
+ 
+ 
+ 
+ $ 
+ 
+ 396,684 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 356,871 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 39,813 
+ 
+ 
+ 
+ 
+ 
+ 11.2 
+ 
+ Revenue 
+ 
+ Hughes segment total revenue for the year ended December 31, 2015 increased by $19.6 million, or 1.5%, compared to the same period in 2014 . The increase was primarily due to an increase of $70.5 million in revenue related to sales of broadband services to our consumer markets and dishNET. These increases were partially offset by a decrease of $24.7 million of broadband services to our international customers primarily due to weakening foreign exchange rates in certain markets and a decrease of $21.2 million in sales of broadband equipment to dishNET. 
+ 
+ Capital Expenditures 
+ 
+ Hughes segment capital expenditures for the year ended December 31, 2015 increased by $66.9 million, or 30.6%, compared to the same period in 2014 , primarily as a result of an increase in expenditures on satellite ground infrastructures and the EUTELSAT 65 West A satellite. 
+ 
+ EBITDA 
+ 
+ Hughes segment EBITDA for the year ended December 31, 2015 was $396.7 million, an increase of $39.8 million, or 11.2%, compared to the same period in 2014 . The increase was primarily driven by an increase of $66.6 million in gross margin primarily related to an increase in sales of broadband services to our consumer market and dishNET, offset partially by a decrease in broadband services to our international market, $11.3 million increase in selling, general and administrative expenses, and a $6.2 million increase in research and development expenses. 
+ 
+ EchoStar Technologies Segment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Years Ended December 31, 
+ 
+ 
+ 
+ Variance 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 2014 
+ 
+ 
+ 
+ Amount 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ (Dollars in thousands) 
+ 
+ 
+ Total revenue 
+ 
+ 
+ 
+ $ 
+ 
+ 1,298,198 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,627,366 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (329,168 
+ 
+ ) 
+ 
+ 
+ 
+ (20.2 
+ 
+ ) 
+ 
+ 
+ Capital expenditures 
+ 
+ 
+ 
+ $ 
+ 
+ 50,593 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 48,616 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,977 
+ 
+ 
+ 
+ 
+ 
+ 4.1 
+ 
+ 
+ 
+ 
+ EBITDA 
+ 
+ 
+ 
+ $ 
+ 
+ 106,745 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 154,786 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (48,041 
+ 
+ ) 
+ 
+ 
+ 
+ (31.0 
+ 
+ ) 
+ 
+ Revenue 
+ 
+ EchoStar Technologies segment total revenue for the year ended December 31, 2015 decreased by $329.2 million, or 20.2%, compared to the same period in 2014 , primarily resulting from a decrease of $361.6 million in equipment revenue from DISH Network, a decrease of $16.5 million in equipment revenue - other and a decrease of $10.6 million in service revenue — other, partially offset by an increase of $59.6 million in service revenue from DISH Network. 
+ 
+ Capital Expenditures 
+ 
+ EchoStar Technologies segment capital expenditures for the year ended December 31, 2015 increased by $2.0 million, or 4.1%, compared to the same period in 2014 , primarily due to increased expenditures related to the support of our OTT, SVOD platform business of $5.3 million and engineering services of $0.7 million, partially offset by a decrease in expenditures related to our digital broadcast centers of $5.0 million. 
+ 
+ 
+ 61 
+ 
+ Table of Contents 
+ 
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS - Continued 
+ 
+ 
+ 
+ EBITDA 
+ 
+ EchoStar Technologies segment EBITDA for the year ended December 31, 2015 was $106.7 million, a decrease of $48.0 million, or 31.0%, compared to the same period in 2014 . The decrease in EBITDA for our EchoStar Technologies segment was primarily driven by a decrease of $38.6 million in gross margin primarily as a result of the decrease in sales of set-top boxes and related accessories to DISH Network. The decrease in EBITDA was also the result of an increase of $11.2 million in research and development expense, a loss of $2.6 million related to the deconsolidation of certain of our European subsidiaries in connection with our investment in SmarDTV and an impairment loss of $2.4 million on certain building and equipment. The decreases were partially offset by a $9.4 million decrease in selling, general and administrative expenses. 
+ 
+ EchoStar Satellite Services Segment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Years Ended December 31, 
+ 
+ 
+ 
+ Variance 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 2014 
+ 
+ 
+ 
+ Amount 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ (Dollars in thousands) 
+ 
+ 
+ Total revenue 
+ 
+ 
+ 
+ $ 
+ 
+ 490,591 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 484,455 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 6,136 
+ 
+ 
+ 
+ 
+ 
+ 1.3 
+ 
+ 
+ 
+ 
+ Capital expenditures 
+ 
+ 
+ 
+ $ 
+ 
+ 101,215 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 28,734 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 72,481 
+ 
+ 
+ 
+ 
+ 
+ * 
+ 
+ 
+ 
+ 
+ EBITDA 
+ 
+ 
+ 
+ $ 
+ 
+ 412,607 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 419,442 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (6,835 
+ 
+ ) 
+ 
+ 
+ 
+ (1.6 
+ 
+ ) 
+ * Percentage is not meaningful. 
+ 
+ Revenue 
+ 
+ ESS segment total revenue for the year ended December 31, 2015 increased by $6.1 million, or 1.3%, compared to the same period in 2014 , primarily due to an increase of $16.2 million in service revenue primarily related to satellite services provided to DISH Network on the five satellites we received as part of the Satellite and Tracking Stock Transaction, partially offset by a decrease of $10.0 million in service revenue — other attributable to a decrease in sales of transponder services due to a decrease in transponders available for sale. 
+ 
+ Capital Expenditures 
+ 
+ ESS segment capital expenditures for the year ended December 31, 2015 increased by $72.5 million, compared to the same period in 2014 , primarily related to the increase in expenditures on the EchoStar 105/SES-11 satellite. 
+ 
+ EBITDA 
+ 
+ ESS segment EBITDA for the year ended December 31, 2015 was $412.6 million, a decrease of $6.8 million, or 1.6%, compared to the same period in 2014 . The decrease in EBITDA for our ESS segment was primarily due to an increase in cost of sales — services of $13.5 million primarily related to the commencement of the AMC-15 and AMC-16 satellite operating leases in the fourth quarter of 2014 and the first quarter of 2015, respectively, partially offset by an increase in service revenue. 
+ 
+ 
+ 
+ 62 
+ 
+ Table of Contents 
+ 
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS - Continued 
+ 
+ 
+ All Other and Eliminations 
+ 
+ All Other and Eliminations accounts for certain items and activities in our consolidated financial statements that have not been assigned to our operating segments. These include without limitation real estate and other activities, costs incurred in satellite development programs and other business development activities, expenses of various corporate departments, and our centralized treasury activities, including without limitation income from our investment portfolio and interest expense on our debt. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Years Ended December 31, 
+ 
+ 
+ 
+ Variance 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 2014 
+ 
+ 
+ 
+ Amount 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ (Dollars in thousands) 
+ 
+ 
+ Total revenue 
+ 
+ 
+ 
+ $ 
+ 
+ 7,585 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 6,039 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,546 
+ 
+ 
+ 
+ 
+ 
+ 25.6 
+ 
+ 
+ 
+ 
+ Capital expenditures 
+ 
+ 
+ 
+ $ 
+ 
+ 266,213 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 384,069 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (117,856 
+ 
+ ) 
+ 
+ 
+ 
+ (30.7 
+ 
+ ) 
+ 
+ 
+ EBITDA 
+ 
+ 
+ 
+ $ 
+ 
+ (50,683 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ (28,518 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ (22,165 
+ 
+ ) 
+ 
+ 
+ 
+ 77.7 
+ 
+ 
+ 
+ Capital Expenditures 
+ 
+ For the year ended December 31, 2015, All Other and Eliminations capital expenditures decreased by $117.9 million, or 30.7%, compared to the same period in 2014 , primarily related to a $105.8 million refund relating to the cancellation of an existing launch services agreement and a decrease in satellite expenditures on the EchoStar XIX satellite of $149.0 million and the EchoStar XXI satellite of $43.5 million, partially offset by the increase in satellite expenditures on the EchoStar XXIII satellite of $73.5 million. The EchoStar XIX satellite is expected to be used in the operations of our Hughes segment in providing satellite broadband services, the EchoStar XXI satellite is intended to be used by EchoStar Mobile in providing MSS in the EU, and the EchoStar XXIII satellite will be deployed at the 45 degree west longitude orbital location providing services in Brazil. 
+ 
+ EBITDA 
+ 
+ For the year ended December 31, 2015, All Other and Eliminations EBITDA was a loss of $50.7 million, compared a loss of $28.5 million for the same period in 2014 . The $22.2 million decrease in EBITDA was primarily related to $16.1 million of non-recurring gains from 2014 , an other-than-temporary impairment loss of $11.2 million on certain strategic equity securities in our marketable investment securities, offset partially by a $4.8 million gain on an instrument related to our trading securities, and a loss of $5.0 million from the partial redemption of the 2019 Senior Secured Notes. The decreases were partially offset by a decrease of $6.9 million in cost of sales relating to termination of satellite services on the EchoStar XV satellite from DISH Network in November 2015. 
+ 
+ 
+ LIQUIDITY AND CAPITAL RESOURCES 
+ 
+ Cash, Cash Equivalents and Current Marketable Investment Securities 
+ 
+ We consider all liquid investments purchased with an original maturity of 90 days or less to be cash equivalents. See ITEM 7A. — Quantitative and Qualitative Disclosures about Market Risk in this Annual Report on Form 10-K for further discussion regarding our marketable investment securities. 
+ 
+ As of December 31, 2016 , our cash, cash equivalents and current marketable investment securities totaled $3.09 billion compared to $1.54 billion as of December 31, 2015 , an increase of $1.56 billion . 
+ 
+ As of December 31, 2016 and 2015 , we held $522.5 million and $612.3 million , respectively, of various debt and equity instruments including corporate bonds, corporate equity securities, government bonds and mutual funds. 
+ 
+ The following discussion highlights our cash flow activities for the years ended December 31, 2016 , 2015 and 2014 . 
+ 
+ Cash flows from operating activities . We typically reinvest the cash flow from operating activities in our business. For the years ended December 31, 2016 , 2015 and 2014 , we reported net cash inflows from operating activities of $803.3 million , $776.5 million and $840.1 million , respectively. 
+ 
+ 
+ 
+ 63 
+ 
+ Table of Contents 
+ 
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS - Continued 
+ 
+ 
+ Net cash inflows from operating activities for the year ended December 31, 2016 increased by $26.9 million compared to the same period in 2015. The increase in cash inflows was primarily attributable to a decrease in cash outflows of $20.1 million resulting from timing differences in operating assets and liabilities and higher net income of $6.8 million adjusted to exclude: (i) “ Depreciation and amortization ;” (ii) “ Impairment of long-lived assets ;” (iii) “ Loss from partial redemption of debt ;” (iv) “ Equity in earnings of unconsolidated affiliates, net ;” (v) “ Losses (gains) and impairment on marketable investment securities, net ;” (vi) “ Stock-based compensation ;” (vii) “ Deferred tax provision ;” and “ Other, net .” 
+ 
+ Net cash inflows from operating activities for the year ended December 31, 2015 decreased by $63.7 million compared to the same period in 2014 . The decrease was primarily attributable to a decrease of $98.8 million resulting from timing differences in operating assets and liabilities , partially offset by higher net income of $35.1 million adjusted to exclude: (i) “ Depreciation and amortization ;” (ii) “ Impairment of long-lived assets ;” (iii) “ Loss from partial redemption of debt ;” (iv) “ Equity in earnings of unconsolidated affiliates, net ;” (v) “ Losses (gains) and impairment on marketable investment securities, net ;” (vi) “ Stock-based compensation ;” (vii) “ Deferred tax provision ;” and (viii)“ Other, net .” 
+ 
+ Cash flows from investing activities . Our investing activities generally include purchases and sales of marketable investment securities, capital expenditures, acquisitions, and strategic investments. For the years ended December 31, 2016 , 2015 and 2014 , we reported net cash outflows from investing activities of $632.3 million , $275.3 million and $887.6 million , respectively. 
+ 
+ Net cash outflows from investing activities for the year ended December 31, 2016 increased by $357.0 million compared to the same period in 2015 . The increase in cash outflows primarily related to an increase of $440.7 million in purchases of marketable investment securities, net of sales and maturities. The increase in cash outflows was partially offset by a $64.7 million investment in WorldVu and SmarDTV in the second quarter of 2015 , a decrease of $9.1 million in restricted cash relating to a release in funds for certain satellite slots as a result of a FCC settlement in 2016, an decrease of $5.3 million in capital expenditures, net of related refunds, in 2016 when compared to the same period in 2015 and the acquisition of a regulatory authorization in the first quarter of 2015 of $3.4 million . 
+ 
+ Net cash outflows from investing activities for the year ended December 31, 2015 decreased by $612.3 million compared to the same period in 2014 . The decrease in cash outflows primarily related to a decrease of $691.0 million in purchases of marketable investment securities, net of sales and maturities, a cash receipt of $105.8 million refund relating to the cancellation of an existing launch services agreement and capital contributions of $18.6 million to certain investees in 2014, partially offset by an increase in cash outflows primarily related to a $129.2 million increase in capital expenditures in 2015 when compared to the same period in 2014 , a $64.7 million investment in WorldVu and SmarDTV in the second quarter of 2015 , and the acquisition of a regulatory authorization in the first quarter of 2015 of $3.4 million . 
+ 
+ Cash flows from financing activities . Our financing activities generally include proceeds related to the issuance of debt and cash used for the repurchase, redemption or payment of debt and capital lease obligations, and the proceeds from Class A common stock options exercised and stock issued under our stock incentive plans and employee stock purchase plan. For the years ended December 31, 2016 , 2015 and 2014 , we reported net cash inflows from financing activities of $1.48 billion , net cash outflows from financing activities of $120.3 million , net cash outflows from financing activities of $35.1 million , respectively. 
+ 
+ Net cash inflows from financing activities increased by $1.60 billion for the year ended December 31, 2016 compared to the same period in 2015 . The increase in cash inflows was primarily due to the proceeds of $1.5 billion from the issuance of the 2026 Notes in the third quarter of 2016, the partial redemption of the 2019 Senior Secured Notes of $110.0 million and related premium of $3.3 million in the second quarter of 2015 , a decrease of $7.7 million in capital lease obligation payments relating to the expiration of the capital lease for the AMC-16 satellite, effective February 2015 , partially offset by a decrease of $11.3 million in net proceeds from Class A common stock options exercised and stock issued under our stock incentive plans and employee stock purchase plan, payments of debt issuance costs of $7.1 million , and a decrease of $3.1 million in excess tax benefits recognized on the exercise of stock options . 
+ 
+ Net cash outflows from financing activities increased by $85.2 million for the year ended December 31, 2015 compared to the same period in 2014 . The increase in cash outflows was primarily due to the partial redemption of the 2019 Senior Secured Notes of $110.0 million and related premium of $3.3 million in the second quarter of 2015 , and proceeds of $11.4 million, net of offering costs of $3.9 million from the issuance of our preferred tracking stock received in 2014, partially offset by a decrease of $22.7 million in capital lease obligation payments relating to the expiration of the capital lease for the AMC-16 
+ 
+ 
+ 64 
+ 
+ Table of Contents 
+ 
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS - Continued 
+ 
+ 
+ satellite, effective February 2015 , and an increase of $11.2 million in excess tax benefits recognized on the exercise of stock options . 
+ 
+ Obligations and Future Capital Requirements 
+ 
+ Contractual Obligations and Off-Balance Sheet Arrangements 
+ 
+ The following table summarizes our contractual obligations at December 31, 2016 : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Payments Due in the Year Ending December 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ 2019 
+ 
+ 
+ 
+ 2020 
+ 
+ 
+ 
+ 2021 
+ 
+ 
+ 
+ Thereafter 
+ 
+ 
+ 
+ 
+ 
+ 
+ (In thousands) 
+ 
+ 
+ Long-term debt 
+ 
+ 
+ 
+ $ 
+ 
+ 3,390,000 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 990,000 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 900,000 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,500,000 
+ 
+ 
+ 
+ 
+ Capital lease obligations 
+ 
+ 
+ 
+ 302,007 
+ 
+ 
+ 
+ 
+ 
+ 37,307 
+ 
+ 
+ 
+ 
+ 
+ 36,927 
+ 
+ 
+ 
+ 
+ 
+ 40,370 
+ 
+ 
+ 
+ 
+ 
+ 44,733 
+ 
+ 
+ 
+ 
+ 
+ 46,131 
+ 
+ 
+ 
+ 
+ 
+ 96,539 
+ 
+ 
+ 
+ 
+ Interest on long-term debt and capital lease obligations 
+ 
+ 
+ 
+ 1,487,583 
+ 
+ 
+ 
+ 
+ 
+ 252,999 
+ 
+ 
+ 
+ 
+ 
+ 248,428 
+ 
+ 
+ 
+ 
+ 
+ 212,318 
+ 
+ 
+ 
+ 
+ 
+ 175,799 
+ 
+ 
+ 
+ 
+ 
+ 136,673 
+ 
+ 
+ 
+ 
+ 
+ 461,366 
+ 
+ 
+ 
+ 
+ Satellite-related obligations 
+ 
+ 
+ 
+ 732,004 
+ 
+ 
+ 
+ 
+ 
+ 220,421 
+ 
+ 
+ 
+ 
+ 
+ 135,987 
+ 
+ 
+ 
+ 
+ 
+ 63,499 
+ 
+ 
+ 
+ 
+ 
+ 60,479 
+ 
+ 
+ 
+ 
+ 
+ 45,308 
+ 
+ 
+ 
+ 
+ 
+ 206,310 
+ 
+ 
+ 
+ 
+ Operating lease obligations 
+ 
+ 
+ 
+ 87,558 
+ 
+ 
+ 
+ 
+ 
+ 34,974 
+ 
+ 
+ 
+ 
+ 
+ 14,920 
+ 
+ 
+ 
+ 
+ 
+ 11,484 
+ 
+ 
+ 
+ 
+ 
+ 8,425 
+ 
+ 
+ 
+ 
+ 
+ 7,385 
+ 
+ 
+ 
+ 
+ 
+ 10,370 
+ 
+ 
+ 
+ 
+ Purchase and other obligations 
+ 
+ 
+ 
+ 105,923 
+ 
+ 
+ 
+ 
+ 
+ 105,923 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ 
+ 
+ $ 
+ 
+ 6,105,075 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 651,624 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 436,262 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,317,671 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 289,436 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,135,497 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 2,274,585 
+ 
+ 
+ 
+ “Satellite-related obligations” primarily include payments pursuant to agreements for the construction of the EchoStar XIX, EchoStar XXI, EchoStar XXIII, and EchoStar 105/SES-11 satellites; payments pursuant to launch services contracts and regulatory authorizations; executory costs for our capital lease satellites; costs under satellite service agreements; and in-orbit incentives relating to certain satellites; as well as commitments for long-term satellite operating leases and satellite service arrangements. 
+ 
+ Our “Purchase and other obligations” primarily consists of binding purchase orders for digital set-top boxes and related components. Our purchase obligations can fluctuate significantly from period to period due to, among other things, management’s control of inventory levels, and can materially impact our future operating asset and liability balances, and our future working capital requirements. 
+ 
+ The table above does not include amounts related to deferred tax liabilities, unrecognized tax positions and certain other amounts recorded in our noncurrent liabilities as the timing of any payments is uncertain. The table also excludes long-term deferred revenue and other long-term liabilities that do not require future cash payments. 
+ 
+ In certain circumstances, the dates on which we are obligated to pay our contractual obligations could change. 
+ 
+ Off-Balance Sheet Arrangements 
+ 
+ Other than the transactions described below, we generally do not engage in off-balance sheet financing activities or use derivative financial instruments for hedge accounting or speculative purposes. 
+ 
+ As of December 31, 2016 , we had $32.9 million of letters of credit and insurance bonds. Of this amount, $12.0 million was secured by restricted cash, $1.4 million was related to insurance bonds, and $19.5 million was issued under credit arrangements available to our foreign subsidiaries. Certain letters of credit are secured by assets of our foreign subsidiaries. 
+ 
+ As of December 31, 2016 , we had foreign currency forward contracts with a notional value of $3.0 million in place to partially mitigate foreign currency exchange risk . From time to time, we may enter into foreign currency forward contracts, or take other measures, to mitigate risks associated with foreign currency denominated assets, liabilities, commitments and anticipated foreign currency transactions . 
+ 
+ 
+ 
+ 65 
+ 
+ Table of Contents 
+ 
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS - Continued 
+ 
+ 
+ Satellite Insurance 
+ 
+ We historically have not carried in-orbit insurance on our satellites because we assessed that the cost of insurance was uneconomical relative to the risk of failures. Therefore, we generally bear the risk of any in-orbit failures. Pursuant to the terms of the agreements governing certain portions of our indebtedness, we are required, subject to certain limitations on coverage, to maintain in-orbit insurance for our SPACEWAY 3, EchoStar XVI, and EchoStar XVII satellites. Based on economic analysis of the current insurance market we have elected to obtain, subject to certain limitations on coverage, launch and in-orbit insurance for our EchoStar XIX, EchoStar XXI and EchoStar XXIII satellites and our interest in the EchoStar 105/SES-11 satellite. All other satellites, either in orbit or under construction, are not covered by launch or in-orbit insurance. We will continue to assess circumstances going forward and make insurance decisions on a case by case basis. 
+ 
+ Future Capital Requirements 
+ 
+ We primarily rely on our existing cash and marketable investment securities balances, as well as cash flow generated through our operations to fund our business. There can be no assurance that we will have positive cash flows from operations. Furthermore, if we experience negative cash flows, our existing cash and marketable investment securities balances may be reduced. 
+ 
+ We currently depend on DISH Network for a substantial portion of our revenue and our cash flow from operations. If the Share Exchange is not consummated, to the extent that DISH Network’s gross new subscriber activations decrease or DISH Network experiences a net loss of subscribers, sales of our digital set-top boxes and related components to DISH Network may continue to decline, which in turn could have a material adverse effect on our financial position and results of operations. If the Share Exchange is consummated, we expect to no longer generate cash flow from our EchoStar Technologies segment. 
+ 
+ We have a significant amount of outstanding indebtedness. As of December 31, 2016 , our total indebtedness was $3.66 billion , of which $302.0 million related to capital lease obligations. For a discussion of the terms of our indebtedness, see Note 11 in the notes to consolidated financial statements in ITEM 15 of this report Our liquidity requirements will be significant, primarily due to our debt service requirements. In addition, our future capital expenditures are likely to increase if we make acquisitions or additional investments in infrastructure or joint ventures necessary to support and expand our business, or if we decide to purchase one or more additional satellites. Other aspects of our business operations may also require additional capital. We periodically evaluate various strategic initiatives, the pursuit of which could also require us to invest or raise significant additional capital, which may not be available on acceptable terms or at all. 
+ 
+ We anticipate that our existing cash and marketable investment securities are sufficient to fund the currently anticipated operations of our business through the next twelve months. 
+ 
+ Satellites 
+ 
+ As our satellite fleet ages, we will be required to evaluate replacement alternatives such as acquiring, leasing or constructing additional satellites, with or without customer commitments for capacity. We may also construct or lease additional satellites in the future to provide satellite services at additional orbital locations or to improve the quality of our satellite services. 
+ 
+ Stock Repurchases 
+ 
+ Pursuant to a stock repurchase program approved by our board of directors, we are authorized to repurchase up to $500.0 million of our outstanding shares of Class A common stock through December 31, 2017 . For the years ended December 31, 2016 , 2015 and 2014 , we did not repurchase any common stock under this program. 
+ 
+ 
+ 
+ 66 
+ 
+ Table of Contents 
+ 
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS - Continued 
+ 
+ 
+ Critical Accounting Policies and Estimates 
+ 
+ The preparation of consolidated financial statements in conformity with GAAP requires us to make certain estimates, judgments and assumptions that affect the reported amounts of assets and liabilities at the date of the balance sheets, the reported amounts of revenue and expenses for each reporting period, and certain information disclosed in the notes to consolidated financial statements in ITEM 15 of this report . We base our estimates, judgments, and assumptions on historical experience and on various other factors that we believe to be relevant under the circumstances. Actual results may differ from previously estimated amounts, and such differences may be material to our consolidated financial statements. We review our estimates and assumptions periodically, and the effects of revisions are reflected in the period they occur or prospectively if the revised estimate affects future periods. The following represent what we believe are the critical accounting policies that may involve a high degree of estimation, judgment and complexity. For a summary of our significant accounting policies, including those discussed below, see Note 2 in the notes to consolidated financial statements in ITEM 15 of this report . 
+ 
+ Marketable Securities and Other Investments 
+ 
+ We hold investments in debt and equity securities of various companies, including marketable investments in publicly traded securities and non-marketable investments in securities of privately held companies. Our marketable investment securities ordinarily are accounted for as available-for-sale; accordingly, we report those securities at fair value on a recurring basis and generally recognize unrealized gains and losses in other comprehensive income (loss). Except in unusual circumstances, the estimated fair values of our marketable investment securities are determined by reference to quoted prices for identical securities or based primarily on other observable market inputs. Our investments in non-marketable securities typically are strategic investments in privately held companies and may be highly speculative. We account for such investments using the equity method when we exercise significant influence over the investee; otherwise, we account for such investments using the cost method. 
+ 
+ All of our investments are subject to quarterly evaluations to determine whether an other-than-temporary impairment has occurred, in which case we record an impairment loss in determining net income. For our marketable investment securities, our impairment evaluation considers factors such as the length of time the security has been in a continuous unrealized loss position, the magnitude of the unrealized loss, current market conditions, company-specific information, and whether we have the intent and ability to hold the investment in the foreseeable future. Generally, it is not practicable to estimate fair value of our cost method and equity method investments on a recurring basis. Our impairment evaluation for such investments considers whether events or changes in circumstances have occurred that may have a significant adverse effect on the fair value of the investment. As part of our evaluation, we review available information such as recent company financial statements, business plans and current economic conditions for factors that may indicate an impairment of our investments. When we determine that an investment is impaired and the impairment is other than temporary, we adjust the carrying amount of the investment to its estimated fair value and recognize an impairment loss in earnings. In these circumstances, our fair value estimates may reflect significant unobservable inputs. 
+ 
+ Our periodic investment impairment evaluations require us to make significant estimates, judgments and assumptions about uncertain future events. In some cases, there may be limited or no observable market data to support significant assumptions in our estimates. As a result of weakening economic conditions, or other future events and changes in circumstances affecting our investments, we may subsequently determine that an investment is impaired or that an existing impairment is other than temporary. Such events and changes in circumstances could result in our recognition of material investment impairment losses in the future. 
+ 
+ Impairment of Long-lived Assets 
+ 
+ We evaluate our long-lived assets other than goodwill and intangible assets with indefinite lives for impairment whenever events and changes in circumstances indicate that their carrying amounts may not be recoverable. The carrying amount of a long-lived asset or asset group is considered to not be recoverable when the estimated future undiscounted cash flows from such asset or asset group is less than its carrying amount. In that event, an impairment loss is recorded in the determination of operating income based on the amount by which the carrying amount exceeds the estimated fair value of the long-lived asset or asset group. Fair value is determined primarily using discounted cash flow techniques reflecting the estimated cash flows and discount rate that would be assumed by a market participant for the asset or asset group under review. Our discounted cash flow estimates typically include assumptions based on unobservable inputs and may reflect probability-weighting of alternative scenarios. Estimated losses on long-lived assets to be disposed of by sale may be determined in a similar manner, except that 
+ 
+ 
+ 67 
+ 
+ Table of Contents 
+ 
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS - Continued 
+ 
+ 
+ fair value estimates are reduced for estimated selling costs. Changes in estimates of future cash flows, discount rates and other assumptions could result in recognition of additional impairment losses in future periods. 
+ 
+ Impairment of Goodwill and Indefinite-lived Intangible Assets 
+ 
+ We test our goodwill for impairment annually and more frequently when events or changes in circumstances indicate that an impairment may have occurred. There are two steps to the goodwill impairment test. Step one compares the fair value of a reporting unit with its carrying amount, including goodwill. If the reporting unit’s carrying amount exceeds its estimated fair value, it is necessary to perform the second step of the impairment test, which compares the implied fair value of reporting unit goodwill with the carrying amount of such goodwill to determine the amount of impairment loss. We may bypass the two-step quantitative impairment test when we determine based on a qualitative assessment that it is more likely than not that the fair value of a reporting unit exceeds its carrying amount including goodwill. 
+ 
+ As of December 31, 2016 , our goodwill consisted primarily of goodwill assigned to reporting units of the Hughes segment. We test such goodwill annually in our second fiscal quarter. Based on our qualitative assessment of impairment of the goodwill assigned to the Hughes segment in the second quarter of each of 2016 and 2015 , we determined that no further testing of goodwill for impairment was necessary as it was more likely than not that the fair values of the Hughes segment reporting units exceeded their corresponding carrying amounts. Depending on our assessment of future events and changes in circumstances, we may be required to perform the two-step quantitative impairment test in the future. We may determine that some or all of our goodwill is impaired in connection with future impairment tests. 
+ 
+ Our indefinite-lived intangible assets consist primarily of regulatory authorizations for the use of spectrum in specified orbital locations. We test these intangible assets annually in our fourth fiscal quarter, or more frequently if events or changes in circumstances indicate that an impairment may have occurred. We recognize an impairment loss in the determination of operating income when we determine that the carrying amount of an intangible asset exceeds its estimated fair value. Fair value is determined primarily using discounted cash flow techniques reflecting the estimated cash flows and discount rate that we believe would be assumed by market participants. Our cash flow projections typically include significant assumptions based on unobservable inputs. Changes in economic conditions, laws and regulations, technology, competition and other factors could affect the assumptions reflected in our fair value estimates and may result in future intangible asset impairments. We may bypass the quantitative impairment test when we determine based on a qualitative assessment that it is not more likely than not that an indefinite-lived intangible asset is impaired. 
+ 
+ Revenue Recognition 
+ 
+ Our Hughes segment enters into contracts to design, develop, and deliver telecommunication networks to customers in our enterprise and mobile satellite systems markets. Those contracts require significant effort to develop and construct the network over an extended time period. Revenue from such contracts is recognized using the percentage-of-completion method. Depending on the nature of the arrangement, we measure progress toward completion using the cost-to-cost method or the units-of-delivery method. Under the cost-to-cost method, revenue reflects the ratio of costs incurred to estimated total costs at completion. Under the units-of-delivery method, revenue and related costs are recognized as products are delivered based on the expected profit for the entire agreement. Profit margins on long-term contracts are based on estimates of total revenue and costs at completion. We review and revise our estimates periodically and recognize related adjustments in the period in which the revisions are made. Estimated losses on contracts are recorded in the period in which they are identified. Changes in our periodic estimates for these contracts could result in significant adjustments to our revenue or costs, which could be material to our consolidated results of operations. 
+ 
+ Income Taxes 
+ 
+ We record deferred tax assets and liabilities for the estimated future tax effects of temporary differences between the tax bases of assets and liabilities and their corresponding carrying amounts reported in our consolidated balance sheets, as well as for operating loss and tax credit carryforwards. Determining necessary valuation allowances for deferred tax assets requires us to make assessments about the timing of future events, including the probability of expected future taxable income and available tax planning opportunities. We periodically evaluate the need for valuation allowances based on both historical evidence, including trends, and future expectations. Our future operating results and other events and circumstances could have a significant effect on the realization of tax benefits. Those future events and circumstances could require significant adjustments to our valuation allowances in future periods, which could be material to our consolidated results of operations. 
+ 
+ 
+ 68 
+ 
+ Table of Contents 
+ 
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS - Continued 
+ 
+ 
+ 
+ Management evaluates the recognition and measurement of uncertain tax positions based on applicable tax law, regulations, case law, administrative rulings and pronouncements, and the facts and circumstances surrounding the tax position. Changes in our estimates related to the recognition and measurement of the amount recorded for uncertain tax positions could result in significant adjustments to our income tax provision or benefit in future periods, which could be material to our consolidated results of operations. 
+ 
+ Contingent Liabilities 
+ 
+ We record an accrual for litigation and other loss contingencies when we determine that a loss is probable and the amount of the loss can be reasonably estimated. Legal fees and other costs of defending litigation are charged to expense as incurred. A significant amount of management judgment is required in determining whether an accrual should be recorded for a loss contingency and the amount of such accrual. Estimates generally are developed in consultation with legal counsel and are based on an analysis of potential outcomes. Due to the inherent uncertainty in determining the likelihood of potential outcomes and the potential financial statement impact of such outcomes, it is possible that upon further development or resolution of a contingent matter, charges related to existing loss contingencies could be recorded in future periods, which could be material to our consolidated results of operations and financial position. 
+ 
+ New Accounting Pronouncements 
+ 
+ For a discussion of new accounting pronouncements, see Note 2 in the notes to consolidated financial statements in ITEM 15 of this report . We are continuing to assess the impact of adopting the recently issued accounting pronouncements on our consolidated financial statements and related disclosures. 
+ 
+ Seasonality 
+ 
+ For our Hughes segment, service revenue is generally not impacted by seasonal fluctuations other than those associated with fluctuations related to sales and promotional activities. However, like many communications infrastructure equipment vendors, a higher amount of our hardware revenue occurs in the second half of the year due to our customers’ annual procurement and budget cycles. Large enterprises and operators often allocate their capital expenditure budgets at the beginning of their fiscal year (which often coincides with the calendar year). The typical sales cycle for large complex system procurements is six to 12 months, which often results in the customer expenditure occurring towards the end of the year. Customers often seek to expend the budgeted funds prior to the end of the year and the next budget cycle. 
+ 
+ For our EchoStar Technologies segment, we are affected by seasonality to the extent it impacts our customers as a result of their sales and promotion activities, which can vary from year to year. Although the seasonal impacts have not been significant, historically, the first half of the year generally produces fewer new subscribers for the pay-TV industry than the second half of the year. However, we cannot provide assurance that this trend will continue in the future. 
+ 
+ Our ESS segment is not generally affected by seasonal impacts. 
+ 
+ Inflation 
+ 
+ In flation has not materially affected our operations during the past three years. We believe that our ability to increase the prices charged for our products and services in future periods will depend primarily on competitive pressures or contractual terms. 
+ 
+ 
+ 69 
+ 
+ Table of Contents 
+ 
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS - Continued 
+ 
+ 
+ 
+ 
+ EXPLANATION OF KEY METRICS AND OTHER ITEMS 
+ 
+ Services and other revenue — DISH Network . “ Services and other revenue — DISH Network ” primarily includes revenue associated with satellite and transponder services, satellite uplinking/downlinking, signal processing, conditional access management, telemetry, tracking and control, development of web-based applications for set-top boxes, professional services, facilities rental revenue and other services provided to DISH Network. “ Services and other revenue — DISH Network ” also includes subscriber wholesale service fees for the Hughes service sold to dishNET. 
+ 
+ Services and other revenue — other . “ Services and other revenue — other ” primarily includes the sales of enterprise and consumer broadband services, as well as maintenance and other contracted services. “ Services and other revenue — other ” also includes revenue associated with satellite and transponder services, satellite uplinking/downlinking and other services provided to customers other than DISH Network. 
+ 
+ Equipment revenue — DISH Network . “ Equipment revenue — DISH Network ” primarily includes sales of digital set-top boxes and related components, including Slingbox products and related hardware products, and sales of satellite broadband equipment and related equipment, primarily related to the Hughes service, to DISH Network. 
+ 
+ Equipment revenue — other . “ Equipment revenue — other ” primarily includes sales of digital set-top boxes and related components to Bell TV, Dish Mexico and other domestic and international customers, including sales of Slingbox products and related hardware products, and sales of broadband equipment and networks to customers in our enterprise and consumer markets. 
+ 
+ Cost of sales — services and other . “ Cost of sales — services and other ” primarily includes the cost of broadband services provided to our enterprise and consumer customers, and to DISH Network, as well as the cost of providing maintenance and other contracted services. “ Cost of sales — services and other ” also includes the costs associated with satellite and transponder services, satellite uplinking/downlinking, signal processing, conditional access management, telemetry, tracking and control, product support and development of applications for set-top boxes, professional services, facilities rental costs, and other services provided to our customers, including DISH Network. 
+ 
+ Cost of sales — equipment . “ Cost of sales — equipment ” principally includes costs associated with digital set-top boxes and related components sold to DISH Network, Bell TV, Dish Mexico and other domestic and international customers, including costs associated with Slingbox products and related hardware products. “ Cost of sales — equipment ” also includes the cost of broadband equipment and networks sold to customers in our enterprise and consumer markets, and to DISH Network. 
+ 
+ Selling, general and administrative expenses . “ Selling, general and administrative expenses ” primarily includes selling and marketing costs and employee-related costs associated with administrative services (e.g., information systems, human resources and other services), including stock-based compensation expense. It also includes professional fees (e.g. legal, information systems and accounting services) and other items associated with facilities and administrative services provided by DISH Network and other third parties. 
+ 
+ Research and development expenses . “ Research and development expenses ” primarily includes costs associated with the design and development of products to support future growth and provide new technology and innovation to our customers. 
+ 
+ Impairment of long-lived assets . “ Impairment of long-lived assets ” includes our impairment losses related to our property and equipment, goodwill and other intangible assets. 
+ 
+ Interest income . “ Interest income ” primarily includes interest earned on our cash, cash equivalents and marketable investment securities, including premium amortization and discount accretion on debt securities. 
+ 
+ Interest expense, net of amounts capitalized . “ Interest expense, net of amounts capitalized ” primarily includes interest expense associated with our debt and capital lease obligations (net of capitalized interest), and amortization of debt issuance costs. 
+ 
+ 
+ 
+ 70 
+ 
+ Table of Contents 
+ 
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS - Continued 
+ 
+ 
+ Loss from partial redemption of debt . “ Loss from partial redemption of debt ” primarily includes the loss from the partial redemption of the 2019 Senior Secured Notes representing the redemption premium that the Company paid to the holders of its 2019 Senior Secured Notes and the write-off of related unamortized debt issuance costs. 
+ 
+ Gains (losses) and impairment on marketable investment securities, net . “ Gains (losses) and impairment on marketable investment securities, net ” primarily includes gains, net of any losses, on the sale or exchange of investments and other-than-temporary impairment on certain of our marketable investment securities. 
+ 
+ Equity in earnings of unconsolidated affiliates, net . “ Equity in earnings of unconsolidated affiliates, net ” includes earnings or losses from our investments accounted for under the equity method. 
+ 
+ Other, net . “ Other, net ” primarily includes foreign exchange gains and losses, dividends received from our marketable investment securities, and other non-operating income or expense items that are not appropriately classified elsewhere in our consolidated statements of operations and comprehensive income (loss) . 
+ 
+ Earnings before interest, taxes, depreciation and amortization (“EBITDA”). EBITDA is defined as “ Net income ” excluding “ Interest expense, net of amounts capitalized ,” “ Interest income ,” “ Income tax provision, net ,” and “ Depreciation and amortization .” EBITDA is not a measure determined in accordance with GAAP. This non-GAAP measure is reconciled to “ Net income ” in our discussion of “Results of Operations” above. EBITDA should not be considered in isolation or as a substitute for operating income, net income or any other measure determined in accordance with GAAP. EBITDA is used by our management as a measure of operating efficiency and overall financial performance for benchmarking against our peers and competitors. Management believes EBITDA provides meaningful supplemental information regarding the underlying operating performance of our business. Management also believes that EBITDA is useful to investors because it is frequently used by securities analysts, investors, and other interested parties to evaluate the performance of companies in our industry. 
+ 
+ Subscribers. “Subscribers” include customers that subscribe to our Hughes segment’s HughesNet broadband services, through retail, wholesale and small/medium enterprise service channels. 
+ 
+ 
+ 71 
+ 
+ 
+ Table of Contents 
+ 

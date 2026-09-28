@@ -1,0 +1,7381 @@
+ ITEM 7. 
+ 
+ 
+ 
+ MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+ 
+ Overview 
+ 
+ We are a global commercial-stage biopharmaceutical company developing novel therapeutics based on RNAi. RNAi is a naturally occurring biological pathway within cells for sequence-specific silencing and regulation of gene expression. By harnessing the RNAi pathway, we have developed a new class of innovative medicines, known as RNAi therapeutics. RNAi therapeutics are comprised of siRNA, and function upstream of conventional medicines by potently silencing mRNA that encode for disease-causing proteins, thus preventing them from being made. We believe this is a revolutionary approach with the potential to transform the care of patients with genetic and other diseases. Our efforts to advance this revolutionary approach culminated with the approval in 2018 of the first ever RNAi therapeutic, ONPATTRO, for the treatment of the polyneuropathy of hATTR amyloidosis in adults in the U.S. and for the treatment of hATTR amyloidosis in adults with Stage 1 or Stage 2 polyneuropathy in the EU. 
+ 
+ Our research and development strategy is to target genetically validated liver-expressed genes that have been implicated in the cause or pathway of human disease. We utilize a LNP or GalNAc conjugate approach to enable hepatic delivery of siRNAs. For delivery to the CNS and eye (ocular delivery), we intend to utilize an alternative conjugate approach. Our focus is on clinical indications where there is a high unmet need, early biomarkers for the assessment of clinical activity in Phase 1 clinical studies, and a definable path for drug development, regulatory approval, patient access and commercialization. 
+ 
+ We are committed to the advancement of our Alnylam 2020 strategy of building a multi-product, commercial biopharmaceutical company with a sustainable pipeline of RNAi therapeutics to address the needs of patients who have limited or inadequate treatment options. Specifically, our broad pipeline of investigational RNAi therapeutics is focused in four STArs: Genetic Medicines; Cardio-Metabolic Diseases; Hepatic Infectious Diseases; and CNS/Ocular Diseases. In August 2018, we received regulatory approval for ONPATTRO from the FDA for the treatment of the polyneuropathy of hATTR amyloidosis in adults. Also, in August 2018, the EC granted marketing authorisation for ONPATTRO for the treatment of hATTR amyloidosis in adults with Stage 1 or Stage 2 polyneuropathy. We began selling ONPATTRO in the U.S. in August 2018 and in Germany in October 2018, and are now marketing ONPATTRO in several additional countries in Europe . During 2018, we also submitted regulatory applications for the approval of ONPATTRO in Japan, Canada and Switzerland. Regulatory filings in additional markets in Europe and elsewhere are planned throughout 2019. 
+ 
+ In January 2019, we sold 5,000,000 shares of our common stock through an underwritten public offering at a price to the public of $77.50 per share. As a result of the offering, we received aggregate net proceeds of approximately $382 million. 
+ 
+ We have incurred significant losses since we commenced operations in 2002 and expect such losses to continue for the foreseeable future. At December 31, 2018, we had an accumulated deficit of $2.84 billion. Historically, we have generated losses principally from costs associated with research and development activities, acquiring, filing and expanding intellectual property rights, and selling, general and administrative costs. As a result of planned expenditures for research and development activities relating to our research platform, our drug development programs, including clinical trial and manufacturing costs, the establishment of late stage clinical and commercial capabilities, including global operations, continued management and growth of our patent portfolio, collaborations and general corporate activities, we expect to incur additional operating losses for the foreseeable future. We also anticipate that our operating results will fluctuate for the foreseeable future. Therefore, period-to-period comparisons should not be relied upon as predictive of the results in future periods. 
+ 
+ We currently have programs focused on a number of therapeutic areas and, as noted above, in August 2018, received regulatory approval from the FDA and EC for our first product, ONPATTRO . As a result of the regulatory approval of ONPATTRO, we began to generate net revenues from product sales during the third quarter of 2018. However, our ongoing development efforts may not be successful and we may not be able to commence sales of any other products and/or successfully market and sell ONPATTRO or any other approved products in the future. A substantial portion of our total revenues in recent years has been derived from collaboration revenues from strategic alliances with Sanofi Genzyme and MDCO. In addition to revenues from the commercial sale of ONPATTRO and potentially from sales of future products, we expect our sources of potential funding for the next several years to continue to be derived in part from existing and new strategic alliances, which may include license and other fees, funded research and development, milestone payments and royalties on product sales by our licensors, and proceeds from the sale of equity or debt . 
+ 
+ Research and Development 
+ 
+ Since our inception, we have focused on drug discovery and development programs. Research and development expenses represent a substantial percentage of our total operating expenses, as reflected by our broad pipeline of clinical development programs, which includes multiple programs in late-stage development. 
+ 
+ 76 
+ 
+ 
+ 
+ 
+ There is a risk that any drug discovery or development program may not produce revenue for a variety of reasons, including the possibility that we will not be able to adequately demonstrate the safety and effectiveness of the product candidate. Moreover, there are uncertainties specific to any new field of drug discovery, including RNAi. The success of any product candidate we develop is highly uncertain. Due to the numerous risks associated with developing drugs, we cannot reasonably estimate or know the nature, timing and estimated costs of the efforts necessary to complete the development of, or the period, if any, in which material net cash inflows will commence from, any potential product candidate. 
+ 
+ Any failure to complete any stage of the development of any potential products in a timely manner could have a material adverse effect on our operations, financial position and liquidity. A discussion of some of the risks and uncertainties associated with completing our projects on schedule, or at all, and the potential consequences of failing to do so, are set forth in Part I, ITEM 1A of this annual report on Form 10-K under the heading “Risk Factors.” 
+ 
+ Strategic Alliances 
+ 
+ Our business strategy is to develop and commercialize a broad pipeline of RNAi therapeutic products directed towards our four STArs. As part of this strategy, we have entered into, and expect to enter into additional, collaboration and licensing agreements as a means of obtaining resources, capabilities and funding to advance our investigational RNAi therapeutic programs . 
+ 
+ Our collaboration strategy is to form alliances that create significant value for ourselves and our collaborators in the advancement of RNAi therapeutics as a new class of innovative medicines. Specifically, with respect to our Genetic Medicine pipeline, we formed a broad strategic alliance with Sanofi Genzyme in 2014 pursuant to which we retain development and commercial rights for our current and future Genetic Medicine products in the U.S., Canada and Western Europe, and Sanofi Genzyme will develop and commercialize our current and future Genetic Medicine products for which it elects to opt-in, in the Sanofi Genzyme Territory, subject to certain broader rights. In January 2018, we and Sanofi Genzyme amended our 2014 Sanofi Genzyme collaboration and entered into the Exclusive TTR License with respect to all TTR products, including ONPATTRO, vutrisiran and any back-up products, and the AT3 License Terms with respect to fitusiran and any back-up products. The 2018 amendment, together with the Exclusive TTR License and the AT3 License Terms, revised the terms and conditions of the 2014 collaboration to (i) provide us with the exclusive right to pursue the further global development and commercialization of all TTR products, including ONPATTRO, vutrisiran and any back-up products, (ii) provide Sanofi Genzyme the exclusive right to pursue the further global development and commercialization of fitusiran and any back-up products and (iii) terminate the previous co-development and co-commercialization rights related to revusiran, vutrisiran and fitusiran under the 2014 Sanofi Genzyme collaboration. Sanofi Genzyme continues to have the right to opt into our other rare genetic disease programs for development and commercialization in territories outside of the Alnylam Territory as contemplated in the 2014 Sanofi Genzyme collaboration, as well as one right to a global license . 
+ 
+ With respect to our Cardio-Metabolic pipeline, we intend to seek future strategic alliances for these programs, under which we may retain certain product development and commercialization rights, or we may structure as global alliances, as we did in our collaboration with MDCO to advance inclisiran. In March 2018, we entered into a discovery collaboration with Regeneron to identify RNAi therapeutics for NASH and potentially ot her related diseases, and in November 2018, we and Regeneron entered into a separate, fifty-fifty collaboration to further research, co-develop and commercialize any therapeutic product candidates that emerge from these discovery efforts. 
+ 
+ With respect to our Hepatic Infectious Disease pipeline, in October 2017, we announced an exclusive licensing agreement with Vir for the development and commercialization of RNAi therapeutics for infectious diseases, including chronic HBV infection. 
+ 
+ We may also seek future collaborations, including potentially global licenses, for one or more programs in our early stage CNS/ocular pipeline. 
+ 
+ Critical Accounting Policies and Estimates 
+ 
+ Our discussion and analysis of our financial condition and results of operations is based on our consolidated financial statements, which have been prepared in accordance with GAAP. The preparation of our consolidated financial statements requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses and disclosure of contingent assets and liabilities in our consolidated financial statements. Actual results may differ from these estimates under different assumptions or conditions and could have a material impact on our reported results. While our significant accounting policies are more fully described in the Notes to our consolidated financial statements included elsewhere in this annual report on Form 10-K, we believe the following accounting policies to be the most critical in understanding the judgments and estimates we use in preparing our consolidated financial statements: 
+ 
+ 77 
+ 
+ 
+ 
+ 
+ Revenue Recognition 
+ 
+ We began to record revenues from product sales in the third quarter of 2018 subsequent to the approval of ONPATTRO by the FDA in August 2018. Prior to the third quarter of 2018, all of our revenues were derived from collaboration agreements that we have entered into with leading pharmaceutical and life sciences companies, including Sanofi Genzyme and MDCO. The terms of our collaboration agreements may include consideration such as non-refundable license fees, funding of research and development services, payments due upon the achievement of clinical and pre-clinical performance-based development milestones, regulatory milestones, manufacturing services, sales-based milestones and royalties on product sales. 
+ 
+ On January 1, 2018, we adopted the new revenue standard, discussed below under the heading “Recent Accounting Pronouncements,” which amended revenue recognition principles and provides a single, comprehensive set of criteria for revenue recognition within and across all industries. Our adoption of the new revenue standard had a material impact on our consolidated financial statements, as discussed below under the heading “Recent Accounting Pronouncements.” This new revenue standard applies to all contracts with customers, except for contracts that are within the scope of other standards, such as leases, insurance, collaboration arrangements and financial instruments. The new revenue standard provides a five-step framework whereby revenue is recognized when control of promised goods or services is transferred to a customer at an amount that reflects the consideration to which the entity expects to be entitled in exchange for those goods or services. To determine revenue recognition for arrangements that we determine are within the scope of the new revenue standard, we perform the following five steps: (i) identify the contract(s) with a customer; (ii) identify the performance obligations in the contract; (iii) determine the transaction price; (iv) allocate the transaction price to the performance obligations in the contract; and (v) recognize revenue when (or as) we satisfy a performance obligation. We only apply the five-step model to contracts when collectability of the consideration to which we are entitled in exchange for the goods or services we transfer to the customer is determined to be probable. At contract inception, once the contract is determined to be within the scope of the new revenue standard, we assess whether the goods or services promised within each contract are distinct and, therefore, represent a separate performance obligation. Goods and services that are determined not to be distinct are combined with other promised goods and services until a distinct bundle is identified. We then allocate the transaction price (the amount of consideration we expect to be entitled to from a customer in exchange for the promised goods or services) to each performance obligation and recognize the associated revenue when (or as) each performance obligation is satisfied. Our estimate of the transaction price for each contract includes all variable consideration to which we expect to be entitled. 
+ 
+ Amounts are recorded as accounts receivable when our right to consideration is unconditional. We do not assess whether a contract has a significant financing component if the expectation at contract inception is that the period between payment by the customer and the transfer of the promised goods or services to the customer will be one year or less. We expense incremental costs of obtaining a contract as and when incurred if the expected amortization period of the asset that we would have recognized is one year or less or the amount is immaterial. At December 31, 2018, we had not capitalized any costs to obtain any of our contracts. 
+ 
+ During 2018, all of our net revenues from collaborators were attributed to the U.S. and the majority of our net product revenues were attributed to the U.S. During 2017 and 2016, all of our revenues were attributed to the U.S. and consisted solely of net revenues from collaborators. 
+ 
+ Product revenues, net 
+ 
+ In the third quarter of 2018, following FDA approval in August 2018, we began to ship ONPATTRO in the U.S. to specialty pharmacies, or SPs, and a specialty distributor, or SD, referred to as our customers. Our U.S. customers subsequently resell ONPATTRO to health care providers. We also received approval from the EC in August 2018 and launched ONPATTRO in several countries in Europe during the fourth quarter of 2018, where we primarily sell to government-owned and supported customers, including hospitals. We recognize product revenues, net of variable consideration related to certain allowances and accruals, in our consolidated financial statements at the time of sale. In the event the variable consideration is constrained, we include an amount to the extent it is probable that a significant reversal in the amount of cumulative revenue recognized will not occur in a future reporting period. We use the expected value method to estimate variable consideration related to ONPATTRO sales. We do not have any material constraints on our variable consideration included within the transaction price of our ONPATTRO revenue arrangements. Each unit of ONPATTRO that is ordered by our customers represents a separate performance obligation that is completed when control of the product is transferred to our customer, which occurs upon delivery of the product to the customer. We record revenues, net of variable consideration and any applicable constraint, at that point in time. We record shipping and handling costs within cost of goods sold on our consolidated statements of comprehensive loss. We classify payments to distributors and other customers in the distribution channel for services that have a separate benefit and fair value as selling, general and administrative expenses on our consolidated statements of comprehensive loss. We have elected to exclude taxes collected from our customers and remitted to governmental authorities from the measurement of the transaction price. We periodically evaluate the creditworthiness of our customers. 
+ 
+ 78 
+ 
+ 
+ 
+ 
+ The following are the components of variable consideration related to product revenues . We record reserves, based on contractual terms, for these components related to product sold during the reporting period, as well as our estimate of product that remains in the distribution channel inventory at the end of the reporting period that we expect will be sold to qualified healthcare providers. On a quarterly basis, we update our estimates and record any needed adjustments in the period we identify the adjustments. 
+ 
+ Chargebacks: We estimate obligations resulting from contractual commitments with the government and other entities to sell products to qualified healthcare providers at prices lower than the list prices charged to the SD who purchases ONPATTRO from us. The SD charges us for the difference between what the SD pays to us for the product and the selling price to the qualified healthcare providers. 
+ 
+ Rebates: We are subject to discount obligations under government programs, including Medicaid in the U.S. and similar programs in certain countries in Europe . We are also subject to potential rebates in connection with our value-based agreements with certain commercial payors. We record reserves for rebates in the same period the related product revenue is recognized, resulting in a reduction of ONPATTRO product revenues and a current liability that is included in accrued expenses on our consolidated balance sheet. Our estimate for rebates is based on statutory discount rates and expected utilization. 
+ 
+ Trade discounts and allowances: We provide customary invoice discounts on ONPATTRO sales to our customers for prompt payment and we pay fees for distribution services, such as fees for certain data that customers provide to us. We estimate our customers will earn these discounts and fees, and deduct these discounts and fees in full from gross ONPATTRO revenues and accounts receivable at the time we recognize the related revenues. 
+ 
+ Product returns: ONPATTRO may be returned if it is damaged, defective or expired, with “expired” defined as having three months or less to expiry or within three months past expiry. We estimate the amount of product that will be returned using a probability-weighted estimate, initially calculated based on a portfolio of data from similar products and industry experience for SP products. Based on the distribution model for ONPATTRO, contractual inventory limits with our customers, the price of ONPATTRO and limited contractual return rights, we believe there will be minimal ONPATTRO returns. We have recorded an initial refund liability for our estimate of ONPATTRO returns related to sales during the year ended December 31, 2018. We will update our estimated refund liability, on at least a quarterly basis, based on actual shipments of ONPATTRO subject to contractual return rights, changes in expectations about the amount of estimated refunds or actual returns as data is known. 
+ 
+ Other incentives: Other incentives include co-payment assistance we provide to patients with commercial insurance that have coverage and reside in states that allow co-payment assistance. We estimate the average co-payment assistance amounts for ONPATTRO based on expected customer demographics and record any such amounts within accrued expenses on our consolidated balance sheet. 
+ 
+ During 2018, we recorded product revenues, net, of $12.5 million, which consist of commercial sales of ONPATTRO in the U.S. and several countries in Europe. 
+ 
+ Revenues from Collaborators 
+ 
+ We recognize the transaction price allocated to upfront license payments as revenue upon delivery of the license to the customer and resulting ability of the customer to use and benefit from the license, if the license is determined to be distinct from the other performance obligations identified in the contract. If the license is considered to not be distinct from other performance obligations, we utilize judgment to assess the nature of the combined performance obligation to determine whether the combined performance obligation is satisfied (i) at a point in time, but only for licenses determined to be distinct from other performance obligations in the contract, or (ii) over time; and, if over time, the appropriate method of measuring progress for purposes of recognizing revenue from license payments. We evaluate the measure of progress each reporting period and, if necessary, adjust the measure of performance and related revenue recognition. 
+ 
+ Many of our collaboration agreements entitle us to additional payments upon the achievement of performance-based milestones. These milestones are generally categorized into three types: development milestones, which are generally based on the advancement of our pipeline and initiation of clinical trials; regulatory milestones, which are generally based on the submission, filing or approval of regulatory applications such as an NDA in the U.S.; and sales-based milestones, which are generally based on meeting specific thresholds of sales in certain geographic areas. For each collaboration that includes development milestone payments, we evaluate whether it is probable that the consideration associated with each milestone will not be subject to a significant reversal in the cumulative amount of revenue recognized. Amounts that meet this threshold are included in the transaction price using the most likely amount method, whereas amounts that do not meet this threshold are considered constrained and excluded from the transaction price until they meet this threshold. Milestones tied to regulatory approval, and therefore not within our control, are considered constrained until such approval is received. Upfront and ongoing development milestones per our collaboration agreements are not subject to 
+ 
+ 79 
+ 
+ 
+ 
+ 
+ refund if the development activities are not successful. At the end of each subsequent reporting period, we re-evaluate the probability of a significant reversal of the cumulative revenue recognized for our milestones, and, if necessary, adjust our estimate of the overall transaction price. Any such adjustments are recorded on a cumulative catch-up basis, which would affect revenues from collaborators and loss in the period of adjustment. We exclude sales-based royalties and milestone payments from the transaction price until the sale occurs (or, if later, the underlying performance obligation to which some or all of the royalty has been allocated has been satisfied, or partially satisfied), because the license to our intellectual property is deemed to be the predominant ITEM to which the royalties relate as it is the primary driver of value. Currently, we have not recognized any royalty revenue resulting from any of our agreements. 
+ 
+ The new revenue standard, which was adopted in January 2018, requires us to allocate the arrangement consideration on a relative standalone selling price basis for each performance obligation after determining the transaction price of the contract and identifying the performance obligations to which that amount should be allocated. The relative standalone selling price is defined in the new revenue standard as the price at which an entity would sell a promised good or service separately to a customer. If other observable transactions in which we have sold the same performance obligation separately are not available, we are required to estimate the standalone selling price of each performance obligation. Key assumptions to determine the standalone selling price may include forecasted revenues, development timelines, reimbursement rates for personnel costs, discount rates and probabilities of technical and regulatory success. 
+ 
+ Whenever we determine that a contract should be accounted for as a combined performance obligation over time, we determine the period over which the performance obligations will be performed and revenue will be recognized. Revenue is recognized using a cost-to-cost input model. Direct labor hours or full-time equivalents are typically used as the measure of performance. Significant management judgment is required in determining the level of effort required under an arrangement and the period over which we are expected to complete our performance obligations under an arrangement. 
+ 
+ We evaluate our collaborative agreements for proper classification in our consolidated statements of comprehensive loss based on the nature of the underlying activity. Transactions between collaborators recorded in our consolidated statements of comprehensive loss are recorded on either a gross or net basis, depending on the characteristics of the collaborative relationship. We generally reflect amounts due under our collaborative agreements related to cost-sharing of development activities as revenue if we have a vendor-customer relationship with our collaborator. Costs incurred or shared with our collaboration partners that are deemed to be joint-risk sharing activities are recorded as an adjustment to the related operating expense captions. 
+ 
+ For revenue generating arrangements where we, as a vendor, provide consideration to a licensor or collaborator, as a customer, we apply the accounting standard that governs such transactions. This standard addresses the accounting for revenue arrangements where both the vendor and the customer make cash payments to each other for services and/or products. A payment to a customer is presumed to be a reduction of the transaction price unless we receive an identifiable benefit for the payment and we can reasonably estimate the fair value of the benefit received. Payments to a customer that are deemed a reduction of the transaction price are recorded first as a reduction of revenue, to the extent of both cumulative revenue recorded to date and probable future revenues, which include any unamortized deferred revenue balances, under all arrangements with such customer, and then as an expense. Payments that are not deemed to be a reduction of the transaction price are recorded as an expense. 
+ 
+ Consideration that does not meet the requirements to satisfy the above revenue recognition criteria is recorded as deferred revenue in the accompanying consolidated balance sheets. Although we follow detailed guidelines in measuring revenue, certain judgments affect the application of our revenue policy. For example, in connection with our existing collaboration agreements, we have recorded on our consolidated balance sheets short-term and long-term deferred revenue based on our best estimate of when such revenue will be recognized. Short-term deferred revenue consists of amounts that are expected to be recognized as revenue in the next 12 months. Amounts that we expect will not be recognized within the next 12 months are classified as long-term deferred revenue. However, this estimate is based on our current operating plan and, if our operating plan should change in the future, we may recognize a different amount of deferred revenue over the next 12-month period. 
+ 
+ The estimate of deferred revenue also reflects management’s estimate of the periods of our involvement in certain of our collaborations. Our performance obligations under these collaborations consist of participation on steering committees and the performance of other research and development services. In certain instances, the timing of satisfying these obligations can be difficult to estimate. Accordingly, our estimates may change in the future. Such changes to estimates would result in a change in revenue recognition amounts. If these estimates and judgments change over the course of these agreements, it may affect the timing and amount of revenue that we recognize and record in future periods. At December 31, 2018, we had short-term and long-term deferred revenue of $3.5 million and $0.5 million, respectively, all of which was related to our collaboration with Vir. 
+ 
+ 80 
+ 
+ 
+ 
+ 
+ Sanofi Genzyme. In January 2014, we entered into a global, strategic collaboration with Sanofi Genzyme to discover, develop and commercialize RNAi therapeutics as Genetic Medicines to treat orphan diseases, referred to as the 2014 Sanofi Genzyme collaboration. The 2014 Sanofi Genzyme collaboration superseded and replaced the previous collaboration between us and Sanofi Genzyme entered into in October 2012 to develop and commercialize RNAi therapeutics targeting TTR for the treatment of hereditary ATTR amyloidosis, including patisiran and revusiran, in Japan and the Asia-Pacific region. 
+ 
+ On January 6, 2018, we and Sanofi Genzyme entered into an amendment to our 2014 Sanofi Genzyme collaboration. In connection and simultaneously with entering into the amendment to the 2014 Sanofi Genzyme collaboration, we and Sanofi Genzyme also entered into the Exclusive TTR License and the AT3 License Terms. As a result, we have the exclusive right to pursue the further global development and commercialization of all TTR products, including ONPATTRO, vutrisiran and any back-up products, and Sanofi Genzyme has the exclusive right to pursue the further global development and commercialization of fitusiran and any back-up products. 
+ 
+ The January 2018 transaction was subject to customary closing conditions and clearances, including clearance under the Hart-Scott-Rodino Antitrust Improvements Act, and closed during the first quarter of 2018. 
+ 
+ Under the 2012 Sanofi Genzyme agreement, Sanofi Genzyme paid us an upfront cash payment of $22.5 million. We were also entitled to receive certain milestone payments under the 2012 Sanofi Genzyme agreement. In the fourth quarter of 2013, we earned $11.0 million in patisiran development milestones under the 2012 Sanofi Genzyme agreement. 
+ 
+ We determined that the deliverables under the 2012 Sanofi Genzyme agreement included the license, a joint steering committee and any additional TTR-specific RNAi therapeutic compounds that comprised the TTR program. We also determined that, pursuant to the accounting guidance governing revenue recognition on multiple element arrangements, the license and undelivered joint steering committee and any additional TTR-specific RNAi therapeutic compounds did not have standalone value due to the specialized nature of the services to be provided by us. In addition, while Sanofi Genzyme had the ability to grant sublicenses, it could not sublicense all or substantially all of its rights under the 2012 Sanofi Genzyme agreement. The uniqueness of our services and the limited sublicense right were indicators that standalone value was not present in the arrangement. Therefore, the deliverables were not separable and, accordingly, the license and undelivered services were treated as a single unit of accounting. We were unable to reasonably estimate the period of performance under the 2012 Sanofi Genzyme agreement, as we were unable to estimate the timeline of our deliverables related to the deliverable for any additional TTR-specific RNAi therapeutic compounds. Through December 31, 2013, under the prior revenue standard, we had deferred all revenue, or $33.5 million, under the 2012 Sanofi Genzyme agreement. 
+ 
+ In January 2014, we entered into the 2014 Sanofi Genzyme collaboration. As noted above, the 2014 Sanofi Genzyme collaboration superseded and replaced the 2012 Sanofi Genzyme agreement and was amended in January 2018, at which time we also entered into the Exclusive TTR License and the AT3 License Terms. Under the 2014 Sanofi Genzyme collaboration, we retain full product rights in the Alnylam Territory, while Sanofi Genzyme will obtain exclusive rights to develop and commercialize collaboration products in the Sanofi Genzyme Territory, together with worldwide rights for one product. Upon the effective date of the 2014 Sanofi Genzyme collaboration, Sanofi Genzyme expanded the scope of its regional license and collaboration for patisiran for the Sanofi Genzyme Territory. We and Sanofi Genzyme also expanded our existing collaboration on revusiran, to include a co-development/co-commercialize license and collaboration in the Alnylam Territory. In October 2016, we discontinued our revusiran clinical development program. In September 2015, Sanofi Genzyme elected to opt into our fitusiran clinical development program under the regional license terms and began funding the program under the regional license terms in January 2016. In November 2016, Sanofi Genzyme exercised its right to co-develop and co-commercialize fitusiran in the Alnylam Territory, while retaining its rights to exclusively develop and commercialize the product in the Sanofi Genzyme Territory. Sanofi Genzyme shared in fifty percent of the global development costs for fitusiran in accordance with the co-development/co-commercialize license terms. In connection with the exercise of this right, Sanofi Genzyme paid us approximately $6.0 million in January 2017 for its incremental share of co-development costs incurred from January 2016 through September 2016. 
+ 
+ Sanofi Genzyme’s rights with respect to patisiran and fitusiran were modified in connection with the 2018 amendment, the Exclusive TTR License and the AT3 License Terms. Sanofi Genzyme continues to have the right to opt into our future rare genetic disease programs for development and commercialization in the Sanofi Genzyme Territory as contemplated in the 2014 Sanofi Genzyme collaboration, as well as one right to a global license. In connection with the 2018 amendment, the Exclusive TTR License and the AT3 License Terms , we and Sanofi Genzyme terminated the co-development and co-commercialization rights related to revusiran, vutrisiran and fitusiran under the original 2014 Sanofi Genzyme collaboration. No future rights will be granted to Sanofi Genzyme for co-development and co-commercialization under the 2014 Sanofi Genzyme collaboration, as amended. Please read Note 4 to our consolidated financial statements included in Part II, ITEM 8, “Financial Statements and Supplementary Data,” of this annual report on Form 10-K for our discussion of the terms of the Exclusive TTR License and the AT3 License Terms. 
+ 
+ Sanofi Genzyme will be required to make payments totaling up to $75.0 million per regional product, consisting of up to $55.0 million in development milestones and $20.0 million in commercial milestones. Sanofi Genzyme will also be required to pay tiered double-digit royalties up to twenty percent for each regional product based on annual net sales, if any, of such regional product by 
+ 
+ 81 
+ 
+ 
+ 
+ 
+ Sanofi Genzyme, its affiliates and sublicensees. In consideration for the rights granted to Sanofi Genzyme under the co-development/co-commercialize license terms, Sanofi Genzyme was required to make certain milestone payments for fitusiran, and, prior to the discontinuation of our revusiran clinical development program, was required to make certain milestone payments for revusiran. In December 2014, we earned a development milestone payment of $25.0 million based upon the initiation of the first global Phase 3 clinical trial for revusiran. Finally, with respect to its one global product right, Sanofi Genzyme will be required to make payments totaling up to $200.0 million for such global product, including up to $100.0 million in development milestones and $100.0 million in commercial milestones. Sanofi Genzyme will also be required to pay tiered double-digit royalties up to twenty percent for such global product based on annual net sales, if any, of such global product by Sanofi Genzyme, its affiliates and sublicensees. 
+ 
+ Due to the uncertainty of pharmaceutical development and the high historical failure rates generally associated with drug development, we may not receive any additional milestone payments or any royalty payments from Sanofi Genzyme under the 2014 Sanofi Genzyme collaboration, as amended, or any royalty payments under the AT3 License Terms. 
+ 
+ As noted above, the Sanofi Genzyme collaboration originally entered into in 2012 was materially modified during its term when the agreement was amended in 2014, prior to our adoption of the new revenue standard on January 1, 2018. In accordance with the new revenue standard, we evaluated the Sanofi Genzyme collaboration with the aggregate effect of all modifications when identifying performance obligations, determining the transaction price and allocating the transaction price. We determined that certain promises included in these agreements are within the scope of the new revenue standard since Sanofi Genzyme is a customer with respect to the license of the rights to its territories. We also determined, however, that certain aspects of these agreements are within the scope of the collaboration accounting guidance with respect to co-commercialization activities as these activities are joint risk-sharing and are not reflective of a vendor-customer relationship. We apply the new revenue standard to all promises associated with the transfer of goods and services to a customer. 
+ 
+ We concluded that Sanofi Genzyme meets the definition of a customer as we were delivering intellectual property and know-how rights as well as research and development activities for the TTR programs and fitusiran programs in support of territories in which we are not jointly sharing the risks and rewards. We concluded that the accounting for the original 2014 Sanofi Genzyme collaboration, and the collaboration, as amended, should be assessed as separate contracts for (i) the patisiran and revusiran (TTR) programs, upon the initiation of the 2014 Sanofi Genzyme collaboration, and (ii) the subsequent opt-in by Sanofi Genzyme for the fitusiran program. In addition, we determined that the Sanofi Genzyme collaboration met the requirements to be accounted for as a contract, including that it is probable that we will collect the consideration to which we are entitled in exchange for the goods or services that will be delivered to Sanofi Genzyme. We identified contract promises or deliverables for licenses to our intellectual property and know-how rights, associated development activities, joint steering committee participation and information exchange. We determined that, pursuant to the new revenue standard (and consistent with our accounting prior to the adoption of the new revenue standard), the performance obligations were not separately identifiable and were not distinct (and did not have standalone value) due to the specialized nature of the services to be provided by us and the dependent relationship between the performance obligations. Given this fact pattern, we concluded each of the TTR and fitusiran contracts have a single identified or combined performance obligation. 
+ 
+ When applying the previous revenue standard, we determined that the co-commercialization activities prior to the 2018 amendment were within the scope of the collaboration accounting standard since both parties would actively participate in the co-commercialization and be subject to significant risks and rewards. As a result of this determination, we recorded any payments or cash receipts for these joint risk-sharing activities as an adjustment to the related operations expense captions. The amounts recorded as a reduction of our selling, general and administrative activities were not material. 
+ 
+ The transaction price as of January 1, 2018 of $127.6 million for the 2014 Sanofi Genzyme collaboration related to the license to the TTR programs included the $22.5 million upfront payment and $11.0 million of development milestone payments earned under the now superseded 2012 Sanofi Genzyme agreement, a $25.0 million development milestone payment for revusiran achieved in 2014, the estimated patisiran and revusiran cost-share reimbursements, net of payments to Sanofi Genzyme, of $63.6 million and $57.0 million, respectively, and the $51.5 million equity discount related to the stock purchase agreement, described below. Since the fair value of the stock at the time of closing was more than the consideration received by us by $51.5 million, we reduced the transaction price of the license and collaboration contract, treating the equity discount in a manner consistent with a payment to the customer. The transaction price related to our license to the fitusiran program as of January 1, 2018, accounted for as a separate agreement, included estimated fitusiran development cost-share reimbursements of $147.3 million, net of payments to Sanofi Genzyme. There are no refund provisions in the agreement and, therefore, none of the consideration received to date has been excluded from the transaction price calculation. None of the unearned milestones as of January 1, 2018 were included in the transaction price, as all unearned milestone amounts were not considered likely of achievement. We considered several factors, including that achievement of the milestones is outside our control and contingent upon success in clinical trials and regulatory decisions and the licensee’s efforts. Any consideration related to sales-based royalties (including milestones) will be recognized when the related sales occur as they were determined to relate predominantly to the license granted to Sanofi Genzyme and as a result have also been excluded from the transaction price. 
+ 
+ 82 
+ 
+ 
+ 
+ 
+ We allocated the transaction price to the combined performance obligation. We have determined that this combined performance obligation is satisfied over time based on our performance that is creating or enhancing an asset that Sanofi Genzyme controls. In this instance, Sanofi Genzyme received control over the asset, or the licensed intellectual property, and know-how, at the time the contract was executed since the licensed intellectual property and know-how meet the definition of functional intellectual property per the new revenue standard, which defines functional intellectual property as intellectual property that derives a substantial portion of its utility from its standalone functionality rather than the entity’s ongoing activities (thus, once the asset is fully developed, our ongoing involvement is not required for the licensee to derive value). The other promises included in the performance obligation, however, are enhancing the controlled asset, and thus the combined performance obligation is being satisfied over time. 
+ 
+ The new revenue standard requires a single method of measuring performance for each performance obligation satisfied over time. Since we do not have a reliable method of estimating progress based upon its outputs, it was determined that the most reliable method of estimating progress would be using a cost-to-cost input method. We have determined that our completion of certain clinical and regulatory development tasks is relevant and directly related to our progress in completing the combined performance obligation. As such, we measured our progress upon adoption and will continue to measure our progress during each reporting period based upon the amount of development costs incurred divided by the total amount of development costs expected to be incurred over the course of the agreement. We exclude costs that are not related to our completion of this performance obligation, such as the completion of tasks (and incurring of costs) associated with the marketing and commercialization of the drug. We estimated our internal costs during the last three years, excluding non-reimbursable costs that were not deemed to directly relate to the delivery of the development services to Sanofi Genzyme. Historically, we have been unable to reliably measure our performance based upon our lack of historical experience in completing the development of a drug candidate and have, as a result, defaulted to straight-line attribution for many of our licensing agreements. At the time of adoption of the new revenue standard, however, we have completed a substantial portion of our development obligations and determined we have sufficient information to estimate the remaining development costs for the fitusiran program and sufficient experience to reasonably estimate our development costs. 
+ 
+ We determined that the 2018 amendment, together with the Exclusive TTR License and the AT3 License Terms, referred to as the 2018 restructured agreement, are included in the scope of the modification provisions of the new revenue standard. We had identified that the agreement for the TTR programs under the 2014 Sanofi Genzyme collaboration should be accounted for separately from any subsequent option exercises, including with respect to fitusiran. Therefore, we concluded it is appropriate to account for the 2018 restructured agreement as two separate modifications to the 2014 Sanofi Genzyme collaboration: one related to the TTR programs and one related to the fitusiran program. Our conclusions related to scoping under the prior revenue standard are consistent with the new revenue standard. 
+ 
+ As noted above, the 2018 amendment, together with the Exclusive TTR License, provide us with the exclusive right to pursue the further global development and commercialization of all TTR products, including ONPATTRO. We are responsible for all development and commercialization costs for ONPATTRO and vutrisiran. As of the 2018 restructured agreement, we are no longer required to complete the delivery of any of the performance obligations under the agreement related to the TTR programs. As a result, the transaction price prior to the 2018 amendment has been reduced as we are no longer entitled to cost-share reimbursements or any of the previously constrained consideration, such as milestones and royalties. Since the 2018 amendment affected the transaction price but did not add any incremental and distinct performance obligations, we concluded this amendment should be accounted for as a change to the existing agreement and recorded the revenue on a cumulative catch-up basis. At the time of the 2018 amendment, we had $2.9 million in revenue deferred as a contract liability on our consolidated balance sheet related to this contract for TTR programs, all of which we recognized in the first quarter of 2018 under a cost-to-cost input model as we no longer expected to incur costs associated with the delivery of goods or services. If we had not adopted the new revenue standard, at the time of the 2018 restructured agreement, we would have had $25.8 million of deferred revenues on our consolidated balance sheet that would have been recognized in full upon the date of the 2018 restructured agreement as we would have similarly concluded there were no ongoing deliverables under the 2018 restructured agreement related to the TTR programs. We expect to record future royalties payable to Sanofi Genzyme with respect to any sales of ONPATTRO within cost of goods sold on our consolidated statements of comprehensive loss as Sanofi Genzyme is no longer considered our customer after the 2018 restructured agreement for sales of all TTR products, including ONPATTRO, and as such, these royalty payments are outside of the scope of the new revenue standard, including with respect to principal versus agent guidance. 
+ 
+ The 2018 amendment, together with the AT3 License Terms, as noted above, provide Sanofi Genzyme the exclusive right to pursue the further global development and commercialization of fitusiran and any back-up products and terminates the previous co-development and co-commercialization rights related to fitusiran under the 2014 Sanofi Genzyme collaboration. The 2018 restructured agreement provides a broader license that permits global development, manufacturing and commercialization, and we were required to facilitate the transfer of all ongoing activities, contracts, intellectual property, know-how and other materials and information related to fitusiran to Sanofi Genzyme. 
+ 
+ In connection with the 2018 restructured agreement for fitusiran, we funded development and commercialization costs for fitusiran through the transition period, which was completed in 2018, up to a limit of $50.0 million. The only milestone under the 2018 restructured agreement, which was achieved in the first quarter of 2018 , was considered variable consideration for the license and 
+ 
+ 83 
+ 
+ 
+ 
+ 
+ transition services related to the fitusiran program. We agreed to reimburse Sanofi Genzyme for certain transition activities that are reflected as a reduction in the transaction price. As a result, the transaction price has been reduced as we are no longer entitled to cost-share reimbursements or any of the previously constrained consideration, such as milestones and royalties. 
+ 
+ We concluded that the modification that resulted from the 2018 restructured agreement related to fitusiran would be treated as a termination and replacement of the 2014 Sanofi Genzyme collaboration and accounted for prospectively as the remaining license and transition services are considered distinct from that under the agreement prior to this modification. However, the incremental consideration under the 2018 restructured agreement does not directly reflect the standalone selling price of the incremental performance obligation. Therefore, we concluded the 2018 restructured agreement for fitusiran should be accounted for on a prospective basis. At the time of the 2018 amendment, we had $0.6 million in revenue deferred as a contract liability on our consolidated balance sheet related to the 2014 Sanofi Genzyme collaboration for the fitusiran program. The transaction price of the 2018 restructured agreement for fitusiran is $37.6 million, primarily related to the $50.0 million milestone that was achieved in the first quarter of 2018 , offset by consideration paid to Sanofi Genzyme for its transition activities that were accounted for as a reduction of the transaction price. Consistent with our accounting prior to this 2018 modification, we are applying the sales-based royalty under the new revenue standard to exclude from the transaction price the royalties earned on Sanofi Genzyme’s sales of fitusiran as we have determined in the context of all the performance obligations, including those delivered prior to the 2018 modification, that the value of the broader license will continue to represent a substantial portion of the value provided to Sanofi Genzyme; and therefore the license to the intellectual property is the predominant ITEM to which the royalty relates. 
+ 
+ We have determined that Sanofi Genzyme’s right to purchase additional clinical and commercial material from us reflects optional purchases that are distinct from other performance obligations. Revenues associated with these purchases will be recognized in accordance with the right to invoice practical expedient and as Sanofi Genzyme obtains control of any purchased material. 
+ 
+ We recognized the transaction price of the 2018 restructured agreement related to fitusiran under a separate cost-to-cost input model as we performed transition services over the transition period, which was completed in 2018. We measured our performance based o n a percentage of our costs expected to be incurred in connection with the transition. During the transition, we incurred a total cost of $38.0 million. During the year ended December 31, 2018, under a cost-to-cost input model, we recognized revenues of $37.6 million related to the 2018 restructured agreement for fitusiran. If we had not adopted the new revenue standard, at the time of the 2018 restructured agreement, we would have had $23.4 million of deferred revenues on our consolidated balance sheet, that would have represented an incremental $22.8 million to the transaction price. Similar to under the new revenue standard, we consider the 2018 restructured agreement related to fitusiran to include a combined performance obligation. Under the prior revenue standard and our historical practice to account for contract modifications, we would apply a separate model to the consideration. Historically, we have measured our performance under our models based on the passage of time due to our inability to estimate performance under another method. However, as a result of the 2018 restructured agreement related to fitusiran, we have the ability to measure our performance under the prior revenue standard based on costs expected to be incurred, and therefore measure performance under the prior standard consistent with that of the new revenue standard. Under the prior revenue standard, we would have recorded revenues of $60.3 million in the year ended December 31, 2018, related to fitusiran. 
+ 
+ We determined that the opt-in rights that Sanofi Genzyme continues to have for future Genetic Medicine programs represent separate and additional optional purchases that Sanofi Genzyme may receive from us in future periods. 
+ 
+ The Medicines Company. In February 2013, we and MDCO entered into a license and collaboration agreement pursuant to which we granted to MDCO an exclusive, worldwide license to develop, manufacture and commercialize RNAi therapeutics targeting PCSK9 for the treatment of hypercholesterolemia and other human diseases, including inclisiran. MDCO paid us an upfront cash payment of $25.0 million. Upon achievement of certain milestones, we will be entitled to receive milestone payments, up to an aggregate of $180.0 million, including up to $30.0 million in specified development milestones, $50.0 million in specified regulatory milestones and $100.0 million in specified commercialization milestones. In addition, we will be entitled to royalties ranging from the low- to high- teens based on annual worldwide net sales, if any, of licensed products by MDCO, its affiliates and sublicensees, subject to reduction under specified circumstances. To date, we have earned two development milestones totaling $30.0 million under the MDCO agreement. We could potentially earn the next development milestone payment of $25.0 million based upon regulatory approval of an NDA for inclisiran in the U.S. Due to the uncertainty of pharmaceutical development and the high historical failure rates generally associated with drug development, we may not receive any additional milestone payments or any royalty payments from MDCO. 
+ 
+ Under the MDCO agreement, we had responsibility for the development of inclisiran until Phase 1 Completion, as defined in the MDCO agreement, at our cost, up to an agreed upon initial development cost cap. In late 2015, MDCO assumed responsible for all development and commercialization of inclisiran, at its sole cost. The collaboration between us and MDCO is governed by a joint steering committee that is comprised of an equal number of representatives from each party. 
+ 
+ We were solely responsible for obtaining supply of finished product reasonably required for the conduct of our obligations under the initial development plan through Phase 1 Completion, and for supplying MDCO with finished product reasonably required 
+ 
+ 84 
+ 
+ 
+ 
+ 
+ for the first Phase 2 clinical trial of inclisiran conducted by MDCO, at our expense, subject to certain caps. In April 2016, we and MDCO entered into a supply and technical transfer agreement to provide for our supply of inclisiran to MDCO, in accordance with the terms of the MDCO agreement. MDCO now has the sole right and responsibility to manufacture and supply inclisiran for development and commercialization under the MDCO development plan, subject to the terms of the MDCO agreement and the supply and technical transfer agreement. 
+ 
+ In accordance with the new revenue standard, we evaluated the MDCO agreement and concluded that MDCO meets the definition of a customer and that the MDCO agreement is a contract. We determined the transaction price, identified the performance obligations and allocated the transaction price to each performance obligation. We also determined that substantially all of our performance obligations are within the scope of the new revenue standard as they relate to the delivery of goods and services to a customer for that customer’s use in monetizing an asset. Specifically, we concluded that MDCO meets the definition of a customer as we are delivering intellectual property and know-how rights as well as research and development activities. In addition, we determined that the MDCO agreement met the requirements to be accounted for as a contract, including that it is probable that we will collect the consideration to which we are entitled in exchange for the goods or services that will be delivered to MDCO. We identified contract promises or deliverables for licenses to our intellectual property development and manufacturing know-how rights, associated development activities, joint steering committee participation and information exchange. In connection with the supply and technical transfer agreement, we assessed the new revenue standard to conclude if this modification should be accounted for as a separate contract or as a modification to the existing contract. We determined that the modification should not be treated as a separate agreement as the related performance obligations are not distinct as the value produced by these promises are highly dependent on the other promises in the contract. We determined that, pursuant to the new revenue standard (and consistent with our accounting prior to the adoption of the new revenue standard), the performance obligations were not separately identifiable and were not distinct (and did not have standalone value) due to the specialized nature of the services to be provided by us and the dependent relationship between the performance obligations. Given this fact pattern, we have concluded the MDCO agreement has a single identified or combined performance obligation. 
+ 
+ The transaction price as of January 1, 2018 of $72.9 million for the MDCO agreement included the $25.0 million upfront payment, $30.0 million of development milestones and $17.9 million of cost reimbursement. There are no refund provisions in the MDCO agreement and, therefore, none of the consideration received to date has been excluded from the transaction price calculation. None of the unearned milestones as of January 1, 2018 were included in the transaction price, as all unearned milestone amounts were not considered likely of achievement. We considered several factors, including that achievement of the milestones is outside our control and contingent upon success in clinical trials and regulatory decisions and the licensee’s efforts. Any consideration related to sales-based royalties (including milestones) will be recognized when the related sales occur as they were determined to relate predominantly to the license granted to MDCO and as a result have also been excluded from the transaction price. 
+ 
+ Under the previous accounting standard, the initial upfront payment of $25.0 million from MDCO was initially recorded as deferred revenue. During the fourth quarter of 2014, we recognized as revenue a portion of the $10.0 million milestone payment earned in December 2014 equal to the percentage of the performance period completed when the milestone was earned. During the fourth quarter of 2017, we recognized as revenue a portion of the $20.0 million milestone payment earned in November 2017 equal to the percentage of the performance period completed when the milestone was earned. 
+ 
+ We allocated the transaction price to the combined performance obligation. We have determined that this combined performance obligation is satisfied over time based on our performance that is creating or enhancing an asset that MDCO controls. In this instance, MDCO received control over the asset, or the licensed intellectual property, and know-how, at the time the contract was executed since the licensed intellectual property and know-how meet the definition of functional intellectual property per the new revenue standard, which defines functional intellectual property in that it derives a substantial portion of its utility from its standalone functionality rather than the entity’s ongoing activities (thus, once the asset is fully developed, our ongoing involvement is not required for the licensee to derive value). The other promises included in the performance obligation, however, are enhancing the controlled asset, and thus the combined performance obligation is being satisfied over time. 
+ 
+ The new revenue standard requires a single method of measuring performance for each performance obligation satisfied over time. Since we do not have a reliable method of estimating progress based upon its outputs, it was determined that the most reliable method of estimating progress would be using a cost-to-cost input method. We have determined that our completion of certain clinical and regulatory development tasks is relevant and directly related to our progress in completing the combined performance obligation. As such, we measured our progress upon adoption and will continue to measure our progress during each reporting period based upon the amount of development costs incurred divided by the total amount of development costs expected to be incurred over the course of the agreement. We exclude costs that are not related to our completion of this performance obligation, such as the completion of tasks (and incurring of costs) associated with the marketing and commercialization of the drug. We estimated our internal costs during the last three years, excluding non-reimbursable costs that were not deemed to directly relate to the delivery of the development services to MDCO. Historically, we have been unable to reliably measure our performance based upon our lack of historical experience in completing the development of a drug candidate and have, as a result, defaulted to straight-line attribution for many of our licensing 
+ 
+ 85 
+ 
+ 
+ 
+ 
+ agreements. At the time of adoption of the new revenue standard, however, we have completed a substantial portion of our development obligations and determined we have sufficient information to estimate the remaining development costs for the inclisiran program and sufficient experience to reasonably estimate our development costs. 
+ 
+ We recognized the transaction price as we satisfied our performance obligations over time. Beginning with the inception of the MDCO agreement and through the year end December 31, 2017, we incurred $17.8 million of the $17.9 million of total costs expected. If we had not adopted the new revenue standard, we would have had $5.7 million of deferred revenues on our consolidated balance sheet as of January 1, 2018. We completed the performance obligations identified in the MDCO agreement, including the supply and technical transfer agreement, during 2018, although we may receive additional orders for supply. We consider such orders as promised goods to be distinct from the other performance obligations since MDCO now has the ability to begin manufacturing on its own through its own vendors. Such option orders will be treated as separate agreements and any associated revenue will be recognized upon transfer of control. 
+ 
+ Inventory 
+ 
+ We capitalize inventory costs that are expected to be sold commercially once we determine there is a high probability that the inventory costs will be recovered through commercial sale based on the review of several factors, including (i) the likelihood that all required regulatory approvals will be obtained, (ii) the expected timing of validation (if not yet completed) of manufacturing processes in the associated facility, (iii) the expected expiration of the inventory, (iv) logistical or commercial constraints that may impede the timely distribution and sale of the product, including transport requirements and reimbursement status, (v) history of approvals of similar products or formulations and (vi) potential legal challenges. Prior to the capitalization of inventory costs, we record such costs as research and development expenses on our consolidated statements of comprehensive loss. 
+ 
+ On a quarterly basis, we evaluate the recoverability of capitalized inventory using significant judgements, estimates and assumptions, primarily those related to commercial sales forecasts and product shelf life. In the event we determine our capitalized inventory to be impaired, we would reduce our inventory to net realizable value. Through December 31, 2018, we had not identified any impairment of our capitalized inventory. 
+ 
+ Accounting for Income Taxes 
+ 
+ Accounting for income taxes requires a two-step approach to recognize and measure uncertain tax positions. The first step is to evaluate the tax position for recognition by determining if, based on the technical merits, it is more likely than not that the position will be sustained upon audit, including resolution of related appeals or litigation processes, if any. The second step is to measure the tax benefit as the largest amount that is more than 50 percent likely of being realized upon ultimate settlement. We re-evaluate these uncertain tax positions on a quarterly basis. This evaluation is based on factors including, but not limited to, changes in facts or circumstances, changes in tax law, and effectively settled issues under audit and new audit activity. Any change in these factors could result in the recognition of a tax benefit or an additional charge to the tax provision. 
+ 
+ As of December 31, 2018, we have recorded no interest and penalty expense related to uncertain tax positions. 
+ 
+ On December 22, 2017, the President of the United States signed into law the TCJA tax reform legislation. The TCJA makes significant changes in U.S. tax law including a reduction in the corporate tax rates, changes to net operating loss carryforwards and carrybacks, and a repeal of the corporate alternative minimum tax. The TCJA reduced the U.S. corporate tax rate from the current rate of 35 percent down to 21 percent starting on January 1, 2018. As a result of the enacted law, we were required to revalue deferred tax assets and liabilities at 21 percent. This revaluation resulted in a provision of $227.9 million to income tax expense in continuing operations and a corresponding reduction in the valuation allowance for the year ended December 31, 2017. As a result, there was no impact to our consolidated statements of comprehensive loss due to the reduction in tax rates. The other provisions of the TCJA did not have a material impact on our consolidated financial statements. Our final determination of the TCJA impact and the remeasurement of our deferred assets and liabilities was completed prior to the deadline of one year from the enactment of the TCJA. For the year ended December 31, 2018, there were no material changes to our analysis originally performed as of December 31, 2017. 
+ 
+ We operate in the U.S., as well as in several countries outside of the U.S., where our income tax returns are subject to audit and adjustment by local tax authorities. The nature of the uncertain tax positions is often very complex and subject to change, and the amounts at issue can be substantial. We develop our cumulative probability assessment of the measurement of uncertain tax positions using internal experience, judgment and assistance from professional advisors. We refine estimates as we become aware of additional information. Any outcome upon settlement that differs from our current estimate may result in additional tax expense in future periods. At December 31, 2018, we had no unrecognized tax benefits. 
+ 
+ 86 
+ 
+ 
+ 
+ 
+ We account for income taxes under the asset and liability method. Under this method, deferred tax assets and liabilities are recognized for the estimated future tax consequences attributable to differences between financial statement carrying amounts of existing assets and liabilities and their respective tax basis. Deferred tax assets and liabilities are measured using enacted rates in effect for the year in which these temporary differences are expected to be recovered or settled. Valuation allowances are provided if, based on the weight of available evidence, it is more likely than not that some or all of the deferred tax assets will not be realized. 
+ 
+ During 2018, we recorded a provision for income taxes of $0.8 million. There was no provision for income taxes recorded during the years ended December 31, 2017 or 2016. 
+ 
+ At December 31, 2018, we had a valuation allowance against our net deferred tax assets to the extent it is more likely than not that the assets will not be realized. At December 31, 2018, we had federal and state net operating loss carryforwards of $1.9 billion and $1.6 billion, respectively, to reduce future taxable income that will expire at various dates through 2038. At December 31, 2018, approximately $0.5 billion of our federal net operating loss carryforward can be carried forward indefinitely. At December 31, 2018, we had federal and state research and development, including Orphan Drug, and state investment tax credit carryforwards of $208.0 million and $16.2 million, respectively, available to reduce future tax liabilities that expire at various dates through 2038. At December 31, 2018, we had alternative minimum tax credits of $0.8 million that will either be available to reduce future regular tax liabilities or be fully refundable in 2021. We have a valuation allowance against the net operating loss and credit deferred tax assets as it is unlikely that we will realize these assets. Ownership changes, as defined in the Internal Revenue Code, including those resulting from the issuance of common stock in connection with our public offerings, may limit the amount of net operating loss and tax credit carryforwards that can be utilized to offset future taxable income or tax liability. The amount of the limitation is determined in accordance with Section 382 of the Internal Revenue Code. We have performed an analysis of ownership changes through December 31, 2018. Based on this analysis, we do not believe that any of our tax attributes will expire unutilized due to Section 382 limitations. 
+ 
+ Accounting for Stock-Based Compensation 
+ 
+ We have stock incentive plans and an employee stock purchase plan under which we grant equity instruments. We may also grant inducement stock grants outside of our stock incentive plans. We account for all stock-based awards granted to employees at their fair value and generally recognize compensation expense over the vesting period of the award. Determining the amount of stock-based compensation to be recorded requires us to develop estimates of fair values of stock options as of the grant date. We calculate the grant date fair values of stock options using the Black-Scholes valuation model. Our expected stock price volatility assumption is based on the historical volatility of our publicly traded stock. 
+ 
+ For time-based stock option awards granted during the year ended December 31, 2018, we used a weighted-average expected stock-price volatility assumption of 66 percent. Our expected life assumption is based on our historical data. Our weighted-average expected term was 5.8 years for the year ended December 31, 2018. We utilize a dividend yield of zero based on the fact that we have never paid cash dividends and currently have no intention to pay cash dividends. The risk-free interest rate used for each grant is based on the U.S. Treasury yield curve in effect at the time of grant for instruments with a similar expected life. 
+ 
+ The fair value of restricted stock awards granted to employees is based upon the quoted closing market price per share on the date of grant. Expense for time-based restricted stock awards is recognized over the vesting period. 
+ 
+ We have performance conditions included in certain of our stock option and restricted stock awards that are based upon the achievement of pre-specified clinical development, regulatory and/or commercial events. As the outcome of each event has inherent risk and uncertainties and a positive outcome may not be known until the event is achieved, we begin to recognize the value of the performance-based stock option and restricted stock awards when we determine the achievement of each performance condition is deemed probable, which often is not until the condition is achieved. This determination requires significant judgment by management. At the probable date, we record a cumulative expense catch-up, with remaining expense amortized over the remaining service period. 
+ 
+ At December 31, 2018, the estimated fair value of time-based unvested employee stock options was $156.2 million, net of estimated forfeitures. We will recognize this amount over the weighted-average remaining vesting period of approximately three years for these awards. At December 31, 2018, the estimated fair value of performance-based unvested employee stock options and restricted stock units was $59.3 million, net of estimated forfeitures. Stock-based employee compensation expense was $157.8 million for the year ended December 31, 2018. However, we cannot currently predict the total amount of stock-based compensation expense to be recognized in any future period because such amounts will depend on levels of stock-based payments granted in the future as well as the portion of the awards that actually vest, including our performance-based awards . We estimate forfeitures at the time of grant and revise, if necessary, in subsequent periods if actual forfeitures differ from those estimates. The term “forfeitures” is distinct from “cancellations” or “expirations” and represents only the unvested portion of the surrendered stock option. We have applied an 
+ 
+ 87 
+ 
+ 
+ 
+ 
+ annual forfeiture rate to all unvested employee stock options and restricted stock awards at December 31, 2018 based on an analysis of our historical forfeitures. Ultimately, the actual expense recognized over the vesting period will only be for those shares that vest. 
+ 
+ Estimated Liability for Development Costs 
+ 
+ We record accrued liabilities related to expenses for which service providers have not yet billed us with respect to products we have received or services that we have incurred, specifically related to ongoing pre-clinical studies and clinical trials. These costs primarily relate to third-party clinical management costs, laboratory and analysis costs, toxicology studies and investigator fees. We have multiple product candidates in concurrent pre-clinical studies and clinical trials at multiple clinical sites throughout the world. In order to ensure that we have adequately provided for ongoing pre-clinical and clinical development costs during the period in which we incur such costs, we maintain an accrual to cover these expenses. We update our estimate for this accrual on at least a quarterly basis. The assessment of these costs is a subjective process that requires judgment. Upon settlement, these costs may differ materially from the amounts accrued in our consolidated financial statements. Our historical accrual estimates have not been materially different from our actual costs. 
+ 
+ Results of Operations 
+ 
+ The following data summarizes the results of our operations for the periods indicated, in thousands: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Description 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Revenues 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 74,908 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 89,912 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 47,159 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating costs and expenses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 889,581 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 590,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 471,746 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Loss from operations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (814,673 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (500,088 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (424,587 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net loss 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ (761,497 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ (490,874 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ (410,108 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ Discussion of Results of Operations 
+ 
+ Revenues 
+ 
+ The following table summarizes our total consolidated revenues for the periods indicated, in thousands, together with the changes, in thousands: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended December 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Dollar Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Description 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2018 compared 
+ 
+ to 2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2017 compared 
+ 
+ to 2016 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Product revenues, net 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 12,535 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 12,535 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net revenues from collaborators 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 62,373 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 89,912 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 47,159 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (27,539 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 42,753 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total revenues 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 74,908 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 89,912 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 47,159 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ (15,004 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 42,753 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Product revenues, net. We began to record net product revenues following regulatory approval of ONPATTRO in the U.S. and EU in August 2018 and its subsequent commercial launch in the U.S. and several countries in Europe during the third and fourth quarters of 2018, respectively. During 2018, we recognized $12.5 million of net product revenues related to sales of ONPATTRO in the U.S. and several countries in Europe. We expect net product revenues to increase during 2019 as compared to 2018 primarily due to a full year of ONPATTRO sales in the U.S. and several countries in Europe in 2019, as well as expected product launches in additional territories, assuming regulatory approvals. 
+ 
+ 
+ 
+ Net revenues from collaborators. The following table summarizes our total consolidated net revenues from collaborators under our research and development collaborations, for the periods indicated, in thousands, together with the changes, in thousands: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Dollar Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Description 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2018 compared 
+ 
+ to 2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2017 compared 
+ 
+ to 2016 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sanofi Genzyme 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 46,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 54,625 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 32,015 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ (8,625 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 22,610 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Vir 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 12,778 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,464 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 11,314 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,464 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ MDCO 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2,789 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 30,217 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 11,220 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (27,428 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 18,997 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 806 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3,606 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3,924 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (2,800 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (318 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total net revenues from collaborators 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 62,373 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 89,912 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 47,159 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ (27,539 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 42,753 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 88 
+ 
+ 
+ 
+ 
+ The following table summarizes our total consolidated net revenues from collaborators under our research and development collaborations , under the prior revenue standard, for the periods indicated, in thousands, together with the changes, in thousands: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Dollar Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Description 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2018 compared 
+ 
+ to 2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2017 compared 
+ 
+ to 2016 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sanofi Genzyme 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 91,738 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 54,625 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 32,015 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 37,113 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 22,610 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Vir 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 12,778 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,464 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 11,314 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,464 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ MDCO 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 7,184 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 30,217 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 11,220 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (23,033 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 18,997 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 806 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3,606 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3,924 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (2,800 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (318 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total net revenues from collaborators 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 112,506 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 89,912 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 47,159 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 22,594 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 42,753 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net revenues from collaborators decreased during the year ended December 31, 2018 as compared to the year ended December 31, 2017 as a result of a decrease in reimbursable activities under our MDCO and Sanofi Genzyme agreements, as well as the adoption of the new revenue standard, partially offset by work performed under our collaboration with Vir . Upon our adoption of the new revenue standard on January 1, 2018, we recorded a cumulative reduction of $45.7 million of deferred revenues related to our collaboration with Sanofi Genzyme, resulting in a remaining balance of $3.5 million. As a result, we recorded significantly lower revenues related to our collaboration with Sanofi Genzyme during the year ended December 31, 2018 than we would have recorded under the prior revenue standard. 
+ 
+ 
+ 
+ Net revenues from collaborators increased during the year ended December 31, 2017 as compared to the year ended December 31, 2016 due primarily to increased services performed by us in connection with our clinical development programs for which Sanofi Genzyme had opted in and the achievement of a $20.0 million milestone under our agreement with MDCO in early November 2017. 
+ 
+ Assuming that we do not enter into any new collaborative agreements during 2019, we expect net revenues from collaborators to decrease during 2019 as compared to 2018 due primarily to lower reimbursable activities under our existing collaborations. We had $4.0 million of deferred revenue at December 31, 2018 related to our collaboration with Vir. At December 31, 2017, prior to the adoption of the new revenue standard, we had $84.8 million of deferred revenue, which consisted of payments we have received from collaborators, primarily Sanofi Genzyme, MDCO and Kyowa Hakko Kirin Co., Ltd., but had not yet recognized pursuant to our revenue recognition policies. As a result of our adoption of the new revenue standard on January 1, 2018, we recorded a cumulative reduction of $68.2 million of deferred revenue with a corresponding adjustment to accumulated deficit in the first quarter of 2018. Please read Note 2 to our consolidated financial statements included in Part II, ITEM 8, “Financial Statements and Supplementary Data,” of this annual report on Form 10-K for our discussion of recent accounting pronouncements for the impact of this new accounting standard. 
+ 
+ Operating costs and expenses 
+ 
+ The following table summarizes our operating costs and expenses for the periods indicated, in thousands and as a percentage of total operating costs and expenses, together with the changes, in thousands: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Dollar Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Description 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ % of Total 
+ 
+ Operating Costs 
+ 
+ and Expenses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ % of Total 
+ 
+ Operating Costs 
+ 
+ and Expenses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ % of Total 
+ 
+ Operating Costs 
+ 
+ and Expenses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2018 
+ 
+ compared 
+ 
+ to 2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2017 
+ 
+ compared 
+ 
+ to 2016 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of goods sold 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 1,802 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 1,802 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Research and development 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 505,420 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 57 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 390,635 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 66 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 382,392 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 81 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 114,785 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 8,243 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Selling, general and 
+ 
+ administrative 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 382,359 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 43 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 199,365 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 34 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 89,354 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 19 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 182,994 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 110,011 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total operating costs 
+ 
+ and expenses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 889,581 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 100 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 590,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 100 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 471,746 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 100 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 299,581 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 118,254 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of goods sold. Cost of goods sold includes the cost of producing and distributing inventories that are related to ONPATTRO product revenues during the year ended December 31, 2018 (including salary-related and stock-based compensation expenses for employees involved with ONPATTRO production and distribution) and third-party royalties payable on our net product revenues for ONPATTRO. We began capitalizing ONPATTRO inventory costs during the third quarter of 2018 in connection with FDA approval and based upon our expectation that these costs are recoverable through commercialization of ONPATTRO. Prior to the capitalization of ONPATTRO inventory costs, such costs were recorded as research and development expenses in our consolidated statements of comprehensive loss. During the year ended December 31, 2018, we recorded $1.8 million of cost of goods sold, including $1.0 million related to third-party royalties. The cost of goods sold during the year ended December 31, 2018 only reflects a 
+ 
+ 89 
+ 
+ 
+ 
+ 
+ portion of the manufacturing cost of ONPATTRO and third-party royalties. Utilizing the average cost per unit of ONPATTRO manufactured, cost of goods sold with respect to manufacturing costs for the year ended December 31, 2018 would have been approximately $0.5 million, which would have resulted in $2.3 million of costs of goods sold during the year ended December 31, 2018. At December 31, 2018, we had $17.3 million of zero-cost inventory that we expect to sell over the next 16 to 18 months. We estimate cost of goods sold as a percentage of ONPATTRO product revenues, net will be in the mid- to high teens subsequent to the utilization of our zero-cost ONPATTRO inventory. The range is affected by our estimate of material costs from our suppliers and the level of fixed overhead costs estimated in relation to our future sales levels. 
+ 
+ We expect that cost of goods sold will increase during 2019 as compared to 2018 primarily as a result of an expected increase in ONPATTRO sales. 
+ 
+ 
+ 
+ Research and development. The following table summarizes the components of our research and development expenses for the periods indicated, in thousands and as a percentage of total research and development expenses, together with the changes, in thousands: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Dollar Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Description 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ % of 
+ 
+ Expense 
+ 
+ Category 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ % of 
+ 
+ Expense 
+ 
+ Category 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ % of 
+ 
+ Expense 
+ 
+ Category 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2018 
+ 
+ compared 
+ 
+ to 2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2017 
+ 
+ compared 
+ 
+ to 2016 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Research and development 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Compensation and related 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 116,350 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 23 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 100,728 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 26 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 87,124 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 23 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 15,622 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 13,604 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Clinical trial 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 88,431 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 17 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 87,730 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 22 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 92,383 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 24 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 701 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (4,653 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Manufacturing 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 84,840 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 17 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 54,681 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 14 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 56,348 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 15 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 30,159 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1,667 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Stock-based compensation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 80,509 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 16 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 51,872 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 13 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 42,946 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 11 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 28,637 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 8,926 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ External services 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 55,165 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 11 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 38,675 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 10 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 48,624 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 13 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 16,490 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (9,949 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Facilities-related 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 42,159 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 8 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 31,022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 8 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 30,032 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 8 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 11,137 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 990 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Lab supplies and materials 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 12,827 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 10,513 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 8,917 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2,314 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,596 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 25,139 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 15,414 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 16,018 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 9,725 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (604 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total research and 
+ 
+ development expenses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 505,420 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 100 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 390,635 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 100 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 382,392 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 100 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 114,785 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 8,243 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Research and development expenses increased significantly during the year ended December 31, 2018 as compared to the year ended December 31, 2017 due primarily to increased manufacturing expenses as a result of our late stage programs . In addition, stock-based compensation expense increased significantly related to the accounting for performance-based stock awards as a result of the approval and launch of ONPATTRO and clinical achievements with respect to our givosiran Phase 3 study. External services expenses increased during the year ended December 31, 2018 as a result of increased pre-clinical services related to early stage programs to support our Alnylam 2020 strategy, as well as increased expenses related to regulatory submissions. In addition, compensation and related expenses increased as a result of an increase in headcount during the period as we continue to expand and advance our development pipeline. 
+ 
+ 
+ 
+ Research and development expenses increased slightly during the year ended December 31, 2017 as compared to the year ended December 31, 2016 due primarily to increased compensation and related expenses as a result of an increase in headcount during the period as we expanded and advanced our development pipeline, partially offset by decreases in external services expenses related to pre-clinical activities and clinical trial expenses as a result of our decision in October 2016 to discontinue development of revusiran. In addition, stock-based compensation expenses increased during the year ended December 31, 2017 as a result of increased expense related to the accounting for performance-based stock option awards. 
+ 
+ During the years ended December 31, 2018, 2017 and 2016, in connection with advancing activities under our collaboration agreements, we incurred significant research and development expenses, primarily related to external development and manufacturing services. The 2018 amendment to the 2014 Sanofi Genzyme collaboration, together with the Exclusive TTR License and the AT3 License Terms, provide us with the exclusive right to pursue the further global development and commercialization of all TTR products and any back-up products and provide Sanofi Genzyme with the exclusive right to pursue the further global development and commercialization of all fitusiran and any back-up products. As a result, we expect costs incurred under our collaboration agreements to decrease. The following table summarizes the expenses incurred under our collaboration agreements by collaboration partner for the periods indicated, in thousands: 
+ 
+ 90 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended December 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sanofi Genzyme 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 43,219 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 184,703 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 160,580 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Vir 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 16,071 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2,060 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ MDCO 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,869 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5,527 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,275 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ionis 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3,247 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3,250 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 525 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 64,406 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 195,540 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 162,380 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ We expect to continue to devote a substantial portion of our resources to research and development expenses to support our goals for 2020. We expect that research and development expenses will increase during 2019 as compared to 2018 as we continue to develop our pipeline and advance our product candidates into later-stage development, hire additional employees and prepare regulatory submissions. However, we expect that certain expenses will be variable depending on the timing of manufacturing batches, clinical trial enrollment and results, regulatory review of our product candidates and programs, and stock-based compensation expenses due to our determination regarding the probability of vesting for performance-based awards. 
+ 
+ A significant portion of our research and development costs are not tracked by project as they benefit multiple projects or our technology platform. However, certain of our collaboration agreements contain cost-sharing arrangements pursuant to which certain costs incurred under the project are reimbursed. Costs reimbursed under the agreements typically include certain direct external costs and a negotiated full-time equivalent labor rate for the actual time worked on the project. As a result, although a significant portion of our research and development expenses are not tracked on a project-by-project basis, we do track direct external costs attributable to, and the actual time our employees worked on, our collaborations. 
+ 
+ Selling, general and administrative. The following table summarizes the components of our selling, general and administrative expenses for the periods indicated, in thousands and as a percentage of total selling, general and administrative expenses, together with the changes, in thousands: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Dollar Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Description 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ % of 
+ 
+ Expense 
+ 
+ Category 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ % of 
+ 
+ Expense 
+ 
+ Category 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ % of 
+ 
+ Expense 
+ 
+ Category 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2018 
+ 
+ compared 
+ 
+ to 2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2017 
+ 
+ compared 
+ 
+ to 2016 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Selling, general and administrative 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Consulting and professional 
+ 
+ services 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 137,201 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 36 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 68,847 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 35 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 25,310 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 28 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 68,354 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 43,537 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Compensation and related 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 107,376 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 28 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 60,289 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 30 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 20,967 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 24 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 47,087 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 39,322 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Stock-based compensation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 77,243 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 20 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 40,947 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 21 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 32,582 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 36 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 36,296 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 8,365 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Facilities-related 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 25,658 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 7 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 11,130 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5,547 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 14,528 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5,583 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 34,881 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 9 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 18,152 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 8 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4,948 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 16,729 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 13,204 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total selling, general and 
+ 
+ administrative expenses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 382,359 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 100 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 199,365 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 100 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 89,354 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 100 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 182,994 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 110,011 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Selling, general and administrative expenses increased significantly during the year ended December 31, 2018 as compared to the year ended December 31, 2017 due primarily to an increase in commercial and medical affairs headcount and commercial-related services to support corporate growth and prepare for the launch of ONPATTRO in 2018 in the U.S. and several countries in Europe, and potential additional country launches of ONPATTRO in 2019, as well as future worldwide product launches assuming regulatory approval of givosiran and other product candidates. In addition, selling, general and administrative expenses increased due to an increase in stock-based compensation expense related to the accounting for performance-based stock awards as a result of the approval and launch of ONPATTRO and clinical achievements with respect to our givosiran Phase 3 stu dy. 
+ 
+ 
+ 
+ Selling, general and administrative expenses increased significantly during the year ended December 31, 2017 as compared to the year ended December 31, 2016 due primarily to an increase in commercial and medical affairs headcount and commercial-related services to support corporate growth and prepare for potential commercial product launches. In addition, stock-based compensation expenses increased during the year ended December 31, 2017 as a result of increased expense related to the accounting for performance-based stock option awards. 
+ 
+ 
+ 
+ We expect that selling, general and administrative expenses will increase during 2019 as compared to 2018 as we continue to grow our operations, including the continued build-out of our global commercial infrastructure and field team to support ONPATTRO 
+ 
+ 91 
+ 
+ 
+ 
+ 
+ and potentially additional product launches, but expect that stock-based compensation expenses will be variable due to our determination regarding the probability of vesting for performance-based awards. 
+ 
+ Gain on litigation settlement. In April 2018, we and Dicerna entered into a Settlement Agreement resolving all ongoing litigation between the companies. As a result, during the year ended December 31, 2018, we recorded $20.6 million as a gain on litigation settlement. classified as other income on our consolidated statements of comprehensive loss, that includes the $10.0 million valuation of Dicerna common stock received at the settlement date, the $2.0 million upfront cash payment received in the second quarter of 2018, and $8.6 million, which represented the discounted present value of the $13.0 million cash payment due from Dicerna by April 18, 2022 under the terms of the Settlement Agreement. During the fourth quarter of 2018, in connection with the completion of business development activities by Dicerna, the $13.0 million cash payment became due and we accreted the remaining discount and recorded $4.0 million in interest income on our consolidated statements of comprehensive loss. In future periods, there will be no additional charges recorded to gain on litigation settlement related to the Settlement Agreement. For a discussion of the terms of the Settlement Agreement, please read Note 2 and Note 9 to our consolidated financial statements included in Part II, ITEM 8, “Financial Statements and Supplementary Data,” of this annual report on Form 10-K. 
+ 
+ Liquidity and Capital Resources 
+ 
+ The following table summarizes our cash flow activities for the periods indicated, in thousands: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net loss 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ (761,497 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ (490,874 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ (410,108 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Adjustments to reconcile net loss to net cash used in 
+ 
+ operating activities 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 153,782 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 110,990 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 85,188 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Changes in operating assets and liabilities 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 45,099 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (2,902 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 17,219 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net cash used in operating activities 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (562,616 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (382,786 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (307,701 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net cash provided by (used in) investing activities 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 272,945 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (290,361 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 142,591 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net cash provided by financing activities 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 65,470 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,124,891 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 177,832 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net (decrease) increase in cash, cash equivalents and 
+ 
+ restricted cash 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (224,201 
+ 
+ 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 451,744 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 12,722 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cash, cash equivalents and restricted cash, beginning 
+ 
+ of period 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 646,832 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 195,088 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 182,366 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cash, cash equivalents and restricted cash, end of period 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 422,631 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 646,832 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 195,088 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Since we commenced operations in 2002, we have generated significant losses. At December 31, 2018, we had an accumulated deficit of $2.84 billion. At December 31, 2018, we had cash, cash equivalents and marketable debt securities of $1.08 billion, excluding the $44.8 million of restricted investments, compared to $1.70 billion at December 31, 2017, excluding the $30.0 million of restricted investments. 
+ 
+ In May 2017, we sold an aggregate of 5,000,000 shares of our common stock through an underwritten public offering at a price to the public of $71.87 per share. As a result of the offering, we received aggregate net proceeds of $355.2 million, after deducting underwriting discounts and commissions and other offering expenses of $4.2 million. In November 2017, we sold an aggregate of 6,440,000 shares of our common stock through an underwritten public offering at a price to the public of $125.00 per share. As a result of the offering, which included the full exercise of the underwriters’ option to purchase additional shares, we received aggregate net proceeds of $784.5 million, after deducting underwriting discounts and commissions and other offering expenses of $20.5 million. In January 2019, we sold an aggregate of 5,000,000 shares of our common stock through an underwritten public offering at a price to the public of $77.50 per share. As a result of the offering, we received aggregate net proceeds of $381.9 million, after deducting underwriting discounts and commissions and other estimated offering expenses of $5.6 million. 
+ 
+ We intend to use the proceeds from the January 2019 public offering for general corporate purposes, including advancing the ongoing commercialization of ONPATTRO in the U.S. and Europe and, assuming favorable regulatory reviews, the potential expansion into additional countries, development efforts directed towards the potential expansion of the ONPATTRO label in the U.S., continuing to advance our late stage clinical pipeline and preparing for the potential global launch of several additional products, continuing investment in our early stage pipeline, including our CNS and ocular programs, clinical trial costs and other research and development expenses, continued growth of our manufacturing, quality, commercial and medical affairs capabilities to support our commercialization efforts, potential acquisitions, investments or licenses in businesses, products or technologies that are complementary to our business, working capital, capital expenditures, and general and administrative expenses. 
+ 
+ 92 
+ 
+ 
+ 
+ 
+ Sanofi Genzyme has certain rights to purchase additional shares from us under our investor agreement. In connection with our May 2017 public offering described above, Sanofi Genzyme exercised its right to purchase directly from us, in a concurrent private placement, 297,501 shares of common stock at the public offering price resulting in $21.4 million in proceeds to us. In addition, Sanofi Genzyme also has the right at the beginning of each year to purchase a number of shares of our common stock based on the number of shares we issued during the previous year for compensation-related purposes. Sanofi Genzyme exercised this right to purchase directly from us 205,030 shares of our common stock in February 2016 for $14.3 million. As of December 31, 2018, Sanofi Genzyme held approximately ten percent of our outstanding common stock. 
+ 
+ We invest primarily in money market funds, U.S. government-sponsored enterprise securities, U.S. treasury securities, high-grade corporate notes, certificates of deposit and commercial paper. Corporate notes may also include foreign bonds denominated in U.S. dollars. Our investment objectives are, primarily, to assure liquidity and preservation of capital and, secondarily, to obtain investment income. All of our investments in marketable debt securities are recorded at fair value and are available-for-sale. Fair value is determined based on quoted market prices and models using observable data inputs. We have not recorded any impairment charges to our marketable debt securities during the three years ended December 31, 2018. 
+ 
+ Operating activities 
+ 
+ We have required significant amounts of cash to fund our operating activities as a result of net losses since our inception. Cash used in operating activities is adjusted for non-cash items to reconcile net loss to net cash used in operating activities. These non-cash adjustments have historically included stock-based compensation and depreciation and amortization, and for year ended December 31, 2018 included a gain related to common stock received as part of a litigation settlement. 
+ 
+ We expect that we will require significant amounts of cash to fund our operating activities for the foreseeable future as we continue to execute on our Alnylam 2020 strategy through the advancement of our research, development, pre-commercial and commercial initiatives. The actual amount of overall expenditures will depend on numerous factors, including the timing of expenses, the timing and terms of collaboration agreements or other strategic transactions, if any, and the timing and progress of our research, development and commercialization efforts. 
+ 
+ The increase in net cash used in operating activities for the year ended December 31, 2018 compared to the year ended December 31, 2017 and for the year ended December 31, 2017 compared to the year ended December 31, 2016 was due primarily to our net loss. 
+ 
+ Investing activities 
+ 
+ For the years ended December 31, 2018, 2017 and 2016, net cash provided by or used in investing activities included purchases of property, plant and equipment of $126.9 million, $104.2 million and $64.6 million, respectively, primarily in connection with construction of our drug substance manufacturing facility. In addition, in connection with the commencement of our lease for 675 West Kendall Street in Cambridge, Massachusetts in May 2018, we were required to provide a $14.8 million security deposit that is recorded as restricted investments on our consolidated balance sheet as of December 31, 2018. For the year ended December 31, 2016, there were $150.0 million of purchases of restricted investments related to our term loan agreements with Bank of America N.A., or BOA, and Wells Fargo Bank, National Association, or Wells. In December 2017, we repaid in full $120.0 million outstanding under the BOA term loan agreement. For the years ended December 31, 2018, 2017 and 2016, net cash provided by or used in investing activities included activities related to our marketable debt securities in accordance with management of our liquidity needs. 
+ 
+ Financing activities 
+ 
+ For the year ended December 31, 2018, net cash of $65.5 million provided by financing activities was due primarily to proceeds received from the issuance of common stock in connection with stock option exercises and the purchase of shares under our employee stock purchase plan . For the year ended December 31, 2017, net cash of $1.12 billion provided by financing activities was due primarily to proceeds of $1.14 billion received from our May and November 2017 underwritten public offerings. For the year ended December 31, 2016, net cash of $177.8 million provided by financing activities was due primarily to our term loan agreements with BOA and Wells. 
+ 
+ Operating Capital Requirements 
+ 
+ We currently have programs focused on a number of therapeutic areas and, in August 2018, received our first product approvals in the U.S. and EU for ONPATTRO. As a result, we began to generate net revenues from product sales during the third quarter of 2018. However, our ongoing development efforts may not be successful and we may not be able to commence sales of any other products in the future. In addition, we anticipate that we will continue to generate significant losses for the foreseeable future as a result of planned expenditures for research and development activities relating to our research platform, our drug development 
+ 
+ 93 
+ 
+ 
+ 
+ 
+ programs, including clinical trial and manufacturing costs, the establishment of late stage clinical and commercial capabilities, including global operations, continued management and growth of our intellectual property including our patent portfolio, collaborations and general corporate activities. In addition, we are expanding our manufacturing capabilities, including through construction of a drug substance manufacturing facility in Norton, Massachusetts. In April 2016, our subsidiary, Alnylam U.S., Inc., entered into an aggregate of $150.0 million in term loan agreements related to the build out of our new drug substance manufacturing facility. In December 2017, we repaid in full $120.0 million outstanding under one of these term loan agreements. Interest on the borrowings was and is calculated based on LIBOR plus 0.45 percent and obligations were and are secured by cash collateral in an amount equal to, at any given time, at least 100 percent of the principal amount of all term loans outstanding under the agreements at such time. We are the guarantor under the remaining term loan agreement, which matures in April 2021. 
+ 
+ Based on our current operating plan, we believe that our cash, cash equivalents and marketable debt securities at December 31, 2018, together with the proceeds from our public offering in January 2019 and the cash we expect to generate from product sales and under our current alliances, will be sufficient to enable us to advance our Alnylam 2020 strategy for at least the next 24 months from the filing of this annual report on Form 10-K. For reasons discussed below, we may require significant additional funds earlier than we currently expect in order to continue to commercialize ONPATTRO and to develop, conduct clinical trials for, manufacture and, if approved, commercialize additional product candidates. 
+ 
+ In the future, we may seek additional funding through new collaborative arrangements and public or private financings. Additional funding may not be available to us on acceptable terms or at all. Moreover, the terms of any additional financing may further adversely affect the holdings or the rights of our stockholders. For example, if we raise additional funds by issuing equity securities, further dilution to our existing stockholders will result. In addition, as a condition to providing additional funds to us, future investors may demand, and may be granted, rights superior to those of existing stockholders. If we are unable to obtain funding on a timely basis, we may be required to significantly delay or curtail one or more of our research or development programs and our ability to achieve our goals for 2020 may be delayed or diminished. We also could be required to seek funds through arrangements with collaborators or others that may require us to relinquish rights to some of our technologies, product candidates or products that we would otherwise pursue on our own. Even if we are able to raise additional funds in a timely manner, our future capital requirements may vary from what we expect and will depend on many factors, including: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ 
+ 
+ our continued progress in demonstrating that siRNAs can be active as drugs and achieve desired clinical effects; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ 
+ 
+ progress in our research and development programs, as well as what may be required by regulatory bodies to advance these programs; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ 
+ 
+ the timing, receipt and amount of milestone and other payments, if any, from present and future collaborators, if any; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ 
+ 
+ our ability to maintain and establish additional collaborative arrangements and/or new business initiatives; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ 
+ 
+ the resources, time and costs required to successfully initiate and complete our pre-clinical and clinical trials, obtain regulatory approvals, prepare for global commercialization of our product candidates and obtain and maintain licenses to third-party intellectual property; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ 
+ 
+ our ability to establish, maintain and operate our own manufacturing facilities in a timely and cost-effective manner; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ 
+ 
+ our ability to manufacture, or contract with third-parties for the manufacture of, our product candidates for clinical testing and commercial sale; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ 
+ 
+ the resources, time and cost required for the preparation, filing, prosecution, maintenance and enforcement of patent claims; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ 
+ 
+ the costs associated with legal activities, including litigation, arising in the course of our business activities and our ability to prevail in any such legal disputes; and 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ 
+ 
+ the timing, receipt and amount of sales and royalties, if any, from ONPATTRO and our other potential products. 
+ 
+ Off-Balance Sheet Arrangements 
+ 
+ In connection with our license agreements with Max Planck relating to the Tuschl I and II patent applications, we are required to indemnify Max Planck for certain damages arising in connection with the intellectual property rights licensed under the agreements. Under this indemnification agreement with Max Planck, we are responsible for paying the costs of any litigation relating to the license agreements or the underlying intellectual property rights, including the costs associated with certain litigation regarding the Tuschl patents, which was settled in 2011. In connection with the settlement of the litigation regarding the Tuschl patents, we also agreed to indemnify Whitehead, MIT and UMass for certain costs associated with defending the Utah litigation described above in Part I, ITEM 1A, “Risk Factors.” In connection with our research agreement with Acuitas, we agreed to indemnify Acuitas for certain legal costs, 
+ 
+ 94 
+ 
+ 
+ 
+ 
+ subject to certain exceptions and limitations, associated with certain litigation with Arbutus, which has been settled. These indemnification costs are charged to selling, general and administrative expense. In addition, we are a party to a number of agreements entered into in the ordinary course of business, which contain typical provisions that obligate us to indemnify the other parties to such agreements upon the occurrence of certain events. These indemnification obligations are considered off-balance sheet arrangements in accordance with GAAP. To date, other than certain costs associated with certain previously settled litigation related to the Tuschl patents and the litigation with Arbutus, and certain defense costs related to the Utah litigation, we have not encountered material costs as a result of such obligations and have not accrued any liabilities related to such obligations in our consolidated financial statements. Please read Note 9 to our consolidated financial statements included in Part II, ITEM 8, “Financial Statements and Supplementary Data,” of this annual report on Form 10-K for further discussion of these indemnification agreements. 
+ 
+ Contractual Obligations 
+ 
+ In the table below, we set forth our enforceable and legally binding obligations and future commitments at December 31, 2018. Some of the figures that we include in this table are based on management’s estimates and assumptions about these obligations, including their duration, the possibility of renewal, anticipated actions by third parties and other factors. Because these estimates and assumptions are necessarily subjective, the obligations we will actually pay in future periods may vary from those reflected in the table. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Payments Due by Period 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Contractual Obligations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2019 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2020 and 2021 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2022 and 2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ After 2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Facility lease obligations(1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 32,228 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 69,236 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 70,096 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 390,455 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 562,015 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Long-term debt(2) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 903 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 31,277 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 32,180 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Technology license commitments(3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,453 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,540 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,070 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 525 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4,588 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total contractual cash obligations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 34,584 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 102,053 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 71,166 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 390,980 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 
+ 
+ 598,783 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) 
+ 
+ 
+ 
+ Relates primarily to our Cambridge, Massachusetts non-cancelable facility lease agreements. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (2) 
+ 
+ 
+ 
+ In April 2016, our subsidiary, Alnylam U.S., Inc., entered into a $30.0 million term loan agreement with Wells, for which we are the guarantor, related to the build out of our new drug substance manufacturing facility, that matures in April 2021. Interest payments are included in the table above and are calculated based on LIBOR plus 0.45 percent. The obligations under the term loan agreement are secured by cash collateral in an amount equal to, at any given time, at least 100 percent of the principal amount of the term loan outstanding at such time. We include estimates for interest in “Long-term debt,” which are equivalent to our expectations for the probable outcome of variable interest rates that are dependent on various future events and market interest rates. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ 
+ 
+ Relates to our fixed payment obligations under license agreements. 
+ 
+ The table above excludes approximately $297.6 million of cancellable commitments related to clinical and manufacturing-related agreements. We in-license technology from a number of sources, including Ionis, Merck and Arbutus . In addition, we have collaboration agreements relating to the research, development and commercialization of certain of our product candidates. Pursuant to these agreements, we will be required to make additional payments, including in some cases milestone payments if and when we achieve specified development, regulatory and commercialization events, as well as royalty payments on ONPATTRO and potentially other products, if approved. Amounts related to contingent milestone payments are not considered contractual obligations as they are contingent upon the successful achievement of such milestones. Based on our current development plans as of December 31, 2018, potential future milestone payments to third parties could equal up to $53.7 million, including $9.9 million in development milestones, $40.2 million in regulatory milestones and $3.6 million in commercial milestones. These milestones generally become due and payable upon achievement. Because the achievement of these milestones was not considered probable as of December 31, 2018, such contingencies have not been recorded in our consolidated financial statements. 
+ 
+ Recent Accounting Pronouncements 
+ 
+ Please read Note 2 to our consolidated financial statements included in Part II, ITEM 8, “Financial Statements and Supplementary Data,” of this annual report on Form 10-K for a description of recent accounting pronouncements applicable to our business. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

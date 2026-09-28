@@ -1,0 +1,735 @@
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+ 
+ Overview 
+ 
+ Our business is comprised of two operating segments, the Flight Support Group (“FSG”) and the Electronic Technologies Group (“ETG”). 
+ 
+ The FSG consists of HEICO Aerospace Holdings Corp. (“HEICO Aerospace”), which is 80% owned, and HEICO Flight Support Corp., which is wholly owned, and their collective subsidiaries, which primarily: 
+ 
+ • Designs, Manufactures, Repairs, Overhauls and Distributes Jet Engine and Aircraft Component Replacement Parts. The FSG designs and manufactures jet engine and aircraft component replacement parts, which are approved by the Federal Aviation Administration (“FAA”). In addition, the FSG repairs, overhauls and distributes jet engine and aircraft components, avionics and instruments for domestic and foreign commercial air carriers and aircraft repair companies as well as military and business aircraft operators. The FSG also manufactures and sells specialty parts as a subcontractor for aerospace and industrial original equipment manufacturers and the United States ("U.S.") government. Additionally, the FSG is a leading supplier, distributor, and integrator of military aircraft parts and support services primarily to foreign military organizations allied with the U.S. and a leading manufacturer of advanced niche components and complex composite assemblies for commercial aviation, defense and space applications. Further, the FSG engineers, designs and manufactures thermal insulation blankets and parts as well as removable/reusable insulation systems for aerospace, defense, commercial and industrial applications; manufactures expanded foil mesh for lightning strike protection in fixed and rotary wing aircraft; distributes aviation electrical interconnect products and electromechanical parts; and overhauls industrial pumps, motors, and other hydraulic units with a focus on the support of legacy systems for the U.S. Navy. 
+ 
+ The ETG consists of HEICO Electronic Technologies Corp. (“HEICO Electronic”) and its subsidiaries, which primarily: 
+ 
+ • Designs and Manufactures Electronic, Microwave and Electro-Optical Equipment, High-Speed Interface Products, High Voltage Interconnection Devices, EMI and RFI Shielding and Filters, High Voltage Advanced Power Electronics, Power Conversion Products, Underwater Locator Beacons, Microelectronic Memory Products, Self-Sealing Auxiliary Fuel Systems, Active Antenna Systems and TSCM Equipment. The ETG collectively designs, manufactures and sells various types of electronic, data and microwave, and electro-optical products, including infrared simulation and test equipment, laser rangefinder receivers, electrical power supplies, back-up power supplies, power conversion products, underwater locator beacons, emergency locator transmission beacons, flight deck annunciators, panels and indicators, electromagnetic and radio frequency interference shielding and filters, high power capacitor charging power supplies, amplifiers, traveling 
+ 
+ 
+ 33 
+ 
+ Index 
+ wave tube amplifiers, photodetectors, amplifier modules, microwave power modules, flash lamp drivers, laser diode drivers, arc lamp power supplies, custom power supply designs, cable assemblies, high voltage power supplies, high voltage interconnection devices and wire, high voltage energy generators, high frequency power delivery systems, three-dimensional microelectronic and stacked memory products, harsh environment electronic connectors and other interconnect products, radio frequency ("RF") and microwave amplifiers, transmitters and receivers; RF sources, detectors and controllers, wireless cabin control systems, solid state power distribution and management systems, crashworthy and ballistically self-sealing auxiliary fuel systems, nuclear radiation detectors, communications and electronic intercept receivers and tuners, fuel level sensing systems, high-speed interface products that link devices, high performance active antenna systems for commercial aircraft, precision guided munitions, other defense applications and commercial uses; silicone material for a variety of demanding applications; precision power analog monolithic, hybrid and open frame components; high-reliability ceramic-to-metal feedthroughs and connectors, technical surveillance countermeasures (TSCM) equipment to detect devices used for espionage and information theft; and rugged small-form factor embedded computing solutions. 
+ 
+ Our results of operations in fiscal 2020 were significantly affected by the COVID-19 global pandemic (the “Pandemic”). The effects of the Pandemic and related actions by governments around the world to mitigate its spread have impacted our employees, customers, suppliers and manufacturers. In response to the economic impact from the Pandemic, we implemented certain cost reduction efforts, including layoffs, temporary reduced work hours and temporary pay reductions within various departments of our business, including within our executive management team and our Board of Directors. Additionally, our response to the Pandemic included the implementation of varying health and safety measures at our facilities, including: supplying and requiring the use of personal protective equipment; staggering work shifts; body temperature taking; increasing work-from-home capabilities; consistent and ongoing cleaning of work spaces and high-touch areas; and establishing processes aligned with the Centers for Disease and Control guidelines to work with any individual exposed to COVID-19 on their necessary quarantine period and the process for the individual to return to work. 
+ 
+ With respect to our results of operations, approximately 59% of our net sales in fiscal 2020 were derived from defense, space and other industrial markets including electronics, medical and telecommunications. Although demand for these products was slightly moderated in fiscal 2020, our overall results from this portion of our business were not materially impacted by the Pandemic. However, we experienced, and expect to continue experiencing, periodic operational disruptions resulting from supply chain disturbances, staffing challenges - including at some of our customers, temporary facility closures, transportation interruptions and other conditions which slow production and orders, or increase costs. 
+ 
+ The remaining portion of our fiscal 2020 net sales was derived from commercial aviation products and services. The Pandemic has caused significant volatility and a substantial decline in value across global markets. Most notably, the commercial aerospace industry experienced an ongoing substantial decline in demand resulting from a significant number of aircraft in the 
+ 
+ 
+ 34 
+ 
+ Index 
+ global fleet being grounded during fiscal 2020. Our businesses that operate within the commercial aerospace industry were materially impacted by the significant decline in global commercial air travel that began in March 2020. Consolidated net sales for our businesses that operate within the commercial aerospace industry decreased by approximately 32% during fiscal 2020. 
+ 
+ As we look ahead to fiscal 2021, the extent to which the Pandemic may have a material adverse effect on our future business, financial condition and results of operations will depend on many factors that are not within HEICO’s control, including but not limited to the duration, spread and severity of the Pandemic, government responses and other actions to mitigate the spread of and to treat the Pandemic, and when and to what extent normal business, economic and social activity and conditions resume. However, we are cautiously optimistic that the recent vaccine progress may generate increased commercial air travel and result in a gradual recovery in demand for our commercial aerospace parts and services commencing in fiscal 2021. 
+ 
+ Additionally, our results of operations in fiscal 2020 have been affected by recent acquisitions as further detailed in Note 2, Acquisitions, of the Notes to Consolidated Financial Statements. 
+ 
+ Presentation of Results of Operations and Liquidity and Capital Resources 
+ 
+ The following discussion and analysis of our Results of Operations and Liquidity and Capital Resources includes a comparison of fiscal 2020 to fiscal 2019. A similar discussion and analysis that compares fiscal 2019 to fiscal 2018 may be found in ITEM 7, "Management’s Discussion and Analysis of Financial Condition and Results of Operations,” of our Form 10-K for the fiscal year ended October 31, 2019. 
+ 
+ 
+ 
+ 35 
+ 
+ Index 
+ Results of Operations 
+ 
+ The following table sets forth the results of our operations, net sales and operating income by segment and the percentage of net sales represented by the respective items in our Consolidated Statements of Operations (in thousands) : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year ended October 31, 
+ 
+ 
+ 2020 
+ 
+ 2019 
+ 
+ Net sales 
+ $1,787,009 
+ 
+ 
+ $2,055,647 
+ 
+ 
+ Cost of sales 
+ 1,104,882 
+ 
+ 
+ 1,241,807 
+ 
+ 
+ 
+ Selling, general and administrative expenses 
+ 305,479 
+ 
+ 
+ 356,743 
+ 
+ 
+ 
+ Total operating costs and expenses 
+ 1,410,361 
+ 
+ 
+ 1,598,550 
+ 
+ 
+ Operating income 
+ $376,648 
+ 
+ 
+ $457,097 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net sales by segment: 
+ 
+ 
+ 
+ 
+ 
+ Flight Support Group 
+ $924,812 
+ 
+ 
+ $1,240,183 
+ 
+ 
+ Electronic Technologies Group 
+ 874,987 
+ 
+ 
+ 834,522 
+ 
+ 
+ 
+ Intersegment sales 
+ (12,790) 
+ 
+ 
+ (19,058) 
+ 
+ 
+ 
+ $1,787,009 
+ 
+ 
+ $2,055,647 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating income by segment: 
+ 
+ 
+ 
+ 
+ 
+ Flight Support Group 
+ $143,051 
+ 
+ 
+ $242,029 
+ 
+ 
+ 
+ Electronic Technologies Group 
+ 258,814 
+ 
+ 
+ 245,743 
+ 
+ 
+ 
+ Other, primarily corporate 
+ (25,217) 
+ 
+ 
+ (30,675) 
+ 
+ 
+ 
+ $376,648 
+ 
+ 
+ $457,097 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net sales 
+ 100.0 
+ % 
+ 
+ 100.0 
+ % 
+ 
+ Gross profit 
+ 38.2 
+ % 
+ 
+ 39.6 
+ % 
+ 
+ 
+ Selling, general and administrative expenses 
+ 17.1 
+ % 
+ 
+ 17.4 
+ % 
+ 
+ Operating income 
+ 21.1 
+ % 
+ 
+ 22.2 
+ % 
+ 
+ Interest expense 
+ .7 
+ % 
+ 
+ 1.1 
+ % 
+ 
+ Other income 
+ .1 
+ % 
+ 
+ .1 
+ % 
+ 
+ Income tax expense 
+ 1.6 
+ % 
+ 
+ 3.8 
+ % 
+ 
+ 
+ Net income attributable to noncontrolling interests 
+ 1.2 
+ % 
+ 
+ 1.5 
+ % 
+ 
+ 
+ Net income attributable to HEICO 
+ 17.6 
+ % 
+ 
+ 16.0 
+ % 
+ 
+ 
+ 36 
+ 
+ Index 
+ Comparison of Fiscal 2020 to Fiscal 2019 
+ 
+ Net Sales 
+ 
+ Our consolidated net sales in fiscal 2020 decreased by 13% to $1,787.0 million, as compared to net sales of $2,055.6 million in fiscal 2019. The decrease in consolidated net sales principally reflects a decrease of $315.4 million (a 25% decrease) to $924.8 million in net sales within the FSG partially offset by an increase of $40.5 million (a 5% increase) to a record $875.0 million in net sales within the ETG. The net sales decrease in the FSG is principally organic and reflects lower demand for the majority of our products and services resulting from the significant decline in global commercial air travel beginning in March 2020 due to the Pandemic. As a result, organic net sales of our aftermarket replacement parts, repair and overhaul parts and services, and specialty products product lines decreased by $154.0 million, $106.2 million, and $58.8 million, respectively. The net sales increase in the ETG principally reflects $52.8 million contributed by our fiscal 2020 and 2019 acquisitions and higher demand for our defense products resulting in an organic net sales increase of $13.6 million partially offset by lower demand for our commercial aerospace and medical products resulting in organic net sales decreases of $12.9 million and $5.6 million, respectively, largely attributable to the Pandemic. Sales price changes were not a significant contributing factor to the change in net sales of the FSG and ETG in the fiscal 2020. 
+ 
+ Our net sales in fiscal 2020 and 2019 by market consisted of approximately 41% and 52% from the commercial aviation industry, respectively, 44% and 35% from the defense and space industries, respectively, and 15% and 13% from other industrial markets including electronics, medical and telecommunications, respectively. 
+ 
+ Gross Profit and Operating Expenses 
+ 
+ Our consolidated gross profit margin was 38.2% in fiscal 2020 as compared to 39.6% in 2019, principally reflecting a decrease of 3.6% and 1.3% in the FSG's and ETG's gross profit margin, respectively. The decrease in the FSG's gross profit margin principally reflects a 2.1% impact, or an incremental increase of $18.1 million, from an increase in inventory obsolescence expense mainly resulting from the announced retirement of certain aircraft types and engine platforms by our commercial aerospace customers due to the Pandemic's financial impact. Additionally, the FSG's lower gross profit margin reflects the impact from lower net sales within our repair and overhaul parts and services and aftermarket replacement parts product lines. The decrease in the ETG's gross profit margin principally reflects a decrease in net sales and a less favorable product mix of certain commercial aerospace and medical products, partially offset by increased net sales of certain defense products. Total new product research and development ("R&D") expenses included within our consolidated cost of sales were $65.6 million and $66.6 million in fiscal 2020 and 2019, respectively. 
+ 
+ Our consolidated selling, general and administrative ("SG&A") expenses decreased by 14% to $305.5 million in fiscal 2020, as compared to $356.7 million in fiscal 2019. The decrease in consolidated SG&A expenses reflects a $36.5 million decrease in performance-based 
+ 
+ 
+ 37 
+ 
+ Index 
+ compensation expense, a $20.7 million reduction in other general and administrative expenses and a $16.5 million reduction in other selling expenses including outside sales commissions, marketing and travel. These decreases were partially offset by $13.4 million attributable to the fiscal 2019 and 2020 acquisitions and a $9.1 million increase in bad debt expense principally due to potential collection difficulties from certain commercial aviation customers that filed for bankruptcy protection during fiscal 2020 as a result of the Pandemic's financial impact. 
+ 
+ Our consolidated SG&A expenses as a percentage of net sales decreased to 17.1% in fiscal 2020, down from 17.4% in fiscal 2019. The decrease in consolidated SG&A expenses as a percentage of net sales is due to a 1.6% impact from lower performance-based compensation expense and a .2% decrease in other selling expenses, partially offset by a 1.0% impact from higher other general and administrative expenses as a percentage of net sales and a .5% increase in bad debt expense principally due to potential collection difficulties from certain commercial aviation customers that filed for bankruptcy protection during fiscal 2020 as a result of the Pandemic's financial impact. 
+ 
+ Operating Income 
+ 
+ Our consolidated operating income decreased by 18% to $376.6 million in fiscal 2020, as compared to $457.1 million in fiscal 2019. The decrease in consolidated operating income principally reflects a $99.0 million decrease (a 41% decrease) to $143.1 million in operating income of the FSG partially offset by a $13.1 million increase (a 5% increase) to a record $258.8 million in operating income of the ETG. The decrease in operating income of the FSG principally reflects the previously mentioned decrease in net sales, lower gross profit margin and a $9.3 million increase in bad debt expense principally due to potential collection difficulties from certain commercial aviation customers that filed for bankruptcy protection during fiscal 2020 as a result of the Pandemic's financial impact, partially offset by a $26.1 million decrease in performance-based compensation expense. The increase in operating income of the ETG principally reflects the previously mentioned net sales growth, a $5.4 million decrease in performance-based compensation expense and a $2.5 million decrease in acquisition-related expenses, partially offset by the previously mentioned decrease in gross profit margin. Further, the decrease in consolidated operating income was partially offset by $5.4 million of lower corporate expenses mainly attributable to a decrease in performance-based compensation expense. 
+ 
+ Our consolidated operating income as a percentage of net sales was 21.1% in fiscal 2020, as compared to 22.2% in fiscal 2019. The decrease principally reflects a decrease in the FSG’s operating income as a percentage of net sales to 15.5% in fiscal 2020, as compared to 19.5% in fiscal 2019. The decrease in the FSG’s operating income as a percentage of net sales reflects the previously mentioned lower gross profit margin and a .5% increase in SG&A expenses as a percentage of net sales mainly from the previously mentioned higher bad debt expense and fixed cost efficiencies lost resulting from the Pandemic's impact, partially offset by the previously mentioned lower performance-based compensation expense. The ETG's operating income as a percentage of net sales increased to 29.6% in fiscal 2020, up from 29.4% in fiscal 2019. 
+ 
+ 
+ 
+ 38 
+ 
+ Index 
+ Interest Expense 
+ 
+ Interest expense decreased to $13.2 million in fiscal 2020, down from $21.7 million in fiscal 2019. The decrease was principally due to a lower weighted average interest rate on borrowings outstanding under our revolving credit facility. 
+ 
+ Other Income 
+ 
+ Other income in fiscal 2020 and 2019 was not material. 
+ 
+ Income Tax Expense 
+ 
+ Our effective tax rate in fiscal 2020 was 7.9%, as compared to 17.8% in fiscal 2019. The decrease in our effective tax rate in fiscal 2020 is mainly attributable to a $31.8 million larger tax benefit recognized in fiscal 2020 from stock option exercises compared to fiscal 2019 as a result of more stock options exercised and the strong appreciation in HEICO's stock price during the optionees' holding periods. 
+ 
+ Net Income Attributable to Noncontrolling Interests 
+ Net income attributable to noncontrolling interests relates to the 20% noncontrolling interest held by Lufthansa Technik AG ("LHT") in HEICO Aerospace Holdings Corp. and the noncontrolling interests held by others in certain subsidiaries of the FSG and ETG. Net income attributable to noncontrolling interests was $21.9 million in fiscal 2020, as compared to $31.8 million in fiscal 2019. The decrease in net income attributable to noncontrolling interests in fiscal 2020 principally reflects a decrease in operating results of certain subsidiaries of the FSG in which noncontrolling interests are held as well as the impact of a dividend paid by HEICO Aerospace in June 2019 that effectively resulted in the transfer of the 20% noncontrolling interest held by LHT in eight of our existing subsidiaries within HEICO Aerospace that are principally part of the FSG's repair and overhaul parts and services product line to HEICO Flight Support Corp., a wholly owned subsidiary of HEICO. 
+ 
+ Net Income Attributable to HEICO 
+ 
+ Net income attributable to HEICO was $314.0 million, or $2.29 per diluted share, in fiscal 2020 as compared to $327.9 million, or $2.39 per diluted share, in fiscal 2019, principally reflecting the previously mentioned lower operating income of the FSG, partially offset by lower income tax expense, less net income attributable to noncontrolling interests and lower interest expense. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 39 
+ 
+ Index 
+ Outlook 
+ 
+ As we look ahead to fiscal 2021, the Pandemic will likely continue to negatively impact the commercial aerospace industry and HEICO. Given this uncertainty, HEICO cannot provide fiscal 2021 net sales and earnings guidance at this time. However, we believe our ongoing fiscal conservative policies, healthy balance sheet, and increased liquidity will permit us to invest in new research and development and gain market share as the industry recovers. In addition, our time-tested strategy of maintaining low debt and acquiring and operating high cash generating businesses across a diverse base of industries beyond commercial aerospace, such as defense, space and other high-end markets including electronics and medical, puts us in a good financial position to weather this uncertain economic period. Further, we are cautiously optimistic that the recent vaccine progress may generate increased commercial air travel and result in a gradual recovery in demand for our commercial aerospace parts and services commencing in fiscal 2021. 
+ 
+ Inflation 
+ 
+ We have generally experienced increases in our costs of labor, materials and services consistent with overall rates of inflation. The impact of such increases on net income attributable to HEICO has been generally minimized by efforts to lower costs through manufacturing efficiencies and cost reductions. 
+ 
+ Liquidity and Capital Resources 
+ 
+ The following table summarizes our capitalization (in thousands): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ As of October 31, 
+ 
+ 
+ 2020 
+ 
+ 2019 
+ 
+ Cash and cash equivalents 
+ $406,852 
+ 
+ 
+ $57,001 
+ 
+ 
+ Total debt (including current portion) 
+ 739,831 
+ 
+ 
+ 561,955 
+ 
+ 
+ Shareholders’ equity 
+ 2,010,607 
+ 
+ 
+ 1,694,660 
+ 
+ 
+ Total capitalization (debt plus equity) 
+ 2,750,438 
+ 
+ 
+ 2,256,615 
+ 
+ 
+ Total debt to total capitalization 
+ 27% 
+ 
+ 25% 
+ 
+ Our principal uses of cash include acquisitions, capital expenditures, cash dividends, distributions to noncontrolling interests and working capital needs. Capital expenditures in fiscal 2021 are anticipated to approximate $40 million. We finance our activities primarily from our operating and financing activities, including borrowings under our revolving credit facility. 
+ 
+ As of December 22, 2020, we had approximately $755 million of unused committed availability under the terms of our revolving credit facility. Based on our current outlook, we believe that net cash provided by operating activities and available borrowings under our revolving credit facility will be sufficient to fund our cash requirements for at least the next twelve months. 
+ 
+ 
+ 
+ 40 
+ 
+ Index 
+ Operating Activities 
+ 
+ Net cash provided by operating activities was $409.1 million in fiscal 2020 and consisted primarily of net income from consolidated operations of $335.9 million, depreciation and amortization expense of $88.6 million (a non-cash ITEM), net changes in other long-term liabilities and assets related to the HEICO Leadership Compensation Plan (“LCP”) of $14.8 million (principally participant deferrals and employer contributions), $10.1 million in share-based compensation expense (a non-cash ITEM), and $9.6 million in employer contributions to the HEICO Savings and Investment Plan (a non-cash ITEM), partially offset by a $48.5 million increase in working capital. The increase in working capital is inclusive of a $68.2 million decrease in accrued expenses and other current liabilities and trade accounts payable mainly reflecting lower accrued performance-based compensation as well as the timing of payments; a $28.3 million increase in inventories as a result of certain inventory purchase commitments based on pre-Pandemic net sales expectations and to support the backlog of certain of our businesses; and a $16.4 million increase in contract assets, partially offset by a $71.5 million decrease in accounts receivable resulting from lower net sales and strong cash collections. Net cash provided by operating activities decreased by $28.3 million in fiscal 2020 from $437.4 million in fiscal 2019. The decrease is principally attributable to a $23.9 million decrease in net income from consolidated operations and a $16.3 million increase in net working capital partially offset by a $5.1 million increase in depreciation and amortization expense (a non-cash ITEM). 
+ 
+ Net cash provided by operating activities was $437.4 million in fiscal 2019 and consisted primarily of net income from consolidated operations of $359.7 million, depreciation and amortization expense of $83.5 million (a non-cash ITEM), net changes in other long-term liabilities and assets related to the HEICO LCP of $12.9 million (principally participant deferrals and employer contributions) and $10.3 million in share-based compensation expense (a non-cash ITEM), partially offset by a $32.3 million increase in working capital. 
+ 
+ Investing Activities 
+ 
+ Net cash used in investing activities totaled $199.0 million in fiscal 2020 and related primarily to acquisitions of $163.9 million (net of cash acquired), capital expenditures of $22.9 million and investments related to the HEICO LCP of $15.9 million. Further details on acquisitions may be found in Note 2, Acquisitions, of the Notes to Consolidated Financial Statements. 
+ 
+ Net cash used in investing activities totaled $280.6 million in fiscal 2019 and related primarily to acquisitions of $240.8 million (net of cash acquired), capital expenditures of $28.9 million and investments related to the HEICO LCP of $13.7 million. Further details on acquisitions may be found in Note 2, Acquisitions, of the Notes to Consolidated Financial Statements. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 41 
+ 
+ Index 
+ Financing Activities 
+ 
+ Net cash provided by financing activities in fiscal 2020 totaled $137.7 million. During fiscal 2020, we borrowed $200.0 million under our revolving credit facility to provide a cushion of liquidity during this period of economic uncertainty resulting from the Pandemic and $45.0 million to fund our fiscal 2020 acquisitions. We also received $14.3 million in capital contributions from the noncontrolling interest holders of a subsidiary of HEICO Electronic representing their share of the purchase price for a 25% interest in two acquisitions made by a subsidiary of HEICO Electronic in August 2020. (See Note 2, Acquisitions, of the Notes to Consolidated Financial Statements for further details). Additionally, we made $68.0 million in payments on our revolving credit facility, paid $21.6 million in cash dividends on our common stock, made $17.9 million of distributions to noncontrolling interests, redeemed common stock related to stock option exercises aggregating $12.1 million, paid $7.5 million to acquire certain noncontrolling interests and received $7.0 million in proceeds from stock option exercises. 
+ 
+ Net cash used in financing activities in fiscal 2019 totaled $159.7 million. During fiscal 2019, we made $283.0 million in payments on our revolving credit facility, paid $110.9 million in distributions to noncontrolling interests, redeemed common stock related to stock option exercises aggregating $64.0 million and paid $18.7 million in cash dividends on our common stock. Additionally, we borrowed $313.0 million under our revolving credit facility to fund certain of our fiscal 2019 acquisitions and a certain distribution to a noncontrolling interest holder. 
+ 
+ In November 2017, we entered into a $1.3 billion Revolving Credit Facility Agreement ("Credit Facility") with a bank syndicate, which matures in November 2022. Under certain circumstances, the maturity of the Credit Facility may be extended for two one-year periods. The Credit Facility also includes a feature that will allow us to increase the capacity by $350 million to become a $1.65 billion facility through increased commitments from existing lenders or the addition of new lenders. Borrowings under the Credit Facility may be used to finance acquisitions and for working capital and other general corporate purposes, including capital expenditures. 
+ 
+ On December 11, 2020, we entered into an amendment to extend the maturity date of the Credit Facility by one year to November 2023 and to increase the capacity by $200 million to $1.5 billion. The Credit Facility continues to include a feature that will allow us to increase the capacity by $350 million to become a $1.85 billion facility through increased commitments from existing lenders or the addition of new lenders and can be extended for an additional one-year period. 
+ 
+ Borrowings under the Credit Facility accrue interest at our election of the Base Rate or the Eurocurrency Rate, plus in each case, the Applicable Rate (based on our Total Leverage Ratio). The Base Rate for any day is a fluctuating rate per annum equal to the highest of (i) the Prime Rate; (ii) the Federal Funds Rate plus .50%; and (iii) the Eurocurrency Rate for an Interest Period of one month plus 100 basis points. The Eurocurrency Rate is the rate per annum obtained by dividing LIBOR for the applicable Interest Period by a percentage equal to 1.00 
+ 
+ 
+ 42 
+ 
+ Index 
+ minus the daily average Eurocurrency Reserve Rate for such Interest Period, as such capitalized terms are defined in the Credit Facility. The Applicable Rate for Eurocurrency Rate Loans ranges from 1.00% to 2.00%. The Applicable Rate for Base Rate Loans ranges from 0% to 1.00%. A fee is charged on the amount of the unused commitment ranging from .125% to .30% (depending on our Total Leverage Ratio). The Credit Facility also includes $100 million sublimits for borrowings made in foreign currencies and for swingline borrowings, and a $50 million sublimit for letters of credit. Outstanding principal, accrued and unpaid interest and other amounts payable under the Credit Facility may be accelerated upon an event of default, as such events are described in the Credit Facility. The Credit Facility is unsecured and contains covenants that require, among other things, the maintenance of a Total Leverage Ratio and an Interest Coverage Ratio, as such capitalized terms are defined in the Credit Facility. We were in compliance with all financial and nonfinancial covenants of the Credit Facility as of October 31, 2020. 
+ 
+ Contractual Obligations 
+ 
+ The following table summarizes our contractual obligations as of October 31, 2020 
+ (in thousands): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Payments due by fiscal period 
+ 
+ 
+ Total 
+ 
+ 2021 
+ 
+ 2022 - 2023 
+ 
+ 2024 - 2025 
+ 
+ Thereafter 
+ 
+ 
+ Long-term debt obligations (1) 
+ $730,264 
+ 
+ 
+ $11 
+ 
+ 
+ $98 
+ 
+ 
+ $730,110 
+ 
+ 
+ $45 
+ 
+ 
+ 
+ Estimated interest payments (1) 
+ 28,395 
+ 
+ 
+ 9,422 
+ 
+ 
+ 18,844 
+ 
+ 
+ 129 
+ 
+ 
+ — 
+ 
+ 
+ 
+ Finance lease obligations (2) 
+ 12,144 
+ 
+ 
+ 1,436 
+ 
+ 
+ 2,527 
+ 
+ 
+ 1,964 
+ 
+ 
+ 6,217 
+ 
+ 
+ 
+ Operating lease obligations (3) 
+ 70,778 
+ 
+ 
+ 16,549 
+ 
+ 
+ 24,392 
+ 
+ 
+ 9,832 
+ 
+ 
+ 20,005 
+ 
+ 
+ 
+ Purchase obligations (4) (5) (6) 
+ 46,164 
+ 
+ 
+ 3,631 
+ 
+ 
+ 22,366 
+ 
+ 
+ 20,167 
+ 
+ 
+ — 
+ 
+ 
+ 
+ Other long-term liabilities (7) 
+ 14,209 
+ 
+ 
+ 2,582 
+ 
+ 
+ 8,869 
+ 
+ 
+ 1,719 
+ 
+ 
+ 1,039 
+ 
+ 
+ Total contractual obligations 
+ $901,954 
+ 
+ 
+ $33,631 
+ 
+ 
+ $77,096 
+ 
+ 
+ $763,921 
+ 
+ 
+ $27,306 
+ 
+ __________________ 
+ 
+ (1) Estimated interest payments assumes the $730.0 million outstanding balance under our revolving credit facility and related interest rate of 1.3% as of October 31, 2020, will remain constant through the credit facility's maturity date in fiscal 2024. Actual interest payments may vary significantly based on future borrowings, repayments and interest rate fluctuations. As discussed in "Liquidity and Capital Resources," we entered into an amendment to extend the maturity date of our revolving credit facility by one year to November 2023, which is reflected in the table. See Note 5, Long-Term Debt, of the Notes to Consolidated Financial Statements and "Liquidity and Capital Resources," above for additional information regarding our long-term debt obligations. 
+ 
+ (2) Inclusive of $2.6 million of imputed interest. See Note 9, Leases, of the Notes to Consolidated Financial Statements for additional information regarding our finance lease obligations. 
+ 
+ (3) See Note 9, Leases, of the Notes to Consolidated Financial Statements for additional information regarding our operating lease obligations. 
+ 
+ (4) Includes contingent consideration aggregating $42.0 million related to a fiscal 2017 acquisition and certain fiscal 2020 acquisitions. See Note 8, Fair Value Measurements, of the Notes to Consolidated Financial Statements for additional information. 
+ 
+ 
+ 
+ 43 
+ 
+ Index 
+ (5) Also includes an aggregate $1.4 million of commitments principally for capital expenditures and inventory. All purchase obligations of inventory and supplies in the ordinary course of business (i.e., with deliveries scheduled within the next year) are excluded from the table. 
+ 
+ (6) The holders of equity interests in certain of our subsidiaries have rights (“Put Rights”) that may be exercised on varying dates causing us to purchase their equity interests through fiscal 2030. The Put Rights provide that cash consideration be paid for their equity interests (the “Redemption Amount”). As of October 31, 2020, management’s estimate of the aggregate Redemption Amount of all Put Rights that we could be required to pay is approximately $221.2 million, which is reflected within redeemable noncontrolling interests in our Consolidated Balance Sheet. Of this amount, $2.3 million is included in the table as payable in fiscal 2021 pursuant to the past exercise of such Put Rights by the noncontrolling interest holder of one of our subsidiaries. See Note 13, Redeemable Noncontrolling Interests, of the Notes to Consolidated Financial Statements for further information. 
+ 
+ (7) Includes $7.2 million of deferred payroll taxes related to the provisions of the Coronavirus Aid, Relief and Economic Security Act, which allows the Company to defer its portion of certain calendar year 2020 payroll taxes until fiscal 2022 and 2023. Also includes $3.5 million related to a one-time transition tax on the unremitted earnings of the Company's foreign subsidiaries which will be paid over a remaining six-year period as permitted by the Tax Cuts and Jobs Act. The amounts in the table do not include liabilities related to the HEICO LCP as they are fully supported by assets held within irrevocable trusts. See Note 3, Selected Financial Statement Information - Other Long-Term Assets and Liabilities, of the Notes to Consolidated Financial Statements for further information about this deferred compensation plan. 
+ 
+ Off-Balance Sheet Arrangements 
+ 
+ Guarantees 
+ 
+ As of October 31, 2020, we have arranged for standby letters of credit aggregating $14.6 million, which are supported by our revolving credit facility and principally pertain to performance guarantees related to customer contracts entered into by certain of our subsidiaries as well as payment guarantees related to potential workers' compensation claims and a facility lease. 
+ 
+ Critical Accounting Policies 
+ 
+ We believe that the following are our most critical accounting policies, which require management to make judgments about matters that are inherently uncertain. 
+ 
+ Assumptions utilized to determine fair value in connection with business combinations, contingent consideration arrangements and in goodwill and intangible assets impairment tests are highly judgmental. If there is a material change in such assumptions or if there is a material change in the conditions or circumstances influencing fair value, we could be required to recognize a material impairment charge. See ITEM 1A., Risk Factors , for a list of factors which may cause our actual results to differ materially from anticipated results. 
+ 
+ Revenue Recognition 
+ 
+ During fiscal 2019, we adopted Accounting Standard Codification ("ASC") Topic 606, "Revenue from Contracts with Customers" ("ASC 606"). Pursuant to ASC 606, HEICO 
+ 
+ 
+ 44 
+ 
+ Index 
+ recognizes revenue when it transfers control of a promised good or service to a customer in an amount that reflects the consideration it expects to receive in exchange for the good or service. Our performance obligations are satisfied and control is transferred either at a point-in-time or over-time. The majority of our revenue is recognized at a point-in-time when control is transferred, which is generally evidenced by the shipment or delivery of the product to the customer, a transfer of title, a transfer of the significant risks and rewards of ownership, and customer acceptance. For certain contracts under which we produce products with no alternative use and for which we have an enforceable right to recover costs incurred plus a reasonable profit margin for work completed to date and for certain other contracts under which we create or enhance a customer-owned asset while performing repair and overhaul services, control is transferred to the customer over-time. HEICO recognizes revenue using an over-time recognition model for these types of contracts. 
+ 
+ We utilize the cost-to-cost method as a measure of progress for performance obligations that are satisfied over-time as we believe this input method best represents the transfer of control to the customer. Under this method, revenue for the current period is recorded at an amount equal to the ratio of costs incurred to date divided by total estimated contract costs multiplied by (i) the transaction price, less (ii) cumulative revenue recognized in prior periods. Contract costs include all direct material and labor costs and those indirect costs related to contract performance, such as indirect labor, supplies, tools, repairs and depreciation. 
+ 
+ Under the cost-to-cost method, the extent of progress toward completion is measured based on the proportion of costs incurred to date to the total estimated costs at completion of the performance obligation. These projections require management to make numerous assumptions and estimates relating to items such as the complexity of design and related development costs, performance of subcontractors, availability and cost of materials, labor productivity and cost, overhead, capital costs, and manufacturing efficiency. We review our cost estimates on a periodic basis, or when circumstances change and warrant a modification to a previous estimate. Cost estimates are largely based on negotiated or estimated purchase contract terms, historical performance trends and other economic projections. 
+ 
+ For certain contracts with similar characteristics and for which revenue is recognized using an over-time model, we use a portfolio approach to estimate the amount of revenue to recognize. For each portfolio of contracts, the respective work in process and/or finished goods inventory balances are identified and the portfolio-specific margin is applied to estimate the pro rata portion of the transaction price to recognize in relation to the costs incurred. This approach is utilized only when the resulting revenue recognition is not expected to be materially different than if the accounting was applied to the individual contracts. 
+ 
+ Certain of our contracts give rise to variable consideration when they contain items such as customer rebates, credits, volume purchase discounts, penalties and other provisions that may impact the total consideration we will receive. We include variable consideration in the transaction price generally by applying the most likely amount method of the consideration that we expect to be entitled to receive based on an assessment of all available information (i.e., historical experience, current and forecasted performance) and only to the extent it is probable 
+ 
+ 
+ 45 
+ 
+ Index 
+ that a significant reversal of revenue recognized will not occur when the uncertainty is resolved. We estimate variable consideration by applying the most likely amount method when there are a limited number of outcomes related to the resolution of the variable consideration. 
+ 
+ Changes in estimates that result in adjustments to net sales and cost of sales are recognized as necessary in the period they become known on a cumulative catch-up basis. Changes in estimates did not have a material effect on net income from consolidated operations in fiscal 2020, 2019 and 2018. 
+ 
+ Valuation of Inventory 
+ 
+ Inventory is stated at the lower of cost or net realizable value, with cost being determined on the first-in, first-out or the average cost basis. Losses, if any, are recognized fully in the period when identified. 
+ 
+ We periodically evaluate the carrying value of inventory, giving consideration to factors such as its physical condition, sales patterns and expected future demand in order to estimate the amount necessary to write down any slow moving, obsolete or damaged inventory. These estimates could vary significantly from actual amounts based upon future economic conditions, customer inventory levels, or competitive factors that were not foreseen or did not exist when the estimated write-downs were made. 
+ 
+ In accordance with industry practice, all inventories are classified as a current asset including portions with long production cycles, some of which may not be realized within one year. 
+ 
+ Business Combinations 
+ 
+ We allocate the purchase price of acquired entities to the underlying tangible and identifiable intangible assets acquired and liabilities and any noncontrolling interests assumed based on their estimated fair values, with any excess recorded as goodwill. Determining the fair value of assets acquired and liabilities and noncontrolling interests assumed requires management’s judgment and often involves the use of significant estimates and assumptions, including assumptions with respect to future cash inflows and outflows, discount rates, asset lives and market multiples, among other items. We determine the fair values of intangible assets acquired generally in consultation with third-party valuation advisors. 
+ 
+ As part of the agreement to acquire certain subsidiaries, we may be obligated to pay contingent consideration should the acquired entity meet certain earnings objectives subsequent to the date of acquisition. As of the acquisition date, contingent consideration is recorded at fair value as determined through the use of a probability-based scenario analysis approach. Under this method, a set of discrete potential future subsidiary earnings is determined using internal estimates based on various revenue growth rate assumptions for each scenario. A probability of likelihood is then assigned to each discrete potential future earnings estimate and the resultant contingent consideration is calculated and discounted using a weighted average discount rate 
+ 
+ 
+ 46 
+ 
+ Index 
+ reflecting the credit risk of HEICO. Subsequent to the acquisition date, the fair value of such contingent consideration is measured each reporting period and any changes are recorded to SG&A expenses within our Consolidated Statements of Operations. Changes in either the revenue growth rates, related earnings or the discount rate could result in a material change to the amount of contingent consideration accrued. As of October 31, 2020, 2019 and 2018, $42.0 million, $18.3 million and $20.9 million of contingent consideration was accrued within our Consolidated Balance Sheets, respectively. During fiscal 2020, 2019 and 2018, such fair value measurement adjustments resulted in net increases (decreases) to SG&A expenses of $.5 million, $2.6 million and ($1.4) million, respectively. For further information regarding our contingent consideration arrangements, see Note 8, Fair Value Measurements, of the Notes to Consolidated Financial Statements. 
+ 
+ Valuation of Goodwill and Other Intangible Assets 
+ 
+ We test goodwill for impairment annually as of October 31, or more frequently if events or changes in circumstances indicate that the carrying amount of goodwill may not be fully recoverable. In evaluating the recoverability of goodwill, we compare the fair value of each of our reporting units to its carrying value to determine potential impairment. If the carrying value of a reporting unit exceeds its fair value, the implied fair value of that reporting unit’s goodwill is to be calculated and an impairment loss is recognized in the amount by which the carrying value of the reporting unit’s goodwill exceeds its implied fair value, if any. The fair values of our reporting units were determined using a weighted average of a market approach and an income approach. Under the market approach, fair values are estimated using published market multiples for comparable companies. We calculate fair values under the income approach by taking estimated future cash flows that are based on internal projections and other assumptions deemed reasonable by management and discounting them using an estimated weighted average cost of capital. Based on the annual goodwill impairment test as of October 31, 2020, 2019 and 2018, we determined there was no impairment of our goodwill. The fair value of each of our reporting units as of October 31, 2020 significantly exceeded its carrying value. 
+ 
+ We test each non-amortizing intangible asset (principally trade names) for impairment annually as of October 31, or more frequently if events or changes in circumstances indicate that the asset might be impaired. To derive the fair value of our trade names, we utilize an income approach, which relies upon management's assumptions of royalty rates, projected revenues and discount rates. We also test each amortizing intangible asset for impairment if events or circumstances indicate that the asset might be impaired. The test consists of determining whether the carrying value of such assets will be recovered through undiscounted expected future cash flows. If the total of the undiscounted future cash flows is less than the carrying amount of those assets, we recognize an impairment loss based on the excess of the carrying amount over the fair value of the assets. The determination of fair value requires us to make a number of estimates, assumptions and judgments of underlying factors such as projected revenues and related earnings as well as discount rates. Based on the intangible asset impairment tests conducted, we did not recognize any impairment losses in fiscal 2020, 2019 and 2018. 
+ 
+ 
+ 
+ 
+ 47 
+ 
+ Index 
+ New Accounting Pronouncements 
+ 
+ See Note 1, Summary of Significant Accounting Policies - New Accounting Pronouncements, of the Notes to Consolidated Financial Statements for additional information. 
+ 
+ Forward-Looking Statements 
+ 
+ Certain statements in this report constitute “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995. All statements contained herein that are not clearly historical in nature may be forward-looking and the words “anticipate,” “believe,” “expect,” “estimate” and similar expressions are generally intended to identify forward-looking statements. Any forward-looking statement contained herein, in press releases, written statements or other documents filed with the Securities and Exchange Commission or in communications and discussions with investors and analysts in the normal course of business through meetings, phone calls and conference calls, concerning our operations, economic performance and financial condition are subject to risks, uncertainties and contingencies. We have based these forward-looking statements on our current expectations and projections about future events. All forward-looking statements involve risks and uncertainties, many of which are beyond our control, which may cause actual results, performance or achievements to differ materially from anticipated results, performance or achievements. Also, forward-looking statements are based upon management’s estimates of fair values and of future costs, using currently available information. Therefore, actual results may differ materially from those expressed in or implied by those forward-looking statements. Factors that could cause such differences include: 
+ 
+ • The severity, magnitude and duration of the Pandemic; 
+ 
+ • Our liquidity and the amount and timing of cash generation; 
+ 
+ • Lower commercial air travel caused by the Pandemic and its aftermath, airline fleet changes or airline purchasing decisions, which could cause lower demand for our goods and services; 
+ 
+ • Product specification costs and requirements, which could cause an increase to our costs to complete contracts; 
+ 
+ • Governmental and regulatory demands, export policies and restrictions, reductions in defense, space or homeland security spending by U.S. and/or foreign customers or competition from existing and new competitors, which could reduce our sales; 
+ 
+ • Our ability to introduce new products and services at profitable pricing levels, which could reduce our sales or sales growth; 
+ 
+ • Product development or manufacturing difficulties, which could increase our product development and manufacturing costs and delay sales; 
+ 
+ 
+ 48 
+ 
+ Index 
+ • Our ability to make acquisitions and achieve operating synergies from acquired businesses; customer credit risk; interest, foreign currency exchange and income tax rates; economic conditions within and outside of the aviation, defense, space, medical, telecommunications and electronics industries, which could negatively impact our costs and revenues; and 
+ 
+ • Defense spending or budget cuts, which could reduce our defense-related revenue. 
+ 
+ For further information on these and other factors that potentially could materially affect our financial results, see ITEM 1A, Risk Factors . We undertake no obligation to publicly update or revise any forward-looking statement, whether as a result of new information, future events or otherwise, except to the extent required by applicable law. 
+ 
+ 
+ 

@@ -1,0 +1,7867 @@
+ ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+ The following discussion and analysis should be read in conjunction with the consolidated financial statements of KKR & Co. Inc., together with its consolidated subsidiaries, and the related notes included elsewhere in this report. The historical consolidated financial data discussed below reflects the historical results and financial position of KKR and do not reflect the Reorganization or the acquisition of KKR Capstone on January 1, 2020. In addition, this discussion and analysis contains forward-looking statements and involves numerous risks and uncertainties, including those described under "Cautionary Note Regarding Forward-looking Statements" and "Risk Factors." Actual results may differ materially from those contained in any forward-looking statements. 
+ Overview of Business 
+ 
+ For a discussion about our business lines and our firm, see ITEM 1. "Business." 
+ 
+ 
+ Business Environment 
+ Economic and Market Conditions 
+ Economic Conditions . As a global investment firm, we are affected by financial and economic conditions globally. Global and regional economic conditions have substantial impact on our financial condition and results of operations, impacting the values of the investments we make, our ability to exit these investments profitably, our ability to raise capital from investors, and our ability to make new investments. Financial and economic conditions in the United States, European Union, Japan, China, and other major economies are significant contributors to the global economy. 
+ 
+ In 2019, the U.S. economy grew at a solid pace, although the growth rate slowed compared to 2018 amid the U.S.-China trade dispute and a decelerating global economy. After cutting its benchmark interest rate three times in the second half of 2019, the U.S. Federal Reserve left the rate unchanged in December 2019 and signaled that rates would remain on hold in 2020. In the United States, real GDP growth is 2.3% for the full year ended December 31, 2019, compared to 2.9% in the prior year; the U.S. unemployment rate was 3.5% as of December 31, 2019, down from 3.9% as of December 31, 2018; U.S. core consumer price index was 2.3% on a year-over-year basis as of December 31, 2019, slightly up from 2.2% on a year-over-year basis as of December 31, 2018; and the effective federal funds rate set by the U.S. Federal Reserve was 1.6% as of December 31, 2019, down from 2.4% as of December 31, 2019. 
+ In 2019, the European Union's economic growth slowed down, with fourth quarter growth stalling almost to zero, and the economies of France and Italy contracting in the quarter. In the Euro Area, real GDP growth is estimated to be 1.2% for the year ended December 31, 2019 down from 1.9% in the prior year; the Euro Area unemployment rate was 7.4% as of December 31, 2019, down from 7.8% as of December 31, 2018; Euro Area core inflation was 1.3% on a year-over-year basis as of December 31, 2019, up from 0.9% as of December 31, 2018; and the short-term benchmark interest rate set by the European Central Bank was 0.0% as of December 31, 2019, unchanged from December 31, 2018. 
+ In 2019, Japanese economic growth slowed down in the second half of the year, with fourth quarter GDP expected to have contracted. China's economic growth in 2019 recorded one of the slowest rates of growth in recent years, although it was in line with the official target range provided by the Chinese government earlier in the year. Both Japan and China suffered from the U.S.-China trade tensions and soft global demand. The recent outbreak of coronavirus (COVID-19) in the region has added pressure to the economic outlook for both countries. In Japan, the short-term benchmark interest rate set by the Bank of Japan was -0.1% as of December 31, 2019, unchanged from December 31, 2018; and in China, reported real GDP is estimated to be 6.1% in the year ended December 31, 2019, below the 6.7% reported for the year ended December 31, 2018. 
+ These and other key issues could have repercussions across regional and global financial markets, which could adversely affect the valuations of our investments. Other key issues include (i) political uncertainty caused by, among other things, populist political parties, economic nationalist sentiments, anti-government protests and the 2020 U.S. Presidential election, (ii) regulatory changes regarding, for example, taxation, international trade, cross-border investments, immigration, and austerity programs, (iii) volatility or downturn in stock and credit markets, (iv) the potential impact and duration of the recent outbreak of the novel coronavirus, (v) any unexpected shift in the U.S. Federal Reserve's monetary policies and its impact on the markets and (vi) technological advancements and innovations that may disrupt marketplaces and businesses. For a further discussion of how market conditions may affect our businesses, see "Risk Factors—Risks Related to Our Business—Difficult market and 
+ 
+ 
+ 94 
+ 
+ Table of Contents 
+ 
+ 
+ economic conditions can adversely affect our business in many ways, including by reducing the value or performance of the investments that we manage or by reducing the ability of our funds to raise or deploy capital, each of which could negatively impact our net income and cash flow and adversely affect our financial condition." 
+ Equity and Credit Markets . Global equity and credit markets have a substantial effect on our financial condition and results of operations. In general, a climate of reasonable interest rates and high levels of liquidity in the debt and equity capital markets provide a positive environment for us to generate attractive investment returns, which also impacts our ability to generate incentive fees and carried interest. Periods of volatility and dislocation in the capital markets present substantial risks, but also can present us with opportunities to invest at reduced valuations that position us for future growth and investment returns. Low interest rates related to monetary stimulus and economic stagnation may negatively impact expected returns on all types of investments. Higher interest rates in conjunction with slower growth or weaker currencies in some emerging market economies have caused, and may further cause, the default risk of these countries to increase, and this could impact the operations or value of our investments that operate in these regions. Areas such as Japan, which have ongoing central bank quantitative easing campaigns and comparatively low interest rates relative to the United States, could potentially experience further currency volatility and weakness relative to the U.S. dollar. 
+ 
+ Many of our investments are in equities, so a change in global equity prices or in market volatility directly impacts the value of our investments and our profitability as well as our ability to realize investment gains and the receptiveness of fund investors to our investment products. For the year ended December 31, 2019, global equity markets were positive, with the S&P 500 Index up 31.5% and the MSCI World Index up 28.4% on a total return basis including dividends. Equity market volatility as evidenced by the Chicago Board Options Exchange Market Volatility Index (the "VIX"), a measure of volatility, ended at 13.8 as of December 31, 2019, decreasing from 25.4 as of December 31, 2018. For a discussion of our valuation methods, see "Risk Factors—Risks Related to the Assets We Manage—Our investments are impacted by various economic conditions that are difficult to quantify or predict, which may have a significant impact on the valuation of our investments and, therefore, on the investment income we realize and our results of operations and financial condition" and "Management’s Discussion and Analysis of Financial Condition and Results of Operations—Critical Accounting Policies—Fair Value Measurements—Level III Valuation Methodologies." 
+ Many of our investments are also in non-investment grade credit instruments, and our funds and our portfolio companies also rely on credit financing and the ability to refinance existing debt. Consequently, any decrease in the value of credit instruments that we have invested in or any increase in the cost of credit financing reduces our returns and decreases our net income. In particular due in part to holdings of credit instruments such as CLOs on our balance sheet, the performance of the credit markets has had an amplified impact on our financial results, as we directly bear the full extent of losses from credit instruments on our balance sheet. Credit markets can also impact valuations because a discounted cash flow analysis is generally used as one of the methodologies to ascertain the fair value of our investments that do not have readily observable market prices. In addition, with respect to our credit instruments, tightening credit spreads are generally expected to lead to an increase, and widening credit spreads are generally expected to lead to a decrease, in the value of these credit investments, if not offset by hedging or other factors. In addition, the significant widening of credit spreads is also typically expected to negatively impact equity markets, which in turn would negatively impact our portfolio and us as noted above. 
+ 
+ During the year ended December 31, 2019, U.S. investment grade corporate bond spreads (BofA Merrill Lynch US Corporate Index) contracted by 58 basis points and U.S. high-yield corporate bond spreads (BofAML HY Master II Index) contracted by 173 basis points. The non-investment grade credit indices were up during the year ended December 31, 2019, with the S&P/LSTA Leveraged Loan Index up 8.6% and the BofAML HY Master II Index up 14.4%. During the year ended December 31, 2019, 10-year government bond yields fell 77 basis points in the United States, fell 46 basis points in the United Kingdom, fell 43 basis points in Germany, fell 16 basis points in China, and fell 1 basis point in Japan. For a further discussion of how market conditions may affect our businesses, see "Risk Factors—Risks Related to Our Business—Difficult market and economic conditions can adversely affect our business in many ways, including by reducing the value or performance of the investments that we manage or by reducing the ability of our funds to raise or deploy capital, each of which could negatively impact our net income and cash flow and adversely affect our financial condition" and "Risk Factors—Risks Related to the Assets We Manage—Our investments are impacted by various economic conditions that are difficult to quantify or predict, which may have a significant impact on the valuation of our investments and, therefore, on the investment income we realize and our results of operations and financial condition." 
+ 
+ For further discussion of the impact of global credit markets on our financial condition and results of operations, see "Risk Factors—Risks Related to the Assets We Manage—Changes in the debt financing markets may negatively impact the ability of our investment funds, their portfolio companies and strategies pursued with our balance sheet assets to obtain attractive financing for their investments or to refinance existing debt and may increase the cost of such financing or refinancing if it is obtained, which could lead to lower-yielding investments and potentially decrease our net income," "Risk Factors—Risks 
+ 
+ 
+ 95 
+ 
+ Table of Contents 
+ 
+ 
+ Related to the Assets We Manage—Our investments are impacted by various economic conditions that are difficult to quantify or predict, which may have a significant impact on the valuation of our investments and, therefore, on the investment income we realize and our results of operations and financial condition" and "Risk Factors—Risks Related to the Assets We Manage—Our funds and our firm through our balance sheet may make a limited number of investments, or investments that are concentrated in certain issuers, geographic regions or asset types, which could negatively affect our performance or the performance of our funds to the extent those concentrated assets perform poorly." For a further discussion of our valuation methods, see "—Critical Accounting Policies—Fair Value Measurements—Level III Valuation Methodologies." 
+ Foreign Exchange Rates . Foreign exchange rates have a substantial impact on the valuations of our investments that are denominated in currencies other than the U.S. dollar. Currency volatility can also affect our businesses and investments that deal in cross-border trade. The appreciation or depreciation of the U.S. dollar is expected to contribute to a decrease or increase, respectively, in the U.S. dollar value of our non-U.S. investments to the extent unhedged. In addition, an appreciating U.S. dollar would be expected to make the exports of U.S. based companies less competitive, which may lead to a decline in their export revenues, if any, while a depreciating U.S. dollar would be expected to have the opposite effect. Moreover, when selecting investments for our investment funds that are denominated in U.S. dollars, an appreciating U.S. dollar may create opportunities to invest at more attractive U.S. dollar prices in certain countries outside of the United States, while a depreciating U.S. dollar would be expected to have the opposite effect. For our investments denominated in currencies other than the U.S. dollar, the depreciation in such currencies will generally contribute to the decrease in the valuation of such investments, to the extent unhedged, and adversely affect the U.S. dollar equivalent revenues of portfolio companies with substantial revenues denominated in such currencies, while the appreciation in such currencies would be expected to have the opposite effect. For the year ended December 31, 2019, the euro fell 2.2%, the British pound strengthened 3.9%, the Japanese yen rose 1.0%, and the Chinese renminbi fell 1.2%, respectively, relative to the U.S. dollar. For additional information regarding our foreign exchange rate risk, see "—Quantitative and Qualitative Disclosure About Market Risk—Exchange Rate Risk." 
+ 
+ Commodity Markets . Our Private Markets portfolio contains energy real asset investments, and certain of our other Private Markets and Public Markets strategies and products, including private equity, direct lending, special situations and CLOs, also have meaningful investments in the energy sector. The value of these investments is heavily influenced by the price of natural gas and oil. During the year ended December 31, 2019 , the long-term price of WTI crude oil increased approximately 3%, and the long-term price of natural gas decreased approximately 7%. The long-term price of WTI crude oil increased from approximately $50 per barrel to $52 per barrel, and the long-term price of natural gas decreased from approximately $2.60 per mcf to $2.42 per mcf as of December 31, 2018 and December 31, 2019 , respectively. When commodity prices decline or if a decline is not offset by other factors, we would expect the value of our energy real asset investments to be adversely impacted, to the extent unhedged. In addition, because we hold certain energy assets, which had a fair value of $0.7 billion as of December 31, 2019 on our balance sheet, these price movements would have an amplified impact on our financial results, to the extent unhedged, as we would directly bear the full extent of such gains or losses. For additional information regarding our energy real assets, see "—Critical Accounting Policies—Fair Value Measurements—Level III Valuation Methodologies—Real Asset Investments" and "Risk Factors—Risks Related to the Assets We Manage—Our funds and our firm through our balance sheet may make a limited number of investments, or investments that are concentrated in certain issuers, geographic regions or asset types, which could negatively affect our performance or the performance of our funds to the extent those concentrated assets perform poorly." 
+ 
+ Spot prices for crude oil and natural gas have declined since December 31, 2019, while the impact to longer-term prices of crude oil and natural gas has been less pronounced. We expect these price movements to have a negative impact on the fair value of our energy portfolio, all other things being equal, given those commodity prices are an input in our valuation models. However, we expect the impact of the decline will be mitigated by the existence of near-term commodity price hedges, which make long-term oil and natural gas prices a more significant driver of fair value than spot prices. As of December 31, 2019, energy strategies make up approximately 1% of our assets under management and 5% of our balance sheet assets. 
+ 
+ Business Conditions 
+ Our operating revenues consist of fees, performance income and investment income. Our ability to grow our revenues depends in part on our ability to attract new capital and investors, our successful deployment of capital including from our balance sheet and our ability to realize investments at a profit. 
+ Our ability to attract new capital and investors. Our ability to attract new capital and investors in our funds is driven, in part, by the extent to which they continue to see the alternative asset management industry generally, and our investment products specifically, as an attractive vehicle for capital appreciation or income. Since 2010, we have expanded into strategies such as energy, infrastructure, real estate, growth equity, core, credit and, through hedge fund partnerships, hedge funds. In 
+ 
+ 
+ 96 
+ 
+ Table of Contents 
+ 
+ 
+ several of these strategies, our first time funds have begun raising successor funds, and we expect the cost of raising such successor funds to be lower. We have also reached out to new fund investors, including retail and high net worth investors. However, fundraising continues to be competitive. While our Americas Fund XII, Asian Fund III, European Fund V, Real Estate Partners Americas II, Global Infrastructure Investors III and Next Generation Technology Growth Fund II exceeded the size of their respective predecessor funds, there is no assurance that fundraises for our other flagship private equity funds or for our newer strategies and their successor funds will experience similar success. If we are unable to successfully raise comparably sized or larger funds, our AUM, FPAUM, and associated fees attributable to new capital raised in future periods may be lower than in prior years. See "Risk Factors—Risks Related to Our Business—Our inability to raise additional or successor funds (or raise successor funds of a comparable size as our predecessor funds) could have a material adverse impact on our business." 
+ Our ability to successfully deploy capital. Our ability to maintain and grow our revenue base is dependent upon our ability to successfully deploy the capital available to us and participate in capital markets transactions. Greater competition, high valuations, increased overall cost of credit and other general market conditions may impact our ability to identify and execute attractive investments. Additionally, because we seek to make investments that have an ability to achieve our targeted returns while taking on a reasonable level of risk, we may experience periods of reduced investment activity. We have a long-term investment horizon and the capital deployed in any one quarter may vary significantly from the capital deployed in any other quarter or the quarterly average of capital deployed in any given year. Reduced levels of transaction activity also tends to result in reduced potential future investment gains, lower transaction fees and lower fees for our Capital Markets business line, which may earn fees in the syndication of equity or debt. 
+ Our ability to realize investments. Challenging market and economic conditions may adversely affect our ability to exit and realize value from our investments and result in lower-than-expected returns. Although the equity markets are not the only means by which we exit investments, the strength and liquidity of the U.S. and relevant global equity markets generally, and the initial public offering market specifically, affect the valuation of, and our ability to successfully exit, our equity positions in our private equity portfolio companies in a timely manner. We may also realize investments through strategic sales. When financing is not available or becomes too costly, it may be more difficult to find a buyer that can successfully raise sufficient capital to purchase our investments. 
+ 
+ 
+ Basis of Accounting 
+ 
+ We consolidate the financial results of the KKR Group Partnerships and their consolidated entities, which include the accounts of our investment management and capital markets companies, the general partners of unconsolidated funds and vehicles, general partners of certain funds that are consolidated and their respective consolidated funds and certain other entities including certain CLOs and CMBS. We refer to CLOs and CMBS as collateralized financing entities ("CFEs"). 
+ 
+ When an entity is consolidated, we reflect the accounts of the consolidated entity, including its assets, liabilities, revenues, expenses, investment income, cash flows and other amounts, on a gross basis. While the consolidation of a consolidated fund or entity does not have an effect on the amounts of Net Income Attributable to KKR or KKR's stockholders' capital that KKR reports, the consolidation does significantly impact the financial statement presentation under GAAP. This is due to the fact that the accounts of the consolidated entities are reflected on a gross basis while the allocable share of those amounts that are attributable to third parties are reflected as single line items. The single line items in which the accounts attributable to third parties are recorded are presented as noncontrolling interests on the consolidated statements of financial condition and net income attributable to noncontrolling interests on the consolidated statements of operations. 
+ 
+ For a further discussion of our consolidation policies, see ITEM 8. Financial Statements and Supplementary Data—Note 2 "Summary of Significant Accounting Policies." 
+ 
+ 
+ Key Financial Measures Under GAAP 
+ 
+ Revenues 
+ 
+ Fees and Other 
+ 
+ Fees and other consist primarily of (i) management and incentive fees from providing investment management services to unconsolidated funds, CLOs, other vehicles, and separately managed accounts; (ii) transaction fees earned in connection with successful investment transactions and from capital markets activities; (iii) monitoring fees from providing services to portfolio companies; (iv) expense reimbursements from certain investment funds and portfolio companies; (v) revenue earned by oil and gas entities that are consolidated; and (vi) consulting fees earned by consolidated entities that employ non-employee operating 
+ 
+ 
+ 97 
+ 
+ Table of Contents 
+ 
+ 
+ consultants. These fees are based on the contractual terms of the governing agreements and are recognized when earned, which coincides with the period during which the related services are performed and in the case of transaction fees, upon closing of the transaction. Monitoring fees may provide for a termination payment following an initial public offering or change of control. These termination payments are recognized in the period when the related transaction closes. 
+ 
+ Capital Allocation-Based Income 
+ Capital allocation-based income is earned from those arrangements whereby KKR serves as general partner and includes income from KKR's capital interest as well as "carried interest" which entitles KKR to a disproportionate allocation of investment income from investment funds' limited partners. 
+ For a further discussion of our revenue policies, see ITEM 8. Financial Statements and Supplementary Data—Note 2 "Summary of Significant Accounting Policies." 
+ Expenses 
+ Compensation and Benefits 
+ Compensation and benefits expense includes cash compensation consisting of salaries, bonuses, and benefits, as well as equity-based compensation consisting of charges associated with the vesting of equity-based awards, carry pool allocations, and other performance-based income compensation. The amounts allocated to the carry pool and other performance-based income compensation are accounted for as compensatory profit-sharing arrangements and recorded as compensation and benefits expenses. 
+ All employees and employees of certain consolidated entities receive a base salary that is paid by KKR or its consolidated entities, and is accounted for as compensation and benefits expense. These employees are also eligible to receive discretionary cash bonuses based on performance, overall profitability, and other matters. While cash bonuses paid to most employees are borne by KKR and certain consolidated entities and result in customary compensation and benefits expense, in the past cash bonuses that are paid to certain employees have been borne by KKR Holdings. These bonuses have historically been funded with distributions that KKR Holdings receives on KKR Group Partnership Units held by KKR Holdings but are not then passed on to holders of unvested units of KKR Holdings. Because employees are not entitled to receive distributions on units that are unvested, any amounts allocated to employees in excess of an employee's vested equity interests are reflected as employee compensation and benefits expense. These compensation charges are currently recorded based on the amount of cash expected to be paid by KKR Holdings. Because KKR makes only fixed quarterly dividends, the distributions made on KKR Group Partnership Units underlying any unvested KKR Holdings units are generally insufficient to fund annual cash bonus compensation to the same extent as in periods prior to the fourth quarter of 2015. In addition, substantially all remaining units in KKR Holdings have been allocated and, while subject to a 5 year vesting period, will become fully vested by 2021, thus decreasing the amount of distributions received by KKR Holdings that are available for annual cash bonus compensation. We, therefore, expect to pay all or substantially all of the cash bonus payments from KKR's cash from operations and the carry pool, although, from time to time, KKR Holdings may contribute to the cash bonus payments in the future. For the year ending December 31, 2019, no cash bonuses were contributed by KKR Holdings. See "Risks Related to Our Business—If we cannot retain and motivate our principals and other key personnel and recruit, retain and motivate new principals and other key personnel, our business, results and financial condition could be adversely affected" in our Annual Report regarding the adequacy of such distributions to fund future discretionary cash bonuses. 
+ 
+ KKR uses several methods, which are designed to yield comparable results, to allocate carried interest and other performance income compensation. With respect to KKR's investment funds that provide for carried interest without a preferred return, KKR allocates 40% of the carried interest received from such funds to its carry pool for employees and non-employee operating consultants. Beginning with the quarter ended September 30, 2016, for investment funds that provide for carried interest with a preferred return and have accrued carried interest as of June 30, 2016, KKR also includes 40% of the management fees that would have been subject to a management fee refund as performance income compensation. Because of the different ways management fees are refunded in preferred return and non-preferred return funds that provide for carried interest, this calculation of 40% of the portion of the management fees subject to refund for funds that have a preferred return is designed to allocate to compensation an amount comparable to the amount that would have been allocated to the carry pool had the fund not had a preferred return. Beginning with the quarter ended September 30, 2017, for certain then-current and future carry generating funds with a preferred return and no or minimal accrued carried interest as of June 30, 2017, KKR allocates 43% of the carried interest to the carry pool instead of 40% of carried interest. For impacted funds, the incremental 3% replaces the allocation of management fee refunds that would have been calculated for those funds and is designed, based on a historical financial analysis of certain investment funds, to allocate an amount for preferred return funds that is comparable to the 
+ 
+ 
+ 98 
+ 
+ Table of Contents 
+ 
+ 
+ management fee refunds that would have been allocated as performance income compensation for those funds. The percentage of carried interest, management fee refunds, and incentive fees allocable to the carry pool or as performance income compensation is subject to change from time to time. For a discussion of how management fees are refunded for preferred return funds and non-preferred funds see "—Fair Value Measurements—Recognition of Carried Interest in the Statement of Operations." 
+ 
+ General, Administrative and Other 
+ 
+ General, administrative and other expense consists primarily of professional fees paid to legal advisors, accountants, advisors and consultants, insurance costs, travel and related expenses, communications and information services, depreciation and amortization charges, expenses (including impairment charges) incurred by oil and gas entities that are consolidated, costs incurred in connection with pursuing potential investments that do not result in completed transactions ("broken-deal expenses"), and other general operating expenses. A portion of these general administrative and other expenses, in particular broken-deal expenses, are borne by fund investors. 
+ Investment Income (Loss) 
+ Net Gains (Losses) from Investment Activities 
+ Net gains (losses) from investment activities consist of realized and unrealized gains and losses arising from our investment activities as well as income earned from certain equity method investments. Fluctuations in net gains (losses) from investment activities between reporting periods is driven primarily by changes in the fair value of our investment portfolio as well as the realization of investments. The fair value of, as well as the ability to recognize gains from, our investments is significantly impacted by the global financial markets, which, in turn, affects the net gains (losses) from investment activities recognized in any given period. Upon the disposition of an investment, previously recognized unrealized gains and losses are reversed and an offsetting realized gain or loss is recognized in the current period. Since our investments are carried at fair value, fluctuations between periods could be significant due to changes to the inputs to our valuation process over time. For a further discussion of our fair value measurements and fair value of investments, see "—Critical Accounting Policies—Fair Value Measurements." 
+ Dividend Income 
+ 
+ Dividend income consists primarily of distributions that we and our consolidated investment funds receive from portfolio companies in which they invest. Dividend income is recognized primarily in connection with (i) dispositions of operations by portfolio companies, (ii) distributions of cash generated from operations from portfolio investments, and (iii) other significant refinancings undertaken by portfolio investments. 
+ 
+ Interest Income 
+ 
+ Interest income consists primarily of interest that is received on our credit instruments in which we and our consolidated funds and other entities invest as well as interest on our cash balances and other investments. 
+ 
+ Interest Expense 
+ 
+ Interest expense is incurred from debt issued by KKR, including debt issued by KFN, credit facilities entered into by KKR, debt securities issued by consolidated CFEs, and financing arrangements at our consolidated funds entered into primarily with the objective of managing cash flow. KFN's debt obligations are non-recourse to KKR beyond the assets of KFN. Debt securities issued by consolidated CFEs are supported solely by the investments held at the CFE and are not collateralized by assets of any other KKR entity. Our obligations under financing arrangements at our consolidated funds are generally limited to our pro rata equity interest in such funds. However, in some circumstances, we may provide limited guarantees of the obligations of our general partners in an amount equal to its pro rata equity interest in such funds. Our management companies bear no obligations with respect to financing arrangements at our consolidated funds. We also may provide other kinds of guarantees. See "—Liquidity." 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 99 
+ 
+ Table of Contents 
+ 
+ 
+ Income Taxes 
+ 
+ On July 1, 2018, we converted from a Delaware limited partnership to a Delaware corporation (the "Conversion"). Prior to the Conversion, KKR’s investment income and carried interest generally were not subject to U.S. corporate income taxes. Subsequent to the Conversion, all income earned by KKR is subject to U.S. corporate income taxes, resulting in an overall higher income tax expense (or benefit) in periods subsequent to the Conversion. 
+ 
+ KKR & Co. Inc. is a corporation for U.S. federal income tax purposes and thus is subject to U.S. federal, state and local corporate income taxes at the entity level on KKR’s share of net taxable income. In addition, the KKR Group Partnerships and certain of their subsidiaries operate in the United States as partnerships for U.S. federal income tax purposes and as corporate entities in certain non-U.S. jurisdictions. These entities, in some cases, are subject to U.S. state or local income taxes or non-U.S. income taxes. 
+ 
+ Tax laws are complex and subject to different interpretations by the taxpayer and respective governmental taxing authorities. Significant judgment is required in determining tax expense and in evaluating tax positions including evaluating uncertainties. We review our tax positions quarterly and adjust our tax balances as new information becomes available. 
+ For a further discussion of our income tax policies and further information about the impact of the Conversion, see ITEM 8. Financial Statements and Supplementary Data—Note 2 "Summary of Significant Accounting Policies" and Note 11 "Income Taxes." 
+ Net Income (Loss) Attributable to Noncontrolling Interests 
+ Net income (loss) attributable to noncontrolling interests primarily represents the ownership interests that certain third parties hold in entities that are consolidated in the financial statements as well as the ownership interests in our KKR Group Partnerships that are held by KKR Holdings. The allocable share of income and expense attributable to these interests is accounted for as net income (loss) attributable to noncontrolling interests. Given the consolidation of certain of our investment funds and the significant ownership interests in our KKR Group Partnerships held by KKR Holdings, we expect a portion of net income (loss) will continue to be attributed to noncontrolling interests in our business. 
+ For a further discussion of our noncontrolling interests policies, see ITEM 8. Financial Statements and Supplementary Data—Note 2 "Summary of Significant Accounting Policies." 
+ 
+ Key Non-GAAP and Other Operating and Performance Measures 
+ The key non-GAAP and other operating and performance measures that follow are used by management in making operational and resource deployment decisions as well as assessing the overall performance of KKR's businesses. They include certain financial measures that are calculated and presented using methodologies other than in accordance with GAAP. These non-GAAP measures, including after-tax distributable earnings, book value, operating assets, operating liabilities, operating revenues, operating expenses and distributable operating earnings, are presented prior to giving effect to the allocation of income (loss) between KKR & Co. Inc. and KKR Holdings L.P. and as such represent the business in total. In addition, these non-GAAP measures are presented without giving effect to the consolidation of the investment funds and CFEs that KKR manages as well as other consolidated entities that are not subsidiaries of KKR & Co. Inc. 
+ We believe that providing these non-GAAP measures on a supplemental basis to our GAAP results is helpful to stockholders in assessing the overall performance of KKR's businesses. These non-GAAP measures should not be considered as a substitute for, or superior to, financial measures calculated in accordance with GAAP. We caution readers that these non-GAAP measures may differ from the calculations of other investment managers, and as a result, may not be comparable to similar measures presented by other investment managers. These non-GAAP measures are presented in this report as KKR's operating results, which were previously referred to as KKR's segment results. 
+ Reconciliations of these non-GAAP measures to the most directly comparable financial measures calculated and presented in accordance with GAAP, where applicable, are included under "—Reconciliations to GAAP Measures." 
+ Adjusted Shares 
+ Adjusted shares represents shares of Class A common stock of KKR & Co. Inc. outstanding under GAAP adjusted to include shares issuable upon exchange of all units of KKR Holdings L.P. and any other securities exchangeable into Class A common stock of KKR & Co. Inc. that are eligible to receive a dividend (which excludes equity awards issued under the Equity 
+ 
+ 
+ 100 
+ 
+ Table of Contents 
+ 
+ 
+ Incentive Plans). We believe providing adjusted shares is useful to stockholders as it provides insight into the calculation of amounts available for distribution as dividends on a per share basis. Weighted average adjusted shares is used in the calculation of after-tax distributable earnings per adjusted share and adjusted shares is used in the calculation of book value per adjusted share. Adjusted shares was previously referred to as "adjusted shares eligible for distribution." 
+ After-tax Distributable Earnings 
+ After-tax distributable earnings is a non-GAAP measure of KKR’s earnings excluding mark-to-market gains (losses) after interest expense, preferred dividends, noncontrolling interests and income taxes paid. It is defined as the amount of net realized earnings of KKR for a given reporting period, after deducting equity-based compensation and the impact of non-recurring items. KKR believes that after-tax distributable earnings is useful to stockholders as it aligns KKR’s net realization performance with the manner in which KKR receives its revenues and determines the compensation of its employees. After-tax distributable earnings does not represent and is not used to calculate actual dividends under KKR’s dividend policy. Equity based compensation expense is included in after-tax distributable earnings as a component of compensation expense in order to reflect the dilutive nature of these non-cash equity-based awards. Income taxes paid represents the implied amount of income taxes that would be paid assuming that all pre-tax distributable earnings were allocated to KKR & Co. Inc., which would occur following an exchange of all KKR Holdings units for Class A common stock of KKR & Co. Inc. Income taxes paid also includes amounts paid pursuant to the tax receivable agreement. 
+ Assets Under Management ("AUM") 
+ Assets under management represent the assets managed or advised by KKR from which KKR is entitled to receive fees or a carried interest (either currently or upon deployment of capital), general partner capital, and assets managed or advised by our strategic BDC partnership and the hedge fund and other managers in which KKR holds an ownership interest. We believe this measure is useful to stockholders as it provides additional insight into the capital raising activities of KKR and its hedge fund and other managers and the overall activity in their investment funds and other managed capital. KKR calculates the amount of AUM as of any date as the sum of: (i) the fair value of the investments of KKR's investment funds; (ii) uncalled capital commitments from these funds, including uncalled capital commitments from which KKR is currently not earning management fees or carried interest; (iii) the fair value of investments in KKR's co-investment vehicles; (iv) the par value of outstanding CLOs (excluding CLOs wholly owned by KKR); (v) KKR's pro rata portion of the AUM of hedge fund and other managers in which KKR holds an ownership interest; (vi) all AUM of the strategic BDC partnership with FS Investments; and (vii) the fair value of other assets managed by KKR. The pro rata portion of the AUM of hedge fund and other managers is calculated based on KKR’s percentage ownership interest in such entities multiplied by such entity’s respective AUM. KKR's definition of AUM is not based on any definition of AUM that may be set forth in the agreements governing the investment funds, vehicles or accounts that it manages or calculated pursuant to any regulatory definitions. 
+ Book Value 
+ Book value is a non-GAAP measure of the net assets of KKR and is used by management primarily in assessing the unrealized value of KKR’s operating assets after deducting for operating liabilities, noncontrolling interests and preferred stock. We believe this measure is useful to stockholders as it provides additional insight into the net assets of KKR excluding those net assets that are allocated to noncontrolling interest holders and to the holders of the Series A and Series B Preferred Stock. Following the Conversion, KKR's book value includes the net impact of KKR's tax assets and liabilities as prepared under GAAP. 
+ Capital Invested 
+ Capital invested is the aggregate amount of capital invested by (i) KKR’s investment funds, (ii) KKR's Principal Activities business line as a co-investment, if any, alongside KKR’s investment funds, and (iii) KKR's Principal Activities business line in connection with a syndication transaction conducted by KKR's Capital Markets business line, if any. Capital invested is used as a measure of investment activity at KKR during a given period. We believe this measure is useful to stockholders as it provides a measure of capital deployment across KKR’s business lines. Capital invested includes investments made using investment financing arrangements like credit facilities, as applicable. Capital invested excludes (i) investments in certain leveraged credit strategies, (ii) capital invested by KKR’s Principal Activities business line that is not a co-investment alongside KKR’s investment funds, and (iii) capital invested by KKR’s Principal Activities business line that is not invested in connection with a syndication transaction by KKR’s Capital Markets business line. Capital syndicated by KKR's Capital Markets business line to third parties other than KKR’s investment funds or Principal Activities business line is not included in capital invested. See also syndicated capital. 
+ 
+ 
+ 101 
+ 
+ Table of Contents 
+ 
+ 
+ Distributable Operating Earnings 
+ Distributable operating earnings is a non-GAAP measure that represents after-tax distributable earnings before interest expense, preferred dividends, income (loss) attributable to noncontrolling interests and income taxes paid. We believe distributable operating earnings is useful to stockholders as it provides a supplemental measure of our operating performance without taking into account items that we do not believe relate directly to KKR's operations. 
+ Fee Paying AUM ("FPAUM") 
+ Fee paying AUM represents only the AUM from which KKR is entitled to receive management fees. We believe this measure is useful to stockholders as it provides additional insight into the capital base upon which KKR earns management fees. FPAUM is the sum of all of the individual fee bases that are used to calculate KKR's and its hedge fund and BDC partnership management fees and differs from AUM in the following respects: (i) assets and commitments from which KKR is not entitled to receive a management fee are excluded (e.g., assets and commitments with respect to which it is entitled to receive only carried interest or is otherwise not currently entitled to receive a management fee) and (ii) certain assets, primarily in its private equity funds, are reflected based on capital commitments and invested capital as opposed to fair value because fees are not impacted by changes in the fair value of underlying investments. 
+ Fee Related Earnings ("FRE") 
+ Fee related earnings is a non-GAAP measure of earnings of KKR before performance income and investment income. KKR believes this measure may be useful to stockholders as it may provide additional insight into the profitability of KKR’s fee generating management companies and capital markets businesses. Fee related earnings is calculated as KKR’s total Fees and Other, Net, multiplied by KKR’s distributable operating margin. For purposes of the fee related earnings calculation, distributable operating margin is calculated as distributable operating earnings, before equity-based compensation, divided by total operating revenues. 
+ Operating Assets 
+ Operating assets is a non-GAAP measure that represents cash and short-term investments, investments, unrealized carried interest, tax assets, and other assets of KKR presented on a basis that deconsolidates (i) KKR's investment funds and collateralized financing entities that KKR manages and (ii) other consolidated entities that are not subsidiaries of KKR & Co. Inc. We believe this measure is useful to stockholders as it provides additional insight into the assets of KKR that are used to operate its business lines. As used in this definition, cash and short-term investments represent cash and liquid short-term investments in high-grade, short-duration cash management strategies used by KKR to generate additional yield. 
+ Operating Expenses 
+ Operating expenses is a non-GAAP measure that represents the expenses of KKR and is the sum of (i) compensation and benefits (excluding unrealized performance income compensation), (ii) occupancy and related charges and (iii) other operating expenses. KKR believes that operating expenses is useful to stockholders as it provides insight into the costs expended in connection with generating KKR's operating revenues. 
+ Operating Liabilities 
+ Operating liabilities is a non-GAAP measure that represents the debt obligations of KKR (including KFN), tax liabilities, and other liabilities of KKR presented on a basis that deconsolidates (i) KKR's investment funds and collateralized financing entities that KKR manages and (ii) other consolidated entities that are not subsidiaries of KKR & Co. Inc. We believe this measure is useful to stockholders as it provides additional insight into the liabilities of KKR excluding the liabilities that are allocated to noncontrolling interest holders and to the holders of the Series A and Series B Preferred Stock. 
+ Operating Revenues 
+ Operating revenues is a non-GAAP measure that represents the realized revenues (which excludes unrealized carried interest and unrealized net gains (losses)) generated by KKR and is the sum of (i) fees and other, net, (ii) realized performance income (loss) and (iii) realized investment income (loss). KKR believes that operating revenues is useful to stockholders as it provides insight into the realized revenue generated by KKR's business lines. 
+ 
+ 
+ 102 
+ 
+ Table of Contents 
+ 
+ 
+ Syndicated Capital 
+ Syndicated capital is the aggregate amount of capital in transactions originated by KKR and its investment funds and carry-yielding co-investment vehicles, which has been distributed to third parties, generally in exchange for a fee. It does not include (i) capital invested in such transactions by KKR investment funds and carry-yielding co-investment vehicles, which is instead reported in capital invested, (ii) debt capital that is arranged as part of the acquisition financing of transactions originated by KKR investment funds, and (iii) debt capital that is either underwritten or arranged on a best efforts basis. Syndicated capital is used as a measure of investment activity for KKR during a given period, and we believe that this measure is useful to stockholders as it provides additional insight into levels of syndication activity in KKR's Capital Markets business line and across KKR's investment platform. 
+ Uncalled Commitments 
+ Uncalled commitments are used as a measure of unfunded capital commitments that KKR’s investment funds and carry-paying co-investment vehicles have received from partners to contribute capital to fund future investments. We believe this measure is useful to stockholders as it provides additional insight into the amount of capital that is available to KKR’s investment funds to make future investments. Uncalled commitments are not reduced for investments completed using fund-level investment financing arrangements. 
+ 
+ 
+ 103 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ Consolidated Results of Operations 
+ 
+ The following is a discussion of our consolidated results of operations for the years ended December 31, 2019 and 2018 . You should read this discussion in conjunction with the financial statements and related notes included elsewhere in this report. For a more detailed discussion of the factors that affected our non-GAAP operating results in these periods, see "—Analysis of Non-GAAP Operating Results." For a discussion comparing our consolidated results of operations for the years ended December 31, 2018 and 2017, see "Part II, ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of Operations" of our Annual Report on Form 10-K for the year ended December 31, 2018, filed with the SEC on February 15, 2019. 
+ 
+ Year ended December 31, 2019 compared to year ended December 31, 2018 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended 
+ 
+ 
+ 
+ 
+ December 31, 2019 
+ 
+ 
+ 
+ December 31, 2018 
+ 
+ 
+ 
+ Change 
+ 
+ 
+ 
+ 
+ ($ in thousands) 
+ 
+ 
+ Revenues 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fees and Other 
+ 
+ $ 
+ 
+ 1,790,475 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,841,326 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (50,851 
+ 
+ ) 
+ 
+ 
+ Capital Allocation-Based Income 
+ 
+ 2,430,425 
+ 
+ 
+ 
+ 
+ 
+ 554,510 
+ 
+ 
+ 
+ 
+ 
+ 1,875,915 
+ 
+ 
+ 
+ 
+ Total Revenues 
+ 
+ 4,220,900 
+ 
+ 
+ 
+ 
+ 
+ 2,395,836 
+ 
+ 
+ 
+ 
+ 
+ 1,825,064 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Expenses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Compensation and Benefits 
+ 
+ 2,116,890 
+ 
+ 
+ 
+ 
+ 
+ 1,374,363 
+ 
+ 
+ 
+ 
+ 
+ 742,527 
+ 
+ 
+ 
+ 
+ Occupancy and Related Charges 
+ 
+ 62,728 
+ 
+ 
+ 
+ 
+ 
+ 59,706 
+ 
+ 
+ 
+ 
+ 
+ 3,022 
+ 
+ 
+ 
+ 
+ General, Administrative and Other 
+ 
+ 728,813 
+ 
+ 
+ 
+ 
+ 
+ 655,408 
+ 
+ 
+ 
+ 
+ 
+ 73,405 
+ 
+ 
+ 
+ 
+ Total Expenses 
+ 
+ 2,908,431 
+ 
+ 
+ 
+ 
+ 
+ 2,089,477 
+ 
+ 
+ 
+ 
+ 
+ 818,954 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Investment Income (Loss) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net Gains (Losses) from Investment Activities 
+ 
+ 3,161,884 
+ 
+ 
+ 
+ 
+ 
+ 1,254,832 
+ 
+ 
+ 
+ 
+ 
+ 1,907,052 
+ 
+ 
+ 
+ 
+ Dividend Income 
+ 
+ 318,972 
+ 
+ 
+ 
+ 
+ 
+ 175,154 
+ 
+ 
+ 
+ 
+ 
+ 143,818 
+ 
+ 
+ 
+ 
+ Interest Income 
+ 
+ 1,418,516 
+ 
+ 
+ 
+ 
+ 
+ 1,396,532 
+ 
+ 
+ 
+ 
+ 
+ 21,984 
+ 
+ 
+ 
+ 
+ Interest Expense 
+ 
+ (1,043,551 
+ 
+ ) 
+ 
+ 
+ 
+ (876,029 
+ 
+ ) 
+ 
+ 
+ 
+ (167,522 
+ 
+ ) 
+ 
+ 
+ Total Investment Income (Loss) 
+ 
+ 3,855,821 
+ 
+ 
+ 
+ 
+ 
+ 1,950,489 
+ 
+ 
+ 
+ 
+ 
+ 1,905,332 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Income (Loss) Before Taxes 
+ 
+ 5,168,290 
+ 
+ 
+ 
+ 
+ 
+ 2,256,848 
+ 
+ 
+ 
+ 
+ 
+ 2,911,442 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Income Tax Expense (Benefit) 
+ 
+ 528,750 
+ 
+ 
+ 
+ 
+ 
+ (194,098 
+ 
+ ) 
+ 
+ 
+ 
+ 722,848 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net Income (Loss) 
+ 
+ 4,639,540 
+ 
+ 
+ 
+ 
+ 
+ 2,450,946 
+ 
+ 
+ 
+ 
+ 
+ 2,188,594 
+ 
+ 
+ 
+ 
+ Net Income (Loss) Attributable to Redeemable Noncontrolling Interests 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ (37,352 
+ 
+ ) 
+ 
+ 
+ 
+ 37,352 
+ 
+ 
+ 
+ 
+ Net Income (Loss) Attributable to Noncontrolling Interests 
+ 
+ 2,634,491 
+ 
+ 
+ 
+ 
+ 
+ 1,357,235 
+ 
+ 
+ 
+ 
+ 
+ 1,277,256 
+ 
+ 
+ 
+ 
+ Net Income (Loss) Attributable to KKR & Co. Inc. 
+ 
+ 2,005,049 
+ 
+ 
+ 
+ 
+ 
+ 1,131,063 
+ 
+ 
+ 
+ 
+ 
+ 873,986 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Series A Preferred Stock Dividends 
+ 
+ 23,288 
+ 
+ 
+ 
+ 
+ 
+ 23,288 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Series B Preferred Stock Dividends 
+ 
+ 10,076 
+ 
+ 
+ 
+ 
+ 
+ 10,076 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net Income (Loss) Attributable to KKR & Co. Inc. Class A Common Stockholders 
+ 
+ $ 
+ 
+ 1,971,685 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,097,699 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 873,986 
+ 
+ 
+ 
+ 
+ 
+ 
+ 104 
+ 
+ Table of Contents 
+ 
+ 
+ Revenues 
+ 
+ For the years ended December 31, 2019 and 2018 , revenues consisted of the following: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended 
+ 
+ 
+ 
+ 
+ 
+ 
+ December 31, 2019 
+ 
+ 
+ 
+ December 31, 2018 
+ 
+ 
+ 
+ Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ ($ in thousands) 
+ 
+ 
+ Management Fees 
+ 
+ 
+ 
+ $ 
+ 
+ 824,903 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 724,558 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 100,345 
+ 
+ 
+ 
+ 
+ Fee Credits 
+ 
+ 
+ 
+ (340,900 
+ 
+ ) 
+ 
+ 
+ 
+ (231,943 
+ 
+ ) 
+ 
+ 
+ 
+ (108,957 
+ 
+ ) 
+ 
+ 
+ Transaction Fees 
+ 
+ 
+ 
+ 914,329 
+ 
+ 
+ 
+ 
+ 
+ 988,954 
+ 
+ 
+ 
+ 
+ 
+ (74,625 
+ 
+ ) 
+ 
+ 
+ Monitoring Fees 
+ 
+ 
+ 
+ 106,289 
+ 
+ 
+ 
+ 
+ 
+ 87,545 
+ 
+ 
+ 
+ 
+ 
+ 18,744 
+ 
+ 
+ 
+ 
+ Incentive Fees 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 14,038 
+ 
+ 
+ 
+ 
+ 
+ (14,038 
+ 
+ ) 
+ 
+ 
+ Expense Reimbursements 
+ 
+ 
+ 
+ 169,415 
+ 
+ 
+ 
+ 
+ 
+ 146,989 
+ 
+ 
+ 
+ 
+ 
+ 22,426 
+ 
+ 
+ 
+ 
+ Oil and Gas Revenue 
+ 
+ 
+ 
+ 47,153 
+ 
+ 
+ 
+ 
+ 
+ 51,465 
+ 
+ 
+ 
+ 
+ 
+ (4,312 
+ 
+ ) 
+ 
+ 
+ Consulting Fees 
+ 
+ 
+ 
+ 69,286 
+ 
+ 
+ 
+ 
+ 
+ 59,720 
+ 
+ 
+ 
+ 
+ 
+ 9,566 
+ 
+ 
+ 
+ 
+ Total Fees and Other 
+ 
+ 
+ 
+ 1,790,475 
+ 
+ 
+ 
+ 
+ 
+ 1,841,326 
+ 
+ 
+ 
+ 
+ 
+ (50,851 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Carried Interest 
+ 
+ 
+ 
+ 2,041,847 
+ 
+ 
+ 
+ 
+ 
+ 441,529 
+ 
+ 
+ 
+ 
+ 
+ 1,600,318 
+ 
+ 
+ 
+ 
+ General Partner Capital Interest 
+ 
+ 
+ 
+ 388,578 
+ 
+ 
+ 
+ 
+ 
+ 112,981 
+ 
+ 
+ 
+ 
+ 
+ 275,597 
+ 
+ 
+ 
+ 
+ Total Capital Allocation-Based Income 
+ 
+ 
+ 
+ 2,430,425 
+ 
+ 
+ 
+ 
+ 
+ 554,510 
+ 
+ 
+ 
+ 
+ 
+ 1,875,915 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Revenues 
+ 
+ 
+ 
+ $ 
+ 
+ 4,220,900 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 2,395,836 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,825,064 
+ 
+ 
+ 
+ Total Fees and Other for the year ended December 31, 2019 decreased compared to the year ended December 31, 2018 primarily as a result of an increase in fee credits and a decrease in transaction fees and incentive fees. Partially offsetting these decreases was an increase in management fees. 
+ 
+ Transaction fees decreased overall primarily from a lower level of transaction fees earned in our Capital Markets business line. Partially offsetting these decreases was an increase in transaction fees earned in our Private Markets business line, and to a lesser extent, our Public Markets business line. 
+ 
+ The increase in fee credits was due primarily to the increase in transaction fees earned in our Private Markets business line, and to a lesser extent, our Public Markets business line. 
+ 
+ Fee credits owed to consolidated investment funds are eliminated upon consolidation under GAAP. Transaction fees earned from KKR portfolio companies are not eliminated upon consolidation because those fees are earned from companies which are not consolidated. Furthermore, transaction fees earned in our Capital Markets business line are not shared with fund investors. Accordingly, certain transaction fees are reflected in revenues without a corresponding fee credit. 
+ 
+ For a more detailed discussion of the factors that affected our transaction and monitoring fees during the period, see "—Analysis of Non-GAAP Operating Results—Operating Revenues." 
+ 
+ The increase in management fees during the year ended December 31, 2019 compared to the prior period was due primarily to management fees earned from our European Fund V which entered its investment period in 2019 and Global Infrastructure Investors III Fund which entered its investment period during the third quarter of 2018. Partially offsetting this increase was a decrease in management fees and incentive fees related to our BDC platform as a result of the FS Investments Transaction that closed in the second quarter of 2018. KKR reports its investment in FS/KKR Advisor using the equity method of accounting, and as such, KKR reflects its allocation of the net income of this entity as investment income. Accordingly, the management fees and incentive fees of the BDCs that had been reported in fees and other revenues prior to the closing of the FS Investments Transaction are now reflected on a net basis as part of our allocation of the net income of this entity within investment income. This decreased our reported gross management fees and incentive fees when compared to the prior period. 
+ 
+ 
+ 
+ 105 
+ 
+ Table of Contents 
+ 
+ 
+ The increase in carried interest and general partner capital interest during the year ended December 31, 2019 compared to the prior period was due primarily to a higher level of net appreciation in the value of our private equity investment portfolio as compared to the year ended December 31, 2018 . 
+ 
+ Compensation and Benefits Expenses 
+ 
+ The increase in compensation and benefits expenses during the year ended December 31, 2019 compared to the prior period was primarily due to an increase in carried interest compensation resulting from a higher level of unrealized appreciation in the value of our private equity portfolio as compared to the prior period. This increase was partially offset by lower equity-based compensation charges resulting from a decrease in the weighted average number of unvested shares outstanding. 
+ 
+ General, Administrative and Other Expenses 
+ 
+ The increase in general, administrative and other expenses for the year ended December 31, 2019 compared to the year ended December 31, 2018 was primarily due to (i) a higher level of expenses that were credited to our investment funds, in particular a higher level of broken-deal expenses and (ii) a higher level of expenses related to capital raising efforts, in particular approximately $20 million of issuance costs incurred in connection with the launch of a closed-end fund that closed in the fourth quarter of 2019. These increases were partially offset by a lower level of financing costs incurred related to debt at consolidated CLOs compared to the prior period. 
+ 
+ Net Gains (Losses) from Investment Activities 
+ 
+ The following is a summary of net gains (losses) from investment activities: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended 
+ 
+ 
+ 
+ 
+ December 31, 2019 
+ 
+ 
+ 
+ December 31, 2018 
+ 
+ 
+ 
+ 
+ ($ in thousands) 
+ 
+ 
+ Private Equity 
+ 
+ $ 
+ 
+ 3,110,951 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 893,384 
+ 
+ 
+ 
+ 
+ Credit 
+ 
+ (242,995 
+ 
+ ) 
+ 
+ 
+ 
+ (774,524 
+ 
+ ) 
+ 
+ 
+ Investments of Consolidated CFEs 
+ 
+ 213,038 
+ 
+ 
+ 
+ 
+ 
+ (536,050 
+ 
+ ) 
+ 
+ 
+ Real Assets 
+ 
+ (34,545 
+ 
+ ) 
+ 
+ 
+ 
+ 160,884 
+ 
+ 
+ 
+ 
+ Equity Method - Other 
+ 
+ 611,160 
+ 
+ 
+ 
+ 
+ 
+ 335,036 
+ 
+ 
+ 
+ 
+ Other Investments 
+ 
+ (186,860 
+ 
+ ) 
+ 
+ 
+ 
+ (673,618 
+ 
+ ) 
+ 
+ 
+ Debt Obligations and Other 
+ 
+ (435,071 
+ 
+ ) 
+ 
+ 
+ 
+ 909,171 
+ 
+ 
+ 
+ 
+ Other Net Gains (Losses) from Investment Activities 
+ 
+ 126,206 
+ 
+ 
+ 
+ 
+ 
+ 940,549 
+ 
+ 
+ 
+ 
+ Net Gains (Losses) from Investment Activities 
+ 
+ $ 
+ 
+ 3,161,884 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,254,832 
+ 
+ 
+ 
+ Net Gains (Losses) from Investment Activities for the year ended December 31, 2019 
+ The net gains from investment activities for the year ended December 31, 2019 were comprised of net realized gains of $497.3 million and net unrealized gains of $2,664.5 million . 
+ Investment gains and losses relating to investments in our unconsolidated funds are not reflected in our discussion and analysis of Net Gains (Losses) from Investment Activities. Our economics associated with these gains and losses are reflected in Capital Allocation-Based Income as described above. For a discussion and analysis of the primary investment gains or losses relating to individual investments in our unconsolidated funds, see "—Analysis of Non-GAAP Operating Results—Operating Revenues." 
+ Realized Gains and Losses from Investment Activities 
+ For the year ended December 31, 2019 , net realized gains related primarily to realized gains on (i) the sale of our investment in Trainline PLC (LSE: TRN), (ii) the sales of assets in our consolidated real estate funds, (iii) the sale of our investment in Sedgwick Claims Management Services, Inc. (financial services sector) and (iv) the sales of assets in our consolidated special situations funds. Partially offsetting these realized gains were realized losses, the most significant of which related to the sale of investments held by our consolidated CLOs and the sale of our investment in DoubleDutch, Inc. (technology sector). 
+ 
+ 
+ 106 
+ 
+ Table of Contents 
+ 
+ 
+ Unrealized Gains and Losses from Investment Activities 
+ For the year ended December 31, 2019 , unrealized gains were driven primarily by (i) mark-to-market gains on the growth equity investments held by KKR and certain consolidated entities, the most significant of which was BridgeBio Pharma, Inc. (NASDAQ: BBIO), (ii) mark-to-market gains in portfolio companies in our core investment strategy, the most significant of which were PetVet Care Centers, LLC (health care sector), Heartland Dental, LLC (health care sector), and USI, Inc. (financial services sector) and (iii) mark-to-market gains on our investment in Fiserv, Inc., which is held in our funds and as a balance sheet co-investment by KKR. 
+ Partially offsetting the unrealized gains above were unrealized losses relating to (i) mark-to-market losses in our energy investments held through certain consolidated entities, (ii) mark-to-market losses on investments held at our consolidated special situations funds, (iii) mark-to-market losses on investments held at our India debt financing company and (iv) the reversal of previously recognized unrealized gains relating to the realization activity described above. For more details regarding investments held at our India debt financing company, see "—Analysis of Non-GAAP Operating Results—Non-GAAP Balance Sheet Measures." 
+ Net Gains (Losses) from Investment Activities for the year ended December 31, 2018 
+ The net gains from investment activities for the year ended December 31, 2018 were comprised of net realized gains of $534.7 million and net unrealized gains of $720.2 million. 
+ Realized Gains and Losses from Investment Activities 
+ For the year ended December 31, 2018, realized gains related primarily to (i) the sale of assets in our consolidated special situations funds, (ii) the FS Investments Transaction, (iii) the sale of our equity interest in Nephila Capital Ltd. ("Nephila"), (iv) the sale of real estate investments held through certain consolidated entities, and (v) the partial sale of our investment in First Data Corporation (which was merged with Fiserv, Inc.) in the third quarter of 2018 which was held in part as a direct co-investment by KKR. 
+ Partially offsetting these realized gains were realized losses primarily relating (i) the write-off of Trinity Holdings LLC (energy sector) and certain CLOs during the year ended December 31, 2018 and (ii) the partial write-off of our investment in Preferred Proppants, LLC (manufacturing sector) which is held directly by KKR and in our consolidated special situations funds. 
+ Unrealized Gains and Losses from Investment Activities 
+ For the year ended December 31, 2018, unrealized gains were driven primarily by (i) mark-to-market gains in portfolio companies in our core investment strategy, the most significant of which were USI, Inc., PetVet Care Centers, LLC, and Heartland Dental LLC, (ii) mark-to-market gains in our growth equity investments held directly by KKR and certain consolidated entities, (iii) an increase in our allocation of the net income of our hedge fund partnerships and BDC platform, (iv) the reversal of previously recognized unrealized losses related to the write-off of Trinity Holdings LLC and certain CLOs and the partial write-off of Preferred Proppants, LLC as described above, and (v) mark-to-market gains on investments in our energy portfolio held through certain consolidated funds. 
+ Partially offsetting the unrealized gains above were unrealized losses relating to (i) the reversal of previously recognized unrealized gains relating to assets sold in our consolidated special situations funds, the partial sale of First Data Corporation in the third quarter of 2018 which was held as a direct co-investment by KKR and the sale of real estate investments held through certain consolidated entities and (ii) mark-to-market losses on certain investments held in our consolidated special situations funds and investments held at our India debt financing company. 
+ Dividend Income 
+ During the year ended December 31, 2019 , the most significant dividends received included $195.3 million from our investment in Fiserv, Inc., part of which is held as a balance sheet co-investment by KKR, $36.0 million from our consolidated real estate funds, $29.1 million from our consolidated special situations funds, $14.1 million from infrastructure investments held by KKR and $12.7 million from our consolidated energy funds. During the year ended December 31, 2018 , the most significant dividends received included $52.7 million from our consolidated energy funds, $34.7 million from our consolidated special situations funds, and $32.4 million from our consolidated real estate funds. Significant dividends from portfolio companies or consolidated funds are generally not recurring quarterly dividends, and while they may occur in the future, their 
+ 
+ 
+ 107 
+ 
+ Table of Contents 
+ 
+ 
+ size and frequency are variable. For a discussion of other factors that affected KKR's dividend income, see "—Analysis of Non-GAAP Operating Results—Operating Revenues—Principal Activities Revenues—Realized Investment Income." 
+ 
+ Interest Income 
+ 
+ The increase in interest income during the year ended December 31, 2019 compared to the year ended December 31, 2018 was primarily due to a higher level of interest earned related to (i) the closing of five additional consolidated CLOs subsequent to December 31, 2018 and (ii) an increase in the amount of capital deployed in investments held by KKR Real Estate Finance Trust Inc. ("KREF"), a NYSE-listed real estate investment trust ("REIT"), which is consolidated, as compared to the prior period. Partially offsetting this increase is a decrease in interest income related to (i) interest income from our consolidated special situations funds, primarily related to corporate restructurings in certain underlying investments that resulted in KKR receiving non-interest bearing securities for those investments subsequent to December 31, 2018 and (ii) investments held at our India debt finance company as a result of an increase in non-performing loans (see "—Analysis of Non-GAAP Operating Results—Non-GAAP Balance Sheet Measures"). For a discussion of other factors that affected KKR's interest income, see "—Analysis of Non-GAAP Operating Results—Operating Revenues—Principal Activities Revenues—Realized Investment Income." 
+ 
+ Interest Expense 
+ 
+ The increase in interest expense during the year ended December 31, 2019 compared to the year ended December 31, 2018 was primarily due to (i) the impact of the closing of five additional consolidated CLOs subsequent to December 31, 2018 , (ii) the issuance of euro denominated senior notes in the second quarter of 2019 and (iii) increased borrowings from consolidated asset backed financing vehicles managed by KKR. These increases were partially offset by a decrease in interest expense associated with the redemption of our 6.375% Senior Notes due 2020 (the "2020 Senior Notes") during the year ended December 31, 2019 . For a discussion of other factors that affected KKR's interest expense, see "—Analysis of Non-GAAP Operating Results—Operating Expenses—Interest Expense." 
+ 
+ Income (Loss) Before Taxes 
+ 
+ The increase in income (loss) before taxes for the year ended December 31, 2019 compared to the year ended December 31, 2018 was due primarily to a higher level of net gains from investment activities and capital allocation-based income, and to a lesser extent, increased dividend income, partially offset by a higher level of compensation and benefits and interest expense. 
+ 
+ Income Taxes 
+ 
+ For the year ended December 31, 2019 , income tax expense was $528.8 million compared to a net income tax benefit of $194.1 million for the prior period. The income tax benefit in the prior period was primarily the result of tax benefits recorded on the date of Conversion. Prior to the Conversion, KKR & Co. L.P.'s investment income and carried interest generally were not subject to U.S. corporate income taxes. Subsequent to the Conversion, all income earned by KKR & Co. Inc. is subject to U.S. corporate income taxes, which has resulted in, and we believe will continue to result in, an overall higher income tax expense when compared to periods prior to the Conversion. Our effective tax rate under GAAP for the year ended December 31, 2019 was 10.23% . For a discussion of factors that impacted KKR's tax provision, see ITEM 8. Financial Statements and Supplementary Data—Note 11 "Income Taxes." 
+ 
+ Net Income (Loss) Attributable to Noncontrolling Interests 
+ 
+ Net income (loss) attributable to noncontrolling interests for the year ended December 31, 2019 relates primarily to net income attributable to KKR Holdings representing its ownership interests in the KKR Group Partnerships as well as third-party limited partner interests in those investment funds that we consolidate. The increase from the prior period is due primarily to an increase in amounts attributable to KKR Holdings, and to a lesser extent, to an increase in income recorded by certain consolidated fund entities that is attributable to third party limited partners as a result of a higher level of income having been recognized for the year ended December 31, 2019 compared to the prior period. Partially offsetting this increase is a decrease in the amount attributable to noncontrolling interests as a result of the reduction in KKR Holdings' ownership percentage in the KKR Group Partnerships as compared to the prior period. 
+ 
+ 
+ 108 
+ 
+ Table of Contents 
+ 
+ 
+ Net Income (Loss) Attributable to KKR & Co. Inc. 
+ The increase in net income (loss) attributable to KKR & Co. Inc. for the year ended December 31, 2019 compared to the year ended December 31, 2018 was primarily due to an increase in net gains from investment activities and capital allocation-based income, and to a lesser extent, an increase in dividend income in the current period as compared to the prior period. Partially offsetting this increase were decreases primarily related to an increase in income attributable to noncontrolling interests, and to a lesser extent, (i) increased compensation and benefits expenses, (ii) an income tax expense in the current period as compared to an overall tax benefit in the prior period, and (iii) increased interest expense. 
+ 
+ Consolidated Statements of Financial Condition 
+ 
+ The following table provides the Consolidated Statements of Financial Condition on a GAAP basis as of December 31, 2019 and December 31, 2018 . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (Amounts in thousands, except per share amounts) 
+ 
+ 
+ 
+ 
+ 
+ 
+ As of 
+ 
+ 
+ 
+ As of 
+ 
+ 
+ 
+ 
+ 
+ 
+ December 31, 2019 
+ 
+ 
+ 
+ December 31, 2018 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Assets 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cash and Cash Equivalents 
+ 
+ 
+ 
+ $ 
+ 
+ 2,346,713 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,751,287 
+ 
+ 
+ 
+ 
+ Investments 
+ 
+ 
+ 
+ 54,936,268 
+ 
+ 
+ 
+ 
+ 
+ 44,907,982 
+ 
+ 
+ 
+ 
+ Other Assets 
+ 
+ 
+ 
+ 3,616,338 
+ 
+ 
+ 
+ 
+ 
+ 4,084,106 
+ 
+ 
+ 
+ 
+ Total Assets 
+ 
+ 
+ 
+ $ 
+ 
+ 60,899,319 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 50,743,375 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Liabilities and Equity 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Debt Obligations 
+ 
+ 
+ 
+ $ 
+ 
+ 27,013,284 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 22,341,192 
+ 
+ 
+ 
+ 
+ Other Liabilities 
+ 
+ 
+ 
+ 3,383,661 
+ 
+ 
+ 
+ 
+ 
+ 3,019,574 
+ 
+ 
+ 
+ 
+ Total Liabilities 
+ 
+ 
+ 
+ 30,396,945 
+ 
+ 
+ 
+ 
+ 
+ 25,360,766 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Redeemable Noncontrolling Interests 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 1,122,641 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Stockholders' Equity 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Preferred Stock 
+ 
+ 
+ 
+ 482,554 
+ 
+ 
+ 
+ 
+ 
+ 482,554 
+ 
+ 
+ 
+ 
+ KKR & Co. Inc. Stockholders' Equity - Common Stockholders 
+ 
+ 
+ 
+ 10,324,936 
+ 
+ 
+ 
+ 
+ 
+ 8,167,056 
+ 
+ 
+ 
+ 
+ Noncontrolling Interests 
+ 
+ 
+ 
+ 19,694,884 
+ 
+ 
+ 
+ 
+ 
+ 15,610,358 
+ 
+ 
+ 
+ 
+ Total Equity 
+ 
+ 
+ 
+ 30,502,374 
+ 
+ 
+ 
+ 
+ 
+ 24,259,968 
+ 
+ 
+ 
+ 
+ Total Liabilities and Equity 
+ 
+ 
+ 
+ $ 
+ 
+ 60,899,319 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 50,743,375 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ KKR & Co. Inc. Stockholders' Equity Per Outstanding Share of Class A Common Stock 
+ 
+ 
+ 
+ $ 
+ 
+ 18.44 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 15.27 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ KKR & Co. Inc. Stockholders’ Equity - Common Stockholders per Outstanding Share of Class A common stock was $18.44 as of December 31, 2019, up from $15.27 as of December 31, 2018. The increase was primarily attributable to net appreciation in the value of our investment portfolio that is attributable to KKR & Co. Inc. net of dividends to Class A common stockholders. 
+ 
+ 
+ 
+ 109 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ Consolidated Statements of Cash Flows 
+ 
+ The accompanying consolidated statements of cash flows include the cash flows of our consolidated entities which include certain consolidated investment funds and CFEs notwithstanding the fact that we may hold only a minority economic interest in those funds and CFEs. 
+ 
+ The assets of our consolidated funds and CFEs, on a gross basis, can be substantially larger than the assets of our business and, accordingly, could have a substantial effect on the cash flows reflected in our consolidated statements of cash flows. The primary cash flow activities of our consolidated funds and CFEs involve: (i) capital contributions from fund investors; (ii) using the capital of fund investors to make investments; (iii) financing certain investments with indebtedness; (iv) generating cash flows through the realization of investments; and (v) distributing cash flows from the realization of investments to fund investors. Because our consolidated funds and CFEs are treated as investment companies for accounting purposes, certain of these cash flow amounts are included in our cash flows from operations. 
+ 
+ Net Cash Provided (Used) by Operating Activities 
+ 
+ Our net cash provided (used) by operating activities was $(5.7) billion and $(7.6) billion during the years ended December 31, 2019 and 2018 , respectively. These amounts primarily included: (i) proceeds from investments net of investments purchased of $(6.0) billion and $(8.5) billion during the years ended December 31, 2019 and 2018 , respectively; (ii) net realized gains (losses) on investments of $497.3 million and $534.7 million during the years ended December 31, 2019 and 2018 , respectively; (iii) change in unrealized gains (losses) on investments of $2.7 billion and $0.7 billion during the years ended December 31, 2019 and 2018 , respectively; and (iv) capital allocation-based income of $2.4 billion and $0.6 billion during the years ended December 31, 2019 and 2018 , respectively. Investment funds are, for GAAP purposes, investment companies and reflect their investments and other financial instruments at fair value. 
+ 
+ Net Cash Provided (Used) by Investing Activities 
+ 
+ Our net cash provided (used) by investing activities was $(207.4) million and $(78.6) million during the years ended December 31, 2019 and 2018 , respectively. Our investing activities included: (i) the purchase of fixed assets of $(194.6) million and $(102.7) million during the years ended December 31, 2019 and 2018 , respectively; (ii) development of oil and natural gas properties of $(12.8) million and $(2.6) million for the years ended December 31, 2019 and 2018 , respectively; and (iii) proceeds from sale of oil and natural gas properties of $26.6 million for the year ended December 31, 2018 . 
+ 
+ Net Cash Provided (Used) by Financing Activities 
+ 
+ Our net cash provided (used) by financing activities was $6.5 billion and $6.6 billion during the years ended December 31, 2019 and 2018 , respectively. Our financing activities primarily included: (i) distributions to, net of contributions by, our noncontrolling and redeemable noncontrolling interests of $1.5 billion and $1.9 billion during the years ended December 31, 2019 and 2018 , respectively; (ii) proceeds received net of repayment of debt obligations of $5.5 billion and $5.4 billion during the years ended December 31, 2019 and 2018 , respectively; (iii) common stock dividends of $(271.5) million and $(322.3) million during the years ended December 31, 2019 and 2018 , respectively; (iv) net delivery of Class A common stock of $(91.0) million and $(98.8) million for the years ended December 31, 2019 and 2018 , respectively; (v) repurchases of Class A common stock of $(72.1) million and $(173.1) million during the years ended December 31, 2019 and 2018 , respectively; and (vi) preferred stock dividends of $(33.4) million during each of the years ended December 31, 2019 and 2018 . 
+ 
+ 
+ 
+ 110 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ Analysis of Non-GAAP Operating Results 
+ 
+ The following is a discussion of the results of our business on a non-GAAP basis for the years ended December 31, 2019 and 2018 . You should read this discussion in conjunction with the information included under "—Basis of Accounting—Key Non-GAAP and Other Operating and Performance Measures" and the financial statements and related notes included elsewhere in this report. For a discussion comparing the results of our business on a non-GAAP basis for the years ended December 31, 2018 and 2017, see "Part II, ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of Operations" of our Annual Report on Form 10-K for the year ended December 31, 2018, filed with the SEC on February 15, 2019. Certain non-GAAP measures that are presented in this report as KKR's operating results, such as operating assets, operating liabilities, operating revenues, operating expenses and distributable operating earnings, were previously referred to as segment results in our Annual Report on Form 10-K for the year ended December 31, 2018. 
+ 
+ 
+ The following tables set forth information regarding KKR's operating results and certain key operating metrics as of and for the years ended December 31, 2019 and 2018 . 
+ 
+ Year ended December 31, 2019 compared to year ended December 31, 2018 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OPERATING REVENUES 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended 
+ 
+ 
+ 
+ 
+ 
+ 
+ December 31, 2019 
+ 
+ 
+ 
+ December 31, 2018 
+ 
+ 
+ 
+ Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ ($ in thousands) 
+ 
+ 
+ Operating Revenues 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fees and Other, Net 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Management Fees 
+ 
+ 
+ 
+ $ 
+ 
+ 1,227,236 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,069,074 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 158,162 
+ 
+ 
+ 
+ 
+ Transaction Fees 
+ 
+ 
+ 
+ 910,932 
+ 
+ 
+ 
+ 
+ 
+ 977,485 
+ 
+ 
+ 
+ 
+ 
+ (66,553 
+ 
+ ) 
+ 
+ 
+ Monitoring Fees 
+ 
+ 
+ 
+ 106,289 
+ 
+ 
+ 
+ 
+ 
+ 87,520 
+ 
+ 
+ 
+ 
+ 
+ 18,769 
+ 
+ 
+ 
+ 
+ Fee Credits 
+ 
+ 
+ 
+ (382,940 
+ 
+ ) 
+ 
+ 
+ 
+ (280,136 
+ 
+ ) 
+ 
+ 
+ 
+ (102,804 
+ 
+ ) 
+ 
+ 
+ Total Fees and Other, Net 
+ 
+ 
+ 
+ 1,861,517 
+ 
+ 
+ 
+ 
+ 
+ 1,853,943 
+ 
+ 
+ 
+ 
+ 
+ 7,574 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Realized Performance Income (Loss) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Carried Interest 
+ 
+ 
+ 
+ 1,070,788 
+ 
+ 
+ 
+ 
+ 
+ 1,218,647 
+ 
+ 
+ 
+ 
+ 
+ (147,859 
+ 
+ ) 
+ 
+ 
+ Incentive Fees 
+ 
+ 
+ 
+ 65,256 
+ 
+ 
+ 
+ 
+ 
+ 138,330 
+ 
+ 
+ 
+ 
+ 
+ (73,074 
+ 
+ ) 
+ 
+ 
+ Total Realized Performance Income (Loss) 
+ 
+ 
+ 
+ 1,136,044 
+ 
+ 
+ 
+ 
+ 
+ 1,356,977 
+ 
+ 
+ 
+ 
+ 
+ (220,933 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Realized Investment Income (Loss) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net Realized Gains (Losses) (1) 
+ 
+ 
+ 
+ 189,858 
+ 
+ 
+ 
+ 
+ 
+ 365,324 
+ 
+ 
+ 
+ 
+ 
+ (175,466 
+ 
+ ) 
+ 
+ 
+ Interest Income and Dividends 
+ 
+ 
+ 
+ 495,915 
+ 
+ 
+ 
+ 
+ 
+ 286,468 
+ 
+ 
+ 
+ 
+ 
+ 209,447 
+ 
+ 
+ 
+ 
+ Total Realized Investment Income (Loss) 
+ 
+ 
+ 
+ 685,773 
+ 
+ 
+ 
+ 
+ 
+ 651,792 
+ 
+ 
+ 
+ 
+ 
+ 33,981 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Operating Revenues 
+ 
+ 
+ 
+ $ 
+ 
+ 3,683,334 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 3,862,712 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (179,378 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OPERATING EXPENSES 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended 
+ 
+ 
+ 
+ 
+ 
+ 
+ December 31, 2019 
+ 
+ 
+ 
+ December 31, 2018 
+ 
+ 
+ 
+ Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ ($ in thousands) 
+ 
+ 
+ Operating Expenses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Compensation and Benefits (2) 
+ 
+ 
+ 
+ $ 
+ 
+ 1,446,292 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,533,431 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (87,139 
+ 
+ ) 
+ 
+ 
+ Occupancy and Related Charges 
+ 
+ 
+ 
+ 58,888 
+ 
+ 
+ 
+ 
+ 
+ 57,022 
+ 
+ 
+ 
+ 
+ 
+ 1,866 
+ 
+ 
+ 
+ 
+ Other Operating Expenses (3) 
+ 
+ 
+ 
+ 343,418 
+ 
+ 
+ 
+ 
+ 
+ 293,621 
+ 
+ 
+ 
+ 
+ 
+ 49,797 
+ 
+ 
+ 
+ 
+ Total Operating Expenses 
+ 
+ 
+ 
+ $ 
+ 
+ 1,848,598 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,884,074 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (35,476 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AFTER-TAX DISTRIBUTABLE EARNINGS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended 
+ 
+ 
+ 
+ 
+ 
+ 
+ December 31, 2019 
+ 
+ 
+ 
+ December 31, 2018 
+ 
+ 
+ 
+ Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ ($ in thousands) 
+ 
+ 
+ After-tax Distributable Earnings 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (+) Total Operating Revenues 
+ 
+ 
+ 
+ $ 
+ 
+ 3,683,334 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 3,862,712 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (179,378 
+ 
+ ) 
+ 
+ 
+ (-) Total Operating Expenses 
+ 
+ 
+ 
+ 1,848,598 
+ 
+ 
+ 
+ 
+ 
+ 1,884,074 
+ 
+ 
+ 
+ 
+ 
+ (35,476 
+ 
+ ) 
+ 
+ 
+ (=) Total Distributable Operating Earnings 
+ 
+ 
+ 
+ 1,834,736 
+ 
+ 
+ 
+ 
+ 
+ 1,978,638 
+ 
+ 
+ 
+ 
+ 
+ (143,902 
+ 
+ ) 
+ 
+ 
+ (-) Interest Expense 
+ 
+ 
+ 
+ 183,682 
+ 
+ 
+ 
+ 
+ 
+ 187,379 
+ 
+ 
+ 
+ 
+ 
+ (3,697 
+ 
+ ) 
+ 
+ 
+ (-) Preferred Dividends 
+ 
+ 
+ 
+ 33,364 
+ 
+ 
+ 
+ 
+ 
+ 33,364 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ (-) Income (Loss) Attributable to Noncontrolling Interests 
+ 
+ 
+ 
+ 4,907 
+ 
+ 
+ 
+ 
+ 
+ 8,807 
+ 
+ 
+ 
+ 
+ 
+ (3,900 
+ 
+ ) 
+ 
+ 
+ (-) Income Taxes Paid 
+ 
+ 
+ 
+ 207,479 
+ 
+ 
+ 
+ 
+ 
+ 151,848 
+ 
+ 
+ 
+ 
+ 
+ 55,631 
+ 
+ 
+ 
+ 
+ After-tax Distributable Earnings 
+ 
+ 
+ 
+ $ 
+ 
+ 1,405,304 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,597,240 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (191,936 
+ 
+ ) 
+ 
+ 
+ 
+ 111 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) 
+ 
+ Excludes a non-recurring $22.8 million make-whole premium associated with KKR’s retirement of its 2020 Senior Notes during the year ended December 31, 2019 . Given the extraordinary nature of the Conversion, the non-GAAP financial results for the year ended December 31, 2018 exclude approximately $729.4 million of losses on certain investments which were realized in the second quarter of 2018 in advance of the Conversion. 
+ 
+ 
+ 
+ 
+ 
+ (2) 
+ 
+ Includes equity-based compensation of $207.8 million and $242.8 million for the years ended December 31, 2019 and December 31, 2018 , respectively. 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ For the year ended December 31, 2019, other operating expenses include approximately $20 million of issuance costs incurred in connection with the launch of a closed-end fund that closed in the fourth quarter. For the year ended December 31, 2018, excludes approximately $11.5 million of non-recurring costs in connection with the Conversion. 
+ 
+ Operating Revenues 
+ 
+ The following sections discuss revenues for each of our business lines on a disaggregated basis for the years ended December 31, 2019 and 2018 . 
+ 
+ Private Markets Operating Revenues 
+ 
+ The following table presents Fees and Other, Net and Realized Performance Income in the Private Markets business line for the years ended December 31, 2019 and 2018 : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended 
+ 
+ 
+ 
+ 
+ 
+ 
+ December 31, 2019 
+ 
+ 
+ 
+ December 31, 2018 
+ 
+ 
+ 
+ Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ ($ in thousands) 
+ 
+ 
+ Fees and Other, Net 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Management Fees 
+ 
+ 
+ 
+ $ 
+ 
+ 780,254 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 665,026 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 115,228 
+ 
+ 
+ 
+ 
+ Transaction Fees 
+ 
+ 
+ 
+ 421,494 
+ 
+ 
+ 
+ 
+ 
+ 303,902 
+ 
+ 
+ 
+ 
+ 
+ 117,592 
+ 
+ 
+ 
+ 
+ Monitoring Fees 
+ 
+ 
+ 
+ 106,289 
+ 
+ 
+ 
+ 
+ 
+ 87,520 
+ 
+ 
+ 
+ 
+ 
+ 18,769 
+ 
+ 
+ 
+ 
+ Fee Credits 
+ 
+ 
+ 
+ (307,716 
+ 
+ ) 
+ 
+ 
+ 
+ (239,441 
+ 
+ ) 
+ 
+ 
+ 
+ (68,275 
+ 
+ ) 
+ 
+ 
+ Total Fees and Other, Net 
+ 
+ 
+ 
+ 1,000,321 
+ 
+ 
+ 
+ 
+ 
+ 817,007 
+ 
+ 
+ 
+ 
+ 
+ 183,314 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Realized Performance Income (Loss) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Carried Interest 
+ 
+ 
+ 
+ 1,046,038 
+ 
+ 
+ 
+ 
+ 
+ 1,208,747 
+ 
+ 
+ 
+ 
+ 
+ (162,709 
+ 
+ ) 
+ 
+ 
+ Incentive Fees 
+ 
+ 
+ 
+ 2,316 
+ 
+ 
+ 
+ 
+ 
+ 1,041 
+ 
+ 
+ 
+ 
+ 
+ 1,275 
+ 
+ 
+ 
+ 
+ Total Realized Performance Income (Loss) 
+ 
+ 
+ 
+ $ 
+ 
+ 1,048,354 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,209,788 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (161,434 
+ 
+ ) 
+ 
+ Fees and Other, Net 
+ 
+ The increase for the year ended December 31, 2019 as compared to the year ended December 31, 2018 was primarily due to an increase in transaction fees, partially offset by a corresponding increase in fee credits, and an increase in management fees. 
+ 
+ The increase in transaction fees was primarily attributable to an increase in the number of transaction fee-generating investments. During the year ended December 31, 2019 , there were 59 transaction fee-generating investments that paid an average fee of $7.1 million compared to 41 transaction fee-generating investments that paid an average fee of $7.4 million during the year ended December 31, 2018 . For the year ended December 31, 2019 , approximately 36% of these transaction fees were paid by companies located in the Asia-Pacific region, 35% were paid from companies in Europe, and 29% were paid by companies located in North America. Transaction fees vary by investment based upon a number of factors, the most significant of which are transaction size, the particular agreements as to the amount of the fees, the complexity of the transaction and KKR's role in the transaction. Additionally, transaction fees are generally not earned with respect to energy and real estate investments. The increase in fee credits is due primarily to a higher level of transaction fees which are shared with fund investors. 
+ 
+ The increase in management fees was primarily due to (i) management fees earned from our European Fund V which entered its investment period in 2019, (ii) a full year of management fees earned from our Global Infrastructure Investors III Fund in 2019 which entered its investment period subsequent to the second quarter of 2018, (iii) management fees earned from our Global Impact Fund which entered its investment period during 2019, and (iv) increased capital invested in our core investment strategy, for which fees are earned on invested capital. This net increase was partially offset by decreases due to lower management fees calculated based on lower levels of invested capital as a result of realizations primarily in our North America Fund XI, 2006 Fund and European Fund IV. 
+ 
+ 
+ 112 
+ 
+ Table of Contents 
+ 
+ 
+ Realized Performance Income 
+ 
+ The following table presents realized carried interest by investment vehicle for the year ended December 31, 2019 and 2018 : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended 
+ 
+ 
+ 
+ 
+ December 31, 2019 
+ 
+ 
+ 
+ December 31, 2018 
+ 
+ 
+ 
+ 
+ ($ in thousands) 
+ 
+ 
+ North America Fund XI 
+ 
+ $ 
+ 
+ 341,602 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 471,291 
+ 
+ 
+ 
+ 
+ European Fund IV 
+ 
+ 221,222 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 2006 Fund 
+ 
+ 143,692 
+ 
+ 
+ 
+ 
+ 
+ 297,173 
+ 
+ 
+ 
+ 
+ Asian Fund II 
+ 
+ 126,039 
+ 
+ 
+ 
+ 
+ 
+ 92,011 
+ 
+ 
+ 
+ 
+ Co-Investment Vehicles and Other 
+ 
+ 70,179 
+ 
+ 
+ 
+ 
+ 
+ 19,192 
+ 
+ 
+ 
+ 
+ European Fund III 
+ 
+ 65,700 
+ 
+ 
+ 
+ 
+ 
+ 192,715 
+ 
+ 
+ 
+ 
+ Asian Fund III 
+ 
+ 36,707 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Core Investment Vehicles 
+ 
+ 14,449 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Asian Fund 
+ 
+ 10,913 
+ 
+ 
+ 
+ 
+ 
+ 28,991 
+ 
+ 
+ 
+ 
+ Real Estate Partners Americas 
+ 
+ 7,439 
+ 
+ 
+ 
+ 
+ 
+ 12,189 
+ 
+ 
+ 
+ 
+ European Fund II 
+ 
+ 5,058 
+ 
+ 
+ 
+ 
+ 
+ 2,159 
+ 
+ 
+ 
+ 
+ China Growth Fund 
+ 
+ 3,038 
+ 
+ 
+ 
+ 
+ 
+ 11,759 
+ 
+ 
+ 
+ 
+ Millennium Fund 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 64,614 
+ 
+ 
+ 
+ 
+ Global Infrastructure Investors 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 16,653 
+ 
+ 
+ 
+ 
+ Total Realized Carried Interest (1) 
+ 
+ $ 
+ 
+ 1,046,038 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,208,747 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) 
+ 
+ The above table excludes any funds for which there was no realized carried interest during both of the periods presented. 
+ 
+ Realized carried interest for the year ended December 31, 2019 consisted primarily of realized gains from the sales of Sedgwick Claims Management Services, Inc. and Trainline PLC and dividends received from our investment in Fiserv, Inc. 
+ 
+ Realized carried interest for the year ended December 31, 2018 consisted primarily of realized gains from the partial sales of National Vision Holdings (NASDAQ: EYE), Inc., GoDaddy Inc. (NYSE: GDDY), and Gardner Denver Holdings, Inc. (NYSE: GDI). 
+ 
+ Public Markets Operating Revenues 
+ The following table presents Fees and Other, Net and Realized Performance Income in the Public Markets business line for the year ended December 31, 2019 and 2018 : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended 
+ 
+ 
+ 
+ 
+ 
+ 
+ December 31, 2019 
+ 
+ 
+ 
+ December 31, 2018 
+ 
+ 
+ 
+ Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ ($ in thousands) 
+ 
+ 
+ Fees and Other, Net 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Management Fees 
+ 
+ 
+ 
+ $ 
+ 
+ 446,982 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 404,048 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 42,934 
+ 
+ 
+ 
+ 
+ Transaction Fees 
+ 
+ 
+ 
+ 79,383 
+ 
+ 
+ 
+ 
+ 
+ 42,531 
+ 
+ 
+ 
+ 
+ 
+ 36,852 
+ 
+ 
+ 
+ 
+ Fee Credits 
+ 
+ 
+ 
+ (75,224 
+ 
+ ) 
+ 
+ 
+ 
+ (40,695 
+ 
+ ) 
+ 
+ 
+ 
+ (34,529 
+ 
+ ) 
+ 
+ 
+ Total Fees and Other, Net 
+ 
+ 
+ 
+ 451,141 
+ 
+ 
+ 
+ 
+ 
+ 405,884 
+ 
+ 
+ 
+ 
+ 
+ 45,257 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Realized Performance Income (Loss) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Carried Interest 
+ 
+ 
+ 
+ 24,750 
+ 
+ 
+ 
+ 
+ 
+ 9,900 
+ 
+ 
+ 
+ 
+ 
+ 14,850 
+ 
+ 
+ 
+ 
+ Incentive Fees 
+ 
+ 
+ 
+ 62,940 
+ 
+ 
+ 
+ 
+ 
+ 137,289 
+ 
+ 
+ 
+ 
+ 
+ (74,349 
+ 
+ ) 
+ 
+ 
+ Total Realized Performance Income (Loss) 
+ 
+ 
+ 
+ $ 
+ 
+ 87,690 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 147,189 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (59,499 
+ 
+ ) 
+ 
+ 
+ 113 
+ 
+ Table of Contents 
+ 
+ 
+ Fees and Other, Net 
+ The increase for the year ended December 31, 2019 was primarily due to an increase in management fees and transaction fees partially offset by an increase in associated fee credits. 
+ The increase in management fees was primarily due to (i) increased fees from our CLOs and leveraged credit strategies as a result of greater overall FPAUM and (ii) an increase in fees earned from BDCs advised by FS/KKR Advisor due to a full year of fees from this strategic partnership in 2019. On a non-GAAP basis, KKR's pro rata income from our BDC platform, which is an equity method investment, is included in management fees and incentive fees. On a GAAP basis, such amounts are included in net gains from investment activities. 
+ The increase in transaction fees was primarily attributable to an increase in both the average size and number of transaction fee-generating investments during the period. During the year ended December 31, 2019 , there were 45 transaction fee-generating investments that paid an average fee of $1.8 million compared to 37 transaction fee-generating investments that paid an average fee of $1.1 million during the year ended December 31, 2018 . 
+ Realized Performance Income 
+ The decrease for the year ended December 31, 2019 compared to the prior period was primarily attributable to a lower level of incentive fees earned in our hedge fund partnerships as a result of less favorable performance as compared to prior year, partially offset by an increased level of realized carried interest earned in three of our alternative credit strategy funds as compared to one fund during the year ended December 31, 2018. 
+ Capital Markets Operating Revenues 
+ The following table presents Transaction Fees in the Capital Markets business line for the year ended December 31, 2019 and 2018 : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended 
+ 
+ 
+ 
+ 
+ 
+ 
+ December 31, 2019 
+ 
+ 
+ 
+ December 31, 2018 
+ 
+ 
+ 
+ Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ ($ in thousands) 
+ 
+ 
+ Transaction Fees 
+ 
+ 
+ 
+ $ 
+ 
+ 410,055 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 631,052 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (220,997 
+ 
+ ) 
+ Transaction fees decreased due primarily to a decrease in the size of capital markets transactions and to a lesser extent the number of transactions for the year ended December 31, 2019 , compared to the year ended December 31, 2018 . Overall, we completed 192 capital markets transactions for the year ended December 31, 2019 , of which 28 represented equity offerings and 164 represented debt offerings, as compared to 204 transactions for the year ended December 31, 2018 , of which 28 represented equity offerings and 176 represented debt offerings. Our capital markets fees are generated in connection with our Private Markets and Public Markets business lines as well as from third-party companies. For the year ended December 31, 2019 , approximately 23% of our transaction fees were earned from unaffiliated third parties as compared to approximately 18% for the year ended December 31, 2018 . Our transaction fees are comprised of fees earned from North America, Europe and Asia-Pacific. For the year ended December 31, 2019 , approximately 61% of our transaction fees were generated outside of North America as compared to approximately 30% for the year ended December 31, 2018 . Our Capital Markets business line is dependent on the overall capital markets environment, which is influenced by equity prices, credit spreads and volatility. Our Capital Markets business line does not generate management or monitoring fees. 
+ Principal Activities Operating Revenues 
+ The following table presents Realized Investment Income in the Principal Activities business line for the year ended December 31, 2019 and 2018 : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended 
+ 
+ 
+ 
+ 
+ 
+ 
+ December 31, 2019 
+ 
+ 
+ 
+ December 31, 2018 
+ 
+ 
+ 
+ Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ ($ in thousands) 
+ 
+ 
+ Realized Investment Income (Loss) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net Realized Gains (Losses) (1) 
+ 
+ 
+ 
+ $ 
+ 
+ 189,858 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 365,324 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (175,466 
+ 
+ ) 
+ 
+ 
+ Interest Income and Dividends 
+ 
+ 
+ 
+ 495,915 
+ 
+ 
+ 
+ 
+ 
+ 286,468 
+ 
+ 
+ 
+ 
+ 
+ 209,447 
+ 
+ 
+ 
+ 
+ Total Realized Investment Income (Loss) 
+ 
+ 
+ 
+ $ 
+ 
+ 685,773 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 651,792 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 33,981 
+ 
+ 
+ 
+ 
+ 114 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) 
+ 
+ Excludes a non-recurring $22.8 million make-whole premium associated with KKR’s retirement of its 2020 Senior Notes during the year ended December 31, 2019 . Given the extraordinary nature of the Conversion, the non-GAAP financial results for the year ended December 31, 2018 exclude approximately $729.4 million of losses on certain investments which were realized in the second quarter in advance of the Conversion. 
+ Realized Investment Income 
+ The increase in net realized investment income for the year ended December 31, 2019 compared to the prior period is primarily due to an increase in dividends, partially offset by a decreased level of net realized gains for the year ended December 31, 2019 , compared to the prior period. Dividend income was higher for the year ended December 31, 2019 compared to 2018 primarily due to dividends received in connection with our investment in Fiserv, Inc. The amount of realized investment income (loss) depends on the transaction activity of our funds and balance sheet, which can vary from period to period. 
+ For the year ended December 31, 2019 , interest income and dividends were comprised of (i) $195.3 million of dividend income from our investment in Fiserv, Inc., (ii) $141.4 million of dividend income from distributions received primarily through our real assets investments, including our real estate investment in KREF and our energy investments, as well as certain of our credit and private equity investments, and (iii) $159.2 million of interest income which consists primarily of interest that is received from our Public Markets investments, including CLOs and other credit investments, our cash balances, and, to a lesser extent, our Capital Markets business. 
+ For the year ended December 31, 2018 , interest income and dividends were comprised of (i) $174.4 million of interest income which consists primarily of interest that is received from our Public Markets investments, including CLOs and other credit investments and, to a lesser extent, our Capital Markets business and our cash balances and (ii) $112.1 million of dividend income from distributions received primarily through our real assets investments, including our real estate investment in KREF and our energy investments, as well as our credit and energy investments. 
+ For the year ended December 31, 2019 , net realized gains were comprised primarily of gains from the sale of our investments in Trainline PLC, GEG German Estate Group AG (financial services sector), and Sedgwick Claims Management Services, Inc., and the sale of certain investments in our special situations funds. Partially offsetting these realized gains were realized losses, the most significant of which was a realized loss on the sale of our investment in DoubleDutch, Inc. 
+ For the year ended December 31, 2018 , net realized gains were comprised primarily of gains from the sale of Private Markets investments including the sales or partial sales of our investments in First Data Corporation, Next Issue Media LLC (technology sector), and National Vision Holdings, Inc., as well as the sale of our equity interest in Nephila and the sale of our alternative credit investment in Amedisys, Inc. (NASDAQ: AMED). Partially offsetting these realized gains were realized losses, the most significant of which was a realized loss on Preferred Proppants, LLC. Given the extraordinary nature of the Conversion, the non-GAAP financial results for the year ended December 31, 2018 exclude approximately $729.4 million of realized losses on certain investments, primarily credit and energy investments, which were realized in the second quarter of 2018 in advance of the Conversion. 
+ Subsequent to December 31, 2019, we completed, or expect to complete sales, partial sales or secondary sales with respect to certain private equity portfolio companies and other investments as well as other realization activities such as the receipt of dividends and interest income across our broader portfolio. These realization activities, if and when completed, are expected to result in realized performance income and realized investment income of approximately $700 million in the first half of 2020. Some of these transactions are not complete, and are subject to the satisfaction of closing conditions; there can be no assurance if or when any of these transactions will be completed. 
+ Operating Expenses 
+ 
+ Compensation and Benefits 
+ 
+ The decrease for the year ended December 31, 2019 compared to the prior period was due primarily to lower compensation recorded in connection with lower total operating revenues and lower equity-based compensation charges resulting from a decrease in the weighted average number of unvested shares outstanding. 
+ 
+ Occupancy and Other Operating Expenses 
+ 
+ The increase for the year ended December 31, 2019 compared to the prior period is primarily due to a higher level of expenses that are creditable to our investment funds, in particular a higher level of broken-deal expenses, as well as a higher level of professional fees in connection with the growth of the firm. The level of broken-deal expenses can vary significantly 
+ 
+ 
+ 115 
+ 
+ Table of Contents 
+ 
+ 
+ period to period based upon a number of factors, the most significant of which are the number of potential investments being pursued for our investment funds, the size and complexity of investments being pursued and the number of investment funds currently in their investment period. Additionally, for the year ended December 31, 2019, other operating expenses include approximately $20 million of issuance costs incurred in connection with the launch of a closed-end fund that closed in the fourth quarter. 
+ 
+ Other Components of After-tax Distributable Earnings 
+ 
+ Interest Expense 
+ 
+ For the year ended December 31, 2019 and 2018 , interest expense relates primarily to the senior notes outstanding for KKR and KFN. The decrease in interest expense for the year ended December 31, 2019 compared to the prior period is due primarily to (i) the redemption of our $500 million aggregate principal amount of the 2020 Senior Notes in the third quarter of 2019, (ii) the redemption of preferred shares at KFN in the first quarter of 2018, and (iii) a lower level of borrowings in our Capital Markets business line. These decreases were partially offset by the issuance of $500 million aggregate principal amount of 3.750% Senior Notes due 2029, which bear interest at a lower rate than that of the 2020 Senior Notes, and the issuance of the €650 million aggregate principal amount of 1.625% Senior Notes due 2029 in the second quarter of 2019. 
+ Income Taxes Paid 
+ The increase in income taxes paid is primarily due to a higher level of income that is subject to corporate taxes following the Conversion. Prior to the Conversion, KKR's investment income and carried interest generally were not subject to U.S. corporate income taxes. Subsequent to the Conversion, all income earned by KKR is subject to U.S. corporate income taxes which has resulted in, and we believe will continue to result in, an overall higher income taxes paid when compared to periods prior to the Conversion. As a result of the Conversion, KKR recognized a partial step-up in the tax bases of certain assets that will be recovered as those assets are sold or the bases are amortized. This generally results in a lower level of taxable gains upon realization of carried interest and investment income for those assets that existed on the date of the Conversion. Over time as these assets with higher tax bases are realized, we expect that our income taxes paid and non-GAAP effective tax rate will increase. The pace of such increase is not currently known and is dependent on a variety of factors including the pace at which the assets with higher tax bases are realized and the mix of all assets realized in any given period. Therefore, we cannot predict what the increase, if any, in income taxes paid will be quarter-over-quarter or year-over-year. 
+ After-tax Distributable Earnings 
+ 
+ The decrease in after-tax distributable earnings for the year ended December 31, 2019 compared to the prior period was due primarily to a lower level of realized performance income partially offset by an increase in management fees. 
+ 
+ Other Operating and Performance Measures 
+ 
+ The following table presents certain key operating and performance metrics as of December 31, 2019 and December 31, 2018 : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ As of 
+ 
+ 
+ 
+ 
+ 
+ 
+ December 31, 2019 
+ 
+ 
+ 
+ December 31, 2018 
+ 
+ 
+ 
+ Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ ($ in thousands) 
+ 
+ 
+ Assets Under Management 
+ 
+ 
+ 
+ $ 
+ 
+ 218,355,100 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 194,720,400 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 23,634,700 
+ 
+ 
+ 
+ 
+ Fee Paying Assets Under Management 
+ 
+ 
+ 
+ $ 
+ 
+ 161,209,800 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 141,007,700 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 20,202,100 
+ 
+ 
+ 
+ 
+ Uncalled Commitments 
+ 
+ 
+ 
+ $ 
+ 
+ 56,920,600 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 57,959,000 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (1,038,400 
+ 
+ ) 
+ 
+ The following table presents one of our key performance metrics for the year ended December 31, 2019 and 2018 : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended 
+ 
+ 
+ 
+ 
+ 
+ 
+ December 31, 2019 
+ 
+ 
+ 
+ December 31, 2018 
+ 
+ 
+ 
+ Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ ($ in thousands) 
+ 
+ 
+ Capital Invested and Syndicated Capital 
+ 
+ 
+ 
+ $ 
+ 
+ 28,055,900 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 26,493,900 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,562,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 116 
+ 
+ Table of Contents 
+ 
+ 
+ Assets Under Management 
+ 
+ Private Markets 
+ 
+ The following table reflects the changes in our Private Markets AUM from December 31, 2018 to December 31, 2019 : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ($ in thousands) 
+ 
+ 
+ December 31, 2018 
+ 
+ $ 
+ 
+ 103,396,500 
+ 
+ 
+ 
+ 
+ New Capital Raised 
+ 
+ 12,097,800 
+ 
+ 
+ 
+ 
+ Distributions and Other 
+ 
+ (9,978,500 
+ 
+ ) 
+ 
+ 
+ Change in Value 
+ 
+ 13,758,900 
+ 
+ 
+ 
+ 
+ December 31, 2019 
+ 
+ $ 
+ 
+ 119,274,700 
+ 
+ 
+ 
+ AUM for the Private Markets business line was $119.3 billion at December 31, 2019 , an increase of $15.9 billion, compared to $103.4 billion at December 31, 2018 . 
+ 
+ The increase was primarily attributable to (i) an increase in the value of our Private Markets portfolio and (ii) to a lesser extent new capital raised primarily in our Next Generation Technology Growth Fund II, Asia Pacific Infrastructure Investors, European Fund V, private equity separately managed accounts, Real Estate Credit Opportunity Partners II Fund, and Asia Real Estate Partners. These increases were partially offset by distributions to Private Markets fund investors primarily as a result of realizations, most notably in our North America Fund XI, European Fund IV, Asian Fund II, 2006 Fund, and European Fund III. 
+ The increase in the value of our Private Markets portfolio was driven primarily by net gains of $3.1 billion in our 2006 Fund, $1.9 billion in our North America Fund XI, $1.6 billion in our Asian Fund III, $1.4 billion in our European Fund IV, $1.2 billion in our core investment vehicles, and $1.0 billion in Asian Fund II. 
+ For the year ended December 31, 2019 , the value of our private equity investment portfolio increased 27.0%. This was comprised of a 60.7% increase in share prices of various publicly held or publicly indexed investments and a 16.7% increase in value of our privately held investments. 
+ The most significant increases in share prices of various publicly held or publicly indexed investments were increases in Fiserv, Inc., Gardner Denver Holdings, Inc., and BrightView Holdings Inc. (NYSE: BV). These increases were partially offset by decreases in share prices of various publicly held investments, the most significant of which were decreases in Coffee Day Resorts Private Limited (NSE: CCD), RigNet, Inc. (NASDAQ: RNET), and Tarena International, Inc. (NASDAQ: TEDU). 
+ The most significant increases in value of our privately held investments related to increases in KCF Technologies Co. Ltd. (industrial sector), Kokusai Electric Corporation (manufacturing sector), AppLovin Corporation (technology sector), and Internet Brands, Inc. (technology sector). These increases in value on our privately held investments were partially offset by decreases in value relating primarily to oil and gas assets held in our energy income and growth portfolio, Envision Healthcare Corporation (health care sector), and Academy Ltd. (retail sector). The increased valuations of individual companies in our privately held investments, in the aggregate, generally related to (i) individual company performance, (ii) an increase in the value of market comparables, and (iii) with respect to KCF Technologies Co. Ltd. and Kokusai Electric Corporation, increases in valuation reflecting agreements to exit these investments. The decreased valuations of individual companies in our privately held investments, in the aggregate, generally related to individual company performance or, in certain cases, an unfavorable business outlook. 
+ For the year ended December 31, 2018 , the value of our private equity investment portfolio increased 5.1%. This was comprised of a 12.3% increase in the value of our privately held investments and a 7.9% decrease in the value of various publicly held or publicly indexed investments. 
+ The most significant increases in value of our privately held investments related to increases in Sedgwick Claims Management Services, Inc., Internet Brands, Inc., and Cognita Schools Ltd (education sector). These increases in value on our privately held investments were partially offset by decreases in value relating primarily to Arbor Pharmaceuticals, Inc. (health care sector), Resource Environmental Solutions, LLC (energy sector), and Mandala Energy Ltd. (energy sector). The increased valuations of individual companies in our privately held investments, in the aggregate, generally related to (i) in the case of Sedgwick Claims Management Services, Inc. and Cognita Schools Ltd, a valuation that reflects an agreement to exit these investments, (ii) an increase in the value of market comparables, and (iii) individual company performance. The decreased valuations of individual companies in our privately held investments, in the aggregate, generally related to (i) individual 
+ 
+ 
+ 117 
+ 
+ Table of Contents 
+ 
+ 
+ company performance or, in certain cases, an unfavorable business outlook or (ii) a decrease in the value of market comparables. 
+ The most significant decreases in share prices of various publicly held or publicly indexed investments were decreases in Gardner Denver Holdings, Inc., BrightView Holdings, Inc., and National Vision Holdings, Inc. These decreases were partially offset by increases in share prices of various publicly held investments, the most significant of which were gains in First Data Corporation, GoDaddy Inc., and PT Japfa Comfeed Indonesia Tbk. (IDX: JPFA). 
+ Public Markets 
+ The following table reflects the changes in our Public Markets AUM from December 31, 2018 to December 31, 2019 : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ($ in thousands) 
+ 
+ 
+ December 31, 2018 
+ 
+ $ 
+ 
+ 91,323,900 
+ 
+ 
+ 
+ 
+ New Capital Raised 
+ 
+ 13,419,600 
+ 
+ 
+ 
+ 
+ Impact of Other Transactions 
+ 
+ 2,172,900 
+ 
+ 
+ 
+ 
+ Distributions 
+ 
+ (1,951,300 
+ 
+ ) 
+ 
+ 
+ Redemptions 
+ 
+ (7,657,300 
+ 
+ ) 
+ 
+ 
+ Change in Value 
+ 
+ 1,772,600 
+ 
+ 
+ 
+ 
+ December 31, 2019 
+ 
+ $ 
+ 
+ 99,080,400 
+ 
+ 
+ 
+ AUM in our Public Markets business line totaled $99.1 billion at December 31, 2019 , an increase of $7.8 billion compared to AUM of $91.3 billion at December 31, 2018 . The increases due to new capital raised were related to multiple strategies, most notably $3.5 billion in certain leveraged credit strategies, $2.9 billion in our alternative credit strategies, $2.8 billion in our hedge fund partnerships, and $2.4 billion in CLOs. Partially offsetting these increases were redemptions and distributions from certain investment vehicles across multiple strategies, primarily from our hedge fund partnerships, certain leveraged credit strategies, and our alternative credit strategies. The increase in value was driven primarily by net increases in value of our hedge fund partnerships, certain leveraged credit strategies, partially offset by decreases at our BDCs. The "Impact of Other Transactions" represents a $2.2 billion increase in our pro rata portion of AUM managed by Marshall Wace in connection with the acquisition of an additional 5% interest in Marshall Wace. 
+ 
+ Fee Paying Assets Under Management 
+ 
+ Private Markets 
+ 
+ The following table reflects the changes in our Private Markets FPAUM from December 31, 2018 to December 31, 2019 : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ($ in thousands) 
+ 
+ 
+ December 31, 2018 
+ 
+ $ 
+ 
+ 66,830,000 
+ 
+ 
+ 
+ 
+ New Capital Raised 
+ 
+ 14,076,800 
+ 
+ 
+ 
+ 
+ Distributions and Other 
+ 
+ (3,641,900 
+ 
+ ) 
+ 
+ 
+ Net Changes in Fee Base of Certain Funds 
+ 
+ (561,300 
+ 
+ ) 
+ 
+ 
+ Change in Value 
+ 
+ 214,500 
+ 
+ 
+ 
+ 
+ December 31, 2019 
+ 
+ $ 
+ 
+ 76,918,100 
+ 
+ 
+ 
+ FPAUM in our Private Markets business line was $76.9 billion at December 31, 2019 , an increase of $10.1 billion, compared to $66.8 billion at December 31, 2018 . 
+ 
+ The increase was primarily attributable to new capital raised of $5.7 billion in European Fund V, $2.1 billion in private equity separately managed accounts, $1.9 billion in Next Generation Technology Growth Fund II, and $1.1 billion of capital invested by our core investment vehicles. These increases were partially offset by distributions primarily relating to realizations of $0.6 billion in each of North America Fund XI, European Fund IV, and Asian Fund II, and $0.4 billion in Asian Fund. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 118 
+ 
+ Table of Contents 
+ 
+ 
+ Public Markets 
+ 
+ The following table reflects the changes in our Public Markets FPAUM from December 31, 2018 to December 31, 2019 : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ($ in thousands) 
+ 
+ 
+ December 31, 2018 
+ 
+ $ 
+ 
+ 74,177,700 
+ 
+ 
+ 
+ 
+ New Capital Raised 
+ 
+ 13,878,500 
+ 
+ 
+ 
+ 
+ Impact of Other Transactions 
+ 
+ 2,172,900 
+ 
+ 
+ 
+ 
+ Distributions 
+ 
+ (2,089,100 
+ 
+ ) 
+ 
+ 
+ Redemptions 
+ 
+ (5,159,100 
+ 
+ ) 
+ 
+ 
+ Change in Value 
+ 
+ 1,310,800 
+ 
+ 
+ 
+ 
+ December 31, 2019 
+ 
+ $ 
+ 
+ 84,291,700 
+ 
+ 
+ 
+ FPAUM in our Public Markets business line was $84.3 billion at December 31, 2019 , an increase of $10.1 billion compared to FPAUM of $74.2 billion at December 31, 2018 . The increases due to new capital raised were related to multiple strategies, most notably $3.5 billion in both our alternative credit strategies and certain leveraged credit strategies, $2.8 billion in our hedge fund partnerships, and $2.4 billion in CLOs. Partially offsetting these increases were redemptions and distributions from certain investment vehicles across multiple strategies, primarily from our hedge fund partnerships, certain leveraged credit strategies, and our alternative credit strategies. The increase in value was related primarily to increases at our hedge fund partnerships and various leveraged credit strategies, partially offset by decreases at our BDCs. The "Impact of Other Transactions" represents a $2.2 billion increase in our pro rata portion of FPAUM managed by Marshall Wace in connection with the acquisition of an additional 5% interest in Marshall Wace. 
+ 
+ Uncalled Commitments 
+ Private Markets 
+ As of December 31, 2019 , our Private Markets business line had $46.8 billion of remaining uncalled capital commitments that could be called for investments in new transactions as compared to $48.2 billion as of December 31, 2018. The net decrease is due primarily to capital called from fund investors to make investments during the period, partially offset by new capital raised in various Private Markets investing strategies, and our private equity separately managed accounts. 
+ Public Markets 
+ As of December 31, 2019 , our Public Markets business line had $10.1 billion of remaining uncalled capital commitments that could be called for investments in new transactions as compared to $9.8 billion as of December 31, 2018. The net increase is due to new capital raised primarily in our alternative credit strategies, partially offset by capital called from fund investors to make investments during the period. 
+ Capital Invested and Syndicated Capital 
+ Private Markets Capital Invested 
+ For the year ended December 31, 2019 , Private Markets had $14.1 billion of capital invested as compared to $13.2 billion for the year ended December 31, 2018 . The increase was driven primarily by a $1.0 billion increase in capital invested in our private equity platform (including core investments and growth equity), partially offset by a $0.1 billion decrease in capital invested in our real assets platforms. Generally, the portfolio companies acquired through our private equity funds have higher transaction values and result in higher capital invested relative to transactions in our real assets funds. The number of large private equity investments made in any quarterly or year-to-date period is volatile and, consequently, a significant amount of capital invested in one period or a few periods may not be indicative of a similar level of capital deployment in future periods. During the year ended December 31, 2019 , 43% of capital deployed in private equity, which includes core and growth equity investments, was in transactions in the Asia-Pacific region, 35% was in Europe and 22% was in North America. 
+ 
+ 
+ 
+ 
+ 119 
+ 
+ Table of Contents 
+ 
+ 
+ Public Markets Capital Invested 
+ For the year ended December 31, 2019 , Public Markets had $10.1 billion of capital invested as compared to $6.9 billion for the year ended December 31, 2018 . The increase was primarily due to a higher level of capital deployed in our direct lending and private opportunistic credit strategies, partially offset by a lower level of capital deployed in our special situations strategy. During the year ended December 31, 2019 , 67% of capital deployed was in transactions in North America, 25% was in Europe, and 8% was in the Asia-Pacific region. 
+ Capital Markets Syndicated Capital 
+ For the year ended December 31, 2019 , Capital Markets syndicated $3.9 billion of capital as compared to $6.3 billion for the year ended December 31, 2018 . The decrease was primarily due to a decrease in the size of syndication transactions in the year ended December 31, 2019 as compared to the year ended December 31, 2018 . Overall, we completed 21 syndication transactions for the year ended December 31, 2019 as compared to 16 syndications for the year ended December 31, 2018 . The size and frequency of syndication transactions depend in large part on market conditions and other factors that are unpredictable and outside our control, which may negatively impact the fees generated by our capital markets business from syndication transactions. 
+ 
+ 
+ 120 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ Non-GAAP Balance Sheet Measures 
+ The following tables present information with respect to our operating assets, operating liabilities, and book value as of December 31, 2019 and December 31, 2018 : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OPERATING ASSETS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ As of 
+ 
+ 
+ 
+ 
+ 
+ 
+ December 31, 2019 
+ 
+ 
+ 
+ December 31, 2018 
+ 
+ 
+ 
+ 
+ 
+ 
+ ($ in thousands) 
+ 
+ 
+ Operating Assets 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cash and Short-term Investments 
+ 
+ 
+ 
+ $ 
+ 
+ 2,783,905 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 2,502,239 
+ 
+ 
+ 
+ 
+ Investments 
+ 
+ 
+ 
+ 13,026,387 
+ 
+ 
+ 
+ 
+ 
+ 9,847,464 
+ 
+ 
+ 
+ 
+ Net Unrealized Carried Interest (1) 
+ 
+ 
+ 
+ 1,982,251 
+ 
+ 
+ 
+ 
+ 
+ 1,223,084 
+ 
+ 
+ 
+ 
+ Tax Assets 
+ 
+ 
+ 
+ 111,719 
+ 
+ 
+ 
+ 
+ 
+ 561,114 
+ 
+ 
+ 
+ 
+ Other Assets (2) 
+ 
+ 
+ 
+ 3,716,189 
+ 
+ 
+ 
+ 
+ 
+ 3,453,735 
+ 
+ 
+ 
+ 
+ Total Operating Assets 
+ 
+ 
+ 
+ $ 
+ 
+ 21,620,451 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 17,587,636 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OPERATING LIABILITIES 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ As of 
+ 
+ 
+ 
+ 
+ 
+ 
+ December 31, 2019 
+ 
+ 
+ 
+ December 31, 2018 
+ 
+ 
+ 
+ 
+ 
+ 
+ ($ in thousands) 
+ 
+ 
+ Operating Liabilities 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Debt Obligations - KKR (ex-KFN) 
+ 
+ 
+ 
+ $ 
+ 
+ 3,097,460 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 2,367,801 
+ 
+ 
+ 
+ 
+ Debt Obligations - KFN 
+ 
+ 
+ 
+ 948,517 
+ 
+ 
+ 
+ 
+ 
+ 948,517 
+ 
+ 
+ 
+ 
+ Tax Liabilities 
+ 
+ 
+ 
+ 169,997 
+ 
+ 
+ 
+ 
+ 
+ 174,395 
+ 
+ 
+ 
+ 
+ Other Liabilities 
+ 
+ 
+ 
+ 514,236 
+ 
+ 
+ 
+ 
+ 
+ 590,981 
+ 
+ 
+ 
+ 
+ Total Operating Liabilities 
+ 
+ 
+ 
+ $ 
+ 
+ 4,730,210 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 4,081,694 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BOOK VALUE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ As of 
+ 
+ 
+ 
+ 
+ 
+ 
+ December 31, 2019 
+ 
+ 
+ 
+ December 31, 2018 
+ 
+ 
+ 
+ 
+ 
+ 
+ ($ in thousands) 
+ 
+ 
+ Book Value 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (+) Total Operating Assets 
+ 
+ 
+ 
+ $ 
+ 
+ 21,620,451 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 17,587,636 
+ 
+ 
+ 
+ 
+ (-) Total Operating Liabilities 
+ 
+ 
+ 
+ 4,730,210 
+ 
+ 
+ 
+ 
+ 
+ 4,081,694 
+ 
+ 
+ 
+ 
+ (-) Noncontrolling Interests 
+ 
+ 
+ 
+ 26,291 
+ 
+ 
+ 
+ 
+ 
+ 25,382 
+ 
+ 
+ 
+ 
+ (-) Preferred Stock 
+ 
+ 
+ 
+ 500,000 
+ 
+ 
+ 
+ 
+ 
+ 500,000 
+ 
+ 
+ 
+ 
+ Book Value 
+ 
+ 
+ 
+ $ 
+ 
+ 16,363,950 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 12,980,560 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Book Value Per Adjusted Share 
+ 
+ 
+ 
+ $ 
+ 
+ 19.24 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 15.57 
+ 
+ 
+ 
+ 
+ Adjusted Shares 
+ 
+ 
+ 
+ 850,388,924 
+ 
+ 
+ 
+ 
+ 
+ 833,938,476 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) 
+ 
+ The following table provides net unrealized carried interest by business line: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ As of 
+ 
+ 
+ 
+ 
+ 
+ 
+ December 31, 2019 
+ 
+ 
+ 
+ December 31, 2018 
+ 
+ 
+ Private Markets Business Line 
+ 
+ 
+ 
+ $ 
+ 
+ 1,832,581 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,083,163 
+ 
+ 
+ 
+ 
+ Public Markets Business Line 
+ 
+ 
+ 
+ 149,670 
+ 
+ 
+ 
+ 
+ 
+ 139,921 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ 
+ 
+ $ 
+ 
+ 1,982,251 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,223,084 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (2) 
+ 
+ Other Assets include KKR's ownership interest in FS/KKR Advisor, LLC and minority ownership interests in hedge fund partnerships. 
+ Book Value Per Adjusted Share 
+ Book value per adjusted share increased 23.6% from December 31, 2018. This increase was due primarily to a broad-based increase in the value of KKR's investment portfolio, including investments held by KKR as well as investments held through investment funds, such as KKR's private equity funds, where KKR is entitled to earn carried interest. For the year ended December 31, 2019, the value of KKR's balance sheet portfolio, on a non-GAAP basis, increased 25.2% and KKR's overall private equity portfolio increased 27.0%. The increase in KKR's balance sheet portfolio and net unrealized carried interest was primarily due to mark-to-market gains in our portfolio companies. For a further discussion, see "—Consolidated Results of 
+ 
+ 
+ 121 
+ 
+ Table of Contents 
+ 
+ 
+ Operations—Unrealized Gains and Losses from Investment Activities." For a discussion of the changes in KKR's private equity portfolio, see "—Analysis of Non-GAAP Operating Results—Other Operating and Performance Measures—AUM." The increase in book value per adjusted share was also due to approximately $1.4 billion of after-tax distributable earnings, partially offset by the payment of dividends during the year ended December 31, 2019 . For a discussion of factors that impacted KKR's after-tax distributable earnings, see "—Analysis of Non-GAAP Operating Results." 
+ Investment in Marshall Wace 
+ On November 22, 2019, KKR acquired an additional 5.0% interest in Marshall Wace after the exercise of an option agreed to between Marshall Wace and KKR, bringing KKR's total ownership of Marshall Wace to 39.6% , after giving effect to certain equity dilution. KKR's interest in Marshall Wace is accounted for using the equity-method of accounting and is not carried at fair value. If KKR had paid the same price for the 34.6% of Marshall Wace acquired prior to November 22, 2019 as we paid for the 5.0% acquired on November 22, 2019, the implied carrying value for KKR's 39.6% interest in Marshall Wace would have been approximately $460 million higher than its current carrying value. 
+ 
+ 
+ 
+ 
+ 122 
+ 
+ Table of Contents 
+ 
+ 
+ The following table presents the holdings of our operating assets by asset class as of December 31, 2019 . To the extent investments in our operating assets are realized at values below their cost in future periods, after-tax distributable earnings would be adversely affected by the amount of such loss, if any, during the period in which the realization event occurs. For example, during 2019 we recognized net unrealized losses in our credit investment portfolio at our India debt finance company. As of December 31, 2019, KKR’s 51% interest in our India debt finance company had a cost basis of approximately $198 million, comprised of invested capital of $100 million plus reinvested earnings. If the value of our 51% investment is ultimately realized at the current carrying value of $110 million, future realized investment losses of approximately $88 million would be recognized based on valuations as of December 31, 2019, which would reduce after-tax Distributable Earnings in future periods. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ As of December 31, 2019 
+ 
+ 
+ Investments (1) 
+ 
+ 
+ 
+ Cost 
+ 
+ 
+ 
+ Fair Value 
+ 
+ 
+ 
+ Fair Value as a Percentage of 
+ Total Investments 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Private Equity Funds / SMAs 
+ 
+ 
+ 
+ $ 
+ 
+ 3,442,169 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 4,914,559 
+ 
+ 
+ 
+ 
+ 
+ 37.7 
+ 
+ % 
+ 
+ 
+ Private Equity Co-Investments and Other Equity 
+ 
+ 
+ 
+ 2,176,113 
+ 
+ 
+ 
+ 
+ 
+ 3,641,702 
+ 
+ 
+ 
+ 
+ 
+ 28.0 
+ 
+ % 
+ 
+ 
+ Private Equity Total 
+ 
+ 
+ 
+ 5,618,282 
+ 
+ 
+ 
+ 
+ 
+ 8,556,261 
+ 
+ 
+ 
+ 
+ 
+ 65.7 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Energy 
+ 
+ 
+ 
+ 778,898 
+ 
+ 
+ 
+ 
+ 
+ 714,635 
+ 
+ 
+ 
+ 
+ 
+ 5.5 
+ 
+ % 
+ 
+ 
+ Real Estate 
+ 
+ 
+ 
+ 979,818 
+ 
+ 
+ 
+ 
+ 
+ 1,076,838 
+ 
+ 
+ 
+ 
+ 
+ 8.3 
+ 
+ % 
+ 
+ 
+ Infrastructure 
+ 
+ 
+ 
+ 495,237 
+ 
+ 
+ 
+ 
+ 
+ 614,093 
+ 
+ 
+ 
+ 
+ 
+ 4.7 
+ 
+ % 
+ 
+ 
+ Real Assets Total 
+ 
+ 
+ 
+ 2,253,953 
+ 
+ 
+ 
+ 
+ 
+ 2,405,566 
+ 
+ 
+ 
+ 
+ 
+ 18.5 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Special Situations 
+ 
+ 
+ 
+ 596,344 
+ 
+ 
+ 
+ 
+ 
+ 464,519 
+ 
+ 
+ 
+ 
+ 
+ 3.6 
+ 
+ % 
+ 
+ 
+ Direct Lending 
+ 
+ 
+ 
+ 176,378 
+ 
+ 
+ 
+ 
+ 
+ 179,028 
+ 
+ 
+ 
+ 
+ 
+ 1.4 
+ 
+ % 
+ 
+ 
+ Alternative Credit Total 
+ 
+ 
+ 
+ 772,722 
+ 
+ 
+ 
+ 
+ 
+ 643,547 
+ 
+ 
+ 
+ 
+ 
+ 4.9 
+ 
+ % 
+ 
+ 
+ CLOs 
+ 
+ 
+ 
+ 769,006 
+ 
+ 
+ 
+ 
+ 
+ 646,597 
+ 
+ 
+ 
+ 
+ 
+ 5.0 
+ 
+ % 
+ 
+ 
+ Other Credit 
+ 
+ 
+ 
+ 70,424 
+ 
+ 
+ 
+ 
+ 
+ 60,135 
+ 
+ 
+ 
+ 
+ 
+ 0.5 
+ 
+ % 
+ 
+ 
+ Credit Total 
+ 
+ 
+ 
+ 1,612,152 
+ 
+ 
+ 
+ 
+ 
+ 1,350,279 
+ 
+ 
+ 
+ 
+ 
+ 10.4 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other 
+ 
+ 
+ 
+ 1,094,349 
+ 
+ 
+ 
+ 
+ 
+ 714,281 
+ 
+ 
+ 
+ 
+ 
+ 5.4 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Investments 
+ 
+ 
+ 
+ $ 
+ 
+ 10,578,736 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 13,026,387 
+ 
+ 
+ 
+ 
+ 
+ 100.0 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ December 31, 2019 
+ 
+ 
+ Significant Investments: (2) 
+ 
+ 
+ 
+ Cost 
+ 
+ 
+ 
+ Fair Value 
+ 
+ 
+ 
+ Fair Value as a Percentage of Total Investments 
+ 
+ 
+ Fiserv, Inc. (NASDAQ: FISV) 
+ 
+ 
+ 
+ $ 
+ 
+ 794,978 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,837,682 
+ 
+ 
+ 
+ 
+ 
+ 14.1 
+ 
+ % 
+ 
+ 
+ USI, Inc. 
+ 
+ 
+ 
+ 500,111 
+ 
+ 
+ 
+ 
+ 
+ 800,168 
+ 
+ 
+ 
+ 
+ 
+ 6.1 
+ 
+ % 
+ 
+ 
+ BridgeBio Pharma, Inc. (NASDAQ: BBIO) 
+ 
+ 
+ 
+ 75,835 
+ 
+ 
+ 
+ 
+ 
+ 513,989 
+ 
+ 
+ 
+ 
+ 
+ 3.9 
+ 
+ % 
+ 
+ 
+ Heartland Dental LLC 
+ 
+ 
+ 
+ 302,255 
+ 
+ 
+ 
+ 
+ 
+ 423,157 
+ 
+ 
+ 
+ 
+ 
+ 3.2 
+ 
+ % 
+ 
+ 
+ PetVet Care Centers, LLC 
+ 
+ 
+ 
+ 243,188 
+ 
+ 
+ 
+ 
+ 
+ 413,420 
+ 
+ 
+ 
+ 
+ 
+ 3.2 
+ 
+ % 
+ 
+ 
+ Total Significant Investments 
+ 
+ 
+ 
+ 1,916,367 
+ 
+ 
+ 
+ 
+ 
+ 3,988,416 
+ 
+ 
+ 
+ 
+ 
+ 30.5 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other Investments 
+ 
+ 
+ 
+ 8,662,369 
+ 
+ 
+ 
+ 
+ 
+ 9,037,971 
+ 
+ 
+ 
+ 
+ 
+ 69.5 
+ 
+ % 
+ 
+ 
+ Total Investments 
+ 
+ 
+ 
+ $ 
+ 
+ 10,578,736 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 13,026,387 
+ 
+ 
+ 
+ 
+ 
+ 100.0 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) 
+ 
+ Investments is a term used solely for purposes of financial presentation of a portion of KKR's balance sheet and includes majority ownership of subsidiaries that operate KKR's asset management and other businesses, including the general partner interests of KKR's investment funds. 
+ 
+ 
+ 
+ 
+ 
+ (2) 
+ 
+ The significant investments include the top five investments (other than investments expected to be syndicated or transferred in connection with new fundraising) based on their fair values as of December 31, 2019 . The fair value figures include the co-investment and the limited partner and/or general partner interests held by KKR in the underlying investment, if applicable. 
+ 
+ 
+ 123 
+ 
+ Table of Contents 
+ 
+ 
+ Reconciliations to GAAP Measures 
+ The following tables reconcile the most directly comparable financial measures calculated and presented in according with GAAP to KKR's non-GAAP information for the year ended December 31, 2019 and 2018 : 
+ Revenues 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended 
+ 
+ 
+ 
+ 
+ December 31, 2019 
+ 
+ 
+ 
+ December 31, 2018 
+ 
+ 
+ 
+ 
+ ($ in thousands) 
+ 
+ 
+ Total GAAP Revenues 
+ 
+ $ 
+ 
+ 4,220,900 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 2,395,836 
+ 
+ 
+ 
+ 
+ (+) Management Fees - Consolidated Funds and Other 
+ 
+ 464,190 
+ 
+ 
+ 
+ 
+ 
+ 457,314 
+ 
+ 
+ 
+ 
+ (-) Fee Credits - Consolidated Funds 
+ 
+ 42,041 
+ 
+ 
+ 
+ 
+ 
+ 48,193 
+ 
+ 
+ 
+ 
+ (-) Capital Allocation-Based Income (GAAP) 
+ 
+ 2,430,425 
+ 
+ 
+ 
+ 
+ 
+ 554,510 
+ 
+ 
+ 
+ 
+ (+) Realized Carried Interest 
+ 
+ 1,070,788 
+ 
+ 
+ 
+ 
+ 
+ 1,218,647 
+ 
+ 
+ 
+ 
+ (+) Realized Investment Income (Loss) 
+ 
+ 685,773 
+ 
+ 
+ 
+ 
+ 
+ 651,792 
+ 
+ 
+ 
+ 
+ (-) Revenue Earned by Other Consolidated Entities 
+ 
+ 116,435 
+ 
+ 
+ 
+ 
+ 
+ 111,185 
+ 
+ 
+ 
+ 
+ (-) Expense Reimbursements 
+ 
+ 169,416 
+ 
+ 
+ 
+ 
+ 
+ 146,989 
+ 
+ 
+ 
+ 
+ Total Operating Revenues 
+ 
+ $ 
+ 
+ 3,683,334 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 3,862,712 
+ 
+ 
+ Expenses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended 
+ 
+ 
+ 
+ 
+ December 31, 2019 
+ 
+ 
+ 
+ December 31, 2018 
+ 
+ 
+ 
+ 
+ ($ in thousands) 
+ 
+ 
+ Total GAAP Expenses 
+ 
+ $ 
+ 
+ 2,908,431 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 2,089,477 
+ 
+ 
+ 
+ 
+ (-) Equity-based and Other Compensation - KKR Holdings L.P. 
+ 
+ 91,921 
+ 
+ 
+ 
+ 
+ 
+ 100,182 
+ 
+ 
+ 
+ 
+ (-) Unrealized Performance Income Compensation 
+ 
+ 520,033 
+ 
+ 
+ 
+ 
+ 
+ (295,794 
+ 
+ ) 
+ 
+ 
+ (-) Amortization of Intangibles 
+ 
+ 1,674 
+ 
+ 
+ 
+ 
+ 
+ 7,700 
+ 
+ 
+ 
+ 
+ (-) Reimbursable Expenses 
+ 
+ 196,694 
+ 
+ 
+ 
+ 
+ 
+ 176,126 
+ 
+ 
+ 
+ 
+ (-) Operating Expenses relating to Other Consolidated Entities 
+ 
+ 187,056 
+ 
+ 
+ 
+ 
+ 
+ 179,818 
+ 
+ 
+ 
+ 
+ (-) Non-recurring Costs (1) 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 11,501 
+ 
+ 
+ 
+ 
+ (+) Other 
+ 
+ (62,455 
+ 
+ ) 
+ 
+ 
+ 
+ (25,870 
+ 
+ ) 
+ 
+ 
+ Total Operating Expenses 
+ 
+ $ 
+ 
+ 1,848,598 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,884,074 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) 
+ 
+ For the year ended December 30, 2018, represents non-recurring costs in connection with the Conversion. 
+ 
+ 
+ 
+ 124 
+ 
+ Table of Contents 
+ 
+ 
+ Net Income (Loss) Attributable to KKR & Co. Inc. Class A Common Stockholders 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended 
+ 
+ 
+ 
+ 
+ December 31, 2019 
+ 
+ 
+ 
+ December 31, 2018 
+ 
+ 
+ 
+ 
+ ($ in thousands) 
+ 
+ 
+ Net Income (Loss) Attributable to KKR & Co. Inc. Class A Common Stockholders 
+ 
+ $ 
+ 
+ 1,971,685 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,097,699 
+ 
+ 
+ 
+ 
+ (+) Net Income (Loss) Attributable to Noncontrolling Interests held by KKR Holdings L.P. 
+ 
+ 1,369,671 
+ 
+ 
+ 
+ 
+ 
+ 561,052 
+ 
+ 
+ 
+ 
+ (+) Equity-based and Other Compensation - KKR Holdings L.P. 
+ 
+ 91,296 
+ 
+ 
+ 
+ 
+ 
+ 100,632 
+ 
+ 
+ 
+ 
+ (+) Amortization of Intangibles and Other, net 
+ 
+ 226,422 
+ 
+ 
+ 
+ 
+ 
+ 26,116 
+ 
+ 
+ 
+ 
+ (+) Non-recurring Costs (1) 
+ 
+ 22,839 
+ 
+ 
+ 
+ 
+ 
+ 11,501 
+ 
+ 
+ 
+ 
+ (+) Realized Losses on Certain Investments (2) 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 729,425 
+ 
+ 
+ 
+ 
+ (-) Unrealized Carried Interest 
+ 
+ 1,263,046 
+ 
+ 
+ 
+ 
+ 
+ (756,467 
+ 
+ ) 
+ 
+ 
+ (-) Net Unrealized Gains (Losses) 
+ 
+ 1,854,867 
+ 
+ 
+ 
+ 
+ 
+ 1,043,912 
+ 
+ 
+ 
+ 
+ (+) Unrealized Performance Income Compensation 
+ 
+ 520,033 
+ 
+ 
+ 
+ 
+ 
+ (295,794 
+ 
+ ) 
+ 
+ 
+ (+) Income Tax Expense (Benefit) 
+ 
+ 528,750 
+ 
+ 
+ 
+ 
+ 
+ (194,098 
+ 
+ ) 
+ 
+ 
+ (-) Income Taxes Paid 
+ 
+ 207,479 
+ 
+ 
+ 
+ 
+ 
+ 151,848 
+ 
+ 
+ 
+ 
+ After-tax Distributable Earnings 
+ 
+ $ 
+ 
+ 1,405,304 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,597,240 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) 
+ 
+ For the year ended December 31, 2019 , represents a non-recurring make-whole premium associated with KKR’s refinancing of its 2020 Senior Notes. For the year ended December 31, 2018, represents non-recurring costs in connection with the Conversion. 
+ 
+ 
+ 
+ 
+ 
+ (2) 
+ 
+ Represents losses on certain investments which were realized in the second quarter in advance of the Conversion. 
+ The following tables provide reconciliations of certain of KKR's GAAP Consolidated Statements of Financial Condition measures to our non-GAAP Balance Sheet measures as of December 31, 2019 and December 31, 2018 . 
+ Assets 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ As of 
+ 
+ 
+ 
+ 
+ 
+ 
+ December 31, 2019 
+ 
+ 
+ 
+ December 31, 2018 
+ 
+ 
+ Total GAAP Assets 
+ 
+ 
+ 
+ $ 
+ 
+ 60,899,319 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 50,743,375 
+ 
+ 
+ 
+ 
+ (-) Impact of Consolidation of Funds and Other Entities 
+ 
+ 
+ 
+ 37,453,629 
+ 
+ 
+ 
+ 
+ 
+ 31,888,471 
+ 
+ 
+ 
+ 
+ (-) Carry Pool Reclassification 
+ 
+ 
+ 
+ 1,448,879 
+ 
+ 
+ 
+ 
+ 
+ 922,977 
+ 
+ 
+ 
+ 
+ (-) Other Reclassifications 
+ 
+ 
+ 
+ 376,360 
+ 
+ 
+ 
+ 
+ 
+ 344,291 
+ 
+ 
+ 
+ 
+ Total Operating Assets 
+ 
+ 
+ 
+ $ 
+ 
+ 21,620,451 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 17,587,636 
+ 
+ 
+ Liabilities 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ As of 
+ 
+ 
+ 
+ 
+ 
+ 
+ December 31, 2019 
+ 
+ 
+ 
+ December 31, 2018 
+ 
+ 
+ Total GAAP Liabilities 
+ 
+ 
+ 
+ $ 
+ 
+ 30,396,945 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 25,360,766 
+ 
+ 
+ 
+ 
+ (-) Impact of Consolidation of Funds and Other Entities 
+ 
+ 
+ 
+ 23,841,496 
+ 
+ 
+ 
+ 
+ 
+ 20,011,804 
+ 
+ 
+ 
+ 
+ (-) Carry Pool Reclassification 
+ 
+ 
+ 
+ 1,448,879 
+ 
+ 
+ 
+ 
+ 
+ 922,977 
+ 
+ 
+ 
+ 
+ (-) Other Reclassifications 
+ 
+ 
+ 
+ 376,360 
+ 
+ 
+ 
+ 
+ 
+ 344,291 
+ 
+ 
+ 
+ 
+ Total Operating Liabilities 
+ 
+ 
+ 
+ $ 
+ 
+ 4,730,210 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 4,081,694 
+ 
+ 
+ 
+ 
+ 125 
+ 
+ Table of Contents 
+ 
+ 
+ KKR & Co. Inc. Stockholders' Equity - Common Stockholders 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ As of 
+ 
+ 
+ 
+ 
+ 
+ 
+ December 31, 2019 
+ 
+ 
+ 
+ December 31, 2018 
+ 
+ 
+ KKR & Co. Inc. Stockholders' Equity - Common Stockholders 
+ 
+ 
+ 
+ $ 
+ 
+ 10,324,936 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 8,167,056 
+ 
+ 
+ 
+ 
+ (+) Impact of Consolidation of Funds and Other Entities 
+ 
+ 
+ 
+ 327,826 
+ 
+ 
+ 
+ 
+ 
+ 205,502 
+ 
+ 
+ 
+ 
+ (-) Other Reclassifications 
+ 
+ 
+ 
+ 17,446 
+ 
+ 
+ 
+ 
+ 
+ 17,446 
+ 
+ 
+ 
+ 
+ (+) Noncontrolling Interests Held by KKR Holdings L.P. 
+ 
+ 
+ 
+ 5,728,634 
+ 
+ 
+ 
+ 
+ 
+ 4,625,448 
+ 
+ 
+ 
+ 
+ Book Value 
+ 
+ 
+ 
+ $ 
+ 
+ 16,363,950 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 12,980,560 
+ 
+ 
+ 
+ The following table provides reconciliations of KKR's GAAP Shares of Class A Common Stock Outstanding to Adjusted Shares: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ As of 
+ 
+ 
+ 
+ 
+ December 31, 2019 
+ 
+ 
+ 
+ December 31, 2018 
+ 
+ 
+ GAAP Shares of Class A Common Stock Outstanding 
+ 
+ 560,007,579 
+ 
+ 
+ 
+ (1) 
+ 
+ 534,857,237 
+ 
+ 
+ 
+ 
+ Adjustments: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ KKR Holdings Units (2) 
+ 
+ 290,381,345 
+ 
+ 
+ 
+ 
+ 
+ 299,081,239 
+ 
+ 
+ 
+ 
+ Adjusted Shares (3) 
+ 
+ 850,388,924 
+ 
+ 
+ 
+ 
+ 
+ 833,938,476 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Unvested Shares of Class A Common Stock (4) 
+ 
+ 22,712,604 
+ 
+ 
+ 
+ 
+ 
+ 33,408,491 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) 
+ 
+ Includes 5.7 million shares of Class A common stock issued to affiliates of Marshall Wace LLP as partial consideration for an additional 5% interest acquired by KKR on November 22, 2019. 
+ 
+ 
+ 
+ 
+ 
+ (2) 
+ 
+ Class A common stock that may be issued by KKR & Co. Inc. upon exchange of units in KKR Holdings for Class A common stock. 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ Amounts exclude unvested equity awards granted under our Equity Incentive Plans. 
+ 
+ 
+ 
+ 
+ 
+ (4) 
+ 
+ Represents equity awards granted under our Equity Incentive Plans. The issuance of Class A common stock of KKR & Co. Inc. pursuant to awards under our Equity Incentive Plans dilutes KKR Class A common stockholders and KKR Holdings pro rata in accordance with their respective percentage interests in the KKR business. Excludes the award of 2,500,000 restricted stock units granted to each of our Co-Presidents/Co-Chief Operating Officers during 2017 that have not met their market-price based vesting condition as of December 31, 2019 or December 31, 2018. See ITEM 8. Financial Statements and Supplementary Data—Note 12 "Equity Based Compensation." 
+ 
+ Liquidity 
+ 
+ We manage our liquidity and capital requirements by focusing on our cash flows before the consolidation of our funds and CFEs and the effect of changes in short term assets and liabilities, which we anticipate will be settled for cash within one year. Our primary cash flow activities typically involve: (i) generating cash flow from operations; (ii) generating income from investment activities, by investing in investments that generate yield (namely interest and dividends), as well as the sale of investments and other assets; (iii) funding capital commitments that we have made to, and advancing capital to, our funds and CLOs; (iv) developing and funding new investment strategies, investment products, and other growth initiatives, including acquisitions of other investments, assets, and businesses; (v) underwriting and funding commitments in our capital markets business; (vi) distributing cash flow to our stockholders and holders of our Series A and Series B Preferred Stock; and (vii) paying borrowings, interest payments, and repayments under credit agreements, our senior notes, and other borrowing arrangements. See "—Liquidity—Liquidity Needs—Dividends." 
+ 
+ Sources of Liquidity 
+ 
+ Our primary sources of liquidity consist of amounts received from: (i) our operating activities, including the fees earned from our funds, portfolio companies, and capital markets transactions; (ii) realizations on carried interest from our investment funds; (iii) interest and dividends from investments that generate yield, including our investments in CLOs; (iv) realizations on and sales of investments and other assets, including the transfers of investments for fund formations; and (v) borrowings under our credit facilities, debt offerings, and other borrowing arrangements. In addition, we may generate cash proceeds from sales of our equity securities. 
+ 
+ Many of our investment funds provide carried interest. With respect to our private equity funds, carried interest is distributed to the general partner of a private equity fund with a clawback provision only after all of the following are met: (i) a realization event has occurred (e.g., sale of a portfolio company, dividend, etc.); (ii) the vehicle has achieved positive overall 
+ 
+ 
+ 126 
+ 
+ Table of Contents 
+ 
+ 
+ investment returns since its inception, in excess of performance hurdles where applicable, and is accruing carried interest; and (iii) with respect to investments with a fair value below cost, cost has been returned to fund investors in an amount sufficient to reduce remaining cost to the investments' fair value. As of December 31, 2019 , certain of our funds had met the first and second criteria, as described above, but did not meet the third criteria. In these cases, carried interest accrues on the consolidated statement of operations, but will not be distributed in cash to us as the general partner of an investment fund upon a realization event. For a fund that has a fair value above cost, overall, and is otherwise accruing carried interest, but has one or more investments where fair value is below cost, the shortfall between cost and fair value for such investments is referred to as a "netting hole." When netting holes are present, realized gains on individual investments that would otherwise allow the general partner to receive carried interest distributions are instead used to return invested capital to our funds' limited partners in an amount equal to the netting hole. Once netting holes have been filled with either (a) return of capital equal to the netting hole for those investments where fair value is below cost or (b) increases in the fair value of those investments where fair value is below cost, then realized carried interest will be distributed to the general partner upon a realization event. A fund that is in a position to pay cash carry refers to a fund for which carried interest is expected to be paid to the general partner upon the next material realization event, which includes funds with no netting holes as well as funds with a netting hole that is sufficiently small in size such that the next material realization event would be expected to result in the payment of carried interest. Strategic investor partnerships with fund investors may require netting across the various funds in which they invest, which may reduce the carried interest we otherwise would have earned if such fund investors were to have invested in our funds without the existence of the strategic investor partnership. See "Risk Factors—Risks Related to Our Business—Strategic investor partnerships have longer investment periods and invest in multiple strategies, which may increase the possibility of a 'netting hole,' which will result in less carried interest for us, as well as clawback liabilities." 
+ 
+ As of December 31, 2019 , netting holes in excess of $50 million existed at three of our private equity funds, which were Americas Fund XII, 2006 Fund, and Asian Fund, which had netting holes of approximately $272 million, $107 million, and $84 million, respectively. In accordance with the criteria set forth above, other funds currently have and may in the future develop netting holes, and netting holes for those and other funds may otherwise increase or decrease in the future. 
+ 
+ We have access to funding under various credit facilities, other borrowing arrangements and other sources of liquidity that we have entered into with major financial institutions or which we receive from the capital markets. The following describes these sources of liquidity. 
+ 
+ Revolving Credit Agreements, Senior Notes, KFN Debt Obligation, KFN Securities and Real Estate Financing 
+ 
+ For a discussion of KKR's debt obligations, including our revolving credit agreements, senior notes, KFN debt obligations, KFN securities and corporate real estate financing, see ITEM 8. Financial Statements and Supplementary Data—Note 10 "Debt Obligations." 
+ 
+ 
+ Preferred Stock 
+ 
+ For a discussion of KKR's equity, including our preferred stock, see ITEM 8. Financial Statements and Supplementary Data—Note 15 "Equity." 
+ 
+ 
+ Liquidity Needs 
+ 
+ We expect that our primary liquidity needs will consist of cash required to: 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ continue to grow our business lines, including seeding new strategies, funding our capital commitments made to existing and future funds, co-investments and any net capital requirements of our capital markets companies, pay the costs related to fundraising and launching of new strategies, and otherwise supporting investment vehicles which we sponsor; 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ warehouse investments in portfolio companies or other investments for the benefit of one or more of our funds, vehicles, accounts or CLOs pending the contribution of committed capital by the investors in such vehicles, and advancing capital to them for operational or other needs; 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ service debt obligations including the payment of obligations upon maturity or redemption, as well as any contingent liabilities that may give rise to future cash payments; 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ fund cash operating expenses and contingencies, including litigation matters; 
+ 
+ 
+ 
+ 127 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ pay corporate income taxes and other taxes; 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ pay amounts that may become due under our tax receivable agreement with KKR Holdings; 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ pay cash dividends in accordance with our dividend policy for our Class A common stock or the terms of our preferred stock; 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ underwrite commitments, advance loan proceeds and fund syndication commitments within our capital markets business; 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ acquire other assets for our Principal Activities business line, including other businesses, investments and assets, some of which may be required to satisfy regulatory requirements for our capital markets business or risk retention requirements for CLOs (to the extent it continues to apply); and 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ repurchase KKR's Class A common stock or retire equity awards pursuant to the share repurchase program or other securities issued by KKR. 
+ 
+ KKR & Co. Inc. Share Repurchase Program 
+ 
+ Under the terms of our share repurchase program, KKR is authorized to repurchase its Class A common stock from time to time in open market transactions, in privately negotiated transactions or otherwise. The timing, manner, price and amount of any Class A common stock repurchases will be determined by KKR in its discretion and will depend on a variety of factors, including legal requirements, price and economic and market conditions. In addition to the repurchases of Class A common stock, the repurchase program will be used for the retirement (by cash settlement or the payment of tax withholding amounts upon net settlement) of equity awards issued pursuant to our Equity Incentive Plans representing the right to receive Class A common stock. KKR expects that the program, which has no expiration date, will be in effect until the maximum approved dollar amount has been used. The program does not require KKR to repurchase or retire any specific number of shares of Class A common stock or equity awards, respectively, and the program may be suspended, extended, modified or discontinued at any time. As of December 31, 2019 , $366 million was available under the repurchase program. 
+ 
+ See ITEM 5. "Market for Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities." 
+ 
+ 
+ 128 
+ 
+ Table of Contents 
+ 
+ 
+ Capital Commitments 
+ The agreements governing our active investment funds generally require the general partners of the funds to make minimum capital commitments to such funds, which generally range from 2% to 8% of a fund's total capital commitments at final closing, but may be greater for certain funds (i) where we are pursuing newer strategies, (ii) where third party investor demand is limited, and (iii) where a larger commitment is consistent with the asset allocation strategy our balance sheet is pursuing. The following table presents our uncalled commitments to our active investment funds as of December 31, 2019 : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Uncalled 
+ Commitments 
+ 
+ 
+ Private Markets 
+ 
+ ($ in thousands) 
+ 
+ 
+ Core Investment Vehicles 
+ 
+ $ 
+ 
+ 1,694,500 
+ 
+ 
+ 
+ 
+ Americas Fund XII 
+ 
+ 412,500 
+ 
+ 
+ 
+ 
+ Asian Fund III 
+ 
+ 358,600 
+ 
+ 
+ 
+ 
+ Asia Real Estate Partners 
+ 
+ 250,000 
+ 
+ 
+ 
+ 
+ Global Infrastructure III 
+ 
+ 237,400 
+ 
+ 
+ 
+ 
+ Asia Infrastructure 
+ 
+ 200,000 
+ 
+ 
+ 
+ 
+ European Fund V 
+ 
+ 164,300 
+ 
+ 
+ 
+ 
+ Real Estate Partners Europe II 
+ 
+ 150,000 
+ 
+ 
+ 
+ 
+ Next Generation Technology Growth II 
+ 
+ 150,000 
+ 
+ 
+ 
+ 
+ Health Care Strategic Growth 
+ 
+ 118,100 
+ 
+ 
+ 
+ 
+ Energy Income and Growth II 
+ 
+ 116,900 
+ 
+ 
+ 
+ 
+ Global Impact Fund 
+ 
+ 100,000 
+ 
+ 
+ 
+ 
+ Real Estate Partners Americas II 
+ 
+ 92,700 
+ 
+ 
+ 
+ 
+ Real Estate Credit Opportunity Partners II 
+ 
+ 50,000 
+ 
+ 
+ 
+ 
+ Other Private Markets Vehicles 
+ 
+ 456,500 
+ 
+ 
+ 
+ 
+ Total Private Markets Commitments 
+ 
+ 4,551,500 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Public Markets 
+ 
+ 
+ 
+ 
+ Special Situations Fund III 
+ 
+ 400,000 
+ 
+ 
+ 
+ 
+ Special Situations Fund II 
+ 
+ 77,900 
+ 
+ 
+ 
+ 
+ Lending Partners Europe II 
+ 
+ 56,000 
+ 
+ 
+ 
+ 
+ Private Credit Opportunities Partners II 
+ 
+ 17,600 
+ 
+ 
+ 
+ 
+ Lending Partners III 
+ 
+ 14,500 
+ 
+ 
+ 
+ 
+ Lending Partners Europe 
+ 
+ 11,300 
+ 
+ 
+ 
+ 
+ Other Public Markets Vehicles 
+ 
+ 112,400 
+ 
+ 
+ 
+ 
+ Total Public Markets Commitments 
+ 
+ 689,700 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Uncalled Commitments 
+ 
+ $ 
+ 
+ 5,241,200 
+ 
+ 
+ Other Commitments 
+ In addition to the uncalled commitments to our investment funds as shown above, KKR has entered into contractual commitments with respect to (i) the purchase of investments and other assets primarily in our Principal Activities business line and (ii) underwriting transactions, debt financing, and syndications in our Capital Markets business line. As of December 31, 2019 , these commitments amounted to $0.8 million and $1,089.4 million , respectively. Whether these amounts are actually funded, in whole or in part, depends on the contractual terms of such commitments, including the satisfaction or waiver of any conditions to closing or funding. The unfunded commitments shown for our Capital Markets business line are shown without reflecting arrangements that may reduce the actual amount of contractual commitments shown. Our capital markets business has an arrangement with a third party, which reduces our risk when underwriting certain debt transactions, and thus our unfunded commitments as of December 31, 2019 are reduced to reflect the amount to be funded by such third party. In the case of purchases of investments or assets in our Principal Activities business line, the amount to be funded includes amounts that are intended to be syndicated to third parties, and the actual amounts to be funded may be less than shown. 
+ 
+ 
+ 129 
+ 
+ Table of Contents 
+ 
+ 
+ On January 14, 2020, KKR committed to invest up to an additional $150 million in KKR India Financial Services to support KKR’s alternative credit business in India. 
+ 
+ Tax Receivable Agreement 
+ We may be required to acquire KKR Group Partnership Units from time to time pursuant to our exchange agreement with KKR Holdings, which may result in an increase in our tax basis of the assets of the KKR Group Partnerships at the time of an exchange of KKR Group Partnership Units. We have entered into a tax receivable agreement with KKR Holdings, which requires us to pay to KKR Holdings, or to current and former principals who have exchanged KKR Holdings units for KKR Class A common stock as transferees of KKR Group Partnership Units, 85% of the amount of cash savings, if any, in U.S. federal, state and local income tax that we realize as a result of the increase in tax basis described above, as well as 85% of the amount of any such savings we realize as a result of increases in tax basis that arise due to future payments under the agreement. As of December 31, 2019 , an undiscounted payable of $131.3 million has been recorded in due to affiliates in the financial statements representing management's best estimate of the amounts currently expected to be owed under the tax receivable agreement. As of December 31, 2019 , approximately $35.8 million of cumulative cash payments have been made under the tax receivable agreement. 
+ Following the Conversion, we expect the amount of future payments under the tax receivable agreement to be materially higher than it would have been had we not converted to a corporation. In addition, our obligations under the tax receivable agreement would be effectively accelerated in the event of an early termination of the tax receivable agreement by us or in the event of certain mergers, asset sales and other forms of business combinations or other changes of control. See "Risk Factors—Risks Related to Our Organization—We will be required to pay our principals for most of the benefits relating to our use of tax attributes we receive from prior and future exchanges of our Class A common stock for KKR Group Partnership Units and related transactions , and the timing and value of these tax attributes differ from those of our restricted stock units ." 
+ 
+ Dividends 
+ A dividend of $0.125 per share of Class A common stock has been declared for the quarter ended December 31, 2019, which will be paid on February 25, 2020 to holders of record of Class A common stock as of the close of business on February 10, 2020 . 
+ A dividend of $0.421875 per share of Series A Preferred Stock has been declared and set aside for payment on March 16, 2020 to holders of record of Series A Preferred Stock as of the close of business on March 1, 2020. A dividend of $0.406250 per share of Series B Preferred Stock has been declared and set aside for payment on March 16, 2020 to holders of record of Series B Preferred Stock as of the close of business on March 1, 2020. 
+ When KKR & Co. Inc. receives distributions from the KKR Group Partnerships (the holding companies of the KKR business), KKR Holdings receives its pro rata share of such distributions from the KKR Group Partnerships. 
+ The declaration and payment of dividends to our Class A common stockholders will be at the sole discretion of our board of directors, and our dividend policy may be changed at any time. Our current dividend policy is to pay dividends to holders of our Class A common stock in an annual aggregate amount of $0.54 per share (or a quarterly dividend of $0.135 per share) beginning with any dividend to be announced with respect to the results for the first quarter of 2020, subject to the discretion of our board of directors based on a number of factors, including KKR’s future financial performance and other considerations that the board deems relevant, and compliance with the terms of KKR & Co. Inc.'s certificate of incorporation and applicable law. For U.S. federal income tax purposes, any dividends we pay (including dividends on our preferred stock) generally will be treated as qualified dividend income for U.S. individual stockholders to the extent paid out of our current or accumulated earnings and profits, as determined for U.S. federal income tax purposes. There can be no assurance that future dividends will be made as intended or at all or that any particular dividend policy for our Class A common stock will be maintained. Furthermore, the declaration and payment of distributions by the KKR Group Partnerships and our other subsidiaries may also be subject to legal, contractual and regulatory restrictions, including restrictions contained in our debt agreements and the terms of the preferred stock of the KKR Group Partnerships. 
+ 
+ Other Liquidity Needs 
+ We may also be required to fund various underwriting, syndication and fronting commitments in our capital markets business in connection with the underwriting of loans, securities or other financial instruments, which has increased in significance in recent periods and may continue to be significant in future periods. We generally expect that these commitments will be syndicated to third parties or otherwise fulfilled or terminated, although we may in some instances elect to retain a portion of the commitments for our own investment. 
+ 
+ 
+ 130 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ Contractual Obligations, Commitments and Contingencies 
+ 
+ In the ordinary course of business, we and our consolidated funds and CFEs enter into contractual arrangements that may require future cash payments. The following table sets forth information relating to anticipated future cash payments as of December 31, 2019 excluding consolidated funds and CFEs with a reconciliation of such amounts to the anticipated future cash payments of KKR including consolidated funds and CFEs. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Payments due by Period 
+ 
+ 
+ Types of Contractual Obligations 
+ 
+ 
+ 
+ <1 Year 
+ 
+ 
+ 
+ 1-3 Years 
+ 
+ 
+ 
+ 3-5 Years 
+ 
+ 
+ 
+ >5 Years 
+ 
+ 
+ 
+ Total 
+ 
+ 
+ 
+ 
+ 
+ 
+ ($ in millions) 
+ 
+ 
+ Uncalled commitments to investment funds (1) 
+ 
+ 
+ 
+ $ 
+ 
+ 5,241.2 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 5,241.2 
+ 
+ 
+ 
+ 
+ Debt payment obligations (2) 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 229.3 
+ 
+ 
+ 
+ 
+ 
+ 3,816.7 
+ 
+ 
+ 
+ 
+ 
+ 4,046.0 
+ 
+ 
+ 
+ 
+ Interest obligations on debt payment obligations (3) 
+ 
+ 
+ 
+ 206.4 
+ 
+ 
+ 
+ 
+ 
+ 322.5 
+ 
+ 
+ 
+ 
+ 
+ 320.5 
+ 
+ 
+ 
+ 
+ 
+ 2,069.3 
+ 
+ 
+ 
+ 
+ 
+ 2,918.7 
+ 
+ 
+ 
+ 
+ Underwriting commitments (4) 
+ 
+ 
+ 
+ 796.4 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 796.4 
+ 
+ 
+ 
+ 
+ Lending commitments (5) 
+ 
+ 
+ 
+ 293.0 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 293.0 
+ 
+ 
+ 
+ 
+ Purchase commitments (6) 
+ 
+ 
+ 
+ 0.8 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 0.8 
+ 
+ 
+ 
+ 
+ Lease obligations 
+ 
+ 
+ 
+ 52.8 
+ 
+ 
+ 
+ 
+ 
+ 45.7 
+ 
+ 
+ 
+ 
+ 
+ 19.0 
+ 
+ 
+ 
+ 
+ 
+ 14.8 
+ 
+ 
+ 
+ 
+ 
+ 132.3 
+ 
+ 
+ 
+ 
+ Total Contractual Obligations of KKR 
+ 
+ 
+ 
+ 6,590.6 
+ 
+ 
+ 
+ 
+ 
+ 368.2 
+ 
+ 
+ 
+ 
+ 
+ 568.8 
+ 
+ 
+ 
+ 
+ 
+ 5,900.8 
+ 
+ 
+ 
+ 
+ 
+ 13,428.4 
+ 
+ 
+ 
+ 
+ (+) Uncalled commitments of consolidated funds (7) 
+ 
+ 
+ 
+ 11,412.1 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 11,412.1 
+ 
+ 
+ 
+ 
+ (+) Debt payment obligations of consolidated funds, CFEs and Other (8) 
+ 
+ 
+ 
+ 1,053.4 
+ 
+ 
+ 
+ 
+ 
+ 3,357.6 
+ 
+ 
+ 
+ 
+ 
+ 1,676.5 
+ 
+ 
+ 
+ 
+ 
+ 16,528.2 
+ 
+ 
+ 
+ 
+ 
+ 22,615.7 
+ 
+ 
+ 
+ 
+ (+) Corporate real estate borrowings (9) 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 490.0 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 490.0 
+ 
+ 
+ 
+ 
+ (+) Interest obligations of consolidated funds, CFEs and Other (10) 
+ 
+ 
+ 
+ 831.3 
+ 
+ 
+ 
+ 
+ 
+ 1,271.7 
+ 
+ 
+ 
+ 
+ 
+ 1,028.7 
+ 
+ 
+ 
+ 
+ 
+ 2,661.4 
+ 
+ 
+ 
+ 
+ 
+ 5,793.1 
+ 
+ 
+ 
+ 
+ (+) Purchase commitments of consolidated funds (11) 
+ 
+ 
+ 
+ 616.4 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 616.4 
+ 
+ 
+ 
+ 
+ Total Consolidated Contractual Obligations 
+ 
+ 
+ 
+ $ 
+ 
+ 20,503.8 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 5,487.5 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 3,274.0 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 25,090.4 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 54,355.7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) 
+ 
+ These uncalled commitments represent amounts committed by us to fund a portion of the purchase price paid for each investment made by our investment funds which are actively investing. Because capital contributions are due on demand, the above commitments have been presented as falling due within one year. However, given the size of such commitments and the pace at which our investment funds make investments, we expect that the capital commitments presented above will be called over a period of several years. See "—Liquidity—Liquidity Needs." 
+ 
+ 
+ 
+ 
+ 
+ (2) 
+ 
+ Amounts include: (i) $727.9 million aggregate principal amount of 1.625% Senior Notes due 2029 issued by KKR Group Finance Co. V LLC (denominated in euro), $500 million aggregate principal amount of 3.750% Senior Notes due 2029 issued by KKR Group Finance Co. VI LLC, $500 million aggregate principal amount of 5.500% Senior Notes due 2043 issued by KKR Group Finance Co. II LLC and $1,000 million aggregate principal amount of 5.125% Senior Notes due 2044 issued by KKR Group Finance Co. III LLC, gross of unamortized discount; (ii) $369.7 million aggregate principal amount of 0.509% Senior Notes due 2023, 0.764% Senior Notes due 2025 and 1.595% Senior Notes due 2038 issued by KKR Group Finance Co. IV LLC (denominated in Japanese Yen); (iii) $500 million aggregate principal amount of 5.500% Senior Notes due 2032 issued by KFN, gross of unamortized discount; (iv) $120 million aggregate principal amount of 5.200% Senior Notes due 2033 issued by KFN; (v) $70.0 million aggregate principal amount of 5.400% Senior Notes due 2033 issued by KFN; and (vi) $258.5 million aggregate principal amount of junior subordinated notes issued by KFN, gross of unamortized discount. KFN's debt obligations are non-recourse to KKR beyond the assets of KFN. 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ These interest obligations on debt represent estimated interest to be paid over the term of the related debt obligation, which has been calculated assuming the debt outstanding at December 31, 2019 is not repaid until its maturity. Future interest rates are assumed to be those in effect as of December 31, 2019 , including both variable and fixed rates, as applicable, provided for by the relevant debt agreements. The amounts presented above include accrued interest on outstanding indebtedness. 
+ 
+ 
+ 
+ 
+ 
+ (4) 
+ 
+ Represents various commitments in our capital markets business in connection with the underwriting of loans, securities and other financial instruments. These commitments are shown net of amounts syndicated. 
+ 
+ 
+ 
+ 
+ 
+ (5) 
+ 
+ Represents obligations in our capital markets business to lend under various revolving credit facilities. 
+ 
+ 
+ 
+ 
+ 
+ (6) 
+ 
+ Represents commitments of KKR and KFN to fund the purchase of various investments. 
+ 
+ 
+ 
+ 
+ 
+ (7) 
+ 
+ Represents uncalled commitments of our consolidated funds excluding KKR's portion of uncalled commitments as the general partner of the respective funds. Because capital contributions are due on demand, the above commitments have been presented as falling due within one year. However, given the size of such commitments and the pace at which our investment funds make investments, we expect that the capital commitments presented above will be called over a period of several years. See "—Liquidity—Liquidity Needs." 
+ 
+ 
+ 
+ 
+ 
+ (8) 
+ 
+ Amounts include (i) financing arrangements entered into by our consolidated funds with the objective of providing liquidity to the funds of $6.9 billion , (ii) debt securities issued by our consolidated CLOs of $14.7 billion and (iii) borrowings collateralized by specific investments and other assets held directly by majority-owned investment vehicles of $1.0 billion . Debt securities issued by consolidated CLO entities are supported solely by the investments held at the CLO vehicles and are not collateralized by assets of any other KKR entity. Obligations under financing arrangements entered into by our consolidated funds are generally limited to our pro rata equity interest in such funds. Our management companies bear no obligations to repay any financing arrangements at our consolidated funds. 
+ 
+ 
+ 
+ 
+ 
+ (9) 
+ 
+ Represents a debt obligation in connection with the ownership of KKR office space. 
+ 
+ 
+ 131 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (10) 
+ 
+ The interest obligations on debt of our CFEs and other borrowings represent estimated interest to be paid over the term of the related debt obligation, which has been calculated assuming the debt outstanding at December 31, 2019 is not repaid until its maturity. Future interest rates are assumed to be those in effect as of December 31, 2019 , including both variable and fixed rates, as applicable, provided for by the relevant debt agreements. The amounts presented above include accrued interest on outstanding indebtedness. 
+ 
+ 
+ 
+ 
+ 
+ (11) 
+ 
+ Represents commitments of consolidated funds to fund the purchase of various investments. 
+ 
+ The commitment table above excludes contractual amounts owed under the tax receivable agreement because the ultimate amount and timing of the amounts due are not presently known. See "—Liquidity Needs—Tax Receivable Agreement" in this report and "Risk Factors—We will be required to pay our principals for most of the benefits relating to our use of tax attributes we receive from prior and future exchanges of our Class A common stock for KKR Group Partnership Units and related transactions , and the timing and value of these tax attributes differ from those of our restricted stock units ." 
+ 
+ The commitment table above excludes KKR's commitment to invest up to an additional $150 million in KKR India Financial Services to support KKR’s alternative credit business in India. 
+ 
+ We may incur contingent liabilities for claims that may be made against us in the future. We enter into contracts that contain a variety of representations, warranties and covenants, including indemnifications. For example, certain of our investment funds and KFN have provided certain indemnities relating to environmental and other matters and have provided nonrecourse carve-out guarantees for fraud, willful misconduct and other customary wrongful acts, each in connection with the financing of certain real estate investments that we have made. KKR has also provided certain guarantees for fraud, willful misconduct, bankruptcy and other customary wrongful acts in connection with the financing of KKR's corporate real estate and certain investment vehicles. KKR has also (i) provided credit support regarding repayment obligations to third-party lenders to certain of its employees, excluding its executive officers, in connection with their personal investments in KKR investment funds and (ii) provided credit support to one of our hedge fund partnerships. We have also indemnified employees and non-employees against potential liabilities, in connection with their service as described under "ITEM 13. Certain Relationships and Related Transactions, and Director Independence-Indemnification of Directors, Officers and Others" in our Annual Report. In addition, we have also provided credit support to certain of our subsidiaries' obligations in connection with certain investment vehicles or partnerships that we manage. For example, KKR has guaranteed the obligations of a general partner to post collateral on behalf of its investment vehicle in connection with such vehicle's derivative transactions, and we have also agreed to be liable for certain investment losses and/or for providing liquidity in the events specified in the governing documents of certain investment vehicles. Our maximum exposure under these arrangements is currently unknown as our liabilities for these matters would require a claim to be made against us in the future. 
+ 
+ The partnership documents governing our carry-paying funds generally include a "clawback" provision that, if triggered, may give rise to a contingent obligation requiring the general partner to return amounts to the fund for distribution to the fund investors at the end of the life of the fund. See ITEM 8. Financial Statements and Supplementary Data—Note 16 "Commitments and Contingencies—Contingent Repayment Guarantees" for further information on KKR's potential clawback obligations. 
+ 
+ Off Balance Sheet Arrangements 
+ 
+ Other than contractual commitments and other legal contingencies incurred in the normal course of our business, we do not have any off-balance sheet financings or liabilities. 
+ 
+ 
+ 
+ 132 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ Critical Accounting Policies 
+ The preparation of our financial statements in accordance with GAAP requires our management to make estimates and judgments that affect the reported amounts of assets and liabilities, disclosure of contingent assets and liabilities, and reported amounts of fees, expenses and investment income. Our management bases these estimates and judgments on available information, historical experience and other assumptions that we believe are reasonable under the circumstances. However, these estimates, judgments and assumptions are often subjective and may be impacted negatively based on changing circumstances or changes in our analyses. If actual amounts are ultimately different from those estimated, judged or assumed, revisions are included in the financial statements in the period in which the actual amounts become known. We believe our critical accounting policies could potentially produce materially different results if we were to change underlying estimates, judgments or assumptions. 
+ The following discusses certain aspects of our critical accounting policies. For a full discussion of these and all critical accounting policies, see ITEM 8. Financial Statements and Supplementary Data—Note 2 "Summary of Significant Accounting Policies." 
+ 
+ Fair Value Measurements 
+ Fair value is the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date under current market conditions. Except for certain of KKR's equity method investments and debt obligations, KKR's investments and other financial instruments are recorded at fair value or at amounts whose carrying values approximate fair value. 
+ GAAP establishes a hierarchical disclosure framework which prioritizes and ranks the level of market price observability used in measuring financial instruments at fair value. Investments and financial instruments measured and reported at fair value are classified and disclosed based on the observability of inputs used in the determination of fair values, as follows: 
+ Level I 
+ Pricing inputs are unadjusted, quoted prices in active markets for identical assets or liabilities as of the measurement date. The types of financial instruments included in this category are publicly-listed equities and securities sold short. 
+ We classified 4.4% of total investments measured and reported at fair value as Level I at December 31, 2019 . 
+ Level II 
+ Pricing inputs are other than quoted prices in active markets, which are either directly or indirectly observable as of the measurement date, and fair value is determined through the use of models or other valuation methodologies. The types of financial instruments included in this category are credit investments, investments and debt obligations of consolidated CLO entities, convertible debt securities indexed to publicly-listed securities, less liquid and restricted equity securities and certain over-the-counter derivatives such as foreign currency option and forward contracts. 
+ We classified 38.9% of total investments measured and reported at fair value as Level II at December 31, 2019 . 
+ Level III 
+ Pricing inputs are unobservable for the financial instruments and include situations where there is little, if any, market activity for the financial instrument. The inputs into the determination of fair value require significant management judgment or estimation. The types of financial instruments generally included in this category are private portfolio companies, real assets investments, credit investments, equity method investments for which the fair value option was elected and investments and debt obligations of consolidated CMBS entities. 
+ We classified 56.7% of total investments measured and reported at fair value as Level III at December 31, 2019 . The valuation of our Level III investments at December 31, 2019 represents management's best estimate of the amounts that we would anticipate realizing on the sale of these investments in an orderly transaction at such date. 
+ In certain cases, the inputs used to measure fair value may fall into different levels of the fair value hierarchy. In such cases, the level in the fair value hierarchy within which the fair value measurement in its entirety falls has been determined based on the lowest level input that is significant to the fair value measurement in its entirety. 
+ 
+ 
+ 133 
+ 
+ Table of Contents 
+ 
+ 
+ Level III Valuation Methodologies 
+ With respect to our private equity portfolio, which includes growth equity investments, we generally employ two valuation methodologies when determining the fair value of an investment. The first methodology is typically a market comparables analysis that considers key financial inputs and recent public and private transactions and other available measures. The second methodology utilized is typically a discounted cash flow analysis, which incorporates significant assumptions and judgments. Estimates of key inputs used in this methodology include the weighted average cost of capital for the investment and assumed inputs used to calculate terminal values, such as exit EBITDA multiples. In certain cases the results of the discounted cash flow approach can be significantly impacted by these estimates. Other inputs are also used in both methodologies. Also, as discussed in greater detail under "—Business Environment" and "Risk Factors—Risks Related to the Assets We Manage—Our investments are impacted by various economic conditions that are difficult to quantify or predict, but may have a significant adverse impact on the value of our investments" in this report, a change in interest rates could have a significant impact on valuations. In addition, when a definitive agreement has been executed to sell an investment, KKR generally considers a significant determinant of fair value to be the consideration to be received by KKR pursuant to the executed definitive agreement. 
+ Upon completion of the valuations conducted using these methodologies, a weighting is ascribed to each method, and an illiquidity discount is typically applied where appropriate. The ultimate fair value recorded for a particular investment will generally be within a range suggested by the two methodologies, except that the value may be higher or lower than such range in the case of investments being sold pursuant to an executed definitive agreement. 
+ Across the total Level III private equity investment portfolio (including core investments), and including investments in both consolidated and unconsolidated investment funds, approximately 58% of the fair value is derived from investments that are valued based exactly 50% on market comparables and 50% on a discounted cash flow analysis. Less than 2% of the fair value of this Level III private equity investment portfolio is derived from investments that are valued either based 100% on market comparables or 100% on a discounted cash flow analysis. As of December 31, 2019 , the overall weights ascribed to the market comparables methodology, the discounted cash flow methodology, and a methodology based on pending sales for this portfolio of Level III private equity investments were 39%, 46%, and 15%, respectively. 
+ In the case of growth equity investments, enterprise values may be determined using the market comparables analysis and discounted cash flow analysis described above. A scenario analysis may also be conducted to subject the estimated enterprise values to a downside, base and upside case, which involves significant assumptions and judgments. A milestone analysis may also be conducted to assess the current level of progress towards value drivers that we have determined to be important, which involves significant assumptions and judgments. The enterprise value in each case may then be allocated across the investment's capital structure to reflect the terms of the security and subjected to probability weightings. In certain cases, the values of growth equity investments may be based on recent or expected financings. 
+ Real asset investments in infrastructure, energy and real estate are valued using one or more of the discounted cash flow analysis, market comparables analysis and direct income capitalization, which in each case incorporates significant assumptions and judgments. Infrastructure investments are generally valued using the discounted cash flow analysis. Key inputs used in this methodology can include the weighted average cost of capital and assumed inputs used to calculate terminal values, such as exit EBITDA multiples. Energy investments are generally valued using a discounted cash flow analysis. Key inputs used in this methodology that require estimates include the weighted average cost of capital. In addition, the valuations of energy investments generally incorporate both commodity prices as quoted on indices and long-term commodity price forecasts, which may be substantially different from, and are currently higher than, commodity prices on certain indices for equivalent future dates. Certain energy investments do not include an illiquidity discount. Long-term commodity price forecasts are utilized to capture the value of the investments across a range of commodity prices within the energy investment portfolio associated with future development and to reflect a range of price expectations. Real estate investments are generally valued using a combination of direct income capitalization and discounted cash flow analysis. Key inputs used in such methodologies that require estimates include an unlevered discount rate and current capitalization rate, and certain real estate investments do not include a minimum illiquidity discount. The valuations of real assets investments also use other inputs. 
+ For GAAP purposes, where KKR holds energy investments consisting of working interests in oil and gas properties directly and not through an investment fund, such working interests are consolidated based on the proportion of the working interests held by us. Accordingly, we reflect the assets, liabilities, revenues, expenses, investment income and cash flows of the consolidated working interests on a gross basis and changes in the value of these energy investments are not reflected as unrealized gains and losses in the consolidated statements of operations. Accordingly, a change in fair value for these investments does not result in a decrease in net gains (losses) from investment activities, but may result in an impairment 
+ 
+ 
+ 134 
+ 
+ Table of Contents 
+ 
+ 
+ charge reflected in general, administrative and other expenses. For non-GAAP purposes, these directly held working interests are treated as investments and changes in value are reflected in our operating results as unrealized gains and losses. 
+ On a non-GAAP basis, our energy real asset investments in oil and gas properties as of December 31, 2019 had a fair value of approximately $715 million . Based on this fair value, we estimate that an immediate, hypothetical 10% decline in the fair value of these energy investments from one or more adverse movements to the investments' valuation inputs would result in a decline in book value of $71.5 million. As of December 31, 2019 , if we were to value our energy investments using only the commodity prices as quoted on indices and did not use long-term commodity price forecasts, and also held all other inputs to their valuation constant, we estimate that book value would have been approximately $77 million lower. 
+ These hypothetical declines relate only to book value. There would be no current impact on KKR's unrealized carried interest since all of the investment funds which hold these types of energy investments have investment values that are either below their cost or not currently accruing carried interest. Additionally, there would be no impact on fees since fees earned from investment funds which hold investments in oil and gas properties are based on either committed capital or capital invested. 
+ Credit investments are valued using values obtained from dealers or market makers, and where these values are not available, credit investments are generally valued by us based on ranges of valuations determined by an independent valuation firm. Valuation models are based on discounted cash flow analyses, for which the key inputs are determined based on market comparables, which incorporate similar instruments from similar issuers. 
+ Key unobservable inputs that have a significant impact on our Level III investment valuations as described above are included in ITEM 8. Financial Statements and Supplementary Data—Note 5 "Fair Value Measurements." 
+ Level III Valuation Process 
+ The valuation process involved for Level III measurements is completed on a quarterly basis and is designed to subject the valuation of Level III investments to an appropriate level of consistency, oversight, and review. 
+ For Private Markets investments classified as Level III, investment professionals prepare preliminary valuations based on their evaluation of financial and operating data, company specific developments, market valuations of comparable companies and other factors. KKR begins its procedures to determine the fair values of its Level III assets one month prior to the end of a reporting period, and KKR follows additional procedures to ensure that its determinations of fair value for its Level III assets are appropriate as of the relevant reporting date. These preliminary valuations are reviewed by an independent valuation firm engaged by KKR to perform certain procedures in order to assess the reasonableness of KKR's valuations annually for all Level III investments in Private Markets and quarterly for investments other than certain investments, which have values less than preset value thresholds and which in the aggregate comprise less than 1% of the total value of KKR's Level III Private Markets investments. The valuations of certain real asset investments are determined solely by an independent valuation firm without the preparation of preliminary valuations by our investment professionals, and instead such independent valuation firm relies on valuation information available to it as a broker or valuation firm. For credit investments and debt obligations of consolidated CMBS vehicles, an independent valuation firm is generally engaged quarterly by KKR with respect to most investments classified as Level III. The valuation firm either provides a value or provides a valuation range from which KKR's investment professionals select a point in the range to determine the preliminary valuation or performs certain procedures in order to assess the reasonableness and provide positive assurance of KKR's valuations. After reflecting any input from the independent valuation firm, the valuation proposals are submitted for review and approval by KKR's valuation committees. As of December 31, 2019 , less than 5% of the total value of our Level III credit investments were not valued with the engagement of an independent valuation firm. 
+ KKR has a global valuation committee that is responsible for coordinating and implementing the firm's valuation process to ensure consistency in the application of valuation principles across portfolio investments and between periods. The global valuation committee is assisted by the asset class-specific valuation committees that exist for private equity (including core investments), growth equity, real estate, energy and infrastructure and credit. The asset class-specific valuation committees are responsible for the review and approval of all preliminary Level III valuations in their respective asset classes on a quarterly basis. The members of these valuation committees are comprised of investment professionals, including the heads of each respective strategy, and professionals from business operations functions such as legal, compliance and finance, who are not primarily responsible for the management of the investments. 
+ All Level III valuations are also subject to approval by the global valuation committee, which is comprised of senior employees including investment professionals and professionals from business operations functions, and includes one of KKR's 
+ 
+ 
+ 135 
+ 
+ Table of Contents 
+ 
+ 
+ Co-Presidents and Co-Chief Operating Officers and its Chief Financial Officer, General Counsel and Chief Compliance Officer. When valuations are approved by the global valuation committee after reflecting any input from it, the valuations of Level III investments, as well as the valuations of Level I and Level II investments, are presented to the audit committee of the board of directors of KKR & Co. Inc. and are then reported to the board of directors. 
+ As of December 31, 2019 , upon completion by, where applicable, an independent valuation firm of certain limited procedures requested to be performed by them on certain investments, the independent valuation firm concluded that the fair values, as determined by KKR, of those investments reviewed by them were reasonable. The limited procedures did not involve an audit, review, compilation or any other form of examination or attestation under generally accepted auditing standards and were not conducted on all Level III investments. We are responsible for determining the fair value of investments in good faith, and the limited procedures performed by an independent valuation firm are supplementary to the inquiries and procedures that we are required to undertake to determine the fair value of the commensurate investments. 
+ As described above, Level II and Level III investments were valued using internal models with significant unobservable inputs and our determinations of the fair values of these investments may differ materially from the values that would have resulted if readily observable inputs had existed. Additional external factors may cause those values, and the values of investments for which readily observable inputs exist, to increase or decrease over time, which may create volatility in our earnings and the amounts of assets and stockholders' equity that we report from time to time. 
+ Changes in the fair value of investments impacts the amount of carried interest that is recognized as well as the amount of investment income that is recognized for investments held directly and through our consolidated funds as described below. We estimate that an immediate 10% decrease in the fair value of investments held directly and through consolidated investment funds generally would result in a commensurate change in the amount of net gains (losses) from investment activities for investments held directly and through investment funds and a more significant impact to the amount of carried interest recognized, regardless of whether the investment was valued using observable market prices or management estimates with significant unobservable pricing inputs. With respect to consolidated investment funds, the impact that the consequential decrease in investment income would have on net income attributable to KKR would generally be significantly less than the amount described above, given that a majority of the change in fair value of our consolidated funds would be attributable to noncontrolling interests and therefore we are only impacted to the extent of our carried interest and our balance sheet investments. 
+ As of December 31, 2019 , there were no investments which represented greater than 5% of total investments on a GAAP basis. On a non-GAAP basis, as of December 31, 2019 , investments which represented greater than 5% of total non-GAAP investments consisted of Fiserv, Inc. and USI, Inc. valued at $1,837.7 million and $800.2 million , respectively. Our investment income on a GAAP basis and our book value can be impacted by volatility in the public markets related to our holdings of publicly traded securities, including our sizable holdings of Fiserv, Inc. See "—Business Environment" for a discussion on the impact of global equity markets on our financial condition and "—Non-GAAP Balance Sheet Measures" for additional information regarding our largest holdings on a non-GAAP basis. 
+ Recognition of Investment Income 
+ Investment income consists primarily of the net impact of: (i) realized and unrealized gains and losses on investments; (ii) dividends; (iii) interest income; (iv) interest expense and (v) foreign exchange gains and losses relating to mark-to-market activity on foreign exchange forward contracts, foreign currency options, foreign denominated debt and debt securities issued by consolidated CFEs. 
+ Certain of our investment funds are consolidated. When a fund is consolidated, the portion of our funds' investment income that is allocable to our carried interests and capital investments is not shown in the consolidated statements of operations. For funds that are consolidated, all investment income (loss), including the portion of a funds' investment income (loss) that is allocable to KKR's carried interest, is included in investment income (loss) on the consolidated statements of operations. The carried interest that KKR retains in net income (loss) attributable to KKR & Co. Inc. is reflected as an adjustment to net income (loss) attributable to noncontrolling interests. However, because certain of our funds remain consolidated and because we hold a minority economic interest in these funds' investments, our share of the investment income is less than the total amount of investment income presented in the consolidated statements of operations for these consolidated funds. 
+ Recognition of Carried Interest in the Statement of Operations 
+ Carried interest entitles the general partner of a fund to a greater allocable share of the fund's earnings from investments relative to the capital contributed by the general partner and correspondingly reduces noncontrolling interests' attributable share 
+ 
+ 
+ 136 
+ 
+ Table of Contents 
+ 
+ 
+ of those earnings. Carried interest is earned by the general partner of those funds to the extent that cumulative investment returns are positive and where applicable, preferred return thresholds have been met. If these investment returns decrease or turn negative in subsequent periods, recognized carried interest will be reversed and reflected as losses in the statement of operations. For funds that are not consolidated, amounts earned pursuant to carried interest are included in capital allocation-based income in the consolidated statements of operations. Amounts earned pursuant to carried interest at consolidated funds are eliminated from fees and other upon consolidation of the fund and are included as investment income (loss) in net gains (losses) from investment activities along with all of the other investment gains and losses at the consolidated fund. 
+ Carried interest is recognized in the statement of operations based on the contractual conditions set forth in the agreements governing the fund as if the fund were terminated and liquidated at the reporting date and the fund's investments were realized at the then estimated fair values. Due to the extended durations of our private equity funds, we believe that this approach results in income recognition that best reflects our periodic performance in the management of those funds. Amounts earned pursuant to carried interest are earned by the general partner of those funds to the extent that cumulative investment returns are positive and where applicable, preferred return thresholds have been met. If these investment amounts earned decrease or turn negative in subsequent periods, recognized carried interest will be reversed and to the extent that the aggregate amount of carry distributions received by the general partner during the term of the fund exceed the amount to which the general partner was ultimately entitled, a clawback obligation would be recorded. For funds that are not consolidated, this clawback obligation, if any, is reflected as a reduction of our investment balance as this is where carried interest is initially recorded. For funds that are consolidated, this clawback obligation, if any, is reflected as an increase in noncontrolling interests in the consolidated statements of financial condition. 
+ Prior to 2012, most of our historical private equity funds that provide for carried interest do not have a preferred return. For these funds, the management company is required to refund up to 20% of any management fees earned from its limited partners in the event that the fund recognizes carried interest. At such time as the fund recognizes carried interest in an amount sufficient to cover 20% of the management fees earned or a portion thereof, a liability due to the fund's limited partners is recorded and revenue is reduced for the amount of the carried interest recognized, not to exceed 20% of the management fees earned. The refunds to the limited partners are paid, and liabilities relieved, at such time that the underlying investment is sold and the associated carried interest is realized. In the event that a fund's carried interest is not sufficient to cover all or a portion of the amount that represents 20% of the earned management fees, such management fees would be retained and not returned to the funds' limited partners. 
+ Most of our investment funds that provide for carried interest and were launched after 2012, however, have a preferred return. In this case, the management company does not refund the management fees earned from the limited partners of the fund as described above. Instead, the management fee is effectively returned to the limited partners through a reduction of the realized gain on which carried interest is calculated. To calculate the carried interest, KKR calculates whether a preferred return has been achieved based on an amount that includes all of the management fees paid by the limited partners as well as the other capital contributions and expenses paid by them to date. To the extent the fund has exceeded the preferred return at the time of a realization event, and subject to any other conditions for the payment of carried interest like netting holes, carried interest is distributed to the general partner. Until the preferred return is achieved, no carried interest is recorded. Thereafter, the general partner is entitled to a catch up allocation such that the general partner's carried interest is paid in respect of all of the fund's net gains, including the net gains used to pay the preferred return, until the general partner has received the full percentage amount of carried interest that the general partner is entitled to under the terms of the fund. In general, investment funds that entitle the management company to receive an incentive fee have a preferred return and are calculated on a similar basis that takes into account management fees paid. 
+ 
+ Recently Issued Accounting Pronouncements 
+ For a full discussion of recently issued accounting pronouncements, see ITEM 8. Financial Statements and Supplementary Data—Note 2 "Summary of Significant Accounting Policies." 
+ 
+ 
+ 137 
+ 
+ 
+ Table of Contents 
+ 
+ 

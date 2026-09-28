@@ -1,0 +1,18 @@
+{
+  "input_companies": 100,
+  "manifest_filings": 1000,
+  "tone_filings": 1000,
+  "extraction_audit_filings": 1000,
+  "events_by_alignment": {
+    "same": 1000,
+    "next": 1000,
+    "acceptance": 1000
+  },
+  "accessions_unique": true,
+  "company_years_exact": true,
+  "no_exclusions": true,
+  "raw_sec_files_verified": 1000,
+  "raw_primary_gib_verified": 4.491,
+  "incorporated_exhibits_verified": 12,
+  "input_sha256": "b9c5328e4e0b56e9d6e7bfd77d6c5723023449dbdbe73637c26b4bf9a9c1dcf7"
+}

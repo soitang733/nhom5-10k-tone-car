@@ -1,0 +1,4779 @@
+ ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations 
+ 
+ (amounts in millions, except share and per share data, unless otherwise noted) 
+ 
+ The following discussion and analysis of the financial condition and results of operations for the years ended December 31, 2022, 2021 and 2020 has been derived from and should be read in conjunction with the Consolidated Financial Statements and the accompanying Notes to Consolidated Financial Statements included in Part II, ITEM 8, herein for Amphenol Corporation (together with its subsidiaries, “Amphenol,” the “Company,” “we,” “our,” or “us”). The Consolidated Financial Statements have been prepared in U.S. dollars, in accordance with accounting principles generally accepted in the United States of America (“U.S. GAAP” or “GAAP”). Any references to the Company’s results in this ITEM 7 are specifically to our continuing operations only and exclude discontinued operations, unless otherwise noted. The following discussion and analysis also includes references to certain non-GAAP financial measures, which are defined in the “Non-GAAP Financial Measures” section below, including “Constant Currency Net Sales Growth” and “Organic Net Sales Growth”. For purposes of the following discussion, the terms “constant currencies” and “organically” have the same meaning, respectively, as these aforementioned non-GAAP financial measures. Refer to “Non-GAAP Financial Measures” within this ITEM 7 for more information, including our reasons for including non-GAAP financial measures and material limitations with respect to the usefulness of the measures. 
+ 
+ In addition to historical information, the following discussion and analysis also contains certain forward-looking statements that are subject to risks and uncertainties, including but not limited to the risk factors described in Part I, ITEM 1A. Risk Factors herein, as well as the risks and uncertainties that exist with the use of forward-looking statements as described in the “Cautionary Note Regarding Forward-Looking Statements” section included herein at the beginning of this Annual Report on Form 10-K (“Annual Report”). 
+ 
+ Overview 
+ 
+ General 
+ 
+ Amphenol is one of the world’s largest designers, manufacturers and marketers of electrical, electronic and fiber optic connectors and interconnect systems, antennas, sensors and sensor-based products and coaxial and high-speed specialty cable. In 2022, approximately 67% of the Company’s sales were outside the United States. The primary end markets for our products are: 
+ 
+ 
+ 
+ ● 
+ information technology and communication devices and systems for the converging technologies of voice, video and data communications; 
+ 
+ 
+ 
+ ● 
+ a broad range of industrial applications and traditional, hybrid and electric automotive applications; and 
+ 
+ 
+ 
+ ● 
+ military and commercial aerospace applications. 
+ 
+ The Company’s products are used in a wide variety of applications by a broad array of customers around the world. The Company competes primarily on the basis of technology innovation, product quality and performance, price, customer service and delivery time. For many years, customers have generally been consolidating their lists of qualified suppliers to companies that have the ability to meet certain technical, quality, delivery and other standards while maintaining geographic flexibility and competitive prices. The Company has focused its global resources to position itself to compete effectively in this environment. The Company believes that its global presence is an important competitive advantage, as it allows the Company to provide quality products on a timely and worldwide basis to its multinational customers, while at the same time offering a level of resiliency and diversification against local risks and challenges that may emerge in any single geography. 
+ 
+ 
+ 
+ 
+ 26 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ Reportable Business Segments 
+ 
+ Effective January 1, 2022, the Company aligned its businesses into the following three newly formed reportable business segments: 
+ 
+ • Harsh Environment Solutions – the Harsh Environment Solutions segment designs, manufactures and markets a broad range of ruggedized interconnect products, including connectors and interconnect systems, printed circuits and printed circuit assemblies and other products for use in the industrial, military, commercial aerospace, automotive, mobile networks and information technology and data communications end markets. 
+ 
+ • Communications Solutions – the Communications Solutions segment designs, manufactures and markets a broad range of connector and interconnect systems, including high speed, radio frequency, power, fiber optic and other products, together with antennas, for use in the information technology and data communications, mobile devices, industrial, mobile networks, broadband communications, automotive, commercial aerospace and military end markets. 
+ 
+ • Interconnect and Sensor Systems – the Interconnect and Sensor Systems segment designs, manufactures and markets a broad range of sensors, sensor-based systems, connectors and value-add interconnect systems used in the automotive, industrial, information technology and data communications, mobile networks, military and commercial aerospace end markets. 
+ 
+ This new alignment replaced our historic reportable business segments. All businesses previously reported in the Interconnect Products and Assemblies segment have been aligned with one o f the three newly formed segments. All businesses previously reported in the Cable Products and Solutions segment have been aligned with our newly formed Communications Solutions segment. This new alignment reinforces the Company’s entrepreneurial culture and the clear accountability of each of our business unit general managers, while enhancing the scalability of Amphenol’s business for the future. The Company began reporting under its new reportable segments in connection with its Quarterly Report on Form 10-Q for the quarterly period ended March 31, 2022 and for each quarterly period thereafter. T hroughout this Annual Report, the Company is reporting under the new reportable segments structure, which includes the recasting of relevant segment information for the years ended December 31, 2021 and 2020, in order to enable year-over-year segment comparisons . F or further details related to the Company’s change in its reportable business segments effective January 1, 2022, refer to Note 13 of the Notes to Consolidated Financial Statements herein. 
+ 
+ Strategy 
+ 
+ The Company’s strategy is to provide our customers with comprehensive design capabilities, a broad selection of products and a high level of quality and service on a worldwide basis, while maintaining continuing programs of productivity improvement and cost control. The Company focuses its research and development efforts through close collaboration with its customers to develop highly engineered products that meet customer needs and have the potential for broad market applications and significant sales within a one- to three-year period. The Company is also focused on controlling costs. The Company does this by investing in modern manufacturing technologies, controlling purchasing processes and expanding into lower cost areas. 
+ 
+ The Company’s strategic objective is to further enhance its position in its served markets by pursuing the following success factors: 
+ 
+ • Pursue broad market diversification; 
+ • Develop high-technology performance-enhancing solutions; 
+ • Expand global presence; 
+ • Control costs; 
+ • Pursue strategic acquisitions and investments; and 
+ • Foster collaborative, entrepreneurial management. 
+ 
+ In 2022 , the Company reported net sales, operating income and net income from continuing operations attributable to Amphenol Corporation of $12,623.0, $2,585.8 and $1,902.3, respectively, representing an increase of 16%, 23% and 21%, respectively, from 2021. In 2022, the Company’s net income from continuing operations attributable to Amphenol Corporation was impacted by (a) excess tax benefits of $56.0 related to stock-based compensation resulting from stock option exercises, partially offset by (b) acquisition-related expenses of $21.5 ($18.4 after-tax) comprised primarily of the amortization related to the value associated with acquired backlog resulting from two acquisitions that closed in 2022, 
+ 
+ 
+ 27 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ along with external transaction costs . In 2021, the Company’s net income from continuing operations attributable to Amphenol Corporation was impacted by (a) excess tax benefits of $63.4 related to stock-based compensation resulting from stock option exercises and (b) a discrete tax benefit of $14.9 related to the settlement of uncertain tax positions in certain non-U.S. jurisdictions, partially offset by (c) acquisition-related expenses of $70.4 ($57.3 after-tax) comprised primarily of transaction, severance, restructuring and certain non-cash purchase accounting costs related to the acquisition of MTS Systems Corporation (“MTS”) in the second quarter of 2021 and external transaction costs and certain non-cash purchase accounting costs related to the acquisition of Halo Technology Limited (“Halo”) in the fourth quarter of 2021. Excluding the effects of these items, Adjusted Operating Income and Adjusted Net Income from continuing operations attributable to Amphenol Corporation, each as defined in the “Non-GAAP Financial Measures” section below and reconciled within this Part II, ITEM 7, increased by 20% and 20%, respectively, in 2022 compared to 2021. Sales and profitability trends are discussed in detail in “Results of Operations” below. In addition, a strength of the Company has been its ability to consistently generate net cash provided by operating activities from continuing operations (“Operating Cash Flow”). The Company uses Operating Cash Flow to fund capital expenditures and acquisitions, repurchase shares of the Company’s Class A Common Stock (“Common Stock”), pay dividends and reduce indebtedness. In 2022, the Company generated Operating Cash Flow of $2,174.6 and Free Cash Flow of $1,796.4. Free Cash Flow, a non-GAAP financial measure, is defined in the “Non-GAAP Financial Measures” section below and reconciled within this Part II, ITEM 7. 
+ 
+ Impact of COVID-19 on our Business, Operations, Financial Condition, Liquidity and Results of Operations 
+ 
+ Since early 2020, the COVID-19 pandemic has disrupted our offices and manufacturing facilities around the world, as well as the facilities of our suppliers, customers and our customers’ contract manufacturers. These disruptions have included, and may continue to include, government regulations that inhibit our ability to operate certain of our facilities in the ordinary course, travel restrictions, supplier constraints, supply chain interruptions, logistics challenges and limitations, labor disruptions and reduced demand from certain customers. During much of 2022, COVID-19 outbreaks in China resulted in local or regional government-imposed lockdowns and restrictions, which impacted the ability of several of our operations and manufacturing facilities to operate in the ordinary course. As of December 31, 2022, there continue to be isolated COVID-19 outbreaks in certain regions of the world, particularly in China, but these outbreaks have not had a significant impact on our operations. The extent to which the COVID-19 pandemic will continue to impact our business, operations, financial condition, liquidity and results of operations in 2023 and beyond remains uncertain and unpredictable. For further discussion on the risks and uncertainties associated with the COVID-19 pandemic, refer to Part I, ITEM 1A. Risk Factors herein. 
+ 
+ Inflation Reduction Act of 2022 
+ 
+ On August 16, 2022, the President of the United States signed into law the Inflation Reduction Act of 2022 (the “IRA”), a tax and spending package that introduces several tax-related provisions, including a 15% corporate alternative minimum tax (“CAMT”) on certain large corporations and a 1% excise tax on certain corporate stock repurchases. Companies will be required to reassess their valuation allowances for certain affected deferred tax assets in the period of enactment but will not need to remeasure deferred tax balances for the related tax accounting implications of the CAMT. The impact of these provisions, which became effective for Amphenol beginning on January 1, 2023, is dependent on several factors, including interpretive regulatory guidance, which has not yet been released. The Company has reviewed and assessed the provisions of the IRA, including several other non-tax related provisions, and the Company does not currently believe that the IRA will have a material impact on its financial condition, results of operations, liquidity and cash flows. 
+ 
+ 
+ 28 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ Results of Operations 
+ 
+ The following table sets forth the components of net income attributable to Amphenol Corporation as a percentage of net sales for the years indicated. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2022 
+ 
+ 
+ 
+ 
+ 
+ 2021 
+ 
+ 
+ 
+ 
+ 
+ 2020 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net sales 
+ 
+ 
+ 
+ 100.0 
+ 
+ % 
+ 
+ 
+ 
+ 100.0 
+ 
+ % 
+ 
+ 
+ 
+ 100.0 
+ 
+ % 
+ 
+ 
+ 
+ 
+ Cost of sales 
+ 
+ 
+ 
+ 68.1 
+ 
+ 
+ 
+ 
+ 
+ 68.7 
+ 
+ 
+ 
+ 
+ 
+ 69.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ Acquisition-related expenses 
+ 
+ 
+ 
+ 0.2 
+ 
+ 
+ 
+ 
+ 
+ 0.6 
+ 
+ 
+ 
+ 
+ 
+ 0.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ Selling, general and administrative expenses 
+ 
+ 
+ 
+ 11.3 
+ 
+ 
+ 
+ 
+ 
+ 11.3 
+ 
+ 
+ 
+ 
+ 
+ 11.8 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating income 
+ 
+ 
+ 
+ 20.5 
+ 
+ 
+ 
+ 
+ 
+ 19.4 
+ 
+ 
+ 
+ 
+ 
+ 19.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ Interest expense 
+ 
+ 
+ 
+ (1.0) 
+ 
+ 
+ 
+ 
+ 
+ (1.1) 
+ 
+ 
+ 
+ 
+ 
+ (1.3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other income (expense), net 
+ 
+ 
+ 
+ 0.1 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ Income from continuing operations before income taxes 
+ 
+ 
+ 
+ 19.5 
+ 
+ 
+ 
+ 
+ 
+ 18.3 
+ 
+ 
+ 
+ 
+ 
+ 17.8 
+ 
+ 
+ 
+ 
+ 
+ 
+ Provision for income taxes 
+ 
+ 
+ 
+ (4.4) 
+ 
+ 
+ 
+ 
+ 
+ (3.8) 
+ 
+ 
+ 
+ 
+ 
+ (3.7) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net income from continuing operations 
+ 
+ 
+ 
+ 15.2 
+ 
+ 
+ 
+ 
+ 
+ 14.5 
+ 
+ 
+ 
+ 
+ 
+ 14.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net income from continuing operations attributable to noncontrolling interests 
+ 
+ 
+ 
+ (0.1) 
+ 
+ 
+ 
+ 
+ 
+ (0.1) 
+ 
+ 
+ 
+ 
+ 
+ (0.1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net income from continuing operations attributable to Amphenol Corporation 
+ 
+ 
+ 
+ 15.1 
+ 
+ 
+ 
+ 
+ 
+ 14.4 
+ 
+ 
+ 
+ 
+ 
+ 14.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ Income from discontinued operations attributable to Amphenol Corporation 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 0.2 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net income attributable to Amphenol Corporation 
+ 
+ 
+ 
+ 15.1 
+ 
+ % 
+ 
+ 
+ 
+ 14.6 
+ 
+ % 
+ 
+ 
+ 
+ 14.0 
+ 
+ % 
+ 
+ 
+ 
+ 
+ Note: Percentages in this table were calculated using actual, unrounded results; therefore, the sum of the components may not add due to rounding. 
+ 
+ 2022 Compared to 2021 
+ 
+ Net sales were $12,623.0 for the year ended December 31, 2022 compared to $10,876.3 for the year ended December 31, 2021, which represented an increase of 16% in U.S. dollars, 19% in constant currencies and 15% organically (excluding both currency and acquisition impacts) over the prior year. The increase in net sales in 2022 was driven by robust growth across all three reportable business segments, as described below. From a market standpoint, the increase in net sales was driven by robust organic growth across most end markets, including the automotive, informational technology and data communications, industrial, broadband communications and commercial aerospace markets, moderate organic growth in the military, mobile networks and mobile devices markets, and contributions from the Company’s acquisition program. Net sales to the automotive market increased (approximately $470.1), reflecting broad-based growth across our global automotive market, including the Company’s strength in next-generation electronics, in particular electric and hybrid drive trains, power management, infotainment communications, antenna and antenna assemblies, charging stations, and safety and security systems. Net sales to the information technology and data communications market increased (approximately $414.6), as we continue to benefit from our strong technology solutions and leading position across a broad array of applications as customers continue to support higher demand for increased bandwidth and cloud storage, along with contributions from acquisitions. Net sales to the industrial market increased (approximately $399.7), with broad-based growth across nearly all market segments of the global industrial market, with particular strength in e-mobility applications primarily in heavy and commercial vehicles, along with strong growth in factory automation, alternative energy, medical, and transportation applications, as well as contributions from acquisitions. Net sales to the broadband communications market increased (approximately $241.2), driven by increased overall demand from broadband service operators related to data network upgrades and expansions, along with contributions from acquisitions. Net sales to the commercial aerospace market increased (approximately $85.6), primarily due to the continued recovery in travel and demand for aircraft, along with contributions from acquisitions. Net sales to the military market increased (approximately $47.9), driven by strength in space-related applications, unmanned aerial vehicles, ground vehicles, and avionics, as well as contributions from acquisitions. Net sales to the mobile networks market increased (approximately $46.4), driven by a continued recovery in demand from mobile networks equipment manufacturers and mobile operators, along with contributions from acquisitions. Net sales to the mobile devices market increased (approximately $41.2), driven by growth in products incorporated into smartphones and wearable devices, partially offset by moderations in sales of tablets, hearable devices and laptops. 
+ 
+ Net sales in the Harsh Environment Solutions segment (approximately 25% of net sales) increased 13% in U.S. dollars, 16% in constant currencies and 15% organically, in 2022, compared to 2021. The sales growth in 2022 was driven by strong organic growth in the industrial, automotive and commercial aerospace markets, and moderate organic growth in the military, mobile networks and information technology and data communications markets, along with contributions from the Company’s acquisition program. 
+ 
+ 
+ 29 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ Net sales in the Communications Solutions segment (approximately 45% of net sales) increased 17% in U.S. dollars, 19% in constant currencies and 13% organically, in 2022, compared to 2021. The sales growth in 2022 was driven by strong organic growth across several end markets, in particular the information technology and data communications, broadband communications and automotive markets, and moderate organic growth in the mobile devices, industrial and mobile networks markets, along with contributions from the Company’s acquisition program. 
+ 
+ Net sales in the Interconnect and Sensor Systems segment (approximately 30% of net sales) increased 17% in U.S. dollars, 23% in constant currencies and 18% organically, in 2022, compared to 2021. The sales growth in 2022 was driven primarily by strong organic growth in the automotive, industrial, information technology and data communications, military and commercial aerospace markets, along with contributions from the Company’s acquisition program, partially offset by a moderate decline in the mobile networks market. 
+ 
+ The table below reconciles Constant Currency Net Sales Growth and Organic Net Sales Growth to the most directly comparable U.S. GAAP financial measures, by segment, geography and consolidated, for the year ended December 31, 2022 compared to the year ended December 31, 2021: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Percentage Growth (relative to prior year) (1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net sales 
+ 
+ 
+ 
+ Foreign 
+ 
+ 
+ 
+ Constant 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Organic 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ growth in 
+ 
+ 
+ 
+ currency 
+ 
+ 
+ 
+ Currency Net 
+ 
+ 
+ 
+ Acquisition 
+ 
+ 
+ 
+ Net Sales 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ U.S. Dollars (2) 
+ 
+ 
+ 
+ impact (3) 
+ 
+ 
+ 
+ Sales Growth (4) 
+ 
+ 
+ 
+ impact (5) 
+ 
+ 
+ 
+ Growth (4) 
+ 
+ 
+ 
+ 
+ Net sales by: 
+ 
+ 
+ 
+ 2022 
+ 
+ 
+ 
+ 2021 
+ 
+ 
+ 
+ (GAAP) 
+ 
+ 
+ 
+ (non-GAAP) 
+ 
+ 
+ 
+ (non-GAAP) 
+ 
+ 
+ 
+ (non-GAAP) 
+ 
+ 
+ 
+ (non-GAAP) 
+ 
+ 
+ 
+ 
+ Segment: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Harsh Environment Solutions 
+ 
+ 
+ 
+ $ 
+ 
+ 3,107.2 
+ 
+ 
+ 
+ $ 
+ 
+ 2,752.2 
+ 
+ 
+ 
+ 13 
+ 
+ % 
+ 
+ 
+ 
+ (4) 
+ 
+ % 
+ 
+ 
+ 
+ 16 
+ 
+ % 
+ 
+ 
+ 
+ 2 
+ 
+ % 
+ 
+ 
+ 
+ 15 
+ 
+ % 
+ 
+ 
+ 
+ 
+ Communications Solutions 
+ 
+ 
+ 
+ 
+ 
+ 5,652.4 
+ 
+ 
+ 
+ 
+ 
+ 4,832.1 
+ 
+ 
+ 
+ 17 
+ 
+ % 
+ 
+ 
+ 
+ (2) 
+ 
+ % 
+ 
+ 
+ 
+ 19 
+ 
+ % 
+ 
+ 
+ 
+ 5 
+ 
+ % 
+ 
+ 
+ 
+ 13 
+ 
+ % 
+ 
+ 
+ 
+ 
+ Interconnect and Sensor Systems 
+ 
+ 
+ 
+ 
+ 
+ 3,863.4 
+ 
+ 
+ 
+ 
+ 
+ 3,292.0 
+ 
+ 
+ 
+ 17 
+ 
+ % 
+ 
+ 
+ 
+ (5) 
+ 
+ % 
+ 
+ 
+ 
+ 23 
+ 
+ % 
+ 
+ 
+ 
+ 5 
+ 
+ % 
+ 
+ 
+ 
+ 18 
+ 
+ % 
+ 
+ 
+ 
+ 
+ Consolidated 
+ 
+ 
+ 
+ $ 
+ 
+ 12,623.0 
+ 
+ 
+ 
+ $ 
+ 
+ 10,876.3 
+ 
+ 
+ 
+ 16 
+ 
+ % 
+ 
+ 
+ 
+ (3) 
+ 
+ % 
+ 
+ 
+ 
+ 19 
+ 
+ % 
+ 
+ 
+ 
+ 4 
+ 
+ % 
+ 
+ 
+ 
+ 15 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Geography (6) : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ United States 
+ 
+ 
+ 
+ $ 
+ 
+ 4,155.2 
+ 
+ 
+ 
+ $ 
+ 
+ 3,155.9 
+ 
+ 
+ 
+ 32 
+ 
+ % 
+ 
+ 
+ 
+ — 
+ 
+ % 
+ 
+ 
+ 
+ 32 
+ 
+ % 
+ 
+ 
+ 
+ 9 
+ 
+ % 
+ 
+ 
+ 
+ 23 
+ 
+ % 
+ 
+ 
+ 
+ 
+ Foreign 
+ 
+ 
+ 
+ 
+ 
+ 8,467.8 
+ 
+ 
+ 
+ 
+ 
+ 7,720.4 
+ 
+ 
+ 
+ 10 
+ 
+ % 
+ 
+ 
+ 
+ (4) 
+ 
+ % 
+ 
+ 
+ 
+ 14 
+ 
+ % 
+ 
+ 
+ 
+ 2 
+ 
+ % 
+ 
+ 
+ 
+ 12 
+ 
+ % 
+ 
+ 
+ 
+ 
+ Consolidated 
+ 
+ 
+ 
+ $ 
+ 
+ 12,623.0 
+ 
+ 
+ 
+ $ 
+ 
+ 10,876.3 
+ 
+ 
+ 
+ 16 
+ 
+ % 
+ 
+ 
+ 
+ (3) 
+ 
+ % 
+ 
+ 
+ 
+ 19 
+ 
+ % 
+ 
+ 
+ 
+ 4 
+ 
+ % 
+ 
+ 
+ 
+ 15 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) 
+ Percentages in this table were calculated using actual, unrounded results; therefore, the sum of the components may not add due to rounding. 
+ 
+ (2) 
+ Net sales growth in U.S. dollars is calculated based on Net sales as reported in the Consolidated Statements of Income and Note 13 of the Notes to Consolidated Financial Statements. While the term “net sales growth in U.S. dollars” is not considered a U.S. GAAP financial measure, for purposes of this table, we derive the reported (GAAP) measure based on GAAP results, which serves as the basis for the reconciliation to its comparable non-GAAP financial measures. 
+ 
+ (3) 
+ Foreign currency translation impact, a non-GAAP measure, represents the percentage impact on net sales resulting from foreign currency exchange rate changes in the current reporting year compared to the prior reporting year. Such amount is calculated by subtracting current year net sales translated at average foreign currency exchange rates for the prior year from current year net sales, taken as a percentage of the prior year’s net sales. 
+ 
+ (4) 
+ Constant Currency Net Sales Growth and Organic Net Sales Growth are non-GAAP financial measures as defined in the “Non-GAAP Financial Measures” section of this ITEM 7. 
+ 
+ (5) 
+ Acquisition impact, a non-GAAP measure, represents the percentage impact on net sales resulting from acquisitions that have not been included in the Company’s consolidated results for the full current year and/or prior comparable year presented. Such net sales related to these acquisitions do not reflect the underlying growth of the Company on a comparative basis. Acquisition impact is calculated as a percentage of the respective prior year period(s) net sales. 
+ 
+ (6) 
+ Net sales by geographic area are based on the customer location to which the product is shipped. 
+ 
+ The increase in foreign net sales in 2022 compared to 2021 was driven by strong growth in both Europe and Asia. The comparatively stronger U.S. dollar in 2022 had the effect of decreasing sales by approximately $359.8, compared to 2021. 
+ 
+ Selling, general and administrative expenses were $1,420.9, or 11.3% of net sales for 2022, compared to $1,226.3, or 11.3% of net sales for 2021. Selling, general and administrative expenses as a percentage of net sales in 2022 remained flat as the leverage on the higher sales volumes during the year was offset by the MTS Sensors business, acquired in early 2021, having higher selling, general and administrative expenses as a percentage of net sales compared to the average of the Company. Administrative expenses increased $90.6 in 2022, and represented approximately 4.6% of net sales in 2022 and 4.5% of net sales in 2021. Research and development expenses increased $5.9 in 2022 primarily related to increases in expenses for new product development, and represented approximately 2.6% of net sales in 2022 and 2.9% of net sales in 2021. Selling and marketing expenses increased $98.1 in 2022 compared to 2021, and represented approximately 4.1% of net sales in 2022 and 3.8% of net sales in 2021. 
+ 
+ 
+ 
+ 
+ 30 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ Operating income was $2,585.8, or 20.5% of net sales in 2022, compared to $2,105.1, or 19.4% of net sales in 2021. Operating income in 2022 included acquisition-related expenses of $21.5, comprised primarily of the amortization related to the value associated with acquired backlog resulting from two acquisitions that closed in 2022, along with external transaction costs. Operating income in 2021 included acquisition-related expenses of $70.4, comprised primarily of transaction, severance, restructuring and certain non-cash purchase accounting costs related to the acquisition of MTS in the second quarter of 2021, along with external transaction costs and certain non-cash purchase accounting costs related to the acquisition of Halo in the fourth quarter of 2021. The acquisition-related expenses in 2022 and 2021 had the effect of decreasing net income from continuing operations by $18.4, or $0.03 per share, and $57.3, or $0.09 per share, respectively. Acquisition-related expenses are presented separately in the Consolidated Statements of Income. Excluding the effect of these acquisition-related expenses, Adjusted Operating Income and Adjusted Operating Margin, each as defined in the “Non-GAAP Financial Measures” section below, were $2,607.3 and 20.7% of net sales, respectively, in 2022, and $2,175.5 and 20.0% of net sales, respectively, in 2021. The increases in Adjusted Operating Income and Adjusted Operating Margin in 2022 relative to 2021 was driven by all three segments, as described below. 
+ 
+ Operating income for the Harsh Environment Solutions segment in 2022 was $801.6, or 25.8% of net sales, compared to $708.2, or 25.7% of net sales in 2021. The slight increase in operating margin for the Harsh Environment Solutions segment for 2022 compared to 2021 was primarily driven by normal operating leverage on the higher sales volumes, combined with the benefit of pricing actions, which were largely offset by the impact of the more challenging cost environment experienced in 2022. 
+ 
+ Operating income for the Communications Solutions segment in 2022 was $1,245.7, or 22.0% of net sales, compared to $1,023.3, or 21.2% of net sales in 2021. The increase in operating margin for the Communications Solutions segment for 2022 compared to 2021 was primarily driven by normal operating leverage on the higher sales volumes, combined with the benefit of pricing actions, partially offset by the impact of the more challenging cost environment experienced in 2022. 
+ 
+ Operating income for the Interconnect and Sensor Systems segment in 2022 was $716.5, or 18.5% of net sales, compared to $588.1, or 17.9% of net sales in 2021. The increase in operating margin for the Interconnect and Sensor Systems segment for 2022 compared to 2021 was primarily driven by normal operating leverage on the higher sales volumes, combined with the benefit of pricing actions, partially offset by the impact of the more challenging cost environment experienced in 2022. 
+ 
+ Interest expense was $128.4 in 2022 compared to $115.5 in 2021. The increase in interest expense was driven by the rising interest rate environment and its impact on the balance outstanding under the Company’s U.S. Commercial Paper Program. Refer to Note 4 of the Notes to Consolidated Financial Statements for further information related to the Company’s debt. 
+ 
+ Provision for income taxes was at an effective rate of 22.3% in 2022 and 20.6% in 2021. Provision for income taxes in 2022 included excess tax benefits of $56.0 from stock option exercises, partially offset by the tax effects related to acquisition-related expenses during the year. These items had the aggregate effect of decreasing the effective tax rate and increasing earnings per share by the amounts noted in the table below. Provision for income taxes in 2021 included (i) excess tax benefits of $63.4 from stock option exercises and (ii) a discrete tax benefit of $14.9 related to the settlement of uncertain tax positions in certain non-U.S. jurisdictions, all of which was partially offset by the tax effects related to acquisition-related expenses during the year. These items had the aggregate effect of decreasing the effective tax rate and increasing earnings per share by the amounts noted in the table below. Excluding the effect of these items, the Adjusted Effective Tax Rate, a non-GAAP financial measure as defined in the “Non-GAAP Financial Measures” section below within this ITEM 7, was 24.5% and 24.3% for 2022 and 2021, respectively, as reconciled in the table below to the comparable effective tax rate based on GAAP results. For additional details related to the reconciliation between the U.S. statutory federal tax rate and the Company’s effective tax rate for these years, refer to Note 6 of the Notes to Consolidated Financial Statements. 
+ 
+ Net income from continuing operations attributable to Amphenol Corporation and Net income from continuing operations per common share attributable to Amphenol Corporation-Diluted (“Diluted EPS”) were $1,902.3 and $3.06, respectively, for 2022, compared to $1,569.4 and $2.51, respectively, for 2021. Excluding the effect of the items discussed above, Adjusted Net Income from continuing operations attributable to Amphenol Corporation and Adjusted Diluted EPS, non-GAAP financial measures as defined in the “Non-GAAP Financial Measures” section below within this ITEM 7, were $1,864.7 and $3.00, respectively, for 2022, compared to $1,548.4 and $2.48, respectively, for 2021. 
+ 
+ 
+ 31 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ The following table reconciles Adjusted Operating Income, Adjusted Operating Margin, Adjusted Net Income from continuing operations attributable to Amphenol Corporation, Adjusted Effective Tax Rate and Adjusted Diluted EPS (all on a continuing operations basis only, each as defined in the “Non-GAAP Financial Measures” section below) to the most directly comparable U.S. GAAP financial measures for the years ended December 31, 2022 and 2021: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2022 
+ 
+ 
+ 
+ 2021 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net Income 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net Income 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ attributable 
+ 
+ 
+ 
+ Effective 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ attributable 
+ 
+ 
+ 
+ Effective 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating 
+ 
+ 
+ 
+ Operating 
+ 
+ 
+ 
+ to Amphenol 
+ 
+ 
+ 
+ Tax 
+ 
+ 
+ 
+ Diluted 
+ 
+ 
+ 
+ Operating 
+ 
+ 
+ 
+ Operating 
+ 
+ 
+ 
+ to Amphenol 
+ 
+ 
+ 
+ Tax 
+ 
+ 
+ 
+ Diluted 
+ 
+ 
+ 
+ 
+ 
+ 
+ Income 
+ 
+ 
+ 
+ Margin (1) 
+ 
+ 
+ 
+ Corporation 
+ 
+ 
+ 
+ Rate (1) 
+ 
+ 
+ 
+ EPS 
+ 
+ 
+ 
+ Income 
+ 
+ 
+ 
+ Margin (1) 
+ 
+ 
+ 
+ Corporation 
+ 
+ 
+ 
+ Rate (1) 
+ 
+ 
+ 
+ EPS 
+ 
+ 
+ Reported (GAAP) 
+ 
+ 
+ 
+ $ 
+ 
+ 2,585.8 
+ 
+ 
+ 
+ 20.5 
+ 
+ % 
+ 
+ $ 
+ 
+ 1,902.3 
+ 
+ 
+ 
+ 22.3 
+ 
+ % 
+ 
+ $ 
+ 
+ 3.06 
+ 
+ 
+ 
+ $ 
+ 
+ 2,105.1 
+ 
+ 
+ 
+ 19.4 
+ 
+ % 
+ 
+ $ 
+ 
+ 1,569.4 
+ 
+ 
+ 
+ 20.6 
+ 
+ % 
+ 
+ $ 
+ 
+ 2.51 
+ 
+ 
+ Acquisition-related expenses 
+ 
+ 
+ 
+ 
+ 
+ 21.5 
+ 
+ 
+ 
+ 0.2 
+ 
+ 
+ 
+ 
+ 
+ 18.4 
+ 
+ 
+ 
+ (0.1) 
+ 
+ 
+ 
+ 
+ 
+ 0.03 
+ 
+ 
+ 
+ 
+ 
+ 70.4 
+ 
+ 
+ 
+ 0.6 
+ 
+ 
+ 
+ 
+ 
+ 57.3 
+ 
+ 
+ 
+ (0.2) 
+ 
+ 
+ 
+ 
+ 
+ 0.09 
+ 
+ 
+ Excess tax benefits related to stock-based compensation 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ (56.0) 
+ 
+ 
+ 
+ 2.3 
+ 
+ 
+ 
+ 
+ 
+ (0.09) 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ (63.4) 
+ 
+ 
+ 
+ 3.2 
+ 
+ 
+ 
+ 
+ 
+ (0.10) 
+ 
+ 
+ Discrete tax ITEM 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ (14.9) 
+ 
+ 
+ 
+ 0.7 
+ 
+ 
+ 
+ 
+ 
+ (0.02) 
+ 
+ 
+ Adjusted (non-GAAP) (2) 
+ 
+ 
+ 
+ $ 
+ 
+ 2,607.3 
+ 
+ 
+ 
+ 20.7 
+ 
+ % 
+ 
+ $ 
+ 
+ 1,864.7 
+ 
+ 
+ 
+ 24.5 
+ 
+ % 
+ 
+ $ 
+ 
+ 3.00 
+ 
+ 
+ 
+ $ 
+ 
+ 2,175.5 
+ 
+ 
+ 
+ 20.0 
+ 
+ % 
+ 
+ $ 
+ 
+ 1,548.4 
+ 
+ 
+ 
+ 24.3 
+ 
+ % 
+ 
+ $ 
+ 
+ 2.48 
+ 
+ 
+ 
+ Note: All data in the tables above are on a continuing operations basis only and exclude results associated with discontinued operations. 
+ 
+ 
+ (1) 
+ While the terms “operating margin” and “effective tax rate” are not considered U.S. GAAP financial measures, for purposes of this table, we derive the reported (GAAP) measures based on GAAP results, which serve as the basis for the reconciliation to their comparable non-GAAP financial measures. 
+ 
+ (2) 
+ All percentages and per share amounts in this table were calculated using actual, unrounded results; therefore, the sum of the components may not add due to rounding. 
+ 
+ 
+ 2021 Compared to 2020 
+ 
+ Net sales were $10,876.3 for the year ended December 31, 2021 compared to $8,598.9 for the year ended December 31, 2020, which represented an increase of 26% in U.S. dollars, 25% in constant currencies and 18% organically (excluding both currency and acquisition impacts) over the prior year. The increase in net sales in 2021 was driven by robust growth across all three reportable business segments, as described below. From a market standpoint, the increase in net sales was driven by strong organic growth across nearly all end markets, including the industrial, automotive, information technology and data communications, military and mobile networks markets, moderate growth in the mobile devices market, and contributions from the Company’s acquisition program. This strong sales growth in 2021 also reflected a recovery in certain markets from the more negative impact resulting from the COVID-19 pandemic during 2020. This sales growth was partially offset by a decline in the commercial aerospace market, which continued to be negatively impacted by the significant impact of the COVID-19 pandemic on travel and aircraft production. Net sales to the industrial market increased (approximately $864.6), with broad-based growth across nearly all market segments of the global industrial market, with particular strength in heavy equipment, factory automation, industrial instrumentation, battery and heavy electric vehicle, alternative energy, rail mass transit, and transportation, along with contributions from acquisitions. Net sales to the automotive market increased (approximately $683.4), reflecting the continued recovery and growth in most regions of the global automotive market, as well as the Company’s expanded position in next-generation electronics, including in particular electric and hybrid drive trains. Net sales to the information technology and data communications market increased (approximately $482.7), driven primarily by continued strong sales growth to web service providers and broad-based market demand for server, storage and networking related products as customers worked to support higher demand for increased bandwidth. Net sales to the military market increased (approximately $135.8), driven by strength across nearly all segments of the military market, including missile, military communications and naval and space-related applications, along with a recovery from the impact of pandemic-related production disruptions experienced during the first half of 2020, as well as contributions from acquisitions. Net sales to the mobile networks market increased (approximately $60.5), driven by a recovery in demand from mobile networks equipment manufacturers and mobile operators, which was primarily driven by increased demand for products used in 5G network build-outs and contributions from acquisitions, offset in part by reductions of sales to certain customers in China that were added to the U.S. Department of Commerce’s “Entity List”. Net sales to the mobile devices market increased (approximately $45.7), driven by growth in products incorporated into laptops and wearable devices, along with production-related products, and was partially offset by moderations of sales into smartphones and tablets. Net sales to the commercial aerospace market decreased (approximately $26.6) primarily due to the continued significant impact of the COVID-19 pandemic on travel and aircraft production during that period. 
+ 
+ 
+ 
+ 
+ 32 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ Net sales in the Harsh Environment Solutions segment (approximately 25% of net sales) increased 20% in U.S. dollars, 19% in constant currencies and 15% organically, in 2021, compared to 2020. The sales growth in 2021 was driven primarily by strong organic growth in the industrial, automotive, and information technology and data communications markets, moderate organic growth in the military market, and contributions from the Company’s acquisition program, all of which was partially offset by a decline in the commercial aerospace market. 
+ 
+ Net sales in the Communications Solutions segment (approximately 45% of net sales) increased 19% in U.S. dollars, 18% in constant currencies and 16% organically, in 2021, compared to 2020. The sales growth in 2021 was driven by strong organic growth across several end markets, including the information technology and data communications, industrial, and automotive markets, moderate organic growth in the mobile networks, mobile devices, and military markets, and contributions from the Company’s acquisition program. 
+ 
+ Net sales in the Interconnect and Sensor Systems segment (approximately 30% of net sales) increased 46% in U.S. dollars, 43% in constant currencies and 26% organically, in 2021, compared to 2020. The sales growth in 2021 was driven primarily by strong organic growth in the automotive, information technology and data communications, industrial and mobile networks markets, along with contributions from the Company’s acquisition program, all of which was partially offset by a decline in the commercial aerospace market in that period. 
+ 
+ The table below reconciles Constant Currency Net Sales Growth and Organic Net Sales Growth to the most directly comparable U.S. GAAP financial measures, by segment, geography and consolidated, for the year ended December 31, 2021 compared to the year ended December 31, 2020: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Percentage Growth (relative to prior year) (1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net sales 
+ 
+ 
+ 
+ Foreign 
+ 
+ 
+ 
+ Constant 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Organic 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ growth in 
+ 
+ 
+ 
+ currency 
+ 
+ 
+ 
+ Currency Net 
+ 
+ 
+ 
+ Acquisition 
+ 
+ 
+ 
+ Net Sales 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ U.S. Dollars (2) 
+ 
+ 
+ 
+ impact (3) 
+ 
+ 
+ 
+ Sales Growth (4) 
+ 
+ 
+ 
+ impact (5) 
+ 
+ 
+ 
+ Growth (4) 
+ 
+ 
+ 
+ 
+ Net sales by: 
+ 
+ 
+ 
+ 2021 
+ 
+ 
+ 
+ 2020 
+ 
+ 
+ 
+ (GAAP) 
+ 
+ 
+ 
+ (non-GAAP) 
+ 
+ 
+ 
+ (non-GAAP) 
+ 
+ 
+ 
+ (non-GAAP) 
+ 
+ 
+ 
+ (non-GAAP) 
+ 
+ 
+ 
+ 
+ Segment: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Harsh Environment Solutions 
+ 
+ 
+ 
+ $ 
+ 
+ 2,752.2 
+ 
+ 
+ 
+ $ 
+ 
+ 2,286.0 
+ 
+ 
+ 
+ 20 
+ 
+ % 
+ 
+ 
+ 
+ 2 
+ 
+ % 
+ 
+ 
+ 
+ 19 
+ 
+ % 
+ 
+ 
+ 
+ 4 
+ 
+ % 
+ 
+ 
+ 
+ 15 
+ 
+ % 
+ 
+ 
+ 
+ 
+ Communications Solutions 
+ 
+ 
+ 
+ 
+ 
+ 4,832.1 
+ 
+ 
+ 
+ 
+ 
+ 4,056.2 
+ 
+ 
+ 
+ 19 
+ 
+ % 
+ 
+ 
+ 
+ 1 
+ 
+ % 
+ 
+ 
+ 
+ 18 
+ 
+ % 
+ 
+ 
+ 
+ 2 
+ 
+ % 
+ 
+ 
+ 
+ 16 
+ 
+ % 
+ 
+ 
+ 
+ 
+ Interconnect and Sensor Systems 
+ 
+ 
+ 
+ 
+ 
+ 3,292.0 
+ 
+ 
+ 
+ 
+ 
+ 2,256.7 
+ 
+ 
+ 
+ 46 
+ 
+ % 
+ 
+ 
+ 
+ 3 
+ 
+ % 
+ 
+ 
+ 
+ 43 
+ 
+ % 
+ 
+ 
+ 
+ 17 
+ 
+ % 
+ 
+ 
+ 
+ 26 
+ 
+ % 
+ 
+ 
+ 
+ 
+ Consolidated 
+ 
+ 
+ 
+ $ 
+ 
+ 10,876.3 
+ 
+ 
+ 
+ $ 
+ 
+ 8,598.9 
+ 
+ 
+ 
+ 26 
+ 
+ % 
+ 
+ 
+ 
+ 2 
+ 
+ % 
+ 
+ 
+ 
+ 25 
+ 
+ % 
+ 
+ 
+ 
+ 6 
+ 
+ % 
+ 
+ 
+ 
+ 18 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Geography (6) : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ United States 
+ 
+ 
+ 
+ $ 
+ 
+ 3,155.9 
+ 
+ 
+ 
+ $ 
+ 
+ 2,494.0 
+ 
+ 
+ 
+ 27 
+ 
+ % 
+ 
+ 
+ 
+ — 
+ 
+ % 
+ 
+ 
+ 
+ 26 
+ 
+ % 
+ 
+ 
+ 
+ 9 
+ 
+ % 
+ 
+ 
+ 
+ 17 
+ 
+ % 
+ 
+ 
+ 
+ 
+ Foreign 
+ 
+ 
+ 
+ 
+ 
+ 7,720.4 
+ 
+ 
+ 
+ 
+ 
+ 6,104.9 
+ 
+ 
+ 
+ 26 
+ 
+ % 
+ 
+ 
+ 
+ 2 
+ 
+ % 
+ 
+ 
+ 
+ 24 
+ 
+ % 
+ 
+ 
+ 
+ 5 
+ 
+ % 
+ 
+ 
+ 
+ 19 
+ 
+ % 
+ 
+ 
+ 
+ 
+ Consolidated 
+ 
+ 
+ 
+ $ 
+ 
+ 10,876.3 
+ 
+ 
+ 
+ $ 
+ 
+ 8,598.9 
+ 
+ 
+ 
+ 26 
+ 
+ % 
+ 
+ 
+ 
+ 2 
+ 
+ % 
+ 
+ 
+ 
+ 25 
+ 
+ % 
+ 
+ 
+ 
+ 6 
+ 
+ % 
+ 
+ 
+ 
+ 18 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) 
+ Percentages in this table were calculated using actual, unrounded results; therefore, the sum of the components may not add due to rounding. 
+ 
+ (2) 
+ Net sales growth in U.S. dollars is calculated based on Net sales as reported in the Consolidated Statements of Income and Note 13 of the Notes to Consolidated Financial Statements. While the term “net sales growth in U.S. dollars” is not considered a U.S. GAAP financial measure, for purposes of this table, we derive the reported (GAAP) measure based on GAAP results, which serves as the basis for the reconciliation to its comparable non-GAAP financial measures. 
+ 
+ (3) 
+ Foreign currency translation impact, a non-GAAP measure, represents the percentage impact on net sales resulting from foreign currency exchange rate changes in the current reporting year compared to the prior reporting year. Such amount is calculated by subtracting current year net sales translated at average foreign currency exchange rates for the prior year from current year net sales, taken as a percentage of the prior year’s net sales. 
+ 
+ (4) 
+ Constant Currency Net Sales Growth and Organic Net Sales Growth are non-GAAP financial measures as defined in the “Non-GAAP Financial Measures” section of this ITEM 7. 
+ 
+ (5) 
+ Acquisition impact, a non-GAAP measure, represents the percentage impact on net sales resulting from acquisitions that have not been included in the Company’s consolidated results for the full current year and/or prior comparable year presented. Such net sales related to these acquisitions do not reflect the underlying growth of the Company on a comparative basis. Acquisition impact is calculated as a percentage of the respective prior year period(s) net sales. 
+ 
+ (6) 
+ Net sales by geographic area are based on the customer location to which the product is shipped. 
+ 
+ The increase in foreign net sales in 2021 compared to 2020 was driven by strong growth in both Europe and Asia. The comparatively weaker U.S. dollar in 2021 had the effect of increasing sales by approximately $159.1, compared to 2020. 
+ 
+ Selling, general and administrative expenses were $1,226.3, or 11.3% of net sales for 2021, compared to $1,014.2, or 11.8% of net sales for 2020. The decrease in selling, general and administrative expenses as a percentage of net sales in 2021 was driven primarily by higher sales during the year, relative to 2020 which was more negatively impacted by the COVID-19 pandemic, slightly offset by the impact of the MTS Sensors business, acquired in 2021, which has higher selling, general and administrative expenses as a percentage of net sales compared to the average of the Company. Administrative expenses increased $78.6 in 2021, and represented approximately 4.5% of net sales in 2021 and 4.8% of net sales in 2020. Research and development expenses increased $57.0 in 2021 primarily related to increases in 
+ 
+ 
+ 33 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ expenses for new product development, and represented approximately 2.9% of net sales in 2021 and 3.0% of net sales in 2020. Selling and marketing expenses increased $76.5 in 2021 compared to 2020, and represented approximately 3.8% of net sales in 2021 and 4.0% of net sales in 2020. 
+ 
+ Operating income was $2,105.1, or 19.4% of net sales in 2021, compared to $1,638.4, or 19.1% of net sales in 2020. Operating income in 2021 included acquisition-related expenses of $70.4, comprised primarily of transaction, severance, restructuring and certain non-cash purchase accounting costs related to the MTS acquisition in the second quarter of 2021, along with external transaction costs and certain non-cash purchase accounting costs related to the Halo acquisition in the fourth quarter of 2021. Operating income in 2020 included acquisition-related expenses of $11.5, comprised primarily of external transaction costs related to acquisitions that were announced or closed. These acquisition-related expenses in 2021 and 2020 had the effect of decreasing net income from continuing operations by $57.3, or $0.09 per share, and $10.7, or $0.02 per share, respectively. Acquisition-related expenses are presented separately in the Consolidated Statements of Income. Excluding the effect of these acquisition-related expenses, Adjusted Operating Income and Adjusted Operating Margin, each as defined in the “Non-GAAP Financial Measures” section below, were $2,175.5 and 20.0% of net sales, respectively, in 2021, and $1,649.9 and 19.2% of net sales, respectively, in 2020. The increase in Adjusted Operating Income and Adjusted Operating Margin in 2021 relative to 2020 was driven by all three segments, and in particular, by normal operating leverage on the higher sales volumes combined with the benefit of a lower cost impact resulting from the COVID-19 pandemic compared to 2020, partially offset by the impact of the more challenging commodity and supply chain environment experienced in 2021, along with the impact of the Company’s 2021 acquisitions. 
+ 
+ Operating income for the Harsh Environment Solutions segment in 2021 was $708.2, or 25.7% of net sales, compared to $556.8, or 24.4% of net sales in 2020. The increase in operating margin for the Harsh Environment Solutions segment for 2021 compared to 2020 was primarily driven by normal operating leverage on the higher sales volumes combined with the benefit of a lower cost impact resulting from the COVID-19 pandemic compared to 2020, partially offset by the impact of the more challenging commodity, logistics and supply chain environment experienced in 2021. 
+ 
+ Operating income for the Communications Solutions segment in 2021 was $1,023.3, or 21.2% of net sales, compared to $871.2, or 21.5% of net sales in 2020. The slight decrease in operating margin for the Communications Solutions segment for 2021 compared to 2020 was primarily driven by the impact of the more challenging commodity, logistics and supply chain environment experienced in 2021, which was largely offset by the normal operating leverage on the higher sales volumes combined with the benefit of a lower cost impact resulting from the COVID-19 pandemic compared to 2020. 
+ 
+ Operating income for the Interconnect and Sensor Systems segment in 2021 was $588.1, or 17.9% of net sales, compared to $348.6, or 15.4% of net sales in 2020. The increase in operating margin for the Interconnect and Sensor Systems segment for 2021 compared to 2020 was primarily driven by normal operating leverage on the higher sales volumes combined with the benefit of a lower cost impact resulting from the COVID-19 pandemic compared to 2020, partially offset by the impact of the more challenging commodity, logistics and supply chain environment experienced in 2021, along with the impact of the Company’s 2021 acquisitions, in particular the MTS Sensors business closed in April 2021, which operated at a lower operating margin compared to the average of the Interconnect and Sensor Systems segment. 
+ 
+ Interest expense was $115.5 in 2021 compared to $115.4 in 2020. Refer to Note 4 of the Notes to Consolidated Financial Statements for further information related to the Company’s debt. 
+ 
+ Provision for income taxes was at an effective rate of 20.6% in 2021 and 20.5% in 2020. Provision for income taxes in 2021 included (i) excess tax benefits of $63.4 from stock option exercises and (ii) a discrete tax benefit of $14.9 related to the settlement of uncertain tax positions in certain non-U.S. jurisdictions, all of which was partially offset by the tax effects related to acquisition-related expenses during the year. These items had the aggregate effect of decreasing the effective tax rate and increasing earnings per share by the amounts noted in the table below. Provision for income taxes in 2020 included (i) excess tax benefits of $42.8 from stock option exercises and (ii) a discrete tax benefit of $19.9 related to the settlements of refund claims in a non-U.S. jurisdiction and the resulting adjustments to deferred taxes, which were partially offset by the tax effects related to acquisition-related expenses during the year. These items had the aggregate effect of decreasing the effective tax rate and increasing earnings per share by the amounts noted in the table below. Excluding the effect of these items, the Adjusted Effective Tax Rate, a non-GAAP financial measure as defined in the “Non-GAAP Financial Measures” section below within this ITEM 7, was 24.3% and 24.5% for 2021 and 2020, 
+ 
+ 
+ 34 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ respectively, as reconciled in the table below to the comparable effective tax rate based on GAAP results. For additional details related to the reconciliation between the U.S. statutory federal tax rate and the Company’s effective tax rate for these years, refer to Note 6 of the Notes to Consolidated Financial Statements. 
+ 
+ Net income from continuing operations attributable to Amphenol Corporation and Diluted EPS were $1,569.4 and $2.51, respectively, for 2021, compared to $1,203.4 and $1.96, respectively, for 2020. Excluding the effect of the items discussed above, Adjusted Net Income from continuing operations attributable to Amphenol Corporation and Adjusted Diluted EPS, non-GAAP financial measures as defined in the “Non-GAAP Financial Measures” section below within this ITEM 7, were $1,548.4 and $2.48, respectively, for 2021, compared to $1,151.4 and $1.87, respectively, for 2020. 
+ 
+ The following table reconciles Adjusted Operating Income, Adjusted Operating Margin, Adjusted Net Income from continuing operations attributable to Amphenol Corporation, Adjusted Effective Tax Rate and Adjusted Diluted EPS (all on a continuing operations basis only, each as defined in the “Non-GAAP Financial Measures” section below) to the most directly comparable U.S. GAAP financial measures for the years ended December 31, 2021 and 2020: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2021 
+ 
+ 
+ 
+ 2020 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net Income 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net Income 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ attributable 
+ 
+ 
+ 
+ Effective 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ attributable 
+ 
+ 
+ 
+ Effective 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating 
+ 
+ 
+ 
+ Operating 
+ 
+ 
+ 
+ to Amphenol 
+ 
+ 
+ 
+ Tax 
+ 
+ 
+ 
+ Diluted 
+ 
+ 
+ 
+ Operating 
+ 
+ 
+ 
+ Operating 
+ 
+ 
+ 
+ to Amphenol 
+ 
+ 
+ 
+ Tax 
+ 
+ 
+ 
+ Diluted 
+ 
+ 
+ 
+ 
+ 
+ 
+ Income 
+ 
+ 
+ 
+ Margin (1) 
+ 
+ 
+ 
+ Corporation 
+ 
+ 
+ 
+ Rate (1) 
+ 
+ 
+ 
+ EPS 
+ 
+ 
+ 
+ Income 
+ 
+ 
+ 
+ Margin (1) 
+ 
+ 
+ 
+ Corporation 
+ 
+ 
+ 
+ Rate (1) 
+ 
+ 
+ 
+ EPS 
+ 
+ 
+ Reported (GAAP) 
+ 
+ 
+ 
+ $ 
+ 
+ 2,105.1 
+ 
+ 
+ 
+ 19.4 
+ 
+ % 
+ 
+ $ 
+ 
+ 1,569.4 
+ 
+ 
+ 
+ 20.6 
+ 
+ % 
+ 
+ $ 
+ 
+ 2.51 
+ 
+ 
+ 
+ $ 
+ 
+ 1,638.4 
+ 
+ 
+ 
+ 19.1 
+ 
+ % 
+ 
+ $ 
+ 
+ 1,203.4 
+ 
+ 
+ 
+ 20.5 
+ 
+ % 
+ 
+ $ 
+ 
+ 1.96 
+ 
+ 
+ Acquisition-related expenses 
+ 
+ 
+ 
+ 
+ 
+ 70.4 
+ 
+ 
+ 
+ 0.6 
+ 
+ 
+ 
+ 
+ 
+ 57.3 
+ 
+ 
+ 
+ (0.2) 
+ 
+ 
+ 
+ 
+ 
+ 0.09 
+ 
+ 
+ 
+ 
+ 
+ 11.5 
+ 
+ 
+ 
+ 0.1 
+ 
+ 
+ 
+ 
+ 
+ 10.7 
+ 
+ 
+ 
+ (0.1) 
+ 
+ 
+ 
+ 
+ 
+ 0.02 
+ 
+ 
+ Excess tax benefits related to stock-based compensation 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ (63.4) 
+ 
+ 
+ 
+ 3.2 
+ 
+ 
+ 
+ 
+ 
+ (0.10) 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ (42.8) 
+ 
+ 
+ 
+ 2.8 
+ 
+ 
+ 
+ 
+ 
+ (0.07) 
+ 
+ 
+ Discrete tax ITEM 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ (14.9) 
+ 
+ 
+ 
+ 0.7 
+ 
+ 
+ 
+ 
+ 
+ (0.02) 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ (19.9) 
+ 
+ 
+ 
+ 1.3 
+ 
+ 
+ 
+ 
+ 
+ (0.03) 
+ 
+ 
+ Adjusted (non-GAAP) (2) 
+ 
+ 
+ 
+ $ 
+ 
+ 2,175.5 
+ 
+ 
+ 
+ 20.0 
+ 
+ % 
+ 
+ $ 
+ 
+ 1,548.4 
+ 
+ 
+ 
+ 24.3 
+ 
+ % 
+ 
+ $ 
+ 
+ 2.48 
+ 
+ 
+ 
+ $ 
+ 
+ 1,649.9 
+ 
+ 
+ 
+ 19.2 
+ 
+ % 
+ 
+ $ 
+ 
+ 1,151.4 
+ 
+ 
+ 
+ 24.5 
+ 
+ % 
+ 
+ $ 
+ 
+ 1.87 
+ 
+ 
+ 
+ Note: All data in the tables above are on a continuing operations basis only and exclude results associated with discontinued operations. 
+ 
+ 
+ (1) 
+ While the terms “operating margin” and “effective tax rate” are not considered U.S. GAAP financial measures, for purposes of this table, we derive the reported (GAAP) measures based on GAAP results, which serve as the basis for the reconciliation to their comparable non-GAAP financial measures. 
+ 
+ (2) 
+ All percentages and per share amounts in this table were calculated using actual, unrounded results; therefore, the sum of the components may not add due to rounding. 
+ 
+ 
+ Liquidity and Capital Resources 
+ 
+ Liquidity and Cash Requirements 
+ 
+ At December 31, 2022 and 2021, the Company had cash, cash equivalents and short-term investments of $1,434.2 and $1,241.4, respectively, with the vast majority of the Company’s cash, cash equivalents and short-term investments on hand located outside of the United States. 
+ 
+ The Company’s primary sources of liquidity are internally generated cash provided by operating activities, our cash, cash equivalents and short-term investments on hand, as well as availability under the U.S. Commercial Paper Program, the Euro Commercial Paper Program, the Revolving Credit Facility, and the 2022 Term Loan (all of which are defined and discussed in more detail below within this ITEM 7). The Company believes that these sources of liquidity, along with access to capital markets, provide adequate liquidity to meet both its short-term (next 12 months) and reasonably foreseeable long-term requirements and obligations. 
+ 
+ Cash Requirements from Known Contractual and Other Obligations 
+ 
+ The Company’s primary ongoing cash requirements will be for operating and working capital needs, capital expenditures, product development activities, repurchases of our Common Stock, dividends, debt service, payments associated with the one-time tax on the deemed repatriation of all of the Company’s pre-2018 accumulated unremitted earnings and profits of foreign subsidiaries (“Transition Tax”), which is payable in annual installments until 2025, taxes due upon the repatriation of foreign earnings (which will be payable upon the repatriation of such earnings) , funding of pension obligations, and other contractual obligations and commitments (refer to the table below for the Company’s material cash requirements from known contractual and other obligations). The Company may also use cash to fund all or part of the cost of future acquisitions. The Company expects that capital expenditures in 2023 will be in a range of 
+ 
+ 
+ 35 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 3% to 4% of net sales. The Company’s debt service requirements consist primarily of principal and interest on the Company’s Senior Notes, and to the extent of any amounts outstanding, the Revolving Credit Facility, Commercial Paper Programs and the 2022 Term Loan (all as defined below). As of December 31, 2022, outstanding borrowings under the U.S. Commercial Paper Program were at a weighted average floating interest rate of 4.69%, while there were no outstanding borrowings under the Revolving Credit Facility, 2022 Term Loan and Euro Commercial Paper Program. As a result of recent increases in the federal funds rate by the U.S. Federal Reserve, the floating interest rates related to our U.S. Commercial Paper Program increased substantially over the course of 2022, a trend that could continue throughout 2023. Consequently, the Company currently expects the floating interest rates related to its U.S. Commercial Paper Program (as well as its Revolving Credit Facility and 2022 Term Loan, to the extent either are drawn upon in the future) to continue to increase in the first quarter of 2023 and potentially beyond, which is expected to result in increased interest expense in 2023 as compared to 2022. Although the Company does not expect changes in interest rates to have a material effect on income or cash flows in 2023, primarily due to our current expected limited reliance on borrowings tied to floating rates of interest, there can be no assurance that interest rates will not change significantly from current levels. 
+ 
+ The following table summarizes the Company’s material short- and long-term cash requirements from known obligations pursuant to certain contracts and commitments as of December 31, 2022, as well as an estimate of the timing in which such obligations and payments are expected to be satisfied. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Payment Due By Period 
+ 
+ 
+ 
+ 
+ Contractual Obligations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Less than 
+ 
+ 
+ 
+ 1-3 
+ 
+ 
+ 
+ 3-5 
+ 
+ 
+ 
+ More than 
+ 
+ 
+ 
+ 
+ (dollars in millions) 
+ 
+ 
+ 
+ Total 
+ 
+ 
+ 
+ 1 year 
+ 
+ 
+ 
+ years 
+ 
+ 
+ 
+ years 
+ 
+ 
+ 
+ 5 years 
+ 
+ 
+ 
+ 
+ Debt (1) 
+ 
+ 
+ 
+ $ 
+ 
+ 4,602.7 
+ 
+ 
+ 
+ $ 
+ 
+ 2.7 
+ 
+ 
+ 
+ $ 
+ 
+ 750.9 
+ 
+ 
+ 
+ $ 
+ 
+ 1,168.9 
+ 
+ 
+ 
+ $ 
+ 
+ 2,680.2 
+ 
+ 
+ 
+ 
+ Interest related to senior notes 
+ 
+ 
+ 
+ 
+ 
+ 596.4 
+ 
+ 
+ 
+ 
+ 
+ 97.6 
+ 
+ 
+ 
+ 
+ 
+ 174.2 
+ 
+ 
+ 
+ 
+ 
+ 152.3 
+ 
+ 
+ 
+ 
+ 
+ 172.3 
+ 
+ 
+ 
+ 
+ Operating leases (2) 
+ 
+ 
+ 
+ 
+ 
+ 316.1 
+ 
+ 
+ 
+ 
+ 
+ 91.5 
+ 
+ 
+ 
+ 
+ 
+ 115.5 
+ 
+ 
+ 
+ 
+ 
+ 60.2 
+ 
+ 
+ 
+ 
+ 
+ 48.9 
+ 
+ 
+ 
+ 
+ Purchase obligations (3) 
+ 
+ 
+ 
+ 
+ 
+ 878.7 
+ 
+ 
+ 
+ 
+ 
+ 835.7 
+ 
+ 
+ 
+ 
+ 
+ 38.0 
+ 
+ 
+ 
+ 
+ 
+ 3.1 
+ 
+ 
+ 
+ 
+ 
+ 1.9 
+ 
+ 
+ 
+ 
+ Accrued pension and postretirement benefit obligations (4) 
+ 
+ 
+ 
+ 
+ 
+ 57.9 
+ 
+ 
+ 
+ 
+ 
+ 6.8 
+ 
+ 
+ 
+ 
+ 
+ 11.1 
+ 
+ 
+ 
+ 
+ 
+ 11.3 
+ 
+ 
+ 
+ 
+ 
+ 28.7 
+ 
+ 
+ 
+ 
+ Transition tax (5) 
+ 
+ 
+ 
+ 
+ 
+ 70.4 
+ 
+ 
+ 
+ 
+ 
+ 29.6 
+ 
+ 
+ 
+ 
+ 
+ 40.8 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Total (6) 
+ 
+ 
+ 
+ $ 
+ 
+ 6,522.2 
+ 
+ 
+ 
+ $ 
+ 
+ 1,063.9 
+ 
+ 
+ 
+ $ 
+ 
+ 1,130.5 
+ 
+ 
+ 
+ $ 
+ 
+ 1,395.8 
+ 
+ 
+ 
+ $ 
+ 
+ 2,932.0 
+ 
+ 
+ 
+ 
+ 
+ (1) 
+ The Company has excluded expected interest payments on the Revolving Credit Facility, 2022 Term Loan, U.S. Commercial Paper Program and Euro Commercial Paper Program from the above table, as this calculation is largely dependent on average debt levels during each of the years presented. The actual interest payments made related to the Company’s Revolving Credit Facility, 2022 Term Loan and both Commercial Paper Programs combined, in 2022, were approximately $21.1. Expected debt levels, and therefore expected interest payments, are difficult to predict, as they are significantly impacted by items such as future acquisitions, repurchases of Common Stock and dividend payments, as well as payments or additional borrowings made to reduce or increase the underlying revolver balance. 
+ 
+ 
+ (2) 
+ The Company’s operating lease payments included in this table reflect the future minimum undiscounted fixed lease payments, which serve as the basis for calculating the Company’s operating lease liabilities as of December 31, 2022. The table above excludes any variable lease payments not included in the measurement of the Company’s right-of-use assets and operating lease liabilities, due to their uncertainty. Finance leases are not material to the Company individually or in the aggregate and as such have been excluded from the table above. 
+ 
+ 
+ (3) 
+ Purchase obligations relate primarily to open purchase orders for goods and services, including but not limited to, raw materials and components to be used in production. 
+ 
+ 
+ (4) 
+ This table includes estimated benefit payments expected to be made under the Company’s unfunded pension and postretirement benefit plans, as well as the anticipated minimum required contributions under the Company’s funded pension plans, the most significant of which covers certain of its U.S. employees. Over the past several years, there has been no minimum requirement for Company contributions to our defined benefit pension plans in the United States (“U.S. Plans”) due to prior contributions made in excess of minimum requirements, and as a result, there was no anticipated minimum required contribution included in the table above related to the U.S. Plans for 2023. The Company did not make any voluntary contributions to its U.S. Plans in 2022 and 2021. It is not possible to reasonably estimate expected required contributions in the above table after 2023 since several assumptions are required to calculate minimum required contributions, such as the discount rate and expected returns on pension assets. 
+ 
+ 
+ (5) 
+ As a result of the enactment of the U.S. Tax Cuts and Jobs Act of 2017 (“Tax Act”) in December 2017, the United States changed to a modified territorial tax system, which significantly reduced the U.S. tax expense associated with the remittance of foreign earnings, among other changes. The Tax Act also imposed the Transition Tax associated with all of the Company’s pre-2018 accumulated unremitted earnings and profits of foreign subsidiaries. As a result, on December 31, 2017, the Company recorded a provisional U.S. tax expense for the Transition Tax, which was adjusted and finalized in 2018. The Transition Tax is to be paid in annual installments over the eight-year period until 2025, as permitted under the Tax Act. The table above reflects the remaining amounts associated with the Transition Tax, which is net of applicable tax credits and deductions. The fifth installment of the Transition Tax was paid in the second quarter of 2022. 
+ 
+ 
+ (6) 
+ As of December 31, 2022, the Company has recorded net liabilities of approximately $193.5 related to unrecognized tax benefits. These liabilities have been excluded from the above table due to the high degree of uncertainty regarding the timing of potential future cash flows. It is difficult to make a reasonably reliable estimate of the amount and period in which all of these liabilities might be paid. 
+ 
+ Repatriation of Foreign Earnings and Related Income Taxes 
+ 
+ The Company has previously indicated an intention to repatriate most of its pre-2022 accumulated earnings and has accrued the foreign and U.S. state and local taxes, if applicable, on those earnings, as appropriate. The associated tax payments are due as the repatriations are made. The Company intends to indefinitely reinvest the remaining pre-2022 foreign earnings. The Company intends to distribute certain 2022 foreign earnings and, as of December 31, 2022, has accrued foreign and U.S. state and local taxes, where applicable, on those foreign earnings that we intend to repatriate, and intends to indefinitely reinvest the remaining 2022 foreign earnings. The Company intends to (i) evaluate certain 
+ 
+ 
+ 36 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ post-2022 earnings for repatriation, and will accrue for those distributions where appropriate, and (ii) indefinitely reinvest all other foreign earnings. In addition, the Company paid its fifth annual installment of the Transition Tax, net of applicable tax credits and deductions, in the second quarter of 2022, and will pay the balance of the Transition Tax, net of applicable tax credits and deductions, in annual installments over the remainder of the eight-year period ending 2025, as permitted under the Tax Act. As of December 31, 2022, the Company has not provided for deferred income taxes on undistributed foreign earnings of approximately $1,100 related to certain geographies, as it is the Company’s intention to permanently reinvest such earnings outside the United States. It is impracticable to calculate the amount of taxes that would be payable if these undistributed foreign earnings were to be repatriated. 
+ 
+ Cash Flow Summary 
+ 
+ The following table summarizes the Company’s cash flows from operating, investing and financing activities for the years ended December 31, 2022, 2021 and 2020, as reflected in the Consolidated Statements of Cash Flow: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2022 
+ 
+ 
+ 
+ 2021 
+ 
+ 
+ 
+ 2020 
+ 
+ 
+ Net cash provided by operating activities from continuing operations 
+ 
+ 
+ 
+ $ 
+ 
+ 2,174.6 
+ 
+ 
+ 
+ $ 
+ 
+ 1,523.9 
+ 
+ 
+ 
+ $ 
+ 
+ 1,592.0 
+ 
+ 
+ Net cash used in investing activities from continuing operations 
+ 
+ 
+ 
+ 
+ 
+ (731.1) 
+ 
+ 
+ 
+ 
+ 
+ (2,604.4) 
+ 
+ 
+ 
+ 
+ 
+ (333.5) 
+ 
+ 
+ Net cash used in financing activities from continuing operations 
+ 
+ 
+ 
+ 
+ 
+ (1,196.7) 
+ 
+ 
+ 
+ 
+ 
+ (145.1) 
+ 
+ 
+ 
+ 
+ 
+ (516.6) 
+ 
+ 
+ Net cash change from discontinued operations 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 733.0 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ Effect of exchange rate changes on cash and cash equivalents 
+ 
+ 
+ 
+ 
+ 
+ (70.8) 
+ 
+ 
+ 
+ 
+ 
+ (12.3) 
+ 
+ 
+ 
+ 
+ 
+ 68.9 
+ 
+ 
+ Net increase (decrease) in cash and cash equivalents 
+ 
+ 
+ 
+ $ 
+ 
+ 176.0 
+ 
+ 
+ 
+ $ 
+ 
+ (504.9) 
+ 
+ 
+ 
+ $ 
+ 
+ 810.8 
+ 
+ 
+ Note: Net cash change from discontinued operations in the table above includes the proceeds from the sale of the Divested MTS business during the year ended December 31, 2021, as discussed in further detail later within this ITEM 7. 
+ 
+ Operating Activities 
+ 
+ The ability to generate cash from operating activities is one of the Company’s fundamental financial strengths. Operating Cash Flow was $2,174.6 in 2022, compared to $1,523.9 in 2021 and $1,592.0 in 2020. The increase in Operating Cash Flow in 2022 compared to 2021 was primarily due to both an increase in net income from continuing operations and a lower usage of cash related to the change in working capital as discussed below. The decrease in Operating Cash Flow in 2021 compared to 2020 was primarily due to a higher usage of cash related to the change in working capital as discussed below, partially offset by an increase in net income from continuing operations. 
+ 
+ In 2022, the components of working capital as presented on the accompanying Consolidated Statements of Cash Flow increased $193.1, excluding the impact of acquisitions and foreign currency translation, primarily due to increases in inventories of $278.5 and accounts receivable of $273.1, partially offset by increases in accrued liabilities, including income taxes, of $246.3 and accounts payable of $62.5, and a decrease in prepaid expenses and other current assets of $49.7. In 2021, the components of working capital as presented on the accompanying Consolidated Statements of Cash Flow increased $496.4, excluding the impact of acquisitions and foreign currency translation, primarily due to increases in accounts receivable, inventories, and prepaid expenses and other current assets of $398.4, $263.0 and $20.2, respectively, partially offset by increases in accounts payable of $131.7 and accrued liabilities, including income taxes, of $53.5. In 2020, the components of working capital as presented on the accompanying Consolidated Statements of Cash Flow increased $38.9, excluding the impact of acquisitions and foreign currency translation, due to increases in accounts receivable, inventories, and prepaid expenses and other current assets of $146.3, $102.0 and $88.6, respectively, partially offset by increases in accounts payable of $204.3 and accrued liabilities, including income taxes, of $93.7. 
+ 
+ The following describes the significant changes in the amounts as presented on the accompanying Consolidated Balance Sheets at December 31, 2022 compared to December 31, 2021. Accounts receivable increased $176.5 to $2,631.3 primarily due to higher sales in the fourth quarter of 2022 relative to the fourth quarter of 2021, along with the impact of the two acquisitions (collectively, the “2022 Acquisitions”) that closed during 2022, partially offset by the effect of translation from exchange rate changes (“Translation”) at December 31, 2022 compared to December 31, 2021. Days sales outstanding at December 31, 2022 and 2021 were 73 days and 71 days, respectively. Inventories increased $199.5 to $2,093.6, which was primarily driven by the impact of higher sales and the 2022 Acquisitions, along with the impact of the ongoing supply chain disruptions experienced throughout 2022, partially offset by Translation. Inventory days at December 31, 2022 and 2021 were 86 days and 80 days, respectively. Prepaid expenses and other current assets decreased $47.9 to $320.0, primarily due to decreases in certain other current receivables. Property, plant and 
+ 
+ 
+ 37 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ equipment, net, increased $29.0 to $1,204.3, primarily due to capital expenditures of $383.8 and the impact of the 2022 Acquisitions, partially offset by depreciation of $306.1, disposals and Translation. Goodwill increased $69.3 to $6,446.1, primarily driven by goodwill recognized resulting from the 2022 Acquisitions, partially offset by Translation. Other intangible assets, net, decreased $22.8 to $734.1 due to the amortization of $81.0 related to the Company’s current intangible assets, partially offset by the recognition of certain intangible assets related to recent acquisitions. Other long-term assets increased $51.4 to $462.6, primarily due to (i) the purchase of long-term certificates of deposit investments and (ii) an increase in operating lease right-of-use assets resulting from new and renewed lease agreements entered into during 2022, along with leases assumed from acquisitions, partially offset by a decrease in prepaid pension assets resulting from a decrease in the overfunded status of certain pension plans primarily in the U.S. Accounts payable decreased $2.9 to $1,309.1, primarily due to Translation, largely offset by slightly increased purchasing activity related to higher sales levels in the fourth quarter of 2022 relative to the fourth quarter of 2021, along with the effect of the 2022 Acquisitions. Payable days at December 31, 2022 and 2021 were 54 days and 56 days, respectively. Total accrued expenses, including accrued income taxes, increased $233.2 to $1,364.3, primarily as a result of increases in accrued income taxes, accrued salaries, wages and employee benefits and certain other accrued expenses, partially offset by Translation. Accrued pension and postretirement benefit obligations decreased $65.5 to $127.9, primarily driven by a significant decrease in our projected benefit obligations resulting from higher interest rates, along with Translation, partially offset by negative returns on plan assets in 2022. 
+ 
+ In 2022, 2021 and 2020, the Company made aggregate cash contributions to its defined benefit pension plans of approximately $6.3, $6.8 and $6.5, respectively. There is no current requirement for cash contributions to any of the Company’s U.S. Plans, and the Company plans to evaluate annually, based on actuarial calculations and the investment performance of the Plans’ assets, the timing and amount of cash contributions in the future, if any, as discussed in more detail in Note 9 of the Notes to Consolidated Financial Statements. 
+ 
+ In addition to Operating Cash Flow, the Company also considers Free Cash Flow, a non-GAAP financial measure defined in the “Non-GAAP Financial Measures” section below, as a key metric in measuring the Company’s ability to generate cash. The following table reconciles Free Cash Flow to its most directly comparable U.S. GAAP financial measure for the years ended December 31, 2022, 2021 and 2020. The increase in Free Cash Flow in 2022 compared to 2021 was driven by the increase in Operating Cash Flow, as described above. The decrease in Free Cash Flow in 2021 compared to 2020 was driven by the increase in capital expenditures to support our strong sales growth and, to a lesser extent, the decrease in Operating Cash Flow, as described above. The following table is on a continuing operations basis only and excludes any cash flows related to discontinued operations: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2022 
+ 
+ 
+ 
+ 2021 
+ 
+ 
+ 
+ 2020 
+ 
+ 
+ Operating Cash Flow (GAAP) 
+ 
+ 
+ 
+ $ 
+ 
+ 2,174.6 
+ 
+ 
+ 
+ $ 
+ 
+ 1,523.9 
+ 
+ 
+ 
+ $ 
+ 
+ 1,592.0 
+ 
+ 
+ Capital expenditures (GAAP) 
+ 
+ 
+ 
+ 
+ 
+ (383.8) 
+ 
+ 
+ 
+ 
+ 
+ (360.4) 
+ 
+ 
+ 
+ 
+ 
+ (276.8) 
+ 
+ 
+ Proceeds from disposals of property, plant and equipment (GAAP) 
+ 
+ 
+ 
+ 
+ 
+ 5.6 
+ 
+ 
+ 
+ 
+ 
+ 3.7 
+ 
+ 
+ 
+ 
+ 
+ 12.7 
+ 
+ 
+ Free Cash Flow (non-GAAP) 
+ 
+ 
+ 
+ $ 
+ 
+ 1,796.4 
+ 
+ 
+ 
+ $ 
+ 
+ 1,167.2 
+ 
+ 
+ 
+ $ 
+ 
+ 1,327.9 
+ 
+ Investing Activities 
+ 
+ Cash flows from investing activities consist primarily of cash flows associated with capital expenditures, proceeds from disposals of property, plant and equipment , net purchases (sales and maturities) of short- and long-term investments, and acquisitions. 
+ 
+ Net cash used in investing activities from continuing operations was $731.1 in 2022, compared to $2,604.4 in 2021 and $333.5 in 2020. In 2022, net cash used in investing activities from continuing operations was driven primarily by capital expenditures (net of disposals) of $378.2, the use of $288.2 to fund acquisitions, net purchases of long-term investments of $56.0, and net purchases of short-term investments of $25.2. In 2021, net cash used in investing activities from continuing operations was driven primarily by the use of $2,225.4 to fund acquisitions, capital expenditures (net of disposals) of $356.7, and net purchases of short-term investments of $8.6. In 2020, net cash used in investing activities from continuing operations was driven primarily by capital expenditures (net of disposals) of $264.1, the use of $50.4 to fund acquisitions, and net purchases of short-term investments of $18.4. 
+ 
+ 
+ 
+ 38 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ Financing Activities 
+ 
+ Cash flows from financing activities consist primarily of cash flows associated with borrowings and repayments of the Company’s credit facilities and other long-term debt, repurchases of Common Stock, proceeds from stock option exercises, dividend payments, and distributions to and purchases of noncontrolling interests. 
+ 
+ Net cash used in financing activities from continuing operations was $1,196.7 in 2022, compared to $145.1 in 2021 and $516.6 in 2020. In 2022, net cash used in financing activities from continuing operations was driven primarily by (i) repurchases of the Company’s Common Stock of $730.5, (ii) dividend payments of $477.4, (iii) net repayments of $159.3, primarily under the U.S. Commercial Paper Program, (iv) other debt repayments of $55.2, primarily related to short-term debt, and (v) distributions to and purchases of noncontrolling interests of $9.9, partially offset by (a) cash proceeds of $185.3 from the exercise of stock options and (b) proceeds of $50.7 primarily related to short-term borrowings. In 2021, net cash used in financing activities from continuing operations was driven primarily by (i) debt repayments of $912.6, primarily related to the repayment of the assumed then-outstanding MTS senior notes in the second quarter of 2021 as well as the redemption of the 3.125% Senior Notes (the “2021 Senior Notes”) in the third quarter of 2021 and the redemption of the 4.00% Senior Notes (the “2022 Senior Notes”) in the fourth quarter of 2021, (ii) repurchases of the Company’s Common Stock of $661.7, (iii) dividend payments of $346.7, (iv) a cash transfer of $28.7 made by the Company’s continuing operations to its discontinued operations in order to fund the September 2021 payment of contingent consideration assumed as part of the MTS acquisition, (v) distributions to and purchases of noncontrolling interests of $18.9, (vi) payments of $9.3 related to debt financing costs associated with the Company’s $750.0 principal amount of unsecured 2.200% Senior Notes due September 15, 2031 (the “2031 Senior Notes”), and (vii) payments of $4.1 associated with the deferred purchase price related to acquisitions, partially offset by (a) net borrowings of $796.3 primarily under the U.S. Commercial Paper Program, the majority of the proceeds of which were used to fund acquisitions, including MTS, and to redeem the 2021 Senior Notes and the 2022 Senior Notes, (b) net cash proceeds of $752.1, primarily related to the September 2021 issuance of the 2031 Senior Notes, and (c) cash proceeds of $288.5 from the exercise of stock options. In 2020, net cash used in financing activities from continuing operations was driven primarily by (i) repurchases of the Company’s Common Stock of $641.3, (ii) debt repayments of $404.4 related to the Company’s 2.20% Senior Notes due April 2020 and other debt, (iii) net repayments of $385.8 related to the Company’s Commercial Paper Programs, (iv) dividend payments of $297.6, (v) payment of $75.0 related to acquisition-related contingent consideration, (vi) payment of $16.2 associated with the deferred purchase price related to an acquisition, (vii) distributions to and purchases of noncontrolling interests of $14.9, (vii) payments of $8.7 related to debt financing costs primarily associated with its $400.0 principal amount of unsecured 2.050% Senior Notes due March 1, 2025 (the “2025 Senior Notes”) and 2026 Euro Notes (defined below), and (viii) net repayments of $0.7 under the Company’s credit facilities, partially offset by (a) aggregate net cash proceeds of $942.3 from both the February 2020 issuance of the 2025 Senior Notes and the May 2020 issuance of the 2026 Euro Notes and (b) cash proceeds of $385.7 from the exercise of stock options. 
+ 
+ The Company has significant flexibility to meet its financial commitments. The Company uses debt financing to lower the overall cost of capital and increase return on stockholders’ equity. The Company’s debt financing includes the use of Commercial Paper Programs, the Revolving Credit Facility, the 2022 Term Loan, and senior notes as part of its overall cash management strategy. 
+ 
+ On November 30, 2021, the Company amended and restated its $2,500.0 unsecured revolving credit facility (the “Revolving Credit Facility”). As a result, the Revolving Credit Facility no longer references the London Interbank Offered Rate (“LIBOR”) for interest rate determinations. The Revolving Credit Facility maintains the lenders’ aggregate commitments under the facility at $2,500.0. The Revolving Credit Facility matures in November 2026 and gives the Company the ability to borrow, in various currencies, at a spread that varies, based on the Company’s debt rating, over certain currency-specific benchmark rates, which benchmark rates in the case of U.S. dollar borrowings are either the base rate or the adjusted term Secured Overnight Financing Rate (“SOFR”). The Company may utilize the Revolving Credit Facility for general corporate purposes. As of December 31, 2022 and 2021, there were no outstanding borrowings under the Revolving Credit Facility. The Revolving Credit Facility requires payment of certain annual agency and commitment fees and requires that the Company satisfy certain financial covenants. On December 31, 2022, the Company was in compliance with the financial covenants under the Revolving Credit Facility. 
+ 
+ 
+ 
+ 39 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ Although the United Kingdom's Financial Conduct Authority (the “FCA”) , which regulates LIBOR, previously announced its intent to phase out the use of LIBOR in 2023, the Company does not currently have nor does it expect to have any more reliance on borrowings or any other financial instruments tied to LIBOR. As a result, the LIBOR transition will not have a material impact on our financial condition, results of operations or cash flows. 
+ 
+ On April 19, 2022, the Company entered into a two-year, $750.0 unsecured delayed draw term loan credit agreement (the “2022 Term Loan”), which is scheduled to mature on April 19, 2024. The 2022 Term Loan was undrawn at closing and may be drawn on up to five occasions over the life of the facility. The 2022 Term Loan may be repaid at any time without premium or penalty, and, once repaid, cannot be reborrowed. When drawn upon, the proceeds from the 2022 Term Loan are expected to be used for general corporate purposes. Interest rates under the 2022 Term Loan are based on a spread over either the base rate or the adjusted term SOFR, which spread varies based on the Company’s debt rating. As of December 31, 2022, the Company had not yet drawn upon the 2022 Term Loan, and as such, there were no outstanding borrowings under the 2022 Term Loan. The 2022 Term Loan requires payment of certain commitment fees and requires that the Company satisfy certain financial covenants, which financial covenants are the same as those under the Revolving Credit Facility. On December 31, 2022, the Company was in compliance with the financial covenants under the 2022 Term Loan. 
+ 
+ The Company has a commercial paper program pursuant to which the Company may issue short-term unsecured commercial paper notes (the “USCP Notes”) in one or more private placements in the United States (the “U.S. Commercial Paper Program”). The maximum aggregate principal amount outstanding of USCP Notes at any time is $2,500.0. The Company utilizes borrowings under the U.S. Commercial Paper Program for general corporate purposes, which in recent years, have included fully or partially funding acquisitions, as well as repaying certain outstanding senior notes, such as (i) the third quarter 2021 redemption of its unsecured 2021 Senior Notes due September 15, 2021, of which $227.7 aggregate principal amount was then outstanding and (ii) the fourth quarter 2021 redemption of its unsecured 2022 Senior Notes due February 1, 2022, of which $295.0 aggregate principal amount was then outstanding . The amount of USCP Notes outstanding as of December 31, 2022 was $632.8, with a weighted average interest rate of 4.69% As of December 31, 2021, the amount of USCP Notes outstanding was $795.2, with a weighted average interest rate of 0.29%. 
+ 
+ The Company and one of its wholly owned European subsidiaries (the “Euro Issuer”) also have a commercial paper program (the “Euro Commercial Paper Program” and, together with the U.S. Commercial Paper Program, the “Commercial Paper Programs”), pursuant to which the Euro Issuer may issue short-term unsecured commercial paper notes (the “ECP Notes” and, together with the USCP Notes, the “Commercial Paper”), which are guaranteed by the Company and are to be issued outside of the United States. The ECP Notes may be issued in Euros, Sterling, U.S. dollars or other currencies. The maximum aggregate principal amount outstanding of ECP Notes at any time is $2,000.0. As of December 31, 2022 and 2021, there were no ECP Notes outstanding. 
+ 
+ Amounts available under the Commercial Paper Programs may be borrowed, repaid and re-borrowed from time to time. In conjunction with the Revolving Credit Facility, as of December 31, 2022, the authorization from the Company’s Board of Directors (the “Board”) limits the maximum principal amount outstanding of USCP Notes, ECP Notes, and any other commercial paper or similar programs, along with outstanding amounts under the Revolving Credit Facility, at any time to $2,500.0 in the aggregate . The Commercial Paper Programs are rated A-2 by Standard & Poor’s and P-2 by Moody’s and, based on the Board’s authorization described above, are currently backstopped by the Revolving Credit Facility, as amounts undrawn under the Company’s Revolving Credit Facility are available to repay Commercial Paper, if necessary. Net proceeds of the issuances of Commercial Paper are expected to be used for general corporate purposes. The Company reviews its optimal mix of short-term and long-term debt regularly and may replace certain amounts of Commercial Paper, short-term debt and current maturities of long-term debt with new issuances of long-term debt in the future. 
+ 
+ 
+ 
+ 40 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ As of December 31, 2022, the Company has outstanding senior notes (the “Senior Notes”) as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Principal 
+ 
+ 
+ 
+ Interest 
+ 
+ 
+ 
+ 
+ 
+ 
+ Amount 
+ 
+ 
+ 
+ Rate 
+ 
+ 
+ 
+ Maturity 
+ 
+ 
+ $ 
+ 
+ 350.0 
+ 
+ 
+ 
+ 3.20 
+ 
+ % 
+ 
+ April 2024 
+ 
+ 
+ 
+ 
+ 400.0 
+ 
+ 
+ 
+ 2.050 
+ 
+ % 
+ 
+ March 2025 
+ 
+ 
+ 
+ 
+ 500.0 
+ 
+ 
+ 
+ 4.350 
+ 
+ % 
+ 
+ June 2029 
+ 
+ 
+ 
+ 
+ 900.0 
+ 
+ 
+ 
+ 2.80 
+ 
+ % 
+ 
+ February 2030 
+ 
+ 
+ 
+ 
+ 750.0 
+ 
+ 
+ 
+ 2.200 
+ 
+ % 
+ 
+ September 2031 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ € 
+ 
+ 500.0 
+ 
+ 
+ 
+ 0.750 
+ 
+ % 
+ 
+ May 2026 (Euro Notes) 
+ 
+ 
+ 
+ 
+ 500.0 
+ 
+ 
+ 
+ 2.00 
+ 
+ % 
+ 
+ October 2028 (Euro Notes) 
+ 
+ On September 14, 2021, the Company issued the 2031 Senior Notes. The Company used the net proceeds from the 2031 Senior Notes to repay certain outstanding borrowings under the U.S. Commercial Paper Program. 
+ 
+ All of the Company’s outstanding senior notes in the United States (the “ U.S. Senior Notes”) are unsecured and rank equally in right of payment with the Company’s and the Euro Issuer’s other unsecured senior indebtedness. Interest on each series of U.S. Senior Notes is payable semiannually. The Company may, at its option, redeem some or all of any series of U.S. Senior Notes at any time, subject to certain terms and conditions. 
+ 
+ The Euro Issuer has two outstanding unsecured senior notes issued in Europe. In 2020, the Euro Issuer issued €500.0 (approximately $545.4 at date of issuance) principal amount of unsecured 0.750% Senior Notes due May 4, 2026 (the “2026 Euro Notes”), the net proceeds of which were used to repay amounts outstanding under the then existing revolving credit facility. In addition, the Euro Issuer also has €500.0 (approximately $574.6 at date of issuance) principal amount of unsecured 2.000% Senior Notes due October 8, 2028 (the “2028 Euro Notes”, together with the 2026 Euro Notes, the “Euro Notes”, and collectively with the 2026 Euro Notes and the U.S. Senior Notes, the “Senior Notes”), the net proceeds of which were used to repay a portion of the outstanding amounts under our Commercial Paper Programs, with the remainder of the net proceeds being used for general corporate purposes. The Euro Notes are unsecured and rank equally in right of payment with the Company’s and the Euro Issuer’s other unsecured senior indebtedness, and are fully and unconditionally guaranteed on a senior unsecured basis by the Company. Interest on each series of Euro Notes is payable annually. The Company may, at its option, redeem some or all of either series of Euro Notes at any time, subject to certain terms and conditions. 
+ 
+ The Company’s Senior Notes impose certain obligations on the Company and prohibit various actions by the Company unless it satisfies certain financial requirements. On December 31, 2022, the Company was in compliance with all requirements under its Senior Notes. Refer to Note 4 of the Notes to Consolidated Financial Statements for further information related to the Company’s debt. 
+ 
+ On April 27, 2021, the Board authorized a stock repurchase program under which the Company may purchase up to $2,000.0 of the Company’s Common Stock during the three-year period ending April 27, 2024 (the “2021 Stock Repurchase Program”) in accordance with the requirements of Rule 10b-18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”). During the years ended December 31, 2022 and 2021, the Company repurchased 9.9 million and 6.2 million shares of its Common Stock for $730.5 and $457.9, respectively, under the 2021 Stock Repurchase Program. Of the total repurchases made in 2022 under the 2021 Stock Repurchase Program, 9.3 million shares, or $689.7, have been retired by the Company, with the remainder of the repurchased shares being retained in Treasury stock at the time of repurchase. Of the total repurchases made in 2021 under the 2021 Stock Repurchase Program, 5.8 million shares, or $424.9, were retired by the Company, with the remainder of the repurchased shares being retained in Treasury stock at the time of repurchase. From January 1, 2023 through January 31, 2023, the Company repurchased 0.6 million additional shares of its Common Stock for $48.8, and, as of February 1, 2023, the Company has remaining authorization to purchase up to $762.8 of its Common Stock under the 2021 Stock Repurchase Program. The price and timing of any future purchases will depend on a number of factors, such as levels of cash generation from operations, the volume of stock options exercised by employees, cash requirements for acquisitions, dividends paid, economic and market conditions and the price of the Common Stock. 
+ 
+ In April 2018, the Board authorized a stock repurchase program under which the Company could purchase up to $2,000.0 of Common Stock during the three-year period ending April 24, 2021 (the “2018 Stock Repurchase Program”) in accordance with the requirements of Rule 10b-18 of the Exchange Act. During the year ended December 31, 2021, the Company repurchased 3.1 million shares of its Common Stock for $203.8 under the 2018 Stock Repurchase 
+ 
+ 
+ 41 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ Program. As a result of these purchases, the Company completed all purchases authorized under the 2018 Stock Repurchase Program, and, therefore, the 2018 Stock Repurchase Program was terminated. Of the total repurchases made in 2021 under the 2018 Stock Repurchase Program, 2.8 million shares, or $184.0, were retired by the Company, with the remainder of the repurchased shares being retained in Treasury stock at the time of repurchase. During the year ended December 31, 2020, the Company repurchased 12.0 million shares of its Common Stock for $641.3 under the 2018 Stock Repurchase Program. Of the total repurchases made in 2020, 9.3 million shares, or $487.4, were retired by the Company, with the remainder of the repurchased shares being retained in Treasury stock at the time of repurchase. 
+ 
+ Contingent upon declaration by the Board, the Company pays a quarterly dividend on shares of its Common Stock. On October 26, 2021, the Board approved an increase to the Company’s quarterly dividend rate from $0.145 per share to $0.20 per share, effective with dividends declared in the fourth quarter of 2021, and on October 25, 2022, approved an additional increase to the Company’s quarterly dividend rate from $0.20 per share to $0.21 per share, effective with dividends declared in the fourth quarter of 2022, contingent upon declaration by the Board. The following table summ arizes the declared quarterly dividends per share for each of the three years ended December 31, 2022, 2021 and 2020: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2022 
+ 
+ 
+ 
+ 2021 
+ 
+ 
+ 
+ 2020 
+ 
+ 
+ First Quarter 
+ 
+ 
+ 
+ $ 
+ 
+ 0.20 
+ 
+ 
+ 
+ $ 
+ 
+ 0.145 
+ 
+ 
+ 
+ $ 
+ 
+ 0.125 
+ 
+ 
+ Second Quarter 
+ 
+ 
+ 
+ 
+ 
+ 0.20 
+ 
+ 
+ 
+ 
+ 
+ 0.145 
+ 
+ 
+ 
+ 
+ 
+ 0.125 
+ 
+ 
+ Third Quarter 
+ 
+ 
+ 
+ 
+ 
+ 0.20 
+ 
+ 
+ 
+ 
+ 
+ 0.145 
+ 
+ 
+ 
+ 
+ 
+ 0.125 
+ 
+ 
+ Fourth Quarter 
+ 
+ 
+ 
+ 
+ 
+ 0.21 
+ 
+ 
+ 
+ 
+ 
+ 0.20 
+ 
+ 
+ 
+ 
+ 
+ 0.145 
+ 
+ 
+ Total 
+ 
+ 
+ 
+ $ 
+ 
+ 0.81 
+ 
+ 
+ 
+ $ 
+ 
+ 0.635 
+ 
+ 
+ 
+ $ 
+ 
+ 0.52 
+ 
+ The following table summarizes the dividends declared and paid for the years ended December 31, 2022, 2021 and 2020: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2022 
+ 
+ 
+ 
+ 2021 
+ 
+ 
+ 
+ 2020 
+ 
+ 
+ Dividends declared 
+ 
+ 
+ 
+ $ 
+ 
+ 482.6 
+ 
+ 
+ 
+ $ 
+ 
+ 379.7 
+ 
+ 
+ 
+ $ 
+ 
+ 310.0 
+ 
+ 
+ Dividends paid (including those declared in the prior year) 
+ 
+ 
+ 
+ 
+ 
+ 477.4 
+ 
+ 
+ 
+ 
+ 
+ 346.7 
+ 
+ 
+ 
+ 
+ 
+ 297.6 
+ 
+ Pensions 
+ 
+ The Company and certain of its subsidiaries in the United States have defined benefit pension plans (“U.S. Plans”), which cover certain U.S. employees and which represent the majority of the plan assets and benefit obligations of the aggregate defined benefit plans of the Company. The U.S. Plans’ benefits are generally based on years of service and compensation and are generally noncontributory. The majority of U.S. employees are not covered by the U.S. Plans and are instead covered by various defined contribution plans. Certain foreign subsidiaries also have defined benefit plans covering their employees (the “Foreign Plans” and, together with the U.S. Plans, the “Plans”). The total liability for accrued pension and postretirement benefit obligations associated with the Company’s underfunded pension and postretirement benefit plans decreased in 2022 to $111.1 from $173.9 in 2021, primarily driven by a significant decrease in our projected benefit obligations resulting from higher interest rates , along with foreign currency exchange translation, partially offset by negative returns on plan assets in 2022. There is no current requirement for cash contributions to any of the U.S. Plans, and the Company plans to evaluate annually, based on actuarial calculations and the investment performance of the Plans’ assets, the timing and amount of cash contributions in the future, if any. 
+ 
+ Refer to Note 9 of the Notes to Consolidated Financial Statements for further discussion of the Company’s benefit plans and other postretirement benefit plans. 
+ 
+ Acquisitions and Divestitures 
+ 
+ During 2022, the Company completed two acquisitions (the “2022 Acquisitions”) for $288.2, net of cash acquired. One of the 2022 Acquisitions was included in the Harsh Environment Solutions segment and the other acquisition was included in the Interconnect and Sensor Systems segment. The 2022 Acquisitions, which were funded through a combination of borrowings under the U.S. Commercial Paper Program and cash on hand, were not material, either individually or in the aggregate, to the Company’s financial results. 
+ 
+ 
+ 
+ 42 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ During 2021, the Company completed seven acquisitions (the “2021 Acquisitions”) for $2,225.4, net of cash acquired, while also completing the divestiture of the Divested MTS business, as defined and discussed below. One of the 2021 Acquisitions was included in the Harsh Environment Solutions segment, three acquisitions were included in the Communications Solutions segment and three acquisitions were included in the Interconnect and Sensor Systems segment. The 2021 Acquisitions were not material, either individually or in the aggregate, to the Company’s financial results. 
+ 
+ Acquisition of MTS 
+ 
+ On April 7, 2021, pursuant to a definitive agreement dated December 9, 2020, by and among the Company and MTS Systems Corporation (“MTS”), the Company completed the acquisition of MTS for a total enterprise value of approximately $1,700, net of cash acquired and including the repayment of all outstanding debt and certain liabilities. The MTS acquisition was funded through a combination of borrowings under the U.S. Commercial Paper Program and cash on hand. At closing, the Company paid approximately $1,300, net of cash acquired, for 100% of the common stock of MTS, including certain liabilities settled at closing, which was reflected within Net cash used in investing activities from continuing operations in the accompanying Consolidated Statements of Cash Flow for the year ended December 31, 2021. In addition, the Company also assumed MTS’s then-outstanding $350.0 principal amount of senior notes due August 15, 2027. Shortly after the closing, the Company repaid and settled the MTS senior notes for approximately $387.3, which included accrued interest and a make-whole premium incurred as a result of the early extinguishment of the senior notes. The repayment of the outstanding senior notes, including the make-whole premium and excluding interest, was reflected within Net cash used in financing activities from continuing operations in the accompanying Consolidated Statements of Cash Flow for the year ended December 31, 2021. MTS, a leading global supplier of precision sensors, advanced test systems and motion simulators, was historically organized into two business segments: Sensors (“MTS Sensors”) and Test & Simulation (“MTS T&S”). The retained MTS Sensors business provides the Company with a highly complementary offering of high-technology, harsh environment sensors sold into diverse end markets and applications. The MTS Sensors business further expands the Company’s range of sensor and sensor-based products across a wide array of industries and is reported as part of our continuing operations and within our Interconnect and Sensor Systems segment. In the second quarter of 2021, the Company incurred $55.4 ($44.6 after-tax, or $0.07 per diluted share) of acquisition-related expenses, comprised primarily of transaction, severance, restructuring and certain non-cash purchase accounting costs related to the MTS acquisition. 
+ 
+ Sale of the Divested MTS Business 
+ 
+ On January 19, 2021 and prior to the closing of the MTS acquisition, the Company entered into a definitive agreement to sell MTS (including the MTS T&S business, but excluding the MTS Sensors business) to Illinois Tool Works Inc. (“ITW”). Throughout this Annual Report, we refer to MTS (including the MTS T&S business, but excluding the MTS Sensors business) as the “Divested MTS business”. As a result of the agreement to sell the Divested MTS business to ITW, t he Divested MTS business met the discontinued operations reporting criteria and “held for sale” accounting criteria as of the MTS acquisition date of April 7, 2021, and therefore, the Company did not assign the Divested MTS business to any of its reportable business segments. Accordingly, t he Company accounted for the operating results and related cash flows associated with the Divested MTS business as discontinued operations in the accompanying Consolidated Financial Statements through December 1, 2021, the date of the sale of the Divested MTS business to ITW. Income from discontinued operations attributable to Amphenol Corporation, net of income taxes, was $21.4 for the year ended December 31, 2021. On December 1, 2021, the Company completed the sale of the Divested MTS business for approximately $750, net of cash divested and excluding related transaction fees and expenses . The proceeds from the sale of the Divested MTS business were included in Net cash provided by investing activities from discontinued operations in the Consolidated Statements of Cash Flow for the year ended December 31, 2021. Amphenol has had no continuing involvement with the Divested MTS business after the completion of the sale. After giving effect to the sale of the Divested MTS business as well as the repayment of the aforementioned MTS senior notes as part of the MTS acquisition, the Company paid approximately $950, net of cash acquired and excluding related transaction fees and expenses, for the retained MTS Sensors business. Refer to Note 11 of the Notes to Consolidated Financial Statements for further details related to the completed divestiture of the Divested MTS business. 
+ 
+ 
+ 
+ 43 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ Acquisition of Halo Technology Limited 
+ 
+ On December 1, 2021, the Company completed the acquisition of approximately 97% of the common stock of Halo Technology Limited (“Halo”) for a purchase price of approximately $694, net of cash acquired. The sellers retained a noncontrolling interest of less than 3% in Halo, which includes redeemable features that are outside the control of the Company and therefore, has been classified as temporary equity on the Consolidated Balance Sheets as of December 31, 2022 and 2021, as discussed in more detail in Notes 1 and 5 of the Notes to Consolidated Financial Statements. The acquisition was funded with cash on hand. Halo, which is headquartered in the United States (California), is a leading provider of active and passive fiber optic interconnect components, with product offerings that are highly complementary to our existing high-speed and fiber optic interconnect solutions for the communications infrastructure markets. The operating results for Halo have been included in the Consolidated Statements of Income since the acquisition date. Halo is reported within our Communications Solutions segment. 
+ 
+ Acquisition-related Expenses 
+ 
+ In 2022, the Company incurred $21.5 ($18.4 after-tax) of acquisition-related expenses, comprised primarily of the amortization related to the value associated with acquired backlog resulting from two acquisitions that closed in 2022, along with external transaction costs. In 2021, the Company incurred $70.4 ($57.3 after-tax) of acquisition-related expenses, comprised primarily of transaction, severance, restructuring and certain non-cash purchase accounting costs related to the MTS acquisition in the second quarter of 2021, along with external transaction costs and certain non-cash purchase accounting costs related to the Halo acquisition in the fourth quarter of 2021. Such acquisition-related expenses are presented separately in the accompanying Consolidated Statements of Income. 
+ 
+ For further discussion of the Company’s acquisitions, as well as the Company’s discontinued operations and completed divestiture of the Divested MTS business, refer to Note 11 of the Notes to Consolidated Financial Statements. 
+ 
+ Environmental Matters 
+ 
+ Certain operations of the Company are subject to environmental laws and regulations that govern the discharge of pollutants into the air and water, as well as the handling and disposal of solid and hazardous wastes. The Company believes that its operations are currently in substantial compliance with applicable environmental laws and regulations and that the costs of continuing compliance will not have a material adverse effect on the Company’s financial condition, results of operations or cash flows. For more information on certain environmental matters, refer to Note 14 of the Notes to Consolidated Financial Statements. 
+ 
+ Inflation and Costs 
+ 
+ The cost of the Company’s products is influenced by the cost of a wide variety of raw materials. The Company strives to offset the impact of increases in the cost of raw materials, labor and services through price increases, productivity improvements and cost saving programs. However, in certain markets, implementing price increases can be difficult and there is no guarantee that the Company will be successful. From time to time, the Company may encounter difficulties in obtaining certain raw materials or components necessary for production due to supply chain constraints and logistical challenges, which may include regulatory restrictions and also negatively impact the pricing of materials and components sourced or used by the Company. While the Company does not currently anticipate significant, broad-based difficulties in obtaining raw materials or components necessary for production, in 2021 and 2022, there were supply chain and logistical challenges that impacted the global economy, including our Company, and caused and continue to cause supply constraints and commodity price increases on certain raw materials and components used by the Company in production , as well as decreased availability of, and increased prices for, freight and logistics, including air, sea and ground freight . As of December 31, 2022, while some of the supply chain and logistical challenges have eased, inflation continues to impact the cost of certain raw materials and components used by the Company. Given this environment, the Company may experience supply shortages for discrete raw materials or components in the future, which could be further exacerbated by increased commodity prices and additional inflation. For a discussion of certain risks related to inflation and costs, refer to the risk factor titled “ The Company and certain of its suppliers and customers have experienced difficulties obtaining certain raw materials and components, and the cost of most of the Company’s raw materials and components is increasing ” in Part I, ITEM 1A. Risk Factors herein. 
+ 
+ 
+ 
+ 44 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ Foreign Currency Exchange Rates 
+ 
+ The Company conducts business in many foreign currencies through its worldwide operations, and as a result is subject to foreign exchange exposure due to changes in exchange rates of the various currencies, including possible currency devaluations. Changes in exchange rates can positively or negatively affect the Company’s sales, operating margins and equity. The Company attempts to mitigate currency risk in a number of ways, such as locating factories in the same country or region in which products are sold, hedging contracts, cost reduction and pricing actions or working capital management. However, there can be no assurance that any or all such actions taken by the Company will be fully effective in successfully managing currency risk, including in the event of a significant and sudden decline in the value of any of the foreign currencies of the Company’s worldwide operations. For further discussion of foreign exchange exposures, risks and uncertainties, refer to the risk factor titled “ The Company’s results can be positively or negatively affected by changes in foreign currency exchange rates ” in Part I, ITEM 1A. Risk Factors herein. 
+ 
+ Non-GAAP Financial Measures 
+ 
+ In addition to assessing the Company’s financial condition, results of operations, liquidity and cash flows in accordance with U.S. GAAP, management utilizes certain non-GAAP financial measures, defined below, as part of its internal reviews for purposes of monitoring, evaluating and forecasting the Company’s financial performance, communicating operating results to the Board and assessing related employee compensation measures. Management believes that these non-GAAP financial measures may be helpful to investors in assessing the Company’s overall financial performance, trends and year-over-year comparative results, in addition to the reasons noted below. Non-GAAP financial measures related to operating income, operating margin, net income from continuing operations attributable to Amphenol Corporation, effective tax rate and diluted EPS from continuing operations exclude income and expenses that are not directly related to the Company’s operating performance during the years presented. Items excluded in the presentation of such non-GAAP financial measures in any period may consist of, without limitation, acquisition-related expenses, refinancing-related costs, and certain discrete tax items including but not limited to (i) the excess tax benefits related to stock-based compensation and (ii) the impact of significant changes in tax law. Non-GAAP financial measures related to net sales exclude the impact of foreign currency exchange rates and acquisitions. Non-GAAP financial measures and their most directly comparable U.S. GAAP financial measures presented within this ITEM 7 are on a continuing operations basis only and exclude any results associated with discontinued operations. The non-GAAP financial information contained herein is included for supplemental purposes only and should not be considered in isolation, as a substitute for or superior to the related U.S. GAAP financial measures. In addition, these non-GAAP financial measures are not necessarily the same or comparable to similar measures presented by other companies as such measures may be calculated differently or may exclude different items. 
+ 
+ The non-GAAP financial measures defined below should be read in conjunction with the Company’s financial statements presented in accordance with U.S. GAAP. The reconciliations of these non-GAAP financial measures to the most directly comparable U.S. GAAP financial measures for the years ended December 31, 2022, 2021 and 2020 are included in “Results of Operations” and “Liquidity and Capital Resources” within this ITEM 7: 
+ 
+ 
+ 
+ ● 
+ Adjusted Diluted EPS is defined as diluted earnings per share from continuing operations (as reported in accordance with U.S. GAAP), excluding income and expenses and their specific tax effects that are not directly related to the Company’s operating performance during the years presented. Adjusted Diluted EPS is calculated as Adjusted Net Income from continuing operations attributable to Amphenol Corporation, as defined below, divided by the weighted average outstanding diluted shares as reported in the Consolidated Statements of Income. 
+ 
+ 
+ 
+ ● 
+ Adjusted Effective Tax Rate is defined as Provision for income taxes, as reported in the Consolidated Statements of Income, expressed as a percentage of Income from continuing operations before income taxes, as reported in the Consolidated Statements of Income, each excluding income and expenses and their specific tax effects that are not directly related to the Company’s operating performance during the years presented. 
+ 
+ 
+ 
+ ● 
+ Adjusted Net Income from continuing operations attributable to Amphenol Corporation is defined as Net income from continuing operations attributable to Amphenol Corporation, as reported in the Consolidated Statements of Income, excluding income and expenses and their specific tax effects that are not directly related to the Company’s operating performance during the years presented. 
+ 
+ 
+ 
+ 45 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ ● 
+ Adjusted Operating Income is defined as Operating income, as reported in the Consolidated Statements of Income, excluding income and expenses that are not directly related to the Company’s operating performance during the years presented. 
+ 
+ 
+ 
+ ● 
+ Adjusted Operating Margin is defined as Adjusted Operating Income (as defined above) expressed as a percentage of Net sales (as reported in the Consolidated Statements of Income). 
+ 
+ 
+ 
+ ● 
+ Constant Currency Net Sales Growth is defined as the year-over-year percentage change in net sales growth, excluding the impact of changes in foreign currency exchange rates. The Company’s results are subject to volatility related to foreign currency translation fluctuations. As such, management evaluates the Company’s sales performance based on actual sales growth in U.S. dollars, as well as Organic Net Sales Growth (defined below) and Constant Currency Net Sales Growth, and believes that such information is useful to investors to assess the underlying sales trends. 
+ 
+ 
+ 
+ ● 
+ Free Cash Flow is defined as (i) Net cash provided by operating activities from continuing operations (“Operating Cash Flow” - as reported in accordance with U.S. GAAP) less (ii) capital expenditures (as reported in accordance with U.S. GAAP), net of proceeds from disposals of property, plant and equipment (as reported in accordance with U.S. GAAP), all of which are derived from the Consolidated Statements of Cash Flow. Free Cash Flow is an important liquidity measure for the Company, as we believe it is useful for management and investors to assess our ability to generate cash, as well as to assess how much cash can be used to reinvest in the growth of the Company or to return to stockholders through either stock repurchases or dividends. 
+ 
+ 
+ 
+ ● 
+ Organic Net Sales Growth is defined as the year-over-year percentage change in net sales growth resulting from operating volume and pricing changes, and excludes the impact of (i) changes in foreign currency exchange rates (described above), which is outside the control of the Company, and (ii) acquisitions, both of which are taken as a percentage of the respective prior year period(s) net sales. The acquisition impact represents the percentage impact on net sales resulting from acquisitions that have not been included in the Company’s consolidated results for the full current year period(s) and/or prior comparable year period(s) presented. Such net sales related to these acquisitions do not reflect the underlying growth of the Company on a comparative basis. Management evaluates the Company’s sales performance based on actual sales growth in U.S. dollars, as well as Constant Currency Net Sales Growth (defined above) and Organic Net Sales Growth, and believes that such information is useful to investors to assess the underlying sales trends. 
+ 
+ Recent Accounting Pronouncements 
+ 
+ Refer to Note 1 of the Notes to Consolidated Financial Statements for a discussion of recently issued accounting pronouncements, including those adopted by the Company. 
+ 
+ 
+ Critical Accounting Estimates 
+ 
+ The preparation of consolidated financial statements in conformity with accounting principles generally accepted in the United States of America requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the consolidated financial statements and the reported amounts of revenues and expenses during the reporting period. Management bases its estimates on historical experience along with other assumptions that we believe are reasonable in formulating our bases for making judgements regarding the carrying amounts of assets and liabilities that are not readily apparent elsewhere. Estimates are adjusted as new information becomes available. Actual results could differ from those estimates. The Company believes that the following accounting policies and estimates are most critical since they require significant assumptions and judgments that inherently are subject to risks and uncertainties. The significant accounting policies are more fully described in Note 1 of the Notes to Consolidated Financial Statements. 
+ 
+ Revenue Recognition 
+ 
+ The Company’s net sales in the Consolidated Statements of Income for the years ended December 31, 2022, 2021 and 2020 are presented under Accounting Standards Update (“ASU”) No. 2014-09, Revenue from Contracts with Customers (Topic 606) (collectively with its related subsequent amendments, “Topic 606”). The Company’s primary source of revenues consist of product sales to either end customers and their appointed contract manufacturers (including original equipment manufacturers) or to distributors. Our revenues are derived from contracts with customers, which in most cases are customer purchase orders that may be governed by master sales agreements. For each contract, the promise to transfer the control of the products, each of which is individually distinct, is considered to be the identified 
+ 
+ 
+ 46 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ performance obligation. As part of the consideration promised in each contract, the Company evaluates the customer’s credit risk. Our contracts do not have any significant financing components, as payment terms are generally due net 30 to 120 days after delivery. Although products are almost always sold at fixed prices, in determining the transaction price, we evaluate whether the price is subject to refund (due to returns) or adjustment (due to volume discounts, rebates, or price concessions) to determine the net consideration we expect to be entitled to. We allocate the transaction price to each distinct product based on its relative standalone selling price. Taxes assessed by governmental authorities and collected from the customer, including but not limited to sales and use taxes and value-added taxes, are not included in the transaction price. 
+ 
+ The vast majority of our sales are recognized at a point-in-time under the core principle of recognizing revenue when control transfers to the customer, which generally occurs when we ship or deliver the product from our manufacturing facility to our customers, when our customer accepts and has legal title of the goods, and where the Company has a present right to payment for such goods. Based on the respective contract terms, most of our contracts’ revenues are recognized either (i) upon shipment based on free on board (“FOB”) shipping point or (ii) when the product arrives at its destination. For the years ended December 31, 2022, 2021 and 2020, less than 5% of our net sales were recognized over time, where the associated contracts relate to the sale of goods with no alternative use as they are only sold to a single customer and whose underlying contract terms provide the Company with an enforceable right to payment, including a reasonable profit margin, for performance completed to date, in the event of customer termination. For the contracts recognized over time, we typically record revenue using the input method, based on the materials and labor costs incurred to date relative to the contract’s total estimated costs. This method reasonably depicts when and as control of the goods transfers to the customer, since it measures our progress in producing the goods which is generally commensurate with this transfer of control. Since we typically invoice our customers at the same time that we satisfy our performance obligations, contract assets and contract liabilities related to our contracts with customers recorded in the Consolidated Balance Sheets were not material as of December 31, 2022 and 2021. 
+ 
+ Standard product warranty coverage, which provides assurance that our products will conform to the contractually agreed-upon specifications for a limited period from the date of shipment, is typically offered, while extended or separately priced warranty coverage is typically not offered. The warranty claim is generally limited to a credit equal to the purchase price or a promise to repair or replace the product for a specified period of time at no additional charge. We estimate our warranty liability based on historical experience, product history, and current trends. 
+ 
+ Income Taxes 
+ 
+ Deferred income taxes are provided for revenue and expenses which are recognized in different periods for income tax and financial statement reporting purposes. The Company recognizes the effects of changes in tax laws and rates on deferred income taxes in the period in which legislation is enacted. Deferred income taxes are provided on undistributed earnings of foreign subsidiaries in the period in which the Company determines it no longer intends to permanently reinvest such earnings outside the United States. As of December 31, 2022, the Company has not provided for deferred income taxes on undistributed foreign earnings of approximately $1,100 related to certain geographies, as it is the Company’s intention to permanently reinvest such earnings outside the United States. It is impracticable to calculate the amount of taxes that would be payable if these undistributed foreign earnings were to be repatriated. In addition, the Company remains indefinitely reinvested with respect to its financial statement basis in excess of tax basis of its investments in foreign subsidiaries. It is not practicable to determine the deferred tax liability with respect to such basis differences. Deferred tax assets are regularly assessed for recoverability based on both historical and anticipated earnings levels and a valuation allowance is recorded when it is more likely than not that these amounts will not be recovered. 
+ 
+ The tax effects of an uncertain tax position taken or expected to be taken in income tax returns are recognized only if it is “more likely than not” to be sustained on examination by the taxing authorities, based on its technical merits as of the reporting date. The tax benefits recognized in the financial statements from such a position are measured based on the largest benefit that has a greater than fifty percent likelihood of being realized upon ultimate settlement. The Company includes estimated interest and penalties related to unrecognized tax benefits in the provision for income taxes. 
+ 
+ As a result of the Tax Act, the global intangible low-taxed income (“GILTI”) provision imposed a tax on certain earnings o f foreign subsidiaries. The Company elected an accounting policy to account for GILTI as a period cost. The U.S. Treasury Department has issued final interpretive guidance relating to certain provisions of the Tax Act and proposed additional guidance related to the same provisions. The Company will account for the impact of additional guidance in the period in which any new guidance is released, if appropriate. 
+ 
+ 
+ 47 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 

@@ -107,7 +107,9 @@ if page == "Tổng quan":
             ar = ar[ar.event_id.isin(ids)]
             caar = ar.groupby("relative_day").abnormal_return.mean().sort_index().cumsum().mul(100)
             st.line_chart(caar, x_label="Phiên so với ngày sự kiện", y_label="CAAR (%)", height=330)
-    st.caption("Dữ liệu: 500 10-K thật, 50 doanh nghiệp; bảng kết quả đã được tính lại sau sửa 14 ranh giới MD&A. Các đối chứng không đạt mức 5% sau Holm.")
+    sensitivity = csv("sensitivity_models.csv")
+    significant = int((sensitivity.p_holm < .05).sum())
+    st.caption(f"Dữ liệu thật: {meta['filings']} 10-K của {meta['firms']} doanh nghiệp, FY{meta['fiscal_years'][0]}–{meta['fiscal_years'][1]}. Có {significant}/{len(sensitivity)} đối chứng đạt mức 5% sau Holm; xem tab mô hình để đọc từng đặc tả.")
 
 elif page == "Khám phá báo cáo":
     st.subheader("Báo cáo và tone từng doanh nghiệp")
@@ -161,14 +163,19 @@ elif page == "Kiểm định mô hình":
                 st.dataframe(result, hide_index=True, width="stretch")
         except (ValueError, KeyError, np.linalg.LinAlgError) as exc:
             st.warning(f"Không ước lượng được bộ lọc này: {exc}")
-    st.markdown("#### 18 đối chứng đã công bố trước khi xem kết quả")
     sensitivity = csv("sensitivity_models.csv")
+    st.markdown(f"#### {len(sensitivity)} kiểm định độ nhạy đã định trước")
     st.dataframe(sensitivity[sensitivity.alignment.eq(alignment)], hide_index=True, width="stretch")
-    st.caption("p_Holm hiệu chỉnh chung 18 kiểm định; kết quả trên không phải replication chính xác LM 2011.")
+    st.caption(f"p_Holm hiệu chỉnh chung {len(sensitivity)} kiểm định; kết quả trên không phải replication chính xác LM 2011.")
 
 elif page == "Phương pháp & audit":
     st.subheader("Dữ liệu, truy nguyên và giới hạn")
-    st.write("**500** filing · **50** doanh nghiệp · **FY2016–2025** · **14** ranh giới MD&A đã sửa · **500/500** bản trích khớp khi kiểm tra lại")
+    st.write(f"**{meta['filings']}** filing phân tích · **{meta['firms']}** doanh nghiệp · **FY{meta['fiscal_years'][0]}–{meta['fiscal_years'][1]}** · danh sách đầu vào **{meta.get('target_firms', meta['firms'])}** công ty")
+    if (DATA / "companies_100_input.csv").exists():
+        st.download_button("Tải danh sách 100 công ty gốc", (DATA / "companies_100_input.csv").read_bytes(), file_name="companies_100.csv", mime="text/csv")
+        st.download_button("Tải bảng đối chiếu SEC", (DATA / "company_list_100_validation.csv").read_bytes(), file_name="company_list_100_validation.csv", mime="text/csv")
+        st.download_button("Tải manifest 1.000 hồ sơ SEC", (DATA / "filings_manifest.csv").read_bytes(), file_name="filings_manifest.csv", mime="text/csv")
+        st.download_button("Tải bảng tone từng công ty–năm", (DATA / "tone_panel.csv").read_bytes(), file_name="tone_panel.csv", mime="text/csv")
     doc = st.selectbox("Tài liệu", ["METHODOLOGY", "DATA_SOURCES", "EXTRACTION_REVIEW", "SAMPLE_DESIGN", "FISCAL_YEAR_REVIEW", "LIMITATIONS_REMEDIATION"])
     section(doc)
 
@@ -176,6 +183,6 @@ else:
     st.subheader("Báo cáo và tài liệu")
     pdf = ROOT / "Nhom5_BaoCao.pdf"
     if pdf.exists():
-        st.download_button("Tải báo cáo PDF · 20 trang", pdf.read_bytes(), file_name=pdf.name, mime="application/pdf")
+        st.download_button("Tải báo cáo PDF", pdf.read_bytes(), file_name=pdf.name, mime="application/pdf")
     doc = st.selectbox("Chọn tài liệu", ["REPORT", "LIMITATIONS_REMEDIATION", "LITERATURE_COMPARISON", "EXPANDED_RESULTS", "REFERENCES", "DEFENSE"])
     section(doc)

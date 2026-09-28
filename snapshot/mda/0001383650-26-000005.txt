@@ -1,0 +1,2745 @@
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+ 
+ 
+ Introduction 
+ 
+ The following discussion and analysis presents management’s view of our business, financial condition and overall performance and should be read in conjunction with our Consolidated Financial Statements and the accompanying notes. This information is intended to provide investors with an understanding of our past performance, current financial condition and outlook for the future. Discussion of items for the year ended December 31, 2023 and variance drivers between the year ended December 31, 2024 as compared to December 31, 2023 are not included herein and can be found in “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in our annual report on Form 10-K for the fiscal year ended December 31, 2024 . 
+ 
+ Our discussion and analysis includes the following subjects: 
+ • Overview 
+ • Overview of Significant Events 
+ • Market Environment 
+ • Results of Operations 
+ • Liquidity and Capital Resources 
+ • Summary of Critical Accounting Estimates 
+ • Recent Accounting Standards 
+ 
+ 
+ Overview 
+ 
+ We are a limited partnership formed by Cheniere to provide clean, secure and affordable LNG to integrated energy companies, utilities and energy trading companies around the world. We own the natural gas liquefaction and export facility in Cameron Parish, Louisiana at Sabine Pass. Our long-term counterparty arrangements form the foundation of our business and provide us with significant, stable, long-term cash flows. For further discussion of our business, see Items 1. and 2. Business and Properties . We believe that continued global demand for natural gas and LNG, as further described in Market Factors and Competition in Items 1. and 2. Business and Properties, as well as the current geopolitical environment that has intensified the demand for supply security, should enable us to enter into long-term agreements and provide a foundation for additional growth in our business in the future. 
+ 
+ 
+ Overview of Significant Events 
+ 
+ Our significant events since January 1, 2025 and through the filing date of this Form 10-K include the following: 
+ 
+ Strategic 
+ 
+ • In June 2025, certain of our subsidiaries updated the SPL Expansion Project’s FERC application, originally filed in February 2024, to reflect a two-phased project, inclusive of three liquefaction trains and supporting infrastructure, maintaining an expected total peak production capacity of up to approximately 20 mtpa of LNG, inclusive of estimated debottlenecking opportunities. 
+ Operational 
+ 
+ • As of February 20, 2026, over 3,270 cumulative LNG cargoes totaling over 225 million tonnes of LNG have been produced, loaded and exported from the Liquefaction Project. 
+ • During the second quarter of 2025, we completed planned large-scale maintenance activities on two Trains at the Liquefaction Project. 
+ 
+ 
+ 36 
+ 
+ Table of Contents 
+ Financial 
+ 
+ • In December 2025, SPL redeemed $300 million aggregate principal amount of its 5.875% Senior Secured Notes due 2026 (the “2026 SPL Senior Notes” ) and subsequently in February 2026, SPL redeemed the remaining $200 million aggregate principal amount of its 2026 SPL Senior Notes. 
+ • We declared aggregate distributions of $3.29 per common unit for the year ended December 31, 2025. On January 28, 2026, with respect to the fourth quarter of 2025, we declared a cash distribution of $0.830 per common unit to unitholders of record as of February 9, 2026, and the related general partner distribution, which was paid on February 13, 2026. These distributions consist of a base amount of $0.775 per unit and a variable amount of $0.055 per unit. 
+ • In July 2025, we issued and sold $1.0 billion aggregate principal amount of 5.550% Senior Notes due 2035, and the net proceeds, together with cash on hand, were used to redeem $1.0 billion of the aggregate principal amount of SPL’s 2026 SPL Senior Notes. 
+ • In March 2025, SPL repaid the remaining $300 million aggregate principal amount outstanding of its 5.625% Senior Secured Notes due 2025 at maturity. 
+ • In February 2025, Fitch Ratings upgraded the issuer credit rating of CQP to BBB from BBB- with a stable outlook. In June 2025, S&P Global Ratings concurrently assigned a BBB rating to the 2035 CQP Senior Notes and upgraded the remaining unsecured CQP notes to BBB from BBB-. In November 2025, S&P further upgraded the issuer credit rating of CQP and unsecured CQP notes to BBB+ from BBB and revised its outlook on SPL’s issuer credit rating to positive from stable in December 2025. 
+ 
+ 
+ Market Environment 
+ 
+ Our results of operations are affected by the market environment in which we operate, including known trends and uncertainties, macroeconomic factors and other external environmental factors. 
+ 
+ With just under 20 mtpa of year on year ( “YoY” ) increase in LNG supplies globally in 2025, the LNG market is transitioning from a multi-year state of tight market conditions into a period of rapid growth. The continued ramp up in new LNG supplies from the U.S. and Canada mark the start of a more ample supply landscape which is expected to loosen global balances over the next few years and result in a more moderate and stable price environment for LNG. Sustained downward pressure on global prices could potentially unlock latent demand that has otherwise been priced out since the disruption of Russian natural gas supply to Europe. 
+ 
+ The increase in supply corresponded to a 5% YoY uptick in trade, which was primarily supported by Europe and the Middle East and North Africa ( “MENA” ) region amid weaker demand in Asia. Europe’s demand for LNG increased approximately 27% YoY in 2025 reaching a record level of approximately 125 mtpa. The main driver for this growth continues to be the replacement of Russian natural gas and the replenishment of underground storage inventories. We expect this driver to continue to play an important role in keeping LNG demand in Europe resilient, especially in light of the European Parliament’s vote to ban all residual Russian natural gas, including Russian LNG by 2027. The MENA region also contributed to demand growth in 2025 with imports increasing 7 mtpa or 62% versus 2024. Egypt was the main driver of this increase as it resorted to additional LNG imports to satisfy its growing domestic energy needs and supplement its own natural gas production. 
+ 
+ Asia’s LNG consumption however was down about 4% in 2025, dropping by 12 mtpa to 270 mtpa. While many of the major markets in Asia saw YoY declines, China’s was the largest, representing nearly the entire YoY change in the region. China’s LNG imports declined 16% or 12 mtpa YoY, due to broader, likely transient macro-economic challenges. Natural gas demand growth in China slowed in 2025 and higher piped natural gas flows from Russia and robust domestic natural gas production decreased the call on LNG. 
+ 
+ Despite weaker demand in Asia and an easing in geopolitical conflicts during the second half of 2025, average prices remained elevated versus 2024. The Japan Korea Marker ( “JKM” ) monthly settlement prices in 2025 averaged $12.71 per MMBtu, 7.5% higher YoY while those for Title Transfer Facilities ( “TTF” ) averaged $12.04 per MMBtu, 10.3% higher YoY. Strong storage injections, an increase in LNG supply and expectations of mild weather resulted in downward pressure in the second half of the year with monthly settlements averaging at least $1.76 per MMBtu lower for JKM and $2.34 per MMBtu lower for TTF versus the first half of the year. Henry Hub monthly settlements averaged $3.43 per MMBtu during 2025. 
+ 
+ 
+ 37 
+ 
+ Table of Contents 
+ 
+ As referenced above, expectations of significant LNG capacity expansions in the next few years, and the recent momentum in FIDs if continued, are likely to keep the price trajectory trending lower in Asia and Europe. We expect the price elastic markets, particularly in Asia, to respond to the increased availability and affordability of supply by growing imports to satisfy latent demand as well as organic longer-term growth. 
+ 
+ 
+ Results of Operations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ 
+ 
+ (in millions, except per unit data) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 2024 
+ 
+ Variance 
+ 
+ Revenues 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LNG revenues 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 8,200 
+ 
+ 
+ $ 
+ 6,550 
+ 
+ 
+ $ 
+ 1,650 
+ 
+ 
+ LNG revenues—affiliate 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2,358 
+ 
+ 
+ 1,954 
+ 
+ 
+ 404 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Regasification revenues 
+ 
+ 
+ 
+ 
+ 
+ 
+ 136 
+ 
+ 
+ 135 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other revenues 
+ 
+ 
+ 
+ 
+ 
+ 
+ 64 
+ 
+ 
+ 65 
+ 
+ 
+ (1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total revenues 
+ 
+ 
+ 
+ 
+ 
+ 
+ 10,758 
+ 
+ 
+ 8,704 
+ 
+ 
+ 2,054 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating costs and expenses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of sales (excluding operating and maintenance expense and depreciation and amortization expense shown separately below) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5,145 
+ 
+ 
+ 3,570 
+ 
+ 
+ 1,575 
+ 
+ 
+ Cost of sales—affiliate 
+ 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 4 
+ 
+ 
+ (4) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating and maintenance expense 
+ 
+ 
+ 
+ 
+ 
+ 
+ 904 
+ 
+ 
+ 824 
+ 
+ 
+ 80 
+ 
+ 
+ Operating and maintenance expense—affiliate 
+ 
+ 
+ 
+ 
+ 
+ 
+ 177 
+ 
+ 
+ 172 
+ 
+ 
+ 5 
+ 
+ 
+ Operating and maintenance expense—related party 
+ 
+ 
+ 
+ 
+ 
+ 
+ 28 
+ 
+ 
+ 58 
+ 
+ 
+ (30) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ General and administrative expense 
+ 
+ 
+ 
+ 
+ 
+ 
+ 12 
+ 
+ 
+ 10 
+ 
+ 
+ 2 
+ 
+ 
+ General and administrative expense—affiliate 
+ 
+ 
+ 
+ 
+ 
+ 
+ 93 
+ 
+ 
+ 90 
+ 
+ 
+ 3 
+ 
+ 
+ Depreciation and amortization expense 
+ 
+ 
+ 
+ 
+ 
+ 
+ 688 
+ 
+ 
+ 680 
+ 
+ 
+ 8 
+ 
+ 
+ Other operating costs and expenses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ 14 
+ 
+ 
+ (10) 
+ 
+ 
+ Other operating costs and expenses—affiliate 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 2 
+ 
+ 
+ (1) 
+ 
+ 
+ Total operating costs and expenses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 7,052 
+ 
+ 
+ 5,424 
+ 
+ 
+ 1,628 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Income from operations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3,706 
+ 
+ 
+ 3,280 
+ 
+ 
+ 426 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other income (expense) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Interest expense, net of capitalized interest 
+ 
+ 
+ 
+ 
+ 
+ 
+ (753) 
+ 
+ 
+ (800) 
+ 
+ 
+ 47 
+ 
+ 
+ Loss on modification or extinguishment of debt 
+ 
+ 
+ 
+ 
+ 
+ 
+ (8) 
+ 
+ 
+ (3) 
+ 
+ 
+ (5) 
+ 
+ 
+ Interest and dividend income 
+ 
+ 
+ 
+ 
+ 
+ 
+ 18 
+ 
+ 
+ 33 
+ 
+ 
+ (15) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other income—affiliate 
+ 
+ 
+ 
+ 
+ 
+ 
+ 24 
+ 
+ 
+ — 
+ 
+ 
+ 24 
+ 
+ 
+ Total other expense 
+ 
+ 
+ 
+ 
+ 
+ 
+ (719) 
+ 
+ 
+ (770) 
+ 
+ 
+ 51 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net income 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 2,987 
+ 
+ 
+ $ 
+ 2,510 
+ 
+ 
+ $ 
+ 477 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Basic and diluted net income per common unit 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 5.17 
+ 
+ 
+ $ 
+ 4.25 
+ 
+ 
+ $ 
+ 0.92 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Volumes loaded and recognized from the Liquefaction Project 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 2024 
+ 
+ 
+ 
+ Variance 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Volumes loaded and recognized as revenues (in TBtu) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,546 
+ 
+ 
+ 1,567 
+ 
+ 
+ 
+ 
+ (21) 
+ 
+ 
+ 
+ 
+ 
+ 2025 vs. 2024 
+ 
+ Net income increased by $477 million during the year ended December 31, 2025 as compared to the same period of 2024 primarily due to $344 million of favorable changes in the fair value of agreements accounted for as derivative instruments and a $199 million increase in revenues, net of cost of natural gas feedstock, from increased Henry Hub pricing. These increases were 
+ 
+ 
+ 38 
+ 
+ Table of Contents 
+ partially offset by a $63 million decrease in revenues, net of natural gas feedstock, from decreased volume of LNG loaded and recognized between the years. The following is an expanded discussion of the significant drivers of the variance in net income by line ITEM. 
+ 
+ Total revenues 
+ 
+ The $2.1 billion increase in total revenues during the year ended December 31, 2025 as compared to the same period of 2024 was primarily due to: 
+ • $2.1 billion increase from higher pricing per MMBtu as a result of increased Henry Hub pricing; partially offset by 
+ • $140 million decrease from lower production volume primarily due to the planned large-scale maintenance activities on two trains at the Liquefaction Project. 
+ 
+ Total operating costs and expenses 
+ 
+ The $1.6 billion increase in total operating costs and expenses during the year ended December 31, 2025 as compared to the same period of 2024 was primarily attributable to: 
+ • $1.9 billion increase in the cost of natural gas feedstock largely due to the increase in U.S. natural gas prices; and 
+ • $55 million increase in operating and maintenance expense (including affiliate and related party), mainly as a result of the planned large-scale maintenance activities on two trains at the Liquefaction Project; partially offset by 
+ • $344 million of gains from changes in fair value of agreements accounted for as derivative instruments included in cost of sales, largely due to favorable changes on our IPM agreements from the narrowing of global and U.S. domestic natural gas spreads and the effect of relative change in volatilities of applicable global and U.S. domestic natural gas prices, partially offset by changes in market-based locational forward price differentials for North American natural gas deliveries. 
+ 
+ Total other expense 
+ The $51 million favorable variance in total other expense during the year ended December 31, 2025 as compared to the same period of 2024 was primarily attributable to: 
+ • $47 million decrease in interest expense, net of capitalized interest, substantially all due to a decrease in gross interest cost because of a decrease in total indebtedness as debt continued to be paid down as part of Cheniere’s long-term capital allocation plan — see Note 1 0 — Debt for our outstanding debt balances as of December 31, 2025 and 2024. 
+ 
+ Significant factors affecting our results of operations 
+ Below are significant factors that affect our results of operations. 
+ 
+ Gains and losses on derivative instruments 
+ 
+ Derivative instruments, which we use to manage certain risks, are reported at fair value in our Consolidated Financial Statements, unless they satisfy criteria for, and we elect, the normal purchases and normal sales exception which applies the accrual method of accounting, as described in Note 3—Summary of Significant Accounting Policies of our Notes to Consolidated Financial Statements. For commodity derivative instruments, including those related to our IPM agreements, the underlying LNG sales being economically hedged are accounted for under the accrual method of accounting, whereby revenues expected to be derived from the future LNG sales are recognized only upon delivery or realization of the underlying transaction. Notwithstanding the operational intent to mitigate risk exposure over time, the recognition of derivative instruments at fair value has the effect of recognizing gains or losses relating to future period exposure, and given the significant volumes, long-term duration and volatility in price basis for certain of our derivative contracts, the use of derivative instruments may result in continued volatility of our results of operations based on changes in market pricing, counterparty credit risk and other relevant factors that may be outside of our control. For example, as described in Note 7—Derivative Instruments of our Notes to Consolidated Financial Statements, the fair value of the Liquefaction Supply Derivatives incorporates, as applicable, market participant-based assumptions pertaining to certain contractual uncertainties, including those related to the availability of 
+ 
+ 
+ 39 
+ 
+ Table of Contents 
+ market information for delivery points, which may require future development of infrastructure, as well as the timing of satisfaction of certain events or development of infrastructure to support natural gas gathering and transport. We may recognize changes in fair value through earnings that could significantly impact our results of operations if and when such uncertainties are resolved. 
+ 
+ Additionally, see Items 1. and 2. Business and Properties for discussion of our business seasonality. 
+ 
+ 
+ Liquidity and Capital Resources 
+ 
+ The following information describes our ability to generate and obtain adequate amounts of cash to meet our requirements in the short term and the long term. In the short term, we expect to meet our cash requirements using operating cash flows and available liquidity, consisting of cash and cash equivalents, restricted cash and cash equivalents and available commitments under our credit facilities. Additionally, we expect to meet our long term cash requirements by using operating cash flows and other future potential sources of liquidity, which may include debt offerings by us or our subsidiaries and equity offerings by us. 
+ 
+ The table below provides a summary of our available liquidity (in millions). Future material sources of liquidity are discussed below. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ December 31, 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cash and cash equivalents 
+ $ 
+ 182 
+ 
+ 
+ 
+ 
+ 
+ Restricted cash and cash equivalents designated for the Liquefaction Project 
+ 19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Available commitments under our credit facilities (1): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SPL Revolving Credit Facility 
+ 824 
+ 
+ 
+ 
+ 
+ 
+ CQP Revolving Credit Facility 
+ 1,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total available commitments under our credit facilities 
+ 1,824 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total available liquidity 
+ $ 
+ 2,025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) Available commitments represent total commitments less loans outstanding and letters of credit issued under each of our credit facilities as of December 31, 2025. See Note 10—Debt of our Notes to Consolidated Financial Statements for additional information on our credit facilities and other debt instruments. 
+ 
+ Our liquidity position subsequent to December 31, 2025 will be driven by future sources of liquidity and future cash requirements, as further discussed under the caption Future Sources and Uses of Liquidity . 
+ 
+ Although our sources and uses of cash are presented below from a consolidated standpoint, we and our subsidiary SPL operate with independent capital structures. Certain restrictions or requirements under debt instruments executed by SPL limit its ability to distribute cash, including the following: 
+ • SPL is required to deposit all cash received into restricted cash and cash equivalents accounts under certain of their debt agreements. The usage or withdrawal of such cash is restricted to the payment of liabilities related to the Liquefaction Project and other restricted payments. In addition, SPL’s operating costs are managed by subsidiaries of Cheniere under affiliate agreements, which may require SPL to advance cash to the respective affiliates; and 
+ • SPL is restricted by affirmative and negative covenants included in certain of its debt agreements in its ability to make certain payments, including distributions, unless specific requirements are satisfied. See Note 10—Debt of our Notes to Consolidated Financial Statements for additional information on these covenants. 
+ Despite the restrictions noted above, we believe that sufficient flexibility exists to enable each independent capital structure to meet its currently anticipated cash requirements. The sources of liquidity at SPL primarily fund the cash requirements of SPL, and any remaining liquidity not subject to restriction, as supplemented by liquidity provided by SPLNG, is available to enable CQP to meet its cash requirements. 
+ 
+ 
+ 40 
+ 
+ Table of Contents 
+ Supplemental Guarantor Information 
+ 
+ Certain debt obligations of CQP (the “Guaranteed Obligations” ), consisting of the $1.5 billion of 4.500% Senior Notes due 2029, $1.5 billion of 4.000% Senior Notes due 2031, $1.2 billion of 3.25% Senior Notes due 2032, $1.4 billion of 5.950% Senior Notes due 2033, $1.2 billion of 5.750% Senior Notes due 2034 and $1.0 billion of 5.550% Senior Notes due 2035 (collectively, the “CQP Senior Notes” ) are jointly and severally guaranteed by certain subsidiaries of CQP (each a “Guarantor” and collectively, the “CQP Guarantors” ), as prescribed within the respective debt agreements governing such Guaranteed Obligation. 
+ The CQP Guarantors’ guarantees of such Guaranteed Obligations are full and unconditional, subject to certain release provisions including, as applicable, (1) the sale, disposition or transfer (by merger, consolidation or otherwise) of the capital stock or all or substantially all of the assets of a Guarantor, (2) the liquidation or dissolution of a Guarantor, (3) following the release of a Guarantor from another guarantee that resulted in the creation of its guarantee of the Guaranteed Obligation and (4) the legal defeasance or satisfaction and discharge of obligations under the indenture governing the CQP Senior Notes. In the event of a default in payment of the principal or interest by us, whether at maturity of the respective debt obligation or by declaration of acceleration, call for redemption or otherwise, legal proceedings may be instituted against the CQP Guarantors to enforce the guarantee. 
+ The Guaranteed Obligations contain affirmative and negative covenants that are customary for the respective debt instrument, including, with limited exceptions, restrictions on CQP’s and the CQP Guarantors’ ability to incur additional indebtedness and/or liens, enter into hedging arrangements and/or engage in transactions with affiliates. The Guaranteed Obligations also include events of default that are customary for the respective debt instrument, which are subject to customary grace periods and materiality standards. 
+ 
+ The rights of holders of the Guaranteed Obligations against the CQP Guarantors may be limited under the U.S. Bankruptcy Code or state fraudulent transfer or conveyance law. Each guarantee contains a provision intended to limit the Guarantor’s liability to the maximum amount that it could incur without causing the incurrence of obligations under its guarantee to be a fraudulent conveyance or transfer under U.S. federal or state law. However, there can be no assurance as to what standard a court will apply in making a determination of the maximum liability of the CQP Guarantors. Moreover, this provision may not be effective to protect the guarantee from being voided under fraudulent conveyance laws. There is a possibility that the entire guarantee may be set aside, in which case the entire liability may be extinguished. 
+ 
+ The following tables include summarized financial information of CQP (the “Parent Issuer” ) and the CQP Guarantors (together with the Parent Issuer, the “Obligor Group” ) on a combined basis. Investments in and equity in the earnings of SPL and, subject to certain conditions governing its guarantee, certain other subsidiaries of CQP (collectively with SPL, the “Non-Guarantors” ), which are not currently members of the Obligor Group, have been excluded. Intercompany balances and transactions between entities in the Obligor Group have been eliminated. Although the creditors of the Obligor Group have no claim against the Non-Guarantors, the Obligor Group may gain access to the assets of the Non-Guarantors upon bankruptcy, liquidation or reorganization of the Non-Guarantors due to its investment in these entities. However, such claims to the assets of the Non-Guarantors would be subordinated to any claims by the Non-Guarantors’ creditors, including trade creditors. 
+ 
+ 
+ 41 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Summarized Balance Sheets (in millions) 
+ 
+ December 31, 
+ 
+ December 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2025 
+ 
+ 2024 
+ 
+ ASSETS 
+ 
+ 
+ 
+ 
+ 
+ Current assets 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Current assets, net 
+ 
+ $ 
+ 226 
+ 
+ 
+ $ 
+ 312 
+ 
+ 
+ Current assets—affiliate 
+ 
+ 146 
+ 
+ 
+ 103 
+ 
+ 
+ Current assets with Non-Guarantors 
+ 
+ 56 
+ 
+ 
+ 53 
+ 
+ 
+ Total current assets 
+ 
+ 428 
+ 
+ 
+ 468 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Non-current assets, net 
+ 
+ 2,851 
+ 
+ 
+ 3,034 
+ 
+ 
+ Total assets 
+ 
+ $ 
+ 3,279 
+ 
+ 
+ $ 
+ 3,502 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LIABILITIES 
+ 
+ 
+ 
+ 
+ 
+ Current liabilities 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Current liabilities 
+ 
+ $ 
+ 154 
+ 
+ 
+ $ 
+ 148 
+ 
+ 
+ Current liabilities—affiliate 
+ 
+ 50 
+ 
+ 
+ 57 
+ 
+ 
+ Current liabilities due to Non-Guarantors 
+ 
+ 151 
+ 
+ 
+ 120 
+ 
+ 
+ Total current liabilities 
+ 
+ 355 
+ 
+ 
+ 325 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Long-term debt, net of premium, discount and debt issuance costs 
+ 
+ 7,724 
+ 
+ 
+ 6,731 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other non-current liabilities 
+ 
+ 130 
+ 
+ 
+ 141 
+ 
+ 
+ Non-current liabilities—affiliate 
+ 
+ 18 
+ 
+ 
+ 18 
+ 
+ 
+ Total liabilities 
+ 
+ $ 
+ 8,227 
+ 
+ 
+ $ 
+ 7,215 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Summarized Statement of Operations (in millions) 
+ 
+ Year Ended December 31, 2025 
+ 
+ 
+ 
+ 
+ 
+ Revenues 
+ 
+ $ 
+ 200 
+ 
+ 
+ 
+ Revenues from Non-Guarantors 
+ 
+ 557 
+ 
+ 
+ Total revenues 
+ 
+ 757 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating costs and expenses 
+ 
+ 256 
+ 
+ 
+ Operating costs and expenses—affiliate 
+ 
+ 214 
+ 
+ 
+ 
+ Operating costs and expenses—Non-Guarantors 
+ 
+ 1 
+ 
+ 
+ Total operating costs and expenses 
+ 
+ 471 
+ 
+ 
+ 
+ 
+ 
+ 
+ Income from operations 
+ 
+ 286 
+ 
+ 
+ Net loss 
+ 
+ $ 
+ (70) 
+ 
+ 
+ 
+ Future Sources and Uses of Liquidity 
+ 
+ The following discussion of our future sources and uses of liquidity includes estimates that reflect management’s assumptions and currently known market conditions and other factors as of December 31, 2025. Estimates are not guarantees of future performance and actual results may differ materially as a result of a variety of factors described in this annual report on Form 10-K. 
+ 
+ Future Sources of Liquidity under Executed Contracts 
+ 
+ We expect future material sources of liquidity to be derived from our long-term customer arrangements and structured cash flows under our SPAs. As described in Items 1. and 2. Business and Properties , these contracts with creditworthy counterparties form the foundation of our business and provide us with significant, stable, long-term cash flows. 
+ 
+ We are contractually entitled to significant future consideration contracted under our long-term SPAs that has not yet been recognized as revenue. The timing of revenue recognition under GAAP may not align with cash receipts, although we do not consider the timing difference to be significant to our future liquidity. In addition, a significant portion of this future 
+ 
+ 
+ 42 
+ 
+ Table of Contents 
+ consideration is subject to variability as discussed more specifically below. We have estimated revenues under agreements with terms dependent on project milestone dates based on the estimated dates as of December 31, 2025. The following table summarizes our estimate of revenues to be received from executed long-term SPAs as of December 31, 2025 (in billions): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Estimated Revenues Under Executed SPAs by Period (1) (2) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 2027 - 2030 
+ 
+ Thereafter 
+ 
+ Total 
+ 
+ LNG revenues (fixed fees) 
+ 
+ $ 
+ 3.7 
+ 
+ 
+ $ 
+ 13.7 
+ 
+ 
+ $ 
+ 24.1 
+ 
+ 
+ $ 
+ 41.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LNG revenues (variable fees) (3) 
+ 
+ 6.2 
+ 
+ 
+ 21.6 
+ 
+ 
+ 43.4 
+ 
+ 
+ 71.2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ $ 
+ 9.9 
+ 
+ 
+ $ 
+ 35.3 
+ 
+ 
+ $ 
+ 67.5 
+ 
+ 
+ $ 
+ 112.7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) LNG revenues exclude revenues from contracts with original expected durations of one year or less. 
+ (2) LNG revenues (including $0.5 billion and $1.0 billion of fixed fees and variable fees, respectively, from affiliates) exclude the SPAs with Cheniere Marketing associated with our IPM agreements, for which pricing is linked to international natural gas prices. 
+ (3) LNG revenues (variable fees) reflect the assumption of delivery of all contractual volumes, irrespective of any contractual right of non-delivery. LNG revenues (variable fees) are based on estimated forward prices and basis spreads as of December 31, 2025. 
+ 
+ Under our SPAs and IPM agreements currently in effect, we have contracted approximately 85% of the total anticipated production through the mid-2030s from our liquefaction capacity that is currently in construction or operation. Additionally, there are SPAs that Cheniere Marketing currently holds that may be novated to us in the future. As described in General , under our SPAs, customers purchase LNG on an FOB basis generally for a price consisting of a fixed fee per MMBtu of LNG (a portion of which is subject to annual adjustment for inflation) plus a variable fee per MMBtu of LNG generally equal to 115% of Henry Hub. The variable fees under our SPAs were generally sized with the intention to cover the supply and transportation of natural gas and the liquefaction fuel consumed to produce the LNG to be sold under each such SPA, thus limiting our exposure to future U.S. natural gas price increases. Certain customers may elect to cancel or suspend deliveries of LNG cargoes, with advance notice as governed by each respective SPA, in which case the customers would still be required to pay the fixed fee with respect to the contracted volumes that are not delivered as a result of such cancellation or suspension. 
+ 
+ The table above excludes an SPA with Cheniere Marketing under which we sell LNG at pricing linked to the same global gas market prices as one of our IPM agreements. The IPM agreements, under which we pay for natural gas feedstock based on global gas prices less liquefaction fees and certain costs incurred by us, generate a take-or-pay style fixed liquefaction fee when viewed in conjunction with the associated SPA. As of December 31, 2025, we expect to generate liquidity from the approximately 531 TBtu of LNG yet to be delivered under an SPA with Cheniere Marketing, which has a remaining fixed term of 12 years, and we had not yet executed an SPA for the approximately 669 TBtu associated with our other IPM agreement. 
+ 
+ Additional Future Sources of Liquidity 
+ 
+ Available Commitments under Credit Facilities 
+ 
+ As of December 31, 2025, we had $1.8 billion in available commitments under our credit facilities, as detailed earlier in the table summarizing our available liquidity, subject to compliance with the applicable covenants, to potentially meet liquidity needs. Our credit facilities mature in 2028. 
+ 
+ Disciplined Accretive Growth 
+ 
+ Our significant land position at the Sabine Pass LNG Terminal provides potential development and investment opportunities for further liquefaction capacity expansion at a strategically advantaged location with proximity to pipeline infrastructure and resources. In June 2025, certain of our subsidiaries updated the SPL Expansion Project’s FERC application, originally filed in February 2024, to reflect a two-phased project, inclusive of three liquefaction trains and supporting infrastructure, maintaining an expected total peak production capacity of up to approximately 20 mtpa of LNG, inclusive of estimated debottlenecking opportunities. The development of this site or other projects, including infrastructure projects in support of natural gas supply and LNG demand, will require, among other things, acceptable commercial and financing arrangements before a positive FID is made. 
+ 
+ 
+ 
+ 43 
+ 
+ Table of Contents 
+ Future Cash Requirements for Operations and Capital Expenditures under Executed Contracts 
+ 
+ We are committed to make future cash payments for operations and capital expenditures pursuant to certain of our contracts. The following table summarizes our estimate of material cash requirements for operations related to our core operations under executed contracts as of December 31, 2025 (in billions): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Estimated Payments Due Under Executed Contracts by Period (1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 2027 - 2030 
+ 
+ Thereafter 
+ 
+ Total 
+ 
+ Purchase obligations (2): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Natural gas supply agreements excluding our IPM agreements (3) (4) 
+ 
+ $ 
+ 4.4 
+ 
+ 
+ $ 
+ 7.5 
+ 
+ 
+ $ 
+ 0.5 
+ 
+ 
+ $ 
+ 12.4 
+ 
+ 
+ Natural gas transportation and storage service agreements 
+ 
+ 0.3 
+ 
+ 
+ 1.1 
+ 
+ 
+ 1.8 
+ 
+ 
+ 3.2 
+ 
+ 
+ Other purchase obligations (5) 
+ 
+ 0.1 
+ 
+ 
+ 0.4 
+ 
+ 
+ 1.0 
+ 
+ 
+ 1.5 
+ 
+ 
+ Leases (6) 
+ 
+ — 
+ 
+ 
+ 0.1 
+ 
+ 
+ 0.1 
+ 
+ 
+ 0.2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ $ 
+ 4.8 
+ 
+ 
+ $ 
+ 9.1 
+ 
+ 
+ $ 
+ 3.4 
+ 
+ 
+ $ 
+ 17.3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) Agreements in force as of December 31, 2025 that have terms dependent on project milestone dates are based on the estimated dates as of December 31, 2025. 
+ (2) Purchase obligations consist of agreements to purchase goods or services that are enforceable and legally binding that specify fixed or minimum quantities to be purchased. We include contracts for which we have an early termination option if the option is not currently expected to be exercised. We include contracts with unsatisfied contractual conditions if the conditions are currently expected to be met. 
+ (3) Natural gas supply agreements exclude the IPM agreements, which, as described in Future Sources of Liquidity under Executed Contracts , are structured to generate a fixed margin when viewed in conjunction with the associated SPAs with Cheniere Marketing . 
+ (4) Pricing of natural gas supply agreements is based on estimated forward prices and basis spreads as of December 31, 2025. 
+ (5) Other purchase obligations include $1.3 billion of purchase obligations to affiliates under service agreements. 
+ (6) Leases include payments under operating leases and finance leases. Payments during future renewal option periods that are exercisable at our sole discretion are included only to the extent that the option is believed to be reasonably certain to be exercised. 
+ 
+ Natural Gas Supply, Transportation and Storage Service Agreements 
+ 
+ Excluding IPM agreements, we have secured approximately 3,406 TBtu of natural gas feedstock for the Liquefaction Project through long-term natural gas supply agreements with remaining fixed terms of up to 6 years. As of December 31, 2025, we have secured approximately 73% of the natural gas supply required to support the total forecasted production capacity of the Liquefaction Project during 2026, excluding the 3% of which has been secured under our IPM agreements. Natural gas supply secured decreases as a percentage of forecasted production capacity beyond 2026. As further described in Future Sources of Liquidity under Executed Contracts , the pricing structure of our SPAs often incorporates a variable fee per MMBtu of LNG generally equal to 115% of Henry Hub, thus limiting our net exposure to future increases in natural gas prices. 
+ 
+ To ensure that we are able to transport natural gas feedstock to the Sabine Pass LNG Terminal, we have transportation precedent and other agreements to secure firm pipeline transportation capacity from CTPL and third party interstate and intrastate pipeline companies. We have also entered into firm storage services agreements with third parties to assist in managing variability in natural gas needs for the Liquefaction Project. 
+ 
+ Capital Expenditures 
+ 
+ Although we do not currently have any material capital expenditures under executed contracts, we expect to incur ongoing capital expenditures to maintain our facilities and other assets, as well as to optimize our existing assets and purchase new assets that are intended to grow our productive capacity. See Disciplined Accretive Growth section for further discussion. 
+ 
+ 
+ 
+ 44 
+ 
+ Table of Contents 
+ Leases 
+ 
+ Our obligations under our lease arrangements primarily consist of leases for the use of tug vessels and land sites. 
+ Additional Future Cash Requirements for Operations and Capital Expenditures 
+ 
+ Operational Services 
+ 
+ We rely on our general partner to manage all aspects of the development, construction, operation and maintenance of the Sabine Pass LNG Terminal and to conduct our business. Because our general partner has no employees, it relies on subsidiaries of Cheniere to provide, through services agreements our subsidiaries have with them, the personnel necessary to allow it to meet its management obligations to us and our subsidiaries. As described in Note 1 3—Related Part y Transactions , our payment structures under the services agreements primarily consist of cost reimbursement, plus a compensating fee based on a fixed amount (indexed for inflation) per Train in service. Prior to the substantial completion of a Train, a compensating fee is charged based on a percentage of the capital expenditures of the Train under construction. 
+ 
+ As of December 31, 2025, Cheniere and its subsidiaries had 1,717 full-time employees, including 508 employees who directly supported the Sabine Pass LNG Terminal operations. 
+ 
+ Disciplined Accretive Growth 
+ 
+ The FID of any expansion projects, including the SPL Expansion Project, will result in additional cash requirements to fund the construction and operations of such projects in excess of our current contractual obligations under executed contracts discussed above, although expansion may be designed to leverage shared infrastructure to reduce the incremental costs of any potential expansion. 
+ 
+ Future Cash Requirements for Financing under Executed Contracts 
+ 
+ We are committed to make future cash payments for financing pursuant to certain of our contracts. The following table summarizes our estimate of material cash requirements for financing under executed contracts as of December 31, 2025 (in billions): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Estimated Payments Due Under Executed Contracts by Period (1) (2) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2026 
+ 
+ 
+ 2027 - 2030 
+ 
+ Thereafter 
+ 
+ Total 
+ 
+ Debt 
+ 
+ $ 
+ 0.3 
+ 
+ 
+ $ 
+ 6.9 
+ 
+ 
+ $ 
+ 7.4 
+ 
+ 
+ $ 
+ 14.6 
+ 
+ 
+ Interest payments 
+ 
+ 0.7 
+ 
+ 
+ 2.1 
+ 
+ 
+ 1.1 
+ 
+ 
+ 3.9 
+ 
+ 
+ Total 
+ 
+ $ 
+ 1.0 
+ 
+ 
+ $ 
+ 9.0 
+ 
+ 
+ $ 
+ 8.5 
+ 
+ 
+ $ 
+ 18.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) Debt and interest payments are based on the total debt balance, scheduled contractual maturities and fixed or estimated forward interest rates in effect at December 31, 2025. Debt and interest payments do not contemplate repurchases, repayments and retirements that we may make prior to contractual maturity. 
+ (2) Table excludes payments under finance leases, which are included in Future Cash Requirements for Operations and Capital Expenditures under Executed Contracts table above. 
+ 
+ Debt 
+ 
+ As of December 31, 2025, our debt complex was comprised of senior notes with an aggregate outstanding principal balance of $14.6 billion and credit facilities with no outstanding loan balances. As of December 31, 2025, we and SPL were in compliance with all covenants related to their respective debt agreements. Further discussion of our debt obligations, including the restrictions imposed by these arrangements, can be found in Note 10—Debt of our Notes to Consolidated Financial Statements. 
+ 
+ Interest 
+ 
+ As of December 31, 2025, our senior notes had a weighted average contractual interest rate of 4.73%. Interest on borrowings under our credit facilities is indexed to SOFR, and we are subject to interest rates on outstanding balances, 
+ 
+ 
+ 45 
+ 
+ Table of Contents 
+ commitment fees on undrawn balances and letter of credit fees on issued letters of credit. We had $176 million aggregate amount of issued letters of credit under our credit facilities as of December 31, 2025. Further details of our credit facilities can be found in Note 10—Debt of our Notes to Consolidated Financial Statements. 
+ 
+ Additional Future Cash Requirements for Financing 
+ 
+ CQP Distribution 
+ 
+ Our partnership agreement requires that, within 45 days after the end of each quarter, we distribute all of our available cash, which, as defined in our partnership agreement, consists of cash on hand at the end of a quarter less the amount of any reserves established by our general partner. All distributions paid to date have been made from accumulated operating surplus. 
+ 
+ Capital Allocation Plan 
+ 
+ In June 2024, the board of directors of Cheniere approved an updated comprehensive long-term capital allocation plan, which may involve the repayment, redemption or repurchase, on the open market or otherwise, of debt, including senior notes of CQP and SPL. 
+ 
+ 
+ Sources and Uses of Cash 
+ 
+ The following table summarizes the sources and uses of our cash, cash equivalents and restricted cash and cash equivalents (in millions). The table presents capital expenditures on a cash basis; therefore, these amounts differ from the amounts of capital expenditures, including accruals, which are referred to elsewhere in this report. Additional discussion of these items follows the table. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ 
+ 2025 
+ 
+ 2024 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net cash provided by operating activities 
+ $ 
+ 2,768 
+ 
+ 
+ $ 
+ 2,968 
+ 
+ 
+ 
+ 
+ Net cash used in investing activities 
+ (204) 
+ 
+ 
+ (162) 
+ 
+ 
+ 
+ 
+ Net cash used in financing activities 
+ (2,742) 
+ 
+ 
+ (3,058) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net decrease in cash, cash equivalents and restricted cash and cash equivalents 
+ $ 
+ (178) 
+ 
+ 
+ $ 
+ (252) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating Cash Flows 
+ 
+ The $200 million decrease between the periods was primarily related to decreased cash flows attributed to working capital, mainly due to differences in timing of cash collections from the sale of LNG cargoes, which was partially offset by higher net cash inflows from LNG sales, as explained above in Results of Operations . 
+ 
+ Investing Cash Flows 
+ 
+ Cash outflows for property, plant and equipment during the years ended December 31, 2025 and 2024 were primarily related to optimization and other site improvement projects. 
+ 
+ Financing Cash Flows 
+ 
+ The following table summarizes our financing activities (in millions): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ 
+ 
+ 2025 
+ 
+ 2024 
+ 
+ Proceeds from issuances of debt and borrowings 
+ 
+ $ 
+ 1,262 
+ 
+ 
+ $ 
+ 1,228 
+ 
+ 
+ Redemptions and repayments of debt 
+ 
+ (1,917) 
+ 
+ 
+ (2,030) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Distributions 
+ 
+ (2,064) 
+ 
+ 
+ (2,235) 
+ 
+ 
+ Other 
+ 
+ (23) 
+ 
+ 
+ (21) 
+ 
+ 
+ Net cash used in financing activities 
+ 
+ $ 
+ (2,742) 
+ 
+ 
+ $ 
+ (3,058) 
+ 
+ 
+ 
+ 
+ 46 
+ 
+ Table of Contents 
+ Proceeds from Issuances of Debt and Borrowings 
+ 
+ The following table shows the proceeds from issuances of debt and borrowings, including intra-year activity (in millions): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ 
+ 
+ 2025 
+ 
+ 2024 
+ 
+ CQP: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5.750% Senior Notes due 2034 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ 1,198 
+ 
+ 
+ 
+ 5.550% Senior Notes due 2035 
+ 
+ 997 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SPL: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SPL Revolving Credit Facility 
+ 
+ 265 
+ 
+ 
+ 30 
+ 
+ 
+ Total proceeds from issuances of debt and borrowings 
+ 
+ $ 
+ 1,262 
+ 
+ 
+ $ 
+ 1,228 
+ 
+ 
+ Debt Redemptions and Repayments 
+ 
+ The following table shows the redemptions and repayments of debt, including intra-year activity (in millions): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ 
+ 
+ 2025 
+ 
+ 2024 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SPL: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5.750% Senior Notes due 2024 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ (300) 
+ 
+ 
+ 
+ 5.625% Senior Notes due 2025 
+ 
+ (300) 
+ 
+ 
+ (1,700) 
+ 
+ 
+ 
+ 5.875% Senior Notes due 2026 
+ 
+ (1,300) 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 4.746% weighted average rate Senior Notes due 2037 
+ 
+ (52) 
+ 
+ 
+ — 
+ 
+ 
+ SPL Revolving Credit Facility 
+ 
+ (265) 
+ 
+ 
+ (30) 
+ 
+ 
+ Total redemptions and repayments of debt 
+ 
+ $ 
+ (1,917) 
+ 
+ 
+ $ 
+ (2,030) 
+ 
+ 
+ Cash Distributions to Unitholders 
+ 
+ Our partnership agreement requires that, within 45 days after the end of each quarter, we distribute all of our available cash (as defined in our partnership agreement). Our available cash is our cash on hand at the end of a quarter less the amount of any reserves established by our general partner. All distributions paid to date have been made from accumulated operating surplus. 
+ The following provides a summary of distributions paid by us during the years ended December 31, 2025 and 2024: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Distribution (in millions) 
+ 
+ Date Paid 
+ 
+ Period Covered by Distribution 
+ 
+ Distribution Per Common Unit 
+ 
+ 
+ 
+ Common Units 
+ 
+ 
+ 
+ General Partner Units 
+ 
+ Incentive Distribution Rights 
+ 
+ November 14, 2025 
+ 
+ July 1 - September 30, 2025 
+ 
+ $ 
+ 0.830 
+ 
+ 
+ 
+ 
+ $ 
+ 402 
+ 
+ 
+ 
+ 
+ $ 
+ 10 
+ 
+ 
+ $ 
+ 108 
+ 
+ 
+ August 14, 2025 
+ 
+ April 1 - June 30, 2025 
+ 
+ 0.820 
+ 
+ 
+ 
+ 
+ 397 
+ 
+ 
+ 
+ 
+ 10 
+ 
+ 
+ 104 
+ 
+ 
+ May 15, 2025 
+ 
+ January 1 - March 31, 2025 
+ 
+ 0.820 
+ 
+ 
+ 
+ 
+ 397 
+ 
+ 
+ 
+ 
+ 10 
+ 
+ 
+ 104 
+ 
+ 
+ February 14, 2025 
+ 
+ October 1 - December 31, 2024 
+ 
+ 0.820 
+ 
+ 
+ 
+ 
+ 397 
+ 
+ 
+ 
+ 
+ 10 
+ 
+ 
+ 104 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ November 14, 2024 
+ 
+ July 1 - September 30, 2024 
+ 
+ $ 
+ 0.810 
+ 
+ 
+ 
+ 
+ $ 
+ 392 
+ 
+ 
+ 
+ 
+ $ 
+ 10 
+ 
+ 
+ $ 
+ 99 
+ 
+ 
+ August 14, 2024 
+ 
+ April 1 - June 30, 2024 
+ 
+ 0.810 
+ 
+ 
+ 
+ 
+ 392 
+ 
+ 
+ 
+ 
+ 10 
+ 
+ 
+ 99 
+ 
+ 
+ May 15, 2024 
+ 
+ January 1 - March 31, 2024 
+ 
+ 0.810 
+ 
+ 
+ 
+ 
+ 392 
+ 
+ 
+ 
+ 
+ 10 
+ 
+ 
+ 99 
+ 
+ 
+ February 14, 2024 
+ 
+ October 1 - December 31, 2023 
+ 
+ 1.035 
+ 
+ 
+ 
+ 
+ 501 
+ 
+ 
+ 
+ 
+ 14 
+ 
+ 
+ 204 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ In addition, Tug Services distributed $12 million and $13 million during the years ended December 31, 2025 and 2024, respectively, to Cheniere Terminals in accordance with their terminal marine service agreement, which is recognized as part of the distributions to the holder of our general partner interest. Refer to Note 13—Related Party Transactions of our Notes to Consolidated Financial Statements for further discussion of this agreement. 
+ 
+ 
+ 
+ 47 
+ 
+ Table of Contents 
+ On January 28, 2026, with respect to the fourth quarter of 2025, we declared a cash distribution of $0.830 per common unit to unitholders of record as of February 9, 2026, and the related general partner distribution, which was paid on February 13, 2026. These distributions consist of a base amount of $0.775 per unit and a variable amount of $0.055 per unit. 
+ 
+ 
+ Summary of Critical Accounting Estimates 
+ 
+ The preparation of our Consolidated Financial Statements in conformity with GAAP requires management to make certain estimates and assumptions that affect the amounts reported in the Consolidated Financial Statements and the accompanying notes. Management evaluates its estimates and related assumptions regularly, including those related to the valuation of derivative instruments. Changes in facts and circumstances or additional information may result in revised estimates, and actual results may differ from these estimates. Management considers the following to be its most critical accounting estimates that involve significant judgment. 
+ 
+ Fair Value of Level 3 Liquefaction Supply Derivatives 
+ 
+ Our derivative instruments are recorded at fair value unless they satisfy criteria for, and we elect, the normal purchases and normal sales exception, as described in Note 3—Summary of Significant Accounting Policies of our Notes to Consolidated Financial Statements. We record changes in the fair value of our derivative positions through earnings based on the value for which the derivative instrument could be exchanged between willing parties. Valuation of our liquefaction supply derivative contracts is often developed through the use of internal models which includes significant unobservable inputs representing Level 3 fair value measurements as further described in Note 3—Summary of Significant Accounting Policies of our Notes to Consolidated Financial Statements. In instances where observable data is unavailable, consideration is given to the assumptions that market participants may use in valuing the asset or liability. To the extent valued using an option pricing model, we consider the future prices of energy units for unobservable periods to be a significant unobservable input to estimated net fair value. In estimating the future prices of energy units, we make judgments about market risk related to liquidity of commodity indices and volatility utilizing available market data. Changes in facts and circumstances or additional information may result in revised estimates and judgments, and actual results may differ from these estimates and judgments. We derive our volatility assumptions based on observed historical settled global LNG market pricing or accepted proxies for global LNG market pricing as well as settled domestic natural gas pricing. Such volatility assumptions also contemplate, as of the balance sheet date, observable forward curve data of such indices, as well as evolving available industry data and independent studies. In developing our volatility assumptions, we acknowledge that the global LNG industry is inherently influenced by events such as unplanned supply constraints, geopolitical incidents, unusual climate events including drought and uncommonly mild, by historical standards, winters and summers, and real or threatened disruptive operational impacts to global energy infrastructure. Our current estimate of volatility does not exclude the impact of otherwise rare events unless we believe market participants would exclude such events on account of their assertion that those events were specific to our company and deemed within our control. 
+ 
+ Our fair value estimates incorporate market participant-based assumptions pertaining to applicable contractual uncertainties, including those related to the availability of market information for delivery points, as well as the timing of both satisfaction of contractual events or states of affairs and delivery commencement. We may recognize changes in fair value through earnings that could be significant to our results of operations if and when such uncertainties are resolved. 
+ 
+ Additionally, the valuation of certain liquefaction supply derivatives requires significant judgment in estimating underlying forward commodity curves due to periods of unobservability or limited liquidity. Such valuations are more susceptible to variability particularly when markets are volatile. Provided below are the changes in fair value from valuation of liquefaction supply derivatives valued through the use of internal models which incorporate significant unobservable inputs for the years ended December 31, 2025 and 2024 (in millions). The changes in fair value shown are limited to instruments still held at the end of each respective period. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ 
+ 
+ 2025 
+ 
+ 2024 
+ 
+ 
+ Favorable changes in fair value of liquefaction supply derivatives still held at the end of the period 
+ 
+ $ 
+ 620 
+ 
+ 
+ $ 
+ 184 
+ 
+ 
+ 
+ 
+ 48 
+ 
+ Table of Contents 
+ The changes in fair value on instruments held at the end of both years are primarily attributed to a significant variance in the estimated and observable forward international LNG commodity prices on our IPM agreements in effect during the years ended December 31, 2025 and 2024. 
+ 
+ The estimated fair value of level 3 liquefaction supply derivatives recognized in our Consolidated Balance Sheets as of December 31, 2025 and 2024 amounted to a liability of $500 million and $1.3 billion, respectively. 
+ 
+ The ultimate fair value of our derivative instruments is uncertain, and we believe that it is reasonably possible that a material change in the estimated fair value could occur in the near future, particularly as it relates to commodity prices impacting the valuation of our liquefaction supply derivatives, given the level of volatility to which such prices are subjected. See ITEM 7A. Quantitative and Qualitative Disclosures About Market Risk for further analysis of the sensitivity of the fair value of our derivatives to hypothetical changes in underlying prices. 
+ 
+ 
+ Recent Accounting Standards 
+ 
+ For a summary of recently issued accounting standards, see Note 3—Summary of Significant Accounting Policies of our Notes to Consolidated Financial Statements. 
+ 
+ 

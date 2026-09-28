@@ -1,0 +1,4587 @@
+ ITEM 7. 
+ 
+ Management’s Discussion and Analysis of Financial Condition and Results of Operations. 
+ 
+ INTRODUCTION 
+ This section provides management’s discussion of the financial condition, changes in financial condition and results of operations of Atmos Energy Corporation and its consolidated subsidiaries with specific information on results of operations and liquidity and capital resources. It includes management’s interpretation of our financial results, the factors affecting these results, the major factors expected to affect future operating results and future investment and financing plans. This discussion should be read in conjunction with our consolidated financial statements and notes thereto. 
+ Several factors exist that could influence our future financial performance, some of which are described in ITEM 1A above, “Risk Factors”. They should be considered in connection with evaluating forward-looking statements contained in this report or otherwise made by or on behalf of us since these factors could cause actual results and conditions to differ materially from those set out in such forward-looking statements. 
+ Cautionary Statement for the Purposes of the Safe Harbor under the Private Securities Litigation Reform Act of 1995 
+ The statements contained in this Annual Report on Form 10-K may contain “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934. All statements other than statements of historical fact included in this Report are forward-looking statements made in good faith by us and are intended to qualify for the safe harbor from liability established by the Private Securities Litigation Reform Act of 1995. When used in this Report, or any other of our documents or oral presentations, the words “anticipate”, “believe”, “estimate”, “expect”, “forecast”, “goal”, “intend”, “objective”, “plan”, “projection”, “seek”, “strategy” or similar words are intended to identify forward-looking statements. Such forward-looking statements are subject to risks and uncertainties that could cause actual results to differ materially from those expressed or implied in the statements relating to our strategy, operations, markets, services, rates, recovery of costs, availability of gas supply and other factors. These risks and uncertainties include the following: our ability to continue to access the credit markets to satisfy our liquidity requirements; regulatory trends and decisions, including the impact of rate proceedings before various state regulatory commissions; the impact of adverse economic conditions on our customers; the effects of inflation and changes in the availability and price of natural gas; the availability and accessibility of contracted gas supplies, interstate pipeline and/or storage services; market risks beyond our control affecting our risk management activities, including commodity price volatility, counterparty creditworthiness or performance and interest rate risk; the concentration of our distribution, pipeline and storage operations in Texas; increased competition from energy suppliers and alternative forms of energy; adverse weather conditions; the capital-intensive nature of our regulated distribution business; increased costs of providing health care benefits along with pension and postretirement health care benefits and increased funding requirements; the inability to continue to hire, train and retain appropriate personnel; possible increased federal, state and local regulation of the safety of our operations; increased federal regulatory oversight and potential penalties; the impact of environmental regulations on our business; the impact of climate changes or related additional legislation or regulation in the future; the inherent hazards and risks involved in operating our distribution and pipeline and storage businesses; the threat of cyber-attacks or acts of cyber-terrorism that could disrupt our business operations and information technology systems; natural disasters, terrorist activities or other events and other risks and uncertainties discussed herein, all of which are difficult to predict and many of which are beyond our control. Accordingly, while we believe these forward-looking statements to be reasonable, there can be no assurance that they will approximate actual experience or that the expectations derived from them will be realized. Further, we undertake no obligation to update or revise any of our forward-looking statements whether as a result of new information, future events or otherwise. 
+ 
+ 
+ CRITICAL ACCOUNTING POLICIES 
+ Our consolidated financial statements were prepared in accordance with accounting principles generally accepted in the United States. Preparation of these financial statements requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses and the related disclosures of contingent assets and liabilities. We base our estimates on historical experience and various other assumptions that we believe to be reasonable under the circumstances. Actual results may differ from estimates. 
+ Our significant accounting policies are discussed in Note 2 to our consolidated financial statements. The accounting policies discussed below are both important to the presentation of our financial condition and results of operations and require management to make difficult, subjective or complex accounting estimates. Accordingly, these critical accounting policies are reviewed periodically by the Audit Committee of the Board of Directors. 
+ 
+ 
+ 23 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Critical 
+ Accounting Policy 
+ 
+ Summary of Policy 
+ 
+ Factors Influencing Application of the Policy 
+ 
+ 
+ Regulation 
+ 
+ Our regulated distribution and pipeline operations meet the criteria of a cost-based, rate-regulated entity under accounting principles generally accepted in the United States. Accordingly, the financial results for these operations reflect the effects of the ratemaking and accounting practices and policies of the various regulatory commissions to which we are subject. As a result, certain costs that would normally be expensed under accounting principles generally accepted in the United States are permitted to be capitalized or deferred on the balance sheet because it is probable they can be recovered through rates. Further, regulation may impact the period in which revenues or expenses are recognized. The amounts expected to be recovered or recognized are based upon historical experience and our understanding of the regulations. Discontinuing the application of this method of accounting for regulatory assets and liabilities or changes in the accounting for our various regulatory mechanisms could significantly increase our operating expenses as fewer costs would likely be capitalized or deferred on the balance sheet, which could reduce our net income. 
+ 
+ Decisions of regulatory authorities 
+ 
+ Issuance of new regulations or regulatory mechanisms 
+ 
+ Assessing the probability of the recoverability of deferred costs 
+ 
+ Continuing to meet the criteria of a cost-based, rate regulated entity for accounting purposes 
+ 
+ 
+ 
+ Unbilled Revenue 
+ 
+ We follow the revenue accrual method of accounting for regulated distribution segment revenues whereby revenues attributable to gas delivered to customers, but not yet billed under the cycle billing method, are estimated and accrued and the related costs are charged to expense. On occasion, we are permitted to implement new rates that have not been formally approved by our regulatory authorities, which are subject to refund. We recognize this revenue and establish a reserve for amounts that could be refunded based on our experience for the jurisdiction in which the rates were implemented. 
+ 
+ Estimates of delivered sales volumes based on actual tariff information and weather information and estimates of customer consumption and/or behavior 
+ 
+ Estimates of purchased gas costs related to estimated deliveries 
+ 
+ Estimates of uncollectible amounts billed subject to refund 
+ 
+ 
+ 24 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Critical 
+ Accounting Policy 
+ 
+ Summary of Policy 
+ 
+ Factors Influencing Application of the Policy 
+ 
+ 
+ Pension and other postretirement plans 
+ 
+ Pension and other postretirement plan costs and liabilities are determined on an actuarial basis using a September 30 measurement date and are affected by numerous assumptions and estimates including the market value of plan assets, estimates of the expected return on plan assets, assumed discount rates and current demographic and actuarial mortality data. The assumed discount rate and the expected return are the assumptions that generally have the most significant impact on our pension costs and liabilities. The assumed discount rate, the assumed health care cost trend rate and assumed rates of retirement generally have the most significant impact on our postretirement plan costs and liabilities. The discount rate is utilized principally in calculating the actuarial present value of our pension and postretirement obligations and net periodic pension and postretirement benefit plan costs. When establishing our discount rate, we consider high quality corporate bond rates based on bonds available in the marketplace that are suitable for settling the obligations, changes in those rates from the prior year and the implied discount rate that is derived from matching our projected benefit disbursements with currently available high quality corporate bonds. The expected long-term rate of return on assets is utilized in calculating the expected return on plan assets component of our annual pension and postretirement plan costs. We estimate the expected return on plan assets by evaluating expected bond returns, equity risk premiums, asset allocations, the effects of active plan management, the impact of periodic plan asset rebalancing and historical performance. We also consider the guidance from our investment advisors in making a final determination of our expected rate of return on assets. To the extent the actual rate of return on assets realized over the course of a year is greater than or less than the assumed rate, that year’s annual pension or postretirement plan costs are not affected. Rather, this gain or loss reduces or increases future pension or postretirement plan costs over a period of approximately ten to twelve years. The market-related value of our plan assets represents the fair market value of the plan assets, adjusted to smooth out short-term market fluctuations over a five-year period. The use of this methodology will delay the impact of current market fluctuations on the pension expense for the period. We estimate the assumed health care cost trend rate used in determining our postretirement net expense based upon our actual health care cost experience, the effects of recently enacted legislation and general economic conditions. Our assumed rate of retirement is estimated based upon our annual review of our participant census information as of the measurement date. 
+ 
+ General economic and market conditions 
+ 
+ Assumed investment returns by asset class 
+ 
+ Assumed future salary increases 
+ 
+ Assumed discount rate 
+ 
+ Projected timing of future cash disbursements 
+ 
+ Health care cost experience trends 
+ 
+ Participant demographic information 
+ 
+ Actuarial mortality assumptions 
+ 
+ Impact of legislation 
+ 
+ Impact of regulation 
+ 
+ 
+ 
+ Contingencies 
+ 
+ In the normal course of business, we are confronted with issues or events that may result in a contingent liability. These generally relate to uncollectible receivables, lawsuits, claims made by third parties or the action of various regulatory agencies. We recognize these contingencies in our consolidated financial statements when we determine, based on currently available facts and circumstances it is probable that a liability has been incurred or an asset will not be recovered, and an amount can be reasonably estimated. Actual results may differ from estimates, depending on actual outcomes or changes in the facts or expectations surrounding each potential exposure. Changes in the estimates related to contingencies could have a negative impact on our consolidated results of operations, cash flows or financial position. Our contingencies are further discussed in Note 11 to our consolidated financial statements. 
+ 
+ Currently available facts 
+ 
+ Management’s estimate of future resolution 
+ 
+ 
+ 
+ 25 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Critical 
+ Accounting Policy 
+ 
+ Summary of Policy 
+ 
+ Factors Influencing Application of the Policy 
+ 
+ 
+ Financial instruments and hedging activities 
+ 
+ We use financial instruments to mitigate commodity price risk and interest rate risk. The objectives for using financial instruments have been tailored to meet the needs of our regulated and nonregulated businesses. These objectives are more fully described in Note 13 to the consolidated financial statements. We record all of our financial instruments on the balance sheet at fair value as required by accounting principles generally accepted in the United States, with changes in fair value ultimately recorded in the income statement. The recognition of the changes in fair value of these financial instruments recorded in the income statement is contingent upon whether the financial instrument has been designated and qualifies as a part of a hedging relationship or if regulatory rulings require a different accounting treatment. Our accounting elections for financial instruments and hedging activities utilized are more fully described in Note 13 to the consolidated financial statements. The criteria used to determine if a financial instrument meets the definition of a derivative and qualifies for hedge accounting treatment are complex and require management to exercise professional judgment. Further, as more fully discussed below, significant changes in the fair value of these financial instruments could materially impact our financial position, results of operations or cash flows. Finally, changes in the effectiveness of the hedge relationship could impact the accounting treatment. 
+ 
+ Designation of contracts under the hedge accounting rules Judgment in the application of accounting guidance Assessment of the probability that future hedged transactions will occur Changes in market conditions and the related impact on the fair value of the hedged ITEM and the associated designated financial instrument Changes in the effectiveness of the hedge relationship 
+ 
+ 
+ Fair Value Measurements 
+ 
+ We report certain assets and liabilities at fair value, which is defined as the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date (exit price). The assets and liabilities we recognize at fair value are subject to potentially significant volatility based on numerous considerations including, but not limited to changes in commodity prices, interest rates, maturity and timing of settlement. Prices actively quoted on national exchanges are used to determine the fair value of most of our assets and liabilities recorded on our balance sheet at fair value. Within our nonregulated operations, we utilize a mid-market pricing convention (the mid-point between the bid and ask prices) for determining fair value measurement, as permitted under current accounting standards. Values derived from these sources reflect the market in which transactions involving these financial instruments are executed. We utilize models and other valuation methods to determine fair value when external sources are not available. Values are adjusted to reflect the potential impact of an orderly liquidation of our positions over a reasonable period of time under then-current market conditions. We believe the market prices and models used to value these financial instruments represent the best information available with respect to the market in which transactions involving these financial instruments are executed, the closing exchange and over-the-counter quotations, time value and volatility factors underlying the contracts. Fair-value estimates also consider our own creditworthiness and the creditworthiness of the counterparties involved. Our counterparties consist primarily of financial institutions and major energy companies. This concentration of counterparties may materially impact our exposure to credit risk resulting from market, economic or regulatory conditions. We seek to minimize counterparty credit risk through an evaluation of their financial condition and credit ratings and the use of collateral requirements under certain circumstances. 
+ 
+ General economic and market conditions Volatility in underlying market conditions Maturity dates of financial instruments Creditworthiness of our counterparties Creditworthiness of Atmos Energy Impact of credit risk mitigation activities on the assessment of the creditworthiness of Atmos Energy and its counterparties 
+ 
+ 
+ 26 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Critical 
+ Accounting Policy 
+ 
+ Summary of Policy 
+ 
+ Factors Influencing Application of the Policy 
+ 
+ 
+ Impairment assessments 
+ 
+ We review the carrying value of our long-lived assets, including goodwill and identifiable intangibles, whenever events or changes in circumstance indicate that such carrying values may not be recoverable, and at least annually for goodwill, as required by U.S. accounting standards. The evaluation of our goodwill balances and other long-lived assets or identifiable assets for which uncertainty exists regarding the recoverability of the carrying value of such assets involves the assessment of future cash flows and external market conditions and other subjective factors that could impact the estimation of future cash flows including, but not limited to the commodity prices, the amount and timing of future cash flows, future growth rates and the discount rate. Unforeseen events and changes in circumstances or market conditions could adversely affect these estimates, which could result in an impairment charge. 
+ 
+ General economic and market conditions Projected timing and amount of future discounted cash flows Judgment in the evaluation of relevant data 
+ 
+ 
+ RESULTS OF OPERATIONS 
+ Overview 
+ Atmos Energy Corporation strives to operate its businesses safely and reliably while delivering superior shareholder value. In recent years we have implemented rate designs that reduce or eliminate regulatory lag and separate the recovery of our approved rate from customer usage patterns. Additionally, we have significantly increased investments in the safety and reliability of our natural gas distribution and transmission infrastructure. This increased level of investment and timely recovery of these investments through our various regulatory mechanisms has resulted in increased earnings and operating cash flow in recent years. 
+ This trend continued during fiscal 2016 as net income increased to $350.1 million , or $3.38 per diluted share for the year ended September 30, 2016 , compared with net income of $315.1 million or $3.09 per diluted share in the prior year. The year-over-year increase largely reflects positive rate outcomes, which more than offset weather that was 25 percent warmer than the prior year and increased pipeline maintenance and integrity spending. 
+ Capital expenditures for fiscal 2016 totaled $1,087.0 million . Over 80 percent was invested to improve the safety and reliability of our distribution and transmission systems, with a significant portion of this investment incurred under regulatory mechanisms that reduce regulatory lag to six months or less. Fiscal 2015 spending under these and other mechanisms enabled the Company to complete 20 regulatory filings during fiscal 2016 that should increase annual operating income from regulated operations by $122.5 million . We funded our capital expenditure program primarily through operating cash flows of $795.0 million , net short-term borrowings and the issuance of common stock, including the At-the-Market Equity Sales (ATM) Program described below. 
+ As we continue to invest in the safety and reliability of our distribution and transmission systems, we expect our capital spending will increase in future periods. We intend to fund this level of investment through available operating cash flows, the issuance of long-term debt securities and, to a lesser extent, the issuance of equity. In order to strengthen our ability to meet our financing needs, we: 
+ • Entered into an ATM equity distribution agreement in March 2016 under which we may issue and sell shares of our common stock, up to an aggregate offering price of $200 million. We issued 1.4 million shares of common stock and received $98.6 million in net proceeds under the ATM program in fiscal 2016. 
+ • Executed in September 2016 a new three-year, $200 million multi-draw term loan agreement with a syndicate of three lenders. The term loan will be used to refinance existing indebtedness and for working capital, capital expenditures and other general corporate purposes. 
+ • Amended our existing five-year $1.25 billion unsecured credit facility in October 2016, which increased the committed loan to $1.5 billion and extended the facility through September 25, 2021. The amended facility also retains the $250 million accordion feature, which allows for an increase in the total committed loan amount to $1.75 billion. 
+ On May 13, 2016, Standard & Poor’s Corporation upgraded our senior unsecured debt rating to A from A- and upgraded our short-term debt rating to A-1 from A-2, with a ratings outlook of stable, citing strong financial performance largely due to our ability to timely recover capital investments. 
+ 
+ 
+ 27 
+ 
+ Table of Contents 
+ 
+ On October 31, 2016, we announced the proposed sale of AEM to CenterPoint Energy Services, Inc. The transaction will include the transfer of approximately 800 delivered gas customers and AEM’s related asset optimization business at an all cash price of $40.0 million plus working capital at the date of closing. No material gain or loss is currently anticipated in connection with the closing of this transaction. The proceeds from the sale will be redeployed to fund infrastructure investment in the regulated business. Upon completion of the sale, we will have fully exited the nonregulated gas marketing business. 
+ As a result of the continued contribution and stability of our regulated earnings, cash flows and capital structure, our Board of Directors increased the quarterly dividend by 7.1 percent for fiscal 2017. 
+ Consolidated Results 
+ The following table presents our consolidated financial highlights for the fiscal years ended September 30, 2016 , 2015 and 2014 . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Fiscal Year Ended September 30 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 2014 
+ 
+ 
+ 
+ 
+ (In thousands, except per share data) 
+ 
+ 
+ Operating revenues 
+ 
+ $ 
+ 
+ 3,349,949 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 4,142,136 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 4,940,916 
+ 
+ 
+ 
+ 
+ Gross profit 
+ 
+ 1,744,896 
+ 
+ 
+ 
+ 
+ 
+ 1,680,017 
+ 
+ 
+ 
+ 
+ 
+ 1,582,426 
+ 
+ 
+ 
+ 
+ Operating expenses 
+ 
+ 1,076,878 
+ 
+ 
+ 
+ 
+ 
+ 1,048,622 
+ 
+ 
+ 
+ 
+ 
+ 971,077 
+ 
+ 
+ 
+ 
+ Operating income 
+ 
+ 668,018 
+ 
+ 
+ 
+ 
+ 
+ 631,395 
+ 
+ 
+ 
+ 
+ 
+ 611,349 
+ 
+ 
+ 
+ 
+ Interest charges 
+ 
+ 115,948 
+ 
+ 
+ 
+ 
+ 
+ 116,241 
+ 
+ 
+ 
+ 
+ 
+ 129,295 
+ 
+ 
+ 
+ 
+ Income before income taxes 
+ 
+ 550,477 
+ 
+ 
+ 
+ 
+ 
+ 510,765 
+ 
+ 
+ 
+ 
+ 
+ 476,819 
+ 
+ 
+ 
+ 
+ Net income (1) 
+ 
+ $ 
+ 
+ 350,104 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 315,075 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 289,817 
+ 
+ 
+ 
+ 
+ Diluted net income per share (1) 
+ 
+ $ 
+ 
+ 3.38 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 3.09 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 2.96 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) 
+ 
+ Unrealized gains/losses in our nonregulated operations during fiscal 2016, 2015 and 2014 increased/(decreased) net income by $0.7 million, $(1.5) million and $5.8 million, or $0.01, $(0.01) and $0.06 per diluted share. 
+ Regulated operations contributed 95 percent , 95 percent and 89 percent to our consolidated net income for fiscal years 2016 , 2015 and 2014 . Our consolidated net income during the last three fiscal years was earned across our business segments as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Fiscal Year Ended September 30 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 2014 
+ 
+ 
+ 
+ 
+ (In thousands) 
+ 
+ 
+ Regulated distribution segment 
+ 
+ $ 
+ 
+ 232,370 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 204,813 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 171,585 
+ 
+ 
+ 
+ 
+ Regulated pipeline segment 
+ 
+ 101,689 
+ 
+ 
+ 
+ 
+ 
+ 94,662 
+ 
+ 
+ 
+ 
+ 
+ 86,191 
+ 
+ 
+ 
+ 
+ Nonregulated segment 
+ 
+ 16,045 
+ 
+ 
+ 
+ 
+ 
+ 15,600 
+ 
+ 
+ 
+ 
+ 
+ 32,041 
+ 
+ 
+ 
+ 
+ Net income 
+ 
+ $ 
+ 
+ 350,104 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 315,075 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 289,817 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ See the following discussion regarding the results of operations for each of our business operating segments. 
+ Regulated Distribution Segment 
+ The primary factors that impact the results of our regulated distribution operations are our ability to earn our authorized rates of return, the cost of natural gas, competitive factors in the energy industry and economic conditions in our service areas. 
+ Our ability to earn our authorized rates is based primarily on our ability to improve the rate design in our various ratemaking jurisdictions by reducing or eliminating regulatory lag and, ultimately, separating the recovery of our approved margins from customer usage patterns. Improving rate design is a long-term process and is further complicated by the fact that we operate in multiple rate jurisdictions. The “Ratemaking Activity” section of this Form 10-K describes our current rate strategy, progress towards implementing that strategy and recent ratemaking initiatives in more detail. 
+ We are generally able to pass the cost of gas through to our customers without markup under purchased gas cost adjustment mechanisms; therefore the cost of gas typically does not have an impact on our gross profit as increases in the cost of gas are offset by a corresponding increase in revenues. Accordingly, we believe gross profit is a better indicator of our financial performance than revenues. However, gross profit in our Texas and Mississippi service areas include franchise fees and gross receipt taxes, which are calculated as a percentage of revenue (inclusive of gas costs). Therefore, the amount of these taxes included in revenue is influenced by the cost of gas and the level of gas sales volumes. We record the tax expense as a 
+ 
+ 
+ 28 
+ 
+ Table of Contents 
+ 
+ component of taxes, other than income. Although changes in revenue related taxes arising from changes in gas costs affect gross profit, over time the impact is offset within operating income. 
+ Although the cost of gas typically does not have a direct impact on our gross profit, higher gas costs may adversely impact our accounts receivable collections, resulting in higher bad debt expense, and may require us to increase borrowings under our credit facilities resulting in higher interest expense. In addition, higher gas costs, as well as competitive factors in the industry and general economic conditions may cause customers to conserve or, in the case of industrial consumers, to use alternative energy sources. Currently, gas cost risk has been mitigated by rate design that allows us to collect from our customers the gas cost portion of our bad debt expense on approximately 76 percent of our residential and commercial margins. 
+ During fiscal 2016 , we completed 19 regulatory proceedings in our regulated distribution segment, which should result in a $81.8 million increase in annual operating income. 
+ Review of Financial and Operating Results 
+ Financial and operational highlights for our regulated distribution segment for the fiscal years ended September 30, 2016 , 2015 and 2014 are presented below. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Fiscal Year Ended September 30 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 2014 
+ 
+ 
+ 
+ 2016 vs. 2015 
+ 
+ 
+ 
+ 2015 vs. 2014 
+ 
+ 
+ 
+ 
+ (In thousands, unless otherwise noted) 
+ 
+ 
+ Gross profit 
+ 
+ $ 
+ 
+ 1,272,805 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,237,577 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,176,515 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 35,228 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 61,062 
+ 
+ 
+ 
+ 
+ Operating expenses 
+ 
+ 833,221 
+ 
+ 
+ 
+ 
+ 
+ 817,428 
+ 
+ 
+ 
+ 
+ 
+ 791,947 
+ 
+ 
+ 
+ 
+ 
+ 15,793 
+ 
+ 
+ 
+ 
+ 
+ 25,481 
+ 
+ 
+ 
+ 
+ Operating income 
+ 
+ 439,584 
+ 
+ 
+ 
+ 
+ 
+ 420,149 
+ 
+ 
+ 
+ 
+ 
+ 384,568 
+ 
+ 
+ 
+ 
+ 
+ 19,435 
+ 
+ 
+ 
+ 
+ 
+ 35,581 
+ 
+ 
+ 
+ 
+ Miscellaneous income (expense) 
+ 
+ 455 
+ 
+ 
+ 
+ 
+ 
+ (377 
+ 
+ ) 
+ 
+ 
+ 
+ (381 
+ 
+ ) 
+ 
+ 
+ 
+ 832 
+ 
+ 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ 
+ Interest charges 
+ 
+ 79,404 
+ 
+ 
+ 
+ 
+ 
+ 84,132 
+ 
+ 
+ 
+ 
+ 
+ 94,918 
+ 
+ 
+ 
+ 
+ 
+ (4,728 
+ 
+ ) 
+ 
+ 
+ 
+ (10,786 
+ 
+ ) 
+ 
+ 
+ Income before income taxes 
+ 
+ 360,635 
+ 
+ 
+ 
+ 
+ 
+ 335,640 
+ 
+ 
+ 
+ 
+ 
+ 289,269 
+ 
+ 
+ 
+ 
+ 
+ 24,995 
+ 
+ 
+ 
+ 
+ 
+ 46,371 
+ 
+ 
+ 
+ 
+ Income tax expense 
+ 
+ 128,265 
+ 
+ 
+ 
+ 
+ 
+ 130,827 
+ 
+ 
+ 
+ 
+ 
+ 117,684 
+ 
+ 
+ 
+ 
+ 
+ (2,562 
+ 
+ ) 
+ 
+ 
+ 
+ 13,143 
+ 
+ 
+ 
+ 
+ Net Income 
+ 
+ $ 
+ 
+ 232,370 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 204,813 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 171,585 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 27,557 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 33,228 
+ 
+ 
+ 
+ 
+ Consolidated regulated distribution sales volumes — MMcf 
+ 
+ 242,589 
+ 
+ 
+ 
+ 
+ 
+ 293,350 
+ 
+ 
+ 
+ 
+ 
+ 317,320 
+ 
+ 
+ 
+ 
+ 
+ (50,761 
+ 
+ ) 
+ 
+ 
+ 
+ (23,970 
+ 
+ ) 
+ 
+ 
+ Consolidated regulated distribution transportation volumes — MMcf 
+ 
+ 133,378 
+ 
+ 
+ 
+ 
+ 
+ 135,972 
+ 
+ 
+ 
+ 
+ 
+ 134,483 
+ 
+ 
+ 
+ 
+ 
+ (2,594 
+ 
+ ) 
+ 
+ 
+ 
+ 1,489 
+ 
+ 
+ 
+ 
+ Total consolidated regulated distribution throughput — MMcf 
+ 
+ 375,967 
+ 
+ 
+ 
+ 
+ 
+ 429,322 
+ 
+ 
+ 
+ 
+ 
+ 451,803 
+ 
+ 
+ 
+ 
+ 
+ (53,355 
+ 
+ ) 
+ 
+ 
+ 
+ (22,481 
+ 
+ ) 
+ 
+ 
+ Consolidated regulated distribution average cost of gas per Mcf sold 
+ 
+ $ 
+ 
+ 4.20 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 5.20 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 5.94 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (1.00 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ (0.74 
+ 
+ ) 
+ 
+ Fiscal year ended September 30, 2016 compared with fiscal year ended September 30, 2015 
+ Net income for our regulated distribution segment increased 13 percent, primarily due to a $35.2 million increase in gross profit, partially offset by a $ 15.8 million increase in operating expenses. The year-to-date increase in gross profit primarily reflects: 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ a $47.5 million net increase in rate adjustments. Our Mid-Tex Division accounted for $20.9 million of this increase. We also experienced increases in our Mississippi and West Texas Divisions. 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ The impact of weather that was 25 percent warmer than the prior year, before adjusting for weather normalization mechanisms. Therefore, although sales volumes declined 17 percent, gross margin experienced just a $3.4 million decline from lower consumption. 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Customer growth, primarily in our Mid-Tex, Louisiana and Tennessee service areas, which contributed an incremental $6.6 million. 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ a $15.4 million decrease in revenue-related taxes primarily in our Mid-Tex and West Texas Divisions, offset by a corresponding $16.1 million decrease in the related tax expense. 
+ The increase in operating expenses, which include operation and maintenance expense, bad debt expense, depreciation and amortization expense and taxes, other than income, was primarily due to pipeline maintenance and related activities and increased depreciation expense associated with increased capital investments. 
+ 
+ 
+ 29 
+ 
+ Table of Contents 
+ 
+ Net income for the year ended September 30, 2016 includes a $5.0 million income tax benefit for equity awards that vested during the current year as a result of adopting the new stock-based accounting guidance, as described in Note 2 to our consolidated financial statements. 
+ Fiscal year ended September 30, 2015 compared with fiscal year ended September 30, 2014 
+ Net income for our regulated distribution segment increased 19 percent, primarily due to a $61.1 million increase in gross profit, partially offset by a $25.5 million increase in operating expenses. The year-over-year increase in gross profit primarily reflects: 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ a $70.6 million net increase in rate adjustments, primarily in our Mid-Tex, West Texas, Kentucky/Mid-States and Colorado-Kansas Divisions. 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ a $4.5 million increase in transportation revenue. Transportation volumes increased one percent due to increased economic activity experienced in our Kentucky/Mid-States Division and increased consumption in our West Texas Division due to colder than normal weather. 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ a $10.5 million decrease in consumption associated with an eight percent decrease in sales volumes. Fiscal 2015 weather was ten percent warmer compared to fiscal 2014, before adjusting for weather normalization mechanisms. 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ a $2.5 million decrease in revenue-related taxes primarily in our Mid-Tex Division. 
+ The increase in operating expenses, which include operation and maintenance expense, bad debt expense, depreciation and amortization expense and taxes, other than income, was primarily due to increased depreciation expense associated with increased capital investments and increased ad valorem and franchise taxes. 
+ Interest charges decreased by $ 10.8 million , primarily due to replacing our $500 million unsecured 4.95% senior notes with $500 million of 4.125% 30-year unsecured senior notes on October 15, 2014. 
+ The following table shows our operating income by regulated distribution division, in order of total rate base, for the fiscal years ended September 30, 2016 , 2015 and 2014 . The presentation of our regulated distribution operating income is included for financial reporting purposes and may not be appropriate for ratemaking purposes. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Fiscal Year Ended September 30 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 2014 
+ 
+ 
+ 
+ 2016 vs. 2015 
+ 
+ 
+ 
+ 2015 vs. 2014 
+ 
+ 
+ 
+ 
+ (In thousands) 
+ 
+ 
+ Mid-Tex 
+ 
+ $ 
+ 
+ 211,578 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 197,559 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 187,265 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 14,019 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 10,294 
+ 
+ 
+ 
+ 
+ Kentucky/Mid-States 
+ 
+ 62,413 
+ 
+ 
+ 
+ 
+ 
+ 59,233 
+ 
+ 
+ 
+ 
+ 
+ 55,968 
+ 
+ 
+ 
+ 
+ 
+ 3,180 
+ 
+ 
+ 
+ 
+ 
+ 3,265 
+ 
+ 
+ 
+ 
+ Louisiana 
+ 
+ 52,223 
+ 
+ 
+ 
+ 
+ 
+ 51,001 
+ 
+ 
+ 
+ 
+ 
+ 56,648 
+ 
+ 
+ 
+ 
+ 
+ 1,222 
+ 
+ 
+ 
+ 
+ 
+ (5,647 
+ 
+ ) 
+ 
+ 
+ West Texas 
+ 
+ 41,322 
+ 
+ 
+ 
+ 
+ 
+ 37,180 
+ 
+ 
+ 
+ 
+ 
+ 29,250 
+ 
+ 
+ 
+ 
+ 
+ 4,142 
+ 
+ 
+ 
+ 
+ 
+ 7,930 
+ 
+ 
+ 
+ 
+ Mississippi 
+ 
+ 37,559 
+ 
+ 
+ 
+ 
+ 
+ 34,333 
+ 
+ 
+ 
+ 
+ 
+ 28,473 
+ 
+ 
+ 
+ 
+ 
+ 3,226 
+ 
+ 
+ 
+ 
+ 
+ 5,860 
+ 
+ 
+ 
+ 
+ Colorado-Kansas 
+ 
+ 31,998 
+ 
+ 
+ 
+ 
+ 
+ 28,720 
+ 
+ 
+ 
+ 
+ 
+ 28,077 
+ 
+ 
+ 
+ 
+ 
+ 3,278 
+ 
+ 
+ 
+ 
+ 
+ 643 
+ 
+ 
+ 
+ 
+ Other 
+ 
+ 2,491 
+ 
+ 
+ 
+ 
+ 
+ 12,123 
+ 
+ 
+ 
+ 
+ 
+ (1,113 
+ 
+ ) 
+ 
+ 
+ 
+ (9,632 
+ 
+ ) 
+ 
+ 
+ 
+ 13,236 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ $ 
+ 
+ 439,584 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 420,149 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 384,568 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 19,435 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 35,581 
+ 
+ 
+ Regulated Pipeline Segment 
+ Our regulated pipeline segment consists of the pipeline and storage operations of APT. APT is one of the largest intrastate pipeline operations in Texas with a heavy concentration in the established natural gas producing areas of central, northern and eastern Texas, extending into or near the major producing areas of the Barnett Shale, the Texas Gulf Coast and the Delaware and Val Verde Basins of West Texas. APT provides transportation and storage services to our Mid-Tex Division, other third party local distribution companies, industrial and electric generation customers, marketers and producers. As part of its pipeline operations, APT manages five underground storage reservoirs in Texas. 
+ Our regulated pipeline segment is impacted by seasonal weather patterns, competitive factors in the energy industry and economic conditions in APT's service area. Natural gas prices do not directly impact the results of this segment as revenues are derived from the transportation of natural gas. However, natural gas prices and demand for natural gas could influence the level of drilling activity in the markets that we serve, which may influence the level of throughput we may be able to transport on our pipeline. Further, natural gas price differences between the various hubs that we serve determine the market value for transportation services between those geographic areas. 
+ 
+ 
+ 30 
+ 
+ Table of Contents 
+ 
+ The results of APT are also significantly impacted by the natural gas requirements of the Mid-Tex Division because APT is the Mid-Tex Division's primary transporter of natural gas. 
+ Finally, as a regulated pipeline, the operations of APT may be impacted by the timing of when costs and expenses are incurred and when these costs and expenses are recovered through its tariffs. 
+ Review of Financial and Operating Results 
+ Financial and operational highlights for our regulated pipeline segment for the fiscal years ended September 30, 2016 , 2015 and 2014 are presented below. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Fiscal Year Ended September 30 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 2014 
+ 
+ 
+ 
+ 2016 vs. 2015 
+ 
+ 
+ 
+ 2015 vs. 2014 
+ 
+ 
+ 
+ 
+ (In thousands, unless otherwise noted) 
+ 
+ 
+ Mid-Tex Division transportation 
+ 
+ $ 
+ 
+ 308,621 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 264,059 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 227,230 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 44,562 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 36,829 
+ 
+ 
+ 
+ 
+ Third-party transportation 
+ 
+ 85,996 
+ 
+ 
+ 
+ 
+ 
+ 94,893 
+ 
+ 
+ 
+ 
+ 
+ 76,109 
+ 
+ 
+ 
+ 
+ 
+ (8,897 
+ 
+ ) 
+ 
+ 
+ 
+ 18,784 
+ 
+ 
+ 
+ 
+ Storage and park and lend services 
+ 
+ 3,783 
+ 
+ 
+ 
+ 
+ 
+ 3,575 
+ 
+ 
+ 
+ 
+ 
+ 5,344 
+ 
+ 
+ 
+ 
+ 
+ 208 
+ 
+ 
+ 
+ 
+ 
+ (1,769 
+ 
+ ) 
+ 
+ 
+ Other 
+ 
+ 10,433 
+ 
+ 
+ 
+ 
+ 
+ 7,585 
+ 
+ 
+ 
+ 
+ 
+ 9,776 
+ 
+ 
+ 
+ 
+ 
+ 2,848 
+ 
+ 
+ 
+ 
+ 
+ (2,191 
+ 
+ ) 
+ 
+ 
+ Gross profit 
+ 
+ 408,833 
+ 
+ 
+ 
+ 
+ 
+ 370,112 
+ 
+ 
+ 
+ 
+ 
+ 318,459 
+ 
+ 
+ 
+ 
+ 
+ 38,721 
+ 
+ 
+ 
+ 
+ 
+ 51,653 
+ 
+ 
+ 
+ 
+ Operating expenses 
+ 
+ 209,399 
+ 
+ 
+ 
+ 
+ 
+ 188,845 
+ 
+ 
+ 
+ 
+ 
+ 145,640 
+ 
+ 
+ 
+ 
+ 
+ 20,554 
+ 
+ 
+ 
+ 
+ 
+ 43,205 
+ 
+ 
+ 
+ 
+ Operating income 
+ 
+ 199,434 
+ 
+ 
+ 
+ 
+ 
+ 181,267 
+ 
+ 
+ 
+ 
+ 
+ 172,819 
+ 
+ 
+ 
+ 
+ 
+ 18,167 
+ 
+ 
+ 
+ 
+ 
+ 8,448 
+ 
+ 
+ 
+ 
+ Miscellaneous expense 
+ 
+ (1,683 
+ 
+ ) 
+ 
+ 
+ 
+ (1,243 
+ 
+ ) 
+ 
+ 
+ 
+ (3,181 
+ 
+ ) 
+ 
+ 
+ 
+ (440 
+ 
+ ) 
+ 
+ 
+ 
+ 1,938 
+ 
+ 
+ 
+ 
+ Interest charges 
+ 
+ 36,574 
+ 
+ 
+ 
+ 
+ 
+ 33,151 
+ 
+ 
+ 
+ 
+ 
+ 36,280 
+ 
+ 
+ 
+ 
+ 
+ 3,423 
+ 
+ 
+ 
+ 
+ 
+ (3,129 
+ 
+ ) 
+ 
+ 
+ Income before income taxes 
+ 
+ 161,177 
+ 
+ 
+ 
+ 
+ 
+ 146,873 
+ 
+ 
+ 
+ 
+ 
+ 133,358 
+ 
+ 
+ 
+ 
+ 
+ 14,304 
+ 
+ 
+ 
+ 
+ 
+ 13,515 
+ 
+ 
+ 
+ 
+ Income tax expense 
+ 
+ 59,488 
+ 
+ 
+ 
+ 
+ 
+ 52,211 
+ 
+ 
+ 
+ 
+ 
+ 47,167 
+ 
+ 
+ 
+ 
+ 
+ 7,277 
+ 
+ 
+ 
+ 
+ 
+ 5,044 
+ 
+ 
+ 
+ 
+ Net income 
+ 
+ $ 
+ 
+ 101,689 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 94,662 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 86,191 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 7,027 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 8,471 
+ 
+ 
+ 
+ 
+ Gross pipeline transportation volumes — MMcf 
+ 
+ 677,001 
+ 
+ 
+ 
+ 
+ 
+ 738,532 
+ 
+ 
+ 
+ 
+ 
+ 714,464 
+ 
+ 
+ 
+ 
+ 
+ (61,531 
+ 
+ ) 
+ 
+ 
+ 
+ 24,068 
+ 
+ 
+ 
+ 
+ Consolidated pipeline transportation volumes — MMcf 
+ 
+ 505,188 
+ 
+ 
+ 
+ 
+ 
+ 528,068 
+ 
+ 
+ 
+ 
+ 
+ 493,360 
+ 
+ 
+ 
+ 
+ 
+ (22,880 
+ 
+ ) 
+ 
+ 
+ 
+ 34,708 
+ 
+ 
+ Fiscal year ended September 30, 2016 compared with fiscal year ended September 30, 2015 
+ Net income for our regulated pipeline segment increased seven percent, primarily due to a $38.7 million increase in gross profit, partially offset by a $20.6 million increase in operating expenses. The increase in gross profit primarily reflects a $39.6 million increase in rates from the approved 2015 and 2016 Gas Reliability Infrastructure Program (GRIP) filings. Additionally, gross profit reflects a $3.6 million increase from the sale of excess retention gas, which was offset by a $4.0 million decrease in through-system volumes and lower storage and blending fees due to warmer weather in the current year compared to the prior year. 
+ Operating expenses increased $20.6 million , primarily due to increased levels of pipeline maintenance activities to improve the safety and reliability of our system and increased property taxes and depreciation expense associated with increased capital investments. 
+ Fiscal year ended September 30, 2015 compared with fiscal year ended September 30, 2014 
+ Net income for our regulated pipeline segment increased 10 percent, primarily due to a $51.7 million increase in gross profit, partially offset by a $43.2 million increase in operating expenses. The increase in gross profit primarily reflects a $47.0 million increase in rates from the approved 2014 and 2015 GRIP filings. Additionally, gross profit reflects increased pipeline demand fees and through-system transportation volumes and rates that were offset by lower park and lend, storage and blending fees and the absence of a $1.8 million increase recorded in the fiscal 2014 associated with the renewal of an annual adjustment mechanism. 
+ Operating expenses increased $43.2 million , primarily due to increased levels of pipeline and right-of-way maintenance activities to improve the safety and reliability of our system and increased depreciation expense associated with increased capital investments, along with the absence of a $6.7 million refund received in fiscal 2014 as a result of the completion of a state use tax audit. 
+ 
+ 
+ 
+ 
+ 31 
+ 
+ Table of Contents 
+ 
+ Nonregulated Segment 
+ Our nonregulated operations are conducted through Atmos Energy Holdings, Inc. (AEH), a wholly-owned subsidiary of Atmos Energy Corporation and typically represent approximately five percent of our consolidated net income. 
+ AEH's primary business is to buy, sell and deliver natural gas at competitive prices to approximately 1,000 customers located primarily in the Midwest and Southeast areas of the United States. AEH accomplishes this objective by aggregating and purchasing gas supply, arranging transportation and storage logistics and effectively managing commodity price risk. 
+ AEH also earns storage and transportation demand fees primarily from our regulated distribution operations in Louisiana and Kentucky. These demand fees are subject to regulatory oversight and are renewed periodically. 
+ Our nonregulated activities are significantly influenced by competitive factors in the industry and general economic conditions. Therefore, the margins earned from these activities are dependent upon our ability to attract and retain customers and to minimize the cost of buying, selling and delivering natural gas to offer more competitive pricing to those customers. 
+ Further, natural gas market conditions, most notably the price of natural gas and the level of price volatility, affect our nonregulated businesses. Natural gas prices and the level of volatility are influenced by a number of factors including, but not limited to, general economic conditions, the demand for natural gas in different parts of the country, domestic natural gas production and natural gas inventory levels. 
+ Natural gas prices can influence: 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ The demand for natural gas. Higher prices may cause customers to conserve or use alternative energy sources. Conversely, lower prices could cause customers such as electric power generators to switch from alternative energy sources to natural gas. 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Collection of accounts receivable from customers, which could affect the level of bad debt expense recognized by this segment. 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ The level of borrowings under our credit facilities, which affects the amount of interest expense recognized by this segment. 
+ Natural gas price volatility can also influence our nonregulated business in the following ways: 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Price volatility influences basis differentials, which provide opportunities to profit from identifying the lowest cost alternative among the natural gas supplies, transportation and markets to which we have access. 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Increased or decreased volatility impacts the amounts of unrealized margins recorded in our gross profit and could impact the amount of cash required to collateralize our risk management liabilities. 
+ Our nonregulated segment manages its exposure to natural gas commodity price risk through a combination of physical storage and financial instruments. Therefore, results for this segment include unrealized gains or losses on its net physical gas position and the related financial instruments used to manage commodity price risk. These margins fluctuate based upon changes in the spreads between the physical and forward natural gas prices. The magnitude of the unrealized gains and losses is also contingent upon the levels of our net physical position at the end of the reporting period. 
+ 
+ 
+ 32 
+ 
+ Table of Contents 
+ 
+ Review of Financial and Operating Results 
+ Financial and operational highlights for our nonregulated segment for the fiscal years ended September 30, 2016 , 2015 and 2014 are presented below. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Fiscal Year Ended September 30 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 2014 
+ 
+ 
+ 
+ 2016 vs. 2015 
+ 
+ 
+ 
+ 2015 vs. 2014 
+ 
+ 
+ 
+ 
+ (In thousands, unless otherwise noted) 
+ 
+ 
+ Realized margins 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Gas delivery and related services 
+ 
+ $ 
+ 
+ 46,664 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 48,930 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 39,529 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (2,266 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ 9,401 
+ 
+ 
+ 
+ 
+ Storage and transportation services 
+ 
+ 13,395 
+ 
+ 
+ 
+ 
+ 
+ 13,575 
+ 
+ 
+ 
+ 
+ 
+ 14,696 
+ 
+ 
+ 
+ 
+ 
+ (180 
+ 
+ ) 
+ 
+ 
+ 
+ (1,121 
+ 
+ ) 
+ 
+ 
+ Other 
+ 
+ 2,470 
+ 
+ 
+ 
+ 
+ 
+ 12,755 
+ 
+ 
+ 
+ 
+ 
+ 24,170 
+ 
+ 
+ 
+ 
+ 
+ (10,285 
+ 
+ ) 
+ 
+ 
+ 
+ (11,415 
+ 
+ ) 
+ 
+ 
+ Total realized margins 
+ 
+ 62,529 
+ 
+ 
+ 
+ 
+ 
+ 75,260 
+ 
+ 
+ 
+ 
+ 
+ 78,395 
+ 
+ 
+ 
+ 
+ 
+ (12,731 
+ 
+ ) 
+ 
+ 
+ 
+ (3,135 
+ 
+ ) 
+ 
+ 
+ Unrealized margins 
+ 
+ 1,261 
+ 
+ 
+ 
+ 
+ 
+ (2,400 
+ 
+ ) 
+ 
+ 
+ 
+ 9,560 
+ 
+ 
+ 
+ 
+ 
+ 3,661 
+ 
+ 
+ 
+ 
+ 
+ (11,960 
+ 
+ ) 
+ 
+ 
+ Gross profit 
+ 
+ 63,790 
+ 
+ 
+ 
+ 
+ 
+ 72,860 
+ 
+ 
+ 
+ 
+ 
+ 87,955 
+ 
+ 
+ 
+ 
+ 
+ (9,070 
+ 
+ ) 
+ 
+ 
+ 
+ (15,095 
+ 
+ ) 
+ 
+ 
+ Operating expenses 
+ 
+ 34,790 
+ 
+ 
+ 
+ 
+ 
+ 42,881 
+ 
+ 
+ 
+ 
+ 
+ 33,993 
+ 
+ 
+ 
+ 
+ 
+ (8,091 
+ 
+ ) 
+ 
+ 
+ 
+ 8,888 
+ 
+ 
+ 
+ 
+ Operating income 
+ 
+ 29,000 
+ 
+ 
+ 
+ 
+ 
+ 29,979 
+ 
+ 
+ 
+ 
+ 
+ 53,962 
+ 
+ 
+ 
+ 
+ 
+ (979 
+ 
+ ) 
+ 
+ 
+ 
+ (23,983 
+ 
+ ) 
+ 
+ 
+ Miscellaneous income (expense) 
+ 
+ 1,443 
+ 
+ 
+ 
+ 
+ 
+ (760 
+ 
+ ) 
+ 
+ 
+ 
+ 2,216 
+ 
+ 
+ 
+ 
+ 
+ 2,203 
+ 
+ 
+ 
+ 
+ 
+ (2,976 
+ 
+ ) 
+ 
+ 
+ Interest charges 
+ 
+ 1,778 
+ 
+ 
+ 
+ 
+ 
+ 967 
+ 
+ 
+ 
+ 
+ 
+ 1,986 
+ 
+ 
+ 
+ 
+ 
+ 811 
+ 
+ 
+ 
+ 
+ 
+ (1,019 
+ 
+ ) 
+ 
+ 
+ Income before income taxes 
+ 
+ 28,665 
+ 
+ 
+ 
+ 
+ 
+ 28,252 
+ 
+ 
+ 
+ 
+ 
+ 54,192 
+ 
+ 
+ 
+ 
+ 
+ 413 
+ 
+ 
+ 
+ 
+ 
+ (25,940 
+ 
+ ) 
+ 
+ 
+ Income tax expense 
+ 
+ 12,620 
+ 
+ 
+ 
+ 
+ 
+ 12,652 
+ 
+ 
+ 
+ 
+ 
+ 22,151 
+ 
+ 
+ 
+ 
+ 
+ (32 
+ 
+ ) 
+ 
+ 
+ 
+ (9,499 
+ 
+ ) 
+ 
+ 
+ Net income 
+ 
+ $ 
+ 
+ 16,045 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 15,600 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 32,041 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 445 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (16,441 
+ 
+ ) 
+ 
+ 
+ Gross nonregulated delivered gas sales volumes — MMcf 
+ 
+ 387,379 
+ 
+ 
+ 
+ 
+ 
+ 410,044 
+ 
+ 
+ 
+ 
+ 
+ 439,014 
+ 
+ 
+ 
+ 
+ 
+ (22,665 
+ 
+ ) 
+ 
+ 
+ 
+ (28,970 
+ 
+ ) 
+ 
+ 
+ Consolidated nonregulated delivered gas sales volumes — MMcf 
+ 
+ 341,597 
+ 
+ 
+ 
+ 
+ 
+ 351,427 
+ 
+ 
+ 
+ 
+ 
+ 377,441 
+ 
+ 
+ 
+ 
+ 
+ (9,830 
+ 
+ ) 
+ 
+ 
+ 
+ (26,014 
+ 
+ ) 
+ 
+ 
+ Net physical position (Bcf) 
+ 
+ 19.2 
+ 
+ 
+ 
+ 
+ 
+ 14.6 
+ 
+ 
+ 
+ 
+ 
+ 9.3 
+ 
+ 
+ 
+ 
+ 
+ 4.6 
+ 
+ 
+ 
+ 
+ 
+ 5.3 
+ 
+ 
+ Fiscal year ended September 30, 2016 compared with fiscal year ended September 30, 2015 
+ Net income for our nonregulated segment increased 3 percent compared to the prior year due to both lower gross profit and lower operating expenses. 
+ The $9.1 million period-over-period decrease in gross profit was primarily due to a $12.7 million decrease in realized margins combined with a $3.7 million increase in unrealized margins. The decrease in realized margins reflects: 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ A $10.3 million decrease in other realized margins. As a result of warmer weather, we modified storage positions to meet customer needs throughout the winter and captured less favorable spread values on the related supply repurchases. Additionally, we experienced an increase in storage demand fees related primarily to higher park and loan activity. 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ A $2.3 million decrease in gas delivery and related services margins, primarily due to a three percent decrease in consolidated sales volumes due to warmer weather. However, lower net transportation costs and other variable costs driven by fewer deliveries resulted in per-unit margins of 12 cents per Mcf, which is consistent with prior year per-unit margins. 
+ Operating expenses decreased $8.1 million , primarily due to lower administrative expenses. 
+ Fiscal year ended September 30, 2015 compared with fiscal year ended September 30, 2014 
+ Net income for our nonregulated segment decreased 51 percent from compared to fiscal 2014 due to lower gross profit and higher operating expenses. 
+ The $15.1 million year-over-year decrease in gross profit was primarily due to a $12.0 million decrease in unrealized margins combined with a $3.1 million decrease in realized margins. The decrease in realized margins reflects: 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ An $11.4 million decrease in other realized margins primarily due to lower natural gas price volatility. In fiscal 2014, strong market demand caused by significantly colder-than-normal weather resulted in increased market volatility. These market conditions created the opportunity to accelerate physical withdrawals that had been planned for future periods in the fiscal 2014 second quarter to capture incremental gross profit margin. Market conditions in fiscal 2015 were less volatile than fiscal 2014, which provided fewer opportunities to capture incremental gross profit. 
+ 
+ 
+ 33 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ A $9.4 million increase in gas delivery and related services margins, primarily due to an increase in per-unit margins from 9 cents to 12 cents per Mcf, partially offset by a seven percent decrease in consolidated sales volumes. AEH elected not to renew excess transportation capacity in certain markets in late fiscal 2014 and early fiscal 2015. As a result, AEH experienced fewer deliveries to low-margin marketing and power generation customers during fiscal 2015, which was the primary driver for the decrease in consolidated sales volumes and higher per-unit margins. 
+ Operating expenses increased $8.9 million , primarily due to higher legal expenses as a result of the favorable settlement in fiscal 2014 of the Kentucky litigation and the resolution of the Tennessee Business License Tax matter. 
+ 
+ 
+ LIQUIDITY AND CAPITAL RESOURCES 
+ The liquidity required to fund our working capital, capital expenditures and other cash needs is provided from a variety of sources, including internally generated funds as well as borrowings under our commercial paper program and bank credit facilities. Additionally, we have various uncommitted trade credit lines with our gas suppliers that we utilize to purchase natural gas on a monthly basis. Finally, from time to time, we raise funds from the public debt and equity capital markets to fund our liquidity needs. 
+ We regularly evaluate our funding strategy and capital structure to ensure that we (i) have sufficient liquidity for our short-term and long-term needs and (ii) maintain a balanced capital structure with a debt-to-capitalization ratio in a target range of 45 to 55 percent. We also evaluate the levels of committed borrowing capacity that we require. We currently have over $1 billion of committed capacity from our short-term facilities. 
+ As we continue to invest in the safety and reliability of our distribution and transportation system, we expect our capital spending will increase. We intend to fund this additional investment through available operating cash flows, the issuance of long-term debt securities and, to a lesser extent, the issuance of equity. We believe the liquidity provided by these sources combined with our committed credit facilities will be sufficient to fund our working capital needs and capital expenditure program for fiscal year 2017 and beyond. 
+ To support our capital market activities, we filed a registration statement with the SEC on March 28, 2016 to issue, from time to time, up to $2.5 billion in common stock and/or debt securities, which replaced our registration statement that expired on March 28, 2016. On March 28, 2016, we entered into an ATM equity distribution agreement under which we may issue and sell, shares of our common stock, up to an aggregate offering price of $200 million. The shares will be issued under our shelf registration statement. Proceeds from the ATM program will be used primarily to repay short-term debt outstanding under our $1.25 billion commercial paper program, to fund capital spending primarily to enhance the safety and reliability of our system and for general corporate purposes. During fiscal 2016, we issued 1.4 million shares of common stock and received $98.6 million in net proceeds under the ATM program. At September 30, 2016, $2.4 billion of securities remain available for issuance under the shelf registration statement. 
+ On September 22, 2016, we entered into a three year, $200 million multi-draw term loan agreement with a syndicate of three lenders. The term loan will be used to refinance existing indebtedness and for working capital, capital expenditures and other general corporate purposes. At September 30, 2016, there were no borrowings under the term loan. On October 5, 2016, we amended our existing five-year $1.25 billion credit facility, which increased the committed loan to $1.5 billion and extended the facility through September 25, 2021. The amended facility also retains the $250 million accordion feature, which allows for an increase in the total committed loan amount to $1.75 billion. 
+ Additionally, we plan to issue new unsecured senior notes to replace $250 million and $450 million of unsecured senior notes that will mature in fiscal 2017 and fiscal 2019. During fiscal 2014 and 2015, we entered into forward starting interest rate swaps to fix the Treasury yield component associated with the anticipated fiscal 2019 issuances at 3.782%. In fiscal 2012, we entered into forward starting interest rate swaps to fix the Treasury yield component associated with the anticipated fiscal 2017 issuances at 3.367%. 
+ 
+ 
+ 
+ 34 
+ 
+ Table of Contents 
+ 
+ The following table presents our capitalization as of September 30, 2016 and 2015 : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ September 30 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 
+ (In thousands, except percentages) 
+ 
+ 
+ Short-term debt 
+ 
+ $ 
+ 
+ 829,811 
+ 
+ 
+ 
+ 
+ 
+ 12.3 
+ 
+ % 
+ 
+ 
+ 
+ $ 
+ 
+ 457,927 
+ 
+ 
+ 
+ 
+ 
+ 7.5 
+ 
+ % 
+ 
+ 
+ Long-term debt (1) 
+ 
+ 2,438,779 
+ 
+ 
+ 
+ 
+ 
+ 36.2 
+ 
+ % 
+ 
+ 
+ 
+ 2,437,515 
+ 
+ 
+ 
+ 
+ 
+ 40.0 
+ 
+ % 
+ 
+ 
+ Shareholders’ equity 
+ 
+ 3,463,059 
+ 
+ 
+ 
+ 
+ 
+ 51.5 
+ 
+ % 
+ 
+ 
+ 
+ 3,194,797 
+ 
+ 
+ 
+ 
+ 
+ 52.5 
+ 
+ % 
+ 
+ 
+ Total capitalization, including short-term debt 
+ 
+ $ 
+ 
+ 6,731,649 
+ 
+ 
+ 
+ 
+ 
+ 100.0 
+ 
+ % 
+ 
+ 
+ 
+ $ 
+ 
+ 6,090,239 
+ 
+ 
+ 
+ 
+ 
+ 100.0 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ (1) 
+ 
+ Net of $17.0 million and $17.9 million of unamortized debt issuance costs which were reclassified from deferred charges and other assets to long-term debt on the September 30, 2016 and 2015 consolidated balance sheets, as discussed in Note 2 . 
+ 
+ Cash Flows 
+ Our internally generated funds may change in the future due to a number of factors, some of which we cannot control. These factors include regulatory changes, the price for our services, the demand for such products and services, margin requirements resulting from significant changes in commodity prices, operational risks and other factors. 
+ Cash flows from operating, investing and financing activities for the years ended September 30, 2016 , 2015 and 2014 are presented below. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Fiscal Year Ended September 30 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 2014 
+ 
+ 
+ 
+ 2016 vs. 2015 
+ 
+ 
+ 
+ 2015 vs. 2014 
+ 
+ 
+ 
+ 
+ (In thousands) 
+ 
+ 
+ Total cash provided by (used in) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating activities 
+ 
+ $ 
+ 
+ 794,990 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 811,914 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 732,813 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (16,924 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ 79,101 
+ 
+ 
+ 
+ 
+ Investing activities 
+ 
+ (1,079,732 
+ 
+ ) 
+ 
+ 
+ 
+ (956,602 
+ 
+ ) 
+ 
+ 
+ 
+ (824,979 
+ 
+ ) 
+ 
+ 
+ 
+ (123,130 
+ 
+ ) 
+ 
+ 
+ 
+ (131,623 
+ 
+ ) 
+ 
+ 
+ Financing activities 
+ 
+ 303,623 
+ 
+ 
+ 
+ 
+ 
+ 131,083 
+ 
+ 
+ 
+ 
+ 
+ 68,225 
+ 
+ 
+ 
+ 
+ 
+ 172,540 
+ 
+ 
+ 
+ 
+ 
+ 62,858 
+ 
+ 
+ 
+ 
+ Change in cash and cash equivalents 
+ 
+ 18,881 
+ 
+ 
+ 
+ 
+ 
+ (13,605 
+ 
+ ) 
+ 
+ 
+ 
+ (23,941 
+ 
+ ) 
+ 
+ 
+ 
+ 32,486 
+ 
+ 
+ 
+ 
+ 
+ 10,336 
+ 
+ 
+ 
+ 
+ Cash and cash equivalents at beginning of period 
+ 
+ 28,653 
+ 
+ 
+ 
+ 
+ 
+ 42,258 
+ 
+ 
+ 
+ 
+ 
+ 66,199 
+ 
+ 
+ 
+ 
+ 
+ (13,605 
+ 
+ ) 
+ 
+ 
+ 
+ (23,941 
+ 
+ ) 
+ 
+ 
+ Cash and cash equivalents at end of period 
+ 
+ $ 
+ 
+ 47,534 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 28,653 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 42,258 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 18,881 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (13,605 
+ 
+ ) 
+ Cash flows from operating activities 
+ Year-over-year changes in our operating cash flows primarily are attributable to changes in net income, working capital changes, particularly within our regulated distribution segment resulting from changes in the price of natural gas and the timing of customer collections, payments for natural gas purchases and deferred gas cost recoveries. 
+ Fiscal Year ended September 30, 2016 compared with fiscal year ended September 30, 2015 
+ For the fiscal year ended September 30, 2016 , we generated operating cash flows of $795.0 million compared with $811.9 million in the prior year. The year-over-year decrease primarily reflects the timing of deferred gas cost recoveries. 
+ Fiscal Year ended September 30, 2015 compared with fiscal year ended September 30, 2014 
+ For the fiscal year ended September 30, 2015 , we generated operating cash flows of $811.9 million compared with $732.8 million in fiscal 2014 . The year-over-year increase primarily reflects successful rate case outcomes in fiscal 2014, the timing of gas cost recoveries under our purchased gas cost mechanisms and lower gas prices during the fiscal 2015 storage injection season. 
+ Cash flows from investing activities 
+ In recent years, we have used substantial amounts of cash to fund our ongoing construction program, which enables us to enhance the safety and reliability of the systems used to provide regulated distribution services to our existing customer base, expand our natural gas distribution services into new markets, enhance the integrity of our pipelines and, more recently, expand our intrastate pipeline network. Over the last three fiscal years, approximately 80 percent of our capital spending has been committed to improving the safety and reliability of our system. 
+ In executing our regulatory strategy, we target our capital spending on regulatory mechanisms that permit us to earn an adequate return timely on our investment without compromising the safety or reliability of our system. Substantially all of our 
+ 
+ 
+ 35 
+ 
+ Table of Contents 
+ 
+ regulated jurisdictions have rate tariffs that provide the opportunity to include in their rate base approved capital costs on a periodic basis without being required to file a rate case. 
+ For the fiscal year ended September 30, 2016 , we incurred $1,087.0 million for capital expenditures compared with $963.6 million for the fiscal year ended September 30, 2015 and $824.4 million for the fiscal year ended September 30, 2014 . 
+ Fiscal Year ended September 30, 2016 compared with fiscal year ended September 30, 2015 
+ The $123.4 million increase in capital expenditures in fiscal 2016 compared to fiscal 2015 primarily reflects: 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ A $69.5 million increase in capital spending in our regulated distribution segment, which reflects the repair and replacement of our transmission and distribution pipelines as part of a planned increase in safety and reliability investment in fiscal 2016, the installation and replacement of measurement and regulating equipment and other pipeline integrity projects. 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ A $54.8 million increase in capital spending in our regulated pipeline segment, primarily related to the enhancement and fortification of two storage fields to ensure the reliability of gas service to our Mid-Tex Division. 
+ Fiscal Year ended September 30, 2015 compared with fiscal year ended September 30, 2014 
+ The $139.2 million increase in capital expenditures in fiscal 2015 compared to fiscal 2014 primarily reflects: 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ A $96.2 million increase in capital spending in our regulated distribution segment, which primarily reflects a planned increase in safety and reliability investment in fiscal 2015. 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ A $43.4 million increase in capital spending in our regulated pipeline segment, primarily related to the enhancement and fortification of two storage fields to ensure the reliability of gas service to our Mid-Tex Division. 
+ Cash flows from financing activities 
+ We generated a net $303.6 million , $131.1 million and $68.2 million in cash from financing activities for fiscal years 2016 , 2015 and 2014 . Our significant financing activities for the fiscal years ended September 30, 2016 , 2015 and 2014 are summarized as follows: 
+ 2016 
+ During the fiscal year ended September 30, 2016 , our financing activities generated $303.6 million of cash compared with $131.1 million of cash generated in the prior year. The increase is primarily due to higher net short-term borrowings due to increased capital expenditures and period-over-period changes in working capital funding needs compared to the prior year, as well as proceeds received from the issuance of common stock under our ATM program in the third fiscal quarter of 2016. 
+ 2015 
+ During the fiscal year ended September 30, 2015 , our financing activities generated $131.1 million of cash compared with $68.2 million of cash generated in fiscal 2014. The increase is primarily due to timing between short-term debt borrowings and repayments during fiscal 2015, proceeds from the issuance of $500 million unsecured 4.125% senior notes in October 2014 and the settlement of the associated forward starting interest rate swaps. Partially offsetting these increases were the repayment of $500 million 4.95% senior unsecured notes at maturity on October 15, 2014, compared with short-term debt borrowings and repayments in fiscal 2014 and proceeds generated from the equity offering completed in February 2014. 
+ 2014 
+ During the fiscal year ended September 30, 2014, our financing activities generated $68.2 million of cash compared with $85.7 million of cash generated in fiscal 2013. The decrease is primarily due to timing between short-term debt borrowings and repayments during fiscal 2014, partially offset by proceeds from the equity offering completed in February 2014 compared with proceeds generated from the issuance of long-term debt in fiscal 2013. 
+ 
+ 
+ 
+ 36 
+ 
+ Table of Contents 
+ 
+ The following table shows the number of shares issued for the fiscal years ended September 30, 2016 , 2015 and 2014 : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Fiscal Year Ended September 30 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 2015 
+ 
+ 
+ 
+ 2014 
+ 
+ 
+ Shares issued: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Direct Stock Purchase Plan 
+ 
+ 133,133 
+ 
+ 
+ 
+ 
+ 
+ 176,391 
+ 
+ 
+ 
+ 
+ 
+ 83,150 
+ 
+ 
+ 
+ 
+ Retirement Savings Plan 
+ 
+ 359,414 
+ 
+ 
+ 
+ 
+ 
+ 398,047 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 1998 Long-Term Incentive Plan 
+ 
+ 598,439 
+ 
+ 
+ 
+ 
+ 
+ 664,752 
+ 
+ 
+ 
+ 
+ 
+ 653,130 
+ 
+ 
+ 
+ 
+ Outside Directors Stock-For-Fee Plan 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 1,735 
+ 
+ 
+ 
+ 
+ February 2014 Offering 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 9,200,000 
+ 
+ 
+ 
+ 
+ At-the-Market (ATM) Equity Sales Program 
+ 
+ 1,360,756 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Total shares issued 
+ 
+ 2,451,742 
+ 
+ 
+ 
+ 
+ 
+ 1,239,190 
+ 
+ 
+ 
+ 
+ 
+ 9,938,015 
+ 
+ 
+ The increase in the number of shares issued in fiscal 2016 compared with the number of shares issued in fiscal 2015 primarily reflects shares issued under the ATM program. At September 30, 2016 , of the 11.2 million shares authorized for issuance from the LTIP, 2,359,106 shares remained available. 
+ The decrease in the number of shares issued in fiscal 2015 compared with the number of shares issued in fiscal 2014 primarily reflects the equity offering completed in February 2014, partially offset by the fact that we began issuing shares for use by the Direct Stock Purchase Plan and the Retirement Savings Plan and Trust rather than using shares purchased in the open market. For the year ended September 30, 2015, we canceled and retired 148,464 shares attributable to federal income tax withholdings on equity awards which are not included in the table above. 
+ 
+ Credit Facilities 
+ Our short-term borrowing requirements are affected by the seasonal nature of the natural gas business. Changes in the price of natural gas and the amount of natural gas we need to supply to meet our customers’ needs could significantly affect our borrowing requirements. 
+ As of September 30, 2016, we financed our short-term borrowing requirements through a combination of a $1.25 billion commercial paper program, four committed revolving credit facilities and one uncommitted revolving credit facility, with a total availability from third-party lenders of approximately $1.3 billion of working capital funding. On October 5, 2016, we amended our existing $1.25 billion unsecured credit facility which increased the committed loan to $1.5 billion and extended the facility through September 25, 2021. The amended facility also retains the $250 million accordion feature, which provides the opportunity to increase the total committed loan amount to $1.75 billion.We also use intercompany credit facilities to supplement the funding provided by these third-party committed credit facilities. 
+ 
+ 
+ Shelf Registration 
+ On March 28, 2016, we filed a registration statement with the SEC that originally permitted us to issue, from time to time, up to $2.5 billion in common stock and/or debt securities, which replaced our registration statement that expired on March 28, 2016. At September 30, 2016, $2.4 billion of securities remain available for issuance under the shelf registration statement. 
+ 
+ 
+ Credit Ratings 
+ Our credit ratings directly affect our ability to obtain short-term and long-term financing, in addition to the cost of such financing. In determining our credit ratings, the rating agencies consider a number of quantitative factors, including debt to total capitalization, operating cash flow relative to outstanding debt, operating cash flow coverage of interest and pension liabilities and funding status. In addition, the rating agencies consider qualitative factors such as consistency of our earnings over time, the quality of our management and business strategy, the risks associated with our regulated and nonregulated businesses and the regulatory environment in the states where we operate. 
+ 
+ Our debt is rated by three rating agencies: Standard & Poor’s Corporation (S&P), Moody’s Investors Service (Moody’s) and Fitch Ratings (Fitch). On May 13, 2016, S&P upgraded our senior unsecured debt rating to A from A- and upgraded our short-term debt rating to A-1 from A-2, with a ratings outlook of stable, citing strong financial performance largely due to our ability to timely recover capital investments. As of September 30, 2016, all three rating agencies maintained a stable outlook. 
+ 
+ 
+ 37 
+ 
+ Table of Contents 
+ 
+ Our current debt ratings are all considered investment grade and are as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ S&P 
+ 
+ 
+ 
+ 
+ 
+ Moody’s 
+ 
+ 
+ 
+ 
+ 
+ Fitch 
+ 
+ 
+ 
+ 
+ Senior unsecured long-term debt 
+ 
+ 
+ 
+ A 
+ 
+ 
+ 
+ 
+ 
+ A2 
+ 
+ 
+ 
+ 
+ 
+ A 
+ 
+ 
+ 
+ 
+ Short-term debt 
+ 
+ 
+ 
+ A-1 
+ 
+ 
+ 
+ 
+ 
+ P-1 
+ 
+ 
+ 
+ 
+ 
+ F-2 
+ 
+ 
+ A significant degradation in our operating performance or a significant reduction in our liquidity caused by more limited access to the private and public credit markets as a result of deteriorating global or national financial and credit conditions could trigger a negative change in our ratings outlook or even a reduction in our credit ratings by the three credit rating agencies. This would mean more limited access to the private and public credit markets and an increase in the costs of such borrowings. 
+ A credit rating is not a recommendation to buy, sell or hold securities. The highest investment grade credit rating is AAA for S&P, Aaa for Moody’s and AAA for Fitch. The lowest investment grade credit rating is BBB- for S&P, Baa3 for Moody’s and BBB- for Fitch. Our credit ratings may be revised or withdrawn at any time by the rating agencies, and each rating should be evaluated independently of any other rating. There can be no assurance that a rating will remain in effect for any given period of time or that a rating will not be lowered, or withdrawn entirely, by a rating agency if, in its judgment, circumstances so warrant. 
+ 
+ Debt Covenants 
+ We were in compliance with all of our debt covenants as of September 30, 2016 . Our debt covenants are described in Note 5 to the consolidated financial statements. 
+ 
+ 
+ 
+ 
+ 38 
+ 
+ Table of Contents 
+ 
+ Contractual Obligations and Commercial Commitments 
+ The following table provides information about contractual obligations and commercial commitments at September 30, 2016 . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Payments Due by Period 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ 
+ 
+ Less than 1 
+ year 
+ 
+ 
+ 
+ 1-3 years 
+ 
+ 
+ 
+ 3-5 years 
+ 
+ 
+ 
+ More than 5 
+ years 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (In thousands) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Contractual Obligations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Long-term debt (1) 
+ 
+ $ 
+ 
+ 2,460,000 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 250,000 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 450,000 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,760,000 
+ 
+ 
+ 
+ 
+ Short-term debt (1) 
+ 
+ 829,811 
+ 
+ 
+ 
+ 
+ 
+ 829,811 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Interest charges (2) 
+ 
+ 2,112,610 
+ 
+ 
+ 
+ 
+ 
+ 135,518 
+ 
+ 
+ 
+ 
+ 
+ 227,809 
+ 
+ 
+ 
+ 
+ 
+ 172,134 
+ 
+ 
+ 
+ 
+ 
+ 1,577,149 
+ 
+ 
+ 
+ 
+ Operating leases (3) 
+ 
+ 125,875 
+ 
+ 
+ 
+ 
+ 
+ 17,073 
+ 
+ 
+ 
+ 
+ 
+ 32,274 
+ 
+ 
+ 
+ 
+ 
+ 28,814 
+ 
+ 
+ 
+ 
+ 
+ 47,714 
+ 
+ 
+ 
+ 
+ Demand fees for contracted storage (4) 
+ 
+ 6,670 
+ 
+ 
+ 
+ 
+ 
+ 4,865 
+ 
+ 
+ 
+ 
+ 
+ 1,590 
+ 
+ 
+ 
+ 
+ 
+ 215 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Demand fees for contracted transportation (5) 
+ 
+ 6,560 
+ 
+ 
+ 
+ 
+ 
+ 4,200 
+ 
+ 
+ 
+ 
+ 
+ 1,170 
+ 
+ 
+ 
+ 
+ 
+ 512 
+ 
+ 
+ 
+ 
+ 
+ 678 
+ 
+ 
+ 
+ 
+ Financial instrument obligations (6) 
+ 
+ 240,819 
+ 
+ 
+ 
+ 
+ 
+ 56,771 
+ 
+ 
+ 
+ 
+ 
+ 184,048 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Pension and postretirement benefit plan contributions (7) 
+ 
+ 407,359 
+ 
+ 
+ 
+ 
+ 
+ 52,410 
+ 
+ 
+ 
+ 
+ 
+ 62,497 
+ 
+ 
+ 
+ 
+ 
+ 83,377 
+ 
+ 
+ 
+ 
+ 
+ 209,075 
+ 
+ 
+ 
+ 
+ Uncertain tax positions (including interest) (8) 
+ 
+ 20,298 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 20,298 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Total contractual obligations 
+ 
+ $ 
+ 
+ 6,210,002 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,350,648 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 979,686 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 285,052 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 3,594,616 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) 
+ 
+ See Note 5 to the consolidated financial statements. 
+ 
+ 
+ 
+ 
+ 
+ (2) 
+ 
+ Interest charges were calculated using the effective rate for each debt issuance. 
+ 
+ 
+ 
+ 
+ 
+ (3) 
+ 
+ See Note 10 to the consolidated financial statements. 
+ 
+ 
+ 
+ 
+ 
+ (4) 
+ 
+ Represents third party contractual demand fees for contracted storage in our nonregulated segment. Contractual demand fees for contracted storage for our regulated distribution segment are excluded as these costs are fully recoverable through our purchase gas adjustment mechanisms. 
+ 
+ 
+ 
+ 
+ 
+ (5) 
+ 
+ Represents third party contractual demand fees for transportation in our nonregulated segment. 
+ 
+ 
+ 
+ 
+ 
+ (6) 
+ 
+ Represents liabilities for natural gas commodity and interest rate financial instruments that were valued as of September 30, 2016 . The ultimate settlement amounts of these remaining liabilities are unknown because they are subject to continuing market risk until the financial instruments are settled. 
+ 
+ 
+ 
+ 
+ 
+ (7) 
+ 
+ Represents expected contributions to our pension and postretirement benefit plans, which are discussed in Note 7 to the consolidated financial statements. 
+ 
+ 
+ 
+ 
+ 
+ (8) 
+ 
+ Represents liabilities associated with uncertain tax positions claimed or expected to be claimed on tax returns. 
+ 
+ Our regulated distribution segment maintains supply contracts with several vendors that generally cover a period of up to one year. Commitments for estimated base gas volumes are established under these contracts on a monthly basis at contractually negotiated prices. Commitments for incremental daily purchases are made as necessary during the month in accordance with the terms of individual contracts. Our Mid-Tex Division also maintains a limited number of long-term supply contracts to ensure a reliable source of gas for our customers in its service area which obligate it to purchase specified volumes at market and fixed prices. At September 30, 2016 , we were committed to purchase 28.5 Bcf within one year, 4.2 Bcf within two to three years and 0.6 Bcf after three years under indexed contracts. 
+ AEH has commitments to purchase physical quantities of natural gas under contracts indexed to the forward NYMEX strip or fixed price contracts. At September 30, 2016 , AEH was committed to purchase 93.5 Bcf within one year, 9.1 Bcf within two to three years and 0.2 Bcf after three years under indexed contracts. AEH is committed to purchase 11.9 Bcf within one year and 1.3 Bcf within two to three years under fixed price contracts with prices ranging from $0.25 to $3.16 per Mcf. 
+ 
+ Risk Management Activities 
+ As discussed above in our Critical Accounting Policies, we use financial instruments to mitigate commodity price risk and, periodically, to manage interest rate risk. We conduct risk management activities through our regulated distribution and nonregulated segments. In our regulated distribution segment, we use a combination of physical storage, fixed physical contracts and fixed financial contracts to reduce our exposure to unusually large winter-period gas price increases. In our nonregulated segments, we manage our exposure to the risk of natural gas price changes and lock in our gross profit margin through a combination of storage and financial instruments, including futures, over-the-counter and exchange-traded options and swap contracts with counterparties. To the extent our inventory cost and actual sales and actual purchases do not correlate 
+ 
+ 
+ 39 
+ 
+ Table of Contents 
+ 
+ with the changes in the market indices we use in our hedges, we could experience ineffectiveness or the hedges may no longer meet the accounting requirements for hedge accounting, resulting in the financial instruments being marked to market through earnings. 
+ We record our financial instruments as a component of risk management assets and liabilities, which are classified as current or noncurrent based upon the anticipated settlement date of the underlying financial instrument. Substantially all of our financial instruments are valued using external market quotes and indices. 
+ The following table shows the components of the change in fair value of our regulated distribution segment’s financial instruments for the fiscal year ended September 30, 2016 (in thousands): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fair value of contracts at September 30, 2015 
+ 
+ $ 
+ 
+ (119,361 
+ 
+ ) 
+ 
+ 
+ Contracts realized/settled 
+ 
+ (20,847 
+ 
+ ) 
+ 
+ 
+ Fair value of new contracts 
+ 
+ 4,811 
+ 
+ 
+ 
+ 
+ Other changes in value 
+ 
+ (126,241 
+ 
+ ) 
+ 
+ 
+ Fair value of contracts at September 30, 2016 
+ 
+ (261,638 
+ 
+ ) 
+ 
+ 
+ Netting of cash collateral 
+ 
+ 25,670 
+ 
+ 
+ 
+ 
+ Cash collateral and fair value of contracts at September 30, 2016 
+ 
+ $ 
+ 
+ (235,968 
+ 
+ ) 
+ The fair value of our regulated distribution segment’s financial instruments at September 30, 2016 , is presented below by time period and fair value source: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fair Value of Contracts at September 30, 2016 
+ 
+ 
+ 
+ 
+ Maturity in years 
+ 
+ 
+ 
+ 
+ 
+ 
+ Source of Fair Value 
+ 
+ Less 
+ than 1 
+ 
+ 
+ 
+ 1-3 
+ 
+ 
+ 
+ 4-5 
+ 
+ 
+ 
+ Greater 
+ than 5 
+ 
+ 
+ 
+ Total 
+ Fair 
+ Value 
+ 
+ 
+ 
+ 
+ (In thousands) 
+ 
+ 
+ Prices actively quoted 
+ 
+ $ 
+ 
+ (65,452 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ (196,186 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (261,638 
+ 
+ ) 
+ 
+ 
+ Prices based on models and other valuation methods 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Total Fair Value 
+ 
+ $ 
+ 
+ (65,452 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ (196,186 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (261,638 
+ 
+ ) 
+ The following table shows the components of the change in fair value of our nonregulated segment’s financial instruments for the fiscal year ended September 30, 2016 (in thousands): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fair value of contracts at September 30, 2015 
+ 
+ $ 
+ 
+ (34,620 
+ 
+ ) 
+ 
+ 
+ Contracts realized/settled 
+ 
+ 25,958 
+ 
+ 
+ 
+ 
+ Fair value of new contracts 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Other changes in value 
+ 
+ (9,243 
+ 
+ ) 
+ 
+ 
+ Fair value of contracts at September 30, 2016 
+ 
+ (17,905 
+ 
+ ) 
+ 
+ 
+ Netting of cash collateral 
+ 
+ 24,680 
+ 
+ 
+ 
+ 
+ Cash collateral and fair value of contracts at September 30, 2016 
+ 
+ $ 
+ 
+ 6,775 
+ 
+ 
+ The fair value of our nonregulated segment’s financial instruments at September 30, 2016 , is presented below by time period and fair value source: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fair Value of Contracts at September 30, 2016 
+ 
+ 
+ 
+ 
+ Maturity in years 
+ 
+ 
+ 
+ 
+ 
+ 
+ Source of Fair Value 
+ 
+ Less 
+ than 1 
+ 
+ 
+ 
+ 1-3 
+ 
+ 
+ 
+ 4-5 
+ 
+ 
+ 
+ Greater 
+ than 5 
+ 
+ 
+ 
+ Total Fair 
+ Value 
+ 
+ 
+ 
+ 
+ (In thousands) 
+ 
+ 
+ Prices actively quoted 
+ 
+ $ 
+ 
+ (15,946 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ (1,418 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ (541 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (17,905 
+ 
+ ) 
+ 
+ 
+ Prices based on models and other valuation methods 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Total Fair Value 
+ 
+ $ 
+ 
+ (15,946 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ (1,418 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ (541 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (17,905 
+ 
+ ) 
+ 
+ 
+ 
+ 
+ 40 
+ 
+ Table of Contents 
+ 
+ Employee Benefits Programs 
+ An important element of our total compensation program, and a significant component of our operation and maintenance expense, is the offering of various benefits programs to our employees. These programs include medical and dental insurance coverage and pension and postretirement programs. 
+ Medical and Dental Insurance 
+ We offer medical and dental insurance programs to substantially all of our employees.We believe these programs are compliant with all current and future provisions that will be going into effect under The Patient Protection and Affordable Care Act and consistent with other programs in our industry. In recent years, we have endeavored to actively manage our health care costs through the introduction of a wellness strategy that is focused on helping employees to identify health risks and to manage these risks through improved lifestyle choices. 
+ Over the last five fiscal years, we have experienced annual medical and prescription inflation of approximately six percent. For fiscal 2017 , we anticipate the medical and prescription drug inflation rate will continue at approximately six percent, primarily due to the inflation of health care costs. 
+ Net Periodic Pension and Postretirement Benefit Costs 
+ For the fiscal year ended September 30, 2016 , our total net periodic pension and other benefits costs was $46.0 million , compared with $58.9 million and $69.8 million for the fiscal years ended September 30, 2015 and 2014 . These costs relating to our regulated distribution operations are recoverable through our distribution rates. A portion of these costs is capitalized into our distribution rate base, and the remaining costs are recorded as a component of operation and maintenance expense. 
+ Our fiscal 2016 costs were determined using a September 30, 2015 measurement date. At that date, interest and corporate bond rates utilized to determine our discount rates were higher than the interest and corporate bond rates as of September 30, 2014 , the measurement date for our fiscal 2015 net periodic cost. Therefore, we increased the discount rate used to measure our fiscal 2016 net periodic cost from 4.43 percent to 4.55 percent. We lowered expected return on plan assets from 7.25 percent to 7.00 percent in the determination of our fiscal 2016 net periodic pension cost based upon expected market returns for our targeted asset allocation. As a result of the net impact of these and other assumptions, our fiscal 2016 pension and postretirement medical costs were approximately 20 percent lower than in the prior year. 
+ Our fiscal 2015 costs were determined using a September 30, 2014 measurement date. At that date, interest and corporate bond rates utilized to determine our discount rates were lower than the interest and corporate bond rates as of September 30, 2013, the measurement date for our fiscal 2014 net periodic cost. Therefore, we decreased the discount rate used to measure our fiscal 2015 net periodic cost from 4.95 percent to 4.43 percent. We maintained our expected return on plan assets at 7.25 percent in the determination of our fiscal 2015 net periodic pension cost based upon expected market returns for our targeted asset allocation. As a result of the net impact of these and other assumptions, our fiscal 2015 pension and postretirement medical costs were lower than in the prior year. 
+ Pension and Postretirement Plan Funding 
+ Generally, our funding policy is to contribute annually an amount that will at least equal the minimum amount required to comply with the Employee Retirement Income Security Act of 1974 (ERISA). However, additional voluntary contributions are made from time to time as considered necessary. Contributions are intended to provide not only for benefits attributed to service to date but also for those expected to be earned in the future. 
+ In accordance with the Pension Protection Act of 2006 (PPA), we determined the funded status of our plans as of January 1, 2016. Based on this valuation, we contributed cash of $15.0 million , $38.0 million and $27.1 million to our pension plans during fiscal 2016 , 2015 and 2014 . Each contribution increased the level of our plan assets to achieve a desired PPA funding threshold. 
+ We contributed $16.6 million , $20.0 million and $23.6 million to our postretirement benefits plans for the fiscal years ended September 30, 2016 , 2015 and 2014 . The contributions represent the portion of the postretirement costs we are responsible for under the terms of our plan and minimum funding required by state regulatory commissions. 
+ Outlook for Fiscal 2017 and Beyond 
+ As of September 30, 2016 , interest and corporate bond rates were lower than the rates as of September 30, 2015. Therefore, we decreased the discount rate used to measure our fiscal 2017 net periodic cost from 4.55 percent to 3.73 percent. We maintained the expected return on plan assets of 7.00 percent in the determination of our fiscal 2017 net periodic pension cost based upon expected market returns for our targeted asset allocation. On October 20, 2016, the Society of Actuaries released its annually-updated mortality improvement scale for pension plans incorporating new assumptions surrounding life expectancies in the United States. As of September 30, 2016, we updated our assumed mortality rates to incorporate the 
+ 
+ 
+ 41 
+ 
+ Table of Contents 
+ 
+ updated mortality table. As a result of the net impact of changes in these and other assumptions, we expect our fiscal 2017 net periodic pension cost to be consistent with fiscal 2016. 
+ Based upon current market conditions, the current funded position of the plans and the funding requirements under the PPA, we do not anticipate a minimum required contribution for fiscal 2017 . However, we may consider whether a voluntary contribution is prudent to maintain certain funding levels. With respect to our postretirement medical plans, we anticipate contributing between $10 million and $20 million during fiscal 2017 . 
+ Actual changes in the fair market value of plan assets and differences between the actual and expected return on plan assets could have a material effect on the amount of pension costs ultimately recognized. A 0.25 percent change in our discount rate would impact our pension and postretirement costs by approximately $2.9 million. A 0.25 percent change in our expected rate of return would impact our pension and postretirement costs by approximately $1.3 million. 
+ The projected liability, future funding requirements and the amount of expense or income recognized for each of our pension and other post-retirement benefit plans are subject to change, depending on the actuarial value of plan assets, and the determination of future benefit obligations as of each subsequent calculation date. These amounts are impacted by actual investment returns, changes in interest rates, changes in the demographic composition of the participants in the plans and other actuarial assumptions. 
+ 
+ RECENT ACCOUNTING DEVELOPMENTS 
+ Recent accounting developments and their impact on our financial position, results of operations and cash flows are described in Note 2 to the consolidated financial statements. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,1871 @@
+ ITEM 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations 
+ The following discussion should be read in conjunction with the financial statements and notes thereto appearing elsewhere in this report. We make statements in this section that are forward-looking statements within the meaning of the federal securities laws. For a complete discussion of forward-looking statements, see the section in this Form 10-K entitled “Statements Regarding Forward-Looking Information.” Certain risk factors may cause actual results, performance or achievements to differ materially from those expressed or implied by the following discussion. For a discussion of such risk factors, see the section in this Form 10-K entitled “Risk Factors.” Dollar amounts are in thousands, except share and per share data, unless otherwise stated. 
+ 
+ OVERVIEW 
+ We are a fully integrated, self-administered and self-managed REIT, formed to own, operate, manage, acquire, develop and redevelop self-storage properties (“stores”). We derive substantially all of our revenues from our two segments: self-storage operations and tenant reinsurance. Primary sources of revenue for our self-storage operations segment include rents received from tenants under leases at each of our wholly-owned stores. Our operating results depend materially on our ability to lease available self-storage units, to actively manage unit rental rates, and on the ability of our tenants to make required rental payments. Consequently, management spends a significant portion of their time maximizing cash flows from our diverse portfolio of stores. Revenue from our tenant reinsurance segment consists of insurance revenues from the reinsurance of risks relating to the loss of goods stored by tenants in our stores. 
+ Our stores are generally situated in highly visible locations clustered around large population centers. The clustering of our assets around these population centers enables us to reduce our operating costs through economies of scale. To maximize the performance of our stores, we employ industry-leading revenue management systems. Developed by our management team, these systems enable us to analyze, set and adjust rental rates daily across our portfolio in order to respond to changing market conditions. We believe our systems and processes allow us to more pro-actively manage revenues. 
+ We operate in competitive markets, often where consumers have multiple stores from which to choose. Competition has impacted, and will continue to impact, our store results. We experience seasonal fluctuations in occupancy levels, with occupancy levels generally higher in the summer months due to increased moving activity. We believe that we are able to respond quickly and effectively to changes in local, regional and national economic conditions by adjusting rental rates through the combination of our revenue management team and our industry-leading technology systems. We consider a store to be in the lease-up stage after it has been issued a certificate of occupancy, but before it has achieved stabilization. We consider a store to be stabilized once it has achieved either an 80% occupancy rate for a full year measured as of January 1 of the current year, or has been open for three years prior to January 1 of the current year. 
+ 
+ CRITICAL ACCOUNTING POLICIES AND ESTIMATES 
+ Our financial statements have been prepared in accordance with U.S. generally accepted accounting principles. The preparation of these financial statements requires us to make estimates and assumptions that affect the reported amount of assets and liabilities at the date of the financial statements and the reported amount of revenues and expenses during the reporting period. On an ongoing basis, we evaluate our estimates and assumptions, including those that impact our most critical accounting policies. We base our estimates and assumptions on historical experience and on various other factors that we believe are reasonable under the circumstances. A summary of significant accounting policies is also provided in the notes to our consolidated financial statements (see Note 2 to our consolidated financial statements). Actual results may differ from these estimates. We believe the following are our most critical accounting policies and estimates: 
+ CONSOLIDATION: Arrangements that are not controlled through voting or similar rights are accounted for as variable interest entities (“VIEs”). An enterprise is required to consolidate a VIE if it is the primary beneficiary of the VIE. 
+ Under certain circumstances when we enter into arrangements for the formation of joint ventures, a VIE may be created. The primary factors that require the most judgment in determining whether the joint venture is a VIE are whether the decisions that most significantly impact the entity’s economic performance were controlled by the equity holders as a group and whether the joint venture has sufficient equity to finance its activities without additional subordinated support. 
+ If the joint venture is determined to be a VIE, we perform a qualitative analysis, including considering which party, if any, has the power to direct the activities most significant to the economic performance of each VIE and whether that party has the obligation to absorb losses of the VIE or the right to receive benefits from the VIE that could be significant to the VIE. If we are determined to be the primary beneficiary of the VIE, the assets, liabilities and operations of the VIE are consolidated within 
+ 
+ 
+ 21 
+ 
+ 
+ 
+ our financial statements. Otherwise, our investment is generally accounted for under the equity method. Our ability to correctly assess the influence or control over an entity affects the presentation of the investment in our consolidated financial statements. 
+ REAL ESTATE ASSETS: We account for the acquisition of stores, including by merger and other acquisitions of real estate, in accordance with ASC 805-10, “ Business Combinations. ” We use our judgment to determine if assets acquired meet the definition of a business or if the acquisition should be considered an asset acquisition. We must make significant assumptions and estimates in determining the fair value of the tangible and intangible assets and liabilities acquired and consideration transferred. These fair value estimates are sensitive to price of land per square foot and current replacement cost estimates, including adjustments for the age, class, height, square footage, condition, location, and turnkey factor. These assumptions and estimates require judgment, and therefore others could come to materially different conclusions as to the estimated fair values, which could result in differences in depreciation and amortization expense, gains and losses on the sale of real estate assets, and real estate and intangible asset values. 
+ EVALUATION OF ASSET IMPAIRMENT: Long lived assets held for use are evaluated for impairment when events or circumstances indicate that there may be impairment. We review each store at least annually to determine if any such events or circumstances have occurred or exist. We focus on stores where occupancy and/or rental income have decreased by a significant amount. For these stores, we determine whether the decrease is temporary or permanent and whether the store will likely recover the lost occupancy and/or revenue in the short term. In addition, we review stores in the lease-up stage and compare actual operating results to original projections. We may not have identified all material facts and circumstances that affect impairment of our stores. No material impairments were recorded in the year ended December 31, 2024. 
+ We evaluate goodwill for impairment at least annually and whenever events, circumstances, and other related factors indicate that fair value of the related reporting unit may be less than the carrying value. If the fair value of the reporting unit is determined to exceed the aggregate carrying amount, no impairment charge is recorded. Otherwise, an impairment charge is recorded for the amount in which the carrying value of the reporting unit exceeds the fair value. No impairments were recorded in our evaluations for any period presented herein. 
+ DERIVATIVE INSTRUMENTS AND HEDGING ACTIVITIES: We hold a number of derivative instruments which we use to hedge our exposure to variability in expected future cash flows, mainly related to our interest rates on variable interest debt. We do not use derivatives for trading or speculative purposes. We assess our derivatives both at inception and on an ongoing quarterly basis for whether the derivatives used in hedging transactions are effective. The rules and interpretations relating to the accounting for derivatives are complex. Failure to apply this guidance correctly may require us to recognize all changes in fair value of the hedged derivative in earnings, which may materially impact our results. 
+ INCOME TAXES: We have elected to be treated as a REIT under Sections 856 through 860 of the Internal Revenue Code. In order to maintain our qualification as a REIT, among other requirements, we are required to distribute at least 90% of our REIT taxable income to our stockholders and meet certain tests regarding the nature of our income and assets. As a REIT, we are not subject to U.S. federal income tax with respect to that portion of our income which meets certain criteria and is distributed annually to our stockholders. We plan to continue to operate so that we meet the requirements for taxation as a REIT. Many of these requirements, however, are highly technical and complex. For any taxable year that we fail to qualify as a REIT and for which applicable statutory relief provisions did not apply, we would be subject to U.S. federal corporate income tax on all of our taxable income for at least that year and the ensuing four years. We could also be subject to penalties and interest, and our net income may be materially different from the amounts reported in our financial statements. 
+ We have elected to treat certain corporate subsidiaries, including Extra Space Management, Inc., as a TRS. In general, a TRS may perform additional services for tenants and generally may engage in any real estate or non-real estate related business. A TRS is subject to U.S. federal corporate income tax and may also be subject to state and local income taxes. Interest and penalties relating to uncertain tax positions will be recognized in income tax expense when incurred. If tax authorities determine that amounts paid by any of our TRSs to us are not reasonable compared to similar arrangements among unrelated parties, we could be subject to a penalty tax on the excess payments. 
+ RECENT ACCOUNTING PRONOUNCEMENTS 
+ For a discussion of recent accounting pronouncements affecting our business, see ITEM 8, “Financial Statements and Supplementary Data–Recently Issued Accounting Standards.” 
+ 
+ 
+ 22 
+ 
+ 
+ 
+ 
+ RESULTS OF OPERATIONS 
+ Comparison of the Year Ended December 31, 2024 to the Year Ended December 31, 2023 
+ Overview 
+ Results for the year ended December 31, 2024 included the operations of 2,436 stores (1,967 wholly-owned, nine in consolidated joint ventures, and 460 in joint ventures accounted for using the equity method) compared to the results for the year ended December 31, 2023, which included the operations of 2,377 stores (1,903 wholly-owned, two in consolidated joint ventures, and 472 in joint ventures accounted for using the equity method). Material or unusual changes in the results of our operations are discussed below: 
+ 
+ 
+ Revenues 
+ The following table presents information on revenues earned for the years indicated: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Year Ended December 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ $ Change 
+ 
+ % Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Property rental 
+ $ 
+ 2,803,252 
+ 
+ 
+ $ 
+ 2,222,578 
+ 
+ 
+ $ 
+ 580,674 
+ 
+ 
+ 26.1 
+ % 
+ 
+ Tenant reinsurance 
+ 332,795 
+ 
+ 
+ 235,680 
+ 
+ 
+ 97,115 
+ 
+ 
+ 41.2 
+ % 
+ 
+ Management fees and other income 
+ 120,855 
+ 
+ 
+ 101,986 
+ 
+ 
+ 18,869 
+ 
+ 
+ 18.5 
+ % 
+ 
+ Total revenues 
+ $ 
+ 3,256,902 
+ 
+ 
+ $ 
+ 2,560,244 
+ 
+ 
+ $ 
+ 696,658 
+ 
+ 
+ 27.2 
+ % 
+ 
+ Property Rental— The increase in property rental revenue for the year ended December 31, 2024 was primarily the result of an increase of $570,407 associated with our merger with Life Storage on July 20, 2023, (the “Life Storage Merger” or “Merger”) and other acquisitions completed in 2023 and 2024. We acquired 757 wholly-owned stores in the Merger and an additional 14 stores during the year ended December 31, 2023. We acquired 58 stores during the year ended December 31, 2024. The increase is also attributed to the Life Storage stores being on our platform for a full 12 months in 2024 in comparison with five months in 2023. In addition to the increase attributable to the Merger, property rental revenue increased by $5,440 due to operating results at our same-store pool and increased by $4,892 as a result of increases in occupancy at our lease-up stores. 
+ Tenant Reinsurance —The increase in tenant reinsurance revenue was due primarily to an increase in the number of stores operated, as well as the Life Storage stores being on our platform for a full 12 months in 2024 in comparison with five months in 2023. We operated 4,011 stores at December 31, 2024, compared to 3,714 stores at December 31, 2023. 
+ Management Fees and Other Income —Management fees and other income represent the fees collected for our management of stores owned by third parties and unconsolidated joint ventures and other transaction fee income. The increase for the year ended December 31, 2024 was primarily due to an increase in the number of stores managed. As of December 31, 2024, we managed 2,044 stores for third parties and unconsolidated joint ventures, compared to 1,811 stores as of December 31, 2023. 
+ 
+ 
+ 23 
+ 
+ 
+ 
+ Expenses 
+ The following table presents information on expenses for the years indicated: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Year Ended December 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ $ Change 
+ 
+ % Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Property operations 
+ $ 
+ 831,566 
+ 
+ 
+ $ 
+ 612,036 
+ 
+ 
+ $ 
+ 219,530 
+ 
+ 
+ 35.9 
+ % 
+ 
+ Tenant reinsurance 
+ 73,886 
+ 
+ 
+ 58,874 
+ 
+ 
+ 15,012 
+ 
+ 
+ 25.5 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Life Storage Merger transition costs 
+ — 
+ 
+ 
+ 66,732 
+ 
+ 
+ (66,732) 
+ 
+ 
+ (100.0) 
+ % 
+ 
+ General and administrative 
+ 167,398 
+ 
+ 
+ 146,408 
+ 
+ 
+ 20,990 
+ 
+ 
+ 14.3 
+ % 
+ 
+ Depreciation and amortization 
+ 783,023 
+ 
+ 
+ 506,053 
+ 
+ 
+ 276,970 
+ 
+ 
+ 54.7 
+ % 
+ 
+ Total expenses 
+ $ 
+ 1,855,873 
+ 
+ 
+ $ 
+ 1,390,103 
+ 
+ 
+ $ 
+ 465,770 
+ 
+ 
+ 33.5 
+ % 
+ Property Operations —The increase in property operations expense consists primarily of an increase of $186,294 associated with the Life Storage Merger and other acquisitions completed in 2023 and 2024. We acquired 757 wholly-owned stores in the merger and an additional 14 stores during the year ended December 31, 2023. We acquired 58 stores during the year ended December 31, 2024. The increase is also attributed to the Life Storage stores being on our platform for a full 12 months in 2024 in comparison with five months in 2023. Additionally, property operations expense increased $23,122 at our same-store pool due to increased marketing expense, payroll, and property taxes. 
+ Tenant Reinsurance —Tenant reinsurance expense represents the costs that are incurred to provide tenant reinsurance. The increase in tenant reinsurance expense for the year ended December 31, 2024 was due primarily to the increase in total number of stores operated compared to the prior year. We operated 4,011 stores at December 31, 2024, compared to 3,714 stores at December 31, 2023. 
+ Life Storage Merger Transition Costs— Represents the costs that were incurred as part of the Life Storage Merger primarily consisting of severance paid as part of employment agreements with certain employees and officers of Life Storage. 
+ General and Administrative— General and administrative expenses primarily include all expenses not directly related to our stores, including corporate payroll, travel and professional fees. These expenses are recognized as incurred. Our overall General and Administrative expense has increased primarily as a result of our increased size through acquisitions, business combinations and growth through our joint venture partners and managed portfolio. No other material trends in specific travel or other expenses were observed. 
+ Depreciation and Amortization —Depreciation and amortization expense increased primarily as a result of the acquisition of new stores. We acquired 58 wholly-owned stores during the year ended December 31, 2024. We acquired 757 wholly-owned stores in the Life Storage Merger and an additional 14 wholly-owned stores during the year ended December 31, 2023. 
+ 
+ 
+ 24 
+ 
+ 
+ 
+ Other Income and Expenses 
+ The following table presents information on other revenues and expenses for the years indicated: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Year Ended December 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ $ Change 
+ 
+ % Change 
+ 
+ Loss on real estate assets held for sale and sold, net 
+ $ 
+ (25,906) 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ (25,906) 
+ 
+ 
+ 100.0 
+ % 
+ 
+ Impairment of Life Storage trade name 
+ (51,763) 
+ 
+ 
+ — 
+ 
+ 
+ (51,763) 
+ 
+ 
+ 100.0 
+ % 
+ 
+ Interest expense 
+ (551,354) 
+ 
+ 
+ (419,035) 
+ 
+ 
+ (132,319) 
+ 
+ 
+ 31.6 
+ % 
+ 
+ Non-cash interest expense related to amortization of discount on Life Storage unsecured senior notes 
+ (43,720) 
+ 
+ 
+ (18,786) 
+ 
+ 
+ (24,934) 
+ 
+ 
+ 132.7 
+ % 
+ 
+ Interest income 
+ 124,422 
+ 
+ 
+ 84,857 
+ 
+ 
+ 39,565 
+ 
+ 
+ 46.6 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Equity in earnings and dividend income from unconsolidated real estate entities 
+ 67,272 
+ 
+ 
+ 54,835 
+ 
+ 
+ 12,437 
+ 
+ 
+ 22.7 
+ % 
+ 
+ Equity in earnings of unconsolidated real estate ventures - gain on sale of real estate assets and sale of a joint venture interest 
+ 13,730 
+ 
+ 
+ — 
+ 
+ 
+ 13,730 
+ 
+ 
+ 100.0 
+ % 
+ 
+ Income tax expense 
+ (33,478) 
+ 
+ 
+ (21,559) 
+ 
+ 
+ (11,919) 
+ 
+ 
+ 55.3 
+ % 
+ 
+ Total other expense, net 
+ $ 
+ (500,797) 
+ 
+ 
+ $ 
+ (319,688) 
+ 
+ 
+ $ 
+ (181,109) 
+ 
+ 
+ 56.7 
+ % 
+ 
+ Loss on Real Estate Assets Held for Sale and Sold, Net— During the year ended December 31, 2024, we had 18 stores classified as held for sale. Of the 18 stores, 10 had an estimated fair value, net of selling costs, which was less than the carrying value of the asset. As a result, we recorded an estimated loss of $63,250. On our consolidated statements of operations, this amount is shown net of the sale of a property which generated a gain of $37,344 within gain (loss) on real estate assets held for sale and sold, net. 
+ 
+ Impairment of Life Storage Trade Name— During the year ended December 31, 2024, we decided to operate all stores under a single brand. As a result of that decision, we deemed the Life Storage trade name intangible asset to be impaired and recognized a loss for the full value of the asset. 
+ Interest Expense— The increase in interest expense during the year ended December 31, 2024 was primarily the result of higher outstanding debt compared to the same period in the prior year. Information on the total face value of debt and the weighted average interest rate for the years ended December 31, 2024 and December 31, 2023 is set forth in the following table: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Year Ended December 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total face value of debt 
+ $ 
+ 12,600,661 
+ 
+ 
+ $ 
+ 11,346,105 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Weighted average interest rate 
+ 4.4 
+ % 
+ 
+ 4.6 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Non-cash Interest Expense Related to Amortization of Discount on Life Storage Unsecured Senior Notes— Represents the amortization of the discount assigned to the fair value of the Life Storage unsecured senior notes assumed as part of the Life Storage Merger. 
+ Interest Income— Interest income represents interest earned on variable interest rate bridge loans, debt securities and on notes receivable from common and preferred Operating Partnership unit holders. The increase in interest income during the year ended December 31, 2024 was primarily the result of an increase in the amount of bridge loans outstanding. The balance of bridge loans was $1,244,575 as of December 31, 2024, compared to $594,727 as of December 31, 2023. 
+ 
+ 
+ 25 
+ 
+ 
+ 
+ Equity in Earnings and Dividend Income from Unconsolidated Real Estate Entities— Equity in earnings of unconsolidated real estate entities represents the income earned through our ownership interests in unconsolidated joint ventures. In these joint ventures, we and our joint venture partners generally receive a preferred return on our invested capital. To the extent that cash or profits in excess of these preferred returns are generated, we receive a higher percentage of the excess cash or profits. The increase compared to 2023 is mainly attributed to the Life Storage stores being on our platform for 12 months in 2024 in comparison with five months in 2023. Additionally, in November 2024 we acquired additional ownership interest in the HF1 Sovran HHF Storage Holdings LLC and HF2 Sovran HHF Storage Holdings II LLC from our partner in the unconsolidated joint ventures. The transaction increased our equity ownership percentages from 20% and 15%, respectively, to 49% in each unconsolidated joint venture. Dividend income represents dividends from our investment in preferred stock of SmartStop Self Storage REIT, Inc. and Strategic Storage Trust VI, Inc. 
+ Equity in Earnings of Unconsolidated Real Estate Ventures - Gain on Sale of Real Estate Assets and Sale of a Joint Venture Interest— In August 2024, the ESS Bristol Investments LLC joint venture sold five of its eight stores to another unconsolidated joint venture, and we recognized a gain of $10,324 for our pro rata share of the transaction. In September 2024, we sold our membership interest in the Alan Jathoo JV LLC unconsolidated joint venture, which held nine stores, to our partner and recognized a gain of $3,406 on the transaction. 
+ Income Tax Expense— The increase in income tax expense for the year ended December 31, 2024 was primarily the result of a full year of TRS book income for Life Storage stores, compared to a partial year in 2023, as well as a decrease in permanent tax deductions related to stock awards. 
+ Comparison of the Year Ended December 31, 2023 to the Year Ended December 31, 2022 
+ 
+ The results of operations for the years ended December 31, 2023 compared to December 31, 2022 was included in our Annual Report on Form 10-K for the year ended December 31, 2023 on page 23, under Part II, ITEM 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations,” which was filed with the Securities and Exchange Commission (the “SEC”) on February 29, 2024. 
+ 
+ FUNDS FROM OPERATIONS 
+ Funds from operations (“FFO”) provides relevant and meaningful information about our operating performance that is necessary, along with net income and cash flows, for an understanding of our operating results. We believe FFO is a meaningful disclosure as a supplement to net earnings. Net earnings assume that the values of real estate assets diminish predictably over time as reflected through depreciation and amortization expenses. The values of real estate assets fluctuate due to market conditions, and we believe FFO more accurately reflects the value of our real estate assets. FFO is defined by the National Association of Real Estate Investment Trusts, Inc. (“NAREIT”) as net income computed in accordance with U.S. generally accepted accounting principles (“GAAP”), excluding gains or losses on sales of operating stores and impairment write-downs of depreciable real estate assets, plus real estate related depreciation and amortization and after adjustments to record unconsolidated partnerships and joint ventures on the same basis. We believe that to further understand our performance, FFO should be considered along with the reported net income and cash flows in accordance with GAAP, as presented in the consolidated financial statements. FFO should not be considered a replacement of net income computed in accordance with GAAP. 
+ The computation of FFO may not be comparable to FFO reported by other REITs or real estate companies that do not define the term in accordance with the current NAREIT definition or that interpret the current NAREIT definition differently. FFO does not represent cash generated from operating activities determined in accordance with GAAP and should not be considered as an alternative to net income as an indication of our performance, as an alternative to net cash flow from operating activities, as a measure of our liquidity, or as an indicator of our ability to make cash distributions. 
+ 
+ 
+ 26 
+ 
+ 
+ 
+ The following table presents the calculation of FFO for the periods indicated: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Year Ended December 31, 
+ 
+ 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ Net income attributable to common stockholders 
+ 
+ $ 
+ 854,681 
+ 
+ 
+ $ 
+ 803,198 
+ 
+ 
+ $ 
+ 860,688 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Adjustments: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Real estate depreciation 
+ 
+ 618,189 
+ 
+ 
+ 418,149 
+ 
+ 
+ 263,923 
+ 
+ 
+ Amortization of intangibles 
+ 
+ 113,886 
+ 
+ 
+ 59,295 
+ 
+ 
+ 13,623 
+ 
+ 
+ (Gain) loss on real estate assets held for sale and sold, net 
+ 
+ 25,906 
+ 
+ 
+ — 
+ 
+ 
+ (14,249) 
+ 
+ 
+ Unconsolidated joint venture real estate depreciation and amortization 
+ 
+ 32,678 
+ 
+ 
+ 24,400 
+ 
+ 
+ 16,644 
+ 
+ 
+ Unconsolidated joint venture gain on sale of real estate assets 
+ 
+ (13,730) 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ Distributions paid on Series A Preferred Operating Partnership units 
+ 
+ — 
+ 
+ 
+ (159) 
+ 
+ 
+ (2,288) 
+ 
+ 
+ Income allocated to Operating Partnership noncontrolling interests 
+ 
+ 45,551 
+ 
+ 
+ 47,255 
+ 
+ 
+ 60,468 
+ 
+ 
+ Funds from operations attributable to common stockholders and unit holders 
+ 
+ $ 
+ 1,677,161 
+ 
+ 
+ $ 
+ 1,352,138 
+ 
+ 
+ $ 
+ 1,198,809 
+ 
+ 
+ 
+ SAME-STORE RESULTS 
+ Comparison of the Year Ended December 31, 2024 to the Year Ended December 31, 2023 
+ Our same-store pool for the periods presented consists of 1,071 stores that are wholly-owned and operated and that were stabilized by the first day of the earliest calendar year presented. We consider a store to be stabilized once it has been open for three years or has sustained average square foot occupancy of 80% or more for one calendar year. We believe that by providing same-store results from a stabilized pool of stores, with accompanying operating metrics including, but not limited to, occupancy, rental revenue growth, operating expense growth, net operating income growth, etc., stockholders and potential investors are able to evaluate operating performance without the effects of non-stabilized occupancy levels, rent levels, expense levels, acquisitions or completed developments. Same-store results should not be used as a basis for future same-store performance or for the performance of our stores as a whole. The following table presents operating data for our same-store portfolio: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Year Ended December 31, 
+ 
+ Percent 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ Change 
+ 
+ Same-store rental revenues 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net rental income 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 1,601,455 
+ 
+ 
+ $ 
+ 1,596,015 
+ 
+ 
+ 0.3% 
+ 
+ Other operating income 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 64,300 
+ 
+ 
+ $ 
+ 65,689 
+ 
+ 
+ (2.1)% 
+ 
+ Total same-store rental revenues 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 1,665,755 
+ 
+ 
+ $ 
+ 1,661,704 
+ 
+ 
+ 0.2% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Same-store operating expenses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Payroll and benefits 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 95,696 
+ 
+ 
+ $ 
+ 91,329 
+ 
+ 
+ 4.8% 
+ 
+ Marketing 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 34,038 
+ 
+ 
+ $ 
+ 30,237 
+ 
+ 
+ 12.6% 
+ 
+ Office expense 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 51,606 
+ 
+ 
+ $ 
+ 51,655 
+ 
+ 
+ (0.1)% 
+ 
+ Property operating expense 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 37,646 
+ 
+ 
+ $ 
+ 38,491 
+ 
+ 
+ (2.2)% 
+ 
+ Repairs and maintenance 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 27,934 
+ 
+ 
+ $ 
+ 26,469 
+ 
+ 
+ 5.5% 
+ 
+ Property taxes 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 165,617 
+ 
+ 
+ $ 
+ 152,028 
+ 
+ 
+ 8.9% 
+ 
+ Insurance 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 19,512 
+ 
+ 
+ $ 
+ 18,718 
+ 
+ 
+ 4.2% 
+ 
+ Total same-store operating expenses 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 432,049 
+ 
+ 
+ $ 
+ 408,927 
+ 
+ 
+ 5.7% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Same-store net operating income 
+ 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 1,233,706 
+ 
+ 
+ $ 
+ 1,252,777 
+ 
+ 
+ (1.5)% 
+ 
+ 
+ 27 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Same-store square foot occupancy as of year end 
+ 
+ 
+ 
+ 
+ 
+ 
+ 93.7 
+ % 
+ 
+ 92.5 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Properties included in same-store 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1,071 
+ 
+ 
+ 1,071 
+ 
+ 
+ 
+ 
+ 
+ The following table presents additional information for our same-store portfolio: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Year Ended December 31, 
+ 
+ Same-store portfolio 
+ 
+ 
+ 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ Average annual rent per occupied square foot, net of discounts and bad debt 
+ 
+ 
+ 
+ 
+ $ 
+ 21.68 
+ 
+ 
+ $ 
+ 21.83 
+ 
+ 
+ New leases average annual rent per square foot 
+ 
+ 
+ 
+ 
+ $ 
+ 14.49 
+ 
+ 
+ $ 
+ 16.18 
+ 
+ 
+ Average discounts as a percentage of rental revenues 
+ 
+ 
+ 
+ 
+ 2.1 
+ % 
+ 
+ 2.4 
+ % 
+ The following table presents a reconciliation of same-store net operating income to net income as presented on our consolidated statements of operations for the periods indicated: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Year Ended December 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ Net Income 
+ 
+ 
+ 
+ 
+ $ 
+ 900,232 
+ 
+ 
+ $ 
+ 850,453 
+ 
+ 
+ Adjusted to exclude: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Loss on real estate assets held for sale and sold, net 
+ 
+ 
+ 
+ 
+ 25,906 
+ 
+ 
+ — 
+ 
+ 
+ Equity in earnings and dividend income from unconsolidated real estate entities 
+ 
+ 
+ 
+ 
+ (67,272) 
+ 
+ 
+ (54,835) 
+ 
+ 
+ Equity in earnings of unconsolidated real estate ventures - gain on sale of real estate assets and sale of a joint venture interest 
+ 
+ 
+ 
+ 
+ (13,730) 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Interest expense 
+ 
+ 
+ 
+ 
+ 551,354 
+ 
+ 
+ 419,035 
+ 
+ 
+ Non-cash interest expense related to amortization of discount on Life Storage unsecured senior notes 
+ 
+ 
+ 
+ 
+ 43,720 
+ 
+ 
+ 18,786 
+ 
+ 
+ Depreciation and amortization 
+ 
+ 
+ 
+ 
+ 783,023 
+ 
+ 
+ 506,053 
+ 
+ 
+ Income tax expense 
+ 
+ 
+ 
+ 
+ 33,478 
+ 
+ 
+ 21,559 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Life Storage Merger transition costs 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 66,732 
+ 
+ 
+ General and administrative 
+ 
+ 
+ 
+ 
+ 167,398 
+ 
+ 
+ 146,408 
+ 
+ 
+ Impairment of Life Storage trade name 
+ 
+ 
+ 
+ 
+ 51,763 
+ 
+ 
+ — 
+ 
+ 
+ Management fees, other income and interest income 
+ 
+ 
+ 
+ 
+ (245,277) 
+ 
+ 
+ (186,843) 
+ 
+ 
+ Net tenant insurance 
+ 
+ 
+ 
+ 
+ (258,909) 
+ 
+ 
+ (176,806) 
+ 
+ 
+ Non same-store rental revenue 
+ 
+ 
+ 
+ 
+ (1,137,497) 
+ 
+ 
+ (560,874) 
+ 
+ 
+ Non same-store operating expense 
+ 
+ 
+ 
+ 
+ 399,517 
+ 
+ 
+ 203,109 
+ 
+ 
+ Total same-store net operating income 
+ 
+ 
+ 
+ 
+ $ 
+ 1,233,706 
+ 
+ 
+ $ 
+ 1,252,777 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Comparison of the Year Ended December 31, 2023 to the Year Ended December 31, 2022 
+ 
+ The same-store results for the years ended December 31, 2023 compared to December 31, 2022 was included in our Annual Report on Form 10-K for the year ended December 31, 2023 on page 27, under Part II, ITEM 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations,” which was filed with the SEC on February 29, 2024. 
+ 
+ 
+ 28 
+ 
+ 
+ 
+ 
+ CASH FLOWS 
+ 
+ Cash flows from operating activities increased as expected due to our continued growth in revenues and through the increase in the number of properties we own and operate. Cash flows used in investing activities relate primarily to our acquisition and development of new stores, sales of stores, investments in unconsolidated real estate entities, and notes receivable from bridge loans and fluctuate depending on our actions in those areas. Cash flows from financing activities depend primarily on our debt and equity financing activities. A summary of cash flows along with significant components are as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Year Ended December 31, 
+ 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ Net cash provided by operating activities 
+ $ 
+ 1,887,430 
+ 
+ 
+ $ 
+ 1,402,474 
+ 
+ 
+ $ 
+ 1,238,139 
+ 
+ 
+ Net cash used in investing activities 
+ (1,646,920) 
+ 
+ 
+ (1,818,256) 
+ 
+ 
+ (1,648,459) 
+ 
+ 
+ Net cash (used in) provided by financing activities 
+ (202,290) 
+ 
+ 
+ 423,130 
+ 
+ 
+ 431,861 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Significant components of net cash flow included: 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net income 
+ $ 
+ 900,232 
+ 
+ 
+ $ 
+ 850,453 
+ 
+ 
+ $ 
+ 921,156 
+ 
+ 
+ Depreciation and amortization 
+ 783,023 
+ 
+ 
+ 506,053 
+ 
+ 
+ 288,316 
+ 
+ 
+ Acquisition and development of real estate assets 
+ (779,153) 
+ 
+ 
+ (420,892) 
+ 
+ 
+ (1,353,510) 
+ 
+ 
+ Life Storage Merger, net of cash acquired 
+ — 
+ 
+ 
+ (1,182,411) 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Impairment of Life Storage trade name 
+ 51,763 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Investment in unconsolidated real estate entities 
+ (301,917) 
+ 
+ 
+ (180,279) 
+ 
+ 
+ (118,963) 
+ 
+ 
+ Issuance of notes receivable, net of sales and principal payments 
+ (635,677) 
+ 
+ 
+ (20,812) 
+ 
+ 
+ (35,561) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Proceeds from unsecured term loans, senior notes, revolving lines of credit and commercial paper 
+ 8,685,933 
+ 
+ 
+ 7,113,003 
+ 
+ 
+ 5,188,011 
+ 
+ 
+ Principal payments on unsecured term loans, senior notes, revolving lines of credit and commercial paper 
+ (8,724,444) 
+ 
+ 
+ (7,088,984) 
+ 
+ 
+ (4,207,700) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Proceeds from issuance of public bonds, net 
+ 1,300,000 
+ 
+ 
+ 1,550,000 
+ 
+ 
+ 396,100 
+ 
+ 
+ Dividends paid on common stock 
+ (1,375,003) 
+ 
+ 
+ (1,046,341) 
+ 
+ 
+ (805,311) 
+ 
+ 
+ We believe that cash flows generated by operations, along with our existing cash and cash equivalents, the availability of funds under our existing lines of credit, and our access to capital markets will be sufficient to meet all of our reasonably anticipated cash needs during the next twelve months. These cash needs include operating expenses, monthly debt service payments, recurring capital expenditures, acquisitions, funding for the bridge loan program, building redevelopments and expansions, distributions to unit holders and dividends to stockholders necessary to maintain our REIT qualification. 
+ 
+ We expect to generate positive cash flow from operations, and we consider projected cash flows in our sources and uses of cash. These cash flows are principally derived from rents paid by our tenants. A significant deterioration in projected cash flows from operations could cause us to increase our reliance on available funds under our existing lines of credit, curtail planned capital expenditures, or seek other additional sources of financing. 
+ 
+ 
+ 29 
+ 
+ 
+ 
+ 
+ LIQUIDITY AND CAPITAL RESOURCES 
+ Financing Strategy 
+ We will continue to employ leverage in our capital structure in amounts reviewed from time to time by our board of directors. Although our board of directors has not adopted a policy which limits the total amount of indebtedness that we may incur, we will consider a number of factors in evaluating our level of indebtedness from time to time, as well as the amount of such indebtedness that will be either fixed or variable rate. In making financing decisions, we will consider factors including but not limited to the following: 
+ 
+ • the interest rate of the proposed financing; 
+ • the extent to which the financing impacts flexibility in managing our stores; 
+ • prepayment penalties and restrictions on refinancing; 
+ • the purchase price of stores acquired with debt financing; 
+ • long-term objectives with respect to the financing; 
+ • target investment returns; 
+ • the ability of particular stores, and our company as a whole, to generate cash flow sufficient to cover expected debt service payments; 
+ • overall level of consolidated indebtedness; 
+ • timing of debt maturities; 
+ • provisions that require recourse and cross-collateralization; and 
+ • corporate credit ratios including fixed charge coverage ratio and max secured/unsecured indebtedness. 
+ Our indebtedness may be recourse, non-recourse, cross-collateralized, cross-defaulted, secured or unsecured. In addition, we may invest in stores subject to existing loans collateralized by mortgages or similar liens, or we may refinance stores acquired on a leveraged basis. We may use the proceeds from any borrowings to refinance existing indebtedness, to refinance investments, including the redevelopment of existing stores, for general working capital or to purchase additional interests in partnerships or joint ventures or for other purposes when we believe it is advisable. 
+ The following table presents information relating to our debt: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ December 31, 2024 
+ 
+ December 31, 2023 
+ 
+ Total face value of debt 
+ $ 
+ 12,600,661 
+ 
+ $ 
+ 11,346,105 
+ 
+ Total enterprise value ratio 
+ 28.4 
+ % 
+ 
+ 24.2 
+ % 
+ 
+ Total fixed-rate debt and other instruments to total debt 
+ 
+ 75.8% (1) 
+ 
+ 
+ 73.4% (2) 
+ 
+ Weighted average interest rate of total debt 
+ 4.4 
+ % 
+ 
+ 4.6 
+ % 
+ 
+ 
+ Weighted average interest rate for fixed rate debt 
+ 4.1 
+ % 
+ 
+ 3.9 
+ % 
+ 
+ Weighted average interest rate for variable rate debt 
+ 5.4 
+ % 
+ 
+ 6.6 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) $9,555,406 total fixed-rate debt including $1,381,834 on which we have interest rate swaps that have been included as fixed-rate debt. 
+ 
+ 
+ (2) $8,322,953 total fixed-rate debt including $1,448,566 on which we have interest rate swaps that have been included as fixed-rate debt. 
+ In November 2024, we established our commercial paper program, under which we may issue, repay and re-issue short-term unsecured commercial paper notes. The aggregate principal amount outstanding under the program at any time cannot exceed $1.0 billion, and the net proceeds of the commercial paper notes are expected to be used for general corporate purposes. The maturities of the notes generally range from overnight to three months, with a maximum of up to 13 months. The commercial paper notes are issued under customary terms in the commercial paper market and are issued at a discount from par or, alternatively, can be issued at par and bear varying interest rates on a fixed or floating basis. At any point in time, we expect to maintain available commitments under our Credit Facilities in an amount at least equal to the amount of commercial paper notes outstanding. At December 31, 2024, we had $500 million in issuances outstanding under the commercial paper program. 
+ 
+ 
+ 30 
+ 
+ 
+ 
+ In January 2021, we received a Baa2 rating from Moody's Investors Service, and in July 2019, we obtained a BBB/Stable rating from S&P which was upgraded to BBB+/Stable in July 2023 in connection with the Life Storage Merger. We intend to manage our balance sheet to maintain these ratings. Certain of our real estate assets are pledged as collateral for our debt. As of December 31, 2024, we had a total of 1,745 unencumbered stores as defined by our public bonds. Our unencumbered asset value was calculated as $29,846,899 and our total asset value was calculated as $35,767,585 according to the calculations as defined by our public bonds. We are subject to certain restrictive covenants relating to our outstanding debt. We were in compliance with all financial covenants at December 31, 2024. 
+ As of December 31, 2024, we had $138,222 available in cash and cash equivalents. Our cash and cash equivalents are held in accounts managed by third party financial institutions and consist of invested cash and cash in our operating accounts. During 2024 and 2023, we experienced no loss or lack of access to our cash and cash equivalents; however, there can be no assurance that access to our cash and cash equivalents will not be impacted by adverse conditions in the financial markets. 
+ We expect to fund our short-term and long-term liquidity requirements, including operating expenses, recurring capital expenditures, dividends to stockholders, distributions to holders of Operating Partnership units and interest on our outstanding indebtedness, out of our operating cash flow, cash on hand and borrowings under our revolving lines of credit and commercial paper. In addition, we are pursuing additional sources of financing based on anticipated funding needs and growth assumptions. 
+ Our liquidity needs consist primarily of operating expenses, monthly debt service payments, recurring capital expenditures, distributions to unit holders and dividends to stockholders necessary to maintain our REIT qualification. We may from time to time seek to repurchase our outstanding debt, shares of common stock or other securities in open market purchases, privately negotiated transactions or otherwise. Such repurchases, if any, will depend on prevailing market conditions, our liquidity requirements, contractual restrictions and other factors. In addition, we evaluate, on an ongoing basis, the merits of strategic acquisitions and other relationships, which may require us to raise additional funds. We may also use Operating Partnership units as currency to fund acquisitions from self-storage owners who desire tax-deferral in their exiting transactions. 
+ On April 15, 2024, we entered into an equity distribution agreement (the “Equity Distribution Agreement”) with certain sales agents and forward purchasers named therein. Under the terms of the Equity Distribution Agreement, we may issue and sell, and the forward purchasers may sell, from time to time through or to the sales agents, shares of our common stock having an aggregate offering price of up to $800 million. The shares of common stock will be offered pursuant to our effective registration statement on Form S-3 (Registration Statement No. 333-278690) previously filed with and declared effective by the SEC and a prospectus supplement and accompanying prospectus, filed with the SEC. As of December 31, 2024, no shares had been sold under the Equity Distribution Agreement, which we refer to as our “at the market” equity program. 
+ 
+ CONTRACTUAL OBLIGATIONS 
+ For more information on our contractual obligations related to real estate acquisitions, refer to our commitments and contingencies footnote in the notes to the consolidated financial statements in ITEM 8 of this Form 10-K. 
+ 
+ SEASONALITY 
+ The self-storage business has been subject to seasonal fluctuations. A greater portion of revenues and profits is typically realized from May through September. Historically, our highest level of occupancy has been at the end of July, while our lowest level of occupancy has been in late February and early March. Results for any quarter may not be indicative of the results that may be achieved for the full fiscal year. 
+ 
+ 
+ 31 
+ 
+ 
+ 
+ 

@@ -1,0 +1,8366 @@
+ ITEM 7. 
+ 
+ MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+ 
+ You should read the following management’s discussion and analysis of our financial condition and results of operations together with the audited consolidated financial statements and notes to our financial statements included elsewhere in this Annual Report on Form 10-K. This management’s discussion and analysis is intended to help provide an understanding of our financial condition, changes in financial condition and results of our operations and contains forward-looking statements that involve risks and uncertainties. The forward-looking statements are not historical facts, but rather are based on current expectations, estimates, assumptions and projections about our industry, business and future financial results. Our actual results could differ materially from the results contemplated by these forward-looking statements due to a number of factors, including those discussed under the caption “ITEM 1A. Risk Factors” and elsewhere in this Annual Report on Form 10-K. Furthermore, such forward-looking statements speak only as of the date of this Annual Report on Form 10-K and we expressly disclaim any obligation to update any forward-looking statements. 
+ 
+ Overview 
+ 
+ Recent Developments 
+ 
+ DIRECTV Transaction 
+ 
+ On September 29, 2024, we and DTV entered into the Purchase Agreement. Pursuant to the terms and subject to the conditions set forth in the Purchase Agreement, DTV agreed to acquire from us all of the issued and outstanding equity interests of DISH DBS, which operates our Pay-TV business. 
+ 
+ Following written notice from DTV received on November 20, 2024, DTV terminated the Purchase Agreement effective at 11:59 pm ET on November 22, 2024 pursuant to Section 7.01(a)(iv) of the Purchase Agreement because the DISH DBS Exchange Offers were not consummated by the Exchange Offer Settlement Date (as defined in the Purchase Agreement). No termination fee or other payment was due from either party to the other as a result of the termination of the Purchase Agreement. 
+ 
+ Segments 
+ 
+ We currently operate three primary business segments: (1) Pay-TV; (2) Wireless; and (3) Broadband and Satellite Services . Historically, we reported four primary business segments: (1) Pay-TV; (2) Retail Wireless; (3) 5G Network Deployment; and (4) Broadband and Satellite Services. See Note 16 i n the Notes to our Consolidated Financial Statements in this Annual Report on Form 10-K for further information. 
+ 
+ Our Pay-TV segment business strategy is to be the best provider of video services in the United States by providing products with the best technology, outstanding customer service and great value. We offer Pay-TV services under the DISH® brand and the SLING® brand. We promote our Pay-TV services by providing our subscribers with a better “price-to-value” relationship and experience than those available from other subscription television service providers. We market our SLING TV services to consumers who do not subscribe to traditional satellite and cable pay-TV services, as well as to current and recent traditional pay-TV subscribers who desire a lower cost alternative. 
+ 
+ Our Wireless segment provides Wireless communication services and products. We currently offer our Wireless services for 5G VoNR to over 220 million Americans and for 5G broadband service to over 268 million Americans, as well as a competitive portfolio of wireless devices . We offer customers value by providing choice and flexibility in our Wireless services. We offer competitive consumer plans with no annual service contracts and device financing arrangements for certain qualified subscribers . 
+ 
+ 
+ 
+ 54 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ Our Wireless segment business strategy is to expand our current target segments and profitably grow our Wireless subscriber base and commercialize and grow customer traffic on our 5G Network. We intend to grow our Wireless subscriber base by acquiring and retaining high quality subscribers with competitive offers, choice and outstanding customer service that better meet those subscribers’ needs and budget. 
+ 
+ We are currently operating primarily as an MVNO as we continue our 5G Network Deployment and commercialize and grow customer traffic on our 5G Network. We are transitioning to an MNO as our 5G Network has become commercially available and we grow customer traffic on our 5G Network. We are currently activating Boost Mobile subscribers with compatible devices onto our 5G Network in markets where we have reached VoNR . We currently offer a broad range of premium wireless devices on our 5G Network, including the Apple iPhone 15 and newer generation iPhones. We have deployed 5G VoNR covering over 220 million Americans. Within our MVNO operations, today we depend in part on T-Mobile and AT&T to provide us with network services under the MNSA and NSA, respectively. 
+ 
+ As part of the commercialization of our Wireless spectrum licenses through the completion of our 5G Network Deployment, we have committed to the FCC to deploy our 5G Network capable of serving increasingly larger portions of the U.S. population at different deadlines. 
+ 
+ On September 29, 2023, the FCC confirmed we met all of our June 14, 2023 band-specific 5G deployment commitments, and two of our three nationwide 5G commitments. The single remaining 5G commitment, that at least 70% of the U.S. population has access to average download speeds equal to 35 Mbps, was achieved in March 2024 using the drive test methodology previously agreed upon by us and the FCC and overseen by an independent monitor . 
+ 
+ In September 2024, the FCC conditionally granted our requests to extend the 5G deployment deadlines for certain of our Wireless spectrum licenses based on several commitments and in a January 10, 2025 filing to the FCC , we certified to meeting the accelerated buildout (Commitments #2 and #3 of the Extension Request) and the nationwide 80% coverage obligations (Commitment #1 of the Extension Request) due by December 31, 2024. Thus, pursuant to the Extension Request, the final deployment deadlines for the licenses subject to the Extension Request (listed in Appendix G) shall be extended to December 14, 2026. In addition, the final deployment deadlines for the licenses subject to the Extension Request (listed in Appendix G) shall be further extended to June 14, 2028 as long as we satisfy the remaining Extension Request commitments. See Note 15 i n the Notes to our Consolidated Financial Statements in this Annual Report on Form 10-K for definitions and further details. 
+ 
+ Our Broadband and Satellite Services segment business strategy is to maintain and improve our leadership position and competitive advantage through development of leading-edge technologies and services marketed to selected sectors within the consumer, enterprise and government markets globally. Within our Broadband and Satellite Services segment we are an industry leader in both networking technologies and services, innovating to deliver the global solutions that power a connected future for people, enterprises and things everywhere. We provide broadband services to consumer customers, which include home and small to medium-sized businesses, and satellite, multi-transport technologies and managed network services to enterprise customers, telecommunications providers, airlines and government entities, including civilian and defense. Our EchoStar XXIV satellite began service in December 2023, bringing additional broadband capacity across North and South America and is an integral part of our satellite services business. We have leveraged the EchoStar XXIV to deliver satellite services to unserved and underserved consumer markets in the Americas as well as enterprise, aeronautical and government markets. 
+ 
+ Economic Environment 
+ 
+ During 2023 and 2024, we experienced inflationary pressures in our commodity and labor costs resulting from the macroeconomic environment in the United States, which has significantly impacted our overall operating results. 
+ 
+ 
+ 
+ 55 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ EXPLANATION OF KEY METRICS AND OTHER ITEMS 
+ 
+ Service revenue . “Service revenue” consists principally of Pay-TV and Wireless subscriber revenue, broadband services, maintenance and other contracted revenue and satellite and transponder leases and services revenue. Certain of the amounts included in “Service revenue” are not recurring on a monthly basis. 
+ 
+ Equipment sales and other revenue . “Equipment sales and other revenue” principally includes the sale of wireless devices, the non-subsidized sales of Pay-TV equipment, the licensing of certain intellectual property and sales of broadband equipment and networks sold both in our consumer and enterprise markets. 
+ 
+ Cost of services . “Cost of services” principally includes Pay-TV programming expenses and other operating costs related to our Pay-TV segment, costs of Wireless services (including costs incurred under the MNSA and NSA), costs of broadband services, maintenance and other contracted services, and costs associated with satellite and transponder leases and services. Beginning on January 1, 2024, “Cost of services” includes certain direct costs related to our 5G Network Deployment, including lease expense on communication towers, transport, cloud services and other costs as a significant portion of our 5G Network was placed into service. 
+ 
+ Cost of sales - equipment and other. “Cost of sales – equipment and other” principally includes the cost of wireless devices and other related items, the cost of broadband equipment and networks, as well as costs related to the non-subsidized sales of Pay-TV equipment. Costs are generally recognized as products are delivered to customers and the related revenue is recognized. In addition, prior to January 1, 2024, “Cost of sales – equipment and other” included certain direct costs related to our 5G Network Deployment, including lease expense on communication towers, transport, cloud services and other costs, which is now included in “Cost of services” on our Consolidated Statements of Operations and Comprehensive Income (Loss). 
+ 
+ Selling, general and administrative expenses . “Selling, general and administrative expenses” consists primarily of direct sales costs, advertising and selling costs, third-party commissions related to the acquisition of subscribers and employee-related costs associated with administrative services such as legal, information systems, and accounting and finance. In addition, “Selling, general and administrative expenses” includes costs related to the installation of equipment for our new Pay-TV subscribers and the cost of subsidized sales of Pay-TV equipment for new subscribers. 
+ 
+ Impairment of long-lived assets and goodwill . “Impairment of long-lived assets and goodwill” includes our impairment losses related to our property and equipment, regulatory authorizations, goodwill and other intangible assets. 
+ 
+ Interest expense, net of amounts capitalized. “Interest expense, net of amounts capitalized” primarily includes interest expense associated with our long-term debt (net of capitalized interest), prepayment premiums, amortization of debt discounts and debt issuance costs associated with our long-term debt, and interest expense associated with our finance lease obligations. 
+ 
+ Other, net. The main components of “Other, net” are gains and losses realized on the sale and/or conversion of marketable and non-marketable investment securities and derivative instruments, impairment of marketable and non-marketable investment securities, unrealized gains and losses from changes in fair value of certain marketable and non-marketable investment securities and derivative instruments, foreign currency transaction gains and losses, debt extinguishment gains and losses, and equity in earnings and losses of our affiliates. 
+ 
+ Operating income before depreciation and amortization (“OIBDA”). OIBDA is defined as “Operating income (loss)” plus “Depreciation and amortization.” This “non-GAAP measure” is reconciled to “Operating income (loss)” in our discussion of “Results of Operations” below. 
+ 
+ 
+ 
+ 56 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ DISH TV subscribers. We include customers obtained through direct sales, independent third-party retailers and other independent third-party distribution relationships in our DISH TV subscriber count. We also provide DISH TV services to hotels, motels and other commercial accounts. For certain of these commercial accounts, we divide our total revenue for these commercial accounts by $34.99, and include the resulting number, which is substantially smaller than the actual number of commercial units served, in our DISH TV subscriber count. 
+ 
+ SLING TV subscribers. We include customers obtained through direct sales and third-party marketing agreements in our SLING TV subscriber count. SLING TV subscriber additions are recorded net of disconnects. SLING TV customers receiving SLING TV Freestream service, or service for no charge, under certain new subscriber promotions, are excluded from our SLING TV subscriber count. For customers who subscribe to multiple SLING TV packages, each customer is only counted as one SLING TV subscriber. 
+ 
+ Pay-TV subscribers. Our Pay-TV subscriber count includes all DISH TV and SLING TV subscribers discussed above. For customers who subscribe to both our DISH TV services and our SLING TV services, each subscription is counted as a separate Pay-TV subscriber. 
+ 
+ Pay-TV average monthly revenue per subscriber (“Pay-TV ARPU”). We are not aware of any uniform standards for calculating ARPU and believe presentations of ARPU may not be calculated consistently by other companies in the same or similar businesses. We calculate Pay-TV average monthly revenue per Pay-TV subscriber, or Pay-TV ARPU, by dividing average monthly Pay-TV segment “Service revenue,” excluding revenue from broadband services, for the period by our average number of Pay-TV subscribers for the period. The average number of Pay-TV subscribers is calculated for the period by adding the average number of Pay-TV subscribers for each month and dividing by the number of months in the period. The average number of Pay-TV subscribers for each month is calculated by adding the beginning and ending Pay-TV subscribers for the month and dividing by two. SLING TV subscribers on average purchase lower priced programming services than DISH TV subscribers, and therefore, as SLING TV subscribers increase as a percentage of total Pay-TV subscribers, it has had a negative impact on Pay-TV ARPU. 
+ 
+ DISH TV average monthly subscriber churn rate (“DISH TV churn rate”). We are not aware of any uniform standards for calculating subscriber churn rate and believe presentations of subscriber churn rates may not be calculated consistently by different companies in the same or similar businesses. We calculate our DISH TV churn rate for any period by dividing the number of DISH TV subscribers who terminated service during the period by the average number of DISH TV subscribers for the same period, and further dividing by the number of months in the period. The average number of DISH TV subscribers is calculated for the period by adding the average number of DISH TV subscribers for each month and dividing by the number of months in the period. The average number of DISH TV subscribers for each month is calculated by adding the beginning and ending DISH TV subscribers for the month and dividing by two. 
+ 
+ DISH TV SAC. Subscriber acquisition cost measures are commonly used by those evaluating traditional companies in the pay-TV industry. We are not aware of any uniform standards for calculating the “average subscriber acquisition costs per new DISH TV subscriber activation,” or DISH TV SAC, and we believe presentations of pay-TV SAC may not be calculated consistently by different companies in the same or similar businesses. Our DISH TV SAC is calculated using all costs of acquiring DISH TV subscribers (e.g., subsidized equipment, advertising, installation, commissions and direct sales, etc.) which are included in “Selling, general and administrative expenses,” plus capitalized payments made under certain sales incentive programs and the value of equipment capitalized under our lease program for new DISH TV subscribers, divided by gross new DISH TV subscriber activations. We include all new DISH TV subscribers in our calculation, including DISH TV subscribers added with little or no subscriber acquisition costs. 
+ 
+ Wireless subscribers. We include prepaid and postpaid customers obtained through direct sales, independent third-party retailers and other independent third-party distribution relationships in our Wireless subscriber count. Our Wireless subscriber count includes all Government subsidized subscribers discussed below. Our gross new Wireless subscriber activations exclude all Government subsidized subscribers as we record these subscribers net of disconnects, as discussed below. 
+ 
+ 
+ 57 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ Government subsidized wireless subscribers and other wireless subscribers (“Government subsidized subscribers”). Our Government subsidized subscribers have different subscriber economics than our core Wireless subscribers, including a significantly higher churn rate and lower subscriber acquisition costs. Therefore, our Government subsidized subscriber additions are recorded net of disconnects. Our Government subsidized subscriber count includes Wireless subscribers that participate in government subsidized programs, including the ACP program and Lifeline program, defined below, and other subscribers acquired under the Gen Mobile brand. The Affordable Connectivity Program (“ACP”) was a federal program offering broadband services and devices discounts to help low-income individuals that meet certain eligibility criteria. The ACP program funding concluded on June 1, 2024. The Lifeline Program is a federal program offering broadband services discounts to help low-income individuals that meet certain eligibility criteria. Certain states also offer a separate Lifeline program. 
+ 
+ Wireless average monthly revenue per subscriber (“Wireless ARPU”). We are not aware of any uniform standards for calculating ARPU and believe presentations of ARPU may not be calculated consistently by other companies in the same or similar businesses. We calculate average monthly revenue per Wireless subscriber, or Wireless ARPU, by dividing average monthly Wireless subscriber revenue included in “Service revenue” for the period by our average number of Wireless subscribers for the period. The average number of Wireless subscribers is calculated for the period by adding the average number of Wireless subscribers for each month and dividing by the number of months in the period. The average number of Wireless subscribers for each month is calculated by adding the beginning and ending Wireless subscribers for the month and dividing by two. 
+ 
+ Wireless average monthly subscriber churn rate (“Wireless churn rate”). We are not aware of any uniform standards for calculating subscriber churn rate and believe presentations of subscriber churn rates may not be calculated consistently by different companies in the same or similar businesses. We calculate our “Wireless churn rate” for any period by dividing the number of Wireless subscribers who terminated service during the period by the average number of Wireless subscribers for the same period, and further dividing by the number of months in the period. The average number of Wireless subscribers is calculated for the period by adding the average number of Wireless subscribers for each month and dividing by the number of months in the period. The average number of Wireless subscribers for each month is calculated by adding the beginning and ending Wireless subscribers for the month and dividing by two. Government subsidized subscriber additions are recorded net of disconnects and therefore excluded from our calculation of our Wireless churn rate. 
+ 
+ Broadband subscribers. Subscribers include customers that subscribe to our HughesNet service, through retail, wholesale and small/medium enterprise service channels. Our Broadband subscriber count also includes ACP subscribers, as defined above. 
+ 
+ Free cash flow . We define free cash flow as “Net cash flows from operating activities” less: (i) “Purchases of property and equipment” net of “Refunds and other receipts of purchases of property and equipment,” and (ii) “Capitalized interest related to Regulatory authorizations,” as shown on our Consolidated Statements of Cash Flows. 
+ 
+ 
+ 
+ 
+ 
+ 58 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ RESULTS OF OPERATIONS – Segments 
+ 
+ Business Segments 
+ 
+ We currently operate three primary business segments: (1) Pay-TV; (2) Wireless; and (3) Broadband and Satellite Services . 
+ 
+ Revenue and operating income (loss) by segment are shown in the table below: 
+ 
+ Year Ended December 31, 2024 Compared to the Year Ended December 31, 2023. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Years Ended December 31, 
+ 
+ 
+ 
+ Variance 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2024 
+ 
+ 
+ 
+ 2023 
+ 
+ 
+ 
+ Amount 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (In thousands) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Revenue: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pay-TV 
+ 
+ 
+ 
+ $ 
+ 
+ 10,688,204 
+ 
+ 
+ 
+ $ 
+ 
+ 11,571,159 
+ 
+ 
+ 
+ $ 
+ 
+ (882,955) 
+ 
+ 
+ 
+ (7.6) 
+ 
+ 
+ Wireless 
+ 
+ 
+ 
+ 
+ 
+ 3,607,983 
+ 
+ 
+ 
+ 
+ 
+ 3,732,160 
+ 
+ 
+ 
+ 
+ 
+ (124,177) 
+ 
+ 
+ 
+ (3.3) 
+ 
+ 
+ Broadband and Satellite Services 
+ 
+ 
+ 
+ 
+ 
+ 1,575,788 
+ 
+ 
+ 
+ 
+ 
+ 1,755,559 
+ 
+ 
+ 
+ 
+ 
+ (179,771) 
+ 
+ 
+ 
+ (10.2) 
+ 
+ 
+ Eliminations 
+ 
+ 
+ 
+ 
+ 
+ (46,459) 
+ 
+ 
+ 
+ 
+ 
+ (43,280) 
+ 
+ 
+ 
+ 
+ 
+ (3,179) 
+ 
+ 
+ 
+ (7.3) 
+ 
+ 
+ Total revenue 
+ 
+ 
+ 
+ $ 
+ 
+ 15,825,516 
+ 
+ 
+ 
+ $ 
+ 
+ 17,015,598 
+ 
+ 
+ 
+ $ 
+ 
+ (1,190,082) 
+ 
+ 
+ 
+ (7.0) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating income (loss): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pay-TV 
+ 
+ 
+ 
+ $ 
+ 
+ 2,647,954 
+ 
+ 
+ 
+ $ 
+ 
+ 2,699,810 
+ 
+ 
+ 
+ $ 
+ 
+ (51,856) 
+ 
+ 
+ 
+ (1.9) 
+ 
+ 
+ Wireless 
+ 
+ 
+ 
+ 
+ 
+ (2,831,906) 
+ 
+ 
+ 
+ 
+ 
+ (2,524,553) 
+ 
+ 
+ 
+ 
+ 
+ (307,353) 
+ 
+ 
+ 
+ (12.2) 
+ 
+ 
+ Broadband and Satellite Services 
+ 
+ 
+ 
+ 
+ 
+ (117,901) 
+ 
+ 
+ 
+ 
+ 
+ (458,609) 
+ 
+ 
+ 
+ 
+ 
+ 340,708 
+ 
+ 
+ 
+ 74.3 
+ 
+ 
+ Eliminations 
+ 
+ 
+ 
+ 
+ 
+ (2,217) 
+ 
+ 
+ 
+ 
+ 
+ 5,443 
+ 
+ 
+ 
+ 
+ 
+ (7,660) 
+ 
+ 
+ 
+ * 
+ 
+ 
+ Total operating income (loss) 
+ 
+ 
+ 
+ $ 
+ 
+ (304,070) 
+ 
+ 
+ 
+ $ 
+ 
+ (277,909) 
+ 
+ 
+ 
+ $ 
+ 
+ (26,161) 
+ 
+ 
+ 
+ (9.4) 
+ 
+ 
+ 
+ 
+ * 
+ 
+ Percentage is not meaningful. 
+ 
+ Total revenue. Our consolidated revenue totaled $15.826 billion for the year ended December 31, 2024, a decrease of $1.190 billion or 7.0% compared to the same period in 2023. The net decrease primarily resulted from the decrease in revenue from our Pay-TV, Broadband and Satellite Services, and Wireless segments. 
+ 
+ Total operating income (loss). Our consolidated operating loss totaled $304 million for the year ended December 31, 2024, an increase in operating loss of $26 million compared to the same period in 2023. This change primarily resulted from an increase in operating loss from our Wireless segment, a decrease in operating income from our Pay-TV segment, and a decrease in operating loss from our Broadband and Satellite Services segment. 
+ 
+ 
+ 
+ 59 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ Year Ended December 31, 2023 Compared to the Year Ended December 31, 2022. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Years Ended December 31, 
+ 
+ 
+ 
+ Variance 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2023 
+ 
+ 
+ 
+ 2022 
+ 
+ 
+ 
+ Amount 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (In thousands) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Revenue: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pay-TV 
+ 
+ 
+ 
+ $ 
+ 
+ 11,571,159 
+ 
+ 
+ 
+ $ 
+ 
+ 12,505,392 
+ 
+ 
+ 
+ $ 
+ 
+ (934,233) 
+ 
+ 
+ 
+ (7.5) 
+ 
+ 
+ Wireless 
+ 
+ 
+ 
+ 
+ 
+ 3,732,160 
+ 
+ 
+ 
+ 
+ 
+ 4,180,018 
+ 
+ 
+ 
+ 
+ 
+ (447,858) 
+ 
+ 
+ 
+ (10.7) 
+ 
+ 
+ Broadband and Satellite Services 
+ 
+ 
+ 
+ 
+ 
+ 1,755,559 
+ 
+ 
+ 
+ 
+ 
+ 1,998,093 
+ 
+ 
+ 
+ 
+ 
+ (242,534) 
+ 
+ 
+ 
+ (12.1) 
+ 
+ 
+ Eliminations 
+ 
+ 
+ 
+ 
+ 
+ (43,280) 
+ 
+ 
+ 
+ 
+ 
+ (49,257) 
+ 
+ 
+ 
+ 
+ 
+ 5,977 
+ 
+ 
+ 
+ 12.1 
+ 
+ 
+ Total revenue 
+ 
+ 
+ 
+ $ 
+ 
+ 17,015,598 
+ 
+ 
+ 
+ $ 
+ 
+ 18,634,246 
+ 
+ 
+ 
+ $ 
+ 
+ (1,618,648) 
+ 
+ 
+ 
+ (8.7) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating income (loss): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pay-TV 
+ 
+ 
+ 
+ $ 
+ 
+ 2,699,810 
+ 
+ 
+ 
+ $ 
+ 
+ 2,933,898 
+ 
+ 
+ 
+ $ 
+ 
+ (234,088) 
+ 
+ 
+ 
+ (8.0) 
+ 
+ 
+ Wireless 
+ 
+ 
+ 
+ 
+ 
+ (2,524,553) 
+ 
+ 
+ 
+ 
+ 
+ (888,232) 
+ 
+ 
+ 
+ 
+ 
+ (1,636,321) 
+ 
+ 
+ 
+ * 
+ 
+ 
+ Broadband and Satellite Services 
+ 
+ 
+ 
+ 
+ 
+ (458,609) 
+ 
+ 
+ 
+ 
+ 
+ 181,615 
+ 
+ 
+ 
+ 
+ 
+ (640,224) 
+ 
+ 
+ 
+ * 
+ 
+ 
+ Eliminations 
+ 
+ 
+ 
+ 
+ 
+ 5,443 
+ 
+ 
+ 
+ 
+ 
+ 5,557 
+ 
+ 
+ 
+ 
+ 
+ (114) 
+ 
+ 
+ 
+ (2.1) 
+ 
+ 
+ Total operating income (loss) 
+ 
+ 
+ 
+ $ 
+ 
+ (277,909) 
+ 
+ 
+ 
+ $ 
+ 
+ 2,232,838 
+ 
+ 
+ 
+ $ 
+ 
+ (2,510,747) 
+ 
+ 
+ 
+ * 
+ 
+ 
+ 
+ 
+ * 
+ 
+ Percentage is not meaningful. 
+ 
+ Total revenue. Our consolidated revenue totaled $17.016 billion for the year ended December 31, 2023, a decrease of $1.619 billion or 8.7% compared to the same period in 2022. The net decrease primarily resulted from the decrease in revenue from our Pay-TV, Wireless and Broadband and Satellite Services segments. 
+ 
+ Total operating income (loss). Our consolidated operating loss totaled $278 million for the year ended December 31, 2023, compared to income of $2.233 billion during the same period in 2022. The net decrease primarily resulted from an increase in operating loss from our Wireless segment and to a lesser extent decreases in operating income (loss) from our Broadband and Satellite Services and Pay-TV segments. The year ended December 31, 2023 was adversely impacted by impairments of goodwill of: (1) $533 million from our Broadband and Satellite Services segment; (2) $219 million from our Wireless segment; and (3) $6 million from our Pay-TV segment. See Note 2 in the Notes to our Consolidated Financial Statements in this Annual Report on Form 10-K for further information. 
+ 
+ 
+ 
+ 
+ 60 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ Pay-TV Segment 
+ 
+ We offer Pay-TV services under the DISH brand and the SLING brand. As of December 31, 2024, we had 7.778 million Pay-TV subscribers in the United States, including 5.686 million DISH TV subscribers and 2.092 million SLING TV subscribers. 
+ 
+ We promote our Pay-TV services by providing our subscribers with better service, technology and value than those available from other subscription television service providers. We offer a wide selection of video services under the DISH TV brand, with access to hundreds of channels depending on the level of subscription. Our standard programming packages generally include programming provided by national cable networks. We also offer programming packages that include local broadcast networks, specialty sports channels, premium movie channels and Latino and international programming. We market our SLING TV services to consumers who do not subscribe to traditional satellite and cable pay-TV services, as well as to current and recent traditional pay-TV subscribers who desire a lower cost alternative. Our SLING TV services require an Internet connection and are available on multiple streaming-capable devices including, among others, streaming media devices, TVs, tablets, computers, game consoles and phones. We offer SLING domestic, SLING International, SLING Latino and SLING Freestream video programming services. 
+ 
+ Trends in our Pay-TV Segment 
+ 
+ Competition 
+ 
+ Competition has intensified in recent years as the pay-TV industry has matured. We and our competitors increasingly must seek to attract a greater proportion of new subscribers from each other’s existing subscriber bases rather than from first-time purchasers of pay-TV services. We face substantial competition from established pay-TV providers and broadband service providers and increasing competition from companies providing/facilitating the delivery of video content via the Internet to computers, televisions and other streaming and mobile devices, including wireless service providers. In recent years, industry consolidation and convergence has created competitors with greater scale and multiple product/service offerings. These developments, among others, have contributed to intense and increasing competition, and we expect such competition to continue. 
+ 
+ We incur significant costs to retain our existing DISH TV subscribers, generally as a result of upgrading their equipment to next generation receivers, primarily including our Hopper® receivers and by providing retention credits. Our DISH TV subscriber retention costs may vary significantly from period to period. 
+ 
+ Many of our competitors have been especially aggressive by offering discounted programming and services for both new and existing subscribers, including, but not limited to, bundled offers combining broadband, video and/or wireless services and other promotional offers. Certain competitors have been able to subsidize the price of video services with the price of broadband and/or wireless services. 
+ 
+ Our Pay-TV services also face increased competition from programmers and other companies who distribute video directly to consumers over the Internet, as well as traditional satellite television providers, cable companies and large telecommunications companies that are rapidly increasing their Internet-based video offerings and direct-to-consumer exclusive and non-exclusive content. We also face competition from providers of video content, many of which are providers of programming content to us, that distribute content over the Internet including services with live-linear television programming, as well as single programmer offerings and offerings of large libraries of on-demand content, including in certain cases original content. These product offerings include, but are not limited to: Netflix, Hulu, Apple+, Prime Video, YouTube TV, Disney+, ESPN+, Paramount+, Max, STARZ, Peacock, Fubo, Philo and Tubi and certain bundles of these offerings. 
+ 
+ Significant changes in consumer behavior regarding the means by which consumers obtain video entertainment and information in response to digital media competition could have a material adverse effect on our business, results of operations and financial condition or otherwise disrupt our business. 
+ 
+ 
+ 61 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ In particular, consumers have shown increased interest in viewing certain video programming in any place, at any time and/or on any broadband or Internet-connected device they choose. Online content providers may cause our subscribers to disconnect our DISH TV services (“cord cutting”), downgrade to smaller, less expensive programming packages (“cord shaving”) or elect to purchase through these online content providers a certain portion of the services that they would have historically purchased from us. 
+ 
+ Mergers and acquisitions, joint ventures and alliances among cable television providers, telecommunications companies, programming providers and others may result in, among other things, greater scale and financial leverage and increase the availability of offerings from providers capable of bundling video, broadband and/or wireless services in competition with our services and may exacerbate the risks described under the caption “ITEM 1A. Risk Factors” and elsewhere in our public filings. These transactions may affect us adversely by, among other things, making it more difficult for us to obtain access to certain programming networks on nondiscriminatory and fair terms, or at all. 
+ 
+ Our Pay-TV subscriber base has been declining due to, among other things, the factors described above. There can be no assurance that our Pay-TV subscriber base will not continue to decline and that the pace of such decline will not accelerate. As our Pay-TV subscriber base continues to decline, it could have a material adverse long-term effect on our business, results of operations, financial condition and cash flow. 
+ 
+ Programming 
+ 
+ Our ability to compete successfully will depend, among other things, on our ability to continue to obtain desirable programming and deliver it to our subscribers at competitive prices. Programming costs represent a large percentage of our “Cost of services” and the largest component of our total expense. We expect these costs to continue to increase due to contractual price increases and the renewal of long-term programming contracts on less favorable pricing terms and certain programming costs are rising at a much faster rate than wages or inflation. In particular, the rates we are charged for retransmitting local broadcast channels have been increasing substantially and may exceed our ability to increase our prices to our subscribers. Our ability to provide services under these agreements and negotiate acceptable terms depends on, among other things, the number of subscribers we have, our actual, perceived or anticipated financial condition and our negotiating power against each programmer, which can vary depending on the size and scale of such programmer. Going forward, our margins may face pressure if we are unable to renew our long-term programming contracts on acceptable pricing and other economic terms or if we are unable to pass these increased programming costs on to our subscribers. 
+ 
+ Increases in programming costs have caused us to increase the rates that we charge to our subscribers, which could in turn cause our existing Pay-TV subscribers to disconnect our services or cause potential new Pay-TV subscribers to choose not to subscribe to our services. Additionally, even if our subscribers do not disconnect our services, they may purchase through new and existing online content providers a certain portion of the services that they would have historically purchased from us. 
+ 
+ Furthermore, our net Pay-TV subscriber additions, gross new DISH TV subscriber activations and DISH TV churn rate may be negatively impacted if we are unable to renew our long-term programming carriage contracts. In the past, our net Pay-TV subscriber additions, gross new DISH TV subscriber activations, and DISH TV churn rate have been negatively impacted as a result of programming interruptions and threatened programming interruptions in connection with the scheduled expiration of programming carriage contracts with content providers. There can be no assurance that the removal of any channels will not have a material adverse effect on our business, results of operations and financial condition or otherwise disrupt our business. We cannot predict with any certainty the impact to our net Pay-TV subscriber additions, gross new DISH TV subscriber activations and DISH TV churn rate resulting from programming interruptions or threatened programming interruptions that may occur in the future. As a result, we may at tim es suffer from periods of lower net Pay-TV subscriber additions or higher net Pay-TV subscriber losses. 
+ 
+ 
+ 
+ 62 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ Other Developments 
+ 
+ Adaptive Bitrate Streaming Patents 
+ 
+ Through our subsidiaries, we hold dozens of issued United States and foreign patents that relate to Adaptive Bitrate Streaming. On September 9, 2022, the chief administrative law judge at the United States International Trade Commission (“ITC”) issued an Initial Determination holding that the video streaming in certain Peloton, NordicTrack and Mirror exercise equipment infringes four of those patents, and recommended that the ITC prevent the importation of the infringing products. On March 8, 2023, the ITC issued its Final Determination, which affirmed the Initial Determination for three of the four patents in all material aspects, and issued the recommended exclusion and cease and desist orders, which will become effective after a Presidential review period. On February 9, 2023, we entered into a confidential license agreement covering Mirror exercise equipment that resolves our litigation involving those products. On May 1, 2023, we entered into a $75 million license agreement covering Peloton exercise equipment that resolves our litigation involving those products. During the year ended December 31, 2023, we recorded the $75 million license agreement in “Equipment sales and other revenue” on our Consolidated Statements of Operations and Comprehensive Income (Loss). On March 6, 2024, we entered into a license agreement covering NordicTrack exercise equipment that resolves our litigation involving those products and received the initial payment. 
+ 
+ 
+ 
+ 
+ 63 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ RESULTS OF OPERATIONS – Pay-TV Segment 
+ 
+ Year Ended December 31, 2024 Compared to the Year Ended December 31, 2023. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Years Ended December 31, 
+ 
+ 
+ 
+ Variance 
+ 
+ 
+ Statements of Operations Data 
+ 
+ 
+ 
+ 2024 
+ 
+ 
+ 
+ 2023 
+ 
+ 
+ 
+ Amount 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (In thousands) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Revenue: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Service revenue 
+ 
+ 
+ 
+ $ 
+ 
+ 10,613,653 
+ 
+ 
+ 
+ $ 
+ 
+ 11,385,961 
+ 
+ 
+ 
+ $ 
+ 
+ (772,308) 
+ 
+ 
+ 
+ (6.8) 
+ 
+ 
+ Equipment sales and other revenue 
+ 
+ 
+ 
+ 
+ 
+ 74,551 
+ 
+ 
+ 
+ 
+ 
+ 185,198 
+ 
+ 
+ 
+ 
+ 
+ (110,647) 
+ 
+ 
+ 
+ (59.7) 
+ 
+ 
+ Total revenue 
+ 
+ 
+ 
+ 
+ 
+ 10,688,204 
+ 
+ 
+ 
+ 
+ 
+ 11,571,159 
+ 
+ 
+ 
+ 
+ 
+ (882,955) 
+ 
+ 
+ 
+ (7.6) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Costs and expenses: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of services 
+ 
+ 
+ 
+ 
+ 
+ 6,546,506 
+ 
+ 
+ 
+ 
+ 
+ 6,977,628 
+ 
+ 
+ 
+ 
+ 
+ (431,122) 
+ 
+ 
+ 
+ (6.2) 
+ 
+ 
+ % of Service revenue 
+ 
+ 
+ 
+ 
+ 
+ 61.7 
+ 
+ % 
+ 
+ 
+ 
+ 61.3 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of sales - equipment and other 
+ 
+ 
+ 
+ 
+ 
+ 80,271 
+ 
+ 
+ 
+ 
+ 
+ 91,164 
+ 
+ 
+ 
+ 
+ 
+ (10,893) 
+ 
+ 
+ 
+ (11.9) 
+ 
+ 
+ Selling, general and administrative expenses 
+ 
+ 
+ 
+ 
+ 
+ 1,076,142 
+ 
+ 
+ 
+ 1,414,808 
+ 
+ 
+ 
+ (338,666) 
+ 
+ 
+ 
+ (23.9) 
+ 
+ 
+ % of Total revenue 
+ 
+ 
+ 
+ 
+ 
+ 10.1 
+ 
+ % 
+ 
+ 
+ 
+ 12.2 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Depreciation and amortization 
+ 
+ 
+ 
+ 
+ 
+ 337,331 
+ 
+ 
+ 
+ 
+ 
+ 381,292 
+ 
+ 
+ 
+ 
+ 
+ (43,961) 
+ 
+ 
+ 
+ (11.5) 
+ 
+ 
+ Impairment of long-lived assets and goodwill 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 6,457 
+ 
+ 
+ 
+ 
+ 
+ (6,457) 
+ 
+ 
+ 
+ * 
+ 
+ 
+ Total costs and expenses 
+ 
+ 
+ 
+ 
+ 
+ 8,040,250 
+ 
+ 
+ 
+ 
+ 
+ 8,871,349 
+ 
+ 
+ 
+ 
+ 
+ (831,099) 
+ 
+ 
+ 
+ (9.4) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating income (loss) 
+ 
+ 
+ 
+ $ 
+ 
+ 2,647,954 
+ 
+ 
+ 
+ $ 
+ 
+ 2,699,810 
+ 
+ 
+ 
+ $ 
+ 
+ (51,856) 
+ 
+ 
+ 
+ (1.9) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other data: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pay-TV subscribers, as of period end (in millions) 
+ 
+ 
+ 
+ 
+ 
+ 7.778 
+ 
+ 
+ 
+ 
+ 
+ 8.526 
+ 
+ 
+ 
+ 
+ 
+ (0.748) 
+ 
+ 
+ 
+ (8.8) 
+ 
+ 
+ DISH TV subscribers, as of period end (in millions) 
+ 
+ 
+ 
+ 
+ 
+ 5.686 
+ 
+ 
+ 
+ 
+ 
+ 6.471 
+ 
+ 
+ 
+ 
+ 
+ (0.785) 
+ 
+ 
+ 
+ (12.1) 
+ 
+ 
+ SLING TV subscribers, as of period end (in millions) 
+ 
+ 
+ 
+ 
+ 
+ 2.092 
+ 
+ 
+ 
+ 
+ 
+ 2.055 
+ 
+ 
+ 
+ 
+ 
+ 0.037 
+ 
+ 
+ 
+ 1.8 
+ 
+ 
+ Pay-TV subscriber additions (losses), net (in millions) 
+ 
+ 
+ 
+ 
+ 
+ (0.748) 
+ 
+ 
+ 
+ 
+ 
+ (1.224) 
+ 
+ 
+ 
+ 
+ 
+ 0.476 
+ 
+ 
+ 
+ 38.9 
+ 
+ 
+ DISH TV subscriber additions (losses), net (in millions) 
+ 
+ 
+ 
+ 
+ 
+ (0.785) 
+ 
+ 
+ 
+ 
+ 
+ (0.945) 
+ 
+ 
+ 
+ 
+ 
+ 0.160 
+ 
+ 
+ 
+ 16.9 
+ 
+ 
+ SLING TV subscriber additions (losses), net (in millions) 
+ 
+ 
+ 
+ 
+ 
+ 0.037 
+ 
+ 
+ 
+ 
+ 
+ (0.279) 
+ 
+ 
+ 
+ 
+ 
+ 0.316 
+ 
+ 
+ 
+ * 
+ 
+ 
+ Pay-TV ARPU 
+ 
+ 
+ 
+ $ 
+ 
+ 108.90 
+ 
+ 
+ 
+ $ 
+ 
+ 104.56 
+ 
+ 
+ 
+ $ 
+ 
+ 4.34 
+ 
+ 
+ 
+ 4.2 
+ 
+ 
+ DISH TV subscriber additions, gross (in millions) 
+ 
+ 
+ 
+ 
+ 
+ 0.282 
+ 
+ 
+ 
+ 
+ 
+ 0.464 
+ 
+ 
+ 
+ 
+ 
+ (0.182) 
+ 
+ 
+ 
+ (39.2) 
+ 
+ 
+ DISH TV churn rate 
+ 
+ 
+ 
+ 
+ 
+ 1.46 
+ 
+ % 
+ 
+ 
+ 
+ 1.69 
+ 
+ % 
+ 
+ 
+ 
+ (0.23) 
+ 
+ % 
+ 
+ (13.6) 
+ 
+ 
+ DISH TV SAC 
+ 
+ 
+ 
+ $ 
+ 
+ 999 
+ 
+ 
+ 
+ $ 
+ 
+ 1,118 
+ 
+ 
+ 
+ $ 
+ 
+ (119) 
+ 
+ 
+ 
+ (10.6) 
+ 
+ 
+ Purchases of property and equipment, net of refunds ** 
+ 
+ 
+ 
+ $ 
+ 
+ 218,473 
+ 
+ 
+ 
+ $ 
+ 
+ 242,736 
+ 
+ 
+ 
+ $ 
+ 
+ (24,263) 
+ 
+ 
+ 
+ (10.0) 
+ 
+ 
+ OIBDA 
+ 
+ 
+ 
+ $ 
+ 
+ 2,985,285 
+ 
+ 
+ 
+ $ 
+ 
+ 3,081,102 
+ 
+ 
+ 
+ $ 
+ 
+ (95,817) 
+ 
+ 
+ 
+ (3.1) 
+ 
+ 
+ 
+ 
+ * 
+ 
+ Percentage is not meaningful. 
+ 
+ 
+ ** 
+ 
+ Purchases of property and equipment, net of refunds includes satellite purchases during the years ended December 31, 2024 and 2023 of $121 million and $105 million, respectively. 
+ 
+ Pay-TV Subscribers 
+ 
+ DISH TV subscribers . We lost approximately 785,000 net DISH TV subscribers during the year ended December 31, 2024 compared to the loss of approximately 945,000 net DISH TV subscribers during the same period in 2023. This decrease in net DISH TV subscriber losses primarily resulted from a lower DISH TV churn rate, partially offset by lower gross new DISH TV subscriber activations. 
+ 
+ 
+ 
+ 64 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ SLING TV subscribers . We added approximately 37,000 net SLING TV subscribers during the year ended December 31, 2024 compared to the loss of approximately 279,000 net SLING TV subscribers during the same period in 2023. The change in net SLING TV subscribers was primarily related to lower SLING TV subscriber disconnects in 2024 due to our emphasis on acquiring higher quality subscribers, partially offset by lower SLING TV subscriber activations. We continue to experience increased competition, including competition from other subscription video on-demand and live-linear OTT service providers, many of which are providers of our content and offer football and other seasonal sports programming direct to subscribers on an a la carte basis. 
+ 
+ DISH TV subscribers, gross . During the year ended December 31, 2024, we activated approximately 282,000 gross new DISH TV subscribers compared to approximately 464,000 gross new DISH TV subscribers during the same period in 2023, a decrease of 39.2%. This decrease in our gross new DISH TV subscriber activations was primarily related to lower marketing expenditures, the lack of demand and shifting consumer behavior, as well as increased competitive pressures, including, but not limited to, live-linear OTT service providers, aggressive short term introductory pricing and bundled offers combining broadband, video and/or wireless services and other discounted promotional offers and direct-to-consumer offerings by certain of our programmers. Our gross new DISH TV subscriber activations continue to be negatively impacted by an emphasis on acquiring higher quality subscribers. 
+ 
+ DISH TV churn rate . Our DISH TV churn rate for the year ended December 31, 2024 was 1.46% compared to 1.69% for the same period in 2023. Our DISH TV churn rate for the year ended December 31, 2024 was positively impacted by our emphasis on acquiring and retaining higher quality subscribers. Our DISH TV churn rate continues to be adversely impacted by external factors, such as, among other things, cord cutting, shifting consumer behavior and increased competitive pressures, including, but not limited to, live-linear OTT service providers, aggressive marketing, bundled discount offers combining broadband, video and/or wireless services and other discounted promotional offers. Our DISH TV churn rate is also impacted by internal factors, such as, among other things, our ability to consistently provide outstanding customer service, price increases, our ability to control piracy and other forms of fraud and the level of our retention efforts. In addition, our DISH TV churn rate for the year ended December 31, 2023 was briefly elevated due to a cybersecurity incident in the first quarter of 2023. 
+ 
+ Our net Pay-TV subscriber additions, gross new DISH TV subscriber activations and DISH TV churn rate have been negatively impacted as a result of programming interruptions and threatened programming interruptions in connection with the scheduled expiration of programming carriage contracts with content providers. We cannot predict with any certainty the impact to our net Pay-TV subscriber additions, gross new DISH TV subscriber activations and DISH TV subscriber churn rate resulting from programming interruptions or threatened programming interruptions that may occur in the future. As a result, we may at times suffer from periods of lower net Pay-TV subscriber additions or higher net Pay-TV subscriber losses. 
+ 
+ We have not always met our own standards for performing high-quality installations, effectively resolving subscriber issues when they arise, answering subscriber calls in an acceptable timeframe, effectively communicating with our subscriber base, reducing calls driven by the complexity of our business, improving the reliability of certain systems and subscriber equipment and aligning the interests of certain independent third-party retailers and installers to provide high-quality service. Most of these factors have affected both gross new DISH TV subscriber activations as well as DISH TV subscriber churn rate. Our future gross new DISH TV subscriber activations and our DISH TV subscriber churn rate may be negatively impacted by these factors, which could in turn adversely affect our revenue. 
+ 
+ Service revenue. “Service revenue” totaled $10.614 billion for the year ended December 31, 2024, a decrease of $772 million or 6.8% compared to the same period in 2023. The decrease in “Service revenue” compared to the same period in 2023 was primarily related to lower average Pay-TV subscriber base, partially offset by an increase in Pay-TV ARPU, discussed below. 
+ 
+ 
+ 
+ 65 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ Equipment sales and other revenue. “Equipment sales and other revenue” totaled $75 million for the year ended December 31, 2024, a decrease of $111 million or 59.7% compared to the same period in 2023. The decrease in “Equipment sales and other revenue” compared to the same period in 2023 was primarily related to a non-recurring $75 million license of our Adaptive Bitrate Streaming patents to Peloton covering certain Peloton products that resolves our litigation involving those products during the second quarter of 2023 . 
+ 
+ Pay-TV ARPU. Pay-TV ARPU was $108.90 during the year ended December 31, 2024 versus $104.56 during the same period in 2023. The $4.34 or 4.2% increase in Pay-TV ARPU was primarily attributable to DISH TV and SLING TV programming price increases and higher Pay-TV ad sales revenue. The DISH TV and SLING TV programming package price increases were effective in the fourth quarter of 2023. 
+ 
+ Cost of services. “Cost of services” totaled $6.547 billion during the year ended December 31, 2024, a decrease of $431 million or 6.2% compared to the same period in 2023. The decrease in “Cost of services” was primarily attributable to a lower average Pay-TV subscriber base and lower variable and retention costs per subscriber due to, among other things, operational efficiencies, partially offset by higher programming costs per subscriber. Programming costs per subscriber increased during the year ended December 31, 2024 due to rate increases in certain of our programming contracts, including the renewal of certain contracts at higher rates, particularly for local broadcast channels. Variable and retention costs per subscriber during the year ended December 31, 2023 were negatively impacted by approximately $30 million in cybersecurity-related expenses to remediate a cybersecurity incident and provide additional customer support. “Cost of services” represented 61.7% and 61.3% of “Service revenue” during the years ended December 31, 2024 and 2023, respectively. 
+ 
+ In the normal course of business, we enter into contracts to purchase programming content in which our payment obligations are generally contingent on the number of Pay-TV subscribers to whom we provide the respective content. Our “Cost of services” have and will continue to face further upward pressure from price increases and the renewal of long-term programming contracts on less favorable pricing terms. In addition, our programming expenses will increase to the extent we are successful in growing our Pay-TV subscriber base. 
+ 
+ Selling, general and administrative expenses. “Selling, general and administrative expenses” totaled $1.076 billion during the year ended December 31, 2024, a $339 million or 23.9% decrease compared to the same period in 2023. This change was primarily driven by a decrease in subscriber acquisition costs resulting from lower marketing expenditures and lower gross new DISH TV subscriber activations and a decrease in personnel costs. 
+ 
+ Depreciation and amortization. “Depreciation and amortization” expense totaled $337 million during the year ended December 31, 2024, a $44 million or 11.5% decrease compared to the same period in 2023. This change was primarily driven by a decrease in depreciation expense from equipment leased to new and existing DISH TV subscribers, the expiration of our Nimiq 5 finance lease in September 2024, and the EchoStar XI satellite which became fully depreciated during the second quarter of 2023. 
+ 
+ Impairment of long-lived assets and goodwill. “ Impairment of long-lived assets and goodwill” totaled $6 million for the year ended December 31, 2023. This impairment represents a noncash impairment charge for goodwill. See Note 2 to the Notes to our Consolidated Financial Statements in this Annual Report on Form 10-K for further information. 
+ 
+ DISH TV SAC. DISH TV SAC was $999 during the year ended December 31, 2024 compared to $1,118 during the same period in 2023, a decrease of $119 or 10.6%. This change was primarily attributable to a decrease in advertising costs per subscriber and a higher percentage of remanufactured receivers being activated on new subscriber accounts, partially offset by higher commission costs due to our emphasis on acquiring higher quality subscribers. 
+ 
+ 
+ 
+ 66 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ During the years ended December 31, 2024 and 2023, the amount of equipment capitalized under our lease program for new DISH TV subscribers totaled $26 million and $54 million, respectively. This decrease in capital expenditures primarily resulted from a decrease in gross new DISH TV subscriber activations and a higher percentage of remanufactured receivers being activated on new subscriber accounts. 
+ 
+ To remain competitive, we upgrade or replace subscriber equipment periodically as technology changes, and the costs associated with these upgrades may be substantial. To the extent technological changes render a portion of our existing equipment obsolete, we would be unable to redeploy all returned equipment and consequently would realize less benefit from the DISH TV SAC reduction associated with redeployment of that returned lease equipment. 
+ 
+ Our “DISH TV SAC” may materially increase in the future to the extent that we, among other things, transition to newer technologies, introduce more aggressive promotions or provide greater equipment subsidies. See further information under “Liquidity and Capital Resources – Subscriber Acquisition and Retention Costs.” 
+ 
+ 
+ 
+ 67 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ Year Ended December 31, 2023 Compared to the Year Ended December 31, 2022. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Years Ended December 31, 
+ 
+ 
+ 
+ Variance 
+ 
+ 
+ Statements of Operations Data 
+ 
+ 
+ 
+ 2023 
+ 
+ 
+ 
+ 2022 
+ 
+ 
+ 
+ Amount 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (In thousands) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Revenue: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Service revenue 
+ 
+ 
+ 
+ $ 
+ 
+ 11,385,961 
+ 
+ 
+ 
+ $ 
+ 
+ 12,360,601 
+ 
+ 
+ 
+ $ 
+ 
+ (974,640) 
+ 
+ 
+ 
+ (7.9) 
+ 
+ 
+ Equipment sales and other revenue 
+ 
+ 
+ 
+ 
+ 
+ 185,198 
+ 
+ 
+ 
+ 
+ 
+ 144,791 
+ 
+ 
+ 
+ 
+ 
+ 40,407 
+ 
+ 
+ 
+ 27.9 
+ 
+ 
+ Total revenue 
+ 
+ 
+ 
+ 
+ 
+ 11,571,159 
+ 
+ 
+ 
+ 
+ 
+ 12,505,392 
+ 
+ 
+ 
+ 
+ 
+ (934,233) 
+ 
+ 
+ 
+ (7.5) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Costs and expenses: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of services 
+ 
+ 
+ 
+ 
+ 
+ 6,977,628 
+ 
+ 
+ 
+ 
+ 
+ 7,423,427 
+ 
+ 
+ 
+ 
+ 
+ (445,799) 
+ 
+ 
+ 
+ (6.0) 
+ 
+ 
+ % of Service revenue 
+ 
+ 
+ 
+ 
+ 
+ 61.3 
+ 
+ % 
+ 
+ 
+ 
+ 60.1 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of sales - equipment and other 
+ 
+ 
+ 
+ 
+ 
+ 91,164 
+ 
+ 
+ 
+ 
+ 
+ 97,315 
+ 
+ 
+ 
+ 
+ 
+ (6,151) 
+ 
+ 
+ 
+ (6.3) 
+ 
+ 
+ Selling, general and administrative expenses 
+ 
+ 
+ 
+ 
+ 
+ 1,414,808 
+ 
+ 
+ 
+ 1,622,281 
+ 
+ 
+ 
+ (207,473) 
+ 
+ 
+ 
+ (12.8) 
+ 
+ 
+ % of Total revenue 
+ 
+ 
+ 
+ 
+ 
+ 12.2 
+ 
+ % 
+ 
+ 
+ 
+ 13.0 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Depreciation and amortization 
+ 
+ 
+ 
+ 
+ 
+ 381,292 
+ 
+ 
+ 
+ 
+ 
+ 428,471 
+ 
+ 
+ 
+ 
+ 
+ (47,179) 
+ 
+ 
+ 
+ (11.0) 
+ 
+ 
+ Impairment of long-lived assets and goodwill 
+ 
+ 
+ 
+ 
+ 
+ 6,457 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 6,457 
+ 
+ 
+ 
+ * 
+ 
+ 
+ Total costs and expenses 
+ 
+ 
+ 
+ 
+ 
+ 8,871,349 
+ 
+ 
+ 
+ 
+ 
+ 9,571,494 
+ 
+ 
+ 
+ 
+ 
+ (700,145) 
+ 
+ 
+ 
+ (7.3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating income (loss) 
+ 
+ 
+ 
+ $ 
+ 
+ 2,699,810 
+ 
+ 
+ 
+ $ 
+ 
+ 2,933,898 
+ 
+ 
+ 
+ $ 
+ 
+ (234,088) 
+ 
+ 
+ 
+ (8.0) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other data: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pay-TV subscribers, as of period end (in millions) 
+ 
+ 
+ 
+ 
+ 
+ 8.526 
+ 
+ 
+ 
+ 
+ 
+ 9.750 
+ 
+ 
+ 
+ 
+ 
+ (1.224) 
+ 
+ 
+ 
+ (12.6) 
+ 
+ 
+ DISH TV subscribers, as of period end (in millions) 
+ 
+ 
+ 
+ 
+ 
+ 6.471 
+ 
+ 
+ 
+ 
+ 
+ 7.416 
+ 
+ 
+ 
+ 
+ 
+ (0.945) 
+ 
+ 
+ 
+ (12.7) 
+ 
+ 
+ SLING TV subscribers, as of period end (in millions) 
+ 
+ 
+ 
+ 
+ 
+ 2.055 
+ 
+ 
+ 
+ 
+ 
+ 2.334 
+ 
+ 
+ 
+ 
+ 
+ (0.279) 
+ 
+ 
+ 
+ (12.0) 
+ 
+ 
+ Pay-TV subscriber additions (losses), net (in millions) 
+ 
+ 
+ 
+ 
+ 
+ (1.224) 
+ 
+ 
+ 
+ 
+ 
+ (0.957) 
+ 
+ 
+ 
+ 
+ 
+ (0.267) 
+ 
+ 
+ 
+ (27.9) 
+ 
+ 
+ DISH TV subscriber additions (losses), net (in millions) 
+ 
+ 
+ 
+ 
+ 
+ (0.945) 
+ 
+ 
+ 
+ 
+ 
+ (0.805) 
+ 
+ 
+ 
+ 
+ 
+ (0.140) 
+ 
+ 
+ 
+ (17.4) 
+ 
+ 
+ SLING TV subscriber additions (losses), net (in millions) 
+ 
+ 
+ 
+ 
+ 
+ (0.279) 
+ 
+ 
+ 
+ 
+ 
+ (0.152) 
+ 
+ 
+ 
+ 
+ 
+ (0.127) 
+ 
+ 
+ 
+ (83.6) 
+ 
+ 
+ Pay-TV ARPU 
+ 
+ 
+ 
+ $ 
+ 
+ 104.56 
+ 
+ 
+ 
+ $ 
+ 
+ 101.20 
+ 
+ 
+ 
+ $ 
+ 
+ 3.36 
+ 
+ 
+ 
+ 3.3 
+ 
+ 
+ DISH TV subscriber additions, gross (in millions) 
+ 
+ 
+ 
+ 
+ 
+ 0.464 
+ 
+ 
+ 
+ 
+ 
+ 0.634 
+ 
+ 
+ 
+ 
+ 
+ (0.170) 
+ 
+ 
+ 
+ (26.8) 
+ 
+ 
+ DISH TV churn rate 
+ 
+ 
+ 
+ 
+ 
+ 1.69 
+ 
+ % 
+ 
+ 
+ 
+ 1.54 
+ 
+ % 
+ 
+ 
+ 
+ 0.15 
+ 
+ % 
+ 
+ 9.7 
+ 
+ 
+ DISH TV SAC 
+ 
+ 
+ 
+ $ 
+ 
+ 1,118 
+ 
+ 
+ 
+ $ 
+ 
+ 1,044 
+ 
+ 
+ 
+ $ 
+ 
+ 74 
+ 
+ 
+ 
+ 7.1 
+ 
+ 
+ Purchases of property and equipment, net of refunds ** 
+ 
+ 
+ 
+ $ 
+ 
+ 242,736 
+ 
+ 
+ 
+ $ 
+ 
+ 131,093 
+ 
+ 
+ 
+ $ 
+ 
+ 111,643 
+ 
+ 
+ 
+ 85.2 
+ 
+ 
+ OIBDA 
+ 
+ 
+ 
+ $ 
+ 
+ 3,081,102 
+ 
+ 
+ 
+ $ 
+ 
+ 3,362,369 
+ 
+ 
+ 
+ $ 
+ 
+ (281,267) 
+ 
+ 
+ 
+ (8.4) 
+ 
+ 
+ 
+ 
+ * 
+ 
+ Percentage is not meaningful. 
+ 
+ 
+ ** 
+ 
+ Purchases of property and equipment, net of refunds includes satellite purchases during the years ended December 31, 2023 and 2022 of $105 million and zero, respectively. 
+ 
+ Pay-TV Subscribers 
+ 
+ DISH TV subscribers . We lost approximately 945,000 net DISH TV subscribers during the year ended December 31, 2023 compared to the loss of approximately 805,000 net DISH TV subscribers during the same period in 2022. This increase in net DISH TV subscriber losses primarily resulted from lower gross new DISH TV subscriber activations and a higher DISH TV churn rate. 
+ 
+ SLING TV subscribers . We lost approximately 279,000 net SLING TV subscribers during the year ended December 31, 2023 compared to the loss of approximately 152,000 net SLING TV subscribers during the same period in 2022. The increase in net SLING TV subscriber losses were primarily related to lower SLING TV subscriber activations, partially offset by lower SLING TV subscriber disconnects in 2023. We continue to experience increased competition, including competition from other subscription video on-demand and live-linear OTT service providers, many of which are providers of our content and offer football and other seasonal sports programming direct to subscribers on an a la carte basis. 
+ 
+ 
+ 
+ 68 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ DISH TV subscribers, gross . During the year ended December 31, 2023, we activated approximately 464,000 gross new DISH TV subscribers compared to approximately 634,000 gross new DISH TV subscribers during the same period in 2022, a decrease of 26.8%. This decrease in our gross new DISH TV subscriber activations was primarily related to the lack of demand, shifting consumer behavior, and lower marketing expenditures, as well as increased competitive pressures, including, but not limited to, live-linear OTT service providers, aggressive short term introductory pricing and bundled offers combining broadband, video and/or wireless services and other discounted promotional offers, and direct-to-consumer offerings by certain of our programmers. Our gross new DISH TV subscriber activations continue to be negatively impacted by an emphasis on acquiring higher quality subscribers. 
+ 
+ DISH TV churn rate . Our DISH TV churn rate for the year ended December 31, 2023 was 1.69% compared to 1.54% for the same period in 2022. Our DISH TV churn rate for the year ended December 31, 2023 was briefly elevated due to the cybersecurity incident. Our DISH TV churn rate continues to be adversely impacted by external factors, such as, among other things, cord cutting, shifting consumer behavior and increased competitive pressures, including, but not limited to, live-linear OTT service providers, aggressive marketing, bundled discount offers combining broadband, video and/or wireless services and other discounted promotional offers. Our DISH TV churn rate continues to be positively impacted by our emphasis on acquiring and retaining higher quality subscribers. Our DISH TV churn rate is also impacted by internal factors, such as, among other things, our ability to consistently provide outstanding customer service, price increases, our ability to control piracy and other forms of fraud, and the level of our retention efforts. 
+ 
+ Service revenue. “Service revenue” totaled $11.386 billion for the year ended December 31, 2023, a decrease of $975 million or 7.9% compared to the same period in 2022. The decrease in “Service revenue” compared to the same period in 2022 was primarily related to a lower average Pay-TV subscriber base, partially offset by an increase in Pay-TV ARPU, discussed below. 
+ 
+ Equipment sales and other revenue. “Equipment sales and other revenue” totaled $185 million for the year ended December 31, 2023, an increase of $40 million or 27.9% compared to the same period in 2022. The increase in “Equipment sales and other revenue” compared to the same period in 2022 was primarily related to a non-recurring $75 million license of our Adaptive Bitrate Streaming patents to Peloton covering certain Peloton products that resolves our litigation involving those products, partially offset by a decrease in equipment sales revenue. 
+ 
+ Pay-TV ARPU. Pay-TV ARPU was $104.56 during the year ended December 31, 2023 versus $101.20 during the same period in 2022. The $3.36 or 3.3% increase in Pay-TV ARPU was primarily attributable to DISH TV and SLING TV programming price increases. The DISH TV and SLING TV programming package price increases were effective in the fourth quarter of 2022 and 2023. 
+ 
+ Cost of services. “Cost of services” totaled $6.978 billion during the year ended December 31, 2023, a decrease of $446 million or 6.0% compared to the same period in 2022. The decrease in “Cost of services” was primarily attributable to a lower average Pay-TV subscriber base, partially offset by higher programming costs per subscriber and higher variable and retention costs per subscriber. Programming costs per subscriber increased during the year ended December 31, 2023 due to rate increases in certain of our programming contracts, including the renewal of certain contracts at higher rates, particularly for local broadcast channels. In addition, variable and retention costs per subscriber increased during the year ended December 31, 2023 due to, among other things, approximately $30 million in cybersecurity-related expenses to remediate the incident and provide additional customer support. “Cost of services” represented 61.3% and 60.1% of “Service revenue” during the years ended December 31, 2023 and 2022, respectively. 
+ 
+ 
+ 
+ 
+ 69 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ Selling, general and administrative expenses. “Selling, general and administrative expenses” totaled $1.415 billion during the year ended December 31, 2023, a $207 million or 12.8% decrease compared to the same period in 2022. This change was primarily driven by a decrease in subscriber acquisition costs resulting from lower marketing expenditures and lower gross new DISH TV subscriber activations, and a decrease in personnel costs, partially offset by Merger related costs. 
+ 
+ Depreciation and amortization. “Depreciation and amortization” expense totaled $381 million during the year ended December 31, 2023, a $47 million or 11.0% decrease compared to the same period in 2022. This change was primarily driven by a decrease in depreciation expense from equipment leased to new and existing DISH TV subscribers and the EchoStar XI satellite which became fully depreciated during the second quarter of 2023. 
+ 
+ Impairment of long-lived assets and goodwill. “ Impairment of long-lived assets and goodwill” totaled $6 million for the year ended December 31, 2023. This impairment represents a noncash impairment charge for goodwill. See Note 2 to the Notes to our Consolidated Financial Statements in this Annual Report on Form 10-K for further information. 
+ 
+ DISH TV SAC. DISH TV SAC was $1,118 during the year ended December 31, 2023 compared to $1,044 during the same period in 2022, an increase of $74 or 7.1%. This change was primarily attributable to an increase in advertising costs per subscriber, higher installation costs due to an increase in labor and other installation costs, and a lower percentage of remanufactured receivers being activated on new subscriber accounts. 
+ 
+ During the years ended December 31, 2023 and 2022, the amount of equipment capitalized under our lease program for new DISH TV subscribers totaled $54 million and $55 million, respectively. 
+ 
+ 
+ 
+ 70 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ Wireless Segment 
+ 
+ Our Wireless segment business strategy is to expand our current target segments and profitably grow our Wireless subscriber base and commercialize and grow customer traffic on our 5G Network. We intend to grow our Wireless subscriber base by acquiring and retaining high quality subscribers with competitive offers, choice and outstanding customer service that better meet those subscribers’ needs and budget. 
+ 
+ Our Wireless segment provides Wireless communication services and products. We currently offer our Wireless services for 5G VoNR to over 220 million Americans and for 5G broadband service to over 268 million Americans, as well as a competitive portfolio of wireless devices . 
+ 
+ We offer nationwide Wireless services to subscribers primarily under our Boost Mobile and Gen Mobile brands. Prepaid Wireless subscribers generally pay in advance for monthly access to wireless talk, text and data services. Postpaid Wireless subscribers are qualified to pay after receiving wireless talk, text and data services and may also qualify for certain device financing arrangements. 
+ 
+ Boost Mobile postpaid . During 2023, we launched our nationwide expansion of our Boost Mobile postpaid Wireless service. At the end of the third quarter of 2023, we began offering premium wireless devices, including Apple products. We currently offer a broad range of premium wireless devices on our 5G Network, including the Apple iPhone 15 and newer generation iPhones. 
+ 
+ We are currently operating primarily as an MVNO as we continue our 5G Network Deployment and commercialize and grow customer traffic on our 5G Network. We are transitioning to an MNO as our 5G Network has become commercially available and we grow customer traffic on our 5G Network. We are currently activating Boost Mobile subscribers with compatible devices onto our 5G Network in markets where we have reached VoNR . We have deployed 5G VoNR covering over 220 million Americans. Within our MVNO operations, today we depend in part on T-Mobile and AT&T to provide us with network services under the MNSA and NSA, respectively. As of December 31, 2024, we had 6.995 million Wireless subscribers. 
+ 
+ Currently, we offer Wireless subscribers competitive consumer plans with no annual service contracts and monthly service plans including high-speed data and unlimited talk and text. We also offer a variety of value-added services, including, but not limited to, device payment and protection plans and device financing arrangements for certain qualified subscribers. 
+ 
+ During the second half of 2022, we began the process of migrating subscribers off the Transition Services Agreement (“TSA”) with T-Mobile, including the billing systems, and onto our own billing and operational support systems. The migration of subscribers to our new billing and operational support systems accelerated during the fourth quarter of 2022 and continued in the first and second quarters of 2023. The migration of subscribers during the first and second quarters of 2023 negatively impacted our Wireless churn rate and our results of operations. During the second quarter of 2023, we completed the migration of subscribers off the TSA with T-Mobile and onto our own billing and operational support systems. 
+ 
+ ACP Subscribers. A portion of our Wireless subscriber base and revenue was comprised of subscribers who received benefits under the ACP program. Households enrolled in the ACP program continued to receive the benefit on their service through April 2024. In May 2024, households received a partial benefit and on June 1, 2024 the ACP program funding concluded and households no longer received their benefit. Although we implemented plans to retain and/or migrate these subscribers to lower priced service plans, these subscribers began deactivating in the second and third quarters of 2024. As of September 30, 2024, we had approximately 33,000 Wireless ACP subscribers, the majority of which migrated to other service plans in the fourth quarter of 2024. As of December 31, 2024, we have no Wireless ACP subscribers. 
+ 
+ Generally, ACP subscribers have lower Wireless ARPU than other Wireless subscribers and as a result, any loss of ACP subscribers had a nominal impact on pre-tax net income. 
+ 
+ 
+ 
+ 71 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ We have invested a total of over $30 billion in Wireless spectrum licenses. The $30 billion of investments related to Wireless spectrum licenses does not include $10 billion of capitalized interest related to the carrying value of such licenses. See Note 2 and Note 15 in the Notes to our Consolidated Financial Statements in this Annual Report on Form 10-K for further information. We continue to commercialize our Wireless spectrum licenses through the completion of our 5G Network Deployment. We have committed to the FCC to deploy our 5G Network capable of serving increasingly larger portions of the U.S. population at different deadlines. 
+ 
+ We may need to raise additional capital in the future , which may not be available on favorable terms or at all, to fund the efforts described below, as well as, among other things, make any potential Northstar Re-Auction Payment and SNR Re-Auction Payment for the AWS-3 licenses retained by the FCC. There can be no assurance that we will be able to complete all build-out requirements or profitably deploy our Wireless spectrum licenses, which may affect the carrying amount of these assets and our future financial condition or results of operations. See Note 15 in the Notes to our Consolidated Financial Statements in this Annual Report on Form 10-K for further information. 
+ 
+ Our Wireless spectrum licenses are subject to certain interim and final build-out requirements, as well as certain renewal requirements. On September 29, 2023, the FCC confirmed we met all of our June 14, 2023 band-specific 5G deployment commitments, and two of our three nationwide 5G commitments. The single remaining 5G commitment, that at least 70% of the U.S. population has access to average download speeds equal to 35 Mbps, was achieved in March 2024 using the drive test methodology previously agreed upon by us and the FCC and overseen by an independent monitor . We currently have the largest commercial deployment of 5G VoNR in the world covering over 220 million Americans and 5G broadband service covering over 268 million Amer icans. 
+ 
+ In September 2024, the FCC conditionally granted our requests to extend the 5G deployment deadlines for certain of our Wireless spectrum licenses based on several commitments and in a January 10, 2025 filing to the FCC , we certified to meeting the accelerated buildout (Commitments #2 and #3 of the Extension Request) and the nationwide 80% coverage obligations (Commitment #1 of the Extension Request) due by December 31, 2024. Thus, pursuant to the Extension Request, the final deployment deadlines for the licenses subject to the Extension Request (listed in Appendix G) shall be extended to December 14, 2026. In addition, the final deployment deadlines for the licenses subject to the Extension Request (listed in Appendix G) shall be further extended to June 14, 2028 as long as we satisfy the remaining Extension Request commitments. See Note 15 i n the Notes to our Consolidated Financial Statements in this Annual Report on Form 10-K for definitions and further details. 
+ 
+ We may need to make significant additional investments or partner with others to, among other things, continue our 5G Network Deployment and further commercialize, build-out and integrate these licenses and related assets and any additional acquired licenses and related assets, as well as to comply with regulations applicable to such licenses. Depending on the nature and scope of such activities, any such investments or partnerships could vary significantly. In addition, as we continue our 5G Network Deployment, we have and may continue to incur significant additional expenses related to, among other things, research and development, wireless testing and ongoing upgrades to the wireless network infrastructure, software and third-party integration. As a result of these investments, among other factors, we may need to raise additional capital, which may not be available on favorable terms or at all. We may also determine that additional wireless spectrum licenses may be required for our 5G Network Deployment, which will enhance our ability to compete effectively with other wireless service providers. 
+ 
+ 
+ 
+ 72 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ Competition. Wireless communication services is a mature market with moderate year over year organic growth. Competitors include, among others, providers who offer similar wireless communication services, such as talk, text and data. Competitive factors within the wireless communication services industry include, but are not limited to, pricing, market saturation, service and product offerings, customer experience and service quality. We compete with a number of national wireless carriers, including Verizon, AT&T and T-Mobile, all of which are significantly larger than us, serve a significant percentage of all wireless subscribers and enjoy scale advantages compared to us. Verizon, AT&T and T-Mobile are currently the only nationwide MNOs in the United States. 
+ 
+ Additional primary competitors to our Wireless segment include, but are not limited to, Metro PCS (owned by T-Mobile), Cricket Wireless (owned by AT&T), Visible (owned by Verizon), Tracfone Wireless (owned by Verizon), Total Wireless (owned by Verizon) and other MVNOs such as Consumer Cellular, Mint Mobile (owned by T-Mobile), Spectrum Mobile and Xfinity Mobile. 
+ 
+ 
+ 
+ 
+ 73 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ RESULTS OF OPERATIONS –Wireless Segment 
+ 
+ Year Ended December 31, 2024 Compared to the Year Ended December 31, 2023. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Years Ended December 31, 
+ 
+ 
+ 
+ Variance 
+ 
+ 
+ Statements of Operations Data 
+ 
+ 
+ 
+ 2024 
+ 
+ 
+ 
+ 2023 
+ 
+ 
+ 
+ Amount 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (In thousands) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Revenue: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Service revenue 
+ 
+ 
+ 
+ $ 
+ 
+ 3,156,760 
+ 
+ 
+ 
+ $ 
+ 
+ 3,337,240 
+ 
+ 
+ 
+ $ 
+ 
+ (180,480) 
+ 
+ 
+ 
+ (5.4) 
+ 
+ 
+ Equipment sales and other revenue 
+ 
+ 
+ 
+ 
+ 
+ 451,223 
+ 
+ 
+ 
+ 
+ 
+ 394,920 
+ 
+ 
+ 
+ 
+ 
+ 56,303 
+ 
+ 
+ 
+ 14.3 
+ 
+ 
+ Total revenue 
+ 
+ 
+ 
+ 
+ 
+ 3,607,983 
+ 
+ 
+ 
+ 
+ 
+ 3,732,160 
+ 
+ 
+ 
+ 
+ 
+ (124,177) 
+ 
+ 
+ 
+ (3.3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Costs and expenses: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of services (1) 
+ 
+ 
+ 
+ 
+ 
+ 3,100,316 
+ 
+ 
+ 
+ 
+ 
+ 2,012,333 
+ 
+ 
+ 
+ 
+ 
+ 1,087,983 
+ 
+ 
+ 
+ 54.1 
+ 
+ 
+ % of Service revenue 
+ 
+ 
+ 
+ 
+ 
+ 98.2 
+ 
+ % 
+ 
+ 
+ 
+ 60.3 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of sales - equipment and other (2) 
+ 
+ 
+ 
+ 
+ 
+ 1,250,656 
+ 
+ 
+ 
+ 
+ 
+ 2,110,706 
+ 
+ 
+ 
+ 
+ 
+ (860,050) 
+ 
+ 
+ 
+ (40.7) 
+ 
+ 
+ Selling, general and administrative expenses 
+ 
+ 
+ 
+ 
+ 
+ 954,034 
+ 
+ 
+ 
+ 
+ 
+ 1,114,485 
+ 
+ 
+ 
+ (160,451) 
+ 
+ 
+ 
+ (14.4) 
+ 
+ 
+ % of Total revenue 
+ 
+ 
+ 
+ 
+ 
+ 26.4 
+ 
+ % 
+ 
+ 
+ 
+ 29.9 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Depreciation and amortization 
+ 
+ 
+ 
+ 
+ 
+ 1,134,883 
+ 
+ 
+ 
+ 
+ 
+ 800,629 
+ 
+ 
+ 
+ 
+ 
+ 334,254 
+ 
+ 
+ 
+ 41.7 
+ 
+ 
+ Impairment of long-lived assets and goodwill 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 218,560 
+ 
+ 
+ 
+ 
+ 
+ (218,560) 
+ 
+ 
+ 
+ * 
+ 
+ 
+ Total costs and expenses 
+ 
+ 
+ 
+ 
+ 
+ 6,439,889 
+ 
+ 
+ 
+ 
+ 
+ 6,256,713 
+ 
+ 
+ 
+ 
+ 
+ 183,176 
+ 
+ 
+ 
+ 2.9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating income (loss) 
+ 
+ 
+ 
+ $ 
+ 
+ (2,831,906) 
+ 
+ 
+ 
+ $ 
+ 
+ (2,524,553) 
+ 
+ 
+ 
+ $ 
+ 
+ (307,353) 
+ 
+ 
+ 
+ (12.2) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other data: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Wireless subscribers, as of period end (in millions)** 
+ 
+ 
+ 
+ 
+ 
+ 6.995 
+ 
+ 
+ 
+ 
+ 
+ 7.378 
+ 
+ 
+ 
+ 
+ 
+ (0.383) 
+ 
+ 
+ 
+ (5.2) 
+ 
+ 
+ Wireless subscriber additions, gross (in millions) 
+ 
+ 
+ 
+ 
+ 
+ 2.520 
+ 
+ 
+ 
+ 
+ 
+ 2.743 
+ 
+ 
+ 
+ 
+ 
+ (0.223) 
+ 
+ 
+ 
+ (8.1) 
+ 
+ 
+ Wireless subscriber additions (losses), net (in millions) *** 
+ 
+ 
+ 
+ 
+ 
+ (0.304) 
+ 
+ 
+ 
+ 
+ 
+ (0.617) 
+ 
+ 
+ 
+ 
+ 
+ 0.313 
+ 
+ 
+ 
+ 50.7 
+ 
+ 
+ Wireless ARPU 
+ 
+ 
+ 
+ $ 
+ 
+ 36.57 
+ 
+ 
+ 
+ $ 
+ 
+ 36.15 
+ 
+ 
+ 
+ $ 
+ 
+ 0.42 
+ 
+ 
+ 
+ 1.2 
+ 
+ 
+ Wireless churn rate 
+ 
+ 
+ 
+ 
+ 
+ 3.00 
+ 
+ % 
+ 
+ 
+ 
+ 4.17 
+ 
+ % 
+ 
+ 
+ 
+ (1.17) 
+ 
+ % 
+ 
+ (28.1) 
+ 
+ 
+ Purchases of property and equipment, net of refunds 
+ 
+ 
+ 
+ $ 
+ 
+ 1,113,823 
+ 
+ 
+ 
+ $ 
+ 
+ 2,586,151 
+ 
+ 
+ 
+ $ 
+ 
+ (1,472,328) 
+ 
+ 
+ 
+ (56.9) 
+ 
+ 
+ OIBDA 
+ 
+ 
+ 
+ $ 
+ 
+ (1,697,023) 
+ 
+ 
+ 
+ $ 
+ 
+ (1,723,924) 
+ 
+ 
+ 
+ $ 
+ 
+ 26,901 
+ 
+ 
+ 
+ 1.6 
+ 
+ 
+ 
+ (1) 
+ Excluding the impact of the Operational Presentation Change, defined below, which totaled $977 million for the year ended December 31, 2023, “Cost of services” for the year ended December 31, 2024 increased $111 million compared to the same period in 2023. 
+ 
+ (2) 
+ Excluding the impact of the Operational Presentation Change, defined below, which totaled $977 million for the year ended December 31, 2023, “Cost of sales – equipment and other” for the year ended December 31, 2024 increased $117 million compared to the same period in 2023. 
+ * Percentage is not meaningful. 
+ 
+ 
+ ** 
+ 
+ During the fourth quarter of 2024, we removed approximately 79,000 subscribers from our period end Wireless subscriber count representing Wireless subscribers whose economic interests were sold during the year ended December 31, 2024 and these subscribers will migrate off our network beginning in the second quarter of 2025. This removal had no impact on any other reported subscriber metrics, other than our period end Wireless subscriber count. 
+ 
+ 
+ *** 
+ 
+ Includes Government subsidized subscribers. 
+ 
+ Wireless subscribers . We lost approximately 304,000 net Wireless subscribers during the year ended December 31, 2024 compared to the loss of approximately 617,000 net Wireless subscribers during the same period in 2023. This decrease in net Wireless subscriber losses primarily resulted from a lower Wireless churn rate, partially offset by lower gross new Wireless subscriber activations for the year ended December 31, 2024 compared to the same period in 2023. In addition, we had net losses of Government subsidized subscribers during the year ended December 31, 2024 compared to net additions in the same period in 2023, primarily due to the ACP program funding concluding on June 1, 2024. See “Wireless Segment – ACP Subscribers” for further information. Excluding the impact of net losses of Government subsidized subscribers, we added approximately 170,000 net Wireless subscribers during the year ended December 31, 2024. 
+ 
+ 
+ 74 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ Wireless subscribers, gross . During the year ended December 31, 2024, we activated approximately 2.520 million gross new Wireless subscribers compared to approximately 2.743 million gross new Wireless subscribers during the same period in 2023, a decrease of 8.1%. Our gross new Wireless subscribers for the year ended December 31, 2024 was negatively impacted by our emphasis on acquiring and retaining higher quality subscribers and increased competitive pressures, including aggressive competitor marketing, discounted service plans and deeper wireless device subsidies. 
+ 
+ Wireless churn rate . Our Wireless churn rate for the year ended December 31, 2024 was 3.00% compared to 4.17% for the same period in 2023. Our Wireless churn rate for the year ended December 31, 2024 was positively impacted by our emphasis on acquiring and retaining higher quality subscribers, partially offset by competitive pressures, including deeper wireless device subsidies . In addition, our Wireless churn rate for the year ended December 31, 2023 was negatively impacted by migrating subscribers off the TSA with T-Mobile and onto our new billing and operational support systems. 
+ 
+ Service revenue. “Service revenue” totaled $3.157 billion for the year ended December 31, 2024, a decrease of $180 million or 5.4% compared to the same period in 2023. The decrease in “Service revenue” compared to the same period in 2023 was primarily related to a lower average Wireless subscriber base, partially offset by an increase in Wireless ARPU, discussed below. 
+ 
+ Wireless ARPU. Wireless ARPU was $36.57 during the year ended December 31, 2024 versus $36.15 during the same period in 2023. The $0.42 or 1.2% increase in Wireless ARPU was primarily attributable to a shift in subscriber plan mix to higher priced service plans and increased sales of value added services. This increase was partially offset by providing ACP subscribers discounted or free services as a result of the conclusion of the ACP program funding. 
+ 
+ Equipment sales and other revenue. “Equipment sales and other revenue” totaled $451 million for the year ended December 31, 2024, an increase of $56 million or 14.3% compared to the same period in 2023. The increase in “Equipment sales and other revenue” compared to the same period in 2023 was primarily related to wireless devices with h igher revenue per unit shipped due to unit mix, partially offset by a decrease in units shipped and higher promotional subsidies. During the year ended December 31, 2024, we shipped a higher percentage of devices that are compatible with our 5G Network and other devices that have a higher revenue per unit. In addition, this increase was partially offset by lower leased spectrum revenue. 
+ 
+ Cost of services. “Cost of services” totaled $3.100 billion for the year ended December 31, 2024, an increase of $1.088 billion compared to the same period in 2023. Beginning on January 1, 2024, “Cost of services” includes certain direct costs related to our 5G Network Deployment, including lease expense on communication towers, transport, cloud services and other costs which were previously reported in “Cost of sales – equipment and other” (the “Operational Presentation Change”), which totaled $977 million for the year ended December 31, 2023, as a significant portion of our 5G Network was placed into service. Excluding the impact of the Operational Presentation Change, “Cost of services” for the year ended December 31, 2024 increased $111 million compared to the same period in 2023. This change primarily resulted from an increase in lease expense on communication towers, transport and other related costs. In addition, beginning on January 1, 2024, as a significant portion of our 5G Network was placed into service, “Cost of services” includes certain personal costs which were previously reported in “Selling, general and administrative expenses.” 
+ 
+ 
+ 
+ 75 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ These increases were partially offset by a lower average Wireless subscriber base, lower network services costs per subscriber and operational efficiencies, partially offset by higher monthly dealer incentive costs. In the third quarter of 2023, we realigned our commission structure with current business objectives to acquire higher quality, long-term subscribers, which resulted in higher monthly dealer incentive costs. The year ended December 31, 2023 was negatively impacted by the migration of subscribers off the TSA with T-Mobile and onto our new billing and operational support systems. We incurred duplicative costs related to our TSA with T-Mobile and our own billing and operational support systems as we migrated subscribers off the TSA with T-Mobile. 
+ 
+ Cost of sales – equipment and other . “Cost of sales – equipment and other” totaled $1.251 billion for the year ended December 31, 2024, a decrease of $860 million compared to the same period in 2023. Excluding the impact of the Operational Presentation Change, “Cost of sales – equipment and other” for the year ended December 31, 2024 increased $117 million compared to the same period in 2023. This increase primarily resulted from wireless devices with higher costs per unit shipped due to unit mix, partially offset by a decrease in units shipped and higher vendor rebates. During the year ended December 31, 2024, we shipped a higher percentage of devices that are compatible with our 5G Network and other devices that have a higher cost per unit. 
+ 
+ Selling, general and administrative expenses. “Selling, general and administrative expenses” totaled $954 million during the year ended December 31, 2024, a $160 million or 14.4% decrease compared to the same period in 2023. This decrease was primarily driven by lower sales commissions and a decrease in costs to support the Wireless segment, partially offset by higher marketing expenditures. In the third quarter of 2023, we realigned our commission structure with current business objectives to acquire higher quality, long-term subscribers, which resulted in lower sales commissions. In addition, beginning on January 1, 2024, as a significant portion of our 5G Network was placed into service, “Cost of services” includes certain personal costs which were previously reported in “Selling, general and administrative expenses” partially driving this decrease. Furthermore, the year ended December 31, 2023 was negatively impacted by costs of migrating subscribers off the TSA with T-Mobile and onto our new billing and operational support systems. 
+ 
+ Depreciation and amortization. “Depreciation and amortization” expense totaled $1.135 billion during the year ended December 31, 2024 , a $334 million or 41.7% increase compared to the same period in 2023. This change was primarily driven by an increase in depreciation and amortization expense related to 5G Network Deployment assets being placed in service. We expect our depreciation and amortization expense to increase as we continue to place 5G Network Deployment assets into service. This increase was partially offset by a decrease in amortization expense from subscriber relationships related to the Boost Mobile acquisition in 2020, which became fully amortized during the second quarter of 2024. 
+ 
+ Impairment of long-lived assets and goodwill. “ Impairment of long-lived assets and goodwill” totaled $219 million for the year ended December 31, 2023. This impairment represents a noncash impairment charge for goodwill. See Note 2 to the Notes to our Consolidated Financial Statements in this Annual Report on Form 10-K for further information. 
+ 
+ 
+ 
+ 76 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ Year Ended December 31, 2023 Compared to the Year Ended December 31, 2022. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Years Ended December 31, 
+ 
+ 
+ 
+ Variance 
+ 
+ 
+ Statements of Operations Data 
+ 
+ 
+ 
+ 2023 
+ 
+ 
+ 
+ 2022 
+ 
+ 
+ 
+ Amount 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (In thousands) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Revenue: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Service revenue 
+ 
+ 
+ 
+ $ 
+ 
+ 3,337,240 
+ 
+ 
+ 
+ $ 
+ 
+ 3,653,909 
+ 
+ 
+ 
+ $ 
+ 
+ (316,669) 
+ 
+ 
+ 
+ (8.7) 
+ 
+ 
+ Equipment sales and other revenue 
+ 
+ 
+ 
+ 
+ 
+ 394,920 
+ 
+ 
+ 
+ 
+ 
+ 526,109 
+ 
+ 
+ 
+ 
+ 
+ (131,189) 
+ 
+ 
+ 
+ (24.9) 
+ 
+ 
+ Total revenue 
+ 
+ 
+ 
+ 
+ 
+ 3,732,160 
+ 
+ 
+ 
+ 
+ 
+ 4,180,018 
+ 
+ 
+ 
+ 
+ 
+ (447,858) 
+ 
+ 
+ 
+ (10.7) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Costs and expenses: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of services 
+ 
+ 
+ 
+ 
+ 
+ 2,012,333 
+ 
+ 
+ 
+ 
+ 
+ 2,135,073 
+ 
+ 
+ 
+ 
+ 
+ (122,740) 
+ 
+ 
+ 
+ (5.7) 
+ 
+ 
+ % of Service revenue 
+ 
+ 
+ 
+ 
+ 
+ 60.3 
+ 
+ % 
+ 
+ 
+ 
+ 58.4 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of sales - equipment and other 
+ 
+ 
+ 
+ 
+ 
+ 2,110,706 
+ 
+ 
+ 
+ 
+ 
+ 1,715,276 
+ 
+ 
+ 
+ 
+ 
+ 395,430 
+ 
+ 
+ 
+ 23.1 
+ 
+ 
+ Selling, general and administrative expenses 
+ 
+ 
+ 
+ 
+ 
+ 1,114,485 
+ 
+ 
+ 
+ 
+ 
+ 929,299 
+ 
+ 
+ 
+ 185,186 
+ 
+ 
+ 
+ 19.9 
+ 
+ 
+ % of Total revenue 
+ 
+ 
+ 
+ 
+ 
+ 29.9 
+ 
+ % 
+ 
+ 
+ 
+ 22.2 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Depreciation and amortization 
+ 
+ 
+ 
+ 
+ 
+ 800,629 
+ 
+ 
+ 
+ 
+ 
+ 288,602 
+ 
+ 
+ 
+ 
+ 
+ 512,027 
+ 
+ 
+ 
+ * 
+ 
+ 
+ Impairment of long-lived assets and goodwill 
+ 
+ 
+ 
+ 
+ 
+ 218,560 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 218,560 
+ 
+ 
+ 
+ * 
+ 
+ 
+ Total costs and expenses 
+ 
+ 
+ 
+ 
+ 
+ 6,256,713 
+ 
+ 
+ 
+ 
+ 
+ 5,068,250 
+ 
+ 
+ 
+ 
+ 
+ 1,188,463 
+ 
+ 
+ 
+ 23.4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating income (loss) 
+ 
+ 
+ 
+ $ 
+ 
+ (2,524,553) 
+ 
+ 
+ 
+ $ 
+ 
+ (888,232) 
+ 
+ 
+ 
+ $ 
+ 
+ (1,636,321) 
+ 
+ 
+ 
+ * 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other data: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Wireless subscribers, as of period end (in millions) ** 
+ 
+ 
+ 
+ 
+ 
+ 7.378 
+ 
+ 
+ 
+ 
+ 
+ 7.983 
+ 
+ 
+ 
+ 
+ 
+ (0.605) 
+ 
+ 
+ 
+ (7.6) 
+ 
+ 
+ Wireless subscriber additions, gross (in millions) 
+ 
+ 
+ 
+ 
+ 
+ 2.743 
+ 
+ 
+ 
+ 
+ 
+ 3.418 
+ 
+ 
+ 
+ 
+ 
+ (0.675) 
+ 
+ 
+ 
+ (19.7) 
+ 
+ 
+ Wireless subscriber additions (losses), net (in millions) *** 
+ 
+ 
+ 
+ 
+ 
+ (0.617) 
+ 
+ 
+ 
+ 
+ 
+ (0.576) 
+ 
+ 
+ 
+ 
+ 
+ (0.041) 
+ 
+ 
+ 
+ (7.1) 
+ 
+ 
+ Wireless ARPU 
+ 
+ 
+ 
+ $ 
+ 
+ 36.15 
+ 
+ 
+ 
+ $ 
+ 
+ 37.72 
+ 
+ 
+ 
+ $ 
+ 
+ (1.57) 
+ 
+ 
+ 
+ (4.2) 
+ 
+ 
+ Wireless churn rate 
+ 
+ 
+ 
+ 
+ 
+ 4.17 
+ 
+ % 
+ 
+ 
+ 
+ 4.46 
+ 
+ % 
+ 
+ 
+ 
+ (0.29) 
+ 
+ % 
+ 
+ (6.5) 
+ 
+ 
+ Purchases of property and equipment, net of refunds 
+ 
+ 
+ 
+ $ 
+ 
+ 2,586,151 
+ 
+ 
+ 
+ $ 
+ 
+ 2,596,209 
+ 
+ 
+ 
+ $ 
+ 
+ (10,058) 
+ 
+ 
+ 
+ (0.4) 
+ 
+ 
+ OIBDA 
+ 
+ 
+ 
+ $ 
+ 
+ (1,723,924) 
+ 
+ 
+ 
+ $ 
+ 
+ (599,630) 
+ 
+ 
+ 
+ $ 
+ 
+ (1,124,294) 
+ 
+ 
+ 
+ * 
+ 
+ 
+ 
+ 
+ * 
+ 
+ Percentage is not meaningful. 
+ 
+ 
+ ** 
+ 
+ During the second quarter of 2022, we removed approximately 126,000 subscribers from our ending Wireless subscriber count representing Wireless subscribers who did not migrate off the CDMA network prior to the shutdown. The effect of the removal of the 126,000 Wireless subscribers was excluded from the calculation of our net Wireless subscriber additions/losses and Wireless churn rate. In addition, during the third quarter of 2022, approximately 139,000 Boost affiliate subscribers were transferred to us and are included in our ending Wireless subscriber count and excluded from our gross new Wireless subscriber activations . 
+ 
+ 
+ *** 
+ 
+ Includes Government subsidized subscribers. 
+ 
+ Wireless subscribers . We lost approximately 617,000 net Wireless subscribers during the year ended December 31, 2023 compared to the loss of approximately 576,000 net Wireless subscribers during the same period in 2022. This increase in net Wireless subscriber losses primarily resulted from lower gross new Wireless subscriber activations, partially offset by an increase in net Government subsidized subscriber additions and a lower Wireless churn rate. 
+ 
+ Wireless subscribers, gross . During the year ended December 31, 2023, we activated approximately 2.743 million gross new Wireless subscribers compared to approximately 3.418 million gross new Wireless subscribers during the same period in 2022, a decrease of 19.7%. This decrease in our gross new Wireless subscriber activations was primarily related to increased competitive pressures, including aggressive competitor marketing, discounted service plans and deeper wireless device subsidies. In addition, our gross new Wireless subscribers for the year ended December 31, 2023 was negatively impacted by our emphasis on acquiring and retaining higher quality subscribers. 
+ 
+ 
+ 
+ 77 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ Wireless churn rate . Our Wireless churn rate for the year ended December 31, 2023 was 4.17% compared to 4.46% for the same period in 2022. Our Wireless churn rate for the year ended December 31, 2023 was positively impacted by our emphasis on acquiring and retaining higher quality subscribers, partially offset by competitive pressures, including deeper wireless device subsidies. In addition, our Wireless churn rate for the year ended December 31, 2023 was negatively impacted by migrating subscribers off the TSA with T-Mobile and onto our new billing and operational support systems. Furthermore, our Wireless churn rate for the year ended December 31, 2022 was negatively impacted by the shutdown of the CDMA Network. 
+ 
+ Service revenue. “Service revenue” totaled $3.337 billion for the year ended December 31, 2023, a decrease of $317 million or 8.7% compared to the same period in 2022. The decrease in “Service revenue” compared to the same period in 2022 was primarily related to a lower average Wireless subscriber base and a decrease in Wireless ARPU, discussed below. 
+ 
+ Wireless ARPU. Wireless ARPU was $36.15 during the year ended December 31, 2023 versus $37.72 during the same period in 2022. The $1.57 or 4.2% decrease in Wireless ARPU was primarily attributable to , among other things, a shift in subscriber plan mix to lower priced service plans. 
+ 
+ Equipment sales and other revenue. “Equipment sales and other revenue” totaled $395 million for the year ended December 31, 2023, a decrease of $131 million or 24.9% compared to the same period in 2022. The decrease in “Equipment sales and other revenue” compared to the same period in 2022 was primarily related to a decrease in wireless device units shipped and higher promotional subsidies, partially offset by higher revenue per unit shipped due to unit mix. During the year ended December 31, 2023, we shipped a higher percentage of devices that are compatible with our 5G Network and other devices that have a higher revenue per unit. 
+ 
+ Cost of services. “Cost of services” totaled $2.012 billion for the year ended December 31, 2023, a decrease of $123 million or 5.7% compared to the same period in 2022. The decrease in “Cost of services” was primarily attributable to a lower average Wireless subscriber base, partially offset by higher monthly dealer incentive costs. During the year ended December 31, 2023, we realigned our commission structure with current business objectives to acquire higher quality, long-term subscribers, which resulted in elevated costs during the transition period. 
+ 
+ Cost of sales – equipment and other. “Cost of sales – equipment and other” totaled $2.111 billion for the year ended December 31, 2023, an increase of $395 million or 23.1% compared to the same period in 2022. The change in “Cost of sales – equipment and other” compared to the same period in 2022 was related to an increase in lease expense on communication towers, transport, cloud services, and other related costs. In addition, this increase resulted from wireless devices with higher costs per unit shipped due to unit mix, partially offset by a decrease in units shipped. During the year ended December 31, 2023, we shipped a higher percentage of devices that are compatible with our 5G Network and other devices that have a higher cost per unit. 
+ 
+ Selling, general and administrative expenses. “Selling, general and administrative expenses” totaled $1.114 billion during the year ended December 31, 2023, a $185 million or 19.9% increase compared to the same period in 2022. This change was primarily driven by higher marketing expenditures mainly related to the third quarter of 2023 nationwide expansion of our Boost postpaid wireless service and offering of the iPhone 15 on our 5G Network and increases in costs to support the Wireless segment. The year ended December 31, 2022 was negatively impacted by costs related to the development of our own billing and operational support systems as we prepared to migrate subscribers off the TSA with T-Mobile. 
+ 
+ Depreciation and amortization. “Depreciation and amortization” expense totaled $801 million during the year ended December 31, 2023, a $512 million increase compared to the same period in 2022. This change was primarily driven by an increase in depreciation and amortization expense related to 5G Network Deployment assets being placed in service. We expect our depreciation and amortization expense to increase as we continue to place 5G Network Deployment assets into service. 
+ 
+ 
+ 
+ 
+ 78 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ Impairment of long-lived assets and goodwill. “ Impairment of long-lived assets and goodwill” totaled $219 million for the year ended December 31, 2023. This impairment represents a noncash impairment charge for goodwill. See Note 2 in the Notes to our Consolidated Financial Statements in this Annual Report on Form 10-K for further information. 
+ 
+ 
+ 
+ 
+ 79 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ Broadband and Satellite Services Segment 
+ 
+ We are an industry leader in both networking technologies and services, innovating to deliver the global solutions that power a connected future for people, enterprises and things everywhere. We provide broadband services to consumer customers, which include home and small to medium-sized businesses, and satellite, multi-transport technologies and managed network services to enterprise customers, telecommunications providers, airlines and government entities, including civilian and defense. 
+ 
+ Our EchoStar XXIV satellite began service in December 2023, bringing additional broadband capacity across North and South America and is an integral part of our satellite services business. We have leveraged the EchoStar XXIV to deliver satellite services to unserved and underserved consumer markets in the Americas as well as enterprise, aeronautical and government markets. 
+ 
+ We also design, provide and install gateway and terminal equipment to customers for other satellite systems. In addition, we design, develop, construct and provide telecommunication networks comprising satellite ground segment systems and terminals to mobile system operators and our enterprise customers. We offer a robust suite of integrated, multi-transport solutions to enable airline and airline service providers to deliver reliable in-flight network connectivity serving both commercial and business aviation. 
+ 
+ Backlog 
+ 
+ As of December 31, 2024, our Broadband and Satellite Services segment had approximately $1.6 billion of contracted revenue backlog. We define the Broadband and Satellite Services segment contracted revenue backlog as our expected future revenue under enterprise customer contracts that are non-cancelable, including lease revenue. 
+ 
+ Competition 
+ 
+ Our industry is highly competitive. As a global provider of network technologies, products and services, our Broadband and Satellite Services segment competes with a large number of telecommunications and satellite internet service providers. 
+ 
+ In our enterprise markets, we compete against multiple categories of providers. In the managed services area, we compete against providers of satellite-based and terrestrial-based networks, including fiber optic, cable, wireless internet service and internet protocol-based virtual private networks (VPN), which vary by region. In the in-flight connectivity market, we compete against direct and indirect providers of in-flight WiFi services, such as ViaSat and SpaceX. 
+ 
+ In our consumer broadband satellite technologies and internet services markets, we compete against traditional telecommunications and wireless carriers, other satellite internet providers, as well as fiber optic, cable and wireless internet service providers. Our primary satellite competitors in the North American consumer market are ViaSat Communications, Inc., which is owned by ViaSat, Inc. (“ViaSat”) and Starlink Services LLC, which is owned by Space Exploration Technologies Corp. (“SpaceX”). Both ViaSat and SpaceX have also entered the South and Central American consumer markets. Our principal competitors for the supply of satellite technology platforms are Gilat Satellite Networks Ltd, ViaSat and ST Engineering iDirect, Inc. 
+ 
+ 
+ 
+ 
+ 
+ 80 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ RESULTS OF OPERATIONS – Broadband and Satellite Services Segment 
+ Year Ended December 31, 2024 Compared to the Year Ended December 31, 2023. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Years Ended December 31, 
+ 
+ 
+ 
+ Variance 
+ 
+ 
+ Statements of Operations Data 
+ 
+ 
+ 
+ 2024 
+ 
+ 
+ 
+ 2023 
+ 
+ 
+ 
+ Amount 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (In thousands) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Revenue: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Service revenue 
+ 
+ 
+ 
+ $ 
+ 
+ 1,204,938 
+ 
+ 
+ 
+ $ 
+ 
+ 1,443,616 
+ 
+ 
+ 
+ $ 
+ 
+ (238,678) 
+ 
+ 
+ 
+ (16.5) 
+ 
+ 
+ Equipment sales and other revenue 
+ 
+ 
+ 
+ 
+ 
+ 370,850 
+ 
+ 
+ 
+ 
+ 
+ 311,943 
+ 
+ 
+ 
+ 
+ 
+ 58,907 
+ 
+ 
+ 
+ 18.9 
+ 
+ 
+ Total revenue 
+ 
+ 
+ 
+ 
+ 
+ 1,575,788 
+ 
+ 
+ 
+ 
+ 
+ 1,755,559 
+ 
+ 
+ 
+ 
+ 
+ (179,771) 
+ 
+ 
+ 
+ (10.2) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Costs and expenses: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of services 
+ 
+ 
+ 
+ 
+ 
+ 502,740 
+ 
+ 
+ 
+ 
+ 
+ 530,875 
+ 
+ 
+ 
+ 
+ 
+ (28,135) 
+ 
+ 
+ 
+ (5.3) 
+ 
+ 
+ % of Service revenue 
+ 
+ 
+ 
+ 
+ 
+ 41.7 
+ 
+ % 
+ 
+ 
+ 
+ 36.8 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of sales - equipment and other 
+ 
+ 
+ 
+ 
+ 
+ 308,412 
+ 
+ 
+ 
+ 
+ 
+ 241,570 
+ 
+ 
+ 
+ 
+ 
+ 66,842 
+ 
+ 
+ 
+ 27.7 
+ 
+ 
+ Selling, general and administrative expenses 
+ 
+ 
+ 
+ 
+ 
+ 422,741 
+ 
+ 
+ 
+ 
+ 
+ 486,379 
+ 
+ 
+ 
+ 
+ 
+ (63,638) 
+ 
+ 
+ 
+ (13.1) 
+ 
+ 
+ % of Total revenue 
+ 
+ 
+ 
+ 
+ 
+ 26.8 
+ 
+ % 
+ 
+ 
+ 
+ 27.7 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Depreciation and amortization 
+ 
+ 
+ 
+ 
+ 
+ 459,796 
+ 
+ 
+ 
+ 
+ 
+ 419,262 
+ 
+ 
+ 
+ 
+ 
+ 40,534 
+ 
+ 
+ 
+ 9.7 
+ 
+ 
+ Impairment of long-lived assets and goodwill 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 536,082 
+ 
+ 
+ 
+ 
+ 
+ (536,082) 
+ 
+ 
+ 
+ * 
+ 
+ 
+ Total costs and expenses 
+ 
+ 
+ 
+ 
+ 
+ 1,693,689 
+ 
+ 
+ 
+ 
+ 
+ 2,214,168 
+ 
+ 
+ 
+ 
+ 
+ (520,479) 
+ 
+ 
+ 
+ (23.5) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating income (loss) 
+ 
+ 
+ 
+ $ 
+ 
+ (117,901) 
+ 
+ 
+ 
+ $ 
+ 
+ (458,609) 
+ 
+ 
+ 
+ $ 
+ 
+ 340,708 
+ 
+ 
+ 
+ 74.3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other data: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Broadband subscribers, as of period end (in millions) 
+ 
+ 
+ 
+ 
+ 
+ 0.883 
+ 
+ 
+ 
+ 
+ 
+ 1.004 
+ 
+ 
+ 
+ 
+ 
+ (0.121) 
+ 
+ 
+ 
+ (12.1) 
+ 
+ 
+ Broadband subscriber additions (losses), net (in millions) 
+ 
+ 
+ 
+ 
+ 
+ (0.121) 
+ 
+ 
+ 
+ 
+ 
+ (0.224) 
+ 
+ 
+ 
+ 
+ 
+ 0.103 
+ 
+ 
+ 
+ 46.0 
+ 
+ 
+ Purchases of property and equipment, net of refunds ** 
+ 
+ 
+ 
+ $ 
+ 
+ 212,581 
+ 
+ 
+ 
+ $ 
+ 
+ 233,423 
+ 
+ 
+ 
+ $ 
+ 
+ (20,842) 
+ 
+ 
+ 
+ (8.9) 
+ 
+ 
+ OIBDA 
+ 
+ 
+ 
+ $ 
+ 
+ 341,895 
+ 
+ 
+ 
+ $ 
+ 
+ (39,347) 
+ 
+ 
+ 
+ $ 
+ 
+ 381,242 
+ 
+ 
+ 
+ * 
+ 
+ 
+ 
+ 
+ * 
+ 
+ Percentage is not meaningful. 
+ 
+ 
+ ** 
+ 
+ Purchases of property and equipment, net of refunds includes satellite purchases during the years ended December 31, 2024 and 2023 of $4 million and $118 million, respectively. 
+ 
+ Broadband subscribers. We lost approximately 121,000 net Broadband subscribers for the year ended December 31, 2024 compared to the loss of approximately 224,000 net Broadband subscribers during the same period in 2023. The decrease in net Broadband subscriber losses was primarily due to lower subscriber disconnects as a result of the new EchoStar XXIV satellite service launch, which increased capacity and subscriber service satisfaction. We continue to operate in a highly competitive environment, with continued pressure from satellite-based competitors and other technologies. 
+ 
+ Service revenue. “Service revenue” totaled $1.205 billion for the year ended December 31, 2024, a decrease of $239 million, or 16.5%, as compared to 2023. The decrease was primarily attributable to lower sales of broadband services to our North American and international consumer customers and our North American enterprise customers. In addition, the year ended December 31, 2023 was positively impacted by revenue from Hughes Systique which was deconsolidated from our Consolidated Financial Statements as of December 31, 2023. 
+ 
+ Equipment sales and other revenue. “Equipment sales and other revenue” totaled $371 million for the year ended December 31, 2024, an increase of $59 million, or 18.9%, as compared to 2023. The increase was primarily attributable to higher hardware sales to our North American and international enterprise customers, partially offset by a decrease in hardware sales to our mobile satellite system customers. 
+ 
+ 
+ 
+ 81 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ Cost of services. “Cost of services” totaled $503 million for the year ended December 31, 2024, a decrease of $28 million, or 5.3%, as compared to 2023. The decrease was primarily attributable to lower costs of broadband services to our North American and international consumer customers. Our “Cost of services” represented 41.7% and 36.8% of “Service revenue” during the years ended December 31, 2024 and 2023, respectively. This increase primarily resulted from a change in service mix to lower margin services. 
+ 
+ Cost of sales – equipment and other. “Cost of sales – equipment and other” totaled $308 million for the year ended December 31, 2024, an increase of $67 million, or 27.7%, as compared to 2023. The increase was primarily attributable to the corresponding increase in equipment revenue. 
+ 
+ Selling, general and administrative expenses . “Selling, general and administrative expenses” totaled $423 million for the year ended December 31, 2024, a decrease of $64 million, or 13.1%, as compared to 2023. The decrease was primarily attributable to lower costs to support the Broadband and Satellite Services segment and lower marketing expenditures, partially offset by an increase in bad debt expense. 
+ 
+ Depreciation and amortization. “ Depreciation and amortization” expense totaled $460 million for the year ended December 31, 2024, an increase of $41 million, or 9.7%, as compared to 2023. The increase was primarily attributable to an increase in satellite depreciation driven by our EchoStar XXIV satellite, which was placed into service in December 2023. 
+ 
+ Impairment of long-lived assets and goodwill. “ Impairment of long-lived assets and goodwill” totaled $536 million for the year ended December 31, 2023. This impairment represents a $533 million noncash impairment charge to goodwill and a $3 million noncash impairment for long-lived assets. See Note 2 to the Notes to our Consolidated Financial Statements in this Annual Report on Form 10-K for further information. 
+ 
+ 
+ 
+ 
+ 82 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ Year Ended December 31, 2023 Compared to the Year Ended December 31, 2022. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Years Ended December 31, 
+ 
+ 
+ 
+ Variance 
+ 
+ 
+ Statements of Operations Data 
+ 
+ 
+ 
+ 2023 
+ 
+ 
+ 
+ 2022 
+ 
+ 
+ 
+ Amount 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (In thousands) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Revenue: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Service revenue 
+ 
+ 
+ 
+ $ 
+ 
+ 1,443,616 
+ 
+ 
+ 
+ $ 
+ 
+ 1,611,069 
+ 
+ 
+ 
+ $ 
+ 
+ (167,453) 
+ 
+ 
+ 
+ (10.4) 
+ 
+ 
+ Equipment sales and other revenue 
+ 
+ 
+ 
+ 
+ 
+ 311,943 
+ 
+ 
+ 
+ 
+ 
+ 387,024 
+ 
+ 
+ 
+ 
+ 
+ (75,081) 
+ 
+ 
+ 
+ (19.4) 
+ 
+ 
+ Total revenue 
+ 
+ 
+ 
+ 
+ 
+ 1,755,559 
+ 
+ 
+ 
+ 
+ 
+ 1,998,093 
+ 
+ 
+ 
+ 
+ 
+ (242,534) 
+ 
+ 
+ 
+ (12.1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Costs and expenses: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of services 
+ 
+ 
+ 
+ 
+ 
+ 530,875 
+ 
+ 
+ 
+ 
+ 
+ 567,311 
+ 
+ 
+ 
+ 
+ 
+ (36,436) 
+ 
+ 
+ 
+ (6.4) 
+ 
+ 
+ % of Service revenue 
+ 
+ 
+ 
+ 
+ 
+ 36.8 
+ 
+ % 
+ 
+ 
+ 
+ 35.2 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of sales - equipment and other 
+ 
+ 
+ 
+ 
+ 
+ 241,570 
+ 
+ 
+ 
+ 
+ 
+ 294,683 
+ 
+ 
+ 
+ 
+ 
+ (53,113) 
+ 
+ 
+ 
+ (18.0) 
+ 
+ 
+ Selling, general and administrative expenses 
+ 
+ 
+ 
+ 
+ 
+ 486,379 
+ 
+ 
+ 
+ 
+ 
+ 491,025 
+ 
+ 
+ 
+ (4,646) 
+ 
+ 
+ 
+ (0.9) 
+ 
+ 
+ % of Total revenue 
+ 
+ 
+ 
+ 
+ 
+ 27.7 
+ 
+ % 
+ 
+ 
+ 
+ 24.6 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Depreciation and amortization 
+ 
+ 
+ 
+ 
+ 
+ 419,262 
+ 
+ 
+ 
+ 
+ 
+ 462,748 
+ 
+ 
+ 
+ 
+ 
+ (43,486) 
+ 
+ 
+ 
+ (9.4) 
+ 
+ 
+ Impairment of long-lived assets and goodwill 
+ 
+ 
+ 
+ 
+ 
+ 536,082 
+ 
+ 
+ 
+ 
+ 
+ 711 
+ 
+ 
+ 
+ 
+ 
+ 535,371 
+ 
+ 
+ 
+ * 
+ 
+ 
+ Total costs and expenses 
+ 
+ 
+ 
+ 
+ 
+ 2,214,168 
+ 
+ 
+ 
+ 
+ 
+ 1,816,478 
+ 
+ 
+ 
+ 
+ 
+ 397,690 
+ 
+ 
+ 
+ 21.9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating income (loss) 
+ 
+ 
+ 
+ $ 
+ 
+ (458,609) 
+ 
+ 
+ 
+ $ 
+ 
+ 181,615 
+ 
+ 
+ 
+ $ 
+ 
+ (640,224) 
+ 
+ 
+ 
+ * 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other data: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Broadband subscribers, as of period end (in millions) 
+ 
+ 
+ 
+ 
+ 
+ 1.004 
+ 
+ 
+ 
+ 
+ 
+ 1.228 
+ 
+ 
+ 
+ 
+ 
+ (0.224) 
+ 
+ 
+ 
+ (18.2) 
+ 
+ 
+ Broadband subscriber additions (losses), net (in millions) 
+ 
+ 
+ 
+ 
+ 
+ (0.224) 
+ 
+ 
+ 
+ 
+ 
+ (0.234) 
+ 
+ 
+ 
+ 
+ 
+ 0.010 
+ 
+ 
+ 
+ 4.3 
+ 
+ 
+ Purchases of property and equipment, net of refunds ** 
+ 
+ 
+ 
+ $ 
+ 
+ 233,423 
+ 
+ 
+ 
+ $ 
+ 
+ 325,891 
+ 
+ 
+ 
+ $ 
+ 
+ (92,468) 
+ 
+ 
+ 
+ (28.4) 
+ 
+ 
+ OIBDA 
+ 
+ 
+ 
+ $ 
+ 
+ (39,347) 
+ 
+ 
+ 
+ $ 
+ 
+ 644,363 
+ 
+ 
+ 
+ $ 
+ 
+ (683,710) 
+ 
+ 
+ 
+ * 
+ 
+ 
+ 
+ 
+ * 
+ 
+ Percentage is not meaningful. 
+ 
+ 
+ ** 
+ 
+ Purchases of property and equipment, net of refunds includes satellite purchases during the years ended December 31, 2023 and 2022 of $118 million and $92 million, respectively. 
+ 
+ Broadband subscribers. We lost approximately 224,000 net Broadband subscribers for the year ended December 31, 2023 compared to the loss of approximately 234,000 net Broadband subscribers during the same period in 2022. The net Broadband subscriber losses for the year ended December 31, 2023 primarily resulted from our past capacity limitations, competitive pressure from satellite-based competitors and other technologies , and our emphasis on acquiring and retaining higher quality subscribers. 
+ 
+ Service revenue. “Service revenue” totaled $1.444 billion for the year ended December 31, 2023, a decrease of $167 million, or 10.4%, as compared to 2022. The decrease was primarily attributable to lower sales of broadband services and lower sales to our North American Enterprise customers, partially offset by a net increase in broadband services sales to our international enterprise customers. 
+ 
+ Equipment sales and other revenue. “Equipment sales and other revenue” totaled $312 million for the year ended December 31, 2023, a decrease of $75 million, or 19.4%, as compared to 2022. The change was primarily attributable to a decrease related to our North American enterprise customers due to lower hardware sales and positive adjustments on certain long-term contracts, and a decrease in hardware sales to our international enterprise customers, partially offset by an increase in sales to our mobile satellite system customers. 
+ 
+ Cost of services. “Cost of services” totaled $531 million for the year ended December 31, 2023, a decrease of $36 million, or 6.4%, as compared to 2022. The decrease was primarily attributable to the corresponding decrease in services and revenue. 
+ 
+ 
+ 
+ 83 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ Cost of sales – equipment and other. “Cost of sales – equipment and other” totaled $242 million for the year ended December 31, 2023, a decrease of $53 million, or 18.0%, as compared to 2022. The decrease was primarily attributable to the corresponding decrease in equipment revenue. 
+ 
+ Selling, general and administrative expenses . “Selling, general and administrative expenses” totaled $486 million for the year ended December 31, 2023, a decrease of $5 million, or 0.9%, as compared to 2022. The decrease was primarily attributable to decreases in sales and marketing expenses, partially offset by Merger related costs. 
+ 
+ Depreciation and amortization. “ Depreciation and amortization” expense totaled $419 million for the year ended December 31, 2023, a decrease of $43 million, or 9.4%, as compared to 2022. The decrease was primarily attributable to decreases in other non-satellite depreciation expense, partially offset by increase in satellite depreciation driven by our Al Yah 3 and EchoStar XXIV satellites. 
+ 
+ Impairment of long-lived assets and goodwill. “ Impairment of long-lived assets and goodwill” totaled $536 million for the year ended December 31, 2023. This impairment represents a $533 million noncash impairment charge to goodwill and a $3 million noncash impairment for long-lived assets. See Note 2 to the Notes to our Consolidated Financial Statements in this Annual Report on Form 10-K for further information. 
+ 
+ 
+ 
+ 84 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ OTHER CONSOLIDATED RESULTS 
+ 
+ Year Ended December 31, 2024 Compared to the Year Ended December 31, 2023. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Years Ended December 31, 
+ 
+ 
+ 
+ Variance 
+ 
+ 
+ Statements of Operations Data 
+ 
+ 
+ 
+ 2024 
+ 
+ 
+ 
+ 2023 
+ 
+ 
+ 
+ Amount 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (In thousands) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating income (loss) 
+ 
+ 
+ 
+ $ 
+ 
+ (304,070) 
+ 
+ 
+ 
+ $ 
+ 
+ (277,909) 
+ 
+ 
+ 
+ $ 
+ 
+ (26,161) 
+ 
+ 
+ 
+ (9.4) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other income (expense): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Interest income 
+ 
+ 
+ 
+ 
+ 
+ 116,625 
+ 
+ 
+ 
+ 
+ 
+ 207,374 
+ 
+ 
+ 
+ 
+ 
+ (90,749) 
+ 
+ 
+ 
+ (43.8) 
+ 
+ 
+ Interest expense, net of amounts capitalized 
+ 
+ 
+ 
+ 
+ 
+ (481,622) 
+ 
+ 
+ 
+ 
+ 
+ (90,357) 
+ 
+ 
+ 
+ 
+ 
+ (391,265) 
+ 
+ 
+ 
+ * 
+ 
+ 
+ Other, net 
+ 
+ 
+ 
+ 
+ 
+ 593,497 
+ 
+ 
+ 
+ 
+ 
+ (1,770,792) 
+ 
+ 
+ 
+ 
+ 
+ 2,364,289 
+ 
+ 
+ 
+ * 
+ 
+ 
+ Total other income (expense) 
+ 
+ 
+ 
+ 
+ 
+ 228,500 
+ 
+ 
+ 
+ 
+ 
+ (1,653,775) 
+ 
+ 
+ 
+ 
+ 
+ 1,882,275 
+ 
+ 
+ 
+ * 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Income (loss) before income taxes 
+ 
+ 
+ 
+ 
+ 
+ (75,570) 
+ 
+ 
+ 
+ 
+ 
+ (1,931,684) 
+ 
+ 
+ 
+ 
+ 
+ 1,856,114 
+ 
+ 
+ 
+ 96.1 
+ 
+ 
+ Income tax (provision) benefit, net 
+ 
+ 
+ 
+ 
+ 
+ (48,945) 
+ 
+ 
+ 
+ 
+ 
+ 296,860 
+ 
+ 
+ 
+ 
+ 
+ (345,805) 
+ 
+ 
+ 
+ * 
+ 
+ 
+ Effective tax rate 
+ 
+ 
+ 
+ 
+ 
+ (64.8) 
+ 
+ % 
+ 
+ 
+ 
+ 15.4 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net income (loss) 
+ 
+ 
+ 
+ 
+ 
+ (124,515) 
+ 
+ 
+ 
+ 
+ 
+ (1,634,824) 
+ 
+ 
+ 
+ 
+ 
+ 1,510,309 
+ 
+ 
+ 
+ 92.4 
+ 
+ 
+ Less: Net income (loss) attributable to noncontrolling interests, net of tax 
+ 
+ 
+ 
+ 
+ 
+ (4,969) 
+ 
+ 
+ 
+ 
+ 
+ 67,233 
+ 
+ 
+ 
+ 
+ 
+ (72,202) 
+ 
+ 
+ 
+ * 
+ 
+ 
+ Net income (loss) attributable to EchoStar 
+ 
+ 
+ 
+ $ 
+ 
+ (119,546) 
+ 
+ 
+ 
+ $ 
+ 
+ (1,702,057) 
+ 
+ 
+ 
+ $ 
+ 
+ 1,582,511 
+ 
+ 
+ 
+ 93.0 
+ 
+ 
+ 
+ 
+ * 
+ 
+ Percentage is not meaningful. 
+ 
+ Interest income. “Interest income” totaled $117 million during the year ended December 31, 2024, a decrease of $91 million compared to the same period in 2023. This decrease primarily resulted from lower average cash and marketable investment securities balances during the year ended December 31, 2024. 
+ 
+ Interest expense, net of amounts capitalized. “ Interest expense, net of amounts capitalized ” totaled $482 million during the year ended December 31, 2024, an increase of $391 million compared to the same period in 2023. During the year ended December 31, 2024, as the qualifying assets, including markets within certain bands of wireless spectrum licenses, have been placed into service with the deployment of our 5G Network, we no longer capitalize interest on those assets and as a result, capitalized interest was reduced by $230 million, and interest expense increased. See Note 2 to the Notes to our Consolidated Financial Statements in this Annual Report on Form 10-K for further information. In addition, this increase resulted from the DISH DBS Financing and issuance of new senior secured and convertible notes, partially offset by the redemption of debt that matured in March and November 2024 and the extinguishment of our Existing DISH Convertible Notes in connection with the EchoStar Exchange Offers, as defined and detailed in Note 10 to the Notes to our Consolidated Financial Statements in this Annual Report on Form 10-K . 
+ 
+ Other, net. “Other, net” income totaled $593 million during the year ended December 31, 2024, compared to expense of $1.771 billion during the same period in 2023. The year ended December 31, 2024 was positively impacted by a gain on debt extinguishment of $689 million and a $50 million gain on the Liberty Puerto Rico Asset Sale. The year ended December 31, 2024 was also negatively impacted by a $73 million loss in equity in earnings, including $63 million from our portion of Invidi’s goodwill impairment, and $73 million in net losses and impairments on marketable and non-marketable investment securities. See Note 6, Note 10 and Note 15 to the Notes to our Consolidated Financial Statements in this Annual Report on Form 10-K for further information. The year ended December 31, 2023 was negatively impacted by a $1.793 billion decrease in the fair value of our option to purchase certain of T-Mobile’s 800 MHz spectrum licenses and $26 million in net losses and impairments on marketable and non-marketable investment securities, partially offset by $ 73 million of early debt extinguishment gains from the repurchases of our convertible notes. 
+ 
+ 
+ 
+ 85 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ Income tax (provision) benefit, net. Our income tax provision was $49 million during the year ended December 31, 2024, compared to a benefit of $297 million for the same period in 2023. The change was primarily related to a decrease in “Income (loss) before income taxes” and the change in our effective tax rate. Our effective tax rate during the year ended December 31, 2024 was impacted by federal, state and foreign valuation allowances. 
+ 
+ 
+ 86 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ Year Ended December 31, 2023 Compared to the Year Ended December 31, 2022. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Years Ended December 31, 
+ 
+ 
+ 
+ Variance 
+ 
+ 
+ Statements of Operations Data 
+ 
+ 
+ 
+ 2023 
+ 
+ 
+ 
+ 2022 
+ 
+ 
+ 
+ Amount 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (In thousands) 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating income (loss) 
+ 
+ 
+ 
+ $ 
+ 
+ (277,909) 
+ 
+ 
+ 
+ $ 
+ 
+ 2,232,838 
+ 
+ 
+ 
+ $ 
+ 
+ (2,510,747) 
+ 
+ 
+ 
+ * 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other income (expense): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Interest income 
+ 
+ 
+ 
+ 
+ 
+ 207,374 
+ 
+ 
+ 
+ 
+ 
+ 93,240 
+ 
+ 
+ 
+ 
+ 
+ 114,134 
+ 
+ 
+ 
+ * 
+ 
+ 
+ Interest expense, net of amounts capitalized 
+ 
+ 
+ 
+ 
+ 
+ (90,357) 
+ 
+ 
+ 
+ 
+ 
+ (79,217) 
+ 
+ 
+ 
+ 
+ 
+ (11,140) 
+ 
+ 
+ 
+ (14.1) 
+ 
+ 
+ Other, net 
+ 
+ 
+ 
+ 
+ 
+ (1,770,792) 
+ 
+ 
+ 
+ 
+ 
+ 1,088,441 
+ 
+ 
+ 
+ 
+ 
+ (2,859,233) 
+ 
+ 
+ 
+ * 
+ 
+ 
+ Total other income (expense) 
+ 
+ 
+ 
+ 
+ 
+ (1,653,775) 
+ 
+ 
+ 
+ 
+ 
+ 1,102,464 
+ 
+ 
+ 
+ 
+ 
+ (2,756,239) 
+ 
+ 
+ 
+ * 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Income (loss) before income taxes 
+ 
+ 
+ 
+ 
+ 
+ (1,931,684) 
+ 
+ 
+ 
+ 
+ 
+ 3,335,302 
+ 
+ 
+ 
+ 
+ 
+ (5,266,986) 
+ 
+ 
+ 
+ * 
+ 
+ 
+ Income tax (provision) benefit, net 
+ 
+ 
+ 
+ 
+ 
+ 296,860 
+ 
+ 
+ 
+ 
+ 
+ (798,410) 
+ 
+ 
+ 
+ 
+ 
+ 1,095,270 
+ 
+ 
+ 
+ * 
+ 
+ 
+ Effective tax rate 
+ 
+ 
+ 
+ 
+ 
+ 15.4 
+ 
+ % 
+ 
+ 
+ 
+ 23.9 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net income (loss) 
+ 
+ 
+ 
+ 
+ 
+ (1,634,824) 
+ 
+ 
+ 
+ 
+ 
+ 2,536,892 
+ 
+ 
+ 
+ 
+ 
+ (4,171,716) 
+ 
+ 
+ 
+ * 
+ 
+ 
+ Less: Net income (loss) attributable to noncontrolling interests, net of tax 
+ 
+ 
+ 
+ 
+ 
+ 67,233 
+ 
+ 
+ 
+ 
+ 
+ 59,172 
+ 
+ 
+ 
+ 
+ 
+ 8,061 
+ 
+ 
+ 
+ 13.6 
+ 
+ 
+ Net income (loss) attributable to EchoStar 
+ 
+ 
+ 
+ $ 
+ 
+ (1,702,057) 
+ 
+ 
+ 
+ $ 
+ 
+ 2,477,720 
+ 
+ 
+ 
+ $ 
+ 
+ (4,179,777) 
+ 
+ 
+ 
+ * 
+ 
+ 
+ 
+ 
+ * 
+ 
+ Percentage is not meaningful. 
+ 
+ Interest income. “Interest income” totaled $207 million during the year ended December 31, 2023, an increase of $114 million compared to the same period in 2022. This increase primarily resulted from higher percentage returns earned on our cash and marketable investment securities, partially offset by lower average cash and marketable investment securities balances during the year ended December 31, 2023. 
+ 
+ Other, net. “Other, net” expense totaled $1.771 billion during the year ended December 31, 2023, compared to income of $1.088 billion during the same period in 2022. This change primarily resulted from a loss of approximately $1.793 billion as the probability weighted fair value of our option to purchase certain of T-Mobile’s 800 MHz spectrum licenses was reduced to zero compared to a $1.015 billion increase during the year ended December 31, 2022. In addition, the year ended December 31, 2023 was negatively impacted by a $103 million net decrease in gains on marketable and non-marketable investment securities and impairments of “Other investment securities, net.” Furthermore, the year ended December 31, 2023 was positively impacted by $ 73 million of early debt extinguishment gains from the repurchases of our convertible notes. See Note 6 and 10 to the Notes to our Consolidated Financial Statements in this Annual Report on Form 10-K for further information. 
+ 
+ Income tax (provision) benefit, net. Our income tax benefit was $297 million during the year ended December 31, 2023 compared to a provision of $798 million during the same period in 2022. The change was primarily related to a decrease in “Income (loss) before income taxes” and the change in our effective tax rate. Our effective tax rate during the year ended December 31, 2023 was impacted by noncash impairment charges to goodwill, and federal, state and foreign valuation allowances. 
+ 
+ 
+ 
+ 
+ 87 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ Non-GAAP Performance Measures and Reconciliation 
+ 
+ It is management’s intent to provide non-GAAP financial information to enhance the understanding of our GAAP financial information, and it should be considered by the reader in addition to, but not instead of, the financial statements prepared in accordance with GAAP. Each non-GAAP financial measure is presented along with the corresponding GAAP measure so as not to imply that more emphasis should be placed on the non-GAAP measure. We believe that providing these non-GAAP measures in addition to the GAAP measures allows management, investors and other users of our financial information to more fully and accurately assess both consolidated and segment performance. The non-GAAP financial information presented may be determined or calculated differently by other companies and may not be directly comparable to that of other companies. 
+ 
+ Segment OIBDA 
+ 
+ Segment OIBDA, which is presented below, is a non-GAAP measure and does not purport to be an alternative to operating income (loss) as a measure of operating performance. We believe this measure is useful to management, investors and other users of our financial information in evaluating operating profitability of our business segments on a more variable cost basis as it excludes the depreciation and amortization expenses related primarily to capital expenditures and acquisitions for those business segments, as well as in evaluating operating performance in relation to our competitors. Segment OIBDA is calculated by adding back depreciation and amortization expense to business segments’ operating income (loss). See Note 16 to the Notes to our Consolidated Financial Statements in this Annual Report on Form 10-K for further information. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Year Ended December 31, 2024 
+ 
+ 
+ 
+ Pay-TV 
+ 
+ 
+ 
+ Wireless 
+ 
+ 
+ 
+ Broadband and Satellite Services 
+ 
+ 
+ 
+ Eliminations 
+ 
+ 
+ 
+ Consolidated 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (In thousands) 
+ 
+ 
+ Segment operating income (loss) 
+ 
+ 
+ 
+ $ 
+ 
+ 2,647,954 
+ 
+ 
+ 
+ $ 
+ 
+ (2,831,906) 
+ 
+ 
+ 
+ $ 
+ 
+ (117,901) 
+ 
+ 
+ 
+ $ 
+ 
+ (2,217) 
+ 
+ 
+ 
+ $ 
+ 
+ (304,070) 
+ 
+ 
+ Depreciation and amortization 
+ 
+ 
+ 
+ 
+ 
+ 337,331 
+ 
+ 
+ 
+ 
+ 
+ 1,134,883 
+ 
+ 
+ 
+ 
+ 
+ 459,796 
+ 
+ 
+ 
+ 
+ 
+ (1,817) 
+ 
+ 
+ 
+ 
+ 
+ 1,930,193 
+ 
+ 
+ OIBDA 
+ 
+ 
+ 
+ $ 
+ 
+ 2,985,285 
+ 
+ 
+ 
+ $ 
+ 
+ (1,697,023) 
+ 
+ 
+ 
+ $ 
+ 
+ 341,895 
+ 
+ 
+ 
+ $ 
+ 
+ (4,034) 
+ 
+ 
+ 
+ $ 
+ 
+ 1,626,123 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Year Ended December 31, 2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Segment operating income (loss) 
+ 
+ 
+ 
+ $ 
+ 
+ 2,699,810 
+ 
+ 
+ 
+ $ 
+ 
+ (2,524,553) 
+ 
+ 
+ 
+ $ 
+ 
+ (458,609) 
+ 
+ 
+ 
+ $ 
+ 
+ 5,443 
+ 
+ 
+ 
+ $ 
+ 
+ (277,909) 
+ 
+ 
+ Depreciation and amortization 
+ 
+ 
+ 
+ 
+ 
+ 381,292 
+ 
+ 
+ 
+ 
+ 
+ 800,629 
+ 
+ 
+ 
+ 
+ 
+ 419,262 
+ 
+ 
+ 
+ 
+ 
+ (3,260) 
+ 
+ 
+ 
+ 
+ 
+ 1,597,923 
+ 
+ 
+ OIBDA 
+ 
+ 
+ 
+ $ 
+ 
+ 3,081,102 
+ 
+ 
+ 
+ $ 
+ 
+ (1,723,924) 
+ 
+ 
+ 
+ $ 
+ 
+ (39,347) 
+ 
+ 
+ 
+ $ 
+ 
+ 2,183 
+ 
+ 
+ 
+ $ 
+ 
+ 1,320,014 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Year Ended December 31, 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Segment operating income (loss) 
+ 
+ 
+ 
+ $ 
+ 
+ 2,933,898 
+ 
+ 
+ 
+ $ 
+ 
+ (888,232) 
+ 
+ 
+ 
+ $ 
+ 
+ 181,615 
+ 
+ 
+ 
+ $ 
+ 
+ 5,557 
+ 
+ 
+ 
+ $ 
+ 
+ 2,232,838 
+ 
+ 
+ Depreciation and amortization 
+ 
+ 
+ 
+ 
+ 
+ 428,471 
+ 
+ 
+ 
+ 
+ 
+ 288,602 
+ 
+ 
+ 
+ 
+ 
+ 462,748 
+ 
+ 
+ 
+ 
+ 
+ (4,926) 
+ 
+ 
+ 
+ 
+ 
+ 1,174,895 
+ 
+ 
+ OIBDA 
+ 
+ 
+ 
+ $ 
+ 
+ 3,362,369 
+ 
+ 
+ 
+ $ 
+ 
+ (599,630) 
+ 
+ 
+ 
+ $ 
+ 
+ 644,363 
+ 
+ 
+ 
+ $ 
+ 
+ 631 
+ 
+ 
+ 
+ $ 
+ 
+ 3,407,733 
+ 
+ The changes in OIBDA during the years ended December 31, 2024, 2023, and 2022, were primarily a result of the factors described in connection with operating revenues and operating expenses, and the “ Impairment of long-lived assets and goodwill” of: (1) $536 million from our Broadband and Satellite Services segment; (2) $219 million from our Wireless segment; and (3) $6 million from our Pay-TV segment during the year ended December 31, 2023. 
+ 
+ GUARANTOR FINANCIAL INFORMATION 
+ 
+ Our senior secured notes consisting of our 10 3/4% Senior Secured Notes due 2029 and 6 3/4 % Senior Secured Notes due 2030 and our 3 7/8% Convertible Secured Notes due 2030 (together, the “EchoStar Notes”) are jointly and severally guaranteed on a senior secured basis by certain of our wholly-owned subsidiaries (the “Guarantors”). Specifically, Northstar Wireless, LLC, SNR Wireless LicenseCo, LLC, DBSD Corporation and Gamma Acquisition L.L.C. the (“Spectrum Assets Guarantors”) and Northstar Spectrum, LLC, SNR Wireless HoldCo, LLC, DBSD Services Limited and Gamma Acquisition HoldCo, L.L.C. the (“Equity Pledge Guarantors”). 
+ 
+ 
+ 
+ 88 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ Certain of our wholly-owned subsidiaries are designated as “Unrestricted Subsidiaries” and do not guarantee any of our registered senior notes. The guarantee of the Guarantors will be discharged and released in accordance with the terms of the applicable indenture. The rights of holders of the registered senior notes against the Guarantors may be limited under the U.S. Bankruptcy Code or state fraudulent transfer or conveyance law. 
+ 
+ Each entity in the summarized combined financial information follows the same accounting policies as described in the consolidated financial statements. Information for the non-Guarantor subsidiaries has been excluded from the combined summarized financial information of the obligated group. The accompanying summarized combined financial information does not reflect investments of the obligated group in non-Guarantor subsidiaries. The financial information of the obligated group is presented on a combined basis and is derived from EchoStar’s consolidated financial statements; intercompany balances and transactions within the obligated group have been eliminated. The obligated group’s amounts due to non-Guarantor subsidiaries and related parties have been presented in separate line items. 
+ 
+ The summarized balance sheet information for the combined obligor group of the EchoStar Notes is presented in the table below. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ As of December 31, 2024 
+ 
+ 
+ 
+ 
+ 
+ 
+ (In thousands) 
+ 
+ 
+ Current assets 
+ 
+ 
+ 
+ $ 
+ 
+ 6,234,658 
+ 
+ 
+ Noncurrent assets 
+ 
+ 
+ 
+ 
+ 
+ 17,397,691 
+ 
+ 
+ Current liabilities 
+ 
+ 
+ 
+ 
+ 
+ 411,704 
+ 
+ 
+ Noncurrent liabilities 
+ 
+ 
+ 
+ 
+ 
+ 9,254,862 
+ 
+ 
+ Due from non-guarantors 
+ 
+ 
+ 
+ 
+ 
+ 1,470,067 
+ 
+ The summarized results of operations information for the combined obligor group of the EchoStar Notes is presented in the table below. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Year Ended 
+ 
+ 
+ 
+ 
+ 
+ 
+ December 31, 2024 
+ 
+ 
+ 
+ 
+ 
+ 
+ (In thousands) 
+ 
+ 
+ Total revenues 
+ 
+ 
+ 
+ $ 
+ 
+ 60,894 
+ 
+ 
+ Operating income (loss) 
+ 
+ 
+ 
+ 
+ 
+ 49,284 
+ 
+ 
+ Net income (loss) 
+ 
+ 
+ 
+ 
+ 
+ (26,015) 
+ 
+ 
+ Revenue from non-guarantors 
+ 
+ 
+ 
+ 
+ 
+ 58,200 
+ 
+ 
+ LIQUIDITY AND CAPITAL RESOURCES 
+ 
+ Cash, Cash Equivalents, Current Restricted Cash and Cash Equivalents and Current Marketable Investment Securities 
+ 
+ We consider all liquid investments purchased with a remaining maturity of 90 days or less at the date of acquisition to be cash equivalents. See Note 3, Note 6 and Note 10 in the Notes to our Consolidated Financial Statements in this Annual Report on Form 10-K for defined terms and further information regarding our current financing transactions and marketable investment securities. As of December 31, 2024, our cash, cash equivalents, current restricted cash and cash equivalents, and current marketable investment securities totaled $5.698 billion compared to $2.444 billion as of December 31, 2023, an increase of $3.254 billion. This increase in cash, cash equivalents, current restricted cash and cash equivalents, and current marketable investment securities primarily resulted from $5.204 billion in net proceeds from the issuance of our 10 3/4% Senior Secured Notes due 2029 and 3 7/8% Convertible Secured Notes due 2030, $2.365 billion in net proceeds from the New DISH DBS Financing, $400 million in net proceeds from the issuance of PIPE Shares and cash generated from operating activities of $1.253 billion, partially offset by capital expenditures, net of refunds, of $2.497 billion (including capitalized interest related to Regulatory authorizations), the redemption of our 2 3/8% Convertible Notes due 2024 and 5 7/8% Senior Notes due 2024 of $2.934 billion and the purchase of SNR Management’s ownership interest in SNR HoldCo of $442 million. 
+ 
+ 
+ 89 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ Debt Issuances and Maturity 
+ 
+ 11 3/4% Senior Secured Notes due November 15, 2027 
+ 
+ On November 15, 2022 and January 26, 2023, we issued $2.0 billion and $1.5 billion, respectively, aggregate principal amount of our 11 3/4% Senior Secured Notes due November 15, 2027. Interest accrues at an annual rate of 11 3/4% and is payable semi-annually in cash, in arrears on May 15 and November 15 of each year. 
+ 
+ New DISH DBS Financing 
+ 
+ On September 29, 2024 (the “Financing Closing Date”), we and our subsidiary, DBS SubscriberCo, received $2.5 billion in financing from TPG Angelo Gordon and other co-lenders in the form of Term Loans and Mandatorily Redeemable Preferred Shares (each as defined below and together, the “New DISH DBS Financing”). On the Financing Closing Date, DBS SubscriberCo, entered into an amended and restated limited liability company agreement (the “SubscriberCo LLCA”), pursuant to which, among other things, DBS SubscriberCo issued to certain investors (the “Preferred Members”) redeemable preferred equity interests (the “Preferred Membership Interests”) with an aggregate liquidation preference of $200 million (the “Mandatorily Redeemable Preferred Shares”). Approximately $2.047 billion in proceeds received from the New DISH DBS Financing were used for the redemption of the principal balance and remaining interest outstanding on our 5 7/8% Senior Notes due November 15, 2024. The New DISH DBS Financing consists of the following: (i) initial term loans in an aggregate principal amount of $1.8 billion that mature on June 30, 2029 (the “Term Loan due 2029”), (ii) incremental term loans in an aggregate principal amount of $500 million that are payable in equal monthly installments which began in January 2025 and mature on September 30, 2025 (the “Term Loan due 2025”) and (iii) $200 million Mandatorily Redeemable Preferred Shares that mature on June 30, 2029. 
+ 
+ Interest on the Term Loans accrues and is payable monthly, generally in cash. The interest rate with respect to the Term Loan due 2029 is (i) from (and including) the Financing Closing Date and until (but excluding) the date that is twelve months thereafter, 10.75% per annum and (ii) from (and including) the date that is twelve months after the Financing Closing Date and until June 30, 2029, 11.25% per annum. The interest rate with respect to the Term Loan due 2025 is 11.00% per annum. The Preferred Membership Interests have a preferential cumulative return that accumulates daily in arrears at a rate of: (a) from (and including) the Financing Closing Date and until (but excluding) the date that is 12 months thereafter, 13.25% per annum and (b) from (and including) the date that is 12 months after the Financing Closing Date and until June 30, 2029 (or the first business day thereafter), 13.75% per annum, payable in cash monthly and a liquidation preference equal to the issue price plus all accrued and unpaid dividends. 
+ 
+ 10 3/4% Senior Secured Notes due November 30, 2029 
+ 
+ On November 12, 2024, we issued $5.356 billion aggregate principal amount of our 10 3/4% Senior Secured Notes due November 30, 2029. Interest accrues at an annual rate of 10 3/4% and is payable semi-annually in cash, in arrears on May 30 and November 30 of each year, commencing on May 30, 2025. 
+ 
+ 6 3/4 % Senior Secured Notes due November 30, 2030 
+ 
+ On November 12, 2024, we issued $2.288 billion aggregate principal amount of our 6 3/4 % Senior Secured Notes due November 30, 2030 as a result of the consummation of the EchoStar Exchange Offers, as detailed and defined in Note 10 to the Notes to our Consolidated Financial Statements in this Annual Report on Form 10-K . Interest accrues at an annual rate of 6 3/4 % and is payable semi-annually in arrears on May 30 and November 30 of each year, commencing on May 30, 2025. Interest payments are, at our option, payable in cash or in kind for the first four interest payment periods. Interest payments from and including the fifth interest payment period (which will be payable on May 30, 2027) and thereafter must be paid in cash. 
+ 
+ 
+ 
+ 90 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 3 7/8% Convertible Secured Notes due November 30, 2030 
+ 
+ On November 12, 2024, we issued $1.906 billion aggregate principal amount of our 3 7/8% Convertible Secured Notes due November 30, 2030, including $1.876 billion as a result of the consummation of the EchoStar Exchange Offers, as detailed and defined in Note 10 to the Notes to our Consolidated Financial Statements in this Annual Report on Form 10-K . Interest accrues at an annual rate of 3 7/8% and is payable semi-annually in arrears on May 30 and November 30 of each year, commencing on May 30, 2025. Interest payments are, at our option, payable in cash or in kind for the first four interest payment periods. Interest payments from and including the fifth interest payment period (which will be payable on May 30, 2027) and thereafter must be paid in cash. 
+ 
+ 5 7/8% Senior Notes due 2022 
+ 
+ Our 5 7/8% Senior Notes due 2022 with an aggregate principal balance of $2.0 billion were repurchased or redeemed as of July 15, 2022, the instrument’s maturity date. 
+ 
+ 5% Senior Notes due 2023 
+ 
+ Our 5% Senior Notes due 2023 with an aggregate principal balance of $1.5 billion were repurchased or redeemed as of March 15, 2023, the instrument’s maturity date . 
+ 
+ 2 3/8% Convertible Notes due 2024 
+ 
+ Our 2 3/8% Convertible Notes due 2024 with an aggregate principal balance of $1.0 billion were repurchased or redeemed as of March 15, 2024 , the instrument’s maturity date . 
+ 
+ 5 7/8% Senior Notes due 2024 
+ 
+ Our 5 7/8% Senior Notes due 2024 with an aggregate principal balance of $2.0 billion were repurchased or redeemed as of November 15, 2024, the instrument’s maturity date. 
+ 
+ 0% Convertible Notes due 2025 
+ 
+ On November 12, 2024, $1.819 billion aggregate principal amount of our 0% Convertible Notes due 2025 were extinguished as a result of the consummation of the EchoStar Exchange Offers, as detailed and defined in Note 10 to the Notes to our Consolidated Financial Statements in this Annual Report on Form 10-K. A total of $138 million aggregate principal amount of our 0% Convertible Notes due 2025 remain outstanding. 
+ 
+ 3 3/8% Convertible Notes due 2026 
+ 
+ On November 12, 2024, $2.863 billion aggregate principal amount of our 3 3/8% Convertible Notes due 2026 were extinguished as a result of the consummation of the EchoStar Exchange Offers, as detailed and defined in Note 10 to the Notes to our Consolidated Financial Statements in this Annual Report on Form 10-K. A total of $45 million aggregate principal amount of our 3 3/8% Convertible Notes due 2026 remain outstanding. 
+ 
+ Cash Flow 
+ 
+ The following discussion highlights our cash flow activities during the years ended December 31, 2024, 2023 and 2022. 
+ 
+ Cash flows from operating activities. We typically reinvest the cash flow from operating activities in our business primarily to grow our subscriber base, expand our infrastructure, make strategic investments, such as significant investments in our Wireless business, including our 5G Network Deployment, and repay debt obligations. For the years ended December 31, 2024, 2023 and 2022, we reported “Net cash flows from operating activities” of $1.253 billion, $2.433 billion and $3.621 billion, respectively. 
+ 
+ 
+ 91 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ Net cash flows from operating activities from 2023 to 2024 decreased $1.180 billion, primarily attributable to a $815 million decrease in income adjusted to exclude non-cash charges for “Depreciation and amortization” expense, “Realized and unrealized losses (gains) on investments, impairments and other,” “EchoStar Exchange Offers debt extinguishment losses (gains),” “Liberty Puerto Rico Asset Sale losses (gains),” “Realized and unrealized losses (gains) on derivatives,” “Non-cash, stock-based compensation” expense, “Deferred tax expense (benefit),” “Equity in (earnings) losses of affiliates,” and “Impairment of long-lived assets and goodwill.” In addition, this change also includes decreases in cash flows resulting from changes in operating assets and liabilities principally attributable to timing differences between book expense and cash payments, including taxes. 
+ 
+ Net cash flows from operating activities from 2022 to 2023 decreased $1.189 billion, primarily attributable to a $1.352 billion decrease in income adjusted to exclude non-cash charges for “Depreciation and amortization” expense, “Realized and unrealized losses (gains) on investments, impairments and other,” “Realized and unrealized losses (gains) on derivatives,” “Non-cash, stock-based compensation” expense, “Deferred tax expense (benefit) and “Impairment of long-lived assets and goodwill.” In addition, this change also includes decreases in cash flows resulting from changes in operating assets and liabilities principally attributable to timing differences between book expense and cash payments, including taxes. 
+ 
+ Cash flows from investing activities. Our investing activities generally include purchases and sales of marketable investment securities, acquisitions, strategic investments, including purchases and settlements of derivative financial instruments, and purchases of wireless spectrum licenses, capital expenditures and capitalized interest. For the years ended December 31, 2024, 2023 and 2022, we reported outflows from “Net cash flows from investing activities” of $3.048 billion, $2.809 billion and $9.060 billion, respectively. 
+ 
+ The year ended December 31, 2024 was impacted by cash outflows primarily related to capital expenditures, net of refunds, of $2.497 billion (including capitalized interest related to Regulatory authorizations) and $681 million in net purchases of marketable investment securities, partially offset by $95 million in proceeds from the Liberty Puerto Rico Asset Sale. 
+ 
+ The year ended December 31, 2023 was impacted by cash outflows primarily related to capital expenditures, net of refunds, of $4.225 billion (including capitalized interest related to Regulatory authorizations), partially offset by $1.303 billion in net sales of marketable investment securities and $148 million in proceeds from other debt investments. 
+ 
+ The year ended December 31, 2022 was impacted by cash outflows primarily related to a $7.207 billion payment to the FCC for the 3.45–3.55 GHz band licenses and capital expenditures, net of refunds, of $4.035 billion (including capitalized interest related to Regulatory authorizations), partially offset by $2.194 billion in net sales of marketable investment securities. 
+ 
+ During the years ended December 31, 2024, 2023 and 2022, capital expenditures for wireless equipment totaled $1.114 billion, $2.586 billion and $2.596 billion, respectively. The decrease in 2024 for wireless equipment was primarily driven by the deceleration of our 5G Network Deployment as a result of achieving several build-out deadlines during 2023. In addition, capital expenditures during the years ended December 31, 2024, 2023 and 2022 for new and existing DISH TV customer equipment totaled $52 million, $75 million and $78 million, respectively. The decrease in 2024 for new and existing DISH TV customer equipment primarily resulted from lower gross new DISH TV subscriber activations and a higher percentage of remanufactured receivers being activated on new subscriber accounts. 
+ 
+ During the years ended December 31, 2024 and 2023, capital expenditures for satellites related to our Pay-TV segment totaled $121 million and $105 million, respectively. During the years ended December 31, 2024, 2023 and 2022, other corporate capital expenditures totaled $46 million, $63 million and $50 million, respectively. During the years ended December 31, 2024, 2023 and 2022 capital expenditures for our Broadband and Satellite Services segment, net of refunds, totaled $212 million, $233 million and $326 million, respectively. 
+ 
+ 
+ 
+ 92 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ Cash flows from financing activities. Our financing activities generally include net proceeds related to the issuance of equity and short-term, long-term and convertible debt, cash used for the repurchase, redemption or payment of long-term debt and finance lease obligations, and repurchases of our Class A common stock. For the years ended December 31, 2024, 2023 and 2022, we reported “Net cash flows from financing activities” inflows of $4.484 billion, outflows of $277 million and $274 million, respectively. 
+ 
+ The net cash inflows in 2024 primarily related to $5.204 billion in net proceeds from the issuance of our 10 3/4% Senior Secured Notes due 2029 and 3 7/8% Convertible Secured Notes due 2030, $2.365 billion in net proceeds from the New DISH DBS Financing, $400 million in net proceeds from the issuance of PIPE Shares, partially offset by the redemption of our 2 3/8% Convertible Notes due 2024 and 5 7/8% Senior Notes due 2024 of $2.934 billion and the purchase of SNR Management’s ownership interest in SNR HoldCo of $442 million. 
+ 
+ The net cash outflows in 2023 primarily related to the repurchases and redemption of our senior notes of $1.461 billion, net repurchases of our Convertible Notes of $110 million and repayments of long-term debt and finance lease obligations of $122 million, partially offset by $1.522 billion in net proceeds from the issuance of our 11 3/4% Senior Notes due 2027. 
+ 
+ The net cash outflows in 2022 primarily related to the repurchases and redemption of our 5 7/8% Senior Notes due 2022 with an aggregate principal balance of $2.0 billion, $89 million of repurchases of our treasury shares and $57 million of repurchases of our 5% Senior Notes due 2023 in open market trades, partially offset by $1.949 billion in net proceeds from the issuance of our 11 3/4% Senior Notes due 2027. 
+ 
+ Free Cash Flow 
+ 
+ We define free cash flow as “Net cash flows from operating activities” less: (i) “Purchases of property and equipment” net of “Refunds and other receipts of purchases of property and equipment,” and (ii) “Capitalized interest related to Regulatory authorizations,” as shown on our Consolidated Statements of Cash Flows. We believe free cash flow is an important liquidity metric because it measures, during a given period, the amount of cash generated that is available to repay debt obligations, make investments (including strategic wireless investments), fund acquisitions and for certain other activities. Free cash flow is not a measure determined in accordance with GAAP and should not be considered a substitute for “Operating income (loss),” “Net income (loss),” “Net cash flows from operating activities” or any other measure determined in accordance with GAAP. Since free cash flow includes investments in operating assets, we believe this non-GAAP liquidity measure is useful in addition to the most directly comparable GAAP measure “Net cash flows from operating activities.” 
+ 
+ Free cash flow can be significantly impacted from period to period by changes in “Net income (loss)” adjusted to exclude certain non-cash charges, operating assets and liabilities, “Purchases of property and equipment,” net of “Refunds and other receipts of purchases of property and equipment,” and “Capitalized interest related to Regulatory authorizations .” These items are shown in the “Net cash flows from operating activities” and “Net cash flows from investing activities” sections on our Consolidated Statements of Cash Flows included herein. Operating asset and liability balances can fluctuate significantly from period to period and there can be no assurance that free cash flow will not be negatively impacted by material changes in operating assets and liabilities in future periods, since these changes depend upon, among other things, management’s timing of payments and control of inventory levels, and cash receipts. In addition to fluctuations resulting from changes in operating assets and liabilities, free cash flow can vary significantly from period to period depending upon, among other things, subscriber additions (losses), service revenue, subscriber churn, subscriber acquisition and retention costs including amounts capitalized under our equipment lease programs for DISH TV subscribers, operating efficiencies, increases or decreases in purchases of property and equipment, expenditures related to our 5G Network Deployment and other factors. 
+ 
+ 
+ 
+ 93 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ The following table reconciles free cash flow to “Net cash flows from operating activities.” 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Years Ended December 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2024 
+ 
+ 
+ 
+ 2023 
+ 
+ 
+ 
+ 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (In thousands) 
+ 
+ 
+ Net cash flows from operating activities 
+ 
+ 
+ 
+ $ 
+ 
+ 1,252,697 
+ 
+ 
+ 
+ $ 
+ 
+ 2,432,647 
+ 
+ 
+ 
+ $ 
+ 
+ 3,621,190 
+ 
+ 
+ Purchases of property and equipment, net of refunds (including capitalized interest related to Regulatory authorizations) 
+ 
+ 
+ 
+ 
+ 
+ (2,496,624) 
+ 
+ 
+ 
+ 
+ 
+ (4,224,783) 
+ 
+ 
+ 
+ 
+ 
+ (4,034,781) 
+ 
+ 
+ Free cash flow 
+ 
+ 
+ 
+ $ 
+ 
+ (1,243,927) 
+ 
+ 
+ 
+ $ 
+ 
+ (1,792,136) 
+ 
+ 
+ 
+ $ 
+ 
+ (413,591) 
+ 
+ Operational Liquidity 
+ 
+ We make general investments in property such as, among others, satellites, wireless devices, set-top boxes, information technology and facilities that support our Pay-TV, Wireless and Broadband and Satellite Services segments. We are also making significant additional investments and may partner with others to, among other things, continue our 5G Network Deployment and further commercialize, build-out and integrate our Wireless spectrum licenses and related assets. Moreover, since we are primarily a subscriber-based company, we also make subscriber-specific investments to acquire new subscribers and retain existing subscribers. While the general investments may be deferred without impacting the business in the short-term, the subscriber-specific investments are less discretionary. Our overall objective is to generate sufficient cash flow over the life of each subscriber to provide an adequate return against the upfront investment. Once the upfront investment has been made for each subscriber, the subsequent cash flow is generally positive, but there can be no assurance that over time we will recoup or earn a return on the upfront investment. 
+ 
+ There are a number of factors that impact our future cash flow compared to the cash flow we generate at a given point in time. The first factor is our churn rate and how successful we are at retaining our current subscribers. To the extent we lose subscribers from our existing base, the positive cash flow from that base is correspondingly reduced. The second factor is how successful we are at maintaining our service margins. To the extent our “Cost of services” grow faster than our “Service revenue,” the amount of cash flow that is generated per existing subscriber is reduced. Our Pay-TV service margins have been reduced by, among other things, higher programming costs. Our Wireless service margins are impacted by, among other things, our MNSA agreement with T-Mobile and our NSA agreement with AT&T and the speed with which we are able to migrate Wireless subscribers onto our 5G Network. The third factor is the rate at which we acquire new Pay-TV, Wireless and Broadband subscribers. The faster we acquire new subscribers, the more our positive ongoing cash flow from existing subscribers is offset by the negative upfront cash flow associated with acquiring new subscribers. Conversely, the slower we acquire subscribers, the more our operating cash flow is enhanced in that period. 
+ 
+ 
+ 
+ 94 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ Finally, our future cash flow is impacted by, among other things, the rate at which we complete our 5G Network Deployment, incur litigation expense, make cash interest payments, and any cash flow from financing activities. We anticipate operating expenditures for our 5G Network Deployment to increase for 2025 as we continue to, among other things, deploy cell sites and communication towers to continue to commercialize our 5G Network. We expect our capital expenditures may decrease in the near term. However, as we prepare for our next build-out requirement deadlines, we expect our capital expenditures to increase as we approach these deadlines. As a result, our historical cash flow is not necessarily indicative of our future cash flows. As of December 31, 2024, as a result of, among other things, capital expenditures for our 5G Network Deployment, we experienced negative free cash flow. We expect that this trend will continue in 2025 and in future periods. In addition, declines in our Pay-TV and Wireless subscriber base and any decrease in subscriber-related margins negatively impact our cash flow, and there can be no assurance that our subscriber declines will not continue. 
+ 
+ Subscriber Base – Pay TV, Wireless and Broadband and Satellite Services Segments 
+ 
+ See “Results of Operations” above for further information. 
+ 
+ Subscriber Acquisition and Retention Costs 
+ 
+ We incur significant upfront costs to acquire Pay-TV, Wireless and Broadband subscribers, including, but not limited to, advertising, independent third-party retailer incentives, payments made to third parties, equipment and wireless device subsidies, installation services, and/or new customer promotions. While we attempt to recoup these upfront costs over the lives of their subscription, there can be no assurance that we will be successful in achieving that objective. We employ certain business rules for acquiring subscribers, including, but not limited to, minimum credit requirements, identity verification and contractual commitments. We strive to provide outstanding customer service to increase the likelihood of customers keeping their service over longer periods of time. Our subscriber acquisition costs may vary significantly from period to period. 
+ 
+ We incur significant costs to retain our existing DISH TV subscribers, generally as a result of upgrading their equipment to next generation receivers, primarily including our Hopper ® receivers, and by providing retention credits. As with our subscriber acquisition costs, our retention upgrade spending includes the cost of equipment and installation services. In certain circumstances, we also offer programming at no additional charge and/or promotional pricing for limited periods to existing customers in exchange for a contractual commitment to receive service for a minimum term. A component of our retention efforts includes the installation of equipment for customers who move. Retention costs for Wireless subscribers are primarily related to promotional pricing on upgraded wireless devices for qualified existing subscribers and promotional credits. Our DISH TV and Wireless subscriber retention costs may vary significantly from period to period. 
+ 
+ Seasonality 
+ 
+ Historically, the first half of the year generally produces fewer gross new DISH TV subscriber activations than the second half of the year, as is typical in the pay-TV industry. In addition, the first and fourth quarters generally produce a lower DISH TV churn rate than the second and third quarters. However, in recent years, as the pay-TV industry has matured, we and our competitors increasingly must seek to attract a greater proportion of new subscribers from each other’s existing subscriber bases rather than from first-time purchasers of pay-TV services. As a result, historical trends in seasonality described above may not be indicative of future trends. 
+ 
+ Our net SLING TV subscriber additions are impacted by, among other things, certain major sporting events and other major television events. The first and third quarters generally produce higher gross new Wireless subscriber activations. The historical trends discussed above, for net DISH TV subscriber additions, net SLING TV subscriber additions and gross new Wireless subscriber activations, may not be indicative of future trends. There can be no assurance that these trends will not continue and/or accelerate. 
+ 
+ 
+ 
+ 95 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ Satellites 
+ 
+ Pay-TV Segment. Operation of our DISH TV services requires that we have adequate satellite transmission capacity for the programming that we offer. Moreover, competitive conditions may require that we expand our offering of new programming. While we generally have had in-orbit satellite capacity sufficient to transmit our existing channels and some backup capacity to recover the transmission of certain critical programming, our backup capacity is limited. In the event of a failure or loss of any of our owned or leased satellites, we may need to acquire or lease additional satellite capacity or relocate one of our other satellites and use it as a replacement for the failed or lost satellite. Such a failure could result in a prolonged loss of critical programming or a significant delay in our plans to expand programming as necessary to remain competitive and cause us to expend a significant portion of our cash to acquire or lease additional satellite capacity. 
+ 
+ Broadband and Satellite Services Segment. Operation of our Broadband and Satellite Services segment also requires adequate satellite transmission capacity for the services that we offer. In the event of a failure or loss of any of our owned or leased satellites, we may need to acquire or lease additional satellite capacity or relocate one of our other satellites and use it as a replacement for the failed or lost satellite. Such a failure could result in a prolonged loss of services. 
+ 
+ Satellite Insurance 
+ 
+ We generally do not carry commercial in-orbit insurance on any of the satellites that we own and therefore, we will bear the risk associated with any uninsured in-orbit satellite failures. 
+ 
+ Pursuant to the terms of our joint venture agreement with Al Yah Satellite Communications Company PrJSC (“Yahsat”) in Brazil in 2019, we are required to maintain insurance for the Al Yah 3 Brazilian payload during the commercial in-orbit service of such payload, subject to certain limitations on coverage. The insurance policies were procured by Yahsat, under which we and Yahsat are the beneficiaries of any claims in proportion to their shareholdings. An insurance claim was submitted in the second quarter of 2023 for compensation with respect to the reduction in estimated useful life of the Al Yah 3 satellite. As of December 31, 2024, we have yet to receive any compensation from the insurance claim. We will continue to assess circumstances going forward and make insurance-related decisions on a case-by-case basis. 
+ 
+ Stock Repurchases 
+ 
+ Our Board of Directors previously authorized stock repurchases of up to $500 million of our outstanding Class A common stock. On October 20, 2022, our Board of Directors extended this authorization to repurchase up to $500 million of our outstanding Class A common stock through and including December 31, 2023. This program expired December 31, 2023. On October 25, 2024, our Board of Directors authorized stock repurchases of up to $1.0 billion of our outstanding Class A common stock through and including December 31, 2025. During both the years ended December 31, 2024 and 2023, there were no repurchases of our Class A common stock. During the year ended December 31, 2022, we repurchased 3,980,612 shares of our Class A common stock. 
+ 
+ 
+ 
+ 96 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ Covenants and Restrictions Related to our Long-Term Debt 
+ 
+ We are subject to the covenants and restrictions set forth in the indentures related to our long-term debt. 
+ 
+ EchoStar Corporation 
+ 
+ The indentures related to our outstanding EchoStar senior secured notes and convertible senior secured notes contain restrictive covenants that, among other things, impose limitations on our and certain of our subsidiaries’ ability to: (i) incur or guarantee additional indebtedness; (ii) make certain investments and other restricted payments; (iii) create liens; (iv) enter into certain transactions with affiliates; (v) merge or consolidate with another company; (vi) transfer or sell assets; (vii) allow to exist certain restrictions on paying dividends or other payments; and (viii) guarantor engagement in new activities. Should we fail to comply with these covenants, all or a portion of the debt under the senior secured notes could become immediately payable. The senior secured notes also provide that the debt may be required to be prepaid if certain change-in-control events occur. In addition, the convertible senior secured notes provide that, if a “fundamental change” (as defined in the related indenture) occurs, holders may require us to repurchase for cash all or part of their convertible notes. As of the date of filing of this Annual Report on Form 10-K, we were in compliance with the covenants and restrictions related to our respective long-term debt. 
+ 
+ DISH Network and DISH D BS Corporation 
+ 
+ The indentures related to our outstanding senior notes issued by DISH DBS Corporation (“DISH DBS”) contain restrictive covenants that, among other things, impose limitations on the ability of DISH DBS and its restricted subsidiaries to: (i) incur additional indebtedness; (ii) enter into sale and leaseback transactions; (iii) pay dividends or make distributions on DISH DBS’ capital stock or repurchase DISH DBS’ capital stock; (iv) make certain investments; (v) create liens; (vi) enter into certain transactions with affiliates; (vii) merge or consolidate with another company; and (viii) transfer or sell assets. The indentures related to our outstanding DISH Network and DISH DBS senior secured notes contain restrictive covenants that, among other things, impose limitations on our ability and certain of our subsidiaries to: (i) incur additional indebtedness; (ii) enter into sale and leaseback transactions; (iii) pay dividends or make distributions on our capital stock or repurchase our capital stock; (iv) make certain investments of spectrum collateral ; (v) create liens; (vi) enter into certain transactions with affiliates; (vii) merge or consolidate with another company; and (viii) transfer or sell assets. Should we fail to comply with these covenants, all or a portion of the debt under the senior notes, senior secured notes and our other long-term debt could become immediately payable. The senior notes and senior secured notes also provide that the debt may be required to be prepaid if certain change-in-control events occur. In addition, the Convertible Notes provide that, if a “fundamental change” (as defined in the related indenture) occurs, holders may require us to repurchase for cash all or part of their Convertible Notes. As of the date of filing of this Annual Report on Form 10-K, we, DISH Network and DISH DBS were in compliance with the covenants and restrictions related to our respective long-term debt. 
+ 
+ Hughes Satellite Systems Corporation 
+ 
+ The indentures related to our outstanding senior notes issued by Hughes Satellite Systems Corporation (“HSSC”) contain restrictive covenants that, among other things, impose limitations on the ability of HSSC and its restricted subsidiaries to: (i) incur additional indebtedness; (ii) pay dividends or make distributions on HSSC’s capital stock or repurchase HSSC’s capital stock; (iii) allow to exist certain restrictions on such subsidiaries’ ability to pay dividends, make distributions, make other payments, or transfer assets; (iv) make certain investments; (v) create liens; (vi) enter into certain transactions with affiliates; (vii) merge or consolidate with another company; and (viii) transfer or sell assets. As of the date of filing of this Annual Report on Form 10-K, we and HSSC were in compliance with the covenants and restrictions related to our respective long-term debt. 
+ 
+ 
+ 
+ 97 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ Other 
+ 
+ We are also vulnerable to fraud, particularly in the acquisition of new subscribers, which includes the sale of wireless devices. While we are addressing the impact of subscriber fraud through a number of actions, there can be no assurance that we will not continue to experience fraud or that any fraud we have experienced does not accelerate, which could impact our subscriber growth and churn. Economic weakness may create greater incentive for signal theft, piracy and subscriber fraud, which could lead to higher subscriber churn and reduced revenue. 
+ 
+ Obligations and Future Capital Requirements 
+ 
+ Contractual Obligations 
+ 
+ See Note 15 in the Notes to our Consolidated Financial Statements in this Annual Report on Form 10-K for further information. 
+ 
+ Future Capital Requirements 
+ 
+ We expect to fund our future working capital, capital expenditures, other investments and debt service requirements for the next twelve months from cash generated from operations, existing cash, cash equivalents and marketable investment securities balances and cash generated through raising additional capital. We may need to make significant additional investments to, among other things, continue our 5G Network Deployment and further commercialize, build-out and integrate our Wireless spectrum licenses and related assets. The amount of capital required to fund our future working capital, capital expenditure and other investment needs varies and we may need to raise additional capital, depending on, among other things, the rate at which we complete our 5G Network Deployment, the potential purchase of additional wireless spectrum licenses and the rate at which we acquire new subscribers and the cost of subscriber acquisition and retention. Certain of our capital expenditures for 2025 are expected to be driven by the rate of our 5G Network Deployment as well as costs associated with subscriber premises equipment. These expenditures are necessary for our 5G Network Deployment as well as to operate and maintain our DISH TV services. Consequently, we consider certain of them to be non-discretionary. 
+ 
+ Our capital expenditures vary depending on, among other things, the number of satellites leased or under construction at any point in time and could increase materially as a result of increased competition, significant satellite failures or economic weakness and uncertainty. Our DISH TV subscriber base has been declining and there can be no assurance that our DISH TV subscriber base will not continue to decline and that the pace of such decline will not accelerate. In the event that our DISH TV subscriber base continues to decline, it will have a material adverse long-term effect on our cash flow. 
+ 
+ We have and expect to continue to incur expenditures in 2025 related to our 5G Network Deployment, including, but not limited to, capital expenditures associated with our 5G Network Deployment and the potential purchase of additional wireless spectrum licenses, including any potential Northstar Re-Auction Payment and SNR Re-Auction Payment for the AWS-3 licenses retained by the FCC . The amount of capital required will also depend on, among other things, our available liquidity, the growth of our Wireless segment and the levels of investment necessary to support potential strategic initiatives that may arise from time to time. These factors, including, but not limited to, a reduction in our available future cash flows as a result of our 5G Network Deployment, may require us to raise additional capital in the future, which may not be available on favorable terms or at all. 
+ 
+ Volatility in the financial markets has made it more difficult at times for issuers of high-yield indebtedness, such as us, to access capital markets at favorable terms or at all . These developments may have a significant effect on our cost of financing and our liquidity position. 
+ 
+ 
+ 
+ 98 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ Wireless Segment - 5G Network Deployment 
+ See Note 15 in the Notes to our Consolidated Financial Statements in this Annual Report on Form 10-K for further information. 
+ Availability of Credit and Effect on Liquidity 
+ The ability to raise capital has generally existed for us despite economic weakness and uncertainty. While modest fluctuations in the cost of capital will not likely impact our current operational plans, significant fluctuations could have a material adverse effect on our business, results of operations and financial condition. 
+ 
+ Backlog 
+ 
+ See “Broadband and Satellite Services Segment” above for further information. 
+ 
+ Critical Accounting Estimates 
+ 
+ The preparation of the consolidated financial statements in conformity with GAAP requires management to make estimates, judgments and assumptions that affect amounts reported therein. Management bases its estimates, judgments and assumptions on historical experience and on various other factors that are believed to be reasonable under the circumstances. Actual results may differ from previously estimated amounts and such differences may be material to our consolidated financial statements. Estimates and assumptions are reviewed periodically and the effects of revisions are reflected prospectively in the period they occur. The following represent what we believe are the critical accounting policies that may involve a high degree of estimation, judgment and complexity. For a summary of our significant accounting policies, including those discussed below, see Note 2 in the Notes to our Consolidated Financial Statements in this Annual Report on Form 10-K. 
+ 
+ Income Taxes 
+ 
+ Our income tax policy is to record the estimated future tax effects of temporary differences between the tax bases of assets and liabilities and amounts reported in the accompanying consolidated balance sheets, as well as operating loss and tax credit carryforwards. Determining necessary valuation allowances requires us to make assessments about the timing of future events, including the probability of expected future taxable income and available tax planning opportunities . We periodically evaluate our need for a valuation allowance based on both historical evidence, including trends, and future expectations in each reporting period. Any such valuation allowance is recorded in either “Income tax (provision) benefit, net” on our Consolidated Statements of Operations and Comprehensive Income (Loss) or “Accumulated other comprehensive income (loss)” within “Stockholders’ Equity (Deficit)” on our Consolidated Balance Sheets. Future performance could have a significant effect on the realization of tax benefits, or reversals of valuation allowances, as reported in our consolidated results of operations. 
+ 
+ Management evaluates the recognition and measurement of uncertain tax positions based on applicable tax law, regulations, case law, administrative rulings and pronouncements and the facts and circumstances surrounding the tax position. Changes in our estimates related to the recognition and measurement of the amount recorded for uncertain tax positions could result in significant changes in our “Income tax provision (benefit), net,” which could be material to our consolidated results of operations. 
+ Although we believe our assumptions, judgments and estimates are reasonable, changes in tax laws or our interpretation of tax laws and the resolution of any tax audits could significantly impact the amounts provided for income taxes in our consolidated financial statements. 
+ 
+ 
+ 
+ 99 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ Contingent Liabilities 
+ 
+ A significant amount of management judgment is required in determining when, or if, an accrual should be recorded for a contingency and the amount of such accrual. Estimates generally are developed in consultation with counsel and are based on an analysis of potential outcomes. Due to the uncertainty of determining the likelihood of a future event occurring and the potential financial statement impact of such an event, it is possible that upon further development or resolution of a contingent matter, a charge could be recorded in a future period to “Selling, general and administrative expenses” or “Litigation expense” on our Consolidated Statements of Operations and Comprehensive Income (Loss) that would be material to our consolidated results of operations and financial condition. 
+ 
+ New Accounting Pronouncements 
+ See Note 2 in the Notes to our Consolidated Financial Statements in this Annual Report on Form 10-K for further information. 

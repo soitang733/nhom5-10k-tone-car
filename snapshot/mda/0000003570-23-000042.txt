@@ -1,0 +1,3187 @@
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+ 
+ 
+ Introduction 
+ 
+ The following discussion and analysis presents management’s view of our business, financial condition and overall performance and should be read in conjunction with our Consolidated Financial Statements and the accompanying notes. This information is intended to provide investors with an understanding of our past performance, current financial condition and outlook for the future. Discussion of 2020 items and variance drivers between the year ended December 31, 2021 as compared to December 31, 2020 are not included herein and can be found in “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in our annual report on Form 10-K for the fiscal year ended December 31, 2021 . 
+ 
+ Our discussion and analysis includes the following subjects: 
+ • Overview 
+ • Overview of Significant Events 
+ • Market Environment 
+ • Results of Operations 
+ • Liquidity and Capital Resources 
+ • Summary of Critical Accounting Estimates 
+ • Recent Accounting Standards 
+ 
+ 
+ Overview 
+ 
+ We are an energy infrastructure company primarily engaged in LNG-related businesses. We provide clean, secure and affordable LNG to integrated energy companies, utilities and energy trading companies around the world. We operate two natural gas liquefaction and export facilities at Sabine Pass, Louisiana and near Corpus Christi, Texas (respectively, the “Sabine Pass LNG Terminal” and “Corpus Christi LNG Terminal”) with a total of nine operational natural gas liquefaction Trains. In addition to natural gas liquefaction facilities at the Sabine Pass LNG Terminal (the “SPL Project”), the Sabine Pass LNG Terminal also has operational regasification facilities and pipelines that interconnect our facilities to several interstate and intrastate natural gas pipelines. The Corpus Christi LNG Terminal includes existing natural gas liquefaction facilities, an expansion project underway for up to seven midscale Trains (the “Corpus Christi Stage 3 Project”) and pipelines that interconnect our facilities to several interstate and intrastate natural gas pipelines (the “CCL Project”, and together with the SPL Project, the “Liquefaction Projects”). For further discussion of our business, see Items 1. and 2. Business and Properties . 
+ 
+ Our long-term customer arrangements form the foundation of our business and provide us with significant, stable, long-term cash flows. Through our SPAs and IPM agreements, we have contracted approximately 95% of the total anticipated production from the Liquefaction Projects through the mid-2030s, inclusive of contracts executed to support additional liquefaction capacity at the Corpus Christi LNG Terminal beyond the Corpus Christi Stage 3 Project. Excluding contracts with terms less than 10 years and contracts executed to support additional liquefaction capacity at the Corpus Christi LNG Terminal beyond the Corpus Christi Stage 3 Project, our SPAs and IPM agreements had approximately 17 years of weighted average remaining life as of December 31, 2022. The majority of our contracts are fixed-priced, long-term SPAs consisting of a fixed fee per MMBtu of LNG plus a variable fee per MMBtu of LNG, with the variable fees generally structured to cover the cost of natural gas purchases and transportation and liquefaction fuel to produce LNG, thus limiting our exposure to fluctuations in U.S. natural gas prices. During 2022, we continued to grow our portfolio of SPA and IPM agreements, and we believe that continued global demand for natural gas and LNG, as further described in Market Factors and Competition in Items 1. and 2. Business and Properties, will provide a foundation for additional growth in our portfolio of customer contracts in the future. The continued strength and stability of our long-term cash flows served as the foundation of our revised comprehensive, long-term capital allocation plan announced in 2022, which includes an increased share repurchase authorization, lowered consolidated long-term leverage target, increased dividends and continued investment in accretive organic growth. 
+ 
+ 
+ 
+ 33 
+ 
+ 
+ Table of Contents 
+ Overview of Significant Events 
+ 
+ Our significant events since January 1, 2022 and through the filing date of this Form 10-K include the following: 
+ 
+ Strategic 
+ 
+ • In February 2023, certain subsidiaries of Cheniere Partners initiated the pre-filing review process with the FERC under the National Environmental Policy Act for an expansion adjacent to the SPL Project consisting of up to three Trains with an expected total production capacity of approximately 20 mtpa of LNG. 
+ • On January 2, 2023, Corey Grindal, formerly Executive Vice President, Worldwide Trading, was promoted to Executive Vice President and Chief Operating Officer of the Company. 
+ • On October 3, 2022, our Board appointed Mr. Brian E. Edwards to serve as a member of our Board. Mr. Edwards was appointed to the Audit Committee and the Compensation Committee of our Board. 
+ • In September 2022, certain of our subsidiaries entered the pre-filing review process with the FERC under the National Environmental Policy Act for an expansion adjacent to the CCL Project consisting of two midscale Trains with an expected total production capacity of approximately 3 mtpa of LNG (“CCL Midscale Trains 8 and 9”). 
+ • On June 15, 2022, our Board made a positive FID with respect to the Corpus Christi Stage 3 Project following the execution of an EPC contract with Bechtel for the Corpus Christi Stage 3 Project for a contract price of approximately $5.5 billion, subject to adjustment only by change order, and issuance of a limited notice to proceed to commence early engineering, procurement and site works in March 2022. CCL Stage III issued a full notice to proceed with construction to Bechtel effective June 16, 2022. In connection with the positive FID, CCL Stage III was contributed to CCH and subsequently merged with and into CCL, with CCL the surviving company of the merger and a wholly owned subsidiary of CCH. In connection with the merger, contracts held by CCL Stage III were transferred to CCL. 
+ • In June 2022, Chevron U.S.A. Inc. (“Chevron”) entered into an agreement with SPLNG providing for the early termination of the TUA and an associated terminal marine services agreement (“TMSA”) between the parties and their affiliates (the “Termination Agreement”), effective July 6, 2022, for a lump sum fee of $765 million. 
+ • We entered into, or amended, the following agreements: 
+ ◦ We entered into new or amended long-term SPAs aggregating approximately 140 million tonnes of LNG to be delivered between 2026 and 2050, inclusive of long-term SPAs with Engie SA, Equinor ASA, Chevron, POSCO International Corporation, PetroChina International Company Limited and PTT Global LNG Company Limited, approximately 50 million tonnes of which is subject to Cheniere making a final investment decision to construct additional liquefaction capacity at the Corpus Christi LNG Terminal beyond the seven-train Corpus Christi Stage 3 Project or us unilaterally waiving that requirement. 
+ ◦ In May 2022, CCL Stage III entered into an IPM agreement with ARC Resources U.S. Corp, a subsidiary of ARC Resources, Ltd., to purchase 140,000 MMBtu per day of natural gas at a price based on Platts Japan Korea Marker (“JKM”), for a term of approximately 15 years commencing with commercial operations of Train 7 of the Corpus Christi Stage 3 Project. The LNG associated with this gas supply, approximately 0.85 mtpa, will be marketed by Cheniere Marketing. 
+ ◦ In February 2022, CCL Stage III amended the IPM agreement previously entered into with EOG Resources, Inc. (“EOG”), increasing the volume and term of natural gas supply from 140,000 MMBtu per day for 10 years, to 420,000 MMBtu per day for 15 years, with pricing continuing to be based on JKM. Under the amended IPM agreement, supply is targeted to commence upon completion of Trains 1, 4 and 5 of the Corpus Christi Stage 3 Project. In addition, the previously executed gas supply agreement, under which EOG sells 300,000 MMBtu per day to CCL Stage III at a price indexed to Henry Hub, was extended by 5 years, resulting in a 15 year term that is expected to commence upon start-up of the amended IPM agreement. The LNG associated with this gas supply, approximately 2.55 mtpa, will be owned and marketed by Cheniere Marketing. 
+ 
+ 
+ 
+ 34 
+ 
+ Table of Contents 
+ Operational 
+ 
+ • As of February 17, 2023, approximately 2,650 cumulative LNG cargoes totaling over 180 million tonnes of LNG have been produced, loaded and exported from the Liquefaction Projects. 
+ • On October 27, 2022, substantial completion of the third berth at the Sabine Pass Terminal was achieved. 
+ • On February 4, 2022, substantial completion of Train 6 of the SPL Project was achieved (the “Train 6 Completion”). 
+ 
+ Financial 
+ 
+ • We completed the following debt transactions: 
+ ◦ In December and November 2022, SPL issued an aggregate principal amount of $70 million of 6.293% Senior Secured Notes due 2037 (the “6.293% SPL Senior Notes”) and $430 million of 5.900% Senior Secured Amortizing Notes due 2037 (the “5.900% SPL Senior Notes”), respectively, with a weighted average life of approximately 9.6 years and 9.5 years, respectively. The proceeds from the 6.293% SPL Senior Notes and the 5.900% SPL Senior Notes, together with cash on hand, were used to redeem the remaining outstanding amount of SPL’s $1.5 billion aggregate principal amount of Senior Secured Notes due 2023 (the “2023 SPL Senior Notes”), subsequent to the $300 million redemption in October 2022. 
+ ◦ In December 2022, we repurchased $752 million in aggregate principal amount outstanding of CCH’s 7.000% Senior Secured Notes due 2024 (the “2024 CCH Senior Notes”) pursuant to a tender offer, with cash on hand. In January 2023, the remaining outstanding principal amount of $498 million of the 2024 CCH Senior Notes was redeemed with cash on hand. 
+ ◦ In June 2022, CCH amended and restated its term loan credit facility (the “CCH Credit Facility”) and its working capital facility (the “CCH Working Capital Facility”) to, among other things, (1) increase the commitments to approximately $4.0 billion and $1.5 billion for the CCH Credit Facility and the CCH Working Capital Facility, respectively, which are intended to fund a portion of the cost of developing, constructing and operating the Corpus Christi Stage 3 Project, (2) extend the maturity of the CCH Credit Facility to the earlier of June 15, 2029 or two years after the substantial completion of the last Train of the Corpus Christi Stage 3 Project and extend the maturity of the CCH Working Capital Facility to June 15, 2027, (3) update the indexed interest rate to SOFR and (4) make certain other changes to the terms and conditions of each existing facility. 
+ • In November 2022 and January 2023, Cheniere achieved its first and second issuer investment grade credit ratings from S&P Global Ratings (“S&P”) and Fitch Ratings (“Fitch”), respectively, the former of which resulted in the reduction of applicable margin and letter of credit fee rates on Cheniere’s revolving credit facility from 1.625% to 1.5% on LIBOR loans and the reduction of commitment fee rates from 0.25% to 0.225% and the release of previously required collateral resulting from the facility’s unsecured status. 
+ • In September 2022, Moody’s Corporation (“Moody’s”) upgraded its issuer credit ratings of Cheniere, CQP and SPL from Ba3, Ba2 and Baa3, respectively, to Ba1, Ba1 and Baa2, respectively, with a stable outlook. Additionally in September 2022, Fitch upgraded its issuer credit ratings of CQP and SPL from BB+ and BBB-, respectively, to BBB- and BBB, respectively, both investment grade credit ratings, with a stable outlook. In November 2022, CQP achieved its second issuer investment grade credit rating from S&P, as a result of an upgrade from BB+ to BBB, with a stable outlook, which resulted in the release of previous required collateral on CQP’s revolving credit facility, resulting from the facility’s unsecured status. In February 2023, S&P also upgraded its issuer credit ratings of SPL from BBB to BBB+ with stable outlook. 
+ • In September 2022, our Board approved a revised comprehensive, long-term capital allocation plan which included: 
+ ◦ increasing the share repurchase authorization by $4.0 billion for an additional 3 years, beginning on October 1, 2022; 
+ ◦ lowering our consolidated long-term leverage target to approximately 4x; 
+ ◦ increasing our dividend by 20% commencing with a declared distribution of $0.395 per common share in September 2022 (paid in November 2022), and targeting an approximate 10% annual dividend growth rate through Corpus Christi Stage 3 Project construction; and 
+ ◦ continuing to invest in accretive organic growth. 
+ 
+ 
+ 35 
+ 
+ Table of Contents 
+ • We accomplished the following pursuant to our capital allocation priorities: 
+ ◦ During the year ended December 31, 2022, we prepaid $5.4 billion of consolidated long-term indebtedness pursuant to our capital allocation plan. 
+ ◦ During the year ended December 31, 2022, we repurchased approximately 9.3 million shares of our common stock as part of our share repurchase program for approximately $1.4 billion. The shares repurchased during the year ended December 31, 2022 include approximately 2.7 million shares of our common stock beneficially owned by Icahn Capital LP and certain affiliates of Icahn Capital LP (the “Icahn Group”) that we repurchased for approximately $350 million. 
+ ◦ We paid aggregate dividends of $1.385 per share of common stock during the year ended December 31, 2022. 
+ 
+ 
+ Market Environment 
+ 
+ The LNG market in 2022 saw unprecedented price volatility across all natural gas and LNG benchmarks. Gas market fundamentals across the globe were tight and exacerbated by the Russia / Ukraine war risks, and later by the drastic reduction in Russian natural gas flows to the EU. Concerns over low natural gas and LNG inventories and low additional LNG supply availability early in the year were intensified by the war dynamics in Europe and by further constraints on natural gas and LNG supplies caused by the outage at the Freeport LNG facility in June and the explosion on the Nordstream 1 and Nordstream 2 Pipelines in September. Several EU policy initiatives were passed to ensure underground gas storage in the region was filled before winter. Europe had to compete for LNG cargoes resulting in unprecedented price spikes. These conditions were worsened by high coal prices, low nuclear generation output and low hydro levels in Europe, which limited optionality for power generators and deepened the energy crisis in Europe. 
+ 
+ Despite the generally tight supply conditions, according to Kpler, global LNG demand grew by approximately 5% from 2021, adding an additional 19.5 million tonnes to the overall market. LNG imports into Europe and Turkey increased by 45.9 million tonnes, or 61% year-over-year in 2022. This growth was primarily accompanied by a pronounced slowdown in economic activity in China, which contributed to a 7% decrease in Asia’s LNG demand of 19.1 million tonnes from 2021. These sizeable EU LNG requirements resulting from the war fallout and the increase in global demand, especially demand for increased imports to Europe and Turkey, exposed the vulnerability of the LNG industry in terms of supply constraints and under-investments. This was manifested in the price levels and the magnitude of the price spreads between the benchmarks. As an example, the Dutch Title Transfer Facility (“TTF”) monthly settlement prices averaged $40.9/MMBtu in 2022, approximately 184% higher than the $14.4/MMBtu average in 2021, and the TTF monthly settlement prices averaged $42.3/MMBtu in the fourth quarter of 2022, approximately 46% higher than the $28.9/MMBtu average in the fourth quarter of 2021. Similarly, the 2022 average settlement price for the JKM increased 128% year-over-year to an average of $34.2/MMBtu in 2022, and the fourth quarter of 2022 average settlement price for the JKM increased 38% year-over-year to an average of $38.5/MMBtu. This extreme price increase triggered a strong supply response from the U.S., which played a significant role in balancing the global LNG market. Despite the outage at Freeport LNG, the U.S. exported approximately 77 million tonnes of LNG in 2022, a gain of approximately 9% from 2021, as the market continued to pull on supplies from our facilities and those of our competitors. Exports from our Liquefaction Projects reached 44 million tonnes in aggregate, representing over 85% of the gain in the U.S. total for the year. 
+ 
+ Despite the global impacts of the Russia / Ukraine war, we do not believe we have significant exposure to adverse direct or indirect impacts of the war, as we do not conduct business in Russia and refrain from business dealings with Russian entities. Additionally, we are not aware of any specific adverse direct or indirect effects of the war on our supply chain. Consequently, we believe we are well positioned to help meet the increased demand of our international LNG customers to overcome their supply shortages. 
+ 
+ 
+ 
+ 36 
+ 
+ 
+ Table of Contents 
+ Results of Operations 
+ 
+ Consolidated results of operations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ 
+ 
+ (in millions, except per share data) 
+ 
+ 
+ 
+ 
+ 2022 
+ 
+ 2021 
+ 
+ Variance 
+ 
+ Revenues 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LNG revenues 
+ 
+ 
+ 
+ 
+ $ 
+ 31,804 
+ 
+ 
+ $ 
+ 15,395 
+ 
+ 
+ $ 
+ 16,409 
+ 
+ 
+ Regasification revenues 
+ 
+ 
+ 
+ 
+ 1,068 
+ 
+ 
+ 269 
+ 
+ 
+ 799 
+ 
+ 
+ Other revenues 
+ 
+ 
+ 
+ 
+ 556 
+ 
+ 
+ 200 
+ 
+ 
+ 356 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total revenues 
+ 
+ 
+ 
+ 
+ 33,428 
+ 
+ 
+ 15,864 
+ 
+ 
+ 17,564 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating costs and expenses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of sales (excluding items shown separately below) 
+ 
+ 
+ 
+ 
+ 25,632 
+ 
+ 
+ 13,773 
+ 
+ 
+ 11,859 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating and maintenance expense 
+ 
+ 
+ 
+ 
+ 1,681 
+ 
+ 
+ 1,444 
+ 
+ 
+ 237 
+ 
+ 
+ Selling, general and administrative expense 
+ 
+ 
+ 
+ 
+ 416 
+ 
+ 
+ 325 
+ 
+ 
+ 91 
+ 
+ 
+ Depreciation and amortization expense 
+ 
+ 
+ 
+ 
+ 1,119 
+ 
+ 
+ 1,011 
+ 
+ 
+ 108 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Development expense 
+ 
+ 
+ 
+ 
+ 16 
+ 
+ 
+ 7 
+ 
+ 
+ 9 
+ 
+ 
+ Other 
+ 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ 5 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total operating costs and expenses 
+ 
+ 
+ 
+ 
+ 28,869 
+ 
+ 
+ 16,565 
+ 
+ 
+ 12,304 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Income (loss) from operations 
+ 
+ 
+ 
+ 
+ 4,559 
+ 
+ 
+ (701) 
+ 
+ 
+ 5,260 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other income (expense) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Interest expense, net of capitalized interest 
+ 
+ 
+ 
+ 
+ (1,406) 
+ 
+ 
+ (1,438) 
+ 
+ 
+ 32 
+ 
+ 
+ Loss on modification or extinguishment of debt 
+ 
+ 
+ 
+ 
+ (66) 
+ 
+ 
+ (116) 
+ 
+ 
+ 50 
+ 
+ 
+ Interest rate derivative gain (loss), net 
+ 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ (1) 
+ 
+ 
+ 3 
+ 
+ 
+ Other income (expense), net 
+ 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ (22) 
+ 
+ 
+ 27 
+ 
+ 
+ Total other expense 
+ 
+ 
+ 
+ 
+ (1,465) 
+ 
+ 
+ (1,577) 
+ 
+ 
+ 112 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Income (loss) before income taxes and non-controlling interest 
+ 
+ 
+ 
+ 
+ 3,094 
+ 
+ 
+ (2,278) 
+ 
+ 
+ 5,372 
+ 
+ 
+ Less: income tax provision (benefit) 
+ 
+ 
+ 
+ 
+ 459 
+ 
+ 
+ (713) 
+ 
+ 
+ 1,172 
+ 
+ 
+ Net income (loss) 
+ 
+ 
+ 
+ 
+ 2,635 
+ 
+ 
+ (1,565) 
+ 
+ 
+ 4,200 
+ 
+ 
+ Less: net income attributable to non-controlling interest 
+ 
+ 
+ 
+ 
+ 1,207 
+ 
+ 
+ 778 
+ 
+ 
+ 429 
+ 
+ 
+ Net income (loss) attributable to common stockholders 
+ 
+ 
+ 
+ 
+ $ 
+ 1,428 
+ 
+ 
+ $ 
+ (2,343) 
+ 
+ 
+ $ 
+ 3,771 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net income (loss) per share attributable to common stockholders—basic 
+ 
+ 
+ 
+ 
+ $ 
+ 5.69 
+ 
+ 
+ $ 
+ (9.25) 
+ 
+ 
+ $ 
+ 14.94 
+ 
+ 
+ Net income (loss) per share attributable to common stockholders—diluted 
+ 
+ 
+ 
+ 
+ $ 
+ 5.64 
+ 
+ 
+ $ 
+ (9.25) 
+ 
+ 
+ $ 
+ 14.89 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Volumes loaded and recognized from the Liquefaction Projects 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 2022 
+ 
+ (in TBtu) 
+ 
+ 
+ 
+ 
+ Operational 
+ 
+ Commissioning 
+ 
+ Total 
+ 
+ Volumes loaded during the current period 
+ 
+ 
+ 
+ 
+ 2,295 
+ 
+ 
+ 13 
+ 
+ 
+ 2,308 
+ 
+ 
+ Volumes loaded during the prior period but recognized during the current period 
+ 
+ 
+ 
+ 
+ 49 
+ 
+ 
+ 1 
+ 
+ 
+ 50 
+ 
+ 
+ Less: volumes loaded during the current period and in transit at the end of the period 
+ 
+ 
+ 
+ 
+ (56) 
+ 
+ 
+ — 
+ 
+ 
+ (56) 
+ 
+ 
+ Total volumes recognized in the current period 
+ 
+ 
+ 
+ 
+ 2,288 
+ 
+ 
+ 14 
+ 
+ 
+ 2,302 
+ 
+ 
+ 
+ 
+ 37 
+ 
+ Table of Contents 
+ Components of LNG revenues and corresponding LNG volumes delivered 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2022 
+ 
+ 2021 
+ 
+ Variance 
+ 
+ 
+ LNG revenues (in millions) : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LNG from the Liquefaction Projects sold under third party long-term agreements (1) 
+ 
+ 
+ 
+ 
+ $ 
+ 20,702 
+ 
+ 
+ $ 
+ 11,990 
+ 
+ 
+ $ 
+ 8,712 
+ 
+ 
+ LNG from the Liquefaction Projects sold by our integrated marketing function under short-term agreements 
+ 
+ 
+ 
+ 
+ 10,169 
+ 
+ 
+ 4,361 
+ 
+ 
+ 5,808 
+ 
+ 
+ LNG procured from third parties 
+ 
+ 
+ 
+ 
+ 760 
+ 
+ 
+ 499 
+ 
+ 
+ 261 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net derivative losses 
+ 
+ 
+ 
+ 
+ (328) 
+ 
+ 
+ (1,776) 
+ 
+ 
+ 1,448 
+ 
+ 
+ Other revenues 
+ 
+ 
+ 
+ 
+ 501 
+ 
+ 
+ 321 
+ 
+ 
+ 180 
+ 
+ 
+ Total LNG revenues 
+ 
+ 
+ 
+ 
+ $ 
+ 31,804 
+ 
+ 
+ $ 
+ 15,395 
+ 
+ 
+ $ 
+ 16,409 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Volumes delivered as LNG revenues (in TBtu) : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LNG from the Liquefaction Projects sold under third party long-term agreements (1) 
+ 
+ 
+ 
+ 
+ 1,926 
+ 
+ 
+ 1,608 
+ 
+ 
+ 318 
+ 
+ 
+ LNG from the Liquefaction Projects sold by our integrated marketing function under short-term agreements 
+ 
+ 
+ 
+ 
+ 362 
+ 
+ 
+ 344 
+ 
+ 
+ 18 
+ 
+ 
+ LNG procured from third parties 
+ 
+ 
+ 
+ 
+ 29 
+ 
+ 
+ 45 
+ 
+ 
+ (16) 
+ 
+ 
+ Total volumes delivered as LNG revenues 
+ 
+ 
+ 
+ 
+ 2,317 
+ 
+ 
+ 1,997 
+ 
+ 
+ 320 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) Long-term agreements include agreements with an initial tenure of 12 months or more. 
+ Net income (loss) attributable to common stockholders . The favorable variance of $3.8 billion for the year ended December 31, 2022 as compared to the same period of 2021 was primarily attributable to: 
+ • increased LNG revenues, net of cost of sales and excluding the effect of derivative losses (as further described below), of $5.1 billion, of which approximately 80% was attributable to higher margins on sales indexed to or derived from (1) international gas prices, as a result of increases in the associated indices and (2) Henry Hub, with variable consideration on our long-term SPAs generally priced at 115% of Henry Hub, and approximately 20% was attributable to increased volume delivered between the comparable periods, in part due to the Train 6 Completion and, to a lesser extent, the substantial completion and commencement of operations of Train 3 of the CCL Project on March 26, 2021 (the “Train 3 Completion”); and 
+ • additional income resulting from the lump sum fee from Chevron of $765 million related to the Termination Agreement, as discussed in Overview of Significant Events ; 
+ These favorable variance drivers were partially offset by: 
+ • increased derivative losses from changes in fair value and settlements of $544 million (before tax and the impact of non-controlling interest) between the years, including derivative losses from changes in fair value of $4.3 billion in the year ended December 31, 2021 to $5.7 billion in the year ended December 31, 2022, primarily related to our IPM agreements where we procure natural gas at a price indexed to international gas prices; and 
+ • a $1.2 billion unfavorable change in income tax provision (benefit). 
+ The following is an additional detailed discussion of the significant variance drivers of the change in net income (loss) attributable to common stockholders by line ITEM: 
+ Revenues . $17.6 billion increase between comparable periods primarily attributable to: 
+ • $12.2 billion increase due to higher pricing per MMBtu, from both increased Henry Hub pricing, for which the majority of our long-term contracts are indexed, and from international gas pricing; 
+ • $2.6 billion increase due to higher volumes of LNG delivered between the periods, which increased 320 TBtu or 16%, due to Train 6 Completion and, to a lesser extent, the Train 3 Completion, which have a total production capacity aggregating approximately 10 mtpa; 
+ • $1.4 billion decrease in derivative losses from change in fair value and settlements, primarily due to shifts in forward commodity curves related to arrangements designed to economically hedge commodity markets in which we have contractual arrangements to sell physical LNG; 
+ 
+ 
+ 38 
+ 
+ Table of Contents 
+ • $799 million increase in regasification revenues, due to the acceleration of regasification revenues from the Termination Agreement with Chevron, as described above in Overview of Significant Events ; and 
+ • $356 million increase in other revenues, primarily due to an increase in sublease income from LNG vessel subcharters as a result of higher rates and an increase in the total number of days subchartered due to the availability of and demand for vessel charter capacity between the periods. 
+ Operating costs and expenses . $12.3 billion increase between comparable periods primarily attributable to: 
+ • $9.9 billion increase in cost of sales excluding the effect of derivative losses described below, primarily as a result of $8.9 billion in increased cost of natural gas feedstock largely due to higher U.S. natural gas prices and, to a lesser extent, from increased volume of natural gas liquified and delivered as LNG, as discussed above under the caption Revenues; 
+ • $2.0 billion increase in derivative losses from changes in fair value and settlements included in cost of sales, from $4.2 billion in the year ended December 31, 2021 to $6.2 billion in the year ended December 31, 2022, primarily due to non-cash unfavorable changes in fair value of our commodity derivatives that are attributed to positions indexed to international gas prices; and 
+ • $237 million increase in operating and maintenance expense primarily due to increased natural gas transportation and storage capacity demand charges following the Train 6 Completion and the Train 3 Completion as well as third party service and maintenance contract costs. 
+ Other expense (income) . $112 million decrease in total other expense between comparable periods primarily attributable to: 
+ 
+ • $50 million decrease in loss on modification or extinguishment of debt, primarily due to a reduction in premiums paid for the early redemption or repayment of debt principal, as further described under Financing Cash Flows in Sources and Uses of Cash within Liquidity and Capital Resources, partially offset by a $31 million loss associated with a premium paid to Chevron to terminate a revenue sharing agreement between the parties; 
+ • $32 million decrease in interest expense, net of capitalized interest, as a result of repayment of debt in accordance with our capital allocation plan and lower interest costs due to refinancing higher cost debt, which was partially offset by a lower portion of total interest costs eligible for capitalization following substantial completion of Train 3 of the CCL Project and Train 6 of the SPL Project in 2021 and 2022, respectively; and 
+ • $27 million favorable variance in other expense (income), net primarily due to higher interest income earned on cash and cash equivalents from higher interest rates in 2022, partially offset by increased other-than-temporary impairment losses related to our investment in Midship Holdings. 
+ Income tax provision (benefit) . $1.2 billion increase between comparable periods primarily attributable to an increase in pretax income. 
+ 
+ The effective tax rate was 14.8% and 31.3% for the years ended December 31, 2022 and 2021, respectively. The 2022 effective tax rate was less than the statutory tax rate primarily due to income allocated to non-controlling interest not taxable to Cheniere, partially offset by an increase in the valuation allowance on our Louisiana net operating loss (“NOL”) carryforwards. The 2021 effective tax rate represents a tax benefit on pre-tax losses and was higher than the statutory tax rate primarily due to income allocated to non-controlling interest not taxable to Cheniere and a decrease in the valuation allowance on our Louisiana NOL carryforwards. Our valuation allowance on Louisiana NOLs decreased in 2021 primarily as a result of a change in tax law allowing for indefinite carryover of NOLs and our valuation allowance on Louisiana NOLs increased in 2022 due to a reduction in our forecasted Louisiana taxable income as a result of receiving favorable guidance from the Louisiana Department of Revenue on a state apportionment tax matter. See further discussion in Note 15 — Income Taxes of our Notes to Consolidated Financial Statements. 
+ 
+ Our effective tax rate is subject to variation prospectively due to variability in our pre-tax and taxable earnings and the proportion of such earnings attributable to non-controlling interests. 
+ 
+ Net income attributable to non-controlling interest . $429 million increase between comparable periods primarily attributable to $0.9 billion increase in CQP’s consolidated net income between the comparable periods. 
+ 
+ 
+ 
+ 39 
+ 
+ Table of Contents 
+ Significant factors affecting our results of operations 
+ 
+ In addition to sources and uses of liquidity as discussed in Liquidity and Capital Resources , below are additional significant factors that affect our results of operations. 
+ 
+ Gains and losses on derivative instruments 
+ 
+ Derivative instruments, which in addition to managing exposure to commodity-related marketing and price risks are utilized to manage exposure to changing interest rates and foreign exchange volatility, are reported at fair value on our Consolidated Financial Statements. For commodity derivative instruments related to our IPM agreements, including those entered into during the year ended December 31, 2022 as described further in Overview of Significant Events , the underlying LNG sales being economically hedged are accounted for under the accrual method of accounting, whereby revenues expected to be derived from the future LNG sales are recognized only upon delivery or realization of the underlying transaction. Because the recognition of derivative instruments at fair value has the effect of recognizing gains or losses relating to future period exposure, and given the significant volumes, long-term duration and volatility in price basis for certain of our derivative contracts, use of derivative instruments may result in continued volatility of our results of operations based on changes in market pricing, counterparty credit risk and other relevant factors that may be outside of our control, notwithstanding the operational intent to mitigate risk exposure over time. 
+ 
+ Commissioning cargoes 
+ 
+ Prior to substantial completion of a Train, amounts received from the sale of commissioning cargoes from that Train are offset against LNG terminal construction-in-process, because these amounts are earned or loaded during the testing phase for the construction of that Train. During the years ended December 31, 2022 and 2021, we realized offsets to LNG terminal costs of $204 million and $319 million, corresponding to 15 TBtu and 42 TBtu, respectively, that were related to the sale of commissioning cargoes from the Liquefaction Projects. 
+ 
+ Customer agreements at SPL 
+ 
+ During the year ended December 31, 2022, in fulfillment of a prior commitment to collateralize financing for Train 6 of the SPL Project, Cheniere provided to SPL certain SPAs aggregating approximately 21 million tonnes of LNG to be delivered between 2023 and 2035 and an IPM agreement to purchase 140,000 MMBtu per day of natural gas for a term of approximately 15 years beginning in early 2023. Additionally, during the year ended December 31, 2022, SPL executed an SPA with a counterparty aggregating approximately 1.0 mtpa of LNG to be delivered between 2026 and 2042. As a result, net income attributable to non-controlling interest will be impacted in future periods as volumes are delivered under the aforementioned contracts and by gains and losses from changes in the fair value of the IPM agreement, which is accounted for as a derivative. 
+ 
+ 
+ 
+ 40 
+ 
+ 
+ Table of Contents 
+ Liquidity and Capital Resources 
+ 
+ The following information describes our ability to generate and obtain adequate amounts of cash to meet our requirements in the short term and the long term. In the short term, we expect to meet our cash requirements using operating cash flows and available liquidity, consisting of cash and cash equivalents, restricted cash and cash equivalents and available commitments under our credit facilities. In the long term, we expect to meet our cash requirements using operating cash flows and other future potential sources of liquidity, which may include debt and equity offerings by us or our subsidiaries. The table below provides a summary of our available liquidity (in millions). Future material sources of liquidity are discussed below. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ December 31, 2022 
+ 
+ 
+ 
+ 
+ Cash and cash equivalents (1) 
+ $ 
+ 1,353 
+ 
+ 
+ 
+ 
+ 
+ Restricted cash and cash equivalents designated for the following purposes: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SPL Project 
+ 92 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CCL Project 
+ 738 
+ 
+ 
+ 
+ 
+ 
+ Cash held by our subsidiaries that is restricted to Cheniere 
+ 304 
+ 
+ 
+ 
+ 
+ 
+ Total restricted cash and cash equivalents 
+ 1,134 
+ 
+ 
+ 
+ 
+ 
+ Available commitments under our credit facilities (2): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SPL’s working capital revolving credit and letter of credit reimbursement agreement (the “SPL Working Capital Facility”) 
+ 872 
+ 
+ 
+ 
+ 
+ 
+ CQP’s credit facilities 
+ 750 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CCH Credit Facility 
+ 3,260 
+ 
+ 
+ 
+ 
+ 
+ CCH Working Capital Facility 
+ 1,322 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cheniere’s revolving credit facility (the “Cheniere Revolving Credit Facility”) 
+ 1,250 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total available commitments under our credit facilities 
+ 7,454 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total available liquidity 
+ $ 
+ 9,941 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) Amounts presented include balances held by our consolidated variable interest entity, CQP, as discussed in Note 9 —Non-controlling Interest and Variable Interest Entity of our Notes to Consolidated Financial Statements. As of December 31, 2022, assets of CQP, which are included in our Consolidated Balance Sheets, included $0.9 billion of cash and cash equivalents. 
+ (2) Available commitments represent total commitments less loans outstanding and letters of credit issued under each of our credit facilities as of December 31, 2022. See Note 11 —Debt of our Notes to Consolidated Financial Statements for additional information on our credit facilities and other debt instruments. 
+ 
+ Our liquidity position subsequent to December 31, 2022 will be driven by future sources of liquidity and future cash requirements as further discussed below under the caption Future Sources and Uses of Liquidity . 
+ 
+ Although our sources and uses of cash are presented below from a consolidated standpoint, SPL, CQP, CCH and Cheniere operate with independent capital structures. Certain restrictions under debt and equity instruments executed by our subsidiaries limit each entity’s ability to distribute cash, including the following: 
+ • SPL and CCH are required to deposit all cash received into restricted cash and cash equivalents accounts under certain of their debt agreements. The usage or withdrawal of such cash is restricted to the payment of liabilities related to the Liquefaction Projects and other restricted payments. In addition, SPL and CCH’s operating expenses are managed by our subsidiaries under affiliate agreements, which may require SPL and CCH to advance cash to the respective affiliates, however the cash remains restricted to Cheniere for operation and construction of the Liquefaction Projects; 
+ • CQP is required under its partnership agreement to distribute to unitholders all available cash on hand at the end of a quarter less the amount of any reserves established by its general partner. Beginning with the distribution paid in the second quarter of 2022, quarterly distributions by CQP are comprised of a base amount plus a variable amount equal to the remaining available cash per unit, which takes into consideration, among other things, amounts reserved for annual debt repayment and capital allocation goals, anticipated capital expenditures to be funded with cash, and cash reserves to provide for the proper conduct of CQP’s business. 
+ 
+ 
+ 41 
+ 
+ Table of Contents 
+ • Our 48.6% limited partner interest, 100% general partner interest and incentive distribution rights in CQP limit our right to receive cash held by CQP to the amounts specified by the provisions of CQP’s partnership agreement; and 
+ • SPL, CQP and CCH are restricted by affirmative and negative covenants included in certain of their debt agreements in their ability to make certain payments, including distributions, unless specific requirements are satisfied. 
+ 
+ Notwithstanding the restrictions noted above, we believe that sufficient flexibility exists within the Cheniere complex to enable each independent capital structure to meet its currently anticipated cash requirements. The sources of liquidity at SPL, CQP and CCH primarily fund the cash requirements of the respective entity, and any remaining liquidity not subject to restriction, as supplemented by liquidity provided by Cheniere Marketing, is available to enable Cheniere to meet its cash requirements. 
+ 
+ 
+ Future Sources and Uses of Liquidity 
+ 
+ Future Sources of Liquidity under Executed Contracts 
+ 
+ Because many of our sales contracts have long-term durations, we are contractually entitled to significant future consideration under our SPAs and TUAs which has not yet been recognized as revenue. This future consideration is in most cases not yet legally due to us and was not reflected on our Consolidated Balance Sheets as of December 31, 2022. In addition, a significant portion of this future consideration is subject to variability as discussed more specifically below. We anticipate that this consideration will be available to meet liquidity needs in the future. The following table summarizes our estimate of future material sources of liquidity to be received from executed contracts as of December 31, 2022 (in billions): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Estimated Revenues Under Executed Contracts by Period (1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2023 
+ 
+ 
+ 2024 - 2027 
+ 
+ Thereafter 
+ 
+ Total 
+ 
+ LNG revenues (fixed fees) (2) 
+ 
+ $ 
+ 6.1 
+ 
+ 
+ $ 
+ 26.1 
+ 
+ 
+ $ 
+ 79.8 
+ 
+ 
+ $ 
+ 112.0 
+ 
+ 
+ LNG revenues (variable fees) (2) (3) 
+ 
+ 10.5 
+ 
+ 
+ 46.2 
+ 
+ 
+ 144.5 
+ 
+ 
+ 201.2 
+ 
+ 
+ Regasification revenues 
+ 
+ 0.1 
+ 
+ 
+ 0.5 
+ 
+ 
+ 0.2 
+ 
+ 
+ 0.8 
+ 
+ 
+ Financial derivatives (4) 
+ 
+ (0.1) 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ (0.1) 
+ 
+ 
+ Other revenues (5) 
+ 
+ 0.2 
+ 
+ 
+ 0.2 
+ 
+ 
+ 0.1 
+ 
+ 
+ 0.5 
+ 
+ 
+ Total 
+ 
+ $ 
+ 16.8 
+ 
+ 
+ $ 
+ 73.0 
+ 
+ 
+ $ 
+ 224.6 
+ 
+ 
+ $ 
+ 314.4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) Agreements in force as of December 31, 2022 that have terms dependent on project milestone dates are based on the estimated dates as of December 31, 2022. The timing of revenue recognition under GAAP may not align with cash receipts, although we do not consider the timing difference to be material. The estimates above reflect management’s assumptions and currently known market conditions and other factors as of December 31, 2022. Estimates are not guarantees of future performance and actual results may differ materially as a result of a variety of factors described in this annual report on Form 10-K. 
+ (2) LNG revenues exclude revenues from contracts with original expected durations of one year or less. Fixed fees are fees that are due to us regardless of whether a customer exercises their contractual right to not take delivery of an LNG cargo under the contract. Variable fees are receivable only in connection with LNG cargoes that are delivered. 
+ (3) LNG revenues (variable fees) reflect the assumption that customers elect to take delivery of all cargoes made available under the contract. LNG revenues (variable fees) are based on estimated forward prices and basis spreads as of December 31, 2022. The pricing structure of our SPA arrangements with our customers incorporates a variable fee per MMBtu of LNG generally equal to 115% of Henry Hub, which is paid upon delivery, thus limiting our net exposure to future increases in natural gas prices. Certain of our contracts contain additional variable consideration based on the outcome of contingent events and the movement of various indexes. We have not included such variable consideration to the extent the consideration is considered constrained due to the uncertainty of ultimate pricing and receipt. 
+ (4) Financial derivatives include certain LNG Trading Derivatives that are recorded as LNG revenues based on the nature and intent of the derivative instrument. Pricing of financial derivatives is based on estimated forward prices and basis spreads as of December 31, 2022. 
+ (5) Other revenues include payments to be received from certain LNG vessel subcharters. 
+ 
+ 
+ 
+ 42 
+ 
+ Table of Contents 
+ LNG Revenues 
+ 
+ Through our SPAs and IPM agreements, we have contracted substantially all of the total anticipated production capacity from the Liquefaction Projects. The majority of the contracted capacity is comprised of fixed-price, long-term SPAs that SPL and CCL have executed with third parties to sell LNG from the SPL Project and the CCL Project, including the Corpus Christi Stage 3 Project. Substantially all of our contracted capacity is from contracts with terms exceeding 10 years. Excluding contracts with terms less than 10 years and contracts executed to support additional liquefaction capacity at the Corpus Christi LNG Terminal beyond the Corpus Christi Stage 3 Project, our SPAs had approximately 17 years of weighted average remaining life as of December 31, 2022. Under the SPAs, the customers purchase LNG on either a FOB or delivered at terminal (“DAT”) basis for a price consisting of a fixed fee per MMBtu of LNG (a portion of which is subject to annual adjustment for inflation) plus a variable fee per MMBtu of LNG generally equal to 115% of Henry Hub. Certain customers may elect to cancel or suspend deliveries of LNG cargoes, with advance notice as governed by each respective SPA, in which case the customers would still be required to pay the fixed fee with respect to the contracted volumes that are not delivered as a result of such cancellation or suspension. The variable fees under our SPAs were generally sized with the intention to cover the costs of gas purchases and variable transportation and liquefaction fuel to produce the LNG to be sold under each such SPA. In aggregate, the annual fixed fee portion to be paid by the third-party SPA customers is approximately $3.4 billion for the SPL Project and $2.7 billion for the CCL Project, including the Corpus Christi Stage 3 Project. Our long-term SPA customers consist of creditworthy counterparties, with an average credit rating of A-, A3 and A- by S&P, Moody’s and Fitch, respectively. A discussion of revenues under our SPAs can be found in Note 1 3 —Revenues of our Notes to Consolidated Financial Statements. 
+ 
+ We market and sell LNG produced by the Liquefaction Projects that is not contracted by CCL or SPL through our integrated marketing function, Cheniere Marketing. Cheniere Marketing has a portfolio of long-, medium- and short-term SPAs to deliver commercial LNG cargoes to locations worldwide. These volumes are expected to be primarily sourced by LNG produced by the Liquefaction Projects but supplemented by volumes procured from other locations worldwide, as needed. 
+ 
+ As of December 31, 2022, Cheniere Marketing has sold or has options to sell approximately 6,529 TBtu of LNG to be delivered to third party customers between 2023 and 2043, including 6,393 TBtu from long-term executed contracts that are included in the Future Sources of Liquidity under Executed Contracts table above. The cargoes have been sold either on a FOB basis (delivered to the customer at the Sabine Pass LNG Terminal or the Corpus Christi LNG Terminal, as applicable) or a DAT basis (delivered to the customer at their specified LNG receiving terminal). 
+ 
+ Regasification Revenues 
+ 
+ SPLNG has a long-term, third party TUA with TotalEnergies Gas & Power North America, Inc. (“TotalEnergies”) under which TotalEnergies is required to pay fixed monthly fees, whether or not it uses the approximately 1 Bcf/d of the regasification capacity it has reserved at the Sabine Pass LNG Terminal. TotalEnergies is obligated to make monthly capacity payments to SPLNG aggregating approximately $125 million annually, prior to inflation adjustments, for 20 years that commenced in 2009. Total S.A. has guaranteed TotalEnergies’ obligations under its TUA up to $2.5 billion, subject to certain exceptions. 
+ 
+ SPLNG has also entered into a TUA with SPL to reserve approximately 2 Bcf/d of the regasification capacity at the Sabine Pass LNG Terminal. SPL is obligated to make monthly capacity payments to SPLNG aggregating approximately $250 million annually, prior to inflation adjustments, continuing until at least May 2036. SPL entered into a partial TUA assignment agreement with TotalEnergies, whereby SPL gained access to substantially all of TotalEnergies’ capacity and other services provided under TotalEnergies’ TUA with SPLNG that started in 2019. Notwithstanding any arrangements between TotalEnergies and SPL, payments required to be made by TotalEnergies to SPLNG will continue to be made by TotalEnergies to SPLNG in accordance with its TUA. Payments made by SPL to TotalEnergies under this partial TUA assignment agreement are included in other purchase obligations in the Future Cash Requirements for Operations and Capital Expenditures under Executed Contracts table below. Full discussion of the partial TUA assignment and SPLNG’s revenues under the TUA agreements can be found in Note 1 3 —Revenues of our Notes to Consolidated Financial Statements. 
+ 
+ 
+ 
+ 43 
+ 
+ Table of Contents 
+ Financial Derivatives 
+ 
+ Cheniere Marketing has entered into financial derivatives to minimize future cash flow variability associated with Cheniere Marketing’s LNG agreements. Full discussion of financial derivatives can be found in Note 7 —Derivative Instruments of our Notes to Consolidated Financial Statements. 
+ 
+ Additional Future Sources of Liquidity 
+ 
+ Available Commitments under Credit Facilities 
+ 
+ As of December 31, 2022, we had $7.5 billion in available commitments under our credit facilities, subject to compliance with the applicable covenants, to potentially meet liquidity needs. Our credit facilities mature between 2024 and 2029. 
+ 
+ Uncontracted Liquefaction Supply 
+ 
+ We expect a portion of total production capacity from the Liquefaction Projects that has not yet been contracted under executed agreements as of December 31, 2022 to be available for Cheniere Marketing to market to additional LNG customers. Debottlenecking opportunities and other optimization projects have led to increased run-rate production levels which has increased the production capacity available for Cheniere Marketing to the extent it has not already been contracted to other customers. 
+ Financially Disciplined Growth 
+ 
+ Our significant land positions at the Corpus Christi LNG Terminal and the Sabine Pass LNG Terminal provide potential development and investment opportunities for further liquefaction capacity expansion at strategically advantaged locations with proximity to pipeline infrastructure and resources. In September 2022, certain of our subsidiaries entered the pre-filing review process with the FERC under the National Environmental Policy Act for CCL Midscale Trains 8 and 9. The development of these sites or other projects, including infrastructure projects in support of natural gas supply and LNG demand, will require, among other things, acceptable commercial and financing arrangements before we make a positive FID. 
+ 
+ Future Cash Requirements for Operations and Capital Expenditures under Executed Contracts 
+ 
+ We are committed to make future cash payments for operations and capital expenditures pursuant to certain of our contracts. The following table summarizes our estimate of material cash requirements for operations and capital expenditures under executed contracts as of December 31, 2022 (in billions): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Estimated Payments Due Under Executed Contracts by Period (1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2023 
+ 
+ 
+ 2024 - 2027 
+ 
+ Thereafter 
+ 
+ Total 
+ 
+ Purchase obligations (2): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Natural gas supply agreements (3) 
+ 
+ $ 
+ 10.5 
+ 
+ 
+ $ 
+ 26.2 
+ 
+ 
+ $ 
+ 29.2 
+ 
+ 
+ $ 
+ 65.9 
+ 
+ 
+ Natural gas transportation and storage service agreements (4) 
+ 
+ 0.5 
+ 
+ 
+ 2.1 
+ 
+ 
+ 5.4 
+ 
+ 
+ 8.0 
+ 
+ 
+ Capital expenditures 
+ 
+ 1.0 
+ 
+ 
+ 3.1 
+ 
+ 
+ — 
+ 
+ 
+ 4.1 
+ 
+ 
+ Other purchase obligations (5) 
+ 
+ 0.2 
+ 
+ 
+ 0.6 
+ 
+ 
+ 0.6 
+ 
+ 
+ 1.4 
+ 
+ 
+ Leases (6) 
+ 
+ 0.8 
+ 
+ 
+ 3.0 
+ 
+ 
+ 3.3 
+ 
+ 
+ 7.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ $ 
+ 13.0 
+ 
+ 
+ $ 
+ 35.0 
+ 
+ 
+ $ 
+ 38.5 
+ 
+ 
+ $ 
+ 86.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) Agreements in force as of December 31, 2022 that have terms dependent on project milestone dates are based on the estimated dates as of December 31, 2022. The estimates above reflect management’s assumptions and currently known market conditions and other factors as of December 31, 2022. Estimates are not guarantees of future performance and actual results may differ materially as a result of a variety of factors described in this annual report on Form 10-K. 
+ (2) Purchase obligations consist of agreements to purchase goods or services that are enforceable and legally binding that specify fixed or minimum quantities to be purchased. We include contracts for which we have an early termination option if the option is not currently expected to be exercised. We include contracts with unsatisfied conditions precedent if the conditions are currently expected to be met. 
+ 
+ 
+ 44 
+ 
+ Table of Contents 
+ (3) Pricing of natural gas supply agreements is based on estimated forward prices and basis spreads as of December 31, 2022. Pricing of IPM agreements is based on global gas market prices less fixed liquefaction fees and certain costs incurred by us. Includes $0.4 billion under natural gas supply agreements with unsatisfied conditions precedent. 
+ (4) Includes $1.4 billion of purchase obligations to related parties under the natural gas transportation and storage service agreements. Also includes $1.2 billion under natural gas transportation and storage service agreements with unsatisfied conditions precedent. 
+ (5) Other purchase obligations include payments under SPL’s partial TUA assignment agreement with TotalEnergies, as discussed in Regasification Revenues above. 
+ (6) Leases include payments under (1) operating leases, (2) finance leases, (3) short-term leases and (4) vessel time charters that were executed as of December 31, 2022 but will commence in the future. Certain of our leases also contain variable payments, such as inflation, which are not included above unless the contract terms require the payment of a fixed amount that is unavoidable. Payments during renewal options that are exercisable at our sole discretion are included only to the extent that the option is believed to be reasonably certain to be exercised. 
+ 
+ Natural Gas Supply, Transportation and Storage Service Agreements 
+ 
+ We have secured natural gas feedstock for the Corpus Christi LNG Terminal and the Sabine Pass LNG Terminal through long-term natural gas supply and IPM agreements. Under our IPM agreements, we pay for natural gas feedstock based on global gas market prices less fixed liquefaction fees and certain costs incurred by us. While IPM agreements are not revenue contracts for accounting purposes, the payment structure for the purchase of natural gas under the IPM agreements generates a take-or-pay style fixed liquefaction fee, assuming that LNG produced from the natural gas feedstock is subsequently sold at a price approximating the global LNG market price paid for the natural gas feedstock purchase. 
+ 
+ As of December 31, 2022, we have secured approximately 86% of the natural gas supply required to support the total forecasted production capacity of the Liquefaction Projects during 2023. Natural gas supply secured decreases as a percentage of forecasted production capacity beyond 2023. Natural gas supply is generally secured on an indexed pricing basis plus a fixed fee, with title transfer occurring upon receipt of the commodity. As further described in the LNG Revenues section above, the pricing structure of our SPA arrangements with our customers incorporates a variable fee per MMBtu of LNG generally equal to 115% of Henry Hub, which is paid upon delivery, thus limiting our net exposure to future increases in natural gas prices. Inclusive of amounts under contracts with unsatisfied conditions precedent as of December 31, 2022, we have secured up to 14,094 TBtu of natural gas feedstock through agreements with remaining terms that range up to 15 years. A discussion of our natural gas supply and IPM agreements can be found in Note 7 —Derivative Instruments of our Notes to Consolidated Financial Statements. 
+ 
+ To ensure that we are able to transport natural gas feedstock to the Corpus Christi LNG Terminal and the Sabine Pass LNG Terminal, we have entered into transportation precedent and other agreements to secure firm pipeline transportation capacity from pipeline companies. We have also entered into firm storage services agreements with third parties to assist in managing variability in natural gas needs for the Liquefaction Projects. 
+ 
+ Capital Expenditures 
+ 
+ We enter into lump sum turnkey contracts with third party contractors for the EPC of our Liquefaction Projects. The future capital expenditures included in the table above primarily consist of fixed costs under the Bechtel EPC contract for the Corpus Christi Stage 3 Project, in which Bechtel charges a lump sum and generally bares project cost, schedule and performance risks unless certain specified events occurred, in which case Bechtel causes us to enter into a change order, or we agree with Bechtel to a change order. Additionally, we expect to incur ongoing capital expenditures to maintain our facilities and other assets, as well as to optimize our existing assets and purchase new assets that are intended to grow our productive capacity. See Financially Disciplined Growth section for further discussion. 
+ 
+ 
+ 
+ 45 
+ 
+ Table of Contents 
+ Corpus Christi Stage 3 Project 
+ 
+ The following table summarizes the project completion and construction status of the Corpus Christi Stage 3 Project as of January 31, 2023: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Overall project completion percentage 
+ 
+ 24.5% 
+ 
+ Completion percentage of: 
+ 
+ 
+ 
+ Engineering 
+ 
+ 41.3% 
+ 
+ Procurement 
+ 
+ 36.9% 
+ 
+ Subcontract work 
+ 
+ 29.5% 
+ 
+ Construction 
+ 
+ 2.2% 
+ 
+ Date of expected substantial completion 
+ 
+ 2H 2025 - 1H 2027 
+ 
+ Leases 
+ 
+ Our obligations under our lease arrangements primarily consist of LNG vessel time charters with terms of up to 15 years to ensure delivery of cargoes sold on a DAT basis. We have also entered into leases for the use of tug vessels, office space and facilities and land sites. A discussion of our lease obligations can be found in Note 1 2 —Leases of our Notes to Consolidated Financial Statements. 
+ 
+ Additional Future Cash Requirements for Operations and Capital Expenditures 
+ 
+ Corporate Activities 
+ 
+ We are required to maintain corporate and general and administrative functions to serve our business activities. During the year ended December 31, 2022, selling, general and administrative expense was $0.4 billion, a portion of which was related to leases for office space, which is included in the table of cash requirements for operations and capital expenditures under executed contracts above. Our full-time employee headcount was 1,551 as of December 31, 2022. 
+ 
+ Financially Disciplined Growth 
+ 
+ The FID of any expansion projects will result in additional cash requirements to fund the construction and operations of such projects in excess of our current contractual obligations under executed contracts discussed above. However, in connection with reaching FID, we may be required to secure financing to meet the cash needs that such project will initially require, in support of commercializing the project. 
+ 
+ Beyond the Corpus Christi Stage 3 Project, our significant land positions at the Corpus Christi LNG Terminal and the Sabine Pass LNG Terminal provide potential development and investment opportunities for further liquefaction capacity expansion at strategically advantaged locations with proximity to pipeline infrastructure and resources. We expect that any potential future expansion at the Corpus Christi LNG Terminal and the Sabine Pass LNG Terminal would increase cash requirements to support expanded operations, although expansion could be designed to leverage shared infrastructure to reduce the incremental costs of any potential expansion. 
+ 
+ 
+ 
+ 46 
+ 
+ Table of Contents 
+ Future Cash Requirements for Financing under Executed Contracts 
+ 
+ We are committed to make future cash payments for financing pursuant to certain of our contracts. The following table summarizes our estimate of material cash requirements for financing under executed contracts as of December 31, 2022 (in billions): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Estimated Payments Due Under Executed Contracts by Period (1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2023 
+ 
+ 
+ 2024 - 2027 
+ 
+ Thereafter 
+ 
+ Total 
+ 
+ Debt (2) 
+ 
+ $ 
+ 0.5 
+ 
+ 
+ $ 
+ 10.1 
+ 
+ 
+ $ 
+ 14.5 
+ 
+ 
+ $ 
+ 25.1 
+ 
+ 
+ Interest payments (2) 
+ 
+ 1.2 
+ 
+ 
+ 3.8 
+ 
+ 
+ 2.0 
+ 
+ 
+ 7.0 
+ 
+ 
+ Total 
+ 
+ $ 
+ 1.7 
+ 
+ 
+ $ 
+ 13.9 
+ 
+ 
+ $ 
+ 16.5 
+ 
+ 
+ $ 
+ 32.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) The estimates above reflect management’s assumptions and currently known market conditions and other factors as of December 31, 2022. Estimates are not guarantees of future performance and actual results may differ materially as a result of a variety of factors described in this annual report on Form 10-K. 
+ (2) Debt and interest payments are based on the total debt balance, scheduled contractual maturities and fixed or estimated forward interest rates in effect at December 31, 2022, excluding debt and interest payments on the 2024 CCH Senior Notes which are based on the redemption payment made January 5, 2023. In December 2022, we issued a notice of redemption for the remaining aggregate principal amount outstanding of the 2024 CCH Senior Notes. Other than debt and interest payments on the 2024 CCH Senior Notes, debt and interest payments do not contemplate repurchases, repayments and retirements that we expect to make prior to contractual maturity. See further discussion in Note 11 —Debt of our Notes to Consolidated Financial Statements. 
+ 
+ 
+ Debt 
+ 
+ As of December 31, 2022, our debt complex was comprised of senior notes with an aggregate outstanding principal balance of $25.1 billion and credit facilities with no outstanding balances. As of December 31, 2022, each of our issuers was in compliance with all covenants related to their respective debt agreements. Further discussion of our debt obligations, including the restrictions imposed by these arrangements, can be found in Note 11 —Debt of our Notes to Consolidated Financial Statements. 
+ 
+ Interest 
+ 
+ As of December 31, 2022, our senior notes had a weighted average contractual interest rate of 4.76%. We have various credit facilities indexed to LIBOR, which is expected to be phased out in 2023. To date, we have amended certain of our credit facilities to incorporate a replacement rate or a fallback replacement rate indexed to SOFR as a result of the expected LIBOR transition. We intend to continue working with our lenders to pursue amendments to our remaining debt agreements that are currently indexed to LIBOR. Undrawn commitments under our credit facilities are subject to commitment fees ranging from 0.10% to 0.638%, subject to change based on the applicable entity’s credit rating. Issued letters of credit under our credit facilities are subject to letter of credit fees ranging from 1.25% to 1.625%. We had $506 million aggregate amount of issued letters of credit under our credit facilities as of December 31, 2022. 
+ Additional Future Cash Requirements for Financing 
+ 
+ CQP Distribution 
+ 
+ CQP is required by its partnership agreement to, within 45 days after the end of each quarter, distribute to unitholders all available cash at the end of a quarter less the amount of any reserves established by its general partner. We own a 48.6% limited partner interest in CQP in the form of 239.9 million common units, with the remaining non-controlling limited partner interest held by Blackstone Inc., Brookfield Asset Management Inc. and the public. During the year ended December 31, 2022, CQP paid $947 million in distributions to its non-controlling interest. 
+ 
+ Revised Capital Allocation Plan 
+ 
+ As described in Overview of Significant Events , in September 2022, our Board approved a revised comprehensive long-term capital allocation plan. Pursuant to the revised capital allocation plan, on September 12, 2022 our Board authorized an 
+ 
+ 
+ 47 
+ 
+ Table of Contents 
+ increase in the existing share repurchase program by $4.0 billion for an additional three years, beginning on October 1, 2022. As of December 31, 2022, we had up to $3.6 billion available under the share repurchase program. The timing and amount of any shares of our common stock that are repurchased under the share repurchase program will be determined by management based on market conditions and other factors. During the year ended December 31, 2022, we repurchased a total of 9.3 million shares of our common stock for $1.4 billion at a weighted average price per share of $146.88. A discussion of our share repurchase program can be found in ITEM 5. Market for Registrant’s Common Equity, Related Stockholders Matters and Issuer Purchase of Equity Securities . 
+ 
+ A further aspect of our revised capital allocation plan is to lower our long-term leverage target through debt paydown to approximately 4x, which may involve the repayment, redemption or repurchase, on the open market or otherwise, of our indebtedness, including senior notes of SPL, CQP, CCH and Cheniere. The timing and amount of any paydown of our indebtedness will be determined by management based on market conditions and other factors. During the year ended December 31, 2022, we used $5.6 billion of available cash to reduce our outstanding indebtedness, of which $5.4 billion was the redemption or prepayment of indebtedness pursuant to our capital allocation plan. 
+ 
+ The revised capital allocation plan also includes a targeted annual dividend growth rate of approximately 10% through Corpus Christi Stage 3 Project construction. On September 12, 2022, we declared a quarterly dividend of $0.395 per common share, which represented a 20% increase from the previous quarterly dividend. On January 27, 2023, we declared a quarterly dividend of $0.395 per share of common stock that is payable on February 27, 2023 to stockholders of record as of February 7, 2023. 
+ 
+ Financially Disciplined Growth 
+ 
+ To the extent that liquefaction capacity at the Corpus Christi LNG Terminal and the Sabine Pass LNG Terminal is expanded beyond the Liquefaction Projects and the Corpus Christi Stage 3 Project, such as CCL Midscale Trains 8 and 9, we expect that additional financing would be used to fund construction of the expansion. 
+ 
+ 
+ Sources and Uses of Cash 
+ 
+ The following table summarizes the sources and uses of our cash, cash equivalents and restricted cash and cash equivalents (in millions). The table presents capital expenditures on a cash basis; therefore, these amounts differ from the amounts of capital expenditures, including accruals, which are referred to elsewhere in this report. Additional discussion of these items follows the table. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ 
+ 2022 
+ 
+ 2021 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net cash provided by operating activities 
+ $ 
+ 10,523 
+ 
+ 
+ $ 
+ 2,469 
+ 
+ 
+ 
+ 
+ Net cash used in investing activities 
+ (1,844) 
+ 
+ 
+ (912) 
+ 
+ 
+ 
+ 
+ Net cash used in financing activities 
+ (8,014) 
+ 
+ 
+ (1,817) 
+ 
+ 
+ 
+ 
+ Effect of exchange rate changes on cash, cash equivalents and restricted cash and cash equivalents 
+ 5 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net increase (decrease) in cash, cash equivalents and restricted cash and cash equivalents 
+ $ 
+ 670 
+ 
+ 
+ $ 
+ (260) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating Cash Flows 
+ 
+ Our operating cash net inflows during the years ended December 31, 2022 and 2021 were $10.5 billion and $2.5 billion, respectively. The $8.1 billion increase was primarily related to increased cash receipts from the sale of LNG cargoes due to higher revenue per MMBtu and, to a lesser extent, higher volume of LNG delivered. Additionally, a portion of the increase was related to the receipt of the lump sum Termination Fee from Chevron related to the Termination Agreement, as further described in Overview of S ignificant Events , of which $796 million of cash inflows were allocable to the termination of the TUA, while an offsetting $31 million was recognized as a loss on extinguishment of debt allocable to a premium paid to Chevron to terminate a revenue sharing arrangement with them that was accounted for as debt, as discussed below under Financing Cash Flows . Partially offsetting these operating cash inflows were higher operating cash outflows primarily due to higher natural gas feedstock costs and lower contribution from certain portfolio optimization activities. 
+ 
+ 
+ 
+ 48 
+ 
+ Table of Contents 
+ On August 16, 2022, President Biden signed H.R. 5376 (P.L. 117-169), commonly referred to as the Inflation Reduction Act, into law, which includes the implementation of a new 15% corporate alternative minimum tax (the “CAMT”) effective in 2023 on the adjusted financial statement income of certain large corporations, among other provisions. We have elected to account for the effects of CAMT on deferred tax assets, carryforwards, and tax credits in the period they arise. 
+ 
+ Investing Cash Flows 
+ 
+ Our investing cash net outflows in both years primarily were for the construction costs for the Liquefaction Projects. The $932 million increase in 2022 compared to 2021 was primarily due to spend during the year ended December 31, 2022 related to construction work performed by Bechtel for the Corpus Christi Stage 3 Project, partially offset by a decrease in spend due to the completion of Train 6 of the SPL Project in February 2022, which was under construction throughout 2021. We expect our capital expenditures to increase in future periods as construction work progresses on the Corpus Christi Stage 3 Project following our issuance of full notice to proceed to Bechtel in June 2022. 
+ 
+ Financing Cash Flows 
+ 
+ The following table summarizes our financing activities (in millions): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ 
+ 
+ 2022 
+ 
+ 2021 
+ 
+ Proceeds from issuances of debt 
+ 
+ $ 
+ 1,575 
+ 
+ 
+ $ 
+ 5,911 
+ 
+ 
+ Redemptions and repayments of debt 
+ 
+ (6,771) 
+ 
+ 
+ (6,810) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Distributions to non-controlling interest 
+ 
+ (947) 
+ 
+ 
+ (649) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Repurchase of common stock 
+ 
+ (1,373) 
+ 
+ 
+ (9) 
+ 
+ 
+ Dividends to stockholders 
+ 
+ (349) 
+ 
+ 
+ (85) 
+ 
+ 
+ Other, net 
+ 
+ (149) 
+ 
+ 
+ (175) 
+ 
+ 
+ Net cash used in financing activities 
+ 
+ $ 
+ (8,014) 
+ 
+ 
+ $ 
+ (1,817) 
+ 
+ 
+ During the years ended December 31, 2022 and 2021, we had total debt issuances of $1.6 billion and $5.9 billion, respectively. The proceeds from the borrowings during the year ended December 31, 2022, together with cash on hand, were used to pay down $6.8 billion of outstanding indebtedness, which included $965 million of debt repurchases on the open market, and the remaining associated with redemptions of our outstanding notes or paydown of our credit facilities. The proceeds from the borrowings during year ended December 31, 2021, together with cash on hand, were used to redeem or repurchase $6.8 billion of outstanding indebtedness, entirely associated with redemptions of our outstanding notes or paydown of our credit facilities. 
+ 
+ 
+ 
+ 49 
+ 
+ Table of Contents 
+ Debt Issuances and Related Financing Costs 
+ 
+ The following table shows the proceeds from issuances of debt, including intra-year borrowings (in millions): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ 
+ 
+ 2022 
+ 
+ 2021 
+ 
+ 
+ 
+ Proceeds from issuances of debt 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SPL: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5.900% Senior Secured Amortizing Notes due 2037 
+ 
+ $ 
+ 430 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 2037 SPL Private Placement Senior Secured Notes 
+ 
+ 70 
+ 
+ 
+ 482 
+ 
+ 
+ 
+ 
+ SPL Working Capital Facility 
+ 
+ 60 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CQP: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.000% Senior Notes due 2031 
+ 
+ — 
+ 
+ 
+ 1,500 
+ 
+ 
+ 
+ 
+ 
+ 3.25% Senior Notes due 2032 
+ 
+ — 
+ 
+ 
+ 1,200 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CCH: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2.742% Senior Notes due 2029 
+ 
+ — 
+ 
+ 
+ 750 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CCH Credit Facility 
+ 
+ 440 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ CCH Working Capital Facility 
+ 
+ — 
+ 
+ 
+ 400 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cheniere: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cheniere Revolving Credit Facility 
+ 
+ 575 
+ 
+ 
+ 1,359 
+ 
+ 
+ 
+ 
+ Cheniere’s term loan facility (the “Cheniere Term Loan Facility”) 
+ 
+ — 
+ 
+ 
+ 220 
+ 
+ 
+ 
+ 
+ Total proceeds from issuances of debt 
+ 
+ $ 
+ 1,575 
+ 
+ 
+ $ 
+ 5,911 
+ 
+ 
+ 
+ 
+ During the years ended December 31, 2022 and 2021, we paid debt issuance costs and other financing costs of $51 million and $53 million, respectively, included in other, net in the Financing Cash Flows table above, related to the debt issuances above and amendment of credit facilities during the respective periods. 
+ 
+ 
+ 
+ 50 
+ 
+ Table of Contents 
+ Debt Redemptions, Repayments and Repurchases and Related Modification or Extinguishment Costs 
+ 
+ The following table shows the redemptions, repayments and repurchases of debt, including intra-year repayments (in millions): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ 
+ 
+ 2022 
+ 
+ 2021 
+ 
+ 
+ 
+ Redemption, repayments and repurchases of debt 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SPL: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2022 SPL Senior Notes 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ (1,000) 
+ 
+ 
+ 
+ 
+ 2023 SPL Senior Notes 
+ 
+ (1,500) 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ SPL Working Capital Facility 
+ 
+ (60) 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CQP: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5.250% Senior Notes due 2025 
+ 
+ — 
+ 
+ 
+ (1,500) 
+ 
+ 
+ 
+ 
+ 
+ 5.625% Senior Notes due 2026 
+ 
+ — 
+ 
+ 
+ (1,100) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CCH: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CCH Credit Facility 
+ 
+ (2,169) 
+ 
+ 
+ (898) 
+ 
+ 
+ 
+ 
+ CCH Working Capital Facility 
+ 
+ (250) 
+ 
+ 
+ (290) 
+ 
+ 
+ 
+ 
+ 2024 CCH Senior Notes 
+ 
+ (752) 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 5.625% Senior Notes due 2025 
+ 
+ (9) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5.125% Senior Notes due 2027 
+ 
+ (230) 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 3.700% Senior Notes due 2029 
+ 
+ (138) 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 3.751% weighted average Senior Notes rate due 2039 
+ 
+ (88) 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cheniere: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.875% Cheniere Convertible Senior Notes due 2021 
+ 
+ — 
+ 
+ 
+ (295) 
+ 
+ 
+ 
+ 
+ 4.25% Convertible Senior Notes due 2045 
+ 
+ (500) 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Cheniere Revolving Credit Facility 
+ 
+ (575) 
+ 
+ 
+ (1,359) 
+ 
+ 
+ 
+ 
+ 
+ 4.625% Senior Secured Notes due 2028 
+ 
+ (500) 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Cheniere Term Loan Facility 
+ 
+ — 
+ 
+ 
+ (368) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total redemptions, repayments and repurchases of debt 
+ 
+ $ 
+ (6,771) 
+ 
+ 
+ $ 
+ (6,810) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ During the years ended December 31, 2022 and 2021, we paid debt modification or extinguishment costs of $3 million and $82 million, respectively, included in other, net in the Financing Cash Flows table above, related to these redemptions and repayments. In addition, during the year ended December 31, 2022, we paid $31 million associated with a premium paid to terminate a revenue sharing arrangement under the Termination Agreement with Chevron. 
+ 
+ Non-Controlling Interest Distributions 
+ 
+ We own a 48.6% limited partner interest in CQP with the remaining non-controlling limited partner interest held by Blackstone Inc., Brookfield Asset Management Inc. and the public. CQP paid distributions of $947 million and $649 million during the years ended December 31, 2022 and 2021, respectively, to non-controlling interests. 
+ 
+ Repurchase of Common Stock 
+ 
+ The following table presents information with respect to repurchases of common stock (in millions, except per share data): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2022 
+ 
+ 2021 
+ 
+ 
+ 
+ Aggregate common stock repurchased 
+ 
+ 
+ 
+ 
+ 9.35 
+ 
+ 
+ 0.10 
+ 
+ 
+ 
+ 
+ Weighted average price paid per share 
+ 
+ 
+ 
+ 
+ $ 
+ 146.88 
+ 
+ 
+ $ 
+ 87.32 
+ 
+ 
+ 
+ 
+ Total amount paid 
+ 
+ 
+ 
+ 
+ $ 
+ 1,373 
+ 
+ 
+ $ 
+ 9 
+ 
+ 
+ 
+ 
+ As of December 31, 2022, we had approximately $3.6 billion remaining under our share repurchase program. 
+ 
+ 
+ 51 
+ 
+ Table of Contents 
+ Cash Dividends to Stockholders 
+ 
+ During the year ended December 31, 2022, we paid aggregate dividends of $1.385 per share of common stock, for a total of $349 million paid to common stockholders. We paid dividends of $0.33 per share of common stock, for a total of $85 million during the year ended December 31, 2021. 
+ 
+ On January 27, 2023, we declared a quarterly dividend of $0.395 per share of common stock that is payable on February 27, 2023 to stockholders of record as of February 7, 2023. 
+ 
+ Summary of Critical Accounting Estimates 
+ 
+ The preparation of our Consolidated Financial Statements in conformity with GAAP requires management to make certain estimates and assumptions that affect the amounts reported in the Consolidated Financial Statements and the accompanying notes. Management evaluates its estimates and related assumptions regularly, including those related to the valuation of derivative instruments. Changes in facts and circumstances or additional information may result in revised estimates, and actual results may differ from these estimates. Management considers the following to be its most critical accounting estimates that involve significant judgment. 
+ 
+ Fair Value of Level 3 Physical Liquefaction Supply Derivatives 
+ 
+ All derivative instruments are recorded at fair value, other than certain derivatives for which we have elected to apply accrual accounting, as described in Note 2—Summary of Significant Accounting Policies of our Notes to Consolidated Financial Statements. We record changes in the fair value of our derivative positions through earnings, based on the value for which the derivative instrument could be exchanged between willing parties. Valuation of our physical liquefaction supply derivative contracts is often developed through the use of internal models which includes significant unobservable inputs representing Level 3 fair value measurements as further described in Note 2—Summary of Significant Accounting Policies of our Notes to Consolidated Financial Statements. In instances where observable data is unavailable, consideration is given to the assumptions that market participants would use in valuing the asset or liability. This includes assumptions about market risks, such as future prices of energy units for unobservable periods, liquidity and adjustments for transportation prices, and associated events deriving fair value including, but not limited to, evaluation of whether the respective market exists from the perspective of market participants as infrastructure is developed. 
+ Additionally, the valuation of certain physical liquefaction supply derivatives requires significant judgment in estimating underlying forward commodity curves due to periods of unobservability or limited liquidity. Such valuations are more susceptible to variability particularly when markets are volatile. Provided below are the changes in fair value from valuation of instruments valued through the use of internal models which incorporate significant unobservable inputs for the years ended December 31, 2022 and 2021 (in millions), which entirely consisted of physical liquefaction supply derivatives. The changes in fair value shown are limited to instruments still held at the end of each respective period. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ 
+ 
+ 2022 
+ 
+ 2021 
+ 
+ 
+ Unfavorable changes in fair value relating to instruments still held at the end of the period 
+ 
+ $ 
+ (6,493) 
+ 
+ 
+ $ 
+ (4,305) 
+ 
+ 
+ The unfavorable changes in fair value on instruments held at the end of both years is primarily attributed to significant appreciation in estimated forward international LNG commodity curves on our IPM agreements during the years ended December 31, 2022 and 2021. 
+ 
+ The estimated fair value of level 3 derivatives recognized in our Consolidated Balance Sheets as of December 31, 2022 and 2021 amounted to a liability of $9.9 billion and $4.0 billion, respectively, consisting entirely of physical liquefaction supply derivatives. 
+ 
+ The ultimate fair value of our derivative instruments is uncertain, and we believe that it is reasonably possible that a material change in the estimated fair value could occur in the near future, particularly as it relates to commodity prices given the level of volatility in the current year. See ITEM 7A. Quantitative and Qualitative Disclosures About Market Risk for further analysis of the sensitivity of the fair value of our derivatives to hypothetical changes in underlying prices. 
+ 
+ 
+ 52 
+ 
+ 
+ Table of Contents 
+ Recent Accounting Standards 
+ 
+ For a summary of recently issued accounting standards, see Note 2 — Summary of Significant Accounting Policies of our Notes to Consolidated Financial Statements. 
+ 
+ 

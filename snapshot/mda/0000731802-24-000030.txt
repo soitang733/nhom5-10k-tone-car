@@ -1,0 +1,2220 @@
+ ITEM 7. 
+ Management’s Discussion and Analysis of Financial Condition and Results of Operations. 
+ 
+ 
+ INTRODUCTION 
+ This section provides management’s discussion of the financial condition, changes in financial condition, and results of operations of Atmos Energy Corporation and its consolidated subsidiaries with specific information on results of operations and liquidity and capital resources. It includes management’s interpretation of our financial results, the factors affecting these results, the major factors expected to affect future operating results, and future investment and financing plans. This discussion should be read in conjunction with our consolidated financial statements and notes thereto. 
+ Several factors exist that could influence our future financial performance, some of which are described in ITEM 1A above, “Risk Factors”. They should be considered in connection with evaluating forward-looking statements contained in this report or otherwise made by or on behalf of us since these factors could cause actual results and conditions to differ materially from those set out in such forward-looking statements. 
+ Cautionary Statement for the Purposes of the Safe Harbor under the Private Securities Litigation Reform Act of 1995 
+ The statements contained in this Annual Report on Form 10-K may contain “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934. All statements other than statements of historical fact included in this Report are forward-looking statements made in good faith by us and are intended to qualify for the safe harbor from liability established by the Private Securities Litigation Reform Act of 1995. When used in this Report, or any other of our documents or oral presentations, the words “anticipate”, “believe”, “estimate”, “expect”, “forecast”, “goal”, “intend”, “objective”, “plan”, “projection”, “seek”, “strategy”, or similar words are intended to identify forward-looking statements. Such forward-looking statements are subject to risks and uncertainties that could cause actual results to differ materially from those expressed or implied in the statements relating to our strategy, operations, markets, services, rates, recovery of costs, availability of gas supply, and other factors. These risks and uncertainties include the following: federal, state, and local regulatory and political trends and decisions, including the impact of rate proceedings before various state regulatory commissions; increased federal regulatory oversight and potential penalties; possible increased federal, state, and local regulation of the safety of our operations; possible significant costs and liabilities resulting from pipeline integrity and other similar programs and related repairs; the inherent hazards and risks involved in distributing, transporting, and storing natural gas; the availability and accessibility of contracted gas supplies, interstate pipeline, and/or storage services; increased competition from energy suppliers and alternative forms of energy; failure to attract and retain a qualified workforce; natural disasters, adverse weather, terrorist activities, or other events and other risks and uncertainties discussed herein, all of which are difficult to predict and many of which are beyond our control; failure of technology that affects the Company's business operations; the threat of cyber-attacks or acts of cyber-terrorism that could disrupt our business operations and information technology systems or result in the loss or exposure of confidential or sensitive customer, employee, or Company 
+ 
+ 
+ 24 
+ 
+ Table of Contents 
+ information; the impact of new cybersecurity compliance requirements; adverse weather conditions; the impact of legislation to reduce or eliminate greenhouse gas emissions or fossil fuels; the impact of climate change; the capital-intensive nature of our business; our ability to continue to access the credit and capital markets to execute our business strategy; market risks beyond our control affecting our risk management activities, including commodity price volatility, counterparty performance or creditworthiness, and interest rate risk; the concentration of our operations in Texas; the impact of adverse economic conditions on our customers; changes in the availability and price of natural gas; and increased costs of providing health care benefits, along with pension and postretirement health care benefits and increased funding requirements. Accordingly, while we believe these forward-looking statements to be reasonable, there can be no assurance that they will approximate actual experience or that the expectations derived from them will be realized. Further, we undertake no obligation to update or revise any of our forward-looking statements whether as a result of new information, future events or otherwise. 
+ 
+ CRITICAL ACCOUNTING POLICIES 
+ Our consolidated financial statements were prepared in accordance with accounting principles generally accepted in the United States. Preparation of these financial statements requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues, and expenses and the related disclosures of contingent assets and liabilities. We base our estimates on historical experience and various other assumptions that we believe to be reasonable under the circumstances. Actual results may differ from estimates. 
+ Our significant accounting policies are discussed in Note 2 to our consolidated financial statements. The accounting policies discussed below are both important to the presentation of our financial condition and results of operations and require management to make difficult, subjective, or complex accounting estimates. Accordingly, these critical accounting policies are reviewed periodically by the Audit Committee of the Board of Directors. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Critical Accounting Policy 
+ Summary of Policy 
+ Factors Influencing Application of the Policy 
+ 
+ Regulation 
+ Our distribution and pipeline operations meet the criteria of a cost-based, rate-regulated entity under accounting principles generally accepted in the United States. Accordingly, the financial results for these operations reflect the effects of the ratemaking and accounting practices and policies of the various regulatory commissions to which we are subject. As a result, certain costs that would normally be expensed under accounting principles generally accepted in the United States are permitted to be capitalized or deferred on the balance sheet because it is probable they can be recovered through rates. Further, regulation may impact the period in which revenues or expenses are recognized. The amounts expected to be recovered or recognized are based upon historical experience and our understanding of the regulations. Discontinuing the application of this method of accounting for regulatory assets and liabilities or changes in the accounting for our various regulatory mechanisms could significantly increase our operating expenses as fewer costs would likely be capitalized or deferred on the balance sheet, which could reduce our net income. 
+ 
+ Decisions of regulatory authorities 
+ 
+ Issuance of new regulations or regulatory mechanisms 
+ 
+ Assessing that the recoverability of deferred costs and utility assets is probable 
+ 
+ Continuing to meet the criteria of a cost-based, rate regulated entity for accounting purposes 
+ 
+ 
+ 
+ 25 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Critical Accounting Policy 
+ Summary of Policy 
+ Factors Influencing Application of the Policy 
+ 
+ Pension and other postretirement plans 
+ Pension and other postretirement plan costs and liabilities are determined on an actuarial basis using a September 30 measurement date and are affected by numerous assumptions and estimates including the market value of plan assets, estimates of the expected return on plan assets, assumed discount rates, and current demographic and actuarial mortality data. The assumed discount rate and the expected return are the assumptions that generally have the most significant impact on our pension costs and liabilities. The assumed discount rate, the assumed health care cost trend rate, and assumed rates of retirement generally have the most significant impact on our postretirement plan costs and liabilities. The discount rate is utilized principally in calculating the actuarial present value of our pension and postretirement obligations and net periodic pension and postretirement benefit plan costs. When establishing our discount rate, we consider high quality corporate bond rates based on bonds available in the marketplace that are suitable for settling the obligations, changes in those rates from the prior year, and the implied discount rate that is derived from matching our projected benefit disbursements with currently available high quality corporate bonds. The expected long-term rate of return on assets is utilized in calculating the expected return on plan assets component of our annual pension and postretirement plan costs. We estimate the expected return on plan assets by evaluating expected bond returns, equity risk premiums, asset allocations, the effects of active plan management, the impact of periodic plan asset rebalancing, and historical performance. We also consider the guidance from our investment advisors in making a final determination of our expected rate of return on assets. To the extent the actual rate of return on assets realized over the course of a year is greater than or less than the assumed rate, that year’s annual pension or postretirement plan costs are not affected. Rather, this gain or loss reduces or increases future pension or postretirement plan costs over a period of approximately ten to twelve years. The market-related value of our plan assets represents the fair market value of the plan assets, adjusted to smooth out short-term market fluctuations over a five-year period. The use of this methodology will delay the impact of current market fluctuations on the pension expense for the period. We estimate the assumed health care cost trend rate used in determining our postretirement net expense based upon our actual health care cost experience, the effects of recently enacted legislation and general economic conditions. Our assumed rate of retirement is estimated based upon our annual review of our participant census information as of the measurement date. 
+ 
+ General economic and market conditions 
+ 
+ Assumed investment returns by asset class 
+ 
+ Assumed future salary increases 
+ 
+ Assumed discount rate 
+ 
+ Projected timing of future cash disbursements 
+ 
+ Health care cost experience trends 
+ 
+ Participant demographic information 
+ 
+ Actuarial mortality assumptions 
+ 
+ Impact of legislation 
+ 
+ Impact of regulation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ RESULTS OF OPERATIONS 
+ Overview 
+ Atmos Energy's vision is to be the safest provider of natural gas services. Our commitment to this vision requires significant levels of capital spending to modernize our natural gas distribution system and operating costs to deliver natural gas safely and reliably and in full compliance with the various safety regulations impacting our business. We have the ability to begin recovering a significant portion of our expenditures timely through rate designs and mechanisms that reduce or eliminate regulatory lag and separate the recovery of our approved rate from customer usage patterns. The execution of our capital spending program, the ability to recover these expenditures timely and our ability to access the capital markets to satisfy our financing needs are the primary drivers that affect our financial performance. 
+ The following table details our consolidated net income by segment during the last three fiscal years: 
+ 
+ 
+ 26 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Fiscal Year Ended September 30 
+ 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ 
+ (In thousands) 
+ 
+ Distribution segment 
+ $ 
+ 671,413 
+ 
+ 
+ $ 
+ 580,397 
+ 
+ 
+ $ 
+ 521,977 
+ 
+ 
+ Pipeline and storage segment 
+ 371,482 
+ 
+ 
+ 305,465 
+ 
+ 
+ 252,421 
+ 
+ 
+ Net income 
+ $ 
+ 1,042,895 
+ 
+ 
+ $ 
+ 885,862 
+ 
+ 
+ $ 
+ 774,398 
+ 
+ During fiscal 2024, we recorded net income of $1,042.9 million, or $6.83 per diluted share, compared to net income of $885.9 million, or $6.10 per diluted share in the prior year. The year-over-year increase in net income of $157.0 million largely reflects positive rate outcomes driven by safety and reliability spending. Additionally, our fiscal 2024 results were favorably impacted by $21.1 million as a result of legislation that became effective during the first quarter of fiscal 2024 to reduce property tax expenses in Texas and $13.9 million as a result of a change to our bad debt recovery mechanism in Mississippi. These increases were partially offset by increased employee-related costs, depreciation expense, and interest expense. 
+ During the year ended September 30, 2024, we implemented ratemaking regulatory actions which resulted in an increase in annual operating income of $376.3 million. Excluding the impact of the refund of excess deferred income taxes resulting from previously enacted tax reform legislation, our total fiscal 2024 rate outcomes were $307.1 million. Additionally, we had ratemaking efforts in progress at September 30, 2024, seeking a total increase in annual operating income of $218.0 million. 
+ During fiscal year 2024, we refunded $133.6 million in excess deferred tax liabilities to customers. These refunds also reduced our income tax expense, resulting in an immaterial impact to our fiscal 2024 and 2023 results. 
+ Capital expenditures for fiscal 2024 were $2.9 billion. Approximately 83 percent was invested to improve the safety and reliability of our distribution and transportation systems, with a significant portion of this investment incurred under regulatory mechanisms that reduce regulatory lag to six months or less. 
+ During fiscal 2024, we completed approximately $2.0 billion of long-term debt and equity financing. As of September 30, 2024, our equity capitalization was 61.0 percent. As of September 30, 2024, we had approximately $4.8 billion in total liquidity, consisting of $307.3 million in cash and cash equivalents, $1,380.6 million in funds available through equity forward sales agreements, and $3,094.4 million in undrawn capacity under our credit facilities. 
+ Distribution Segment 
+ The distribution segment is comprised of our regulated natural gas distribution and related sales operations in eight states. The primary factors that impact the results of our distribution operations are our ability to earn our authorized rates of return, competitive factors in the energy industry, and economic conditions in our service areas. 
+ Our ability to earn our authorized rates is based primarily on our ability to improve the rate design in our various ratemaking jurisdictions to minimize regulatory lag and, ultimately, separate the recovery of our approved rates from customer usage patterns. Improving rate design is a long-term process and is further complicated by the fact that we operate in multiple rate jurisdictions. The “Ratemaking Activity” section of this Form 10-K describes our current rate strategy, progress towards implementing that strategy, and recent ratemaking initiatives in more detail. During fiscal 2024, we completed regulatory proceedings in our distribution segment resulting in a $266.8 million increase in annual operating income. Excluding the impact of the refund of excess deferred income taxes resulting from previously enacted tax reform legislation, our total fiscal 2024 annualized rate outcomes in our distribution segment were $234.5 million. 
+ Our distribution operations are also affected by the cost of natural gas. We are generally able to pass the cost of gas through to our customers without markup under purchased gas cost adjustment mechanisms; therefore, increases in the cost of gas are offset by a corresponding increase in revenues. Revenues in our Texas and Mississippi service areas include franchise fees and gross receipts taxes, which are calculated as a percentage of revenue (inclusive of gas costs). Therefore, the amount of these taxes included in revenues is influenced by the cost of gas and the level of gas sales volumes. We record the associated tax expense as a component of taxes, other than income. 
+ The cost of gas typically does not have a direct impact on our operating income because these costs are recovered through our purchased gas cost adjustment mechanisms. However, higher gas costs may adversely impact our accounts receivable collections, resulting in higher bad debt expense. This risk is currently mitigated by rate design that allows us to collect from our customers the gas cost portion of our bad debt expense on approximately 89 percent of our residential and commercial revenues. Additionally, higher gas costs may require us to increase borrowings under our credit facilities, resulting in higher interest expense. Finally, higher gas costs, as well as competitive factors in the industry and general economic conditions may cause customers to conserve or, in the case of industrial consumers, to use alternative energy sources. 
+ 
+ 
+ 27 
+ 
+ Table of Contents 
+ Review of Financial and Operating Results 
+ Financial and operational highlights for our distribution segment for the fiscal years ended September 30, 2024, 2023, and 2022 are presented below. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Fiscal Year Ended September 30 
+ 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ 2024 vs. 2023 
+ 
+ 2023 vs. 2022 
+ 
+ 
+ (In thousands, unless otherwise noted) 
+ 
+ Operating revenues 
+ $ 
+ 3,915,141 
+ 
+ 
+ $ 
+ 4,099,690 
+ 
+ 
+ $ 
+ 4,035,194 
+ 
+ 
+ $ 
+ (184,549) 
+ 
+ 
+ $ 
+ 64,496 
+ 
+ 
+ Purchased gas cost 
+ 1,620,515 
+ 
+ 
+ 2,061,920 
+ 
+ 
+ 2,210,302 
+ 
+ 
+ (441,405) 
+ 
+ 
+ (148,382) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating expenses 
+ 1,440,192 
+ 
+ 
+ 1,345,144 
+ 
+ 
+ 1,220,347 
+ 
+ 
+ 95,048 
+ 
+ 
+ 124,797 
+ 
+ 
+ Operating income 
+ 854,434 
+ 
+ 
+ 692,626 
+ 
+ 
+ 604,545 
+ 
+ 
+ 161,808 
+ 
+ 
+ 88,081 
+ 
+ 
+ Other non-operating income 
+ 30,106 
+ 
+ 
+ 24,988 
+ 
+ 
+ 6,946 
+ 
+ 
+ 5,118 
+ 
+ 
+ 18,042 
+ 
+ 
+ Interest charges 
+ 117,086 
+ 
+ 
+ 77,185 
+ 
+ 
+ 49,921 
+ 
+ 
+ 39,901 
+ 
+ 
+ 27,264 
+ 
+ 
+ 
+ Income before income taxes 
+ 767,454 
+ 
+ 
+ 640,429 
+ 
+ 
+ 561,570 
+ 
+ 
+ 127,025 
+ 
+ 
+ 78,859 
+ 
+ 
+ Income tax expense 
+ 96,041 
+ 
+ 
+ 60,032 
+ 
+ 
+ 39,593 
+ 
+ 
+ 36,009 
+ 
+ 
+ 20,439 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net income 
+ $ 
+ 671,413 
+ 
+ 
+ $ 
+ 580,397 
+ 
+ 
+ $ 
+ 521,977 
+ 
+ 
+ $ 
+ 91,016 
+ 
+ 
+ $ 
+ 58,420 
+ 
+ 
+ 
+ Consolidated distribution sales volumes — MMcf 
+ 283,977 
+ 
+ 
+ 289,948 
+ 
+ 
+ 292,266 
+ 
+ 
+ (5,971) 
+ 
+ 
+ (2,318) 
+ 
+ 
+ 
+ Consolidated distribution transportation volumes — MMcf 
+ 156,389 
+ 
+ 
+ 152,963 
+ 
+ 
+ 152,709 
+ 
+ 
+ 3,426 
+ 
+ 
+ 254 
+ 
+ 
+ 
+ Total consolidated distribution throughput — MMcf 
+ 440,366 
+ 
+ 
+ 442,911 
+ 
+ 
+ 444,975 
+ 
+ 
+ (2,545) 
+ 
+ 
+ (2,064) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Consolidated distribution average cost of gas per Mcf sold 
+ $ 
+ 5.71 
+ 
+ 
+ $ 
+ 7.11 
+ 
+ 
+ $ 
+ 7.56 
+ 
+ 
+ $ 
+ (1.40) 
+ 
+ 
+ $ 
+ (0.45) 
+ 
+ 
+ Fiscal year ended September 30, 2024 compared with fiscal year ended September 30, 2023 
+ Operating income for our distribution segment increased 23.4 percent. Key drivers for the change in operating income include: 
+ • a $219.2 million increase in rate adjustments, primarily in our Mid-Tex Division. 
+ • a $24.8 million increase related to residential customer growth, primarily in our Mid-Tex Division, and increased industrial load. 
+ • a $10.6 million decrease in bad debt expense, as discussed in Note 6 to the consolidated financial statements. 
+ Partially offset by: 
+ • a $50.0 million increase in depreciation expense associated with increased capital investments. 
+ • a $19.9 million increase in employee-related costs primarily due to an increase in headcount to support company growth. 
+ • a $2.7 million increase in property taxes, which is inclusive of a $15.7 million decrease related to the Texas property tax legislation discussed above. 
+ • a $26.9 million increase in other operation and maintenance expense, including higher costs associated with software maintenance, compliance activities, training, and other administrative costs. 
+ Interest charges increased $39.9 million primarily due to the issuance of long-term debt during fiscal 2024. The increase in interest charges is also due to the amortization of the Texas regulatory asset that is discussed in Note 3 to the consolidated financial statements. However, this increase is offset by a corresponding increase in revenue resulting in no impact to net income. 
+ The fiscal year ended September 30, 2023 compared with fiscal year ended September 30, 2022 for our distribution segment is described in ITEM 7 "Management's Discussion and Analysis of Financial Condition and Results of Operations" of our Annual Report on Form 10-K for the fiscal year ended September 30, 2023. 
+ The following table shows our operating income by distribution division, in order of total rate base, for the fiscal years ended September 30, 2024, 2023, and 2022. The presentation of our distribution operating income is included for financial reporting purposes and may not be appropriate for ratemaking purposes. 
+ 
+ 
+ 28 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Fiscal Year Ended September 30 
+ 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ 2024 vs. 2023 
+ 
+ 2023 vs. 2022 
+ 
+ 
+ (In thousands) 
+ 
+ Mid-Tex 
+ $ 
+ 464,616 
+ 
+ 
+ $ 
+ 345,545 
+ 
+ 
+ $ 
+ 315,644 
+ 
+ 
+ $ 
+ 119,071 
+ 
+ 
+ $ 
+ 29,901 
+ 
+ 
+ Kentucky/Mid-States 
+ 90,601 
+ 
+ 
+ 87,258 
+ 
+ 
+ 84,098 
+ 
+ 
+ 3,343 
+ 
+ 
+ 3,160 
+ 
+ 
+ Louisiana 
+ 94,362 
+ 
+ 
+ 80,942 
+ 
+ 
+ 73,486 
+ 
+ 
+ 13,420 
+ 
+ 
+ 7,456 
+ 
+ 
+ West Texas 
+ 72,929 
+ 
+ 
+ 62,351 
+ 
+ 
+ 53,604 
+ 
+ 
+ 10,578 
+ 
+ 
+ 8,747 
+ 
+ 
+ Mississippi 
+ 97,512 
+ 
+ 
+ 78,517 
+ 
+ 
+ 65,947 
+ 
+ 
+ 18,995 
+ 
+ 
+ 12,570 
+ 
+ 
+ Colorado-Kansas 
+ 42,816 
+ 
+ 
+ 40,674 
+ 
+ 
+ 26,000 
+ 
+ 
+ 2,142 
+ 
+ 
+ 14,674 
+ 
+ 
+ Other 
+ (8,402) 
+ 
+ 
+ (2,661) 
+ 
+ 
+ (14,234) 
+ 
+ 
+ (5,741) 
+ 
+ 
+ 11,573 
+ 
+ 
+ Total 
+ $ 
+ 854,434 
+ 
+ 
+ $ 
+ 692,626 
+ 
+ 
+ $ 
+ 604,545 
+ 
+ 
+ $ 
+ 161,808 
+ 
+ 
+ $ 
+ 88,081 
+ 
+ Pipeline and Storage Segment 
+ Our pipeline and storage segment consists of the pipeline and storage operations of our Atmos Pipeline–Texas Division (APT) and our natural gas transmission operations in Louisiana. APT is one of the largest intrastate pipeline operations in Texas with a heavy concentration in the established natural gas producing areas of central, northern, and eastern Texas, extending into or near the major producing areas of the Barnett Shale, the Texas Gulf Coast, and the Permian Basin of West Texas. APT provides transportation and storage services to our Mid-Tex Division, other third-party local distribution companies, industrial, and electric generation customers, as well as marketers and producers. Over 80 percent of this segment's revenues are derived from these APT services. These revenues are subject to traditional ratemaking governed by the Texas Railroad Commission (RRC). As part of its pipeline operations, APT owns and operates five underground storage facilities in Texas. 
+ Our natural gas transmission operations in Louisiana are comprised of a 21-mile pipeline located in the New Orleans, Louisiana area that is primarily used to aggregate gas supply for our distribution division in Louisiana under a long-term contract and, on a more limited basis, to third parties. The demand fee charged to our Louisiana distribution division for these services is subject to regulatory approval by the Louisiana Public Service Commission. We also manage two asset management plans, which have been approved by applicable state regulatory commissions. Generally, these asset management plans require us to share with our distribution customers a significant portion of the cost savings earned from these arrangements. 
+ Our pipeline and storage segment is impacted by seasonal weather patterns, competitive factors in the energy industry, and economic conditions in our Texas and Louisiana service areas. Natural gas prices do not directly impact the results of this segment as revenues are derived from the transportation and storage of natural gas. However, natural gas prices and demand for natural gas could influence the level of drilling activity in the supply areas that we serve, which may influence the level of throughput we may be able to transport on our pipelines. Further, natural gas price differences between the various hubs that we serve in Texas could influence the volumes of gas transported for shippers through our Texas pipeline system and rates for such transportation. 
+ The results of APT are also significantly impacted by the natural gas requirements of its local distribution company customers. Additionally, its operations may be impacted by the timing of when costs and expenses are incurred and when these costs and expenses are recovered through its tariffs. 
+ APT annually uses GRIP to recover capital costs incurred in the prior calendar year. On February 27, 2024, APT made a GRIP filing that covered changes in net property, plant and equipment investment from January 1, 2023 through December 31, 2023 with a requested increase in operating income of $82.4 million. On May 14, 2024, the Texas Railroad Commission (RRC) approved the Company's GRIP filing. 
+ Additionally, GRIP requires a utility to file a statement of intent at least once every five years to review its costs and expenses, including capital costs filed for recovery under GRIP. On May 19, 2023, APT filed its statement of intent seeking $107.4 million in additional annual operating income. On December 13, 2023, the RRC approved the settlement agreement between APT and the intervening parties for an increase in annual operating income of $27.0 million, exclusive of the impact of the cessation of $36.9 million in excess deferred income tax refunds, which are substantially offset by a corresponding increase in income taxes. New rates were implemented effective December 13, 2023. 
+ The demand fee our Louisiana natural gas transmission pipeline charges to our Louisiana distribution division increases five percent annually and has been approved by the Louisiana Public Service Commission until September 30, 2027. 
+ Review of Financial and Operating Results 
+ Financial and operational highlights for our pipeline and storage segment for the fiscal years ended September 30, 2024, 2023, and 2022 are presented below. 
+ 
+ 
+ 29 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Fiscal Year Ended September 30 
+ 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ 2024 vs. 2023 
+ 
+ 2023 vs. 2022 
+ 
+ 
+ (In thousands, unless otherwise noted) 
+ 
+ Mid-Tex / Affiliate transportation revenue 
+ $ 
+ 715,117 
+ 
+ 
+ $ 
+ 621,987 
+ 
+ 
+ $ 
+ 546,038 
+ 
+ 
+ $ 
+ 93,130 
+ 
+ 
+ $ 
+ 75,949 
+ 
+ 
+ Third-party transportation revenue 
+ 210,568 
+ 
+ 
+ 154,018 
+ 
+ 
+ 136,907 
+ 
+ 
+ 56,550 
+ 
+ 
+ 17,111 
+ 
+ 
+ Other revenue 
+ 12,344 
+ 
+ 
+ 9,169 
+ 
+ 
+ 10,715 
+ 
+ 
+ 3,175 
+ 
+ 
+ (1,546) 
+ 
+ 
+ Total operating revenues 
+ 938,029 
+ 
+ 
+ 785,174 
+ 
+ 
+ 693,660 
+ 
+ 
+ 152,855 
+ 
+ 
+ 91,514 
+ 
+ 
+ Total purchased gas cost 
+ 146 
+ 
+ 
+ (1,220) 
+ 
+ 
+ (1,583) 
+ 
+ 
+ 1,366 
+ 
+ 
+ 363 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating expenses 
+ 436,955 
+ 
+ 
+ 411,873 
+ 
+ 
+ 378,806 
+ 
+ 
+ 25,082 
+ 
+ 
+ 33,067 
+ 
+ 
+ Operating income 
+ 500,928 
+ 
+ 
+ 374,521 
+ 
+ 
+ 316,437 
+ 
+ 
+ 126,407 
+ 
+ 
+ 58,084 
+ 
+ 
+ Other non-operating income 
+ 40,940 
+ 
+ 
+ 44,787 
+ 
+ 
+ 26,791 
+ 
+ 
+ (3,847) 
+ 
+ 
+ 17,996 
+ 
+ 
+ Interest charges 
+ 73,546 
+ 
+ 
+ 60,096 
+ 
+ 
+ 52,890 
+ 
+ 
+ 13,450 
+ 
+ 
+ 7,206 
+ 
+ 
+ Income before income taxes 
+ 468,322 
+ 
+ 
+ 359,212 
+ 
+ 
+ 290,338 
+ 
+ 
+ 109,110 
+ 
+ 
+ 68,874 
+ 
+ 
+ Income tax expense 
+ 96,840 
+ 
+ 
+ 53,747 
+ 
+ 
+ 37,917 
+ 
+ 
+ 43,093 
+ 
+ 
+ 15,830 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net income 
+ $ 
+ 371,482 
+ 
+ 
+ $ 
+ 305,465 
+ 
+ 
+ $ 
+ 252,421 
+ 
+ 
+ $ 
+ 66,017 
+ 
+ 
+ $ 
+ 53,044 
+ 
+ 
+ Gross pipeline transportation volumes — MMcf 
+ 831,534 
+ 
+ 
+ 834,847 
+ 
+ 
+ 776,608 
+ 
+ 
+ (3,313) 
+ 
+ 
+ 58,239 
+ 
+ 
+ 
+ Consolidated pipeline transportation volumes — MMcf 
+ 635,728 
+ 
+ 
+ 635,508 
+ 
+ 
+ 580,488 
+ 
+ 
+ 220 
+ 
+ 
+ 55,020 
+ 
+ Fiscal year ended September 30, 2024 compared with fiscal year ended September 30, 2023 
+ Operating income for our pipeline and storage segment increased 33.8 percent. Key drivers for the change in operating income include: 
+ • a $68.4 million increase due to rate adjustments from the GRIP filings approved in May 2023 and 2024, and the rate case approved in December 2023. 
+ • a $39.0 million net increase in APT's through-system activities primarily associated with increased spreads. 
+ • a $27.8 million decrease in refunds of excess deferred taxes to customers, which is substantially offset in income tax expense. 
+ • a $14.5 million increase due to higher capacity contracted by tariff-based customers due to their increased peak day demand. 
+ • a $3.1 million decrease in property taxes, which is inclusive of a $5.4 million decrease related to the Texas property tax legislation discussed above. 
+ Partially offset by: 
+ • an $8.4 million increase in depreciation expense associated with increased capital investments. 
+ • an $18.1 million increase in operation and maintenance expense due to increased storage and compression maintenance and other compliance-related activities. 
+ Interest charges increased $13.5 million primarily due to the issuance of long-term debt during fiscal 2024. 
+ The fiscal year ended September 30, 2023 compared with fiscal year ended September 30, 2022 for our pipeline and storage segment is described in ITEM 7 "Management's Discussion and Analysis of Financial Condition and Results of Operations" of our Annual Report on Form 10-K for the fiscal year ended September 30, 2023. 
+ 
+ 
+ 
+ 30 
+ 
+ 
+ Table of Contents 
+ 
+ LIQUIDITY AND CAPITAL RESOURCES 
+ The liquidity required to fund our working capital, capital expenditures, and other cash needs is provided from a combination of internally generated cash flows and external debt and equity financing. Additionally, we have a $1.5 billion commercial paper program and four committed revolving credit facilities with $3.1 billion in total availability from third-party lenders. The commercial paper program and credit facilities provide cost-effective, short-term financing until it can be replaced with a balance of long-term debt and equity financing that achieves the Company's desired capital structure. Additionally, we have various uncommitted trade credit lines with our gas suppliers that we utilize to purchase natural gas on a monthly basis. 
+ We have a shelf registration statement on file with the Securities and Exchange Commission (SEC) that allows us to issue up to $5.0 billion in common stock and/or debt securities. As of the date of this report, $1.1 billion of securities remained available for issuance under the shelf registration statement, which expires March 31, 2026. 
+ We also have an at-the-market (ATM) equity sales program that allows us to issue and sell shares of our common stock up to an aggregate offering price of $1.0 billion (including shares of common stock that may be sold pursuant to forward sale agreements entered into in connection with the ATM equity sales program), which expires March 31, 2026. As of the date of this report, $10.0 million of equity is available for issuance under this ATM equity sales program. Additionally, as of September 30, 2024, we had $1.4 billion in available proceeds from outstanding forward sale agreements issued under the ATM program. 
+ In the first half of fiscal 2025, we anticipate filing a new $8.0 billion shelf registration statement and a prospectus supplement under this new shelf registration statement for a new $1.7 billion ATM equity sales program to replace the former arrangements. 
+ As of September 30, 2024, we had the following forward starting interest rate swaps in place to hedge future planned debt issuances: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Planned Debt Issuance Date 
+ 
+ Amount Hedged 
+ 
+ Effective Interest Rate 
+ 
+ 
+ 
+ (In thousands) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fiscal 2026 
+ 
+ $ 
+ 300,000 
+ 
+ 
+ 2.16 
+ % 
+ 
+ 
+ 
+ $ 
+ 300,000 
+ 
+ 
+ 
+ The liquidity provided by these sources is expected to be sufficient to fund the Company's working capital needs and capital expenditures program. Additionally, we expect to continue to be able to obtain financing upon reasonable terms as necessary. 
+ The following table presents our capitalization as of September 30, 2024 and 2023: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ September 30 
+ 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ 
+ (In thousands, except percentages) 
+ 
+ Short-term debt 
+ $ 
+ — 
+ 
+ 
+ — 
+ % 
+ 
+ $ 
+ 241,933 
+ 
+ 
+ 1.4 
+ % 
+ 
+ 
+ Long-term debt (1) 
+ 7,785,297 
+ 
+ 
+ 39.0 
+ % 
+ 
+ 6,555,701 
+ 
+ 
+ 37.1 
+ % 
+ 
+ Shareholders’ equity 
+ 12,157,669 
+ 
+ 
+ 61.0 
+ % 
+ 
+ 10,870,064 
+ 
+ 
+ 61.5 
+ % 
+ 
+ Total capitalization, including short-term debt 
+ $ 
+ 19,942,966 
+ 
+ 
+ 100.0 
+ % 
+ 
+ $ 
+ 17,667,698 
+ 
+ 
+ 100.0 
+ % 
+ (1) Inclusive of our finance leases, but exclusive of AEK's securitized long-term debt. 
+ 
+ 
+ Cash Flows 
+ Our internally generated funds may change in the future due to a number of factors, some of which we cannot control. These factors include regulatory changes, the price for our services, the demand for such products and services, margin requirements resulting from significant changes in commodity prices, operational risks, and other factors. 
+ Cash flows from operating, investing, and financing activities for the years ended September 30, 2024, 2023, and 2022 are presented below. 
+ 
+ 
+ 31 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Fiscal Year Ended September 30 
+ 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ 2024 vs. 2023 
+ 
+ 2023 vs. 2022 
+ 
+ 
+ (In thousands) 
+ 
+ Total cash provided by (used in) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating activities 
+ $ 
+ 1,733,746 
+ 
+ 
+ $ 
+ 3,459,743 
+ 
+ 
+ $ 
+ 977,584 
+ 
+ 
+ $ 
+ (1,725,997) 
+ 
+ 
+ $ 
+ 2,482,159 
+ 
+ 
+ Investing activities 
+ (2,922,769) 
+ 
+ 
+ (2,795,280) 
+ 
+ 
+ (2,429,958) 
+ 
+ 
+ (127,489) 
+ 
+ 
+ (365,322) 
+ 
+ 
+ Financing activities 
+ 1,478,631 
+ 
+ 
+ (696,769) 
+ 
+ 
+ 1,387,205 
+ 
+ 
+ 2,175,400 
+ 
+ 
+ (2,083,974) 
+ 
+ 
+ Change in cash and cash equivalents and restricted cash and cash equivalents 
+ 289,608 
+ 
+ 
+ (32,306) 
+ 
+ 
+ (65,169) 
+ 
+ 
+ 321,914 
+ 
+ 
+ 32,863 
+ 
+ 
+ Cash and cash equivalents and restricted cash and cash equivalents at beginning of period 
+ 19,248 
+ 
+ 
+ 51,554 
+ 
+ 
+ 116,723 
+ 
+ 
+ (32,306) 
+ 
+ 
+ (65,169) 
+ 
+ 
+ Cash and cash equivalents and restricted cash and cash equivalents at end of period 
+ $ 
+ 308,856 
+ 
+ 
+ $ 
+ 19,248 
+ 
+ 
+ $ 
+ 51,554 
+ 
+ 
+ $ 
+ 289,608 
+ 
+ 
+ $ 
+ (32,306) 
+ 
+ Cash flows for the fiscal year ended September 30, 2023 compared with fiscal year ended September 30, 2022 is described in ITEM 7 "Management's Discussion and Analysis of Financial Condition and Results of Operations" of our Annual Report on Form 10-K for the fiscal year ended September 30, 2023. 
+ Cash flows from operating activities 
+ For the fiscal year ended September 30, 2024, cash flow provided by operating activities was $1,733.7 million compared with $3,459.7 million in the prior year. Fiscal 2023 operating cash flow included $2,021.9 million of cash received as a result of the conclusion of Texas securitization proceedings. Excluding this cash inflow, operating cash flow in fiscal 2023 was $1,437.8 million, and the year-over-year increase in operating cash flow primarily reflects the positive effects of successful rate case outcomes achieved in fiscal 2024 and 2023. 
+ Cash flows from investing activities 
+ Our capital expenditures are primarily used to improve the safety and reliability of our distribution and transmission system through pipeline replacement and system modernization and to enhance and expand our system to meet customer needs. Over the last three fiscal years, approximately 86 percent of our capital spending has been committed to improving the safety and reliability of our system. 
+ For the fiscal year ended September 30, 2024, we had $2.9 billion in capital expenditures compared with $2.8 billion for the fiscal year ended September 30, 2023. Capital spending in our distribution segment increased $322.2 million, primarily as a result of increased system modernization and customer growth spending. Capital spending in our pipeline and storage segment decreased $191.0 million, primarily due to the timing of spending for pipeline system safety and reliability in Texas. 
+ Cash flows from financing activities 
+ Our financing activities provided $1,478.6 million of cash for fiscal year 2024 compared with $696.8 million of cash used by financing activities for fiscal year 2023. 
+ During the fiscal year ended September 30, 2024, we received approximately $2.0 billion in net proceeds from the issuance of long-term debt and equity. We completed a public offering of $500 million of 6.20% senior notes due October 2053 and $400 million of 5.90% senior notes due October 2033, and received net proceeds from the offering, after the underwriting discount and offering expenses, of $889.4 million. We also completed a public offering of $325 million of 5.90% senior notes due October 2033, and received net proceeds from the offering, after the underwriting discount and offering expenses, of $339.0 million. Additionally, during the fiscal year ended September 30, 2024, we settled 6,401,469 shares that had been sold on a forward basis for net proceeds of $750.0 million. The net proceeds were used primarily to support capital spending and for other general corporate purposes. We also received $231.1 million from the settlement of forward starting interest rate swaps related to a debt issuance completed in October 2024. Cash dividends increased due to an 8.8 percent increase in our dividend rate and an increase in shares outstanding. 
+ During the fiscal year ended September 30, 2023, we repaid $2.2 billion in long-term debt, and we received approximately $1.6 billion in net proceeds from the issuance of long-term debt and equity. We completed a public offering of $500 million of 5.75% senior notes due October 2052 and $300 million of 5.45% senior notes due October 2032, and received net proceeds from the offering, after the underwriting discount and offering expenses, of $789.4 million. Additionally, during the year ended September 30, 2023, we settled 7,272,261 shares that had been sold on a forward basis for net proceeds of $806.9 million. The net proceeds were used primarily to support capital spending and for other general corporate purposes. We also received $171.1 million from the settlement of forward starting interest rate swaps related to a debt issuance completed in October 2023. Cash dividends increased due to an 8.8 percent increase in our dividend rate and an increase in shares 
+ 
+ 
+ 32 
+ 
+ Table of Contents 
+ outstanding. Finally, Atmos Energy Kansas Securitization I, LLC, a special-purpose, wholly-owned subsidiary of Atmos Energy, issued $95 million in securitized long-term debt. 
+ The following table shows the number of shares issued for the fiscal years ended September 30, 2024, 2023, and 2022: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Fiscal Year Ended September 30 
+ 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ 2022 
+ 
+ Shares issued: 
+ 
+ 
+ 
+ 
+ 
+ 
+ Direct Stock Purchase Plan 
+ 60,756 
+ 
+ 
+ 64,871 
+ 
+ 
+ 68,693 
+ 
+ 
+ Retirement Savings Plan and Trust 
+ 67,134 
+ 
+ 
+ 69,716 
+ 
+ 
+ 72,339 
+ 
+ 
+ 1998 Long-Term Incentive Plan (LTIP) 
+ 236,703 
+ 
+ 
+ 189,337 
+ 
+ 
+ 427,929 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Equity Issuance (1) 
+ 6,401,469 
+ 
+ 
+ 7,272,261 
+ 
+ 
+ 7,907,883 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total shares issued 
+ 6,766,062 
+ 
+ 
+ 7,596,185 
+ 
+ 
+ 8,476,844 
+ 
+ (1) Share amounts do not include shares issued under forward sale agreements until the shares have been settled. 
+ 
+ Credit Ratings 
+ Our credit ratings directly affect our ability to obtain short-term and long-term financing, in addition to the cost of such financing. In determining our credit ratings, the rating agencies consider a number of quantitative factors, including but not limited to, debt to total capitalization, operating cash flow relative to outstanding debt, operating cash flow coverage of interest, and operating cash flow less dividends to debt. In addition, the rating agencies consider qualitative factors such as consistency of our earnings over time, the risks associated with our business, and the regulatory structures that govern our rates in the states where we operate. 
+ Our debt is rated by two rating agencies: Standard & Poor’s Corporation (S&P) and Moody’s Investors Service (Moody’s). On April 1, 2024, Moody's reaffirmed its long-term and short-term credit ratings and placed our ratings under negative outlook. As of September 30, 2024, our outlook and current debt ratings, which are all considered investment grade, are as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ S&P 
+ 
+ 
+ Moody’s 
+ 
+ 
+ 
+ 
+ Senior unsecured long-term debt 
+ 
+ A- 
+ 
+ 
+ A1 
+ 
+ 
+ 
+ 
+ Short-term debt 
+ 
+ A-2 
+ 
+ 
+ P-1 
+ 
+ 
+ 
+ 
+ Outlook 
+ 
+ Stable 
+ 
+ 
+ Negative 
+ 
+ 
+ 
+ 
+ A significant degradation in our operating performance or a significant reduction in our liquidity caused by more limited access to the private and public credit markets as a result of deteriorating global or national financial and credit conditions could trigger a negative change in our ratings outlook or even a reduction in our credit ratings by the two credit rating agencies. This would mean more limited access to the private and public credit markets and an increase in the costs of such borrowings. 
+ A credit rating is not a recommendation to buy, sell or hold securities. The highest investment grade credit rating is AAA for S&P and Aaa for Moody’s. The lowest investment grade credit rating is BBB- for S&P and Baa3 for Moody’s. Our credit ratings may be revised or withdrawn at any time by the rating agencies, and each rating should be evaluated independently of any other rating. There can be no assurance that a rating will remain in effect for any given period of time or that a rating will not be lowered, or withdrawn entirely, by a rating agency if, in its judgment, circumstances so warrant. 
+ 
+ Debt Covenants 
+ We were in compliance with all of our debt covenants as of September 30, 2024. Our debt covenants are described in Note 8 to the consolidated financial statements. 
+ 
+ 
+ Contractual Obligations and Commercial Commitments 
+ The following table provides information about contractual obligations and commercial commitments at September 30, 2024. 
+ 
+ 
+ 33 
+ 
+ Table of Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Payments Due by Period 
+ 
+ 
+ Total 
+ 
+ Less than 1 year 
+ 
+ 1-3 years 
+ 
+ 3-5 years 
+ 
+ More than 5 years 
+ 
+ 
+ 
+ 
+ 
+ 
+ (In thousands) 
+ 
+ 
+ 
+ 
+ 
+ Contractual Obligations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Long-term debt (1) 
+ $ 
+ 7,785,000 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ 510,000 
+ 
+ 
+ $ 
+ 650,000 
+ 
+ 
+ $ 
+ 6,625,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Securitized long-term debt 
+ 85,078 
+ 
+ 
+ 8,207 
+ 
+ 
+ 17,721 
+ 
+ 
+ 19,621 
+ 
+ 
+ 39,529 
+ 
+ 
+ 
+ Interest charges (2) 
+ 5,854,623 
+ 
+ 
+ 318,117 
+ 
+ 
+ 635,037 
+ 
+ 
+ 592,054 
+ 
+ 
+ 4,309,415 
+ 
+ 
+ Interest charges on securitized long-term debt 
+ 21,071 
+ 
+ 
+ 4,281 
+ 
+ 
+ 7,255 
+ 
+ 
+ 5,356 
+ 
+ 
+ 4,179 
+ 
+ 
+ 
+ Finance leases (3) 
+ 66,506 
+ 
+ 
+ 3,438 
+ 
+ 
+ 7,070 
+ 
+ 
+ 7,338 
+ 
+ 
+ 48,660 
+ 
+ 
+ 
+ Operating leases (4) 
+ 320,408 
+ 
+ 
+ 43,244 
+ 
+ 
+ 73,917 
+ 
+ 
+ 56,419 
+ 
+ 
+ 146,828 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Financial instrument obligations (5) 
+ 7,637 
+ 
+ 
+ 7,324 
+ 
+ 
+ 313 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ 
+ Pension and postretirement benefit plan contributions (6) 
+ 273,428 
+ 
+ 
+ 27,596 
+ 
+ 
+ 51,411 
+ 
+ 
+ 65,310 
+ 
+ 
+ 129,111 
+ 
+ 
+ 
+ Uncertain tax positions (7) 
+ 57,797 
+ 
+ 
+ — 
+ 
+ 
+ 57,797 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ 
+ Total contractual obligations 
+ $ 
+ 14,471,548 
+ 
+ 
+ $ 
+ 412,207 
+ 
+ 
+ $ 
+ 1,360,521 
+ 
+ 
+ $ 
+ 1,396,098 
+ 
+ 
+ $ 
+ 11,302,722 
+ 
+ 
+ (1) Long-term debt excludes our finance lease obligations, which are separately reported within this table. See Note 8 to the consolidated financial statements for further details. 
+ (2) Interest charges were calculated using the coupon rate for each debt issuance through the contractual maturity date. 
+ (3) Finance lease payments shown above include interest totaling $17.6 million. See Note 7 to the consolidated financial statements. 
+ (4) Operating lease payments shown above include interest totaling $61.6 million. S ee Note 7 to the consolidated financial statements. 
+ (5) Represents liabilities for natural gas commodity financial instruments that were valued as of September 30, 2024. The ultimate settlement amounts of these remaining liabilities are unknown because they are subject to continuing market risk until the financial instruments are settled. 
+ (6) Represents expected contributions to our defined benefit and postretirement benefit plans, which are discussed in Note 11 to the consolidated financial statements. 
+ (7) Represents liabilities associated with uncertain tax positions claimed or expected to be claimed on tax returns. The amount does not include interest and penalties that may be applied to these positions. See Note 15 to the consolidated financial statements for further details. 
+ 
+ We maintain supply contracts with several vendors that generally cover a period of up to one year. Commitments for estimated base gas volumes are established under these contracts on a monthly basis at contractually negotiated prices. Commitments for incremental daily purchases are made as necessary during the month in accordance with the terms of individual contracts. Our Mid-Tex Division also maintains a limited number of long-term supply contracts to ensure a reliable source of gas for our customers in its service area which obligate it to purchase specified volumes at market and fixed prices. At September 30, 2024, we were committed to purchase 25.9 Bcf within one year and 38.7 Bcf within two to three years under indexed contracts. At September 30, 2024, we were committed to purchase 6.8 Bcf within one year under fixed price contracts with a weighted average price of $3.10 per Mcf. 
+ 
+ Risk Management Activities 
+ In our distribution and pipeline and storage segments, we use a combination of physical storage, fixed physical contracts, and fixed financial contracts to reduce our exposure to unusually large winter-period gas price increases. Additionally, we manage interest rate risk by entering into financial instruments to effectively fix the Treasury yield component of the interest cost associated with anticipated financings. 
+ We record our financial instruments as a component of risk management assets and liabilities, which are classified as current or noncurrent based upon the anticipated settlement date of the underlying financial instrument. Substantially all of our financial instruments are valued using external market quotes and indices. 
+ The following table shows the components of the change in fair value of our financial instruments for the fiscal year ended September 30, 2024 (in thousands): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fair value of contracts at September 30, 2023 
+ $ 
+ 370,256 
+ 
+ 
+ Contracts realized/settled 
+ (264,650) 
+ 
+ 
+ Fair value of new contracts 
+ 4,790 
+ 
+ 
+ Other changes in value 
+ (21,745) 
+ 
+ 
+ Fair value of contracts at September 30, 2024 
+ 88,651 
+ 
+ 
+ Netting of cash collateral 
+ — 
+ 
+ 
+ Cash collateral and fair value of contracts at September 30, 2024 
+ $ 
+ 88,651 
+ 
+ 
+ 
+ 34 
+ 
+ Table of Contents 
+ The fair value of our financial instruments at September 30, 2024, is presented below by time period and fair value source: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Fair Value of Contracts at September 30, 2024 
+ 
+ 
+ Maturity in years 
+ 
+ 
+ 
+ Source of Fair Value 
+ Less than 1 
+ 
+ 1-3 
+ 
+ 4-5 
+ 
+ Greater than 5 
+ 
+ Total Fair Value 
+ 
+ 
+ (In thousands) 
+ 
+ Prices actively quoted 
+ $ 
+ (5,233) 
+ 
+ 
+ $ 
+ 93,884 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ 88,651 
+ 
+ 
+ Prices based on models and other valuation methods 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ Total Fair Value 
+ $ 
+ (5,233) 
+ 
+ 
+ $ 
+ 93,884 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ 88,651 
+ 
+ 
+ 
+ RECENT ACCOUNTING DEVELOPMENTS 
+ Recent accounting developments and their impact on our financial position, results of operations and cash flows are described in Note 2 to the consolidated financial statements. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

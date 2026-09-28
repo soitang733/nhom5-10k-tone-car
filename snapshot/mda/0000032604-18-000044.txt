@@ -1,0 +1,2420 @@
+ ITEM 7 - MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+ 
+ 
+ 12 
+ 
+ 
+ 
+ 
+ 
+ 
+ Safe Harbor Statement 
+ 
+ This Annual Report on Form 10-K contains various forward-looking statements and includes assumptions concerning Emerson's operations, future results and prospects. These forward-looking statements are based on current expectations and are subject to risks and uncertainties. Emerson undertakes no obligation to update any such statements to reflect later developments. In connection with the “safe harbor” provisions of the Private Securities Litigation Reform Act of 1995, Emerson provides the cautionary statements set forth under ITEM 1A - “Risk Factors,” which are hereby incorporated by reference and identify important economic, political and technological factors, among others, changes in which could cause the actual results or events to differ materially from those set forth in or implied by the forward-looking statements and related assumptions. 
+ 
+ 
+ Non-GAAP Financial Measures 
+ To supplement the Company’s financial information presented in accordance with U.S. generally accepted accounting principles (U.S. GAAP), management periodically uses certain “non-GAAP financial measures,” as such term is defined in Regulation G under SEC rules, to clarify and enhance understanding of past performance and prospects for the future. Generally, a non-GAAP financial measure is a numerical measure of a company’s operating performance, financial position or cash flows that excludes or includes amounts that are included in or excluded from the most directly comparable measure calculated and presented in accordance with U.S. GAAP. For example, non-GAAP measures may exclude the impact of certain items such as our strategic repositioning actions, other acquisitions or divestitures, U.S. tax reform, changes in reporting segments, gains, losses and impairments, or items outside of management’s control, such as foreign currency exchange rate fluctuations. Management believes that the following non-GAAP financial measures provide investors and analysts useful insight into the Company’s financial position and operating performance. Any non-GAAP measure provided should be viewed in addition to, and not as an alternative to, the most directly comparable measure determined in accordance with U.S. GAAP, as identified in italics below. Further, the calculation of these non-GAAP financial measures may differ from the calculation of similarly titled financial measures presented by other companies and therefore may not be comparable among companies. 
+ Underlying sales, which exclude the impact of acquisitions, divestitures and fluctuations in foreign currency exchange rates during the periods presented, are provided to facilitate relevant period-to-period comparisons of sales growth by excluding those items that impact overall comparability (U.S. GAAP measure: net sales ). 
+ Operating profit (defined as net sales less cost of sales and selling, general and administrative expenses) and operating profit margin (defined as operating profit divided by net sales) are indicative of short-term operational performance and ongoing profitability. Management closely monitors operating profit and operating profit margin of each business to evaluate past performance and actions required to improve profitability. EBIT (defined as earnings before deductions for interest expense, net and income taxes) and total segment EBIT, and EBIT margin (defined as EBIT divided by net sales) and total segment EBIT margin, are commonly used financial measures that exclude the impact of financing on the capital structure and income taxes. All these measures are utilized by management to evaluate performance (U.S. GAAP measures: pretax earnings or pretax profit margin ). 
+ Earnings, earnings per share, return on common stockholders’ equity and return on total capital excluding certain gains and losses, impairments, costs, impacts of the strategic portfolio repositioning actions and other acquisitions or divestitures, impacts of U.S. tax reform, or other items provide additional insight into the underlying, ongoing operating performance of the Company and facilitate period-to-period comparisons by excluding the earnings impact of these items. Management believes that presenting earnings, earnings per share, return on common stockholders' equity and return on total capital excluding these items is more representative of the Company’s operational performance and may be more useful for investors (U.S. GAAP measures: earnings, earnings per share, return on common stockholders’ equity, return on total capital ). 
+ Free cash flow (operating cash flow less capital expenditures) and free cash flow as a percent of net sales are indicators of the Company’s cash generating capabilities, and dividends as a percent of free cash flow is an indicator of the Company's ability to support its dividend, after considering investments in capital assets which are necessary to maintain and enhance existing operations. The determination of operating cash flow adds back noncash depreciation expense to earnings and thereby does not reflect a charge for necessary capital expenditures. Management believes that free cash flow, free cash flow as a percent of net sales and dividends as a percent of free cash flow are useful to both management and investors as measures of the Company’s ability to generate cash and support its dividend (U.S. GAAP measure: operating cash flow, operating cash flow as a percent of net sales, dividends as a percent of operating cash flow ). 
+ 
+ 
+ 13 
+ 
+ 
+ 
+ 
+ 
+ 
+ FINANCIAL REVIEW 
+ Report of Management 
+ The Company's management is responsible for the integrity and accuracy of the financial statements. Management believes that the financial statements for the three years ended September 30, 2018 have been prepared in conformity with U.S. generally accepted accounting principles appropriate in the circumstances. In preparing the financial statements, management makes informed judgments and estimates where necessary to reflect the expected effects of events and transactions that have not been completed. The Company's disclosure controls and procedures ensure that material information required to be disclosed is recorded, processed, summarized and communicated to management and reported within the required time periods. 
+ In meeting its responsibility for the reliability of the financial statements, management relies on a system of internal accounting control. This system is designed to provide reasonable assurance that assets are safeguarded and transactions are executed in accordance with management's authorization and recorded properly to permit the preparation of financial statements in accordance with U.S. generally accepted accounting principles. The design of this system recognizes that errors or irregularities may occur and that estimates and judgments are required to assess the relative cost and expected benefits of the controls. Management believes that the Company's internal accounting controls provide reasonable assurance that errors or irregularities that could be material to the financial statements are prevented or would be detected within a timely period. 
+ The Audit Committee of the Board of Directors, which is composed solely of independent directors, is responsible for overseeing the Company's financial reporting process. The Audit Committee meets with management and the Company's internal auditors periodically to review the work of each and to monitor the discharge by each of its responsibilities. The Audit Committee also meets periodically with the independent auditors, who have free access to the Audit Committee and the Board of Directors, to discuss the quality and acceptability of the Company's financial reporting and internal controls, as well as nonaudit-related services. 
+ The independent auditors are engaged to express an opinion on the Company's consolidated financial statements and on the Company's internal control over financial reporting. Their opinions are based on procedures that they believe to be sufficient to provide reasonable assurance that the financial statements contain no material errors and that the Company's internal controls are effective. 
+ Management's Report on Internal Control Over Financial Reporting 
+ The Company's management is responsible for establishing and maintaining adequate internal control over financial reporting for the Company. With the participation of the Chief Executive Officer and the Chief Financial Officer, management conducted an evaluation of the effectiveness of internal control over financial reporting based on the framework and the criteria established in Internal Control - Integrated Framework (2013), issued by the Committee of Sponsoring Organizations of the Treadway Commission. Based on this evaluation, management has concluded that internal control over financial reporting was effective as of September 30, 2018 . 
+ The tools and test equipment business and Aventics were acquired in the fourth quarter of fiscal 2018. Management has excluded these businesses from its assessment of internal control over financial reporting as of September 30, 2018. Total assets and revenues of these businesses excluded from the assessment represented approximately 9 percent and 1 percent, respectively, of the Company's related consolidated financial statement amounts as of and for the year ended September 30, 2018. 
+ The Company's auditor, KPMG LLP, an independent registered public accounting firm, has issued an audit report on the effectiveness of the Company's internal control over financial reporting. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ /s/ David N. Farr 
+ 
+ 
+ 
+ /s/ Frank J. Dellaquila 
+ 
+ 
+ 
+ 
+ David N. Farr 
+ 
+ 
+ 
+ Frank J. Dellaquila 
+ 
+ 
+ 
+ 
+ Chairman of the Board 
+ 
+ 
+ 
+ Senior Executive Vice President 
+ 
+ 
+ 
+ 
+ and Chief Executive Officer 
+ 
+ 
+ 
+ and Chief Financial Officer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 14 
+ 
+ 
+ 
+ 
+ 
+ 
+ Results of Operations 
+ Years ended September 30 
+ (Dollars in millions, except per share amounts) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2016 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ 
+ 17 vs. 16 
+ 
+ 
+ 
+ 
+ 18 vs. 17 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net sales 
+ 
+ $ 
+ 
+ 14,522 
+ 
+ 
+ 
+ 
+ 
+ 15,264 
+ 
+ 
+ 
+ 
+ 
+ 17,408 
+ 
+ 
+ 
+ 
+ 
+ 5 
+ 
+ % 
+ 
+ 
+ 
+ 14 
+ 
+ % 
+ 
+ 
+ Gross profit 
+ 
+ $ 
+ 
+ 6,262 
+ 
+ 
+ 
+ 
+ 
+ 6,404 
+ 
+ 
+ 
+ 
+ 
+ 7,460 
+ 
+ 
+ 
+ 
+ 
+ 2 
+ 
+ % 
+ 
+ 
+ 
+ 16 
+ 
+ % 
+ 
+ 
+ Percent of sales 
+ 
+ 43.1 
+ 
+ % 
+ 
+ 
+ 
+ 42.0 
+ 
+ % 
+ 
+ 
+ 
+ 42.9 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SG&A 
+ 
+ $ 
+ 
+ 3,464 
+ 
+ 
+ 
+ 
+ 
+ 3,618 
+ 
+ 
+ 
+ 
+ 
+ 4,258 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Percent of sales 
+ 
+ 23.8 
+ 
+ % 
+ 
+ 
+ 
+ 23.7 
+ 
+ % 
+ 
+ 
+ 
+ 24.5 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other deductions, net 
+ 
+ $ 
+ 
+ 294 
+ 
+ 
+ 
+ 
+ 
+ 286 
+ 
+ 
+ 
+ 
+ 
+ 376 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Interest expense, net 
+ 
+ $ 
+ 
+ 188 
+ 
+ 
+ 
+ 
+ 
+ 165 
+ 
+ 
+ 
+ 
+ 
+ 159 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Earnings from continuing operations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ before income taxes 
+ 
+ $ 
+ 
+ 2,316 
+ 
+ 
+ 
+ 
+ 
+ 2,335 
+ 
+ 
+ 
+ 
+ 
+ 2,667 
+ 
+ 
+ 
+ 
+ 
+ 1 
+ 
+ % 
+ 
+ 
+ 
+ 14 
+ 
+ % 
+ 
+ 
+ Percent of sales 
+ 
+ 16.0 
+ 
+ % 
+ 
+ 
+ 
+ 15.3 
+ 
+ % 
+ 
+ 
+ 
+ 15.3 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Earnings from continuing operations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ common stockholders 
+ 
+ $ 
+ 
+ 1,590 
+ 
+ 
+ 
+ 
+ 
+ 1,643 
+ 
+ 
+ 
+ 
+ 
+ 2,203 
+ 
+ 
+ 
+ 
+ 
+ 3 
+ 
+ % 
+ 
+ 
+ 
+ 34 
+ 
+ % 
+ 
+ 
+ Net earnings common stockholders 
+ 
+ $ 
+ 
+ 1,635 
+ 
+ 
+ 
+ 
+ 
+ 1,518 
+ 
+ 
+ 
+ 
+ 
+ 2,203 
+ 
+ 
+ 
+ 
+ 
+ (7 
+ 
+ )% 
+ 
+ 
+ 
+ 45 
+ 
+ % 
+ 
+ 
+ Percent of sales 
+ 
+ 11.3 
+ 
+ % 
+ 
+ 
+ 
+ 9.9 
+ 
+ % 
+ 
+ 
+ 
+ 12.7 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Diluted EPS – Earnings from continuing operations 
+ 
+ $ 
+ 
+ 2.45 
+ 
+ 
+ 
+ 
+ 
+ 2.54 
+ 
+ 
+ 
+ 
+ 
+ 3.46 
+ 
+ 
+ 
+ 
+ 
+ 4 
+ 
+ % 
+ 
+ 
+ 
+ 36 
+ 
+ % 
+ 
+ 
+ Diluted EPS – Net earnings 
+ 
+ $ 
+ 
+ 2.52 
+ 
+ 
+ 
+ 
+ 
+ 2.35 
+ 
+ 
+ 
+ 
+ 
+ 3.46 
+ 
+ 
+ 
+ 
+ 
+ (7 
+ 
+ )% 
+ 
+ 
+ 
+ 47 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Return on common stockholders' equity 
+ 
+ 20.9 
+ 
+ % 
+ 
+ 
+ 
+ 18.6 
+ 
+ % 
+ 
+ 
+ 
+ 24.9 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Return on total capital 
+ 
+ 15.5 
+ 
+ % 
+ 
+ 
+ 
+ 15.3 
+ 
+ % 
+ 
+ 
+ 
+ 20.6 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OVERVIEW 
+ Sales from continuing operations for 2018 were $17.4 billion , an increase of $2.1 billion , or 14 percent . The Company funded $2.2 billion in acquisitions, which added 7 percent , while the divestiture of the residential storage business subtracted 2 percent and foreign currency translation added 1 percent . Underlying sales were up 8 percent compared with the prior year. 
+ 
+ Sales increased in both businesses. Automation Solutions sales were up 21 percent , reflecting broad-based demand across energy-related and general industrial markets, and the impact of acquisitions. Commercial & Residential Solutions sales increased 2 percent as favorable demand in global HVAC and refrigeration markets and the impact of acquisitions were partially offset by the divestiture of the residential storage business. 
+ 
+ Earnings from continuing operations common stockholders were $2.2 billion in 2018 , up 34 percent compared with prior year earnings of $1.6 billion . Diluted earnings per share from continuing operations were $3.46 , up 36 percent versus $2.54 per share in 2017 , due to strong sales growth and operational performance, as well as an income tax benefit of $189 million ($0.30 per share) from the impacts of U.S. tax reform and an $0.18 per share benefit from the lower tax rate on 2018 earnings. 
+ 
+ Net earnings common stockholders were $2.2 billion in 2018 , up 45 percent compared with prior year earnings of $1.5 billion , which included the impact of discontinued operations. Diluted earnings per share were $3.46 , up 47 percent versus $2.35 per share in 2017 . 
+ 
+ The Company generated operating cash flow from continuing operations of $2.9 billion in 2018 , an increase of $202 million , or 8 percent . 
+ 
+ 
+ 
+ 15 
+ 
+ 
+ 
+ 
+ 
+ NET SALES 
+ Net sales for 2018 were $17.4 billion , an increase of $2.1 billion , or 14 percent compared with 2017 . Sales increased $2.0 billion in Automation Solutions and $125 million in Commercial & Residential Solutions. Underlying sales, which exclude foreign currency translation, acquisitions and divestitures, increased 8 percent ( $1.1 billion ) on higher volume. Acquisitions, net of the divestiture of the residential storage business, added 5 percent ( $819 million ) and foreign currency translation added 1 percent ( $181 million ). Underlying sales increased 9 percent in the U.S. and 7 percent internationally. 
+ 
+ Net sales for 2017 were $15.3 billion , an increase of $742 million , or 5 percent compared with 2016 . Sales increased $441 million in Automation Solutions and $302 million in Commercial & Residential Solutions. Underlying sales increased 1 percent ( $168 million ) on higher volume and slightly lower price. Acquisitions added 4 percent ( $628 million ) while foreign currency translation subtracted $54 million . Underlying sales increased 2 percent in the U.S. and were flat internationally. 
+ 
+ INTERNATIONAL SALES 
+ Emerson is a global business with international sales representing 54 percent of total sales, including U.S. exports. The Company generally expects faster economic growth in emerging markets in Asia, Latin America, Eastern Europe and Middle East/Africa. 
+ 
+ International destination sales, including U.S. exports, increased 18 percent , to $9.5 billion in 2018 , reflecting increases in both the Automation Solutions and Commercial & Residential Solutions businesses. U.S. exports of $1.1 billion were up 19 percent compared with 2017 , reflecting increases in both Automation Solutions and Commercial & Residential Solutions which benefited from acquisitions. Underlying international destination sales were up 7 percent, as foreign currency translation had a 2 percent favorable impact, while acquisitions, net of the divestiture of the residential storage business, had a 9 percent favorable impact on the comparison. Underlying sales increased 2 percent in Europe and 10 percent in Asia (China up 17 percent ). Underlying sales increased 4 percent in Latin America, 12 percent in Canada and 6 percent in Middle East/Africa. Origin sales by international subsidiaries, including shipments to the U.S., totaled $8.5 billion in 2018 , up 19 percent compared with 2017 , primarily reflecting acquisitions. 
+ 
+ International destination sales, including U.S. exports, increased 5 percent, to $8.0 billion in 2017 , reflecting increases in both the Automation Solutions and Commercial & Residential Solutions businesses. U.S. exports of $927 million were up 4 percent compared with 2016 , reflecting increases in both Automation Solutions, which benefited from the valves & controls acquisition, and Commercial & Residential Solutions. Underlying international destination sales were flat, as foreign currency translation had a 1 percent unfavorable impact, while acquisitions had a 6 percent favorable impact on the comparison. Underlying sales were down 1 percent in Europe and up 6 percent in Asia (China up 15 percent). Underlying sales decreased 12 percent in Latin America, 3 percent in Canada and 6 percent in Middle East/Africa. Origin sales by international subsidiaries, including shipments to the U.S., totaled $7.2 billion in 2017 , up 6 percent compared with 2016 , primarily reflecting the valves & controls acquisition. 
+ 
+ ACQUISITIONS AND DIVESTITURES 
+ On July 17, 2018, the Company completed the acquisition of Aventics, a global provider of smart pneumatics technologies that power machine and factory automation applications, for $622 million, net of cash acquired. This business, which has annual sales of approximately $425 million, is included in the Industrial Solutions product offering within the Automation Solutions segment. 
+ 
+ On July 2, 2018, the Company completed the acquisition of Textron's tools and test equipment business for $810 million, net of cash acquired. This business, with annual sales of approximately $470 million, is a manufacturer of electrical and utility tools, diagnostics, and test and measurement instruments, and is reported in the Tools & Home products segment. 
+ 
+ On December 1, 2017, the Company acquired Paradigm, a provider of software solutions for the oil and gas industry, for $505 million, net of cash acquired. This business had annual sales of approximately $140 million and is included in the Measurement & Analytical Instrumentation product offering within Automation Solutions. 
+ 
+ In fiscal 2018, the Company also acquired four smaller businesses, two in the Automation Solutions segment and two in the Climate Technologies segment. 
+ 
+ 
+ 
+ 16 
+ 
+ 
+ 
+ 
+ 
+ On October 2, 2017, the Company sold its residential storage business for $200 million in cash, and recognized a small pretax gain and an after-tax loss of $24 million ($0.04 per share) in the first quarter of 2018 due to income taxes resulting from nondeductible goodwill. The Company realized approximately $150 million in after-tax cash proceeds from the sale. Assets and liabilities for this business were classified as held-for-sale in the consolidated balance sheet at September 30, 2017. This business had sales of $298 million and pretax earnings of $15 million in 2017, and was previously reported within the Tools & Home Products segment. 
+ 
+ On April 28, 2017, the Company completed the acquisition of Pentair's valves & controls business for $2.96 billion, net of cash acquired of $207 million, subject to certain post-closing adjustments. This business, with annualized sales of approximately $1.4 billion , is a manufacturer of control, isolation and pressure relief valves and actuators, and complements the Valves, Actuators & Regulators product offering within Automation Solutions. The Company also acquired two smaller businesses in the Automation Solutions segment. Total cash paid for all businesses in 2017 was $3.0 billion, net of cash acquired. 
+ 
+ The Company acquired six businesses in 2016, four in Automation Solutions and two in Climate Technologies. Total cash paid for these businesses was $132 million, net of cash acquired. Annualized sales for these businesses were approximately $51 million in 2016. 
+ 
+ See Note 3 for further information on acquisitions and divestitures, including pro forma financial information. See information under “Discontinued Operations” for a discussion of the Company’s divestitures related to its portfolio repositioning actions. 
+ 
+ COST OF SALES 
+ Cost of sales for 2018 were $9.9 billion , an increase of $1.1 billion compared with $8.9 billion in 2017 . The increase is primarily due to acquisitions, higher volume and the impact of foreign currency translation. Gross profit was $7.5 billion in 2018 compared to $6.4 billion in 2017 . Gross margin increased 0.9 percentage points to 42.9 percent , reflecting leverage on higher volume and savings from cost reduction actions, partially offset by the impact of acquisitions. Gross profit margin was 42.0 percent in 2017 . 
+ 
+ Cost of sales for 2017 were $8.9 billion , an increase of $600 million compared with $8.3 billion in 2016 . The increase reflects the acquisition of the valves & controls business and higher volume, partially offset by cost reduction actions and the impact of foreign currency translation. Gross profit was $6.4 billion in 2017 compared with $6.3 billion in 2016 . Gross margin of 42.0 percent reflected dilution of 1.2 percentage points due to the valves & controls operations and first year acquisition accounting charges of $74 million related to inventory. Slightly lower price also contributed to the decline, while savings from cost reduction actions partially offset these decreases. Gross margin was 43.1 percent in 2016 . 
+ 
+ SELLING, GENERAL AND ADMINISTRATIVE EXPENSES 
+ Selling, general and administrative (SG&A) expenses of $4.3 billion in 2018 increased $640 million compared with 2017 due to acquisitions and an increase in volume. SG&A as a percent of sales of 24.5 percent increased 0.8 percentage points due to higher incentive stock compensation of $106 million , reflecting an increase in the Company's stock price and progress toward achieving its performance objectives, the impact of acquisitions, and higher investment spending in Automation Solutions, partially offset by leverage on higher volume. 
+ 
+ SG&A expenses of $3.6 billion in 2017 increased $154 million compared with 2016 , primarily due to the valves & controls acquisition. Savings from cost reduction actions and lower incentive stock compensation of $35 million , reflecting the impact of changes in the stock price, were partially offset by higher other costs. SG&A as a percent of sales of 23.7 percent decreased 0.1 percentage points in 2017 compared with 2016 . 
+ 
+ OTHER DEDUCTIONS, NET 
+ Other deductions, net were $376 million in 2018 , an increase of $90 million compared with 2017 . The increase primarily reflects higher intangibles amortization of $75 million due to acquisitions and higher acquisition/divestiture costs of $18 million, partially offset by lower restructuring expense of $13 million . See Note 5. 
+ 
+ Other deductions, net were $286 million in 2017 , a decrease of $8 million compared with 2016 . The decrease primarily reflects favorable foreign currency transactions comparisons of $78 million (unfavorable in the prior year) and lower restructuring expense of $18 million . These decreases were substantially offset by intangibles and backlog amortization related to the valves & controls acquisition of $29 million and $19 million, respectively, and higher 
+ 
+ 
+ 17 
+ 
+ 
+ 
+ 
+ 
+ acquisition/divestiture costs of $24 million . Additionally, 2016 results included a $21 million gain from payments received related to dumping duties. 
+ 
+ INTEREST EXPENSE, NET 
+ Interest expense, net was $159 million , $165 million and $188 million in 2018 , 2017 and 2016 , respectively. The decreases in 2018 and 2017 reflect the maturity of long-term debt with relatively higher interest rates and higher interest income. 
+ 
+ INCOME TAXES 
+ On December 22, 2017, the U.S. government enacted tax reform, the Tax Cuts and Jobs Act (the “Act”), which made comprehensive changes to U.S. federal income tax laws by moving from a global to a modified territorial tax regime. The Act includes a reduction of the U.S. corporate income tax rate from 35 percent to 21 percent in calendar year 2018 along with the elimination of certain deductions and credits, and a one-time “deemed repatriation” of accumulated foreign earnings. During 2018, the Company recognized a net tax benefit of $189 million ($0.30 per share) due to impacts of the Act, consisting of a $94 million benefit on revaluation of net deferred income tax liabilities to the lower tax rate, $35 million of expense for the tax on deemed repatriation of accumulated foreign earnings and withholding taxes, and the reversal of $130 million accrued in previous periods for the planned repatriation of non-U.S. cash. 
+ 
+ On August 1, 2018, the U.S. Treasury and Internal Revenue Service released proposed regulations relating to the one-time tax on deemed repatriation of accumulated foreign earnings. The proposed regulations were subject to a 60-day comment period and final regulations are expected to be issued after consideration of comments received. The Company is currently evaluating the impact of the proposed regulations and anticipates finalizing its provisional estimates after fully evaluating the final regulations. 
+ 
+ The changes made by the Act are broad and complex. As such, the final one-time deemed repatriation tax may differ materially from these provisional amounts due to additional regulatory guidance expected to be issued, changes in interpretations, or any legislative actions to address questions arising from the Act, as well as further evaluation of the Company’s actions, assumptions and interpretations. 
+ 
+ Income taxes were $443 million , $660 million and $697 million for 2018 , 2017 and 2016 , respectively, resulting in effective tax rates of 17 percent , 28 percent and 30 percent in 2018 , 2017 and 2016 , respectively. The 11 percentage point decrease in 2018 versus the prior year is due to the impacts of the Act, which include the net tax benefit described above and the lower tax rate on 2018 earnings. The 2018 and 2017 rates also include benefits from restructuring of subsidiaries of $53 million ($0.08 per share) and $47 million ($0.07 per share), respectively. 
+ 
+ EARNINGS FROM CONTINUING OPERATIONS 
+ Earnings from continuing operations attributable to common stockholders in 2018 were $2.2 billion , up 34 percent compared with 2017 , and diluted earnings per share were $3.46 in 2018 , up 36 percent . Earnings per share included the net tax benefit due to impacts of the Act of $0.30 per share discussed above. Results also included an $0.18 per share benefit from the lower tax rate on 2018 earnings, partially offset by a $0.04 per share loss on the residential storage business. Earnings increased $364 million in the Automation Solutions segment in 2018 and decreased $6 million in Commercial & Residential Solutions. See the Business discussion that follows and Note 18. 
+ 
+ Earnings from continuing operations attributable to common stockholders in 2017 were $1.6 billion , up 3 percent compared with 2016 , and diluted earnings per share were $2.54 , up 4 percent. Valves & controls reduced both comparisons by 6 percentage points, or $97 million , $0.15 per share, including restructuring expense, intangibles amortization, and first year pretax acquisition accounting charges related to inventory and backlog of $93 million ($65 million after-tax, $0.10 per share) which are reported in Corporate and other. E arnings increased $66 million in the Automation Solutions segment in 2017 and $72 million in Commercial & Residential Solutions. 
+ 
+ DISCONTINUED OPERATIONS 
+ On November 30, 2016, the Company completed the sale of its network power systems business for $4.0 billion in cash and retained a subordinated interest in distributions, contingent upon the equity holders first receiving a threshold return on their initial investment. Additionally, on January 31, 2017, the Company completed the sale of its power generation, motors and drives business for approximately $1.2 billion. Discontinued operations was a net loss of $125 million, $0.19 per share, in 2017 and income of $45 million, $0.07 per share, in 2016. Operating cash flow used by discontinued operations was $778 million for 2017 and capital expenditures were $ 20 million . In 2016, 
+ 
+ 
+ 18 
+ 
+ 
+ 
+ 
+ 
+ operating cash flow from discontinued operations was $382 million and capital expenditures were $76 million . The results of operations for these businesses were reported in discontinued operations until disposal. See Note 4. 
+ 
+ NET EARNINGS AND EARNINGS PER SHARE; RETURNS ON EQUITY AND TOTAL CAPITAL 
+ Net earnings attributable to common stockholders in 2018 were $2.2 billion , up 45 percent compared with 2017 , and diluted earnings per share were $3.46 , up 47 percent . The 2017 results included a net loss from discontinued operations of $125 million which benefited net earnings and earnings per share comparisons 11 percentage points. 
+ 
+ Net earnings attributable to common stockholders in 2017 were $1.5 billion , down 7 percent compared with 2016 , and diluted earnings per share were $2.35 , down 7 percent . These results include the impact of discontinued operations discussed above which negatively impacted net earnings and earnings per share comparisons 10 and 11 percentage points, respectively. 
+ 
+ Return on common stockholders' equity (net earnings attributable to common stockholders divided by average common stockholders' equity) was 24.9 percent in 2018 compared with 18.6 percent in 2017 and 20.9 percent in 2016 . Return on total capital was 20.6 percent in 2018 compared with 15.3 percent in 2017 and 15.5 percent in 2016 (computed as net earnings attributable to common stockholders excluding after-tax net interest expense, divided by average common stockholders' equity plus short- and long-term debt less cash and short-term investments). The impacts of U.S. tax reform discussed above benefited the 2018 return on common stockholders' equity and return on total capital, while the acquisition of the valves & controls business reduced the 2017 returns. Discontinued operations reduced returns in both 2017 and 2016. 
+ 
+ 
+ Business Segments 
+ Following is an analysis of segment results for 2018 compared with 2017 , and 2017 compared with 2016 . The Company defines segment earnings as earnings before interest and income taxes. In connection with the strategic portfolio repositioning actions completed in fiscal 2017, the Company began reporting three segments: Automation Solutions, and Climate Technologies and Tools & Home Products which together comprise the Commercial & Residential Solutions business. See Note 18. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AUTOMATION SOLUTIONS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (dollars in millions) 
+ 
+ 2016 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ 17 vs. 16 
+ 
+ 
+ 
+ 18 vs. 17 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sales 
+ 
+ $ 
+ 
+ 8,977 
+ 
+ 
+ 
+ 
+ 
+ 9,418 
+ 
+ 
+ 
+ 
+ 
+ 11,441 
+ 
+ 
+ 
+ 
+ 
+ 5 
+ 
+ % 
+ 
+ 
+ 
+ 21 
+ 
+ % 
+ 
+ 
+ Earnings 
+ 
+ $ 
+ 
+ 1,456 
+ 
+ 
+ 
+ 
+ 
+ 1,522 
+ 
+ 
+ 
+ 
+ 
+ 1,886 
+ 
+ 
+ 
+ 
+ 
+ 5 
+ 
+ % 
+ 
+ 
+ 
+ 24 
+ 
+ % 
+ 
+ 
+ Margin 
+ 
+ 16.2 
+ 
+ % 
+ 
+ 
+ 
+ 16.2 
+ 
+ % 
+ 
+ 
+ 
+ 16.5 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sales by Major Product Offering 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Measurement & Analytical Instrumentation 
+ 
+ $ 
+ 
+ 3,137 
+ 
+ 
+ 
+ 
+ 
+ 3,070 
+ 
+ 
+ 
+ 
+ 
+ 3,604 
+ 
+ 
+ 
+ 
+ 
+ (2 
+ 
+ )% 
+ 
+ 
+ 
+ 17 
+ 
+ % 
+ 
+ 
+ Valves, Actuators & Regulators 
+ 
+ 2,137 
+ 
+ 
+ 
+ 
+ 
+ 2,668 
+ 
+ 
+ 
+ 
+ 
+ 3,769 
+ 
+ 
+ 
+ 
+ 
+ 25 
+ 
+ % 
+ 
+ 
+ 
+ 41 
+ 
+ % 
+ 
+ 
+ Industrial Solutions 
+ 
+ 1,621 
+ 
+ 
+ 
+ 
+ 
+ 1,680 
+ 
+ 
+ 
+ 
+ 
+ 1,947 
+ 
+ 
+ 
+ 
+ 
+ 4 
+ 
+ % 
+ 
+ 
+ 
+ 16 
+ 
+ % 
+ 
+ 
+ Process Control Systems & Solutions 
+ 
+ 2,082 
+ 
+ 
+ 
+ 
+ 
+ 2,000 
+ 
+ 
+ 
+ 
+ 
+ 2,121 
+ 
+ 
+ 
+ 
+ 
+ (4 
+ 
+ )% 
+ 
+ 
+ 
+ 6 
+ 
+ % 
+ 
+ 
+ Total 
+ 
+ $ 
+ 
+ 8,977 
+ 
+ 
+ 
+ 
+ 
+ 9,418 
+ 
+ 
+ 
+ 
+ 
+ 11,441 
+ 
+ 
+ 
+ 
+ 
+ 5 
+ 
+ % 
+ 
+ 
+ 
+ 21 
+ 
+ % 
+ 
+ 2018 vs. 2017 - Automation Solutions reported sales of $11.4 billion in 2018 , an increase of $2.0 billion , or 21 percent . Underlying sales increased 10 percent ( $922 million ) on higher volume. Acquisitions added 10 percent ( $978 million ) and foreign currency translation added 1 percent ( $123 million ). Sales for Measurement & Analytical Instrumentation increased $534 million , or 17 percent , and Process Control Systems & Solutions increased $121 million , or 6 percent , due to increased spending by global oil and gas customers, strong MRO demand and growth of small and mid-sized projects focused on facility expansion and optimization. The acquisition of Paradigm ($113 million) also supported Measurement & Analytical Instrumentation sales. Valves, Actuators & Regulators increased $1.1 billion , or 41 percent , led by the valves & controls acquisition ($771 million) and broad-based demand across end markets, including energy, power and life sciences. Industrial Solutions sales increased $267 million , or 16 percent , driven by favorable global trends in general industrial end markets. Underlying sales increased 14 percent in the U.S., 1 percent in Europe and 11 percent in Asia (China up 21 percent ). Latin America increased 4 percent , Canada increased 14 percent and Middle East/Africa was up 9 percent . Earnings of $1.9 billion increased $364 
+ million from the prior year on higher volume and leverage, cost reduction savings and lower restructuring expense of $22 million , partially offset by higher investment spending. Margin increased 0.3 percentage points to 16.5 percent . These results reflect a dilutive impact on comparisons from the valves & controls acquisition of 1.2 percentage points, which included an impact from higher intangibles amortization of 0.4 percentage points, or $45 million. In 2019, growth in Automation Solutions will continue to be driven by MRO activity, as well as brownfield capital investments in existing assets to expand capacity or to improve the efficiency, safety and uptime of those facilities. Steady progress in greenfield capital projects across upstream, midstream infrastructure, natural gas, chemical and hybrid markets, including life sciences and food and beverage, is also expected with orders weighted toward the second half of 2019. 
+ 
+ 2017 vs. 2016 - Automation Solutions reported sales of $9.4 billion in 2017 , an increase of $441 million or 5 percent . Underlying sales decreased 1 percent ( $128 million ) on lower volume and slightly lower price. The valves & controls acquisition added 7 percent ( $603 million ), while foreign currency translation subtracted 1 percent ( $34 million ). Sales for Measurement & Analytical Instrumentation decreased 2 percent and Process Control Systems & Solutions decreased 4 percent due to weakness in energy-related markets, but began to improve in the second half of the year as oil prices stabilized. Valves, Actuators & Regulators increased $531 million , or 25 percent , due to the valves & controls acquisition. Industrial Solutions sales increased $59 million , or 4 percent , on improving economic conditions and industrial end markets, especially automotive. Chemical, power and life sciences were favorable. Underlying sales increased 1 percent in the U.S., were down 2 percent in Europe and increased 1 percent in Asia (China up 9 percent ). Latin America decreased 20 percent , Canada decreased 6 percent and Middle East/Africa was down 6 percent . Earnings of $1.5 billion increased $66 million from the prior year. Savings from cost reduction actions and favorable foreign currency transactions comparisons of $64 million (unfavorable in the prior year) were partially offset by lower volume, and $25 million of restructuring expense and $29 million of intangibles amortization related to the valves & controls acquisition. Materials cost containment offset lower price. Margin was flat, primarily reflecting the benefit from cost reduction actions offset by dilution from the valves & controls acquisition of 1.5 percentage points. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ COMMERCIAL & RESIDENTIAL SOLUTIONS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (dollars in millions) 
+ 
+ 2016 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ 17 vs. 16 
+ 
+ 
+ 
+ 18 vs. 17 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sales: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Climate Technologies 
+ 
+ $ 
+ 
+ 3,944 
+ 
+ 
+ 
+ 
+ 
+ 4,212 
+ 
+ 
+ 
+ 
+ 
+ 4,454 
+ 
+ 
+ 
+ 
+ 
+ 7 
+ 
+ % 
+ 
+ 
+ 
+ 6 
+ 
+ % 
+ 
+ 
+ Tools & Home Products 
+ 
+ 1,611 
+ 
+ 
+ 
+ 
+ 
+ 1,645 
+ 
+ 
+ 
+ 
+ 
+ 1,528 
+ 
+ 
+ 
+ 
+ 
+ 2 
+ 
+ % 
+ 
+ 
+ 
+ (7 
+ 
+ )% 
+ 
+ 
+ Total 
+ 
+ $ 
+ 
+ 5,555 
+ 
+ 
+ 
+ 
+ 
+ 5,857 
+ 
+ 
+ 
+ 
+ 
+ 5,982 
+ 
+ 
+ 
+ 
+ 
+ 5 
+ 
+ % 
+ 
+ 
+ 
+ 2 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Earnings: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Climate Technologies 
+ 
+ $ 
+ 
+ 902 
+ 
+ 
+ 
+ 
+ 
+ 975 
+ 
+ 
+ 
+ 
+ 
+ 972 
+ 
+ 
+ 
+ 
+ 
+ 8 
+ 
+ % 
+ 
+ 
+ 
+ — 
+ 
+ % 
+ 
+ 
+ Tools & Home Products 
+ 
+ 384 
+ 
+ 
+ 
+ 
+ 
+ 383 
+ 
+ 
+ 
+ 
+ 
+ 380 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ % 
+ 
+ 
+ 
+ (1 
+ 
+ )% 
+ 
+ 
+ Total 
+ 
+ $ 
+ 
+ 1,286 
+ 
+ 
+ 
+ 
+ 
+ 1,358 
+ 
+ 
+ 
+ 
+ 
+ 1,352 
+ 
+ 
+ 
+ 
+ 
+ 6 
+ 
+ % 
+ 
+ 
+ 
+ — 
+ 
+ % 
+ 
+ 
+ Margin 
+ 
+ 23.2 
+ 
+ % 
+ 
+ 
+ 
+ 23.2 
+ 
+ % 
+ 
+ 
+ 
+ 22.6 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2018 vs. 2017 - Commercial & Residential Solutions sales were $6.0 billion in 2018 , an increase of $125 million , or 2 percent . Underlying sales increased 4 percent ( $226 million ) on higher volume and slightly higher price. Foreign currency translation added 1 percent ( $58 million ) while the divestiture of the residential storage business, net of acquisitions, subtracted 3 percent ( $159 million ). Climate Technologies sales were $4.5 billion in 2018 , an increase of $242 million , or 6 percent . Global HVAC sales were up moderately, reflecting robust growth in China, while sales were up moderately in Europe and modestly in the U.S. Cold chain sales were strong, led by robust growth in China and solid growth in Europe, while sales in the U.S. were up slightly. Sensors had strong growth, while temperature controls was flat. Tools & Home Products sales were $1.5 billion in 2018 , down $117 million or 7 percent compared to the prior year, reflecting the impact of the residential storage divestiture ( $298 million ). Sales for professional tools were strong on favorable demand in oil and gas and construction-related markets, and the tools and test acquisition added $106 million . Wet/dry vacuums had solid growth and food waste disposers were up slightly. Overall, underlying sales increased 3 percent in the U.S., 4 percent in Europe and 9 percent in Asia (China up 11 percent ). Sales increased 4 percent in both Latin America and Canada, while sales decreased 8 percent in 
+ 
+ 
+ 19 
+ 
+ 
+ 
+ 
+ 
+ Middle East/Africa. Earnings were $1.4 billion , a decrease of $6 million and margin was down 0.6 percentage points. Higher materials costs, the impact of acquisitions, unfavorable mix and increased restructuring expense of $11 million were partially offset by leverage on higher volume, favorable price and savings from cost reduction actions. In addition, the residential storage divestiture reduced earnings by $16 million, but benefited margin comparisons 1.0 percentage points, while higher warranty costs of $10 million associated with a specific product issue in Climate Technologies partially offset this benefit. Commercial & Residential Solutions growth in 2019 will be supported by continued strong demand in residential and commercial air conditioning markets in the U.S., as well as cold chain and professional tools demand in the U.S., Asia and Europe. 
+ 
+ 2017 vs. 2016 - Commercial & Residential Solutions sales were $5.9 billion in 2017 , an increase of $302 million , or 5 percent , reflecting favorable conditions in HVAC and refrigeration markets in the U.S., Asia and Europe, as well as U.S. and Asian construction markets. Underlying sales increased 5 percent ( $297 million ) on 6 percent higher volume, partially offset by 1 percent lower price. Foreign currency translation deducted $20 million and acquisitions added $25 million . Climate Technologies sales were $4.2 billion in 2017 , an increase of $268 million , or 7 percent . Global air conditioning sales were solid, led by strength in the U.S. and Asia and robust growth in China partially due to easier comparisons, while sales were up modestly in Europe and declined moderately in Middle East/Africa. Global refrigeration sales were strong, reflecting robust growth in China on increased adoption of energy-efficient solutions and slight growth in the U.S. Sensors and solutions had strong growth, while temperature controls was up modestly. Tools & Home Products sales were $1.6 billion in 2017 , up $34 million compared to the prior year. Professional tools had strong growth on favorable demand from oil and gas customers and in other construction-related markets. Wet/dry vacuums sales were up moderately as favorable conditions continued in U.S. construction markets. Food waste disposers increased slightly, while the storage business declined moderately. Overall, underlying sales increased 3 percent in the U.S., 4 percent in Europe and 17 percent in Asia (China up 27 percent ). Sales increased 3 percent in Latin America and 4 percent in Canada, while sales decreased 5 percent in Middle East/Africa. Earnings were $1.4 billion , an increase of $ 72 million driven by Climate Technologies, while margin was flat. Increased volume and resulting leverage, savings from cost reduction actions, and lower customer accommodation costs of $16 million were largely offset by higher materials costs, lower price and unfavorable product mix. 
+ 
+ 
+ Financial Position, Capital Resources and Liquidity 
+ 
+ The Company continues to generate substantial cash from operations and has the resources available to reinvest for growth in existing businesses, pursue strategic acquisitions and manage its capital structure on a short- and long-term basis. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CASH FLOW FROM CONTINUING OPERATIONS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (dollars in millions) 
+ 
+ 2016 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating Cash Flow 
+ 
+ $ 
+ 
+ 2,499 
+ 
+ 
+ 
+ 
+ 
+ 2,690 
+ 
+ 
+ 
+ 
+ 
+ 2,892 
+ 
+ 
+ 
+ 
+ Percent of sales 
+ 
+ 17.2 
+ 
+ % 
+ 
+ 
+ 
+ 17.6 
+ 
+ % 
+ 
+ 
+ 
+ 16.6 
+ 
+ % 
+ 
+ 
+ Capital Expenditures 
+ 
+ $ 
+ 
+ 447 
+ 
+ 
+ 
+ 
+ 
+ 476 
+ 
+ 
+ 
+ 
+ 
+ 617 
+ 
+ 
+ 
+ 
+ Percent of sales 
+ 
+ 3.1 
+ 
+ % 
+ 
+ 
+ 
+ 3.1 
+ 
+ % 
+ 
+ 
+ 
+ 3.5 
+ 
+ % 
+ 
+ 
+ Free Cash Flow (Operating Cash Flow less Capital Expenditures) 
+ 
+ $ 
+ 
+ 2,052 
+ 
+ 
+ 
+ 
+ 
+ 2,214 
+ 
+ 
+ 
+ 
+ 
+ 2,275 
+ 
+ 
+ 
+ 
+ Percent of sales 
+ 
+ 14.1 
+ 
+ % 
+ 
+ 
+ 
+ 14.5 
+ 
+ % 
+ 
+ 
+ 
+ 13.1 
+ 
+ % 
+ 
+ 
+ Operating Working Capital 
+ 
+ $ 
+ 
+ 755 
+ 
+ 
+ 
+ 
+ 
+ 1,007 
+ 
+ 
+ 
+ 
+ 
+ 985 
+ 
+ 
+ 
+ 
+ Percent of sales 
+ 
+ 5.2 
+ 
+ % 
+ 
+ 
+ 
+ 6.6 
+ 
+ % 
+ 
+ 
+ 
+ 5.7 
+ 
+ % 
+ 
+ Operating cash flow from continuing operations for 2018 was $2.9 billion , a $202 million , or 8 percent increase compared with 2017 , primarily due to higher earnings, partially offset by an increase in working capital investment to support higher levels of sales activity and income taxes paid on the residential storage divestiture. Operating cash flow from continuing operations of $2.7 billion in 2017 increased 8 percent compared to $2.5 billion in 2016 , reflecting higher earnings and favorable changes in working capital. At September 30, 2018 , operating working capital as a percent of sales was 5.7 percent compared with 6.6 percent in 2017 and 5.2 percent in 2016 . The increase in 2017 was due to higher levels of working capital in the acquired valves & controls business. Operating cash flow from continuing operations funded capital expenditures of $617 million , dividends of $1.2 billion , and common stock purchases of $1.0 billion . In 2018, the Company repatriated $1.4 billion of cash held by non-U.S. 
+ 
+ 
+ 20 
+ 
+ 
+ 
+ 
+ 
+ subsidiaries, which was part of the Company's previously announced plans. These funds along with increased short-term borrowings and divestiture proceeds supported acquisitions of $2.2 billion . Contributions to pension plans were $61 million in 2018 , $45 million in 2017 and $66 million in 2016 . 
+ 
+ Capital expenditures related to continuing operations were $617 million , $476 million and $447 million in 2018 , 2017 and 2016 , respectively. Free cash flow from continuing operations (operating cash flow less capital expenditures) was $2.3 billion in 2018 , up 3 percent . Free cash flow was $2.2 billion in 2017 , compared with $2.1 billion in 2016 . The Company is targeting capital spending of approximately $650 million in 2019 . Net cash paid in connection with acquisitions was $2.2 billion , $3.0 billion and $132 million in 2018 , 2017 and 2016 , respectively. Proceeds from divestitures not classified as discontinued operations were $201 million and $39 million in 2018 and 2017 , respectively. 
+ 
+ Dividends were $1.2 billion ( $1.94 per share) in 2018 , compared with $1.2 billion ( $1.92 per share) in 2017 and $1.2 billion ( $1.90 per share) in 2016 . In November 2018 , the Board of Directors voted to increase the quarterly cash dividend 1 percent, to an annualized rate of $1.96 per share. 
+ 
+ Purchases of Emerson common stock totaled $1.0 billion , $400 million and $601 million in 2018 , 2017 and 2016 , respectively, at average per share prices of $66.25, $60.51 and $48.11. 
+ 
+ The Board of Directors authorized the purchase of up to 70 million common shares in November 2015, and 41.8 million shares remain available for purchase under this authorization. The Company purchased 15.1 million shares in 2018 , 6.6 million shares in 2017, and 12.5 million shares in 2016 under this authorization and the remainder of the May 2013 authorization. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LEVERAGE/CAPITALIZATION 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (dollars in millions) 
+ 
+ 2016 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Assets 
+ 
+ $ 
+ 
+ 21,732 
+ 
+ 
+ 
+ 
+ 
+ 19,589 
+ 
+ 
+ 
+ 
+ 
+ 20,390 
+ 
+ 
+ 
+ 
+ Long-term Debt 
+ 
+ $ 
+ 
+ 4,051 
+ 
+ 
+ 
+ 
+ 
+ 3,794 
+ 
+ 
+ 
+ 
+ 
+ 3,137 
+ 
+ 
+ 
+ 
+ Common Stockholders' Equity 
+ 
+ $ 
+ 
+ 7,568 
+ 
+ 
+ 
+ 
+ 
+ 8,718 
+ 
+ 
+ 
+ 
+ 
+ 8,947 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Debt-to-Total Capital Ratio 
+ 
+ 46.7 
+ 
+ % 
+ 
+ 
+ 
+ 34.8 
+ 
+ % 
+ 
+ 
+ 
+ 34.7 
+ 
+ % 
+ 
+ 
+ Net Debt-to-Net Capital Ratio 
+ 
+ 31.3 
+ 
+ % 
+ 
+ 
+ 
+ 15.4 
+ 
+ % 
+ 
+ 
+ 
+ 29.1 
+ 
+ % 
+ 
+ 
+ Operating Cash Flow-to-Debt Ratio 
+ 
+ 37.7 
+ 
+ % 
+ 
+ 
+ 
+ 57.8 
+ 
+ % 
+ 
+ 
+ 
+ 60.7 
+ 
+ % 
+ 
+ 
+ Interest Coverage Ratio 
+ 
+ 11.8X 
+ 
+ 
+ 
+ 
+ 
+ 12.6X 
+ 
+ 
+ 
+ 
+ 
+ 14.2X 
+ 
+ 
+ 
+ Total debt, which includes long-term debt, current maturities of long-term debt, commercial paper and other short-term borrowings, was $4.8 billion , $4.7 billion and $6.6 billion for 2018 , 2017 and 2016 , respectively. During the year, the Company repaid $250 million of 5.375% notes that matured in October 2017. In 2017 and 2016 respectively, the Company repaid $250 million of 5.125% notes that matured in December 2016 and $250 million of 4.75% notes which matured in October 2015. 
+ 
+ The net debt-to-net capital ratio (less cash and short-term investments) increased in 2018 due to a decrease in cash which was used for acquisitions during the year. In 2017 the total debt-to-capital ratio and the net debt-to-net capital ratio (less cash and short-term investments) decreased due to lower total debt outstanding and higher common stockholders' equity from changes in other comprehensive income. The operating cash flow from continuing operations-to-debt ratio increased in 2018 primarily due to higher cash flow in the current year. The operating cash flow from continuing operations-to-debt ratio increased in 2017 primarily due to lower total debt outstanding. The interest coverage ratio is computed as earnings from continuing operations before income taxes plus interest expense, divided by interest expense. The increase in interest coverage in 2018 reflects higher earnings in the current year. The increase in interest coverage in 2017 reflects lower interest expense. 
+ 
+ In May 2018, the Company entered into a $3.5 billion five-year revolving backup credit facility with various banks, which replaced the April 2014 $3.5 billion facility. The credit facility is maintained to support general corporate purposes, including commercial paper borrowings. The Company has not incurred any borrowings under this or 
+ 
+ 
+ 21 
+ 
+ 
+ 
+ 
+ 
+ previous facilities. The credit facility contains no financial covenants and is not subject to termination based on a change of credit rating or material adverse changes. The facility is unsecured and may be accessed under various interest rate and currency denomination alternatives at the Company’s option. Fees to maintain the facility are immaterial. The Company also maintains a universal shelf registration statement on file with the SEC under which it can issue debt securities, preferred stock, common stock, warrants, share purchase contracts or share purchase units without a predetermined limit. Securities can be sold in one or more separate offerings with the size, price and terms to be determined at the time of sale. 
+ 
+ Emerson's financial structure provides the flexibility necessary to achieve its strategic objectives. The Company has been successful in efficiently deploying cash where needed worldwide to fund operations, complete acquisitions and sustain long-term growth. At September 30, 2018 , approximately $1.1 billion of the Company's cash was held outside the U.S. (primarily in Europe and Asia). The Company routinely repatriates a portion of its non-U.S. cash from earnings each year, or otherwise when it can be accomplished tax efficiently, and provides for foreign withholding taxes and any applicable U.S. income taxes as appropriate. The Company has been able to readily meet all its funding requirements and currently believes that sufficient funds will be available to meet the Company's needs in the foreseeable future through operating cash flow, existing resources, short- and long-term debt capacity or backup credit lines. 
+ 
+ CONTRACTUAL OBLIGATIONS 
+ At September 30, 2018 , the Company's contractual obligations, including estimated payments, are as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Amounts Due By Period 
+ 
+ 
+ (dollars in millions) 
+ 
+ Total 
+ 
+ 
+ 
+ 
+ 
+ Less Than 1 Year 
+ 
+ 
+ 
+ 
+ 
+ 1 - 3 
+ Years 
+ 
+ 
+ 
+ 
+ 
+ 3 - 5 
+ Years 
+ 
+ 
+ 
+ 
+ 
+ More Than 
+ 5 Years 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Long-term Debt (including Interest) 
+ 
+ $ 
+ 
+ 5,177 
+ 
+ 
+ 
+ 
+ 
+ 847 
+ 
+ 
+ 
+ 
+ 
+ 1,068 
+ 
+ 
+ 
+ 
+ 
+ 1,170 
+ 
+ 
+ 
+ 
+ 
+ 2,092 
+ 
+ 
+ 
+ 
+ Operating Leases 
+ 
+ 661 
+ 
+ 
+ 
+ 
+ 
+ 204 
+ 
+ 
+ 
+ 
+ 
+ 243 
+ 
+ 
+ 
+ 
+ 
+ 107 
+ 
+ 
+ 
+ 
+ 
+ 107 
+ 
+ 
+ 
+ 
+ Purchase Obligations 
+ 
+ 924 
+ 
+ 
+ 
+ 
+ 
+ 768 
+ 
+ 
+ 
+ 
+ 
+ 132 
+ 
+ 
+ 
+ 
+ 
+ 16 
+ 
+ 
+ 
+ 
+ 
+ 8 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ $ 
+ 
+ 6,762 
+ 
+ 
+ 
+ 
+ 
+ 1,819 
+ 
+ 
+ 
+ 
+ 
+ 1,443 
+ 
+ 
+ 
+ 
+ 
+ 1,293 
+ 
+ 
+ 
+ 
+ 
+ 2,207 
+ 
+ 
+ 
+ Purchase obligations consist primarily of inventory purchases made in the normal course of business to meet operational requirements. The table above does not include $2.1 billion of other noncurrent liabilities recorded in the balance sheet and summarized in Note 19, which consist primarily of pension and postretirement plan liabilities, deferred income taxes and unrecognized tax benefits, because it is not certain when these amounts will become due. See Notes 11 and 12 for estimated future benefit payments and Note 14 for additional information on deferred income taxes. 
+ 
+ FINANCIAL INSTRUMENTS 
+ The Company is exposed to market risk related to changes in interest rates, foreign currency exchange rates and commodity prices, and selectively uses derivative financial instruments, including forwards, swaps and purchased options to manage these risks. The Company does not hold derivatives for trading or speculative purposes. The value of derivatives and other financial instruments is subject to change as a result of market movements in rates and prices. Sensitivity analysis is one technique used to forecast the impact of these movements. Based on a hypothetical 10 percent increase in interest rates, a 10 percent decrease in commodity prices or a 10 percent weakening in the U.S. dollar across all currencies, the potential losses in future earnings, fair value or cash flows are not material. Sensitivity analysis has limitations; for example, a weaker U.S. dollar would benefit future earnings through favorable translation of non-U.S. operating results, and lower commodity prices would benefit future earnings through lower cost of sales. See Notes 1, and 8 through 10. 
+ 
+ 
+ Critical Accounting Policies 
+ Preparation of the Company's financial statements requires management to make judgments, assumptions and estimates regarding uncertainties that could affect reported revenue, expenses, assets, liabilities and equity. Note 1 describes the significant accounting policies used in preparation of the consolidated financial statements. The most significant areas where management judgments and estimates impact the primary financial statements are described below. Actual results in these areas could differ materially from management's estimates under different assumptions or conditions. 
+ 
+ 
+ 
+ 22 
+ 
+ 
+ 
+ 
+ 
+ REVENUE RECOGNITION 
+ The Company recognizes a large majority of its revenue through the sale of manufactured products and records the sale when products are shipped or delivered, title and risk of loss pass to the customer, and collection is reasonably assured. In certain circumstances, revenue is recognized using the percentage-of-completion method, as performance occurs, or in accordance with ASC 985-605 related to software. Sales arrangements sometimes involve delivering multiple elements, which requires management judgment that affects the amount and timing of revenue recognized. In these instances, the revenue assigned to each element is based on vendor-specific objective evidence, third-party evidence or a management estimate of the relative selling price. Revenue is recognized for delivered elements if they have value to the customer on a stand-alone basis and performance related to the undelivered items is probable and substantially in the Company's control, or the undelivered elements are inconsequential or perfunctory and there are no unsatisfied contingencies related to payment. The vast majority of deliverables are tangible products, with a smaller portion attributable to installation, service or maintenance. Management believes that all relevant criteria and conditions are considered when recognizing revenue. 
+ 
+ LONG-LIVED ASSETS 
+ Long-lived assets, which include property, plant and equipment, goodwill and identifiable intangible assets, are reviewed for impairment whenever events or changes in business circumstances indicate impairment may exist. If the Company determines that the carrying value of a long-lived asset may not be recoverable, a permanent impairment charge is recorded for the amount by which the carrying value of the long-lived asset exceeds its estimated fair value. Reporting units are also reviewed for possible goodwill impairment at least annually, in the fourth quarter. If an initial assessment indicates it is more likely than not an impairment may exist, it is evaluated by comparing the unit's estimated fair value to its carrying value. Fair value is generally estimated using an income approach that discounts estimated future cash flows using discount rates judged by management to be commensurate with the applicable risk. Estimates of future sales, operating results, cash flows and discount rates are subject to changes in the economic environment, including such factors as the general level of market interest rates, expected equity market returns and the volatility of markets served, particularly when recessionary economic circumstances continue for an extended period of time. Management believes the estimates of future cash flows and fair values are reasonable; however, changes in estimates due to variance from assumptions could materially affect the evaluations. 
+ 
+ RETIREMENT PLANS 
+ The Company maintains a prudent long-term investment strategy consistent with the duration of pension obligations. The determination of defined benefit plan expense and liabilities is dependent on various assumptions, including the expected annual rate of return on plan assets, the discount rate and the rate of annual compensation increases. Management believes the assumptions used are appropriate; however, actual experience may differ. In accordance with U.S. generally accepted accounting principles, actual results that differ from the Company's assumptions are accumulated as deferred actuarial gains or losses and amortized to expense in future periods. The Company transitioned from defined benefit to defined contribution retirement plans in 2016. The principal U.S. defined benefit plan is closed to employees hired after January 1, 2016 while shorter-tenured current employees ceased accruing benefits effective October 1, 2016. Affected employees transitioned to an enhanced defined contribution plan. See Notes 11 and 12. 
+ 
+ During 2018, the funded status of the Company's pension plans improved by $407 million . As of September 30, 2018 , the U.S. pension plans were overfunded by $276 million in total, including unfunded plans totaling $182 million . The non-U.S. plans were underfunded by $199 million , including unfunded plans totaling $270 million . The Company contributed a total of $61 million to defined benefit plans in 2018 and expects to contribute approximately $60 million in 2019 . At year-end 2018 , the discount rate for U.S. plans was 4.26 percent , and was 3.76 percent in 2017 . The assumed investment return on plan assets was 7.00 percent in 2018 , 7.25 percent in 2017 and 7.50 percent in 2016 , and is expected to be 7.00 percent for 2019 . Deferred actuarial losses to be amortized to expense in future years were $712 million ($531 million after-tax) as of September 30, 2018 . 
+ 
+ CONTINGENT LIABILITIES 
+ The Company is a party to a number of pending legal proceedings and claims, including those involving general and product liability (including asbestos) and other matters, several of which claim substantial amounts of damages. The Company accrues for such liabilities when it is probable that future costs (including legal fees and expenses) will be incurred and such costs can be reasonably estimated. Accruals are based on developments to date; management's estimates of the outcomes of these matters; the Company's experience in contesting, litigating and settling similar matters; and any related insurance coverage. Although it is not possible to predict the ultimate outcome of these matters, the Company historically has been largely successful in defending itself against claims 
+ 
+ 
+ 23 
+ 
+ 
+ 
+ 
+ 
+ and suits that have been brought against it, and will continue to defend itself vigorously in all such matters. While the Company believes a material adverse impact is unlikely, given the inherent uncertainty of litigation, a remote possibility exists that a future development could have a material adverse impact on the Company. See Note 13. 
+ 
+ INCOME TAXES 
+ Income tax expense and tax assets and liabilities reflect management's assessment of taxes paid or expected to be paid (received) on items included in the financial statements. Deferred tax assets and liabilities arise from temporary differences between the consolidated financial statement carrying amounts of existing assets and liabilities and their respective tax bases, and consideration of operating loss and tax credit carryforwards. Deferred income taxes are measured using enacted tax rates in effect for the year in which the temporary differences are expected to be recovered or settled. The impact on deferred tax assets and liabilities of a change in tax rates is recognized in the period that includes the enactment date. Valuation allowances are provided to reduce deferred tax assets to the amount that will more likely than not be realized. This requires management to make judgments and estimates regarding the amount and timing of the reversal of taxable temporary differences, expected future taxable income, and the impact of tax planning strategies. 
+ 
+ Uncertainty exists regarding tax positions taken in previously filed tax returns which remain subject to examination, along with positions expected to be taken in future returns. The Company provides for unrecognized tax benefits, based on the technical merits, when it is more likely than not that an uncertain tax position will not be sustained upon examination. Adjustments are made to the uncertain tax positions when facts and circumstances change, such as the closing of a tax audit; changes in applicable tax laws, including tax case rulings and legislative guidance; or expiration of the applicable statute of limitations. 
+ 
+ On December 22, 2017, the U.S. government enacted the Tax Cuts and Jobs Act, which made comprehensive changes to U.S. federal income tax laws by moving from a global to a modified territorial tax regime. As a result, cash repatriated to the U.S. is generally no longer subject to U.S. federal income taxes. No provision is made for foreign withholding taxes and any applicable U.S. income taxes on the undistributed earnings of non-U.S. subsidiaries where these earnings are considered indefinitely invested or otherwise retained for continuing international operations. Determination of the amount of taxes that might be paid on these undistributed earnings if eventually remitted is not practicable. See Notes 1 and 14. 
+ 
+ Other Items 
+ 
+ LEGAL MATTERS 
+ At September 30, 2018 , there were no known contingent liabilities (including guarantees, pending litigation, taxes and other claims) that management believes will be material in relation to the Company's financial statements, nor were there any material commitments outside the normal course of business. 
+ 
+ NEW ACCOUNTING PRONOUNCEMENTS 
+ In May 2014, the FASB issued ASC 606, Revenue from Contracts with Customers , to update and consolidate revenue recognition guidance from multiple sources into a single, comprehensive standard to be applied for all contracts with customers. The fundamental principle of the revised standard is to recognize revenue based on the transfer of goods and services to customers at an amount that the Company expects to be entitled to in exchange for those goods and services. Also required are additional disclosures regarding the nature, extent, timing and uncertainty of revenues and associated cash flows. The Company adopted the new standard as of October 1, 2018 using the modified retrospective transition method. The cumulative effect of adoption to be recognized in the first quarter of fiscal 2019 is expected to result in an immaterial increase to retained earnings. Further, the updates are not expected to materially impact the Company's financial statements in fiscal 2019. The Company is in the process of finalizing changes to its business processes, systems, controls and accounting policies to support recognition and disclosure under the new guidance. 
+ 
+ In February 2016, the FASB issued ASC 842, Leases , to require recognition on the balance sheet of assets and liabilities related to the rights and obligations associated with all lease arrangements. Currently, obligations classified as operating leases are not recorded on the balance sheet but must be disclosed. The new standard is effective for the Company in the first quarter of fiscal 2020. The Company expects the revised standard to have a material impact on its balance sheet due to the recognition of right-of-use assets and lease liabilities related to operating leases. Contractual obligations related to operating leases totaled $661 million at September 30, 2018 . The Company does not expect the new standard will materially impact its results of operations. 
+ 
+ 
+ 24 
+ 
+ 
+ 
+ 
+ 
+ In February 2018, the FASB issued updates to ASC 220, Comprehensive Income , which permit reclassification of stranded tax effects resulting from U.S. tax reform from accumulated other comprehensive income to retained earnings. The Company adopted these updates in the fourth quarter of fiscal 2018 and reclassified $100 million of stranded tax effects from accumulated other comprehensive income to retained earnings. See Note 17. 
+ In March 2017, the FASB issued updates to ASC 715, Compensation - Retirement Benefits , which only permit the service cost component of net periodic pension and postretirement expense to be reported with other compensation costs, while all other components are required to be reported separately in other deductions. These updates are effective in the first quarter of fiscal 2019, with early adoption permitted, and must be adopted on a retrospective basis. The updates will result in the reclassification of $40 million of income and $38 million of expense in 2018 and 2017, respectively, from cost of sales and SG&A to other deductions, net. 
+ In August 2017, the FASB issued updates to ASC 815, Derivatives and Hedging , which permit hedging contractually specified risk components. The updates also eliminate the requirement to separately measure and report hedge ineffectiveness and simplify hedge documentation and effectiveness assessment requirements. These updates are effective for the Company in the first quarter of fiscal 2020, with early adoption permitted, and must be adopted using a modified retrospective approach. The Company is in the process of evaluating the impact of the revised standard on its financial statements. 
+ In January 2017, the FASB issued updates to ASC 350, Intangibles - Goodwill and Other , eliminating the requirement to measure impairment based on the implied fair value of goodwill compared to the carrying amount of a reporting unit’s goodwill. Instead, goodwill impairment will be measured as the excess of a reporting unit’s carrying amount over its estimated fair value. These updates are effective prospectively for impairment tests beginning in fiscal 2021, with early adoption permitted. 
+ In August 2018, the FASB issued updates to ASC 715, Compensation - Retirement Benefits , which modify the disclosure requirements for employers that sponsor defined benefit plans or other postretirement plans. These updates are effective in fiscal 2021, with early adoption permitted, and must be adopted on a retrospective basis. The updates change disclosures only and will not impact the Company’s results of operations. 
+ 
+ In August 2018, the FASB issued updates to ASC 350, Intangibles - Goodwill and Other , which aligns the requirements for capitalizing implementation costs incurred in a hosting arrangement with the requirements for costs incurred to develop or obtain internal-use software. These updates are effective either prospectively or retrospectively in the first quarter of fiscal 2021, with early adoption permitted, and are not expected to materially impact the Company's results of operations. 
+ FISCAL 2019 OUTLOOK 
+ The Company's strong performance in fiscal 2018 provides momentum heading into 2019, with demand expected to continue in both mature and emerging markets and across industries. Automation Solutions net sales are expected to be up 6 to 9 percent, with underlying sales up 5 to 8 percent excluding a positive impact from acquisitions of approximately 3 percent and unfavorable currency translation of 2 percent. Commercial & Residential Solutions net sales are expected to be up 8 to 10 percent, with underlying sales up 3 to 5 percent excluding a positive impact from acquisitions of approximately 6 percent and unfavorable currency translation of 1 percent. Consolidated net sales are expected to be up 6 to 9 percent, with underlying sales up 4 to 7 percent excluding a positive impact from acquisitions of approximately 4 percent and unfavorable currency translation of 2 percent. Reported earnings per share are expected to be $3.55 to $3.70, while operating cash flow is expected to be approximately $3.2 billion and free cash flow, which excludes targeted capital spending of $650 million, is expected to be approximately $2.5 billion. 
+ 
+ 

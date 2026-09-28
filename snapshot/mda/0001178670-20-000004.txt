@@ -1,0 +1,1989 @@
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+ 
+ Overview 
+ We are a global commercial-stage biopharmaceutical company that discovers, develops, manufactures and commercializes novel therapeutics based on RNAi. Our commercialized products and broad pipeline of investigational RNAi therapeutics are focused in four STArs: Genetic Medicines, Cardio-Metabolic Diseases, Hepatic Infectious Diseases and CNS/Ocular Diseases. 
+ As described in Part I, ITEM 1. "Business," of this annual report on Form 10-K, we currently have two products that have received marketing approval and six late-stage investigational programs advancing towards potential commercialization. Also refer to Part I, ITEM 1. "Business" for a summary of key events in 2019 and 2020 to-date related to our marketed products and our clinical development programs. 
+ We have incurred significant losses since we commenced operations in 2002 and expect such losses to continue for the foreseeable future. As of December 31, 2019, we had an accumulated deficit of $3.73 billion. Historically, we have generated losses principally from costs associated with research and development activities, acquiring, filing and expanding intellectual property rights, and selling, general and administrative costs. As a result of planned expenditures for research and development activities relating to our research platform, our drug development programs, including clinical trial and manufacturing costs, the 
+ 
+ 
+ 68 
+ 
+ Table of Contents 
+ establishment of late-stage clinical and commercial capabilities, including global commercial operations, continued management and growth of our patent portfolio, collaborations and general corporate activities, we expect to incur additional operating losses for the foreseeable future. We also anticipate that our operating results will fluctuate for the foreseeable future. Therefore, period-to-period comparisons should not be relied upon as predictive of the results in future periods. 
+ We currently have programs focused on a number of therapeutic areas and in August 2018 received regulatory approval from the FDA and EC for our first product, ONPATTRO, and began to generate net revenues from product sales during the third quarter of 2018. Furthermore, in November 2019 we received FDA approval for our second product, GIVLAARI, and began to generate net revenues from product sales during the fourth quarter of 2019. However, our ongoing development efforts may not be successful and we may not be able to commence sales of any other products and/or successfully market and sell ONPATTRO, GIVLAARI or any other approved products in the future. A substantial portion of our total revenues in recent years has been derived from collaboration revenues from strategic alliances with Regeneron, Sanofi Genzyme and MDCO. In addition to revenues from the commercial sales of ONPATTRO, GIVLAARI and potentially from sales of future products, we expect our sources of potential funding for the next several years to continue to be derived in part from existing and new strategic alliances, which may include license and other fees, funded research and development, milestone payments and royalties on product sales by our licensors, as well as proceeds from the sale of equity or debt. 
+ 
+ Critical Accounting Policies and Estimates 
+ Our discussion and analysis of our financial condition and results of operations is based on our consolidated financial statements, which have been prepared in accordance with GAAP. The preparation of our consolidated financial statements requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses, and disclosure of contingent assets and liabilities in our consolidated financial statements. Actual results may differ from these estimates under different assumptions or conditions and could have a material impact on our reported results. While our significant accounting policies are more fully described in the Notes to our consolidated financial statements included elsewhere in this annual report on Form 10-K, we believe the following accounting policies to be the most critical in understanding the judgments and estimates we use in preparing our consolidated financial statements: 
+ Net Product Revenues 
+ Our net product sales consist of sales of ONPATTRO and GIVLAARI and are recognized, net of variable consideration related to certain allowances and accruals, at the time the customer obtains control of our product. We use the expected value method, which is the sum of probability-weighted amounts in a range of possible consideration amounts, or the most likely amount method, which is the single most likely amount in a range of possible considerations, to estimate variable consideration related to our product sales. We use the expected value method to estimate variable consideration for certain rebates, chargebacks, product returns, and other incentives and we use the most likely amount method for certain rebates and trade discounts and allowances. 
+ The following are the components of variable consideration related to product revenues. We record reserves, based on contractual terms, for these components related to product sold during the reporting period, as well as our estimate of product that remains in the distribution channel inventory at the end of the reporting period that we expect will be sold to qualified healthcare providers. On a quarterly basis, we update our estimates and record any needed adjustments in the period we identify the adjustments. 
+ Chargebacks : We estimate obligations resulting from contractual commitments with the government and other entities to sell products to qualified healthcare providers at prices lower than the list prices charged to the customer who directly purchases from us. The customer charges us for the difference between what it pays to us for the product and the selling price to the qualified healthcare providers. 
+ Rebates : We are subject to discount obligations under government programs, including Medicaid in the U.S. and similar programs in certain other countries, including countries in which we are accruing for estimated rebates because final pricing has not yet been negotiated. We are also subject to potential rebates in connection with our VBAs with certain commercial payors. We record reserves for rebates in the same period the related product revenue is recognized, resulting in a reduction of product revenues and a current liability that is included in accrued expenses on our consolidated balance sheet. Our estimate for rebates is based on statutory discount rates, expected utilization or an estimated number of patients on treatment, as applicable. 
+ Trade discounts and allowances : We provide customary invoice discounts on product sales to our customers for prompt payment and we pay fees for distribution services, such as fees for certain data that customers provide to us. We estimate our customers will earn these discounts and fees, and deduct these discounts and fees in full from gross product revenues and accounts receivable at the time we recognize the related revenues. 
+ Product returns: We offer customers product return rights if products are damaged, defective or expired, with “expired” defined as within three months pre- or post-expiry. We estimate the amount of product that will be returned using a probability-weighted estimate based on our sales history. 
+ 
+ 
+ 69 
+ 
+ Table of Contents 
+ Other incentives: Other incentives include co-payment assistance we provide to patients with commercial insurance that have coverage and reside in states that allow co-payment assistance. We estimate the average co-payment assistance amounts for our products based on expected customer demographics and record any such amounts within accrued expenses on our consolidated balance sheet. 
+ Revenues from Collaborators 
+ We earn revenue in connection with collaboration agreements which allow our collaboration partners to utilize our technology platforms and develop product candidates. Our collaboration agreements are detailed in Note 4, Collaboration Agreements, to our consolidated financial statements included in Part II, ITEM 8, “Financial Statements and Supplementary Data,” of this annual report on Form 10-K. For each collaboration partner, we discuss our revenue recognition, including our significant performance obligations under each agreement. 
+ At contract inception, we assess whether the collaboration arrangements are within the scope of Accounting Standards Codification, or ASC, Topic 808, Collaborative Arrangements, or ASC 808, to determine whether such arrangements involve joint operating activities performed by parties that are both active participants in the activities and exposed to significant risks and rewards dependent on the commercial success of such activities. This assessment is performed based on the responsibilities of all parties in the arrangement. For collaboration arrangements within the scope of ASC 808 that contain multiple elements, we first determine which elements of the arrangement are within the scope of ASC 808 and which elements are within the scope of ASC Topic 606, Revenue from Contracts with Customers, or ASC 606. For elements of collaboration arrangements that are accounted for pursuant to ASC 808, an appropriate recognition method is determined and applied consistently, either by analogy to authoritative accounting literature or by applying a reasonable and rational policy election. 
+ For elements of collaboration arrangements that are accounted for pursuant to ASC 606, we identify the performance obligations and allocate the total consideration we expect to receive on a relative standalone selling price basis to each performance obligation. Variable consideration such as performance-based milestones will be included in the total consideration if we expect to receive such consideration and if it is probable that the inclusion of the variable consideration will not result in a significant reversal in the cumulative amount of revenue recognized under the arrangement. Our estimate of the total consideration we expect to receive under each collaboration arrangement is updated for each reporting period, and any adjustments to revenue are recorded on a cumulative catch-up basis. We exclude sales-based royalty and milestone payments from the total consideration we expect to receive until the underlying sales occur because the license to our intellectual property is deemed to be the predominant ITEM to which the royalties or milestones relate as it is the primary driver of value in our collaboration arrangements. 
+ Key assumptions to determine the standalone selling price may include forecasted revenues, development timelines, reimbursement rates for personnel costs, the expected number of targets or indications expected to be pursued under each license, discount rates and probabilities of technical and regulatory success. We recognize revenue associated with each performance obligation as the control over the promised goods or services transfer to our collaboration partner which occurs either at a point in time or over time. If control transfers over time, revenue is recognized by using a method of measuring progress that best depicts the transfer of goods or services. We evaluate the measure of progress and related inputs each reporting period and any resulting adjustments to revenue are recorded on a cumulative catch-up basis. 
+ Consideration received that does not meet the requirements to satisfy ASC 808 or ASC 606 revenue recognition criteria is recorded as deferred revenue in the accompanying consolidated balance sheets, classified as either short-term or long-term deferred revenue based on our best estimate of when, less than 12 months (short-term) or more than 12 months (long-term), such revenue will be recognized. 
+ Inventory 
+ We capitalize inventory costs that are expected to be sold commercially once we determine it is probable that the inventory costs will be recovered through commercial sale based on the review of several factors, including (i) the likelihood that all required regulatory approvals will be received, considering any special filing status, (ii) the expected timing of validation (if not yet completed) of manufacturing processes in the associated facility, (iii) the expected expiration of the inventory, (iv) logistical or commercial constraints that may impede the timely distribution and sale of the product, including transport requirements and reimbursement status, (v) current market factors, including competitive landscape and pricing, (vi) threatened or anticipated litigation challenges, (vii) history of approvals of similar products or formulations and (viii) FDA (or other appropriate regulatory agencies) correspondence regarding the safety and efficacy of the product. Prior to the capitalization of inventory costs, we record such costs as research and development expenses on our consolidated statements of operations and comprehensive loss. 
+ On a quarterly basis, we evaluate the recoverability of capitalized inventory using significant judgments, estimates and assumptions, primarily those related to commercial sales forecasts and product shelf life. We periodically review inventory levels to identify what may expire prior to expected sale or has a cost basis in excess of its estimated realizable value. We write-down such inventories as appropriate. 
+ Income Taxes 
+ 
+ 
+ 70 
+ 
+ Table of Contents 
+ Uncertain tax positions, for which management's assessment is that there is a more than 50% probability of sustaining the position upon challenge by a taxing authority based upon its technical merits, are subject to certain recognition and measurement criteria. The nature of the uncertain tax positions is often very complex and subject to change, and the amounts at issue can be substantial. We develop our cumulative probability assessment of the measurement of uncertain tax positions using internal experience, judgment and assistance from professional advisors. We re-evaluate these uncertain tax positions on a quarterly basis based on a number of factors including, but not limited to, changes in facts or circumstances, changes in tax law, and effectively settled issues under audit and new audit activity. Any change in these factors could result in the recognition of a tax benefit or an additional charge to the tax provision. 
+ We account for income taxes under the asset and liability method. Under this method, deferred tax assets and liabilities are recognized for the estimated future tax consequences attributable to differences between financial statement carrying amounts of existing assets and liabilities and their respective tax basis. Deferred tax assets and liabilities are measured using enacted rates in effect for the year in which these temporary differences are expected to be recovered or settled. Valuation allowances are provided if, based on the weight of available evidence, it is more likely than not that some or all of the deferred tax assets will not be realized. 
+ Stock-Based Compensation 
+ We recognize stock-based compensation expense for grants under our stock incentive plans and employee stock purchase plan, as well as inducement stock grants outside of our stock incentive plans. We account for all stock-based awards granted to employees at their fair value and recognize compensation expense over the vesting period of the award. Determining the amount of stock-based compensation to be recorded requires us to develop estimates of fair values of stock options as of the grant date. We calculate the grant date fair values of stock options using the Black-Scholes valuation model, which requires the input of subjective assumptions, including but not limited to expected stock price volatility over the term of the awards and the expected term of stock options. The fair value of restricted stock awards granted to employees is based upon the quoted closing market price per share on the date of grant. 
+ We have performance conditions included in certain of our stock option and restricted stock awards that are based upon the achievement of pre-specified clinical development, regulatory and/or commercial events. As the outcome of each event has inherent risk and uncertainties, and a positive outcome may not be known until the event is achieved, we begin to recognize the value of the performance-based stock option and restricted stock awards when we determine the achievement of each performance condition is deemed probable, a determination which requires significant judgment by management. At the probable date, we record a cumulative expense catch-up, with remaining expense amortized over the remaining service period. 
+ Research and Development Accruals 
+ We record accrued liabilities related to products we have received or services that we have incurred, specifically related to ongoing pre-clinical studies and clinical trials, for which service providers have not yet billed us, or when billing terms under these contracts do not coincide with the timing of when the work is performed, as of our period-end. These costs primarily relate to third-party clinical management costs, laboratory and analysis costs, toxicology studies and investigator fees. The assessment of these costs is a subjective process, requiring judgment based on our knowledge of the research and development programs, services performed for the period, experience with related activities and the expected duration of the third-party service contract, where applicable. Upon settlement, these costs may differ materially from the amounts accrued in our consolidated financial statements. Our historical accrual estimates have not been materially different from our actual costs. 
+ 
+ Results of Operations 
+ The following data summarizes the results of our operations, in thousands: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Description 
+ 
+ Year Ended December 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2019 
+ 
+ 2018 
+ 
+ 
+ 2017 (1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Revenues 
+ 
+ $ 
+ 219,750 
+ 
+ 
+ $ 
+ 74,908 
+ 
+ 
+ 
+ $ 
+ 89,912 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating costs and expenses 
+ 
+ $ 
+ 1,159,181 
+ 
+ 
+ $ 
+ 889,581 
+ 
+ 
+ 
+ $ 
+ 590,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Loss from operations 
+ 
+ $ 
+ (939,431) 
+ 
+ 
+ $ 
+ (814,673) 
+ 
+ 
+ 
+ $ 
+ (500,088) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net loss 
+ 
+ $ 
+ (886,116) 
+ 
+ 
+ $ 
+ (761,497) 
+ 
+ 
+ 
+ $ 
+ (490,874) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) Periods prior to our adoption of ASC 606 have not been adjusted under the modified retrospective method. Please read Note 2 to our consolidated financial statements included in Part II, ITEM 8, “Financial Statements and Supplementary Data,” of this annual report on Form 10-K for further discussion of our adoption of the new revenue standard. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For discussion of our 2018 results and a comparison with 2017 results please refer to "Management's Discussion and Analysis of Financial Conditions and Results of Operations" in our Annual Report on Form 10-K for the fiscal year ended December 31, 2018. 
+ 
+ 
+ 71 
+ 
+ Table of Contents 
+ Revenues 
+ The following table summarizes our total consolidated revenues, in thousands: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Description 
+ 
+ Years Ended December 31, 
+ 
+ 
+ 
+ 
+ 
+ 2019 vs 2018 
+ 
+ 
+ 
+ 2018 vs 2017 
+ 
+ 
+ 
+ 
+ 
+ 2019 
+ 
+ 2018 
+ 
+ 
+ 2017 (1) 
+ 
+ Dollar Change 
+ 
+ Percent Change 
+ 
+ Dollar Change 
+ 
+ Percent Change 
+ 
+ Net product revenues 
+ 
+ $ 
+ 166,537 
+ 
+ 
+ $ 
+ 12,535 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ 154,002 
+ 
+ 
+ 1229 
+ % 
+ 
+ $ 
+ 12,535 
+ 
+ 
+ N/A 
+ 
+ 
+ Net revenues from collaborators 
+ 
+ 53,213 
+ 
+ 
+ 62,373 
+ 
+ 
+ 89,912 
+ 
+ 
+ (9,160) 
+ 
+ 
+ (15) 
+ % 
+ 
+ (27,539) 
+ 
+ 
+ (31) 
+ % 
+ 
+ Total 
+ 
+ $ 
+ 219,750 
+ 
+ 
+ $ 
+ 74,908 
+ 
+ 
+ $ 
+ 89,912 
+ 
+ 
+ $ 
+ 144,842 
+ 
+ 
+ 193 
+ % 
+ 
+ $ 
+ (15,004) 
+ 
+ 
+ (17) 
+ % 
+ 
+ 
+ (1) As noted above, prior period amounts have not been adjusted under the modified retrospective method. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net Product Revenues 
+ We began to record net product revenues following regulatory approval of ONPATTRO and its subsequent commercial launch in the U.S. and several countries in Europe during the third and fourth quarters of 2018, respectively. Net product sales increased during the year ended December 31, 2019, compared to the year ended December 31, 2018, as a result of an entire year of ONPATTRO sales activities and continued expansion into additional major markets. In November 2019, we received FDA approval for GIVLAARI and in December 2019, we commercially launched GIVLAARI in the U.S. 
+ Net product revenues consist of the following, in thousands: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Description 
+ Years Ended December 31, 
+ 
+ 
+ 
+ 
+ 
+ 2019 vs 2018 
+ 
+ 
+ 
+ 2018 vs 2017 
+ 
+ 
+ 
+ 
+ 2019 
+ 
+ 2018 
+ 
+ 2017 
+ 
+ Dollar Change 
+ 
+ Percent Change 
+ 
+ Dollar Change 
+ 
+ Percent Change 
+ 
+ United States 
+ $ 
+ 116,452 
+ 
+ 
+ 
+ $ 
+ 8,589 
+ 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ 107,863 
+ 
+ 
+ 1256 
+ % 
+ 
+ 
+ $ 
+ 8,589 
+ 
+ 
+ N/A 
+ 
+ 
+ Rest of World 
+ 50,085 
+ 
+ 
+ 
+ 3,946 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 46,139 
+ 
+ 
+ 1169 
+ % 
+ 
+ 
+ 3,946 
+ 
+ 
+ N/A 
+ 
+ 
+ Total net product revenues 
+ $ 
+ 166,537 
+ 
+ 
+ $ 
+ 12,535 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ 154,002 
+ 
+ 
+ 1229 
+ % 
+ 
+ 
+ $ 
+ 12,535 
+ 
+ 
+ N/A 
+ 
+ We expect net product revenues to increase during 2020 as compared to 2019 as we continue to add new patients onto ONPATTRO and GIVLAARI therapy, as well as launch our approved products into additional markets, assuming regulatory approvals. 
+ Please read Note 3 to our consolidated financial statements included in Part II, ITEM 8, “Financial Statements and Supplementary Data,” of this annual report on Form 10-K for balances and activity in each product revenue allowance and reserve category for the years ended December 31, 2019 and 2018. 
+ Net Revenues from Collaborators 
+ The following table summarizes our total consolidated net revenues from collaborators under our research and development collaborations, in thousands: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Description 
+ Years Ended December 31, 
+ 
+ 
+ 
+ 
+ 
+ 2019 vs 2018 
+ 
+ 
+ 
+ 2018 vs 2017 
+ 
+ 
+ 
+ 
+ 2019 
+ 
+ 2018 
+ 
+ 
+ 2017 (1) 
+ 
+ Dollar Change 
+ 
+ Percent Change 
+ 
+ Dollar Change 
+ 
+ Percent Change 
+ 
+ Regeneron Pharmaceuticals 
+ $ 
+ 26,075 
+ 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ 26,075 
+ 
+ 
+ N/A 
+ 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ N/A 
+ 
+ 
+ Vir Biotechnology 
+ 12,809 
+ 
+ 
+ 
+ 12,778 
+ 
+ 
+ 
+ 1,464 
+ 
+ 
+ 31 
+ 
+ 
+ — 
+ % 
+ 
+ 
+ 11,314 
+ 
+ 
+ 773 
+ % 
+ 
+ Sanofi Genzyme 
+ 10,976 
+ 
+ 
+ 46,000 
+ 
+ 
+ 54,625 
+ 
+ 
+ (35,024) 
+ 
+ 
+ (76) 
+ % 
+ 
+ (8,625) 
+ 
+ 
+ (16) 
+ % 
+ 
+ The Medicines Company 
+ 2,315 
+ 
+ 
+ 2,789 
+ 
+ 
+ 30,217 
+ 
+ 
+ (474) 
+ 
+ 
+ (17) 
+ % 
+ 
+ (27,428) 
+ 
+ 
+ (91) 
+ % 
+ 
+ Other 
+ 1,038 
+ 
+ 
+ 806 
+ 
+ 
+ 3,606 
+ 
+ 
+ 232 
+ 
+ 
+ 29 
+ % 
+ 
+ (2,800) 
+ 
+ 
+ (78) 
+ % 
+ 
+ Total 
+ $ 
+ 53,213 
+ 
+ 
+ $ 
+ 62,373 
+ 
+ 
+ $ 
+ 89,912 
+ 
+ 
+ $ 
+ (9,160) 
+ 
+ 
+ (15) 
+ % 
+ 
+ 
+ $ 
+ (27,539) 
+ 
+ 
+ (31) 
+ % 
+ 
+ 
+ (1) As noted above, prior period amounts have not been adjusted under the modified retrospective method. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net revenues from collaborators decreased during the year ended December 31, 2019, as compared to the year ended December 31, 2018, primarily due to a decrease in reimbursable activities in connection with our collaboration agreements with Sanofi Genzyme, offset by an increase in revenues in connection with our collaboration agreement with Regeneron. 
+ We expect net revenues from collaborators to increase during 2020 as compared to 2019 due primarily to increased reimbursable activities and milestones under our existing collaborations, as well as an increase in revenues in connection with our collaboration with Regeneron. 
+ 
+ 
+ 72 
+ 
+ Table of Contents 
+ Operating Costs and Expenses 
+ The following table summarizes our operating costs and expenses, in thousands: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Description 
+ 
+ Year Ended December 31, 
+ 
+ 
+ 
+ 
+ 
+ 2019 vs 2018 
+ 
+ 
+ 
+ 2018 vs 2017 
+ 
+ 
+ 
+ 
+ 
+ 2019 
+ 
+ 2018 
+ 
+ 2017 
+ 
+ Dollar Change 
+ 
+ Percent Change 
+ 
+ Dollar Change 
+ 
+ Percent Change 
+ 
+ Cost of goods sold 
+ 
+ $ 
+ 25,062 
+ 
+ 
+ $ 
+ 1,802 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ 23,260 
+ 
+ 
+ 1291 
+ % 
+ 
+ $ 
+ 1,802 
+ 
+ 
+ N/A 
+ 
+ 
+ Research and development 
+ 
+ 655,114 
+ 
+ 
+ 505,420 
+ 
+ 
+ 390,635 
+ 
+ 
+ 149,694 
+ 
+ 
+ 30 
+ % 
+ 
+ 114,785 
+ 
+ 
+ 29 
+ % 
+ 
+ 
+ Selling, general and administrative 
+ 
+ 479,005 
+ 
+ 
+ 382,359 
+ 
+ 
+ 199,365 
+ 
+ 
+ 96,646 
+ 
+ 
+ 25 
+ % 
+ 
+ 182,994 
+ 
+ 
+ 92 
+ % 
+ 
+ 
+ Total 
+ 
+ $ 
+ 1,159,181 
+ 
+ 
+ $ 
+ 889,581 
+ 
+ 
+ $ 
+ 590,000 
+ 
+ 
+ $ 
+ 269,600 
+ 
+ 
+ 30 
+ % 
+ 
+ $ 
+ 299,581 
+ 
+ 
+ 51 
+ % 
+ Cost of Goods Sold 
+ Cost of goods sold includes the cost of producing and distributing inventories that are related to product revenues, third-party royalties, and amortization of licensing rights. Cost of goods sold increased during the year ended December 31, 2019, as compared to the year ended December 31, 2018, primarily due to the increase in net product revenues and a charge for excess and obsolete ONPATTRO inventories. Based on our policy, we record costs associated with the manufacturing of our products as research and development expense prior to FDA approval or until we expect that these costs will be recoverable through commercialization of our products (zero-cost inventory). Certain units of product sold and recognized as revenue during the years ended December 31, 2019 and 2018 were zero-cost inventory and therefore the cost of goods sold for the years ended December 31, 2019 and 2018 reflects only a portion of the manufacturing cost of our commercial products. As of December 31, 2019, we had sold substantially all zero-cost inventory of ONPATTRO. We will continue to sell our zero-cost inventory of GIVLAARI in 2020. We anticipate variability in our cost of goods sold as a percentage of net product revenues due to the timing of manufacturing runs and utilization and the depletion of zero-cost inventories, as well as future product launches. 
+ We expect that cost of goods sold will increase during 2020 as compared to 2019 primarily as a result of an expected increase in net product sales. 
+ Research and Development 
+ The following table summarizes the components of our research and development expenses, in thousands: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Description 
+ 
+ Year Ended December 31, 
+ 
+ 
+ 
+ 
+ 
+ 2019 vs 2018 
+ 
+ 
+ 
+ 2018 vs 2017 
+ 
+ 
+ 
+ 
+ 
+ 2019 
+ 
+ 2018 
+ 
+ 2017 
+ 
+ Dollar Change 
+ 
+ Percent Change 
+ 
+ Dollar Change 
+ 
+ Percent Change 
+ 
+ Clinical trial and manufacturing 
+ 
+ $ 
+ 203,897 
+ 
+ 
+ $ 
+ 173,271 
+ 
+ 
+ $ 
+ 142,411 
+ 
+ 
+ $ 
+ 30,626 
+ 
+ 
+ 18 
+ % 
+ 
+ $ 
+ 30,860 
+ 
+ 
+ 
+ 22 
+ % 
+ 
+ Compensation and related 
+ 
+ 157,001 
+ 
+ 
+ 116,350 
+ 
+ 
+ 100,728 
+ 
+ 
+ 40,651 
+ 
+ 
+ 35 
+ % 
+ 
+ 15,622 
+ 
+ 
+ 
+ 16 
+ % 
+ 
+ Stock-based compensation 
+ 
+ 88,930 
+ 
+ 
+ 80,509 
+ 
+ 
+ 51,872 
+ 
+ 
+ 8,421 
+ 
+ 
+ 10 
+ % 
+ 
+ 28,637 
+ 
+ 
+ 
+ 55 
+ % 
+ 
+ External services 
+ 
+ 75,448 
+ 
+ 
+ 55,165 
+ 
+ 
+ 38,675 
+ 
+ 
+ 20,283 
+ 
+ 
+ 37 
+ % 
+ 
+ 16,490 
+ 
+ 
+ 
+ 43 
+ % 
+ 
+ Facilities-related 
+ 
+ 54,650 
+ 
+ 
+ 42,159 
+ 
+ 
+ 31,022 
+ 
+ 
+ 12,491 
+ 
+ 
+ 30 
+ % 
+ 
+ 11,137 
+ 
+ 
+ 
+ 36 
+ % 
+ 
+ License fees 
+ 
+ 37,030 
+ 
+ 
+ 7,959 
+ 
+ 
+ 7,651 
+ 
+ 
+ 29,071 
+ 
+ 
+ 365 
+ % 
+ 
+ 308 
+ 
+ 
+ 4 
+ % 
+ 
+ Lab supplies, materials and other 
+ 
+ 38,158 
+ 
+ 
+ 30,007 
+ 
+ 
+ 18,276 
+ 
+ 
+ 8,151 
+ 
+ 
+ 27 
+ % 
+ 
+ 11,731 
+ 
+ 
+ 
+ 64 
+ % 
+ 
+ 
+ Total 
+ 
+ $ 
+ 655,114 
+ 
+ 
+ $ 
+ 505,420 
+ 
+ 
+ $ 
+ 390,635 
+ 
+ 
+ $ 
+ 149,694 
+ 
+ 
+ 30 
+ % 
+ 
+ $ 
+ 114,785 
+ 
+ 
+ 
+ 29 
+ % 
+ Research and development expenses increased during the year ended December 31, 2019, as compared to the year ended December 31, 2018, primarily due to the following: 
+ • Increased clinical trial and manufacturing and external services expenses as a result of increased pre-clinical and clinical services related to the advancement of our early and late-stage programs to support our long-term strategic goals; 
+ • Increased compensation and related expenses and facilities-related expenses, as a result of growth in headcount to support our goals for 2020; and 
+ • Increased license fees resulting from our collaboration agreement with Regeneron. 
+ During the years ended December 31, 2019 and 2018, in connection with advancing activities under our collaboration agreements, we incurred research and development expenses, primarily related to external development and manufacturing 
+ 
+ 
+ 73 
+ 
+ Table of Contents 
+ services. The following table summarizes the expenses incurred, for which we recognize net revenue, under our collaboration agreements by collaboration partner, in thousands: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Description 
+ 
+ Year Ended December 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2019 
+ 
+ 2018 
+ 
+ 2017 
+ 
+ Regeneron Pharmaceuticals 
+ 
+ $ 
+ 24,916 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ $ 
+ — 
+ 
+ 
+ Vir Biotechnology 
+ 
+ 15,479 
+ 
+ 
+ 16,071 
+ 
+ 
+ 2,060 
+ 
+ 
+ Sanofi Genzyme 
+ 
+ 13,856 
+ 
+ 
+ 43,219 
+ 
+ 
+ 184,703 
+ 
+ 
+ The Medicines Company 
+ 
+ 2,721 
+ 
+ 
+ 1,869 
+ 
+ 
+ 5,527 
+ 
+ 
+ Ionis Pharmaceuticals 
+ 
+ — 
+ 
+ 
+ 3,247 
+ 
+ 
+ 3,250 
+ 
+ 
+ Total 
+ 
+ $ 
+ 56,972 
+ 
+ 
+ $ 
+ 64,406 
+ 
+ 
+ $ 
+ 195,540 
+ 
+ We expect to continue to devote a substantial portion of our resources to research and development expenses to support our long-term strategic goals. We expect that research and development expenses will increase during 2020 as compared to 2019 as we continue to develop our pipeline and advance our product candidates, including partnered programs, into later-stage development, hire additional employees and prepare regulatory submissions. However, we expect that certain expenses will be variable depending on the timing of manufacturing batches, clinical trial enrollment and results, regulatory review of our product candidates and programs, and stock-based compensation expenses due to our determination regarding the probability of vesting for performance-based awards. 
+ Selling, General and Administrative 
+ The following table summarizes the components of our selling, general and administrative expenses, in thousands: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Description 
+ 
+ Year Ended December 31, 
+ 
+ 
+ 
+ 
+ 
+ 2019 vs 2018 
+ 
+ 
+ 
+ 2018 vs 2017 
+ 
+ 
+ 
+ 
+ 
+ 2019 
+ 
+ 2018 
+ 
+ 2017 
+ 
+ Dollar Change 
+ 
+ Percent Change 
+ 
+ Dollar Change 
+ 
+ Percent Change 
+ 
+ 
+ Consulting and professional services 
+ 
+ $ 
+ 155,843 
+ 
+ 
+ $ 
+ 137,201 
+ 
+ 
+ $ 
+ 68,847 
+ 
+ 
+ $ 
+ 18,642 
+ 
+ 
+ 14 
+ % 
+ 
+ $ 
+ 68,354 
+ 
+ 
+ 
+ 99 
+ % 
+ 
+ 
+ Compensation and related 
+ 
+ 148,271 
+ 
+ 
+ 107,376 
+ 
+ 
+ 60,289 
+ 
+ 
+ 40,895 
+ 
+ 
+ 38 
+ % 
+ 
+ 47,087 
+ 
+ 
+ 
+ 78 
+ % 
+ 
+ 
+ Stock-based compensation 
+ 
+ 85,911 
+ 
+ 
+ 77,243 
+ 
+ 
+ 40,947 
+ 
+ 
+ 8,668 
+ 
+ 
+ 11 
+ % 
+ 
+ 36,296 
+ 
+ 
+ 
+ 89 
+ % 
+ 
+ Facilities-related 
+ 
+ 35,779 
+ 
+ 
+ 25,658 
+ 
+ 
+ 11,130 
+ 
+ 
+ 10,121 
+ 
+ 
+ 39 
+ % 
+ 
+ 14,528 
+ 
+ 
+ 
+ 131 
+ % 
+ 
+ Other 
+ 
+ 53,201 
+ 
+ 
+ 34,881 
+ 
+ 
+ 18,152 
+ 
+ 
+ 18,320 
+ 
+ 
+ 53 
+ % 
+ 
+ 16,729 
+ 
+ 
+ 
+ 92 
+ % 
+ 
+ 
+ Total 
+ 
+ $ 
+ 479,005 
+ 
+ 
+ $ 
+ 382,359 
+ 
+ 
+ $ 
+ 199,365 
+ 
+ 
+ $ 
+ 96,646 
+ 
+ 
+ 25 
+ % 
+ 
+ $ 
+ 182,994 
+ 
+ 
+ 
+ 92 
+ % 
+ Selling, general and administrative expenses increased during the year ended December 31, 2019, as compared to the year ended December 31, 2018, primarily due to the following: 
+ • Increased compensation and related, consulting and professional services, and facilities-related expenses, as a result of increased commercial and medical affairs headcount and increased commercial-related services to support long-term strategic goals, the continued expansion of ONPATTRO into additional major markets, and the launch of GIVLAARI in December 2019. 
+ We expect that selling, general and administrative expenses will increase during 2020 as compared to 2019 as we continue to grow our operations, including the continued build-out of our global commercial infrastructure and field team to support ONPATTRO, GIVLAARI and potentially additional product launches, but expect that stock-based compensation expenses will be variable due to our determination regarding the probability of vesting for performance-based awards. 
+ 
+ Liquidity and Capital Resources 
+ Overview 
+ Since we commenced operations in 2002, we have generated significant losses. As of December 31, 2019, we had an accumulated deficit of $3.73 billion. As of December 31, 2019, we had cash, cash equivalents and marketable debt and equity securities of $1.54 billion, compared to $1.08 billion as of December 31, 2018. 
+ We have required significant amounts of cash to fund our operating activities as a result of net losses since our inception and we expect that we will continue to require significant amounts of cash to fund our operating activities for the foreseeable future as we continue to execute on our long-term strategic goals through the advancement of our research, development, pre-commercial and commercial initiatives. The actual amount of overall expenditures will depend on numerous factors, including the timing of net product revenues and expenses, the timing and terms of collaboration agreements or other strategic transactions, if any, and the timing and progress of our research, development and commercialization efforts. 
+ 
+ 
+ 74 
+ 
+ Table of Contents 
+ The following table summarizes our cash flow activities, in thousands: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Year Ended December 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2019 
+ 
+ 2018 
+ 
+ 2017 
+ 
+ Net loss 
+ $ 
+ (886,116) 
+ 
+ 
+ $ 
+ (761,497) 
+ 
+ 
+ 
+ $ 
+ (490,874) 
+ 
+ 
+ Non-cash adjustments to reconcile net loss to net cash used in operating activities: 
+ 205,308 
+ 
+ 
+ 153,782 
+ 
+ 
+ 
+ 110,990 
+ 
+ 
+ Changes in operating assets and liabilities: 
+ 402,381 
+ 
+ 
+ 45,099 
+ 
+ 
+ 
+ (2,902) 
+ 
+ 
+ Net cash used in operating activities 
+ (278,427) 
+ 
+ 
+ (562,616) 
+ 
+ 
+ (382,786) 
+ 
+ 
+ Net cash (used in) provided by investing activities 
+ (417,677) 
+ 
+ 
+ 272,945 
+ 
+ 
+ 
+ (290,361) 
+ 
+ 
+ Net cash provided by financing activities 
+ 823,184 
+ 
+ 
+ 65,470 
+ 
+ 
+ 
+ 1,124,891 
+ 
+ 
+ Effect of exchange rate changes on cash, cash equivalents and restricted cash 
+ (83) 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ Net increase (decrease) in cash, cash equivalents and restricted cash 
+ 126,997 
+ 
+ 
+ (224,201) 
+ 
+ 
+ 451,744 
+ 
+ 
+ 
+ Cash, cash equivalents and restricted cash, beginning of period 
+ 422,631 
+ 
+ 
+ 646,832 
+ 
+ 
+ 
+ 195,088 
+ 
+ 
+ Cash, cash equivalents and restricted cash, end of period 
+ $ 
+ 549,628 
+ 
+ 
+ $ 
+ 422,631 
+ 
+ 
+ $ 
+ 646,832 
+ 
+ Operating Activities 
+ Net cash used in operating activities decreased during the year ended December 31, 2019, compared to the year ended December 31, 2018, primarily due to the increase of deferred revenue associated with consideration of $400.0 million received under our strategic collaboration with Regeneron in May 2019, partially offset by an increase in our net loss attributable to increased operating expenses to support overall growth. 
+ Investing Activities 
+ Net cash used in investing activities increased during the year ended December 31, 2019, compared to the year ended December 31, 2018, primarily due to net activities related to our marketable debt securities, partially offset from cash provided by proceeds of $30.0 million from the release of our restricted cash collateral in connection with termination of our outstanding credit agreement. 
+ Financing Activities 
+ Net cash provided by financing activities increased during the year ended December 31, 2019, compared to the year ended December 31, 2018, primarily due to proceeds of $400.0 million received from our issuance of common stock to Regeneron and aggregate net proceeds of $381.9 million received from our January 2019 underwritten public offering. 
+ Operating Capital Requirements 
+ We currently have programs focused on a number of therapeutic areas and, in August 2018, received our first product approvals in the U.S. and EU for ONPATTRO. As a result, we began to generate net revenues from product sales during the third quarter of 2018. In November 2019, we received FDA approval for our second product, GIVLAARI, and launched the product in the U.S. in December 2019. However, our ongoing development efforts may not be successful and we may not be able to commence sales of any other products in the future. In addition, we anticipate that we will continue to generate significant losses for the foreseeable future as a result of planned expenditures for research and development activities relating to our research platform, our drug development programs, including clinical trial and manufacturing costs, the establishment of late-stage clinical and commercial capabilities, including global operations, continued management and growth of our intellectual property including our patent portfolio, collaborations and general corporate activities. In addition, we are expanding our manufacturing capabilities, including through construction of a drug substance manufacturing facility in Norton, Massachusetts. 
+ Based on our current operating plan, we believe that our cash, cash equivalents and marketable debt and equity securities as of December 31, 2019, together with the cash we expect to generate from product sales and under our current alliances, including our 2019 collaboration with Regeneron, will be sufficient to enable us to advance our long-term strategic goals for at least the next 12 months from the filing of this annual report on Form 10-K. For reasons discussed below, we may require significant additional funds earlier than we currently expect in order to continue to commercialize ONPATTRO and GIVLAARI, and to develop, conduct clinical trials for, manufacture and, if approved, commercialize additional product candidates. 
+ In the future, we may seek additional funding through new collaborative arrangements, public or private equity offerings or debt financings, or a combination of one or more of these funding sources. Additional funding may not be available to us on acceptable terms or at all. Moreover, the terms of any additional financing may adversely affect the holdings or the rights of our stockholders. For example, if we raise additional funds by issuing equity securities, further dilution to our existing stockholders 
+ 
+ 
+ 75 
+ 
+ Table of Contents 
+ will result. In addition, as a condition to providing additional funds to us, future investors may demand, and may be granted, rights superior to those of existing stockholders. Moreover, any debt financing, if available, may involve restrictive covenants that could limit our flexibility in conducting future business activities and, in the event of insolvency, would be paid before holders of equity securities received any distribution of corporate assets. If an event of default were to occur under any such financing, the interest rate could increase and the lenders could be entitled to take various actions, including the acceleration of amounts due under the loan. Our ability to satisfy and meet any future debt service obligations will depend upon our future performance, which will be subject to financial, business and other factors affecting our operations, many of which are beyond our control. 
+ If we are unable to obtain funding on a timely basis, we may be required to significantly delay or curtail one or more of our research or development programs and our ability to achieve our long-term strategic goals may be delayed or diminished. We also could be required to seek funds through arrangements with collaborators or others that may require us to relinquish rights to some of our technologies, product candidates or products that we would otherwise pursue on our own. Even if we are able to raise additional funds in a timely manner, our future capital requirements may vary from what we expect and will depend on many factors, including: 
+ • our continued progress in demonstrating that siRNAs can be active as drugs and achieve desired clinical effects; 
+ • progress in our research and development programs, as well as what may be required by regulatory bodies to advance these programs; 
+ • the timing, receipt and amount of milestone and other payments, if any, from present and future collaborators, if any; 
+ • our ability to maintain and establish additional collaborative arrangements and/or new business initiatives; 
+ • the resources, time and costs required to successfully initiate and complete our pre-clinical and clinical trials, obtain regulatory approvals, prepare for global commercialization of our product candidates and obtain and maintain licenses to third-party intellectual property; 
+ • our ability to establish, maintain and operate our own manufacturing facilities in a timely and cost-effective manner; 
+ • our ability to manufacture, or contract with third-parties for the manufacture of, our product candidates for clinical testing and commercial sale; 
+ • the resources, time and cost required for the preparation, filing, prosecution, maintenance and enforcement of patent claims; 
+ • the costs associated with legal activities, including litigation, arising in the course of our business activities and our ability to prevail in any such legal disputes; and 
+ • the timing, receipt and amount of sales and royalties, if any, from ONPATTRO, GIVLAARI and our other potential products. 
+ 
+ Off-Balance Sheet Arrangements 
+ In connection with license agreements we may enter with companies to obtain rights to intellectual property, we may be required to indemnify such companies for certain damages arising in connection with the intellectual property rights licensed under the agreements. Under such indemnification agreements we may be responsible for paying the costs of any litigation relating to the license agreements or the underlying intellectual property rights, including the costs associated with certain litigation regarding the licensed intellectual property. In addition, we are a party to a number of agreements entered into in the ordinary course of business, which contain typical provisions that obligate us to indemnify the other parties to such agreements upon the occurrence of certain events, including litigation. For example, under the underwriting agreement entered into in connection with our November 2017 public offering, we have an obligation to indemnify the underwriters and each person, if any, who controls the underwriters, for certain costs and expenses arising in connection with the class action complaint filed against us and such underwriters in New York state court. These indemnification costs are charged to selling, general and administrative expense and are considered off-balance sheet arrangements in accordance with GAAP. To date, other than certain costs associated with certain previously settled litigation, we have not encountered material costs as a result of such obligations and have not accrued any liabilities related to such obligations in our consolidated financial statements. 
+ 
+ Contractual Obligations 
+ In the table below, we set forth our enforceable and legally binding obligations and future commitments as of December 31, 2019. Some of the figures that we include in this table are based on management’s estimates and assumptions about these obligations, including their duration, the possibility of renewal, anticipated actions by third parties and other factors. 
+ 
+ 
+ 76 
+ 
+ Table of Contents 
+ Because these estimates and assumptions are necessarily subjective, the obligations we will actually pay in future periods may vary from those reflected in the table. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Contractual Obligations 
+ 
+ Payments Due by Period 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2020 
+ 
+ 2021 and 2022 
+ 
+ 2023 and 2024 
+ 
+ After 2024 
+ 
+ Total 
+ 
+ Facility lease obligations (1) 
+ 
+ $ 
+ 29,157 
+ 
+ 
+ $ 
+ 75,351 
+ 
+ 
+ $ 
+ 71,631 
+ 
+ 
+ $ 
+ 356,567 
+ 
+ 
+ $ 
+ 532,706 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Technology license commitments (2) 
+ 
+ 795 
+ 
+ 
+ 1,290 
+ 
+ 
+ 600 
+ 
+ 
+ — 
+ 
+ 
+ 2,685 
+ 
+ 
+ Total contractual cash obligations 
+ 
+ $ 
+ 29,952 
+ 
+ 
+ $ 
+ 76,641 
+ 
+ 
+ $ 
+ 72,231 
+ 
+ 
+ $ 
+ 356,567 
+ 
+ 
+ $ 
+ 535,391 
+ 
+ __________________________________________ 
+ (1) Relates primarily to our Cambridge, Massachusetts non-cancelable facility lease agreements. 
+ (2) Relates to our fixed payment obligations under license agreements. 
+ The table above excludes approximately $441.2 million of commitments related to clinical and manufacturing-related agreements and approximately $13.6 million of commitments related to manufacturing-related agreements executed in January 2020, as they are cancellable. We in-license technology from a number of sources, including Ionis and Merck. In addition, we have collaboration agreements relating to the research, development and commercialization of certain of our product candidates. Pursuant to these agreements, we will be required to make additional payments, including in some cases, milestone payments if and when we achieve specified development, regulatory and commercialization events, as well as royalty payments on sales of our approved products. Amounts related to contingent milestone payments are not considered contractual obligations as they are contingent upon the successful achievement of such milestones. Based on our current development plans, during the next 12 months from the filing of this annual report on Form 10-K, potential milestone payments due to third parties, could be approximately $18.4 million, including $12.8 million in regulatory and development milestones and $5.6 million in commercial milestones, in connection with our various collaborations and license agreements. These milestones generally become due and payable upon achievement. Because the achievement of these milestones was not considered probable as of December 31, 2019, such contingencies have not been recorded in our consolidated financial statements. 
+ 
+ Recent Accounting Pronouncements 
+ Please read Note 2 to our consolidated financial statements included in Part II, ITEM 8, “Financial Statements and Supplementary Data,” of this annual report on Form 10-K for a description of recent accounting pronouncements applicable to our business. 
+ 

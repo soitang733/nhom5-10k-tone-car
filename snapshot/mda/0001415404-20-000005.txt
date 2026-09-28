@@ -1,0 +1,6611 @@
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+ 
+ The following management’s discussion and analysis of our financial condition and results of operations should be read in conjunction with our Accompanying Consolidated Financial Statements and notes thereto. This management’s discussion and analysis is intended to help provide an understanding of our financial condition, changes in our financial condition and our results of operations. Many of the statements in this management’s discussion and analysis are forward-looking statements that involve assumptions and are subject to risks and uncertainties that are often difficult to predict and beyond our control. Actual results could differ materially from those expressed or implied by such forward-looking statements. See Disclosure Regarding Forward-Looking Statements in this Form 10-K for further discussion. For a discussion of additional risks, uncertainties and other factors that could impact our results of operations or financial condition, see ITEM 1A. Risk Factors of this Form 10-K. Further, such forward-looking statements speak only as of the date of this Form 10-K and we undertake no obligation to update them. 
+ 
+ 
+ EXECUTIVE SUMMARY 
+ 
+ EchoStar is a global provider of broadband satellite technologies, broadband internet services for consumer customers, which include home and small to medium-sized businesses, and satellite services. We also deliver innovative network technologies, managed services and communications solutions for enterprise customers, which include aeronautical and government enterprises. 
+ 
+ In May 2019, we and BSS Corp. entered into the Master Transaction Agreement with DISH and Merger Sub with respect to the BSS Transaction. Pursuant to the terms of the Master Transaction Agreement, on September 10, 2019: (i) we transferred the BSS Business to BSS Corp.; (ii) we completed the Distribution and (iii) immediately after the Distribution, (1) BSS Corp. became a wholly-owned subsidiary of DISH such that DISH owns and operates the BSS Business, and (2) each issued and outstanding share of BSS Common Stock owned by EchoStar stockholders was converted into the right to receive 0.23523769 shares of DISH Common Stock. 
+ 
+ In connection with the BSS Transaction, we and DISH Network agreed to indemnify each other against certain losses with respect to breaches of certain representations and covenants and certain retained and assumed liabilities, respectively. Additionally, we and DISH and certain of our and their subsidiaries (i) entered into certain customary agreements covering, among other things, matters relating to taxes, employees, intellectual property and the provision of transitional services; (ii) terminated certain previously existing agreements; and (iii) amended certain existing agreements and entered into certain new agreements pursuant to which we and DISH Network will obtain and provide certain products, services and rights from and to each other. 
+ 
+ The BSS Transaction was structured in a manner intended to be tax-free to us and our stockholders for U.S. federal income tax purposes and was accounted for as a spin-off to our shareholders as we did not receive any consideration. Following the consummation of the BSS Transaction, we no longer operate the BSS Business, which was a substantial portion of our ESS segment. As a result of the BSS Transaction, the financial results of the BSS Business, except for certain real estate that transferred in the transaction, are presented as discontinued operations and, as such, excluded from continuing operations and segment results for all periods presented in our Accompanying Consolidated Financial Statements. See Note 5 in our Accompanying Consolidated Financial Statements for further discussion of our discontinued operations. 
+ 
+ Prior to March 2017, we operated in three primary business segments: Hughes, EchoStar Technologies and ESS. On January 31, 2017, EchoStar Corporation and certain of our subsidiaries entered into a share exchange agreement with DISH and certain of its subsidiaries. We received all the shares of the Tracking Stock in exchange for 100% of the equity interests of certain of our subsidiaries that held substantially all of our former EchoStar Technologies businesses and certain other assets . Following the consummation of the Share Exchange, we no longer operate our former EchoStar Technologies businesses, the Tracking Stock was retired and is no longer outstanding, and all agreements, arrangements and policy statements with respect to the Tracking Stock terminated. As a result of the Share Exchange, the financial results of the EchoStar Technologies businesses are presented as discontinued operations and, as such, have been excluded from continuing operations and segment results for all periods presented in our Accompanying Consolidated Financial Statements. See Note 5 in our Accompanying Consolidated Financial Statements for further discussion of our discontinued operations. 
+ 
+ 
+ 
+ 37 
+ 
+ Table of Contents 
+ 
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS - Continued 
+ 
+ 
+ We currently operate in two business segments: Hughes and ESS. These segments are consistent with the way we make decisions regarding the allocation of resources, as well as how operating results are reviewed by our chief operating decision maker, who is the Company’s Chief Executive Officer. 
+ 
+ Our operations also include various corporate departments (primarily Executive, Treasury, Strategic Development, Human Resources, IT, Finance, Accounting, Real Estate and Legal) and other activities that have not been assigned to our operating segments such as costs incurred in certain satellite development programs and other business development activities, and gains or losses from certain of our investments. These activities, costs and income, as well as eliminations of intersegment transactions, are accounted for in Corporate and Other in our segment reporting. 
+ 
+ Highlights from our financial results are as follows: 
+ 
+ Consolidated Results of Operations for the Year Ended December 31, 2019 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Revenue of $1.9 billion 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Operating income of $73.1 million 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Net loss from continuing operations of $113.7 million 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Net loss attributable to EchoStar common stock of $62.9 million and basic loss per share of common stock of $0.65 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Earnings before interest, taxes, depreciation and amortization (“EBITDA”) of $577.6 million (see reconciliation of this non-GAAP measure in Results of Operations) 
+ 
+ Consolidated Financial Condition as of December 31, 2019 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Total assets of $7.2 billion 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Total liabilities of $3.4 billion 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Total stockholders’ equity of $3.7 billion 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Cash, cash equivalents and current marketable investment securities of $2.5 billion 
+ 
+ Hughes Segment 
+ 
+ Our Hughes segment is a global provider of broadband satellite technologies and broadband internet services to consumer customers and broadband network technologies, managed services, equipment, hardware, satellite services and communications solutions to consumer and enterprise customers. The Hughes segment also designs, provides and installs gateway and terminal equipment to customers for other satellite systems. In addition, our Hughes segment designs, develops, constructs and provides telecommunication networks comprising satellite ground segment systems and terminals to mobile system operators and our enterprise customers. 
+ 
+ We incorporate advances in technology to reduce costs and to increase the functionality and reliability of our products and services. Through advanced and proprietary methodologies, technologies, software and techniques, we continue to improve the efficiency of our networks. We invest in technologies to enhance our system and network management capabilities, specifically our managed services for enterprises. We also continue to invest in next generation technologies that can be applied to our future products and services. 
+ 
+ We continue to focus our efforts on growing our consumer revenue by maximizing utilization of our existing satellites while planning for new satellites to be launched or acquired. Our consumer revenue growth depends on our success in adding new and retaining existing subscribers in our domestic and international markets across wholesale and retail channels. The growth of our enterprise businesses relies heavily on global economic conditions and the competitive landscape for pricing relative to competitors and alternative technologies. Service costs related to ongoing support for our direct and indirect customers and partners are typically impacted most significantly by our growth. 
+ 
+ Our Hughes segment currently uses capacity from three of our satellites (the SPACEWAY 3 satellite, the EchoStar XVII satellite and the EchoStar XIX satellite), our Al Yah 3 Brazilian payload and additional satellite capacity acquired 
+ 
+ 
+ 38 
+ 
+ Table of Contents 
+ 
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS - Continued 
+ 
+ 
+ from third-party providers to provide services to our customers. Growth of our consumer subscriber base continues to be constrained in areas where we are nearing or have reached maximum capacity. While these constraints are expected to be resolved when we launch new satellites, we continue to focus on revenue growth in all areas and consumer subscriber growth in the areas where we have available capacity. 
+ 
+ In May 2019, we entered into an agreement with Yahsat pursuant to which, in November 2019, Yahsat contributed its satellite communications services business in Brazil to us in exchange for a 20% ownership interest in our existing Brazilian subsidiary that conducts our satellite communications services business in Brazil. The combined business provides broadband internet services and enterprise solutions in Brazil using the Telesat T19V satellite, the Eutelsat 65W satellite and Yahsat’s Al Yah 3 satellite. Under the terms of the agreement, Yahsat may also acquire, for further cash investments, additional minority ownership interests in the business in the future provided certain conditions are met. 
+ 
+ In May 2019, we also entered into an agreement with Bharti, pursuant to which Bharti will contribute its VSAT telecommunications services and hardware business in India to our two existing Indian subsidiaries that conduct our VSAT services and hardware business. The combined entities will provide broadband satellite and hybrid solutions for enterprise networks. Upon consummation of the transaction, Bharti will have a 33% ownership interest in the combined business. The completion of the transaction is subject to customary regulatory approvals and closing conditions. No assurance can be given that the transaction will be consummated on the terms agreed to or at all. 
+ 
+ In August 2018, we entered into an agreement with Yahsat to establish a new entity, BCS , to provide commercial Ka-band satellite broadband services across Africa, the Middle East and southwest Asia operating over Yahsat's Al Yah 2 and Al Yah 3 Ka-band satellites. The transaction was consummated in December 2018 when we invested $100.0 million in cash in exchange for a 20% interest in BCS. Under the terms of the agreement, we may also acquire, for further cash investments, additional ownership interests in BCS in the future provided certain conditions are met. We supply network operations and management services and equipment to BCS. 
+ 
+ In August 2017, we entered into a contract for the design and construction of the EchoStar XXIV satellite, a new, next-generation, high throughput geostationary satellite, with a planned 2021 launch. The EchoStar XXIV satellite is primarily intended to provide additional capacity for our HughesNet service in North, Central and South America as well as enterprise broadband services. If the manufacture and/or delivery of the EchoStar XXIV satellite is not met or is delayed, such failure could have a material adverse impact on our business operations, future revenues, financial position and prospects and our planned expansion of satellite broadband services throughout North, South and Central America. Capital expenditures associated with the construction and launch of the EchoStar XXIV satellite are included in Corporate and Other in our segment reporting. 
+ 
+ In March 2017, we and DISH Network entered into the Hughes Broadband MSA. Pursuant to the Hughes Broadband MSA, DISH Network, among other things, (i) has the right, but not the obligation, to market, promote and solicit orders and upgrades for our HughesNet service and related equipment and other telecommunication services; and (ii) installs HughesNet service equipment with respect to activations generated by DISH Network. As a result of the Hughes Broadband MSA, we have not earned, and do not expect to earn in the future, significant equipment revenue from our distribution agreement with DISH Network. We expect churn in the existing wholesale subscribers to continue to reduce Services and other revenue in the future. 
+ 
+ We continue our efforts to expand our consumer satellite services business outside of the U.S. We have been delivering high-speed consumer satellite broadband services in Brazil since July 2016 and are also providing satellite broadband internet service in several other Central and South American countries. Additionally, in September 2015, we entered into 15-year agreements with affiliates of Telesat Canada for Ka-band capacity on the Telesat T19V satellite located at the 63 degree west longitude orbital location, which was launched in July 2018. Telesat T19V was placed in service during the fourth quarter of 2018 and augmented the capacity being provided by the EUTELSAT 65 West A satellite and the EchoStar XIX satellite in Central and South America. 
+ 
+ 
+ 
+ 39 
+ 
+ Table of Contents 
+ 
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS - Continued 
+ 
+ 
+ Our broadband subscribers include customers that subscribe to our HughesNet services in North, Central and South America through retail, wholesale and small/medium enterprise service channels. Our approximate subscriber numbers as of December 31, 2019, 2018 and 2017 are as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ As of December 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2019 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Broadband subscribers 
+ 
+ 
+ 
+ 1,477,000 
+ 
+ 
+ 
+ 
+ 
+ 1,361,000 
+ 
+ 
+ 
+ 
+ 
+ 1,208,000 
+ 
+ 
+ 
+ As of December 31, 2019, approximately 237,000 of our subscribers were in South and Central America. During the fourth quarter of 2019, we acquired approximately 20,000 new subscribers in connection with the consummation of our joint venture with Yahsat in Brazil (the “Acquired Subscribers”). 
+ 
+ The approximate subscriber net additions for each quarter in 2019 are as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the Three Months Ended 
+ 
+ 
+ 
+ 
+ 
+ 
+ December 31 
+ 
+ 
+ 
+ September 30 
+ 
+ 
+ 
+ June 30 
+ 
+ 
+ 
+ March 31 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net additions, excluding Acquired Subscribers 
+ 
+ 
+ 
+ 20,000 
+ 
+ 
+ 
+ 
+ 
+ 22,000 
+ 
+ 
+ 
+ 
+ 
+ 26,000 
+ 
+ 
+ 
+ 
+ 
+ 28,000 
+ 
+ 
+ 
+ During the fourth quarter of 2019, excluding the Acquired Subscribers: 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ our gross subscriber additions were generally flat compared to the third quarter of 2019; and 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ our net subscriber additions decreased by approximately 2,000 compared to the third quarter of 2019, reflecting increased churn in the fourth quarter compared to the third quarter. 
+ 
+ As of December 31, 2019 and 2018, our Hughes segment had $1.4 billion of contracted revenue backlog. We define Hughes contracted revenue backlog as our expected future revenue, including lease revenue, under customer contracts that are non-cancelable, excluding agreements with customers in our consumer market. Of the total Hughes contracted revenue backlog as of December 31, 2019, we expect to recognize $455.6 million of revenue in 2020. 
+ 
+ ESS Segment 
+ 
+ Our ESS segment provides satellite services on a full-time and/or occasional-use basis to U.S. government service providers, internet service providers, broadcast news organizations, content providers and private enterprise customers. We operate our ESS business using primarily the EchoStar IX satellite and the EchoStar 105/SES-11 satellite and related infrastructure. Revenue in our ESS segment depends largely on our ability to continuously make use of our available satellite capacity with existing customers and our ability to enter into commercial relationships with new customers. Our ESS segment, like others in the fixed satellite services industry, has encountered, and may continue to encounter, negative pressure on transponder rates and demand. 
+ 
+ As of December 31, 2019 and 2018, our ESS segment had contracted revenue backlog of $11.4 million and $5.8 million respectively. We define contracted revenue backlog for our ESS segment as contracted future satellite lease revenue. Of the total ESS contracted revenue backlog as of December 31, 2019, we expect to recognize $7.2 million of revenue in 2020. 
+ 
+ 
+ 
+ 40 
+ 
+ Table of Contents 
+ 
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS - Continued 
+ 
+ 
+ Other Business Opportunities 
+ 
+ Our industry continues to evolve with the increasing worldwide demand for broadband internet access for information, entertainment and commerce. In addition to fiber and wireless systems, other technologies such as geostationary high throughput satellites, LEO networks, MEO systems, balloons and High Altitude Platform Systems are expected to play significant roles in enabling global broadband access, networks and services. We intend to use our expertise, technologies, capital, investments, global presence, relationships and other capabilities to continue to provide broadband internet systems, equipment, networks and services for information, the internet-of-things, entertainment and commerce in North America and internationally for consumer and enterprise customers. We are closely tracking the developments in next-generation satellite businesses, and we are seeking to utilize our services, technologies, licenses and expertise to find new commercial opportunities for our business. 
+ 
+ We intend to continue to selectively explore opportunities to pursue investments, commercial alliances, partnerships, joint ventures, acquisitions, dispositions and other strategic initiatives and transactions, domestically and internationally, that we believe may allow us to increase our existing market share, increase our satellite capacity, expand into new markets and new customers, broaden our portfolio of services, products and intellectual property, make our business more valuable, align us for future growth and expansion, maximize the return on our investments and strengthen our business and relationships with our customers. We may allocate or dispose of significant resources for long-term value that may not have a short or medium-term or any positive impact on our revenue, results of operations, or cash flow. 
+ 
+ S-Band Strategy 
+ 
+ We continue to explore the development and deployment of S-band technologies and believe that our products and services will be integrated into new global, hybrid networks that leverage multiple satellites and terrestrial technologies. In December 2013, we acquired EML, which is licensed to provide MSS and CGC services covering the EU using S-band spectrum. EML’s services in the EU are supported by our EchoStar XXI satellite and the W2A payload. In October 2019, we acquired EchoStar Global, which holds global S-band non-geostationary satellite spectrum rights for mobile satellite service. Additionally, we have entered into a contract with Tyvak Nano-Satellite Systems, Inc. for the design and construction of S-band nano-satellites, with expected launches in the first half of 2020. We expect our nano-satellites to facilitate our continued growth in the global S-band market and enable us to leverage our acquisition of EchoStar Global. In addition, in November 2019, we were granted an S-band spectrum license for terrestrial rights in Mexico. As of December 31, 2019, we have no material future commitments in connection with these acquisitions. 
+ 
+ Cybersecurity 
+ 
+ As a global provider of satellite technologies and services, internet services and communications equipment and networks, we may be prone to more targeted and persistent levels of cyber-attacks than other businesses. These risks may be more prevalent as we continue to expand and grow our business into other areas of the world outside of North America, some of which are still developing their cybersecurity infrastructure maturity. Detecting, deterring, preventing and mitigating incidents caused by hackers and other parties may result in significant costs to us and may expose our customers to financial or other harm that have the potential to significantly increase our liability. 
+ 
+ We treat cybersecurity risk seriously and are focused on maintaining the security of our and our partners’ systems, networks, technologies and data. We regularly review and revise our relevant policies and procedures, invest in and maintain internal resources, personnel and systems and review, modify and supplement our defenses through the use of various services, programs and outside vendors. We also maintain agreements with third party vendors and experts to assist in our remediation and mitigation efforts if we experience or identify a material incident or threat. In addition, senior management and the Audit Committee of our Board of Directors are regularly briefed on cybersecurity matters. 
+ 
+ We are not aware of any cyber-incidents with respect to our owned or leased satellites or other networks, equipment or systems that have had a material adverse effect on our business, costs, operations, prospects, results of operation or financial position during the year ended December 31, 2019 . There can be no assurance, however, that any such incident can be detected or thwarted or will not have such a material adverse effect in the future. 
+ 
+ 
+ 
+ 41 
+ 
+ 
+ Table of Contents 
+ 
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS - Continued 
+ 
+ 
+ RESULTS OF OPERATIONS 
+ 
+ 
+ Year Ended December 31, 2019 Compared to the Year Ended December 31, 2018 
+ 
+ The following table presents our consolidated results of operations for the year ended December 31, 2019 compared to the year ended December 31, 2018 : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the years ended December 31, 
+ 
+ 
+ 
+ Variance 
+ 
+ 
+ Statements of Operations Data (1) 
+ 
+ 
+ 
+ 2019 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ Amount 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Revenue: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Services and other revenue 
+ 
+ 
+ 
+ $ 
+ 
+ 1,619,271 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,557,228 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 62,043 
+ 
+ 
+ 
+ 
+ 
+ 4.0 
+ 
+ 
+ 
+ 
+ Equipment revenue 
+ 
+ 
+ 
+ 266,810 
+ 
+ 
+ 
+ 
+ 
+ 205,410 
+ 
+ 
+ 
+ 
+ 
+ 61,400 
+ 
+ 
+ 
+ 
+ 
+ 29.9 
+ 
+ 
+ 
+ 
+ Total revenue 
+ 
+ 
+ 
+ 1,886,081 
+ 
+ 
+ 
+ 
+ 
+ 1,762,638 
+ 
+ 
+ 
+ 
+ 
+ 123,443 
+ 
+ 
+ 
+ 
+ 
+ 7.0 
+ 
+ 
+ 
+ 
+ Costs and expenses: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of sales - services and other 
+ 
+ 
+ 
+ 561,353 
+ 
+ 
+ 
+ 
+ 
+ 563,907 
+ 
+ 
+ 
+ 
+ 
+ (2,554 
+ 
+ ) 
+ 
+ 
+ 
+ (0.5 
+ 
+ ) 
+ 
+ 
+ % of total services and other revenue 
+ 
+ 
+ 
+ 34.7 
+ 
+ % 
+ 
+ 
+ 
+ 36.2 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of sales - equipment 
+ 
+ 
+ 
+ 226,002 
+ 
+ 
+ 
+ 
+ 
+ 176,600 
+ 
+ 
+ 
+ 
+ 
+ 49,402 
+ 
+ 
+ 
+ 
+ 
+ 28.0 
+ 
+ 
+ 
+ 
+ % of total equipment revenue 
+ 
+ 
+ 
+ 84.7 
+ 
+ % 
+ 
+ 
+ 
+ 86.0 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Selling, general and administrative expenses 
+ 
+ 
+ 
+ 509,145 
+ 
+ 
+ 
+ 
+ 
+ 436,088 
+ 
+ 
+ 
+ 
+ 
+ 73,057 
+ 
+ 
+ 
+ 
+ 
+ 16.8 
+ 
+ 
+ 
+ 
+ % of total revenue 
+ 
+ 
+ 
+ 27.0 
+ 
+ % 
+ 
+ 
+ 
+ 24.7 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Research and development expenses 
+ 
+ 
+ 
+ 25,739 
+ 
+ 
+ 
+ 
+ 
+ 27,570 
+ 
+ 
+ 
+ 
+ 
+ (1,831 
+ 
+ ) 
+ 
+ 
+ 
+ (6.6 
+ 
+ ) 
+ 
+ 
+ % of total revenue 
+ 
+ 
+ 
+ 1.4 
+ 
+ % 
+ 
+ 
+ 
+ 1.6 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Depreciation and amortization 
+ 
+ 
+ 
+ 490,765 
+ 
+ 
+ 
+ 
+ 
+ 457,116 
+ 
+ 
+ 
+ 
+ 
+ 33,649 
+ 
+ 
+ 
+ 
+ 
+ 7.4 
+ 
+ 
+ 
+ 
+ Impairment of long-lived assets 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 65,220 
+ 
+ 
+ 
+ 
+ 
+ (65,220 
+ 
+ ) 
+ 
+ 
+ 
+ (100.0 
+ 
+ ) 
+ 
+ 
+ Total costs and expenses 
+ 
+ 
+ 
+ 1,813,004 
+ 
+ 
+ 
+ 
+ 
+ 1,726,501 
+ 
+ 
+ 
+ 
+ 
+ 86,503 
+ 
+ 
+ 
+ 
+ 
+ 5.0 
+ 
+ 
+ 
+ 
+ Operating income (loss) 
+ 
+ 
+ 
+ 73,077 
+ 
+ 
+ 
+ 
+ 
+ 36,137 
+ 
+ 
+ 
+ 
+ 
+ 36,940 
+ 
+ 
+ 
+ 
+ 
+ * 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other income (expense): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Interest income 
+ 
+ 
+ 
+ 82,352 
+ 
+ 
+ 
+ 
+ 
+ 80,275 
+ 
+ 
+ 
+ 
+ 
+ 2,077 
+ 
+ 
+ 
+ 
+ 
+ 2.6 
+ 
+ 
+ 
+ 
+ Interest expense, net of amounts capitalized 
+ 
+ 
+ 
+ (251,016 
+ 
+ ) 
+ 
+ 
+ 
+ (219,288 
+ 
+ ) 
+ 
+ 
+ 
+ (31,728 
+ 
+ ) 
+ 
+ 
+ 
+ 14.5 
+ 
+ 
+ 
+ 
+ Gains (losses) on investments, net 
+ 
+ 
+ 
+ 28,912 
+ 
+ 
+ 
+ 
+ 
+ (12,622 
+ 
+ ) 
+ 
+ 
+ 
+ 41,534 
+ 
+ 
+ 
+ 
+ 
+ * 
+ 
+ 
+ 
+ 
+ Equity in earnings (losses) of unconsolidated affiliates, net 
+ 
+ 
+ 
+ (14,734 
+ 
+ ) 
+ 
+ 
+ 
+ (5,954 
+ 
+ ) 
+ 
+ 
+ 
+ (8,780 
+ 
+ ) 
+ 
+ 
+ 
+ * 
+ 
+ 
+ 
+ 
+ Foreign currency transaction gains (losses), net 
+ 
+ 
+ 
+ (11,590 
+ 
+ ) 
+ 
+ 
+ 
+ (15,583 
+ 
+ ) 
+ 
+ 
+ 
+ 3,993 
+ 
+ 
+ 
+ 
+ 
+ (25.6 
+ 
+ ) 
+ 
+ 
+ Other, net 
+ 
+ 
+ 
+ (166 
+ 
+ ) 
+ 
+ 
+ 
+ 11,249 
+ 
+ 
+ 
+ 
+ 
+ (11,415 
+ 
+ ) 
+ 
+ 
+ 
+ * 
+ 
+ 
+ 
+ 
+ Total other income (expense), net 
+ 
+ 
+ 
+ (166,242 
+ 
+ ) 
+ 
+ 
+ 
+ (161,923 
+ 
+ ) 
+ 
+ 
+ 
+ (4,319 
+ 
+ ) 
+ 
+ 
+ 
+ 2.7 
+ 
+ 
+ 
+ 
+ Income (loss) from continuing operations before income taxes 
+ 
+ 
+ 
+ (93,165 
+ 
+ ) 
+ 
+ 
+ 
+ (125,786 
+ 
+ ) 
+ 
+ 
+ 
+ 32,621 
+ 
+ 
+ 
+ 
+ 
+ (25.9 
+ 
+ ) 
+ 
+ 
+ Income tax benefit (provision), net 
+ 
+ 
+ 
+ (20,488 
+ 
+ ) 
+ 
+ 
+ 
+ (6,576 
+ 
+ ) 
+ 
+ 
+ 
+ (13,912 
+ 
+ ) 
+ 
+ 
+ 
+ * 
+ 
+ 
+ 
+ 
+ Net income (loss) from continuing operations 
+ 
+ 
+ 
+ (113,653 
+ 
+ ) 
+ 
+ 
+ 
+ (132,362 
+ 
+ ) 
+ 
+ 
+ 
+ 18,709 
+ 
+ 
+ 
+ 
+ 
+ (14.1 
+ 
+ ) 
+ 
+ 
+ Net income (loss) from discontinued operations 
+ 
+ 
+ 
+ 39,401 
+ 
+ 
+ 
+ 
+ 
+ 93,729 
+ 
+ 
+ 
+ 
+ 
+ (54,328 
+ 
+ ) 
+ 
+ 
+ 
+ (58.0 
+ 
+ ) 
+ 
+ 
+ Net income (loss) 
+ 
+ 
+ 
+ (74,252 
+ 
+ ) 
+ 
+ 
+ 
+ (38,633 
+ 
+ ) 
+ 
+ 
+ 
+ (35,619 
+ 
+ ) 
+ 
+ 
+ 
+ 92.2 
+ 
+ 
+ 
+ 
+ Less: Net income (loss) attributable to non-controlling interests 
+ 
+ 
+ 
+ (11,335 
+ 
+ ) 
+ 
+ 
+ 
+ 1,842 
+ 
+ 
+ 
+ 
+ 
+ (13,177 
+ 
+ ) 
+ 
+ 
+ 
+ * 
+ 
+ 
+ 
+ 
+ Net income (loss) attributable to EchoStar Corporation common stock 
+ 
+ 
+ 
+ $ 
+ 
+ (62,917 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ (40,475 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ (22,442 
+ 
+ ) 
+ 
+ 
+ 
+ 55.4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other data: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EBITDA (2) 
+ 
+ 
+ 
+ $ 
+ 
+ 577,599 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 468,501 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 109,098 
+ 
+ 
+ 
+ 
+ 
+ 23.3 
+ 
+ 
+ 
+ 
+ Subscribers, end of period 
+ 
+ 
+ 
+ 1,477,000 
+ 
+ 
+ 
+ 
+ 
+ 1,361,000 
+ 
+ 
+ 
+ 
+ 
+ 116,000 
+ 
+ 
+ 
+ 
+ 
+ 8.5 
+ 
+ 
+ * Percentage is not meaningful. 
+ 
+ 
+ 
+ 
+ 
+ (1) 
+ 
+ An explanation of our key metrics is included in Explanation of Key Metrics and Other Items. 
+ 
+ 
+ 
+ 
+ 
+ (2) 
+ 
+ A reconciliation of EBITDA to Net income (loss), the most directly comparable U.S. GAAP measure in our Accompanying Consolidated Financial Statements, is included in Results of Operations. For further information on our use of EBITDA, see Explanation of Key Metrics and Other Items . 
+ 
+ 
+ 42 
+ 
+ Table of Contents 
+ 
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS - Continued 
+ 
+ 
+ 
+ The following discussion relates to our continuing operations for the years ended December 31, 2019 and 2018 unless otherwise stated. 
+ 
+ Services and other revenue . Services and other revenue totaled $1.6 billion for the year ended December 31, 2019 , an increase of $62.0 million or 4.0% , compared to 2018 . 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Services and other revenue from our Hughes segment for the year ended December 31, 2019 increased by $74.9 million, or 5.0%, to $1.6 billion compared to 2018 . The increase was primarily attributable to increases in sales of broadband services to our consumer customers of $102.0 million, primarily offset by a decrease in sales of services to our enterprise customers of $30.7 million. 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Services and other revenue from our ESS segment for the year ended December 31, 2019 decreased by $11.0 million, or 40.3%, to $16.3 million compared to 2018 . The decrease was due to a decrease of $9.2 million in transponder services provided to third parties and a decrease of $1.6 million in satellite capacity leased to DISH Network on the EchoStar IX satellite. 
+ 
+ Equipment revenue . Equipment revenue totaled $266.8 million for the year ended December 31, 2019 , an increase of $61.4 million , or 29.9% , compared to 2018 . The increase was primarily attributable to our Hughes segment due to increases in hardware sales of $45.9 million to our enterprise customers and $15.5 million to our mobile satellite systems customers. 
+ 
+ Cost of sales - services and other. Cost of sales - services and other totaled $561.4 million for the year ended December 31, 2019 , a decrease of $2.6 million , or 0.5% , compared to 2018 . The decrease was primarily attributable to our Hughes segment due to lower costs of services provided to our enterprise customers, partially offset by an increase in costs of services to our consumer customers. 
+ 
+ Cost of sales - equipment. Cost of sales - equipment t otaled $226.0 million for the year ended December 31, 2019 , an increase of $49.4 million , or 28.0% , compared to 2018 . The increase was primarily attributable to our Hughes segment due to an increase in hardware sales to our enterprise customers and our mobile satellite systems customers. 
+ 
+ Selling, general and administrative expenses . Selling, general and administrative expenses totaled $509.1 million for the year ended December 31, 2019 , an increase of $73.1 million , or 16.8% , compared to 2018 . The increase was primarily attributable to increases in (i) expense of $32.5 million related to certain legal proceedings, (ii) marketing and promotional expenses of $22.5 million from our Hughes segment mainly associated with our consumer business, (iii) bad debt expense of $5.0 million and (iv) other general and administrative expenses of $13.1 million. 
+ 
+ Depreciation and amortization . Depreciation and amortization expenses totaled $490.8 million for the year ended December 31, 2019 , an increase of $33.6 million , or 7.4% , compared to 2018 . The increase was primarily from our Hughes segment and due to increases in depreciation expense of (i) $20.2 million relating to our customer premises equipment, (ii) $4.8 million relating the Telesat T19V satellite that was placed into service in the fourth quarter of 2018 , (iii) $3.1 million relating to the decrease in depreciable life of the SPACEWAY 3 satellite and (iv) $2.0 million relating to the depreciation of assets acquired from Yahsat in Brazil. 
+ 
+ Impairment of long-lived assets . There was no impairment of long-lived assets for the year ended December 31, 2019 , compared to $65.2 million for the year ended December 31, 2018 , which was primarily attributable to the determination that the fair value of our 45 degree west longitude regulatory authorization was de minimis and our recognition of a loss on the assets and in-substance liquidation of the business related to it. 
+ 
+ Interest expense, net of amounts capitalized . Interest expense, net of amounts capitalized totaled $251.0 million for the year ended December 31, 2019 , an increase of $31.7 million , or 14.5% , compared to 2018 . The increase was primarily due to an increase of $76.3 million in interest expense associated with certain legal proceedings. The increase was partially offset by a decrease of $39.1 million in interest expense and the amortization of deferred financing cost as a result of the repurchase and maturity of our 6 1/2% Senior Secured Notes due 2019 (the “2019 Senior Secured Notes”) and a net increase of $4.3 million in capitalized interest relating to the construction of the EchoStar XXIV satellite. 
+ 
+ 
+ 43 
+ 
+ Table of Contents 
+ 
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS - Continued 
+ 
+ 
+ 
+ Gains (losses) on investments, net . Gains (losses) on investments, net totaled $28.9 million of net gains for the year ended December 31, 2019 , an increase of $41.5 million compared to 2018 . The increase was primarily attributable to an increase in gains on marketable investment securities of $78.2 million in 2019, partially offset by $36.7 million in losses on certain investments in 2019. 
+ 
+ Equity in earnings (losses) of unconsolidated affiliates, net . Equity in earnings (losses) of unconsolidated affiliates, net totaled $14.7 million in loss for the year ended December 31, 2019 , an increase in loss of $8.8 million compared to 2018 , which was related to an increase in loss from our equity method investments. Additionally, in the fourth quarter of 2019, we changed our accounting policy to record our share of net earnings or losses of investees on a three-month lag. 
+ 
+ Foreign currency transaction gains (losses), net . Foreign currency transaction gains (losses), net totaled $11.6 million in losses for the year ended December 31, 2019 , a decrease in losses of $4.0 million , or 25.6% , compared to 2018 . The decrease in losses was due to the net strengthening of the U.S. dollar against certain foreign currencies in 2019 compared to 2018. 
+ 
+ Other, net . Other, net totaled $0.2 million in loss for the year ended December 31, 2019 compared to $11.2 million in income for the year ended December 31, 2018 . The decrease in income of $11.4 million was primarily due to a net gain of $9.6 million due to the one-time settlement of certain amounts due to and from a third party vendor in 2018 and a net decrease of $2.8 million in dividends received from certain marketable equity securities in 2019 compared to 2018. 
+ 
+ Income tax benefit (provision), net . Income tax benefit (provision), net was $20.5 million in provision for the year ended December 31, 2019 , an increase of $13.9 million , compared to 2018 . Our effective income tax rate was (59.8)% and (5.5)% for the years ended December 31, 2019 and 2018 , respectively. The variations in our current year effective tax rate from the U.S. federal statutory rate for the year ended December 31, 2019 were primarily due to the increase in our valuation allowance associated with certain foreign losses and by the impact of state and local taxes partially offset by the change in valuation allowance related to net unrealized gains that are capital in nature and research and experimentation credits. For the year ended December 31, 2018, we recorded a tax provision of zero related to the tax on deemed mandatory repatriation of our unrepatriated foreign earnings. As a result of the release of new treasury regulations in June 2019, we have recorded additional tax expense of $1.5 million on deemed mandatory repatriation of certain deferred foreign earnings. The variations in our effective tax rate from the U.S. federal statutory rate for the year ended December 31, 2018 were primarily due to research and experimentation credits and the change in our valuation allowance associated with unrealized gains that are capital in nature, partially offset by the impact of state and local taxes and the increase in our valuation allowance associated with certain foreign losses. 
+ 
+ 
+ 
+ 44 
+ 
+ Table of Contents 
+ 
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS - Continued 
+ 
+ 
+ Net income (loss) attributable to EchoStar Corporation common stock . Net income (loss) attributable to EchoStar Corporation common stock was a net loss of $62.9 million for the year ended December 31, 2019 compared to a net loss of $40.5 million for the year ended December 31, in 2018 as set forth in the following table: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Amounts 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net income (loss) attributable to EchoStar Corporation for the year ended December 31, 2018 
+ 
+ 
+ 
+ $ 
+ 
+ (40,475 
+ 
+ ) 
+ 
+ 
+ Increase (decrease) in gains on investments, net 
+ 
+ 
+ 
+ 41,534 
+ 
+ 
+ 
+ 
+ Increase (decrease) in operating income, including depreciation and amortization 
+ 
+ 
+ 
+ 36,940 
+ 
+ 
+ 
+ 
+ Decrease (increase) in net income attributable to non-controlling interests 
+ 
+ 
+ 
+ 13,177 
+ 
+ 
+ 
+ 
+ Decrease (increase) in foreign currency transaction losses, net 
+ 
+ 
+ 
+ 3,993 
+ 
+ 
+ 
+ 
+ Increase (decrease) in interest income 
+ 
+ 
+ 
+ 2,077 
+ 
+ 
+ 
+ 
+ Increase (decrease) in equity in earnings of unconsolidated affiliates, net 
+ 
+ 
+ 
+ (8,780 
+ 
+ ) 
+ 
+ 
+ Increase (decrease) in other, net 
+ 
+ 
+ 
+ (11,415 
+ 
+ ) 
+ 
+ 
+ Decrease (increase) in income tax provision, net 
+ 
+ 
+ 
+ (13,912 
+ 
+ ) 
+ 
+ 
+ Decrease (increase) in interest expense, net of amounts capitalized 
+ 
+ 
+ 
+ (31,728 
+ 
+ ) 
+ 
+ 
+ Increase (decrease) in net income from discontinued operations 
+ 
+ 
+ 
+ (54,328 
+ 
+ ) 
+ 
+ 
+ Net income (loss) attributable to EchoStar Corporation for the year ended December 31, 2019 
+ 
+ 
+ 
+ $ 
+ 
+ (62,917 
+ 
+ ) 
+ 
+ EBITDA . EBITDA is a non-GAAP financial measure and is described under Explanation of Key Metrics and Other Items below. The following table reconciles EBITDA to Net income (loss), the most directly comparable U.S. GAAP measure in our Accompanying Consolidated Financial Statements: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the years ended December 31, 
+ 
+ 
+ 
+ Variance 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2019 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ Amount 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net income (loss) 
+ 
+ 
+ 
+ $ 
+ 
+ (74,252 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ (38,633 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ (35,619 
+ 
+ ) 
+ 
+ 
+ 
+ 92.2 
+ 
+ 
+ 
+ 
+ Interest income 
+ 
+ 
+ 
+ (82,352 
+ 
+ ) 
+ 
+ 
+ 
+ (80,275 
+ 
+ ) 
+ 
+ 
+ 
+ (2,077 
+ 
+ ) 
+ 
+ 
+ 
+ 2.6 
+ 
+ 
+ 
+ 
+ Interest expense, net of amounts capitalized 
+ 
+ 
+ 
+ 251,016 
+ 
+ 
+ 
+ 
+ 
+ 219,288 
+ 
+ 
+ 
+ 
+ 
+ 31,728 
+ 
+ 
+ 
+ 
+ 
+ 14.5 
+ 
+ 
+ 
+ 
+ Income tax provision (benefit), net 
+ 
+ 
+ 
+ 20,488 
+ 
+ 
+ 
+ 
+ 
+ 6,576 
+ 
+ 
+ 
+ 
+ 
+ 13,912 
+ 
+ 
+ 
+ 
+ 
+ * 
+ 
+ 
+ 
+ 
+ Depreciation and amortization 
+ 
+ 
+ 
+ 490,765 
+ 
+ 
+ 
+ 
+ 
+ 457,116 
+ 
+ 
+ 
+ 
+ 
+ 33,649 
+ 
+ 
+ 
+ 
+ 
+ 7.4 
+ 
+ 
+ 
+ 
+ Net (income) loss from discontinued operations 
+ 
+ 
+ 
+ (39,401 
+ 
+ ) 
+ 
+ 
+ 
+ (93,729 
+ 
+ ) 
+ 
+ 
+ 
+ 54,328 
+ 
+ 
+ 
+ 
+ 
+ (58.0 
+ 
+ ) 
+ 
+ 
+ Net (income) loss attributable to non-controlling interests 
+ 
+ 
+ 
+ 11,335 
+ 
+ 
+ 
+ 
+ 
+ (1,842 
+ 
+ ) 
+ 
+ 
+ 
+ 13,177 
+ 
+ 
+ 
+ 
+ 
+ * 
+ 
+ 
+ 
+ 
+ EBITDA 
+ 
+ 
+ 
+ $ 
+ 
+ 577,599 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 468,501 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 109,098 
+ 
+ 
+ 
+ 
+ 
+ 23.3 
+ 
+ 
+ 
+ 
+ 
+ 45 
+ 
+ Table of Contents 
+ 
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS - Continued 
+ 
+ 
+ EBITDA was $577.6 million for the year ended December 31, 2019 , an increase of $109.1 million , or 23.3% , compared to 2018 as set forth in the following table: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Amounts 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EBITDA for the year ended December 31, 2018 
+ 
+ 
+ 
+ $ 
+ 
+ 468,501 
+ 
+ 
+ 
+ 
+ Increase (decrease) in gains on investments, net 
+ 
+ 
+ 
+ 41,534 
+ 
+ 
+ 
+ 
+ Increase (decrease) in operating income, including depreciation and amortization 
+ 
+ 
+ 
+ 36,940 
+ 
+ 
+ 
+ 
+ Increase (decrease) in depreciation and amortization 
+ 
+ 
+ 
+ 33,649 
+ 
+ 
+ 
+ 
+ Decrease (increase) in net income attributable to non-controlling interests 
+ 
+ 
+ 
+ 13,177 
+ 
+ 
+ 
+ 
+ Decrease (increase) in foreign currency transaction losses, net 
+ 
+ 
+ 
+ 3,993 
+ 
+ 
+ 
+ 
+ Increase (decrease) in equity in earnings of unconsolidated affiliates, net 
+ 
+ 
+ 
+ (8,780 
+ 
+ ) 
+ 
+ 
+ Increase (decrease) in other, net 
+ 
+ 
+ 
+ (11,415 
+ 
+ ) 
+ 
+ 
+ EBITDA for the year ended December 31, 2019 
+ 
+ 
+ 
+ $ 
+ 
+ 577,599 
+ 
+ 
+ 
+ Segment Operating Results and Capital Expenditures 
+ 
+ The following tables present our operating results, capital expenditures and EBITDA by segment for the year ended December 31, 2019 compared to the year ended December 31, 2018 . Capital expenditures are net of refunds and other receipts related to property and equipment. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Hughes 
+ 
+ 
+ 
+ ESS 
+ 
+ 
+ 
+ Corporate and Other 
+ 
+ 
+ 
+ Consolidated Total 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the year ended December 31, 2019 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total revenue 
+ 
+ 
+ 
+ $ 
+ 
+ 1,852,742 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 16,257 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 17,082 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,886,081 
+ 
+ 
+ 
+ 
+ Capital expenditures 
+ 
+ 
+ 
+ 308,781 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ 109,293 
+ 
+ 
+ 
+ 
+ 
+ 418,074 
+ 
+ 
+ 
+ 
+ EBITDA 
+ 
+ 
+ 
+ 625,660 
+ 
+ 
+ 
+ 
+ 
+ 6,994 
+ 
+ 
+ 
+ 
+ 
+ (55,055 
+ 
+ ) 
+ 
+ 
+ 
+ 577,599 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the year ended December 31, 2018 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total revenue 
+ 
+ 
+ 
+ $ 
+ 
+ 1,716,528 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 27,231 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 18,879 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,762,638 
+ 
+ 
+ 
+ 
+ Capital expenditures 
+ 
+ 
+ 
+ 390,108 
+ 
+ 
+ 
+ 
+ 
+ (76,757 
+ 
+ ) 
+ 
+ 
+ 
+ 164,091 
+ 
+ 
+ 
+ 
+ 
+ 477,442 
+ 
+ 
+ 
+ 
+ EBITDA 
+ 
+ 
+ 
+ 601,319 
+ 
+ 
+ 
+ 
+ 
+ 17,764 
+ 
+ 
+ 
+ 
+ 
+ (150,582 
+ 
+ ) 
+ 
+ 
+ 
+ 468,501 
+ 
+ 
+ 
+ Hughes Segment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the years ended December 31, 
+ 
+ 
+ 
+ Variance 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2019 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ Amount 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total revenue 
+ 
+ 
+ 
+ $ 
+ 
+ 1,852,742 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,716,528 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 136,214 
+ 
+ 
+ 
+ 
+ 
+ 7.9 
+ 
+ 
+ 
+ 
+ Capital expenditures 
+ 
+ 
+ 
+ 308,781 
+ 
+ 
+ 
+ 
+ 
+ 390,108 
+ 
+ 
+ 
+ 
+ 
+ (81,327 
+ 
+ ) 
+ 
+ 
+ 
+ (20.8 
+ 
+ ) 
+ 
+ 
+ EBITDA 
+ 
+ 
+ 
+ 625,660 
+ 
+ 
+ 
+ 
+ 
+ 601,319 
+ 
+ 
+ 
+ 
+ 
+ 24,341 
+ 
+ 
+ 
+ 
+ 
+ 4.0 
+ 
+ 
+ 
+ Total revenue was $1.9 billion for the year ended December 31, 2019 , an increase of $136.2 million , or 7.9% , compared to 2018 . The increase was primarily due to an increase of $102.0 million in sales of broadband services to our consumer customers and net increases in hardware sales of $45.9 million to our enterprise customers and $15.5 million to our mobile satellite systems customers. The increase was partially offset by a decrease of $30.7 million in sales of services to our enterprise customers. 
+ 
+ 
+ 
+ 46 
+ 
+ Table of Contents 
+ 
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS - Continued 
+ 
+ 
+ Capital expenditures were $308.8 million for the year ended December 31, 2019 , a decrease of $81.3 million , or 20.8% , compared to 2018 , primarily due to net decreases in capital expenditures associated with the construction and infrastructure of our satellites and in our consumer and enterprise businesses. 
+ 
+ EBITDA was $625.7 million for the year ended December 31, 2019 , an increase of $24.3 million , or 4.0% , compared to 2018 as set forth in the following table: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Amounts 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EBITDA for the year ended December 31, 2018 
+ 
+ 
+ 
+ $ 
+ 
+ 601,319 
+ 
+ 
+ 
+ 
+ Increase (decrease) in depreciation and amortization 
+ 
+ 
+ 
+ 40,050 
+ 
+ 
+ 
+ 
+ Decrease (increase) in net income attributable to non-controlling interests 
+ 
+ 
+ 
+ 13,177 
+ 
+ 
+ 
+ 
+ Decrease (increase) in foreign currency transaction losses, net 
+ 
+ 
+ 
+ 2,613 
+ 
+ 
+ 
+ 
+ Increase (decrease) in other, net 
+ 
+ 
+ 
+ (197 
+ 
+ ) 
+ 
+ 
+ Increase (decrease) in equity in earnings of unconsolidated affiliates, net 
+ 
+ 
+ 
+ (5,477 
+ 
+ ) 
+ 
+ 
+ Increase (decrease) in gains on investments, net 
+ 
+ 
+ 
+ (8,890 
+ 
+ ) 
+ 
+ 
+ Increase (decrease) in operating income, including depreciation and amortization 
+ 
+ 
+ 
+ (16,935 
+ 
+ ) 
+ 
+ 
+ EBITDA for the year ended December 31, 2019 
+ 
+ 
+ 
+ $ 
+ 
+ 625,660 
+ 
+ 
+ 
+ ESS Segment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the years ended December 31, 
+ 
+ 
+ 
+ Variance 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2019 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ Amount 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total revenue 
+ 
+ 
+ 
+ $ 
+ 
+ 16,257 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 27,231 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (10,974 
+ 
+ ) 
+ 
+ 
+ 
+ (40.3 
+ 
+ ) 
+ 
+ 
+ Capital expenditures 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ (76,757 
+ 
+ ) 
+ 
+ 
+ 
+ 76,757 
+ 
+ 
+ 
+ 
+ 
+ (100.0 
+ 
+ ) 
+ 
+ 
+ EBITDA 
+ 
+ 
+ 
+ 6,994 
+ 
+ 
+ 
+ 
+ 
+ 17,764 
+ 
+ 
+ 
+ 
+ 
+ (10,770 
+ 
+ ) 
+ 
+ 
+ 
+ (60.6 
+ 
+ ) 
+ 
+ Total revenue was $16.3 million for the year ended December 31, 2019 , a decrease of $11.0 million , or 40.3% , compared to 2018 . The decrease was attributable to a net decrease of $9.2 million in transponder services provided to third parties and a decrease of $1.6 million in satellite capacity leased to DISH Network on the EchoStar IX satellite. 
+ 
+ There were no capital expenditures for the year ended December 31, 2019 , as there were no new satellites under construction in our ESS segment during the year. The negative capital expenditure in 2018 for $76.8 million is primarily driven by a reimbursement of $77.5 million related to the EchoStar 105/SES-11 satellite received in the first quarter of 2018. 
+ 
+ EBITDA was $7.0 million for the year ended December 31, 2019 , a decrease of $10.8 million , or 60.6% , compared to 2018 , primarily due to the decrease in overall ESS revenue. 
+ 
+ Corporate and Other 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the years ended December 31, 
+ 
+ 
+ 
+ Variance 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2019 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ Amount 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total revenue 
+ 
+ 
+ 
+ $ 
+ 
+ 17,082 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 18,879 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (1,797 
+ 
+ ) 
+ 
+ 
+ 
+ (9.5 
+ 
+ ) 
+ 
+ 
+ Capital expenditures 
+ 
+ 
+ 
+ 109,293 
+ 
+ 
+ 
+ 
+ 
+ 164,091 
+ 
+ 
+ 
+ 
+ 
+ (54,798 
+ 
+ ) 
+ 
+ 
+ 
+ (33.4 
+ 
+ ) 
+ 
+ 
+ EBITDA 
+ 
+ 
+ 
+ (55,055 
+ 
+ ) 
+ 
+ 
+ 
+ (150,582 
+ 
+ ) 
+ 
+ 
+ 
+ 95,527 
+ 
+ 
+ 
+ 
+ 
+ (63.4 
+ 
+ ) 
+ 
+ 
+ 
+ 47 
+ 
+ Table of Contents 
+ 
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS - Continued 
+ 
+ 
+ Capital expenditures were $109.3 million for the year ended December 31, 2019 , a decrease of $54.8 million , or 33.4% , compared to 2018 , primarily due to decreases in satellite expenditures on the EchoStar XXIV satellite. 
+ 
+ EBITDA was a loss of $55.1 million for the year ended December 31, 2019 , a decrease in loss of $95.5 million , or 63.4% compared to 2018 as set forth in the following table: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Amounts 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EBITDA for the year ended December 31, 2018 
+ 
+ 
+ 
+ $ 
+ 
+ (150,582 
+ 
+ ) 
+ 
+ 
+ Increase (decrease) in operating income, including depreciation and amortization 
+ 
+ 
+ 
+ 64,784 
+ 
+ 
+ 
+ 
+ Increase (decrease) in gains on investments, net 
+ 
+ 
+ 
+ 50,423 
+ 
+ 
+ 
+ 
+ Decrease (increase) in foreign currency transaction losses, net 
+ 
+ 
+ 
+ 1,380 
+ 
+ 
+ 
+ 
+ Increase (decrease) in equity in earnings of unconsolidated affiliates, net 
+ 
+ 
+ 
+ (3,303 
+ 
+ ) 
+ 
+ 
+ Increase (decrease) in depreciation and amortization 
+ 
+ 
+ 
+ (6,538 
+ 
+ ) 
+ 
+ 
+ Increase (decrease) in other, net 
+ 
+ 
+ 
+ (11,219 
+ 
+ ) 
+ 
+ 
+ EBITDA for the year ended December 31, 2019 
+ 
+ 
+ 
+ $ 
+ 
+ (55,055 
+ 
+ ) 
+ 
+ 
+ 
+ 48 
+ 
+ 
+ Table of Contents 
+ 
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS - Continued 
+ 
+ 
+ Year Ended December 31, 2018 Compared to the Year Ended December 31, 2017 
+ 
+ The following table presents our consolidated results of operations for the year ended December 31, 2018 compared to the year ended December 31, 2017 : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the years ended December 31, 
+ 
+ 
+ 
+ Variance 
+ 
+ 
+ Statements of Operations Data (1) 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ Amount 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Revenue: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Services and other revenue 
+ 
+ 
+ 
+ $ 
+ 
+ 1,557,228 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,285,666 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 271,562 
+ 
+ 
+ 
+ 
+ 
+ 21.1 
+ 
+ 
+ 
+ 
+ Equipment revenue 
+ 
+ 
+ 
+ 205,410 
+ 
+ 
+ 
+ 
+ 
+ 239,489 
+ 
+ 
+ 
+ 
+ 
+ (34,079 
+ 
+ ) 
+ 
+ 
+ 
+ (14.2 
+ 
+ ) 
+ 
+ 
+ Total revenue 
+ 
+ 
+ 
+ 1,762,638 
+ 
+ 
+ 
+ 
+ 
+ 1,525,155 
+ 
+ 
+ 
+ 
+ 
+ 237,483 
+ 
+ 
+ 
+ 
+ 
+ 15.6 
+ 
+ 
+ 
+ 
+ Costs and expenses: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of sales - services and other 
+ 
+ 
+ 
+ 563,907 
+ 
+ 
+ 
+ 
+ 
+ 500,773 
+ 
+ 
+ 
+ 
+ 
+ 63,134 
+ 
+ 
+ 
+ 
+ 
+ 12.6 
+ 
+ 
+ 
+ 
+ % of total services and other revenue 
+ 
+ 
+ 
+ 36.2 
+ 
+ % 
+ 
+ 
+ 
+ 39.0 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of sales - equipment 
+ 
+ 
+ 
+ 176,600 
+ 
+ 
+ 
+ 
+ 
+ 195,151 
+ 
+ 
+ 
+ 
+ 
+ (18,551 
+ 
+ ) 
+ 
+ 
+ 
+ (9.5 
+ 
+ ) 
+ 
+ 
+ % of total equipment revenue 
+ 
+ 
+ 
+ 86.0 
+ 
+ % 
+ 
+ 
+ 
+ 81.5 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Selling, general and administrative expenses 
+ 
+ 
+ 
+ 436,088 
+ 
+ 
+ 
+ 
+ 
+ 370,500 
+ 
+ 
+ 
+ 
+ 
+ 65,588 
+ 
+ 
+ 
+ 
+ 
+ 17.7 
+ 
+ 
+ 
+ 
+ % of total revenue 
+ 
+ 
+ 
+ 24.7 
+ 
+ % 
+ 
+ 
+ 
+ 24.3 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Research and development expenses 
+ 
+ 
+ 
+ 27,570 
+ 
+ 
+ 
+ 
+ 
+ 31,745 
+ 
+ 
+ 
+ 
+ 
+ (4,175 
+ 
+ ) 
+ 
+ 
+ 
+ (13.2 
+ 
+ ) 
+ 
+ 
+ % of total revenue 
+ 
+ 
+ 
+ 1.6 
+ 
+ % 
+ 
+ 
+ 
+ 2.1 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Depreciation and amortization 
+ 
+ 
+ 
+ 457,116 
+ 
+ 
+ 
+ 
+ 
+ 385,662 
+ 
+ 
+ 
+ 
+ 
+ 71,454 
+ 
+ 
+ 
+ 
+ 
+ 18.5 
+ 
+ 
+ 
+ 
+ Impairment of long-lived assets 
+ 
+ 
+ 
+ 65,220 
+ 
+ 
+ 
+ 
+ 
+ 10,762 
+ 
+ 
+ 
+ 
+ 
+ 54,458 
+ 
+ 
+ 
+ 
+ 
+ * 
+ 
+ 
+ 
+ 
+ Total costs and expenses 
+ 
+ 
+ 
+ 1,726,501 
+ 
+ 
+ 
+ 
+ 
+ 1,494,593 
+ 
+ 
+ 
+ 
+ 
+ 231,908 
+ 
+ 
+ 
+ 
+ 
+ 15.5 
+ 
+ 
+ 
+ 
+ Operating income (loss) 
+ 
+ 
+ 
+ 36,137 
+ 
+ 
+ 
+ 
+ 
+ 30,562 
+ 
+ 
+ 
+ 
+ 
+ 5,575 
+ 
+ 
+ 
+ 
+ 
+ 18.2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other income (expense): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Interest income 
+ 
+ 
+ 
+ 80,275 
+ 
+ 
+ 
+ 
+ 
+ 44,619 
+ 
+ 
+ 
+ 
+ 
+ 35,656 
+ 
+ 
+ 
+ 
+ 
+ 79.9 
+ 
+ 
+ 
+ 
+ Interest expense, net of amounts capitalized 
+ 
+ 
+ 
+ (219,288 
+ 
+ ) 
+ 
+ 
+ 
+ (184,389 
+ 
+ ) 
+ 
+ 
+ 
+ (34,899 
+ 
+ ) 
+ 
+ 
+ 
+ 18.9 
+ 
+ 
+ 
+ 
+ Gains (losses) on investments, net 
+ 
+ 
+ 
+ (12,622 
+ 
+ ) 
+ 
+ 
+ 
+ 53,453 
+ 
+ 
+ 
+ 
+ 
+ (66,075 
+ 
+ ) 
+ 
+ 
+ 
+ * 
+ 
+ 
+ 
+ 
+ Equity in earnings (losses) of unconsolidated affiliates, net 
+ 
+ 
+ 
+ (5,954 
+ 
+ ) 
+ 
+ 
+ 
+ 16,973 
+ 
+ 
+ 
+ 
+ 
+ (22,927 
+ 
+ ) 
+ 
+ 
+ 
+ * 
+ 
+ 
+ 
+ 
+ Foreign currency transaction gains (losses), net 
+ 
+ 
+ 
+ (15,583 
+ 
+ ) 
+ 
+ 
+ 
+ 1,218 
+ 
+ 
+ 
+ 
+ 
+ (16,801 
+ 
+ ) 
+ 
+ 
+ 
+ * 
+ 
+ 
+ 
+ 
+ Other, net 
+ 
+ 
+ 
+ 11,249 
+ 
+ 
+ 
+ 
+ 
+ 5,364 
+ 
+ 
+ 
+ 
+ 
+ 5,885 
+ 
+ 
+ 
+ 
+ 
+ * 
+ 
+ 
+ 
+ 
+ Total other income (expense), net 
+ 
+ 
+ 
+ (161,923 
+ 
+ ) 
+ 
+ 
+ 
+ (62,762 
+ 
+ ) 
+ 
+ 
+ 
+ (99,161 
+ 
+ ) 
+ 
+ 
+ 
+ * 
+ 
+ 
+ 
+ 
+ Income (loss) from continuing operations before income taxes 
+ 
+ 
+ 
+ (125,786 
+ 
+ ) 
+ 
+ 
+ 
+ (32,200 
+ 
+ ) 
+ 
+ 
+ 
+ (93,586 
+ 
+ ) 
+ 
+ 
+ 
+ * 
+ 
+ 
+ 
+ 
+ Income tax benefit (provision), net 
+ 
+ 
+ 
+ (6,576 
+ 
+ ) 
+ 
+ 
+ 
+ 155,107 
+ 
+ 
+ 
+ 
+ 
+ (161,683 
+ 
+ ) 
+ 
+ 
+ 
+ * 
+ 
+ 
+ 
+ 
+ Net income (loss) from continuing operations 
+ 
+ 
+ 
+ (132,362 
+ 
+ ) 
+ 
+ 
+ 
+ 122,907 
+ 
+ 
+ 
+ 
+ 
+ (255,269 
+ 
+ ) 
+ 
+ 
+ 
+ * 
+ 
+ 
+ 
+ 
+ Net income (loss) from discontinued operations 
+ 
+ 
+ 
+ 93,729 
+ 
+ 
+ 
+ 
+ 
+ 270,582 
+ 
+ 
+ 
+ 
+ 
+ (176,853 
+ 
+ ) 
+ 
+ 
+ 
+ (65.4 
+ 
+ ) 
+ 
+ 
+ Net income (loss) 
+ 
+ 
+ 
+ (38,633 
+ 
+ ) 
+ 
+ 
+ 
+ 393,489 
+ 
+ 
+ 
+ 
+ 
+ (432,122 
+ 
+ ) 
+ 
+ 
+ 
+ * 
+ 
+ 
+ 
+ 
+ Less: Net income (loss) attributable to non-controlling interests 
+ 
+ 
+ 
+ 1,842 
+ 
+ 
+ 
+ 
+ 
+ 928 
+ 
+ 
+ 
+ 
+ 
+ 914 
+ 
+ 
+ 
+ 
+ 
+ 98.5 
+ 
+ 
+ 
+ 
+ Net income (loss) attributable to EchoStar Corporation 
+ 
+ 
+ 
+ $ 
+ 
+ (40,475 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ 392,561 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (433,036 
+ 
+ ) 
+ 
+ 
+ 
+ * 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other data: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EBITDA (2) 
+ 
+ 
+ 
+ $ 
+ 
+ 468,501 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 492,304 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (23,803 
+ 
+ ) 
+ 
+ 
+ 
+ (4.8 
+ 
+ ) 
+ 
+ 
+ Subscribers, end of period 
+ 
+ 
+ 
+ 1,361,000 
+ 
+ 
+ 
+ 
+ 
+ 1,208,000 
+ 
+ 
+ 
+ 
+ 
+ 153,000 
+ 
+ 
+ 
+ 
+ 
+ 12.7 
+ 
+ 
+ * Percentage is not meaningful. 
+ 
+ 
+ 
+ 
+ 
+ (1) 
+ 
+ An explanation of our key metrics is included in Explanation of Key Metrics and Other Items. 
+ 
+ 
+ 49 
+ 
+ Table of Contents 
+ 
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS - Continued 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (2) 
+ 
+ A reconciliation of EBITDA to Net income (loss), the most directly comparable U.S. GAAP measure in our Accompanying Consolidated Financial Statements, is included in Results of Operations. For further information on our use of EBITDA, see Explanation of Key Metrics and Other Items. 
+ 
+ Services and other revenue . Services and other revenue totaled $1.6 billion for the year ended December 31, 2018 , an increase of $271.6 million , or 21.1% , compared to 2017 . 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Services and other revenue from our Hughes segment for the year ended December 31, 2018 increased by $272.6 million, or 22.0%, to $1.5 billion compared to 2017. The increase was mainly due to increases in sales of broadband services to our consumer and enterprise customers of $271.0 million and $28.1 million, respectively. The increase was partially offset by a decrease of $32.5 million in residential wholesale broadband services . 
+ 
+ 
+ 
+ 
+ 
+ 
+ • 
+ 
+ Services and other revenue from our ESS segment for the year ended December 31, 2018 decreased by $3.2 million, or 10.5%, to $27.2 million compared to 2017 . The decrease was primarily a result of a decrease in satellite capacity leased to DISH Network on the EchoStar IX satellite. 
+ 
+ Equipment revenue . Equipment revenue totaled $205.4 million for the year ended December 31, 2018 , a decrease of $34.1 million , or 14.2% , compared to 2017 . The decrease was primarily due to a decrease in hardware sales in our Hughes segment of $22.7 million to our domestic enterprise customers, $8.4 million to our mobile satellite systems customers and $5.8 million to our consumer customers. The decrease was partially offset by an increase in hardware sales in our Hughes segment of $3.1 million to our international enterprise customers. 
+ 
+ Cost of sales - services and other . Cost of sales - services and other totaled $563.9 million for the year ended December 31, 2018 , an increase of $63.1 million , or 12.6% , compared to 2017 . The increase was from our Hughes segment and was mainly due to an increase in the costs of broadband services provided to our consumer and enterprise customers supporting the increased subscribers and revenue. 
+ 
+ Cost of sales - equipment . Cost of sales - equipment totaled $176.6 million for the year ended December 31, 2018 , a decrease of $18.6 million , or 9.5% , compared to 2017 . The decrease was primarily attributable to a decrease in hardware sales in our Hughes segment provided to our consumer customers, domestic enterprise customers and mobile satellite systems customers, partially offset by an increase in hardware sales in our Hughes segment to our international enterprise customers . 
+ 
+ Selling, general and administrative expenses . Selling, general and administrative expenses totaled $436.1 million for the year ended December 31, 2018 , an increase of $65.6 million , or 17.7% , compared to 2017 . Selling expenses increased $37.5 million primarily attributable to the amortization of contract acquisition and fulfillment costs from our Hughes segment and an increase in marketing and promotional costs from our Hughes segment mainly associated with our consumer business. General and administration expenses increased $32.3 million primarily attributable to increases in bad debt expense, costs associated with beginning operations in certain Central and South American countries and other administrative costs from our Hughes segment. 
+ 
+ Depreciation and amortization . Depreciation and amortization expenses totaled $457.1 million for the year ended December 31, 2018 , an increase of $71.5 million , or 18.5% , compared to 2017 . The increase was primarily due to an increase in depreciation expense of: (i) $33.3 million relating to the EchoStar XIX satellite, the EchoStar XXI satellite and the EchoStar 105/SES-11 satellite that were placed into service in the first and fourth quarters of 2017, respectively and the Telesat T19V satellite that was placed into service in the fourth quarter of 2018, (ii) $28.2 million relating to our customer rental equipment, (iii) $10.7 million relating to machinery and equipment and (iv) $9.2 million relating to the decrease in depreciable life of the SPACEWAY 3 satellite. The increase in depreciation expense was partially offset by a decrease of $7.5 million in amortization expense from certain fully amortized other intangible assets in our Hughes segment. 
+ 
+ Impairment of long-lived assets . During the year ended December 31, 2018 , impairment of long-lived assets of $65.2 million was primarily attributable to the determination that the fair value of our 45 degree west longitude regulatory authorization was de minimis and our recognition of a loss on the assets and in-substance liquidation of the business related to it. During the year ended December 31, 2017, impairment of long-lived assets of $10.8 million was primarily 
+ 
+ 
+ 50 
+ 
+ Table of Contents 
+ 
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS - Continued 
+ 
+ 
+ attributable to an impairment loss of $6.0 million relating to our regulatory authorizations with indefinite lives from our ESS segment and a loss of $4.8 million due to impairment of certain projects in construction in progress from Corporate and Other. 
+ 
+ Interest income . Interest income totaled $80.3 million for the year ended December 31, 2018 , an increase of $35.7 million , or 79.9% compared to 2017 . The increase was primarily attributable to an increase in our percentage yield on marketable investments . 
+ 
+ Interest expense, net of amounts capitalized . Interest expense, net of amounts capitalized totaled $219.3 million for the year ended December 31, 2018 , an increase of $34.9 million , or 18.9% , compared to 2017 . The increase was primarily due to a decrease of $44.6 million in capitalized interest relating to the EchoStar XIX satellite that was placed into service in the first quarter of 2017 and the EchoStar XXI satellite and the EchoStar 105/SES-11 satellite that were placed into service in the fourth quarter of 2017. The increase was partially offset by an increase of $10.7 million in capitalized interest relating to the construction of the EchoStar XXIV satellite. 
+ 
+ Gains (losses) on investments, net . Gains (losses) on investments, net totaled $12.6 million in losses for the year ended December 31, 2018 compared to $53.5 million in gains for the year ended December 31, 2017 . For the year ended December 31, 2018 , the net loss included (i) unrealized losses of $16.6 million on certain marketable equity securities and (ii) unrealized gains of $4.2 million on certain debt securities that we account for using the fair value option. For the year ended December 31, 2017 , the net gain included (i) gains of $45.0 million attributable to unrealized gains on certain marketable equity securities, (ii) gains of $8.9 million from the sale of our investment in Invidi Technologies Corporation (“Invidi”) to an entity owned in part by DISH Network, (iii) gains of $2.8 million from the sales of certain available-for-sale securities and (iv) an other-than-temporary impairment loss of $3.3 million on one of our available-for-sale securities. 
+ 
+ Equity in earnings (losses) of unconsolidated affiliates, net . Equity in losses of unconsolidated affiliates, net totaled $6.0 million for the year ended December 31, 2018 compared to $17.0 million in earnings for the year ended December 31, 2017 . The change of $22.9 million was primarily related to a decrease in earnings from our investments in our unconsolidated affiliates. 
+ 
+ Foreign currency transaction gains (losses), net . Foreign currency transaction gains (losses), net totaled $15.6 million in losses for the year ended December 31, 2018 compared to $1.2 million in gains for the year ended December 31, 2017 . The increase in losses was due to the strengthening of the U.S. dollar against certain foreign currencies in 2018. 
+ 
+ Other, net . Other, net totaled $11.2 million in income for the year ended December 31, 2018 , an increase of $5.9 million , compared to 2017 . The increase was mainly due to a net gain of $9.6 million due to the one-time settlement of certain amounts due to and from a third party vendor in the second quarter of 2018 , partially offset by a decrease of $2.9 million in dividends received from certain marketable equity securities in 2018. 
+ 
+ Income tax benefit (provision), net . Income tax provision was $6.6 million for the year ended December 31, 2018 compared to an income tax benefit of $155.1 million for the year ended December 31, 2017 . Our effective income tax rate was (5.2)% and 536.0% for the year ended December 31, 2018 and 2017 , respectively. The variations in our current year effective tax rate from the U.S. federal statutory rate were primarily due to the change in net unrealized gains that are capital in nature and research and experimentation credits, partially offset by the impact of state and local taxes and the increase in our valuation allowance associated with certain foreign losses. In addition, we did not record any tax benefit from the impairment of long-lived assets in Brazil as we do not expect to realize a tax benefit from this loss in the foreseeable future. This resulted in further variance from the U.S. statutory effective rate in 2018. The variations in our effective tax rate from the U.S. federal statutory rate for the year ended December 31, 2017 were primarily due to the 2017 Tax Act, the recognition of a one-time tax benefit for the revaluation of our deferred tax assets and liabilities due to a change in our state effective tax rate as a result of the Share Exchange, the increase in our valuation allowance associated with unrealized gains that are capital in nature, and change in the amount of unrecognized tax benefit from uncertain tax positions. The tax benefit recognized from the change in our effective tax rate was partially offset by the increase in our valuation allowance associated with certain state and foreign losses. 
+ 
+ 
+ 
+ 51 
+ 
+ Table of Contents 
+ 
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS - Continued 
+ 
+ 
+ Net income (loss) attributable to EchoStar Corporation . Net income (loss) attributable to EchoStar Corporation common stock was a net loss of $40.5 million for the year ended December 31, 2018 , compared to net income of $392.6 million for the year ended December 31, 2017 , as set forth in the following table: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Amounts 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net income (loss) attributable to EchoStar Corporation for the year ended December 31, 2017 
+ 
+ 
+ 
+ $ 
+ 
+ 392,561 
+ 
+ 
+ 
+ 
+ Increase (decrease) in interest income 
+ 
+ 
+ 
+ 35,656 
+ 
+ 
+ 
+ 
+ Increase (decrease) in other, net 
+ 
+ 
+ 
+ 5,885 
+ 
+ 
+ 
+ 
+ Increase (decrease) in operating income, including depreciation and amortization 
+ 
+ 
+ 
+ 5,575 
+ 
+ 
+ 
+ 
+ Decrease (increase) in net income attributable to non-controlling interests 
+ 
+ 
+ 
+ (914 
+ 
+ ) 
+ 
+ 
+ Decrease (increase) in foreign currency transaction losses, net 
+ 
+ 
+ 
+ (16,801 
+ 
+ ) 
+ 
+ 
+ Increase (decrease) in equity in earnings of unconsolidated affiliates, net 
+ 
+ 
+ 
+ (22,927 
+ 
+ ) 
+ 
+ 
+ Decrease (increase) in interest expense, net of amounts capitalized 
+ 
+ 
+ 
+ (34,899 
+ 
+ ) 
+ 
+ 
+ Increase (decrease) in gains on investments, net 
+ 
+ 
+ 
+ (66,075 
+ 
+ ) 
+ 
+ 
+ Decrease (increase) in income tax provision, net 
+ 
+ 
+ 
+ (161,683 
+ 
+ ) 
+ 
+ 
+ Increase (decrease) in net income from discontinued operations 
+ 
+ 
+ 
+ (176,853 
+ 
+ ) 
+ 
+ 
+ Net income (loss) attributable to EchoStar Corporation for the year ended December 31, 2018 
+ 
+ 
+ 
+ $ 
+ 
+ (40,475 
+ 
+ ) 
+ 
+ EBITDA . EBITDA is a non-GAAP financial measure and is described under Explanation of Key Metrics and Other Items below. The following table reconciles EBITDA to Net income (loss) , the most directly comparable U.S. GAAP measure in our Accompanying Consolidated Financial Statements: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the years ended December 31, 
+ 
+ 
+ 
+ Variance 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ Amount 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net income (loss) 
+ 
+ 
+ 
+ $ 
+ 
+ (38,633 
+ 
+ ) 
+ 
+ 
+ 
+ $ 
+ 
+ 393,489 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (432,122 
+ 
+ ) 
+ 
+ 
+ 
+ * 
+ 
+ 
+ 
+ 
+ Interest income 
+ 
+ 
+ 
+ (80,275 
+ 
+ ) 
+ 
+ 
+ 
+ (44,619 
+ 
+ ) 
+ 
+ 
+ 
+ (35,656 
+ 
+ ) 
+ 
+ 
+ 
+ 79.9 
+ 
+ 
+ 
+ 
+ Interest expense, net of amounts capitalized 
+ 
+ 
+ 
+ 219,288 
+ 
+ 
+ 
+ 
+ 
+ 184,389 
+ 
+ 
+ 
+ 
+ 
+ 34,899 
+ 
+ 
+ 
+ 
+ 
+ 18.9 
+ 
+ 
+ 
+ 
+ Income tax (benefit) provision, net 
+ 
+ 
+ 
+ 6,576 
+ 
+ 
+ 
+ 
+ 
+ (155,107 
+ 
+ ) 
+ 
+ 
+ 
+ 161,683 
+ 
+ 
+ 
+ 
+ 
+ * 
+ 
+ 
+ 
+ 
+ Depreciation and amortization 
+ 
+ 
+ 
+ 457,116 
+ 
+ 
+ 
+ 
+ 
+ 385,662 
+ 
+ 
+ 
+ 
+ 
+ 71,454 
+ 
+ 
+ 
+ 
+ 
+ 18.5 
+ 
+ 
+ 
+ 
+ Net (income) loss from discontinued operations 
+ 
+ 
+ 
+ (93,729 
+ 
+ ) 
+ 
+ 
+ 
+ (270,582 
+ 
+ ) 
+ 
+ 
+ 
+ 176,853 
+ 
+ 
+ 
+ 
+ 
+ (65.4 
+ 
+ ) 
+ 
+ 
+ Net (income) loss attributable to non-controlling interests 
+ 
+ 
+ 
+ (1,842 
+ 
+ ) 
+ 
+ 
+ 
+ (928 
+ 
+ ) 
+ 
+ 
+ 
+ (914 
+ 
+ ) 
+ 
+ 
+ 
+ 98.5 
+ 
+ 
+ 
+ 
+ EBITDA 
+ 
+ 
+ 
+ $ 
+ 
+ 468,501 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 492,304 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (23,803 
+ 
+ ) 
+ 
+ 
+ 
+ (4.8 
+ 
+ ) 
+ * Percentage is not meaningful. 
+ 
+ 
+ 
+ 52 
+ 
+ Table of Contents 
+ 
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS - Continued 
+ 
+ 
+ EBITDA was $468.5 million for the year ended December 31, 2018 , a decrease of $23.8 million , or 4.8% , compared to 2017 as set forth in the following table: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Amounts 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EBITDA for the year ended December 31, 2017 
+ 
+ 
+ 
+ $ 
+ 
+ 492,304 
+ 
+ 
+ 
+ 
+ Increase (decrease) in depreciation and amortization 
+ 
+ 
+ 
+ 71,454 
+ 
+ 
+ 
+ 
+ Increase (decrease) in other, net 
+ 
+ 
+ 
+ 5,885 
+ 
+ 
+ 
+ 
+ Increase (decrease) in operating income, including depreciation and amortization 
+ 
+ 
+ 
+ 5,575 
+ 
+ 
+ 
+ 
+ Decrease (increase) in net income attributable to non-controlling interests 
+ 
+ 
+ 
+ (914 
+ 
+ ) 
+ 
+ 
+ Decrease (increase) in foreign currency transaction losses, net 
+ 
+ 
+ 
+ (16,801 
+ 
+ ) 
+ 
+ 
+ Increase (decrease) in equity in earnings of unconsolidated affiliates, net 
+ 
+ 
+ 
+ (22,927 
+ 
+ ) 
+ 
+ 
+ Increase (decrease) in gains on investments, net 
+ 
+ 
+ 
+ (66,075 
+ 
+ ) 
+ 
+ 
+ EBITDA for the year ended December 31, 2018 
+ 
+ 
+ 
+ $ 
+ 
+ 468,501 
+ 
+ 
+ 
+ Segment Operating Results and Capital Expenditures 
+ 
+ The following tables present our operating results, capital expenditures and EBITDA by segment for the year ended December 31, 2018 compared to the year ended December 31, 2017 . Capital expenditures in the table above are net of refunds and other receipts related to property and equipment. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Hughes 
+ 
+ 
+ 
+ ESS 
+ 
+ 
+ 
+ Corporate and Other 
+ 
+ 
+ 
+ Consolidated 
+ Total 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the year ended December 31, 2018 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total revenue 
+ 
+ 
+ 
+ $ 
+ 
+ 1,716,528 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 27,231 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 18,879 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,762,638 
+ 
+ 
+ 
+ 
+ Capital expenditures 
+ 
+ 
+ 
+ 390,108 
+ 
+ 
+ 
+ 
+ 
+ (76,757 
+ 
+ ) 
+ 
+ 
+ 
+ 164,091 
+ 
+ 
+ 
+ 
+ 
+ 477,442 
+ 
+ 
+ 
+ 
+ EBITDA 
+ 
+ 
+ 
+ 601,319 
+ 
+ 
+ 
+ 
+ 
+ 17,764 
+ 
+ 
+ 
+ 
+ 
+ (150,582 
+ 
+ ) 
+ 
+ 
+ 
+ 468,501 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the year ended December 31, 2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total revenue 
+ 
+ 
+ 
+ $ 
+ 
+ 1,477,918 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 30,417 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 16,820 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,525,155 
+ 
+ 
+ 
+ 
+ Capital expenditures 
+ 
+ 
+ 
+ 376,502 
+ 
+ 
+ 
+ 
+ 
+ 20,026 
+ 
+ 
+ 
+ 
+ 
+ 169,157 
+ 
+ 
+ 
+ 
+ 
+ 565,685 
+ 
+ 
+ 
+ 
+ EBITDA 
+ 
+ 
+ 
+ 475,222 
+ 
+ 
+ 
+ 
+ 
+ 16,074 
+ 
+ 
+ 
+ 
+ 
+ 1,008 
+ 
+ 
+ 
+ 
+ 
+ 492,304 
+ 
+ 
+ 
+ Hughes Segment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the years ended December 31, 
+ 
+ 
+ 
+ Variance 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ Amount 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total revenue 
+ 
+ 
+ 
+ $ 
+ 
+ 1,716,528 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,477,918 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 238,610 
+ 
+ 
+ 
+ 
+ 
+ 16.1 
+ 
+ 
+ Capital expenditures 
+ 
+ 
+ 
+ 390,108 
+ 
+ 
+ 
+ 
+ 
+ 376,502 
+ 
+ 
+ 
+ 
+ 
+ 13,606 
+ 
+ 
+ 
+ 
+ 
+ 3.6 
+ 
+ 
+ EBITDA 
+ 
+ 
+ 
+ 601,319 
+ 
+ 
+ 
+ 
+ 
+ 475,222 
+ 
+ 
+ 
+ 
+ 
+ 126,097 
+ 
+ 
+ 
+ 
+ 
+ 26.5 
+ 
+ Total revenue was $1.7 billion for the year ended December 31, 2018 , an increase of $238.6 million , or 16.1% , compared to 2017 . The increase was primarily due to an increase in sales of broadband services to our consumer and domestic enterprise customers of $271.0 million and $28.1 million, respectively, and an increase in hardware sales of $3.1 million to our international enterprise customers. The increase was partially offset by (i) a decrease of $32.5 million in residential wholesale broadband services and (ii) decreases in hardware sales of $22.7 million to our domestic enterprise customers, $8.4 million to our mobile satellite systems customers and $5.8 million to our consumer customers. 
+ 
+ 
+ 53 
+ 
+ Table of Contents 
+ 
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS - Continued 
+ 
+ 
+ 
+ Capital expenditures were $390.1 million for the year ended December 31, 2018 , an increase of $13.6 million , or 3.6% , compared to 2017 , primarily due to increases in capital expenditures relating to the Telesat T19V satellite and our enterprise business of $31.3 million. The increases were partially offset by a decrease of $17.8 million in capital expenditures mainly associated with satellite ground facilities. 
+ 
+ EBITDA was $601.3 million for the year ended December 31, 2018 , an increase of $126.1 million , or 26.5% , compared to 2017 as set forth in the following table: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Amounts 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EBITDA for the year ended December 31, 2017 
+ 
+ 
+ 
+ $ 
+ 
+ 475,222 
+ 
+ 
+ 
+ 
+ Increase (decrease) in operating income, including depreciation and amortization 
+ 
+ 
+ 
+ 83,596 
+ 
+ 
+ 
+ 
+ Increase (decrease) in depreciation and amortization 
+ 
+ 
+ 
+ 51,802 
+ 
+ 
+ 
+ 
+ Increase (decrease) in gains on investments, net 
+ 
+ 
+ 
+ 1,545 
+ 
+ 
+ 
+ 
+ Increase (decrease) in other, net 
+ 
+ 
+ 
+ 694 
+ 
+ 
+ 
+ 
+ Decrease (increase) in net income attributable to non-controlling interests 
+ 
+ 
+ 
+ (260 
+ 
+ ) 
+ 
+ 
+ Decrease (increase) in foreign currency transaction losses, net 
+ 
+ 
+ 
+ (11,280 
+ 
+ ) 
+ 
+ 
+ EBITDA for the year ended December 31, 2018 
+ 
+ 
+ 
+ $ 
+ 
+ 601,319 
+ 
+ 
+ 
+ ESS Segment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the years ended December 31, 
+ 
+ 
+ 
+ Variance 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ Amount 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total revenue 
+ 
+ 
+ 
+ $ 
+ 
+ 27,231 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 30,417 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ (3,186 
+ 
+ ) 
+ 
+ 
+ 
+ (10.5 
+ 
+ ) 
+ 
+ 
+ Capital expenditures 
+ 
+ 
+ 
+ (76,757 
+ 
+ ) 
+ 
+ 
+ 
+ 20,026 
+ 
+ 
+ 
+ 
+ 
+ (96,783 
+ 
+ ) 
+ 
+ 
+ 
+ * 
+ 
+ 
+ 
+ 
+ EBITDA 
+ 
+ 
+ 
+ 17,764 
+ 
+ 
+ 
+ 
+ 
+ 16,074 
+ 
+ 
+ 
+ 
+ 
+ 1,690 
+ 
+ 
+ 
+ 
+ 
+ 10.5 
+ 
+ 
+ 
+ 
+ * Percentage is not meaningful 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total revenue was $27.2 million for the year ended December 31, 2018 , a decrease of $3.2 million , or 10.5% , compared to 2017 . The decrease was a result of a decrease in satellite capacity leased to DISH Network on the EchoStar IX satellite. 
+ 
+ Capital expenditures were a net reimbursement of $76.8 million for the year ended December 31, 2018 , a decrease in net capital expenditures of $96.8 million compared to 2017 , primarily attributable to a reimbursement of $77.5 million in 2018 and a decrease in satellite expenditure as a result of the EchoStar 105/SES-11 satellite that was placed into service in the fourth quarter of 2017. 
+ 
+ EBITDA was $17.8 million for the year ended December 31, 2018 , an increase of $1.7 million , or 10.5% , compared to 2017 as set forth in the following table: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Amounts 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EBITDA for the year ended December 31, 2017 
+ 
+ 
+ 
+ $ 
+ 
+ 16,074 
+ 
+ 
+ 
+ 
+ Increase (decrease) in depreciation and amortization 
+ 
+ 
+ 
+ 7,108 
+ 
+ 
+ 
+ 
+ Increase (decrease) in operating income, including depreciation and amortization 
+ 
+ 
+ 
+ (5,418 
+ 
+ ) 
+ 
+ 
+ EBITDA for the year ended December 31, 2018 
+ 
+ 
+ 
+ $ 
+ 
+ 17,764 
+ 
+ 
+ 
+ 
+ 
+ 54 
+ 
+ Table of Contents 
+ 
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS - Continued 
+ 
+ 
+ Corporate and Other 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For the years ended December 31, 
+ 
+ 
+ 
+ Variance 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2018 
+ 
+ 
+ 
+ 2017 
+ 
+ 
+ 
+ Amount 
+ 
+ 
+ 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total revenue 
+ 
+ 
+ 
+ $ 
+ 
+ 18,879 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 16,820 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 2,059 
+ 
+ 
+ 
+ 
+ 
+ 12.2 
+ 
+ 
+ 
+ 
+ Capital expenditures 
+ 
+ 
+ 
+ 164,091 
+ 
+ 
+ 
+ 
+ 
+ 169,157 
+ 
+ 
+ 
+ 
+ 
+ (5,066 
+ 
+ ) 
+ 
+ 
+ 
+ (3.0 
+ 
+ ) 
+ 
+ 
+ EBITDA 
+ 
+ 
+ 
+ (150,582 
+ 
+ ) 
+ 
+ 
+ 
+ 1,008 
+ 
+ 
+ 
+ 
+ 
+ (151,590 
+ 
+ ) 
+ 
+ 
+ 
+ * 
+ 
+ 
+ 
+ 
+ * Percentage is not meaningful 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Capital expenditures were $164.1 million for the year ended December 31, 2018 , a decrease of $5.1 million , or 3.0% , compared to 2017 , primarily related to increases of $44.5 million in satellite expenditures on the EchoStar XXIV satellite, primarily offset by decreases of $37.6 million in satellite expenditures on the EchoStar XIX satellite and the EchoStar XXI satellite. The EchoStar XIX satellite and the EchoStar XXI satellite were placed into service in 2017 and the EchoStar XIX satellite was contributed to the Hughes segment in the first quarter of 2017. The EchoStar XXIV satellite is primarily intended to provide additional capacity for our HughesNet service in North, South and Central American countries. 
+ 
+ EBITDA was a loss of $150.6 million for the year ended December 31, 2018 , compared to EBITDA of $1.0 million for the year ended December 31, 2017, a decrease of $151.6 million , as set forth in the following table: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Amounts 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EBITDA for the year ended December 31, 2017 
+ 
+ 
+ 
+ $ 
+ 
+ 1,008 
+ 
+ 
+ 
+ 
+ Increase (decrease) in depreciation and amortization 
+ 
+ 
+ 
+ 12,548 
+ 
+ 
+ 
+ 
+ Increase (decrease) in other, net 
+ 
+ 
+ 
+ 5,191 
+ 
+ 
+ 
+ 
+ Decrease (increase) in net income attributable to non-controlling interests 
+ 
+ 
+ 
+ (655 
+ 
+ ) 
+ 
+ 
+ Decrease (increase) in foreign currency transaction losses, net 
+ 
+ 
+ 
+ (5,524 
+ 
+ ) 
+ 
+ 
+ Increase (decrease) in equity in earnings of unconsolidated affiliates, net 
+ 
+ 
+ 
+ (22,927 
+ 
+ ) 
+ 
+ 
+ Increase (decrease) in gains on investments, net 
+ 
+ 
+ 
+ (67,619 
+ 
+ ) 
+ 
+ 
+ Increase (decrease) in operating income, including depreciation and amortization 
+ 
+ 
+ 
+ (72,604 
+ 
+ ) 
+ 
+ 
+ EBITDA for the year ended December 31, 2018 
+ 
+ 
+ 
+ $ 
+ 
+ (150,582 
+ 
+ ) 
+ 
+ 
+ LIQUIDITY AND CAPITAL RESOURCES 
+ 
+ Cash, Cash Equivalents and Current Marketable Investment Securities 
+ 
+ We consider all liquid investments purchased with an original maturity of 90 days or less to be cash equivalents. See ITEM 7A. Quantitative and Qualitative Disclosures about Market Risk in this Form 10-K for further discussion regarding our marketable investment securities. 
+ 
+ As of December 31, 2019 and 2018 , our cash, cash equivalents and current marketable investment securities, totaled $2.5 billion and $3.2 billion , respectively. 
+ 
+ As of December 31, 2019 and 2018 , we held $940.6 million and $2.3 billion , respectively, of marketable investment securities, consisting of various debt and equity instruments including corporate bonds, corporate equity securities, government bonds and mutual funds. 
+ 
+ 
+ 
+ 55 
+ 
+ Table of Contents 
+ 
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS - Continued 
+ 
+ 
+ The following discussion highlights our cash flow activities, which include results from continuing and discontinued operations, for the years ended December 31, 2019 , 2018 and 2017 . 
+ 
+ Cash flows from operating activities. We typically reinvest the cash flow from operating activities in our business. For the years ended December 31, 2019 , 2018 and 2017 , we reported net cash inflows from operating activities of $656.3 million , $734.5 million and $726.9 million , respectively. 
+ 
+ For the year ended December 31, 2019 , we reported net cash inflows from operating activities of $656.3 million , a decrease of $78.2 million , compared to 2018. The decrease in cash inflows was primarily attributable to lower net income of $141.1 million adjusted to exclude: (i) Depreciation and amortization; (ii) Impairment of long-lived assets ; (iii) Losses (gains) on investments, net; (iv) Equity in earnings of unconsolidated affiliates, net; (v) Foreign currency transaction (gains) losses, net; (vi) Dividend received from unconsolidated entity; and (vii) change in Other, net. 
+ 
+ For the year ended December 31, 2018 , we reported net cash inflows from operating activities of $734.5 million , an increase of $7.6 million compared to 2017 . The increase in cash inflows was primarily attributable to a higher net income of $80.7 million adjusted to exclude (i) Depreciation and amortization; (ii) Impairment of long-lived assets ; (iii) Losses (gains) on investments, net; (iv) Foreign currency transaction (gains) losses, net; (v) Equity in earnings of unconsolidated affiliates, net; (vi) Proceeds from sale of trading securities; (vii) Dividend received from unconsolidated entity; (vii) Deferred tax provision (benefit), net; and (ix) changes in Other, net. The increase in cash inflows was partially offset by a decrease in cash outflows of $73.1 million resulting from timing differences in operating assets and liabilities. 
+ 
+ Cash flows from investing activities. Our investing activities generally include purchases and sales of marketable investment securities, capital expenditures, acquisitions and strategic investments. For the years ended December 31, 2019 , 2018 and 2017 , we reported net cash inflows from investing activities of $822.0 million , net cash outflows from investing activities $2.1 billion and net cash outflows from investing activities $867.9 million , respectively. 
+ 
+ For the year ended December 31, 2019 , we had net sales and maturities of marketable investment securities of $2.4 billion , partially offset by net purchases of marketable investment securities of $993.4 million , expenditures for property and equipment of $418.6 million , and purchase of other investments of $93.7 million . 
+ 
+ For the year ended December 31, 2018, we had net purchases of marketable investment securities of $2.97 billion , expenditures for property and equipment of $555.1 million and investments in unconsolidated affiliates of $116.0 million , partially offset by net sales and maturities of marketable investment securities of $1.5 billion , and a reimbursement of $77.5 million related to the EchoStar 105/SES-11 satellite. 
+ 
+ For the year ended December 31, 2017, we had net purchases of marketable investment securities of $855.7 million and expenditures for property and equipment of $583.2 million , partially offset by net sales and maturities of marketable investment securities of $580.2 million and the sale of our investment in Invidi to an entity owned in part by DISH Network of $17.8 million . 
+ 
+ Cash flows from financing activities. Our financing activities generally include proceeds related to the issuance of debt and cash used for the repurchase, redemption or payment of debt and finance lease obligations, payments relating to stock and debt repurchases and the proceeds from Class A common stock options exercised and stock issued under our stock incentive plans and employee stock purchase plan. For the years ended December 31, 2019 , 2018 and 2017 , we reported net cash outflows from financing activities of $885.3 million , net cash outflows from financing activities of $136.6 million , and net cash inflows from financing activities of $0.1 million , respectively. 
+ 
+ For the year ended December 31, 2019 , we reported net cash outflows from financing activities of $885.3 million , an increase of $748.7 million compared to 2018. Net cash outflows for the year ended December 31, 2019 included $920.9 million for the repurchasing and maturity of debt and $7.3 million for the purchase of non-controlling shareholder interests in a subsidiary of ours that were held by an unaffiliated third party. These transactions did not occur during the year ended December 31, 2018 . Additionally, during the year ended December 31, 2019 , we received $67.3 million in net proceeds from Class A common stock options exercised in 2019 compared to $4.4 million during the year ended December 31, 2018 . The change in net cash outflows was partially offset by our repurchase of $33.3 million of shares of our Class A common stock during the year ended December 31, 2018 . 
+ 
+ 
+ 56 
+ 
+ Table of Contents 
+ 
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS - Continued 
+ 
+ 
+ 
+ For the year ended December 31, 2018 , we reported net cash outflows from financing activities of $136.6 million , an increase in cash outflows of $136.6 million compared to 2017 . The increase in cash outflows of was primarily due to our repurchase of $69.2 million of debt, our repurchase of $33.3 million of shares of our Class A common stock, and a decrease of $31.1 million in net proceeds from Class A common stock options exercised under our stock incentive plans in 2018. 
+ 
+ Obligations and Future Capital Requirements 
+ 
+ Contractual Obligations 
+ 
+ The following table summarizes our contractual obligations as of December 31, 2019 : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Payments Due in the Year Ending December 31, 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ 
+ 
+ 2020 
+ 
+ 
+ 
+ 2021 
+ 
+ 
+ 
+ 2022 
+ 
+ 
+ 
+ 2023 
+ 
+ 
+ 
+ 2024 
+ 
+ 
+ 
+ Thereafter 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Long-term debt 
+ 
+ 
+ 
+ $ 
+ 
+ 2,400,000 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 900,000 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,500,000 
+ 
+ 
+ 
+ 
+ Finance lease obligations 
+ 
+ 
+ 
+ 1,212 
+ 
+ 
+ 
+ 
+ 
+ 629 
+ 
+ 
+ 
+ 
+ 
+ 487 
+ 
+ 
+ 
+ 
+ 
+ 96 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ 
+ — 
+ 
+ 
+ 
+ 
+ Interest on long-term debt 
+ 
+ 
+ 
+ 726,377 
+ 
+ 
+ 
+ 
+ 
+ 157,688 
+ 
+ 
+ 
+ 
+ 
+ 123,375 
+ 
+ 
+ 
+ 
+ 
+ 89,063 
+ 
+ 
+ 
+ 
+ 
+ 89,063 
+ 
+ 
+ 
+ 
+ 
+ 89,063 
+ 
+ 
+ 
+ 
+ 
+ 178,125 
+ 
+ 
+ 
+ 
+ Satellite-related obligations 
+ 
+ 
+ 
+ 419,033 
+ 
+ 
+ 
+ 
+ 
+ 192,869 
+ 
+ 
+ 
+ 
+ 
+ 31,036 
+ 
+ 
+ 
+ 
+ 
+ 18,479 
+ 
+ 
+ 
+ 
+ 
+ 18,004 
+ 
+ 
+ 
+ 
+ 
+ 17,620 
+ 
+ 
+ 
+ 
+ 
+ 141,025 
+ 
+ 
+ 
+ 
+ Operating lease obligations 
+ 
+ 
+ 
+ 152,722 
+ 
+ 
+ 
+ 
+ 
+ 20,884 
+ 
+ 
+ 
+ 
+ 
+ 17,648 
+ 
+ 
+ 
+ 
+ 
+ 15,384 
+ 
+ 
+ 
+ 
+ 
+ 14,373 
+ 
+ 
+ 
+ 
+ 
+ 13,286 
+ 
+ 
+ 
+ 
+ 
+ 71,147 
+ 
+ 
+ 
+ 
+ Total 
+ 
+ 
+ 
+ $ 
+ 
+ 3,699,344 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 372,070 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,072,546 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 123,022 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 121,440 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 119,969 
+ 
+ 
+ 
+ 
+ 
+ $ 
+ 
+ 1,890,297 
+ 
+ 
+ 
+ The table above does not include amounts related to deferred tax liabilities, unrecognized tax positions and certain other amounts recorded in our non-current liabilities as the timing of any payments is uncertain. The table also excludes long-term deferred revenue and other long-term liabilities that do not require future cash payments. Additionally, our satellite-related obligations primarily include payments pursuant to agreements for the construction of the EchoStar XXIV satellite, payments pursuant to regulatory authorizations, non-lease costs associated with our finance lease satellites, in-orbit incentives relating to certain satellites and commitments for satellite service arrangements. 
+ 
+ In certain circumstances, the dates on which we are obligated to pay our contractual obligations could change. 
+ 
+ Off-Balance Sheet Arrangements 
+ 
+ We generally do not engage in off-balance sheet financing activities or use derivative financial instruments for hedge accounting or speculative purposes. 
+ 
+ As of December 31, 2019 , we had foreign currency forward contracts with a notional value of $12.1 million in place to partially mitigate foreign currency exchange risk . From time to time, we may enter into foreign currency forward contracts, or take other measures, to mitigate risks associated with foreign currency denominated assets, liabilities, commitments and anticipated foreign currency transactions . 
+ 
+ Letters of Credit 
+ 
+ As of December 31, 2019 , we had $36.1 million of letters of credit and insurance bonds. Of this amount, $9.8 million was secured by restricted cash, $3.8 million was related to insurance bonds and $22.5 million was issued under credit arrangements available to our foreign subsidiaries. Certain letters of credit are secured by assets of our foreign subsidiaries. 
+ 
+ 
+ 
+ 57 
+ 
+ Table of Contents 
+ 
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS - Continued 
+ 
+ 
+ Satellites 
+ 
+ As our satellite fleet ages, we will be required to evaluate replacement alternatives such as acquiring, leasing or constructing additional satellites, with or without customer commitments for capacity. We may also construct, acquire or lease additional satellites in the future to provide satellite services at additional orbital locations or to improve the quality of our satellite services. 
+ 
+ Satellite Insurance 
+ 
+ We generally do not carry in-orbit insurance on our satellites because we have assessed that the cost of insurance is not economical relative to the risk of failures. Therefore, we generally bear the risk of any in-orbit failures. Pursuant to the terms of the agreements governing certain portions of our indebtedness and our joint venture agreements with Yahsat, we are required, subject to certain limitations on coverage, to maintain only for the SPACEWAY 3 satellite, the EchoStar XVII satellite and the Al Yah 3 Brazilian payload, insurance or other contractual arrangements during the commercial in-orbit service of such satellite. We were previously required to maintain similar insurance or other contractual arrangements for the EchoStar XVI satellite, which we transferred to DISH Network pursuant to the BSS Transaction. Our other satellites and payloads, either in orbit or under construction, are not covered by launch or in-orbit insurance or other contractual arrangements. We will continue to assess circumstances going forward and make insurance-related decisions on a case-by-case basis. 
+ 
+ Future Capital Requirements 
+ 
+ We primarily rely on our existing cash and marketable investment securities balances, as well as cash flow generated through our operations to fund our business. We no longer generate cash flows from our former BSS Business, which comprised a substantial portion of our ESS segment prior to the BSS Transaction. Revenue in our ESS segment depends largely on our ability to continuously make use of our available satellite capacity with existing customers and our ability to enter into commercial relationships with new customers. Consumer revenue in our Hughes segment depends on our success in adding new and retaining existing subscribers and driving higher average revenue per subscriber across our wholesale and retail channels. Revenue in our enterprise and equipment businesses relies heavily on global economic conditions and the competitive landscape for pricing relative to competitors and alternative technologies. Service costs related to ongoing support of our direct and indirect customers and partners are typically impacted most significantly by our growth. There can be no assurance that we will have positive cash flows from operations. Furthermore, if we experience negative cash flows, our existing cash and marketable investment securities balances may be reduced. 
+ 
+ We have a significant amount of outstanding indebtedness. As of December 31, 2019 , our total indebtedness was $2.4 billion , of which $1.1 million related to finance lease obligations. In June 2019, we repurchased the outstanding principal of the 2019 Senior Secured Notes at maturity. Our liquidity requirements will be continue to be significant, primarily due to our remaining debt service requirements and the design and construction of our new EchoStar XXIV satellite. We may from time to time seek to purchase amounts of our outstanding debt in open market purchases, privately negotiated transactions or otherwise, depending on market conditions, our liquidity needs and other factors. The amounts we may repurchase may be material. 
+ 
+ In addition, our future capital expenditures are likely to increase if we make acquisitions or additional investments in infrastructure or joint ventures to support and expand our business, or if we decide to purchase or build one or more additional satellites. Other aspects of our business operations may also require additional capital. We also expect to owe U.S. Federal income tax for 2020. 
+ 
+ We anticipate that our existing cash and marketable investment securities are sufficient to fund the currently anticipated operations of our business through the next twelve months. 
+ 
+ Stock Repurchases 
+ 
+ Our Board of Directors previously authorized stock repurchases of up to $500 million of our Class A common stock through and including December 31, 2019. On October 29, 2019, our Board of Directors terminated its prior authorization and authorized us to repurchase under this authorization up to $500.0 million of our Class A common 
+ 
+ 
+ 58 
+ 
+ Table of Contents 
+ 
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS - Continued 
+ 
+ 
+ stock through and including December 31, 2020. For the year ended December 31, 2018, we repurchased 952,603 shares of our common stock at an average price per share of $34.95 for a total purchase price of $33.3 million . For the years ended December 31, 2019 and 2017, we did not repurchase any common stock under this program. 
+ 
+ CRITICAL ACCOUNTING POLICIES AND ESTIMATES 
+ 
+ The preparation of our Accompanying Consolidated Financial Statements in conformity with U.S. GAAP requires us to make certain estimates, judgments and assumptions that affect the reported amounts of assets and liabilities at the date of the balance sheets, the reported amounts of revenue and expenses for each reporting period, and certain information disclosed in our Accompanying Consolidated Financial Statements. We base our estimates, judgments and assumptions on historical experience and on various other factors that we believe to be relevant under the circumstances. Actual results may differ from previously estimated amounts, and such differences may be material to our Accompanying Consolidated Financial Statements. We review our estimates and assumptions periodically, and the effects of revisions are reflected in the period they occur or prospectively if the revised estimate affects future periods. The following represent what we believe are the critical accounting policies that may involve a high degree of estimation, judgment and complexity. For a summary of our significant accounting policies, including those discussed below, see Note 2 in our Accompanying Consolidated Financial Statements. 
+ 
+ Contingent Liabilities 
+ 
+ We record an accrual for litigation and other loss contingencies when we determine that a loss is probable and the amount of the loss can be reasonably estimated. Legal fees and other costs of defending legal proceedings are charged to expense as incurred. A significant amount of management judgment is required in determining whether an accrual should be recorded for a loss contingency and the amount of such accrual. Estimates generally are developed in consultation with legal counsel and are based on an analysis of potential outcomes. Due to the inherent uncertainty in determining the likelihood of potential outcomes and the potential financial statement impact of such outcomes, it is possible that upon further development or resolution of a contingent matter, charges related to existing loss contingencies could be recorded in future periods, which could be material to our consolidated results of operations and financial position. 
+ 
+ Revenue Recognition 
+ 
+ Our Hughes segment enters into contracts to design, develop and deliver telecommunication networks to customers in our enterprise and mobile satellite systems markets. Those contracts require significant effort to develop and construct the network over an extended time period. Revenue from such contracts is recognized over time using an appropriate method to measure progress toward completion. Depending on the nature of the arrangement, we measure progress toward completion using the cost-to-cost input method or the units-of-delivery output method. Under the cost-to-cost method, revenue reflects the ratio of costs incurred to estimated total costs at completion. Under the units-of-delivery method, revenue and related costs are recognized as products are delivered based on the expected profit for the entire agreement. Profit margins on long-term contracts are based on estimates of total revenue and costs at completion. We review and revise our estimates periodically and recognize related adjustments in the period in which the revisions are made. Estimated losses on contracts are recorded in the period in which they are identified. Changes in our periodic estimates for these contracts could result in significant adjustments to our revenue or costs, which could be material to our consolidated results of operations. 
+ 
+ In addition, some of our contracts with customers include leased equipment. These contracts are reviewed to assess whether they meet the definition of a lease, including determination of the proper revenue classification. Lease revenue is recognized either over time for operating leases or when the leased asset is de-recognized for sales-type leases. 
+ 
+ Impairment of Assets 
+ 
+ Impairment of long-lived assets 
+ 
+ We evaluate our long-lived assets other than goodwill and intangible assets with indefinite lives for impairment whenever events and changes in circumstances indicate that their carrying amounts may not be recoverable. The carrying amount of a long-lived asset or asset group is considered to not be recoverable when the estimated future undiscounted 
+ 
+ 
+ 59 
+ 
+ Table of Contents 
+ 
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS - Continued 
+ 
+ 
+ cash flows from such asset or asset group is less than its carrying amount. In that event, an impairment loss is recorded in the determination of operating income based on the amount by which the carrying amount exceeds the estimated fair value of the long-lived asset or asset group. Fair value is determined primarily using discounted cash flow techniques reflecting the estimated cash flows and discount rate that would be assumed by a market participant for the asset or asset group under review. Our discounted cash flow estimates typically include assumptions based on unobservable inputs and may reflect probability-weighting of alternative scenarios. Estimated losses on long-lived assets to be disposed of by sale may be determined in a similar manner, except that fair value estimates are reduced for estimated selling costs. Changes in estimates of future cash flows, discount rates and other assumptions could result in recognition of additional impairment losses in future periods. 
+ 
+ We evaluate goodwill and intangible assets with indefinite lives for impairment on an annual basis or whenever events and changes in circumstances indicate the carrying amounts may not be recoverable. Our impairment assessment typically begins with a qualitative assessment to determine whether it is more likely than not the fair value of the indefinite lived asset or reporting unit is less than its carrying amount. The qualitative assessment requires us to make estimates and assumptions based on historical experience and in certain cases based on unobservable inputs and management estimates of future performance. If an event occurs that causes us to recognize an impairment charge, it would impact our reported earnings on the period that such charge occurs. 
+ 
+ Impairment of investments 
+ 
+ We periodically evaluate all of our investments to determine whether events or changes in circumstances have occurred that may have a significant adverse effect on the fair value of the investment and/or if there has been observable price changes in orderly transactions for identical or similar securities of the same issuer. We consider information if provided to us by our investees such as current financial statements, business plans, investment documentation, capitalization tables, liquidation waterfalls, and board materials, and we may make additional inquiries of investee management. 
+ 
+ Indicators of impairment may include, but are not limited to, unprofitable operations, material loss contingencies, changes in business strategy, changes in the investees’ enterprise value and changes in the investees’ investment pricing. When we determine that one of our other investments is impaired we reduce its carrying value to its estimated fair value and recognize the impairment loss. Additionally, when there has been an observable price change to a cost method investment, we adjust the carrying amount of the investment to its then estimated fair value and recognize the investment gain or loss. 
+ 
+ NEW ACCOUNTING PRONOUNCEMENTS 
+ 
+ For a discussion of new accounting pronouncements, see Note 2 in our Accompanying Consolidated Financial Statements. We are continuing to assess the impact of adopting certain recently issued accounting pronouncements on our Accompanying Consolidated Financial Statements and related disclosures. 
+ 
+ SEASONALITY 
+ 
+ For our Hughes segment, service revenue is generally not impacted by seasonal fluctuations other than those associated with fluctuations related to sales and promotional activities. However, like many communications infrastructure equipment vendors, a higher amount of our hardware revenue occurs in the second half of the year due to our customers’ annual procurement and budget cycles. Large enterprises and operators often allocate their capital expenditure budgets at the beginning of their fiscal year (which often coincides with the calendar year). The typical sales cycle for large complex system procurements is six to 12 months, which often results in the customer expenditure occurring towards the end of the year. Customers often seek to expend the budgeted funds prior to the end of the year and the next budget cycle. 
+ 
+ Our ESS segment is not generally affected by seasonal impacts. 
+ 
+ 
+ 
+ 60 
+ 
+ Table of Contents 
+ 
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS - Continued 
+ 
+ 
+ INFLATION 
+ 
+ Inflation has not materially affected our operations during the past three years. We believe that our ability to increase the prices charged for our products and services in future periods will depend primarily on competitive pressures or contractual terms. 
+ 
+ 
+ EXPLANATION OF KEY METRICS AND OTHER ITEMS 
+ 
+ Services and other revenue . Services and other revenue primarily includes the sales of consumer and enterprise broadband services, maintenance and other contracted services, revenue associated with satellite and transponder leases and services, satellite uplinking/downlinking, subscriber wholesale service fees for the HughesNet service professional services and facilities rental revenue. 
+ 
+ Equipment revenue . Equipment revenue primarily includes broadband equipment and networks sold to customers in our consumer and enterprise markets. 
+ 
+ Cost of sales - services and other . Cost of sales - services and other primarily includes the cost of broadband services provided to our consumer and enterprise customers, maintenance and other contracted services, costs associated with satellite and transponder leases and services, professional services and facilities rental. 
+ 
+ Cost of sales - equipment . Cost of sales - equipment consists primarily of the cost of broadband equipment and networks sold to customers in our consumer and enterprise markets. It also includes certain other costs associated with the deployment of equipment to our customers. 
+ 
+ Selling, general and administrative expenses . Selling, general and administrative expenses primarily includes selling and marketing costs and employee-related costs associated with administrative services (e.g., information systems, human resources and other services), including stock-based compensation expense. It also includes professional fees (e.g. legal, information systems and accounting services) and other expenses associated with facilities and administrative services. 
+ 
+ Research and development expenses . Research and development expenses primarily includes costs associated with the design and development of products to support future growth and provide new technology and innovation to our customers. 
+ 
+ Impairment of long-lived assets . Impairment of long-lived assets includes our impairment losses related to our property and equipment, goodwill, regulatory authorizations and other intangible assets. 
+ 
+ Interest income . Interest income primarily includes interest earned on our cash, cash equivalents and marketable investment securities, and other investments including premium amortization and discount accretion on debt securities. 
+ 
+ Interest expense, net of amounts capitalized . Interest expense, net of amounts capitalized primarily includes interest expense associated with our debt and finance lease obligations (net of capitalized interest), amortization of debt issuance costs and interest expense related to certain legal proceedings. 
+ 
+ Gains (losses) on investments, net . Gains (losses) on investments, net primarily includes changes in fair value of our marketable equity securities and other investments for which we have elected the fair value option. It may also include realized gains and losses on the sale or exchange of our available-for-sale debt securities, other-than-temporary impairment losses on our available-for-sale securities, realized gains and losses on the sale or exchange of equity securities and debt securities without readily determinable fair value and adjustments to the carrying amount of investments in unconsolidated affiliates and marketable equity securities resulting from impairments and observable price changes. 
+ 
+ Equity in earnings (losses) of unconsolidated affiliates, net . Equity in earnings (losses) of unconsolidated affiliates, net includes earnings or losses from our investments accounted for using the equity method. 
+ 
+ 
+ 
+ 61 
+ 
+ Table of Contents 
+ 
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS - Continued 
+ 
+ 
+ Foreign currency transaction gains (losses), net . Foreign currency transaction gains (losses), net include gains and losses resulting from the re-measurement of transactions denominated in foreign currencies. 
+ 
+ Other, net . Other, net primarily includes dividends received from our marketable investment securities and other non-operating income and expense items that are not appropriately classified elsewhere in the Consolidated Statements of Operations in our Accompanying Consolidated Financial Statements. 
+ 
+ Net income (loss) from discontinued operations . Net income (loss) from discontinued operations includes the financial results of the BSS Business transferred in the BSS Transaction, except for certain real estate that transferred in the transaction, and the EchoStar Technologies businesses and certain other assets transferred to DISH Network pursuant to the Share Exchange . 
+ 
+ Earnings before interest, taxes, depreciation and amortization (“EBITDA”) . EBITDA is defined as Net income (loss) excluding Interest income and expense, net, Income tax benefit (provision), net, Depreciation and amortization, Net income (loss) from discontinued operations and Net income (loss) attributable to non-controlling interests. EBITDA is not a measure determined in accordance with U.S. GAAP. This non-GAAP measure is reconciled to Net income (loss) in our discussion of Results of Operations above. EBITDA should not be considered in isolation or as a substitute for operating income, net income or any other measure determined in accordance with U.S. GAAP. EBITDA is used by our management as a measure of operating efficiency and overall financial performance for benchmarking against our peers and competitors. Management believes EBITDA provides meaningful supplemental information regarding the underlying operating performance of our business and is appropriate to enhance an overall understanding of our financial performance. Management also believes that EBITDA is useful to investors because it is frequently used by securities analysts, investors and other interested parties to evaluate the performance of companies in our industry. 
+ 
+ Subscribers. Subscribers include customers that subscribe to our HughesNet service, through retail, wholesale and small/medium enterprise service channels. 
+ 
+ 

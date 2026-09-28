@@ -1,0 +1,2907 @@
+ ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+ 
+ Overview 
+ We are a global commercial-stage biopharmaceutical company that discovers, develops, manufactures and commercializes novel therapeutics based on RNAi. Our commercial products and broad pipeline of investigational RNAi therapeutics are targeting a broad range of disease areas and indications. 
+ As described in Part I, ITEM 1. “Business” of this Annual Report on Form 10-K, we currently have six products that have received marketing approval, including two products marketed by our collaborators, and multiple late-stage investigational programs advancing towards potential commercialization. 
+ We achieved profitability for the first time in 2025, with full-year net product revenues of approximately $3.0 billion, driven primarily by strong growth in our TTR franchise. Nevertheless, we have incurred significant losses since inception and, as of December 31, 2025, we had an accumulated deficit of $6.70 billion. Historically, we generated losses primarily from costs associated with research and development activities; acquiring, filing and protecting our intellectual property rights; and selling, general and administrative activities. With the achievement of profitability in 2025, going forward we expect to be able to fund our operations primarily from product revenues, which we expect will be supplemented by collaboration revenue and royalty revenue from products commercialized by our collaborators. 
+ We expect to continue investing significantly in research and development to advance our RNAi platform and clinical pipeline. These planned expenditures include costs associated with our activities as we (i) progress our late-stage programs, including the Phase 3 TRITON-PN and TRITON-CM clinical trials of nucresiran (our next generation TTR silencer) in patients with hATTR-PN and ATTR-CM, respectively, and the Phase 3 ZENITH cardiovascular outcomes trial of zilebesiran in patients with uncontrolled hypertension, all three of which we initiated in 2025; (ii) progress our early stage clinical pipeline, including CNS and metabolic programs; (iii) continue our efforts to deliver RNAi therapeutics to additional tissues and to treat new disease areas; and (iv) selectively pursue complementary modalities through business development. 
+ Through these investments, we plan to expand our efforts to discover, develop and commercialize the next wave of RNAi therapeutics and aim to achieve the goals associated with our Alnylam 2030 strategy. These goals include expanding to 10 tissue types and more than 40 clinical programs, delivering at least two new transformative medicines beyond TTR with blockbuster potential, investing approximately 30% of our revenues in non-GAAP R&D (including select external innovation), achieving 25%+ total revenue compound annual growth rate, and delivering approximately 30% non-GAAP operating margin through year-end 2030. 
+ As of December 31, 2025, we generate worldwide product revenues from our four commercialized products, AMVUTTRA, ONPATTRO, GIVLAARI and OXLUMO, primarily in the U.S. and Europe. Collaboration revenues, in particular from our collaborations with Roche, Regeneron and Novartis, have also represented a meaningful portion of our total revenues in recent years. We expect our sources of potential funding for the next several years to be derived primarily from sales of our commercialized products, with contributions from our existing collaborations, including royalties on sales of Leqvio by Novartis and on sales of Qfitlia by Sanofi, and any new strategic collaborations that we may enter in the future. However, we and our collaborators may not be able to successfully market and sell our existing commercialized products or any approved products in the future. Moreover, our ongoing development and regulatory efforts may not be successful, and we and our collaborators may not be able to commence sales of any other products in the future. We anticipate that our operating results will continue to fluctuate for the foreseeable future and, therefore, period-to-period comparisons should not be relied upon as predictive of the results in future periods. 
+ 
+ 
+ 81 
+ 
+ Table of Contents 
+ Given the significant and growing contribution of AMVUTTRA to our total product revenues following regulatory approvals of AMVUTTRA for the treatment of ATTR-CM, our cost of goods sold, operating income and operating margin in 2025 were significantly impacted by the royalties we pay to Sanofi on global sales of AMVUTTRA under our TTR license agreements, and we expect this will continue in future years. Sanofi is eligible to receive tiered royalties on global annual net sales of AMVUTTRA across all indications in the following tiers: 15% of global annual net sales of $0 to $150.0 million; 17.5% of global annual net sales greater than $150.0 million to $300.0 million; 20% of global annual net sales greater than $300.0 million to $500.0 million; 25% of global annual net sales greater than $500.0 million to $1.50 billion; and 30% of global annual net sales in excess of $1.50 billion. There are no royalties owed on nucresiran, our next-generation investigational RNAi therapeutic, which is currently in development for the treatment of ATTR amyloidosis. Assuming successful development and regulatory approval, we believe that with its anticipated product profile, nucresiran has the potential to become a leading therapy for ATTR amyloidosis and to significantly improve our gross margins on product sales and our non-GAAP operating income margin. 
+ 
+ Results of Operations 
+ The following table summarizes the results of our operations: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended December 31, 
+ 
+ 2025 vs 2024 
+ 
+ 2024 vs 2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (In thousands, except percentages) 
+ 
+ 2025 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ $ Change 
+ 
+ % Change 
+ 
+ $ Change 
+ 
+ % Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total revenues 
+ 
+ $ 
+ 3,713,937 
+ 
+ 
+ $ 
+ 2,248,243 
+ 
+ 
+ $ 
+ 1,828,292 
+ 
+ 
+ $ 
+ 1,465,694 
+ 
+ 
+ 65 
+ % 
+ 
+ $ 
+ 419,951 
+ 
+ 
+ 23 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total operating costs and expenses 
+ 
+ $ 
+ 3,212,359 
+ 
+ 
+ $ 
+ 2,425,128 
+ 
+ 
+ $ 
+ 2,110,467 
+ 
+ 
+ $ 
+ 787,231 
+ 
+ 
+ 32 
+ % 
+ 
+ $ 
+ 314,661 
+ 
+ 
+ 15 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Income (loss) from operations 
+ 
+ $ 
+ 501,578 
+ 
+ 
+ $ 
+ (176,885) 
+ 
+ 
+ $ 
+ (282,175) 
+ 
+ 
+ $ 
+ 678,463 
+ 
+ 
+ * 
+ 
+ $ 
+ 105,290 
+ 
+ 
+ (37) 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total other expense, net 
+ 
+ $ 
+ (178,426) 
+ 
+ 
+ $ 
+ (200,490) 
+ 
+ 
+ $ 
+ (151,342) 
+ 
+ 
+ $ 
+ 22,064 
+ 
+ 
+ (11) 
+ % 
+ 
+ $ 
+ (49,148) 
+ 
+ 
+ 32 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (Provision for) benefit from income taxes 
+ 
+ $ 
+ (9,405) 
+ 
+ 
+ $ 
+ 99,218 
+ 
+ 
+ $ 
+ (6,725) 
+ 
+ 
+ $ 
+ (108,623) 
+ 
+ 
+ * 
+ 
+ $ 
+ 105,943 
+ 
+ 
+ * 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net income (loss) 
+ 
+ $ 
+ 313,747 
+ 
+ 
+ $ 
+ (278,157) 
+ 
+ 
+ $ 
+ (440,242) 
+ 
+ 
+ $ 
+ 591,904 
+ 
+ 
+ * 
+ 
+ $ 
+ 162,085 
+ 
+ 
+ (37) 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ * Not meaningful 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For a discussion of our 2024 results and a comparison with 2023 results please refer to “Management’s Discussion and Analysis of Financial Conditions and Results of Operations” in our Annual Report on Form 10-K for the fiscal year ended December 31, 2024, which was filed with the SEC on February 13, 2025. 
+ Discussion of Results of Operations 
+ Revenues 
+ Total revenues consisted of the following: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended December 31, 
+ 
+ 
+ 2025 vs 2024 
+ 
+ 
+ 2024 vs 2023 
+ 
+ (In thousands, except percentages) 
+ 
+ 2025 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ $ Change 
+ 
+ % Change 
+ 
+ $ Change 
+ 
+ % Change 
+ 
+ Net product revenues 
+ 
+ $ 
+ 2,986,549 
+ 
+ 
+ $ 
+ 1,646,228 
+ 
+ 
+ $ 
+ 1,241,474 
+ 
+ 
+ $ 
+ 1,340,321 
+ 
+ 
+ 81 
+ % 
+ 
+ $ 
+ 404,754 
+ 
+ 
+ 33 
+ % 
+ 
+ Net revenues from collaborations 
+ 
+ 553,366 
+ 
+ 
+ 510,221 
+ 
+ 
+ 546,185 
+ 
+ 
+ 43,145 
+ 
+ 
+ 8 
+ % 
+ 
+ (35,964) 
+ 
+ 
+ (7) 
+ % 
+ 
+ Royalty revenue 
+ 
+ 174,022 
+ 
+ 
+ 91,794 
+ 
+ 
+ 40,633 
+ 
+ 
+ 82,228 
+ 
+ 
+ 90 
+ % 
+ 
+ 51,161 
+ 
+ 
+ 126 
+ % 
+ 
+ 
+ Total revenues 
+ 
+ $ 
+ 3,713,937 
+ 
+ 
+ $ 
+ 2,248,243 
+ 
+ 
+ $ 
+ 1,828,292 
+ 
+ 
+ $ 
+ 1,465,694 
+ 
+ 
+ 65 
+ % 
+ 
+ $ 
+ 419,951 
+ 
+ 
+ 23 
+ % 
+ 
+ 
+ 
+ 
+ 82 
+ 
+ Table of Contents 
+ Net Product Revenues 
+ Net product revenues, classified based on the geographic region in which the product is sold and by franchise (“TTR,” which includes AMVUTTRA and ONPATTRO, and “Rare,” which includes GIVLAARI and OXLUMO) consisted of the following: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended December 31, 
+ 
+ 2025 vs 2024 
+ 
+ 2024 vs 2023 
+ 
+ (In thousands, except percentages) 
+ 
+ 2025 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ $ Change 
+ 
+ % Change 
+ 
+ $ Change 
+ 
+ % Change 
+ 
+ AMVUTTRA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ United States 
+ 
+ $ 
+ 1,731,222 
+ 
+ 
+ $ 
+ 630,613 
+ 
+ 
+ $ 
+ 411,169 
+ 
+ 
+ $ 
+ 1,100,609 
+ 
+ 
+ 175 
+ % 
+ 
+ $ 
+ 219,444 
+ 
+ 
+ 53 
+ % 
+ 
+ Europe 
+ 
+ 405,899 
+ 
+ 
+ 235,441 
+ 
+ 
+ 70,898 
+ 
+ 
+ 170,458 
+ 
+ 
+ 72 
+ % 
+ 
+ 164,543 
+ 
+ 
+ 232 
+ % 
+ 
+ Rest of World 
+ 
+ 176,715 
+ 
+ 
+ 104,396 
+ 
+ 
+ 75,771 
+ 
+ 
+ 72,319 
+ 
+ 
+ 69 
+ % 
+ 
+ 28,625 
+ 
+ 
+ 38 
+ % 
+ 
+ Total 
+ 
+ 2,313,836 
+ 
+ 
+ 970,450 
+ 
+ 
+ 557,838 
+ 
+ 
+ 1,343,386 
+ 
+ 
+ 138 
+ % 
+ 
+ 412,612 
+ 
+ 
+ 74 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ONPATTRO 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ United States 
+ 
+ 62,126 
+ 
+ 
+ 74,787 
+ 
+ 
+ 97,739 
+ 
+ 
+ (12,661) 
+ 
+ 
+ (17) 
+ % 
+ 
+ (22,952) 
+ 
+ 
+ (23) 
+ % 
+ 
+ Europe 
+ 
+ 79,429 
+ 
+ 
+ 134,197 
+ 
+ 
+ 210,916 
+ 
+ 
+ (54,768) 
+ 
+ 
+ (41) 
+ % 
+ 
+ (76,719) 
+ 
+ 
+ (36) 
+ % 
+ 
+ Rest of World 
+ 
+ 31,234 
+ 
+ 
+ 43,873 
+ 
+ 
+ 45,891 
+ 
+ 
+ (12,639) 
+ 
+ 
+ (29) 
+ % 
+ 
+ (2,018) 
+ 
+ 
+ (4) 
+ % 
+ 
+ Total 
+ 
+ 172,789 
+ 
+ 
+ 252,857 
+ 
+ 
+ 354,546 
+ 
+ 
+ (80,068) 
+ 
+ 
+ (32) 
+ % 
+ 
+ (101,689) 
+ 
+ 
+ (29) 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total TTR 
+ 
+ 2,486,625 
+ 
+ 
+ 1,223,307 
+ 
+ 
+ 912,384 
+ 
+ 
+ 1,263,318 
+ 
+ 
+ 103 
+ % 
+ 
+ 310,923 
+ 
+ 
+ 34 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ GIVLAARI 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ United States 
+ 
+ 205,715 
+ 
+ 
+ 165,373 
+ 
+ 
+ 141,954 
+ 
+ 
+ 40,342 
+ 
+ 
+ 24 
+ % 
+ 
+ 23,419 
+ 
+ 
+ 16 
+ % 
+ 
+ Europe 
+ 
+ 77,715 
+ 
+ 
+ 65,906 
+ 
+ 
+ 57,498 
+ 
+ 
+ 11,809 
+ 
+ 
+ 18 
+ % 
+ 
+ 8,408 
+ 
+ 
+ 15 
+ % 
+ 
+ Rest of World 
+ 
+ 25,057 
+ 
+ 
+ 24,592 
+ 
+ 
+ 19,799 
+ 
+ 
+ 465 
+ 
+ 
+ 2 
+ % 
+ 
+ 4,793 
+ 
+ 
+ 24 
+ % 
+ 
+ Total 
+ 
+ 308,487 
+ 
+ 
+ 255,871 
+ 
+ 
+ 219,251 
+ 
+ 
+ 52,616 
+ 
+ 
+ 21 
+ % 
+ 
+ 36,620 
+ 
+ 
+ 17 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OXLUMO 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ United States 
+ 
+ 68,467 
+ 
+ 
+ 62,766 
+ 
+ 
+ 38,159 
+ 
+ 
+ 5,701 
+ 
+ 
+ 9 
+ % 
+ 
+ 24,607 
+ 
+ 
+ 64 
+ % 
+ 
+ Europe 
+ 
+ 88,049 
+ 
+ 
+ 80,753 
+ 
+ 
+ 60,025 
+ 
+ 
+ 7,296 
+ 
+ 
+ 9 
+ % 
+ 
+ 20,728 
+ 
+ 
+ 35 
+ % 
+ 
+ Rest of World 
+ 
+ 34,921 
+ 
+ 
+ 23,531 
+ 
+ 
+ 11,655 
+ 
+ 
+ 11,390 
+ 
+ 
+ 48 
+ % 
+ 
+ 11,876 
+ 
+ 
+ 102 
+ % 
+ 
+ Total 
+ 
+ 191,437 
+ 
+ 
+ 167,050 
+ 
+ 
+ 109,839 
+ 
+ 
+ 24,387 
+ 
+ 
+ 15 
+ % 
+ 
+ 57,211 
+ 
+ 
+ 52 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total Rare 
+ 
+ 499,924 
+ 
+ 
+ 422,921 
+ 
+ 
+ 329,090 
+ 
+ 
+ 77,003 
+ 
+ 
+ 18 
+ % 
+ 
+ 93,831 
+ 
+ 
+ 29 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Total net product revenues 
+ 
+ $ 
+ 2,986,549 
+ 
+ 
+ $ 
+ 1,646,228 
+ 
+ 
+ $ 
+ 1,241,474 
+ 
+ 
+ $ 
+ 1,340,321 
+ 
+ 
+ 81 
+ % 
+ 
+ $ 
+ 404,754 
+ 
+ 
+ 33 
+ % 
+ 
+ 
+ Net product revenues increased during the year ended December 31, 2025, compared to the year ended December 31, 2024, primarily due to growth from AMVUTTRA revenues driven by increased patient demand, mainly in patients with ATTR-CM in the U.S., which was partially offset by a decreased number of patients on ONPATTRO, and due to growth from an increased number of patients on GIVLAARI and OXLUMO. 
+ Please see Note 3, Net Product Revenues, to our consolidated financial statements included in Part II, ITEM 8, “Financial Statements and Supplementary Data” of this Annual Report on Form 10-K for balances and activity in each product revenue allowance and reserve category for the years ended December 31, 2025 and 2024. 
+ 
+ 
+ 83 
+ 
+ Table of Contents 
+ Net Revenues from Collaborations and Royalty Revenue 
+ Net revenues from collaborations and royalty revenue consisted of the following: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended December 31, 
+ 
+ 2025 vs 2024 
+ 
+ 2024 vs 2023 
+ 
+ (In thousands, except percentages) 
+ 
+ 2025 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ $ Change 
+ 
+ % Change 
+ 
+ $ Change 
+ 
+ % Change 
+ 
+ 
+ Roche 
+ 
+ $ 
+ 394,881 
+ 
+ 
+ $ 
+ 119,489 
+ 
+ 
+ $ 
+ 337,802 
+ 
+ 
+ $ 
+ 275,392 
+ 
+ 
+ 230 
+ % 
+ 
+ $ 
+ (218,313) 
+ 
+ 
+ (65) 
+ % 
+ 
+ Regeneron Pharmaceuticals 
+ 
+ 113,957 
+ 
+ 
+ 302,798 
+ 
+ 
+ 100,468 
+ 
+ 
+ (188,841) 
+ 
+ 
+ (62) 
+ % 
+ 
+ 202,330 
+ 
+ 
+ 201 
+ % 
+ 
+ Novartis AG 
+ 
+ — 
+ 
+ 
+ 79,759 
+ 
+ 
+ 86,727 
+ 
+ 
+ (79,759) 
+ 
+ 
+ (100) 
+ % 
+ 
+ (6,968) 
+ 
+ 
+ (8) 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other 
+ 
+ 44,528 
+ 
+ 
+ 8,175 
+ 
+ 
+ 21,188 
+ 
+ 
+ 36,353 
+ 
+ 
+ 445 
+ % 
+ 
+ (13,013) 
+ 
+ 
+ (61) 
+ % 
+ 
+ 
+ Total net revenues from collaborations 
+ 
+ $ 
+ 553,366 
+ 
+ 
+ $ 
+ 510,221 
+ 
+ 
+ $ 
+ 546,185 
+ 
+ 
+ $ 
+ 43,145 
+ 
+ 
+ 8 
+ % 
+ 
+ $ 
+ (35,964) 
+ 
+ 
+ (7) 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Royalty revenue 
+ 
+ $ 
+ 174,022 
+ 
+ 
+ $ 
+ 91,794 
+ 
+ 
+ $ 
+ 40,633 
+ 
+ 
+ $ 
+ 82,228 
+ 
+ 
+ 90 
+ % 
+ 
+ $ 
+ 51,161 
+ 
+ 
+ 126 
+ % 
+ Net revenues from collaborations increased during the year ended December 31, 2025, as compared to the year ended December 31, 2024, primarily driven by: 
+ • recognition of $300.0 million of milestone revenue under our collaboration with Roche in September 2025 associated with the dosing of the first patient in the ZENITH Phase 3 clinical trial of zilebesiran; and 
+ • recognition of a $30.0 million payment in connection with the amendment to our agreement with Vir Biotechnology in March 2025. 
+ Partially offset by: 
+ • recognition of $185.0 million of revenue under our collaboration with Regeneron during the year ended December 31, 2024, as we modified the collaboration agreement in June 2024 and provided Regeneron with an exclusive license to develop, manufacture and commercialize cemdisiran as a monotherapy; 
+ • recognition of $65.0 million of milestone revenue under our collaboration with Roche during the year ended December 31, 2024 associated with the dosing of the first patient in the KARDIA-3 Phase 2 clinical trial of zilebesiran; and 
+ • revenue recognized under our license agreement with Novartis associated with the achievement of a specified Leqvio commercialization milestone during the year ended December 31, 2024. 
+ Royalty revenue increased during the year ended December 31, 2025, as compared to the year ended December 31, 2024, due to increased volume and rate of royalties earned from global net sales of Leqvio by Novartis. 
+ Recognition of our combined net revenues from collaborations and royalty revenue is dependent on a variety of factors, including the level of work reimbursed by collaborators, achievement of milestones under our collaboration agreements, and royalties associated with sales of Leqvio. We expect net revenues from collaborations will decrease in 2026, as compared to 2025, due to the $300.0 million of milestone revenue that we recognized under our Roche Collaboration and License Agreement in the year ended December 31, 2025. We expect our royalty revenue will increase in 2026, as compared to 2025, primarily due to the continued growth of royalties earned from global net sales of Leqvio by Novartis. 
+ The amount of revenue from collaborations that we recognize is based, in part, on estimates of total costs to be incurred. These estimates reflect our historical experiences, current contractual requirements, and forecasted plans of development or manufacturing activities. We adjust these estimates for changes in actual costs incurred, contractual terms, and further forecasts. Such changes in estimates could have a significant impact on revenue and earnings in the period of the adjustment. 
+ 
+ 
+ 84 
+ 
+ Table of Contents 
+ Operating Costs and Expenses 
+ Operating costs and expenses consisted of the following: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended December 31, 
+ 
+ 2025 vs 2024 
+ 
+ 2024 vs 2023 
+ 
+ (In thousands, except percentages) 
+ 2025 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ $ Change 
+ 
+ % Change 
+ 
+ $ Change 
+ 
+ % Change 
+ 
+ Cost of goods sold 
+ $ 
+ 677,166 
+ 
+ 
+ $ 
+ 306,513 
+ 
+ 
+ $ 
+ 268,216 
+ 
+ 
+ $ 
+ 370,653 
+ 
+ 
+ 121 
+ % 
+ 
+ $ 
+ 38,297 
+ 
+ 
+ 14 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of goods sold as a percentage of net product revenues 
+ 22.7 
+ % 
+ 
+ 18.6 
+ % 
+ 
+ 21.6 
+ % 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cost of collaborations and royalties 
+ 4,705 
+ 
+ 
+ 16,857 
+ 
+ 
+ 42,190 
+ 
+ 
+ (12,152) 
+ 
+ 
+ (72) 
+ % 
+ 
+ (25,333) 
+ 
+ 
+ (60) 
+ % 
+ 
+ Research and development 
+ 1,319,775 
+ 
+ 
+ 1,126,232 
+ 
+ 
+ 1,004,415 
+ 
+ 
+ 193,543 
+ 
+ 
+ 17 
+ % 
+ 
+ 121,817 
+ 
+ 
+ 12 
+ % 
+ 
+ 
+ Selling, general and administrative 
+ 1,210,713 
+ 
+ 
+ 975,526 
+ 
+ 
+ 795,646 
+ 
+ 
+ 235,187 
+ 
+ 
+ 24 
+ % 
+ 
+ 179,880 
+ 
+ 
+ 23 
+ % 
+ 
+ Total 
+ $ 
+ 3,212,359 
+ 
+ 
+ $ 
+ 2,425,128 
+ 
+ 
+ $ 
+ 2,110,467 
+ 
+ 
+ $ 
+ 787,231 
+ 
+ 
+ 32 
+ % 
+ 
+ $ 
+ 314,661 
+ 
+ 
+ 15 
+ % 
+ Cost of Goods Sold 
+ Cost of goods sold as a percentage of net product revenues increased to 22.7% for the year ended December 31, 2025, as compared to 18.6% for the year ended December 31, 2024, primarily as a result of increased sales of AMVUTTRA and an associated increase in the blended royalty rate payable on net sales of AMVUTTRA. 
+ We expect our cost of goods sold, including cost of goods sold as a percentage of net product revenues, will increase during 2026, as compared to 2025, primarily as a result of an expected increase in sales of AMVUTTRA and an associated increase in the royalty rate payable on net sales of AMVUTTRA. 
+ Cost of Collaborations and Royalties 
+ Cost of collaborations and royalties decreased during the year ended December 31, 2025, as compared to the year ended December 31, 2024, primarily due to decreased demand for GalNAc material supplied to our collaborators in support of certain product manufacturing as our collaborators transition to producing the material independently. 
+ We expect our cost of collaborations and royalties will decrease during 2026, as compared to 2025, primarily as a result of our collaborators having transitioned to producing GalNAc material independently. 
+ Research and Development 
+ Research and development expenses consisted of the following: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended December 31, 
+ 
+ 2025 vs 2024 
+ 
+ 2024 vs 2023 
+ 
+ (In thousands, except percentages) 
+ 
+ 2025 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ $ Change 
+ 
+ % Change 
+ 
+ $ Change 
+ 
+ % Change 
+ 
+ Clinical research and outside services 
+ 
+ $ 
+ 640,672 
+ 
+ 
+ $ 
+ 509,129 
+ 
+ 
+ $ 
+ 485,732 
+ 
+ 
+ $ 
+ 131,543 
+ 
+ 
+ 26 
+ % 
+ 
+ $ 
+ 23,397 
+ 
+ 
+ 5 
+ % 
+ 
+ Compensation and related 
+ 
+ 362,813 
+ 
+ 
+ 327,929 
+ 
+ 
+ 260,423 
+ 
+ 
+ 34,884 
+ 
+ 
+ 11 
+ % 
+ 
+ 67,506 
+ 
+ 
+ 26 
+ % 
+ 
+ 
+ Occupancy and all other costs (1) 
+ 
+ 162,895 
+ 
+ 
+ 161,425 
+ 
+ 
+ 160,987 
+ 
+ 
+ 1,470 
+ 
+ 
+ 1 
+ % 
+ 
+ 438 
+ 
+ 
+ — 
+ % 
+ 
+ Stock-based compensation 
+ 
+ 153,395 
+ 
+ 
+ 127,749 
+ 
+ 
+ 97,273 
+ 
+ 
+ 25,646 
+ 
+ 
+ 20 
+ % 
+ 
+ 30,476 
+ 
+ 
+ 31 
+ % 
+ 
+ 
+ Total research and development 
+ 
+ $ 
+ 1,319,775 
+ 
+ 
+ $ 
+ 1,126,232 
+ 
+ 
+ $ 
+ 1,004,415 
+ 
+ 
+ $ 
+ 193,543 
+ 
+ 
+ 17 
+ % 
+ 
+ $ 
+ 121,817 
+ 
+ 
+ 12 
+ % 
+ (1) Occupancy and all other costs includes facilities, information technology, depreciation and certain departmental expenses. 
+ Research and development expenses increased during the year ended December 31, 2025, as compared to the year ended December 31, 2024, primarily due to the following: 
+ • increased clinical trial expenses for the ZENITH Phase 3 clinical trial of zilebesiran, the TRITON-CM Phase 3 clinical trial of nucresiran in patients with ATTR-CM and the TRITON-PN Phase 3 clinical trial of nucresiran in patients with hATTR-PN; 
+ • increased employee compensation and related expenses to support our research and development pipeline and development expenses; and 
+ • increased stock-based compensation expense. 
+ Partially offset by: 
+ 
+ 
+ 85 
+ 
+ Table of Contents 
+ • decreased expenses within other clinical programs, in particular for the KARDIA-1 and KARDIA-2 Phase 2 clinical trials of zilebesiran and the HELIOS-B Phase 3 clinical trial of vutrisiran in patients with ATTR-CM due to the wind-down of clinical activities. 
+ Selling, General and Administrative 
+ Selling, general and administrative expenses consisted of the following: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended December 31, 
+ 
+ 2025 vs 2024 
+ 
+ 2024 vs 2023 
+ 
+ (In thousands, except percentages) 
+ 
+ 2025 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ $ Change 
+ 
+ % Change 
+ 
+ $ Change 
+ 
+ % Change 
+ 
+ 
+ Compensation and related 
+ 
+ $ 
+ 473,462 
+ 
+ 
+ $ 
+ 386,743 
+ 
+ 
+ $ 
+ 298,888 
+ 
+ 
+ $ 
+ 86,719 
+ 
+ 
+ 22 
+ % 
+ 
+ $ 
+ 87,855 
+ 
+ 
+ 29 
+ % 
+ 
+ 
+ Consulting and professional services 
+ 348,976 
+ 
+ 
+ 274,539 
+ 
+ 
+ 226,664 
+ 
+ 
+ 74,437 
+ 
+ 
+ 27 
+ % 
+ 
+ 47,875 
+ 
+ 
+ 21 
+ % 
+ 
+ 
+ Occupancy and all other costs (1) 
+ 
+ 193,435 
+ 
+ 
+ 169,909 
+ 
+ 
+ 145,687 
+ 
+ 
+ 23,526 
+ 
+ 
+ 14 
+ % 
+ 
+ 24,222 
+ 
+ 
+ 17 
+ % 
+ 
+ 
+ Stock-based compensation 
+ 
+ 194,840 
+ 
+ 
+ 144,335 
+ 
+ 
+ 124,407 
+ 
+ 
+ 50,505 
+ 
+ 
+ 35 
+ % 
+ 
+ 19,928 
+ 
+ 
+ 16 
+ % 
+ 
+ 
+ Total selling, general and administrative 
+ 
+ $ 
+ 1,210,713 
+ 
+ 
+ $ 
+ 975,526 
+ 
+ 
+ $ 
+ 795,646 
+ 
+ 
+ $ 
+ 235,187 
+ 
+ 
+ 24 
+ % 
+ 
+ $ 
+ 179,880 
+ 
+ 
+ 23 
+ % 
+ (1) Occupancy and all other costs includes facilities, information technology, depreciation and certain departmental expenses. 
+ Selling, general and administrative expenses increased during the year ended December 31, 2025, as compared to the year ended December 31, 2024, primarily due to higher employee compensation costs, including stock-based compensation, mainly driven by higher headcount, and increased marketing investment associated with the commercial launch of AMVUTTRA in ATTR-CM. 
+ We expect that research and development expenses combined with selling, general and administrative expenses will increase during 2026, as compared to 2025, as we continue to launch our current commercial products into new markets, prepare for future commercial product launches, including the continued launch of AMVUTTRA for the treatment of ATTR-CM, advance our product candidates, including collaborated programs, into later-stage development, advance and develop our platform and preclinical pipeline, and prepare regulatory submissions. However, we expect that certain expenses will be variable depending on the timing of manufacturing batches, clinical trial enrollment and results, regulatory review of our product candidates and programs, and stock-based compensation expenses based on our determinations regarding the probability of vesting for performance-based awards. 
+ Other (Expense) Income 
+ Other (expense) income consisted of the following: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended December 31, 
+ 
+ 2025 vs 2024 
+ 
+ 2024 vs 2023 
+ 
+ (In thousands, except percentages) 
+ 2025 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ $ Change 
+ 
+ % Change 
+ 
+ $ Change 
+ 
+ % Change 
+ 
+ Interest expense 
+ $ 
+ (252,627) 
+ 
+ 
+ $ 
+ (141,858) 
+ 
+ 
+ $ 
+ (121,221) 
+ 
+ 
+ $ 
+ (110,769) 
+ 
+ 
+ 78 
+ % 
+ 
+ $ 
+ (20,637) 
+ 
+ 
+ 17 
+ % 
+ 
+ Interest income 
+ 111,470 
+ 
+ 
+ 121,992 
+ 
+ 
+ 95,561 
+ 
+ 
+ (10,522) 
+ 
+ 
+ (9) 
+ % 
+ 
+ 26,431 
+ 
+ 
+ 28 
+ % 
+ 
+ 
+ Loss related to convertible debt 
+ (42,473) 
+ 
+ 
+ — 
+ 
+ 
+ — 
+ 
+ 
+ (42,473) 
+ 
+ 
+ N/A 
+ 
+ — 
+ 
+ 
+ N/A 
+ 
+ Other income (expense), net 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Realized and unrealized losses on marketable equity securities 
+ (2,306) 
+ 
+ 
+ (3,022) 
+ 
+ 
+ (16,944) 
+ 
+ 
+ 716 
+ 
+ 
+ (24) 
+ % 
+ 
+ 13,922 
+ 
+ 
+ (82) 
+ % 
+ 
+ Change in fair value of development derivative liability 
+ — 
+ 
+ 
+ (170,770) 
+ 
+ 
+ (90,997) 
+ 
+ 
+ 170,770 
+ 
+ 
+ (100) 
+ % 
+ 
+ (79,773) 
+ 
+ 
+ 88 
+ % 
+ 
+ Other 
+ 7,510 
+ 
+ 
+ (6,832) 
+ 
+ 
+ (17,741) 
+ 
+ 
+ 14,342 
+ 
+ 
+ * 
+ 
+ 10,909 
+ 
+ 
+ (61) 
+ % 
+ 
+ 
+ Total other expense, net 
+ $ 
+ (178,426) 
+ 
+ 
+ $ 
+ (200,490) 
+ 
+ 
+ $ 
+ (151,342) 
+ 
+ 
+ $ 
+ 22,064 
+ 
+ 
+ (11) 
+ % 
+ 
+ $ 
+ (49,148) 
+ 
+ 
+ 32 
+ % 
+ 
+ 
+ * Not meaningful 
+ Total other expense, net decreased during the year ended December 31, 2025, as compared to the year ended December 31, 2024, primarily due to: 
+ • decreased loss associated with the change in fair value of the development derivative liability as a result of the adoption of Accounting Standards Update 2025-07, or ASU 2025-07, as discussed in Note 2, Summary of Significant Accounting Policies and Note 9, Liabilities Related To The Sale Of Future Royalties And Development Funding, to our consolidated financial statements included in Part II, ITEM 8, “Financial Statements and Supplementary Data” of this Annual Report on Form 10-K. 
+ 
+ 
+ 86 
+ 
+ Table of Contents 
+ Partially offset by: 
+ • increased interest expense associated with the vutrisiran and zilebesiran development funding liabilities as a result of the adoption of ASU 2025-07; and 
+ • loss related to convertible debt representing an inducement expense in connection with the partial repurchases of our 1.00% Convertible Senior Notes due 2027, or the 2027 Notes, in September and December 2025. 
+ (Provision for) Benefit from Income Taxes 
+ (Provision for) benefit from income taxes was as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended December 31, 
+ 
+ 2025 vs 2024 
+ 
+ 2024 vs 2023 
+ 
+ 
+ (In thousands, except percentages) 
+ 2025 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ $ Change 
+ 
+ % Change 
+ 
+ $ Change 
+ 
+ % Change 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (Provision for) benefit from income taxes 
+ $ 
+ (9,405) 
+ 
+ 
+ $ 
+ 99,218 
+ 
+ 
+ $ 
+ (6,725) 
+ 
+ 
+ $ 
+ (108,623) 
+ 
+ 
+ * 
+ 
+ $ 
+ 105,943 
+ 
+ 
+ * 
+ 
+ 
+ * Not meaningful 
+ We recorded a provision for income taxes of $9.4 million for the year ended December 31, 2025 and a benefit from income taxes of $99.2 million for the year ended December 31, 2024. The provision for income taxes for the year ended December 31, 2025 primarily related to U.S. state income taxes, utilization of Switzerland net deferred tax assets, as well as taxable income from jurisdictions in which we are subject to tax. For the year ended December 31, 2025, we maintained a full valuation allowance against our net deferred tax assets in the U.S. Based on our recent financial performance and our future projections, we could record a reversal of all or a portion of the U.S. valuation allowance within the foreseeable future. However, any such change is subject to actual performance and other considerations that may present positive or negative evidence at the time of the assessment. 
+ 
+ Liquidity and Capital Resources 
+ The following table summarizes our cash flow activities: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Years Ended December 31, 
+ 
+ 
+ $ Change 
+ 
+ 
+ 
+ (In thousands) 
+ 2025 
+ 
+ 2024 
+ 
+ 2023 
+ 
+ 2025 vs 2024 
+ 
+ 2024 vs 2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net cash provided by (used in): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating activities 
+ $ 
+ 524,080 
+ 
+ 
+ $ 
+ (8,312) 
+ 
+ 
+ $ 
+ 104,156 
+ 
+ 
+ $ 
+ 532,392 
+ 
+ 
+ 
+ 
+ $ 
+ (112,468) 
+ 
+ 
+ 
+ 
+ Investing activities 
+ $ 
+ 436,329 
+ 
+ 
+ $ 
+ (116,840) 
+ 
+ 
+ $ 
+ (336,350) 
+ 
+ 
+ $ 
+ 553,169 
+ 
+ 
+ 
+ 
+ $ 
+ 219,510 
+ 
+ 
+ 
+ 
+ Financing activities 
+ $ 
+ (305,190) 
+ 
+ 
+ $ 
+ 294,159 
+ 
+ 
+ $ 
+ 172,131 
+ 
+ 
+ $ 
+ (599,349) 
+ 
+ 
+ 
+ 
+ $ 
+ 122,028 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Operating Activities 
+ During the year ended December 31, 2025, net cash provided by operating activities was $524.1 million, whereas during the year ended December 31, 2024 net cash used in operating activities was $8.3 million. This was primarily driven by stronger cash receipts from increased product sales during the year ended December 31, 2025, as compared to the year ended December 31, 2024, partially offset by increased employee compensation costs and higher interest payments. 
+ Investing Activities 
+ During the year ended December 31, 2025, net cash provided by investing activities was $436.3 million, whereas during the year ended December 31, 2024 net cash used in investing activities was $116.8 million. This was primarily attributed to the timing of sales, maturities, and purchases of our marketable securities during the year ended December 31, 2025, as compared to the year ended December 31, 2024. 
+ Financing Activities 
+ During the year ended December 31, 2025, net cash used in financing activities was $305.2 million, whereas during the year ended December 31, 2024 net cash provided by financing activities was $294.2 million. This was primarily due to $1.15 billion paid for the repurchase of $672.2 million aggregate principal amount of our 2027 Notes during the year ended December 31, 2025, partially offset by $645.7 million of net proceeds from our offering of the 0.00% Convertible Senior Notes due 2028 in the aggregate principal amount of $661.3 million, $35.3 million of which was used to pay the cost of the related capped call transactions. Additionally, we collected lower net proceeds from the issuance of common stock in connection with stock option exercises during the year ended December 31, 2025, as compared to the year ended December 31, 2024. 
+ 
+ 
+ 87 
+ 
+ Table of Contents 
+ Additional Capital Requirements 
+ We currently have programs focused in many therapeutic areas and, as of December 31, 2025, have six marketed products, including two products commercialized by collaborators. However, our ongoing development efforts may not be successful and we may not be able to commence sales of any other products in the future. In addition, we may incur additional operating losses as a result of planned expenditures for research and development activities relating to our research platform, our drug development programs, including clinical trial and manufacturing costs, the continued build-out of late-stage clinical, manufacturing, commercial and compliance capabilities, including global operations, continued management and growth of our intellectual property, including our patent portfolio, collaborations and general corporate activities. 
+ Based on our current operating plan, we believe that our cash, cash equivalents, marketable securities, as well as the revenue we expect to generate from product sales and under our existing collaborations, including royalties on sales of Leqvio and Qfitlia, and available borrowing capacity under the revolving credit agreement as of December 31, 2025 will be sufficient to satisfy our near-term capital and operating needs for at least 12 months from the filing of this Annual Report on Form 10-K. Recent and expected working and other capital requirements, in addition to the above matters, also include the items described below: 
+ • Amounts related to future lease payments for operating lease obligations as of December 31, 2025 totaled $366.3 million, with $48.1 million expected to be paid within the next 12 months. 
+ • Cash outflows for capital expenditures were $58.7 million in 2025 and $34.3 million in 2024. We expect capital expenditures to increase in 2026 to support the increase in our manufacturing and production capacity needs. 
+ • As of December 31, 2025, the carrying value of our convertible debt was $1.01 billion, of which we do not expect to make payments on principal within the next 12 months. 
+ • Payments to Blackstone associated with the liability related to the sale of future Leqvio royalties were $118.0 million in 2025, with an estimated $126.7 million to be paid within the next 12 months. 
+ • Payments associated with an achieved development milestone for the zilebesiran development funding liability due to Blackstone were $21.1 million in 2025, with the same amount expected to be paid within the next 12 months. Payments associated with an achieved development milestone for the vutrisiran development funding liability due to Blackstone were $65.6 million in 2025, and we expect to pay $87.5 million within the next 12 months. 
+ Since we commenced operations in 2002, we have generated significant losses and as of December 31, 2025, we had an accumulated deficit of $6.70 billion. As of December 31, 2025, we had cash, cash equivalents and marketable securities of $2.91 billion, compared to $2.69 billion as of December 31, 2024. 
+ Due to numerous factors described in more detail under the caption Part I, ITEM 1A, “Risk Factors” of this Annual Report on Form 10-K, we may require significant additional funds earlier than we currently expect in order to continue to commercialize AMVUTTRA, ONPATTRO, GIVLAARI and OXLUMO, and to develop, conduct clinical trials for, manufacture and, if approved, commercialize additional product candidates. 
+ 
+ Critical Accounting Policies and Estimates 
+ Our discussion and analysis of our financial condition and results of operations is based on our consolidated financial statements, which have been prepared in accordance with GAAP. The preparation of our consolidated financial statements requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses, and disclosure of contingent assets and liabilities in our consolidated financial statements. Actual results may differ from these estimates under different assumptions or conditions and could have a material impact on our reported results. While our significant accounting policies are more fully described in the Notes to our consolidated financial statements included elsewhere in this Annual Report on Form 10-K, we believe the following accounting policies to be the most critical in understanding the judgments and estimates we use in preparing our consolidated financial statements: 
+ Net Product Revenues 
+ Our net product revenues are recognized, net of variable consideration related to certain allowances and accruals, at the time the customer obtains control of our product. We record reserves, based on contractual terms, for components related to product sold during the reporting period, as well as our estimate of product that remains in the distribution channel inventory at the end of the reporting period that we expect will be sold to qualified healthcare providers. On a quarterly basis, we update our estimates and record any needed adjustments in the period we identify the adjustments. 
+ The estimates for our product revenue allowances and accruals are most significantly affected by chargebacks, which are contractual commitments with the government and other entities to sell products to qualified healthcare providers at prices lower than the list prices charged to the customer who directly purchases from us, and rebates that represent discount obligations under government programs, including Medicare and Medicaid in the U.S. and similar programs in certain other countries, including countries in which we are accruing for estimated rebates because final pricing has not yet been negotiated. 
+ 
+ 
+ 88 
+ 
+ Table of Contents 
+ We are also subject to potential rebates in connection with our value-based agreements, or VBAs, with certain commercial payors. 
+ We use the expected value method, which is the sum of probability-weighted amounts in a range of possible consideration amounts, or the most likely amount method, which is the single most likely amount in a range of possible considerations, to estimate variable consideration related to our product revenues. We use the expected value method to estimate variable consideration for chargebacks, certain rebates, and other incentives and we use the most likely amount method for certain rebates and trade discounts and allowances. 
+ Net Revenues from Collaborations 
+ We earn revenue in connection with collaboration agreements which allow our collaborators to utilize our technology platforms and develop product candidates. 
+ For elements of collaboration arrangements that are accounted for pursuant to Accounting Standards Codification Topic 606, Revenue from Contracts with Customers , or ASC 606, we identify the performance obligations and allocate the total consideration we expect to receive on a relative standalone selling price basis to each performance obligation. Key assumptions to determine the standalone selling price may include forecasted revenues, development timelines, reimbursement rates for personnel costs, the expected number of targets or indications expected to be pursued under each license, discount rates and probabilities of technical and regulatory success. We recognize revenue associated with each performance obligation as the control over the promised goods or services transfer to our collaborator which occurs either at a point in time or over time. If control transfers over time, revenue is recognized by using a method of measuring progress that best depicts the transfer of goods or services, for example based on actual costs incurred relative to total forecasted costs to be incurred over the period the transfer of goods or services occurs. We evaluate the measure of progress and related inputs each reporting period and any resulting adjustments to revenue are recorded on a cumulative catch-up basis. Revenue to be recognized is equal to the total transaction price multiplied by the ratio of actual expense incurred divided by total forecasted expense. 
+ Liabilities Related to the Sale of Future Royalties and Development Funding 
+ We account for the liabilities related to the sale of future royalties and development funding as debt financings. Interest on these liabilities is recognized using the effective interest rate method over the life of the related repayment period. 
+ The liabilities related to the sale of future royalties and development funding and the related interest expense are based on our current estimates of future royalties and milestones expected to be paid and received over the life of the arrangement, which we determine by using third-party data to estimate Leqvio’s and AMVUTTRA’s global net revenues. We periodically assess the expected payments and to the extent the amount or timing of our future estimated payments is materially different than our previous estimates, we account for any such change by prospectively adjusting the effective interest rate and related non-cash interest expense. 
+ An increase or decrease of 10% to the interest rate would result in an increase or decrease to our liability related to the sale of future royalties and development funding of approximately $42.1 million as of December 31, 2025. If realized, the change in value would affect interest expense over the remaining life of the agreements. 
+ 
+ Recent Accounting Pronouncements 
+ Please read Note 2, Summary of Significant Accounting Policies, to our consolidated financial statements included in Part II, ITEM 8, “Financial Statements and Supplementary Data” of this Annual Report on Form 10-K for a description of recent accounting pronouncements. 
+ 
